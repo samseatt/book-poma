@@ -1,0 +1,26 @@
+/* Opening material is deliberately distinct from the Quarto title block. */
+.chapter-opening,
+.book-open {
+  max-width: 42rem;
+  margin: 1.5rem auto 2.25rem;
+  text-align: center;
+}
+
+.chapter-opening img,
+.book-open img {
+  display: block;
+  margin: 0.5rem auto 1.25rem;
+}
+
+.chapter-opening p,
+.book-open p {
+  margin-bottom: 0.85rem;
+}
+
+.book-open {
+  max-width: 38rem;
+}
+
+.book-open img + p {
+  margin-top: 1.5rem;
+}

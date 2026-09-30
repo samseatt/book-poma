@@ -1,0 +1,16 @@
+# Cover Page {.unnumbered}
+
+::: {.chapter-opening}
+
+![](content/front-matter/assets/front-matter/image-01.png){width="1.1158311461067367in" height="2.380837707786527in"}
+
+*(Reimagining Civilization in the Age of AI)*
+
+:::
+
+*"We cannot solve our problems with the same thinking we used when we created them."*\
+--- Albert Einstein
+
+*Unpublished Preview*
+
+Guten Ink

@@ -1,0 +1,8 @@
+_book/
+.quarto/
+.quarto-backups/
+.DS_Store
+
+/.quarto/
+content/
+content-manifest.json
