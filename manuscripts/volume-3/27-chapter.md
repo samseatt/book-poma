@@ -4,7 +4,7 @@ CHAPTER 27
 
 # The Reclaimed Commons
 
-*Data, Nature, and Scientific Trust*
+*Data, Nature, and Shared Ground*
 
 *X-ORGS*
 

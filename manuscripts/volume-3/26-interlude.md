@@ -2,7 +2,7 @@
 
 INTERLUDE 26
 
-# Signal & Story
+# Signal and Story
 
 *Cognitive Architectures for a Wise Infosphere*
 

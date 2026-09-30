@@ -4,7 +4,7 @@ CHAPTER 29
 
 # The Steward's Edge
 
-*Redefining Governance and Citizenship*
+*Governance as Co-Authorship*
 
 *NGOC8 & C4A*
 

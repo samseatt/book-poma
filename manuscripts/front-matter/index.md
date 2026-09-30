@@ -226,11 +226,11 @@ Design after diagnosis. Volume III turns Neusphere from missing organ into archi
 
 Ryan's bow before a face on glass becomes the threshold image for continuity, reverence, myth, mechanism, editable reality, and the moment when the basket stops being something we clutch and becomes something we build.
 
-## Chapter Θ. The Design Horizon --- Principles for Reweaving Civilization
+## Chapter Θ. The Architect's Pause --- Design After Diagnosis
 
 The design compass. Introduces design as moral work after diagnosis, names Neusphere as the missing civic organ, and establishes the Design Loom: humane over merely efficient, adaptive over rigid, plural over flattening, sensed over assumed, stewarded over exploited, simulated before scaled, augmentative over substitutive.
 
-**Interlude Θ. The Architect's Pause --- Design Constraints Before Design Ambition**
+**Interlude Θ. The Architect's Bench --- C4A and the Three Empires**
 
 The builder's oath and builder's chest. Introduces the Builder's Loom: boundary, state, signal, consent and agency, Node/Edge/Mesh grammar, governance, recourse, anti-capture, resilience, simulation-before-deployment, observability without domination, and alignment/update. Tierra Ora serves as a breadboard for testing design choices, not as a platform pitch.
 
@@ -278,7 +278,7 @@ Builder focus: data stewardship, biological/genomic commons, ecological data tru
 
 Design vertebra: regenerative making. Production reimagined as responsibility: material, energy, labor, waste, local and distributed capacity, repair, reuse, regeneration, and sustainable making.
 
-**Interlude 28. Neufacturing --- Biofabrication and Regenerative Matter**
+**Interlude 28. Neufacturing --- Biofabrication and Architectures of Regenerative Matter**
 
 Builder focus: distributed fabrication, parametric design, material passports, circular supply chains, regenerative materials, biofabrication ethics, energy accounting, and repairability by design.
 
@@ -302,7 +302,7 @@ Builder focus: fairness constraints, auditability, contestable automated decisio
 
 Design vertebra: adaptive care. Care as longitudinal, relational, contextual, and attentive: the whole patient, clinician-family-system loops, AI as clinical companion, and presence over throughput.
 
-**Interlude 31. From Molecule to Moment --- Precision Medicine in the NEURO Age**
+**Interlude 31. From Molecule to Moment --- Precision Medicine in the Age of Pattern Stewardship**
 
 Builder focus: digital twins without reductionism, genomics, labs, wearables, medications, symptoms, context, uncertainty display, escalation paths, clinical recourse, and safety provenance.
 
@@ -310,15 +310,15 @@ Builder focus: digital twins without reductionism, genomics, labs, wearables, me
 
 Design vertebra: continuity / memory. Inheritance, ritual, archives, intergenerational meaning, semantic continuity, and what civilizations choose to preserve, renew, or finally release.
 
-**Interlude 32. Encoding the Eternal --- Ontologies, Archives, and Memory Infrastructure**
+**Interlude 32. Encoding the Eternal --- Semantic Memory and Cultural Continuity**
 
 Builder focus: ontology design, knowledge graphs, archival resilience, future-proofed memory, semantic continuity, provenance, and memory infrastructure that does not fossilize life.
 
-## Chapter 33. The Arrow's Release --- Becoming the Weavers
+## Chapter 33. The Arrow's Release --- Designing Without Possessing the Future
 
 Design vertebra: simulation / enactment / release. The culmination of inhabitation: choosing the thread, joining the new layer, collective cognition without uniformity, and releasing the arrow deliberately.
 
-**Interlude 33. Reality Bubbles --- Simulation, Rehearsal, and the Sacred Burden of Design**
+**Interlude 33. Machines as Mirrors --- Simulation as Sacred Act**
 
 Builder focus: simulation as rehearsal, sandboxed futures, inhabited worlds, AI and systems as future-holding media, and the sacred responsibility of making realities others may live inside.
 

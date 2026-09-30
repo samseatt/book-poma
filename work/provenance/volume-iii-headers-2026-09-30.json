@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-30",
+  "based_on_commit": "17229817fa657608a77753939371174b2eb45c7e",
+  "scope": "Volume III chapter/interlude title and subtitle consistency; corresponding contents labels and explicit Theta closing signpost.",
+  "decision": "Adopt the author-supplied map throughout after checking its fit to the current drafts; retain portable Markdown apostrophes.",
+  "headers": [
+    {
+      "path": "manuscripts/volume-3/theta-chapter.md",
+      "current_number": "Θ",
+      "kind": "chapter",
+      "title": "The Architect's Pause",
+      "subtitle": "Design After Diagnosis",
+      "changed": true,
+      "before_title_line": "# The Design Horizon",
+      "before_subtitle_line": "*Principles for Re-weaving Civilization*",
+      "before_sha256": "503797bce133c40050297aea29f64f24b10923c735f5099eae3712538561cdb2",
+      "after_sha256": "ea10d9013869a22e3b9ede6e49ce64b694bc0c76ba115889edd2790bb80c0dfb",
+      "closing_signpost": {
+        "before": "## Toward the Architect's Pause",
+        "after": "## Toward the Architect's Bench"
+      }
+    },
+    {
+      "path": "manuscripts/volume-3/theta-interlude.md",
+      "current_number": "Θ",
+      "kind": "interlude",
+      "title": "The Architect's Bench",
+      "subtitle": "C4A and the Three Empires",
+      "changed": true,
+      "before_title_line": "# The Architect's Pause",
+      "before_subtitle_line": "*Design Constraints Before Design Ambition*",
+      "before_sha256": "40d0530ebd7be626c3cd4d41cfb7178e272c9f48544271f89a8c677470a847cf",
+      "after_sha256": "220309b1a809360bbcbdf6e86cf7f59ad20420dabdbb21003868b6dc03c138d4"
+    },
+    {
+      "path": "manuscripts/volume-3/23-chapter.md",
+      "current_number": "23",
+      "kind": "chapter",
+      "title": "The Loom of Renewal",
+      "subtitle": "From Fracture to Form",
+      "changed": true,
+      "before_title_line": "# The Loom of Renewal",
+      "before_subtitle_line": "*From Fracture to Framework*",
+      "before_sha256": "3ef1d3a63f1d49f9fa26378b8ac3c73f23e2c77618e0509c6bdbf6b902f5b11a",
+      "after_sha256": "a7d732cba441edf5a1d26872120b2c2ce0c6cdf2d32feecb99f112e9eb9d4a1d"
+    },
+    {
+      "path": "manuscripts/volume-3/23-interlude.md",
+      "current_number": "23",
+      "kind": "interlude",
+      "title": "The Loom of Design",
+      "subtitle": "Ethical Systems Thinking for Builders",
+      "changed": false,
+      "before_title_line": "# The Loom of Design",
+      "before_subtitle_line": "*Ethical Systems Thinking for Builders*",
+      "before_sha256": "5d6853a04d96d3a0aa6aa2e08425595875697740f61e259ddf7bb73795b0999b",
+      "after_sha256": "5d6853a04d96d3a0aa6aa2e08425595875697740f61e259ddf7bb73795b0999b"
+    },
+    {
+      "path": "manuscripts/volume-3/24-chapter.md",
+      "current_number": "24",
+      "kind": "chapter",
+      "title": "The Citizen's Dilemma",
+      "subtitle": "Agency, Trust, and Life Inside the New Mesh",
+      "changed": false,
+      "before_title_line": "# The Citizen's Dilemma",
+      "before_subtitle_line": "*Agency, Trust, and Life Inside the New Mesh*",
+      "before_sha256": "157464d5675fc4de1bbbd00fd0e7f59c96b9d3ccacaaf60d669397640019653f",
+      "after_sha256": "157464d5675fc4de1bbbd00fd0e7f59c96b9d3ccacaaf60d669397640019653f"
+    },
+    {
+      "path": "manuscripts/volume-3/24-interlude.md",
+      "current_number": "24",
+      "kind": "interlude",
+      "title": "The Developer's Dilemma",
+      "subtitle": "Building Without Becoming the New Tyrant",
+      "changed": false,
+      "before_title_line": "# The Developer's Dilemma",
+      "before_subtitle_line": "*Building Without Becoming the New Tyrant*",
+      "before_sha256": "de4a5dda322e7273deb8585bfbac92b4c05f35602df82b5f056f105a41107efe",
+      "after_sha256": "de4a5dda322e7273deb8585bfbac92b4c05f35602df82b5f056f105a41107efe"
+    },
+    {
+      "path": "manuscripts/volume-3/25-chapter.md",
+      "current_number": "25",
+      "kind": "chapter",
+      "title": "Beyond the Invisible Hand",
+      "subtitle": "Toward a Humane Economy",
+      "changed": false,
+      "before_title_line": "# Beyond the Invisible Hand",
+      "before_subtitle_line": "*Toward a Humane Economy*",
+      "before_sha256": "e852353b6556764030b6b7f65a30bc49a7693e5d6ba2a34c63f18d096504c2ee",
+      "after_sha256": "e852353b6556764030b6b7f65a30bc49a7693e5d6ba2a34c63f18d096504c2ee"
+    },
+    {
+      "path": "manuscripts/volume-3/25-interlude.md",
+      "current_number": "25",
+      "kind": "interlude",
+      "title": "The Living Ledger",
+      "subtitle": "Dynamic Value Flows and DAG Economies",
+      "changed": false,
+      "before_title_line": "# The Living Ledger",
+      "before_subtitle_line": "*Dynamic Value Flows and DAG Economies*",
+      "before_sha256": "b5bf9abe832c360794f8c42dd03fa94ecf2492b14d0c53d070df4c7ccd80b38e",
+      "after_sha256": "b5bf9abe832c360794f8c42dd03fa94ecf2492b14d0c53d070df4c7ccd80b38e"
+    },
+    {
+      "path": "manuscripts/volume-3/26-chapter.md",
+      "current_number": "26",
+      "kind": "chapter",
+      "title": "Minds in Harmony",
+      "subtitle": "Learning, Meaning, and Shared Reality",
+      "changed": false,
+      "before_title_line": "# Minds in Harmony",
+      "before_subtitle_line": "*Learning, Meaning, and Shared Reality*",
+      "before_sha256": "9655cf47fe3b56a6230d94a5469e63230163e019d778ac25e7a360fa2e7498b6",
+      "after_sha256": "9655cf47fe3b56a6230d94a5469e63230163e019d778ac25e7a360fa2e7498b6"
+    },
+    {
+      "path": "manuscripts/volume-3/26-interlude.md",
+      "current_number": "26",
+      "kind": "interlude",
+      "title": "Signal and Story",
+      "subtitle": "Cognitive Architectures for a Wise Infosphere",
+      "changed": true,
+      "before_title_line": "# Signal & Story",
+      "before_subtitle_line": "*Cognitive Architectures for a Wise Infosphere*",
+      "before_sha256": "72b540c7db9e6e4a49eed85603ebd44141dbd872f4c289a93aa2fd0290b54deb",
+      "after_sha256": "75f08df94b7c55f29066a70be5d240ec91862a28304970dea4a9af129db2286e"
+    },
+    {
+      "path": "manuscripts/volume-3/27-chapter.md",
+      "current_number": "27",
+      "kind": "chapter",
+      "title": "The Reclaimed Commons",
+      "subtitle": "Data, Nature, and Shared Ground",
+      "changed": true,
+      "before_title_line": "# The Reclaimed Commons",
+      "before_subtitle_line": "*Data, Nature, and Scientific Trust*",
+      "before_sha256": "9de8b307430d713837009ec005c0ab1df59af8cb0ae28b4a9f52f1a979120877",
+      "after_sha256": "7407fa734e954249d6ce9a57a3943c95e96f382aa477d6e36055e3757db6c038"
+    },
+    {
+      "path": "manuscripts/volume-3/27-interlude.md",
+      "current_number": "27",
+      "kind": "interlude",
+      "title": "Streams and Sanctuaries",
+      "subtitle": "Governing the Informational and Biological Commons",
+      "changed": false,
+      "before_title_line": "# Streams and Sanctuaries",
+      "before_subtitle_line": "*Governing the Informational and Biological Commons*",
+      "before_sha256": "601bb18e09d739d698bf21287e1670d1103522c4a5997fc700be00510777ab63",
+      "after_sha256": "601bb18e09d739d698bf21287e1670d1103522c4a5997fc700be00510777ab63"
+    },
+    {
+      "path": "manuscripts/volume-3/28-chapter.md",
+      "current_number": "28",
+      "kind": "chapter",
+      "title": "The Reimagined Workshop",
+      "subtitle": "Making as Stewardship",
+      "changed": false,
+      "before_title_line": "# The Reimagined Workshop",
+      "before_subtitle_line": "*Making as Stewardship*",
+      "before_sha256": "c69bd5faf08730a0b8ca70768de8367c7d3e62378de959109e263f7a0315ab92",
+      "after_sha256": "c69bd5faf08730a0b8ca70768de8367c7d3e62378de959109e263f7a0315ab92"
+    },
+    {
+      "path": "manuscripts/volume-3/28-interlude.md",
+      "current_number": "28",
+      "kind": "interlude",
+      "title": "Neufacturing",
+      "subtitle": "Biofabrication and Architectures of Regenerative Matter",
+      "changed": false,
+      "before_title_line": "# Neufacturing",
+      "before_subtitle_line": "*Biofabrication and Architectures of Regenerative Matter*",
+      "before_sha256": "eb18d9e9dc9100d4b5a410d1ece12006bb18d14a01977e1eef2242ab83ae47ea",
+      "after_sha256": "eb18d9e9dc9100d4b5a410d1ece12006bb18d14a01977e1eef2242ab83ae47ea"
+    },
+    {
+      "path": "manuscripts/volume-3/29-chapter.md",
+      "current_number": "29",
+      "kind": "chapter",
+      "title": "The Steward's Edge",
+      "subtitle": "Governance as Co-Authorship",
+      "changed": true,
+      "before_title_line": "# The Steward's Edge",
+      "before_subtitle_line": "*Redefining Governance and Citizenship*",
+      "before_sha256": "732e3cd98131e03dbad98814501a05e6fed943871656c46a8e56a79542b85e73",
+      "after_sha256": "210f8e0c1aacde39cf3a1ed252c324ceb12a1afa5204e0908ddc17df6ee5397a"
+    },
+    {
+      "path": "manuscripts/volume-3/29-interlude.md",
+      "current_number": "29",
+      "kind": "interlude",
+      "title": "Civic Meshes",
+      "subtitle": "Identity, Federation, and Protocol Governance",
+      "changed": false,
+      "before_title_line": "# Civic Meshes",
+      "before_subtitle_line": "*Identity, Federation, and Protocol Governance*",
+      "before_sha256": "6b31e93d96361cec9e30687a362bedf66ed0ab5b85c95c6ff640e43e05874d57",
+      "after_sha256": "6b31e93d96361cec9e30687a362bedf66ed0ab5b85c95c6ff640e43e05874d57"
+    },
+    {
+      "path": "manuscripts/volume-3/30-chapter.md",
+      "current_number": "30",
+      "kind": "chapter",
+      "title": "Justice Before Judgment",
+      "subtitle": "Living Inside Fair Systems",
+      "changed": true,
+      "before_title_line": "# Justice Before Judgement",
+      "before_subtitle_line": "*Living Inside Fair Systems*",
+      "before_sha256": "05b4016b8c2045f0d506c205d7c292be6a9080f55223bec1a71ee852499e206a",
+      "after_sha256": "40973a46db09dcea3506d15450e4ce60e77508f0ef7688e30f347cbc33943686"
+    },
+    {
+      "path": "manuscripts/volume-3/30-interlude.md",
+      "current_number": "30",
+      "kind": "interlude",
+      "title": "Protocols of Integrity",
+      "subtitle": "Designing Fairness into Systems",
+      "changed": false,
+      "before_title_line": "# Protocols of Integrity",
+      "before_subtitle_line": "*Designing Fairness into Systems*",
+      "before_sha256": "fe1173ebe77d959a1cf7950bbab3a3794a0a561490b01e70328f086ce750341e",
+      "after_sha256": "fe1173ebe77d959a1cf7950bbab3a3794a0a561490b01e70328f086ce750341e"
+    },
+    {
+      "path": "manuscripts/volume-3/31-chapter.md",
+      "current_number": "31",
+      "kind": "chapter",
+      "title": "The Flow of Care",
+      "subtitle": "Health as Presence, Pattern, and Partnership",
+      "changed": true,
+      "before_title_line": "# The Flow of Care",
+      "before_subtitle_line": "*Health as an Emergent State*",
+      "before_sha256": "a78f36c8e9d847f0fedddc8eb5fa77cc9a7546aa38872f540eaa9b9a92bfe23a",
+      "after_sha256": "861a11e402575cbeaf7fb0ecf97654d932862994e3ea3f7547b66a72abb7d50d"
+    },
+    {
+      "path": "manuscripts/volume-3/31-interlude.md",
+      "current_number": "31",
+      "kind": "interlude",
+      "title": "From Molecule to Moment",
+      "subtitle": "Precision Medicine in the Age of Pattern Stewardship",
+      "changed": true,
+      "before_title_line": "# *From Molecule to Moment*",
+      "before_subtitle_line": "*Precision Medicine in the Age of Pattern Stewardship*",
+      "before_sha256": "01ac2111237343466d9c7d36155b6f69cf42909d322a1a17d5118a589601b30b",
+      "after_sha256": "00db21f10b9f9afea3f63bcea3237d6894a913cba3d0dd283cad462d64a378e3"
+    },
+    {
+      "path": "manuscripts/volume-3/32-chapter.md",
+      "current_number": "32",
+      "kind": "chapter",
+      "title": "Threads of Continuity",
+      "subtitle": "Culture, Memory, and the Long Now",
+      "changed": true,
+      "before_title_line": "# The Threads of Continuity",
+      "before_subtitle_line": "*Culture, Memory, and the Long Now*",
+      "before_sha256": "ad9006cf4377884b2c67bbdc19f8a6d13514687fbc5822cd69c35a39431d56f7",
+      "after_sha256": "25c1a0ec1e8bfbc98a8956d1ce4cb046e5a8735fcb5dce3c8e891d19c58f7734"
+    },
+    {
+      "path": "manuscripts/volume-3/32-interlude.md",
+      "current_number": "32",
+      "kind": "interlude",
+      "title": "Encoding the Eternal",
+      "subtitle": "Semantic Memory and Cultural Continuity",
+      "changed": false,
+      "before_title_line": "# Encoding the Eternal",
+      "before_subtitle_line": "*Semantic Memory and Cultural Continuity*",
+      "before_sha256": "08a78b0c103ca9575160de3b8b52e1634cc1d92ff2af6ccd5d8dac1361a141ff",
+      "after_sha256": "08a78b0c103ca9575160de3b8b52e1634cc1d92ff2af6ccd5d8dac1361a141ff"
+    },
+    {
+      "path": "manuscripts/volume-3/33-chapter.md",
+      "current_number": "33",
+      "kind": "chapter",
+      "title": "The Arrow's Release",
+      "subtitle": "Designing Without Possessing the Future",
+      "changed": true,
+      "before_title_line": "# The Arrow's Release",
+      "before_subtitle_line": "*Weavers of the Singular Thread*",
+      "before_sha256": "4f8ba4d110982bd4931ff89c46c4fb16ad85eb42a4187d27fdc8a09df5ca6e03",
+      "after_sha256": "010eea9c7483b8198b527648bda348fbc104964e82a6ca3128108d60b4a2c599"
+    },
+    {
+      "path": "manuscripts/volume-3/33-interlude.md",
+      "current_number": "33",
+      "kind": "interlude",
+      "title": "Machines as Mirrors",
+      "subtitle": "Simulation as Sacred Act",
+      "changed": false,
+      "before_title_line": "# Machines as Mirrors",
+      "before_subtitle_line": "*Simulation as Sacred Act*",
+      "before_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "after_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31"
+    }
+  ],
+  "contents_listing": {
+    "path": "manuscripts/front-matter/index.md",
+    "before_sha256": "5a6a45078ab3275b17d1ec13f5a23d818756da85e424401df1b369aa84ffdb4c",
+    "after_sha256": "9e7c5baca515b7e5d2bd93d1454ad048a50d2c3966378e8eceb7d86021c0546b",
+    "changed_entries": [
+      {
+        "before": "## Chapter Θ. The Design Horizon --- Principles for Reweaving Civilization",
+        "after": "## Chapter Θ. The Architect's Pause --- Design After Diagnosis"
+      },
+      {
+        "before": "**Interlude Θ. The Architect's Pause --- Design Constraints Before Design Ambition**",
+        "after": "**Interlude Θ. The Architect's Bench --- C4A and the Three Empires**"
+      },
+      {
+        "before": "**Interlude 28. Neufacturing --- Biofabrication and Regenerative Matter**",
+        "after": "**Interlude 28. Neufacturing --- Biofabrication and Architectures of Regenerative Matter**"
+      },
+      {
+        "before": "**Interlude 31. From Molecule to Moment --- Precision Medicine in the NEURO Age**",
+        "after": "**Interlude 31. From Molecule to Moment --- Precision Medicine in the Age of Pattern Stewardship**"
+      },
+      {
+        "before": "**Interlude 32. Encoding the Eternal --- Ontologies, Archives, and Memory Infrastructure**",
+        "after": "**Interlude 32. Encoding the Eternal --- Semantic Memory and Cultural Continuity**"
+      },
+      {
+        "before": "## Chapter 33. The Arrow's Release --- Becoming the Weavers",
+        "after": "## Chapter 33. The Arrow's Release --- Designing Without Possessing the Future"
+      },
+      {
+        "before": "**Interlude 33. Reality Bubbles --- Simulation, Rehearsal, and the Sacred Burden of Design**",
+        "after": "**Interlude 33. Machines as Mirrors --- Simulation as Sacred Act**"
+      }
+    ]
+  },
+  "preserved": "Chapter numbers, filenames, body prose, discipline labels, epigraphs, images, archived sources and publishing output. The sole additional section-heading change is the recorded Theta signpost.",
+  "validation": {
+    "header_pairs_verified": 24,
+    "contents_entries_verified": 24,
+    "publisher_formatter_checks_passed": 24,
+    "active_source_hashes_verified": 121,
+    "main_prose_unchanged": true,
+    "additional_section_heading_changes": 1,
+    "contents_descriptions_unchanged": true
+  }
+}

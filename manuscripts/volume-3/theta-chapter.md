@@ -2,9 +2,9 @@
 
 CHAPTER Θ
 
-# The Design Horizon
+# The Architect's Pause
 
-*Principles for Re-weaving Civilization*
+*Design After Diagnosis*
 
 *DESIGN*
 
@@ -672,7 +672,7 @@ We are already building.
 
 The question is whether we will notice in time what our building believes.
 
-## Toward the Architect's Pause
+## Toward the Architect's Bench
 
 Chapter Θ has made only the first claim: design is now necessary.
 

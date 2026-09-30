@@ -155,7 +155,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/index.md",
-        "sha256": "5a6a45078ab3275b17d1ec13f5a23d818756da85e424401df1b369aa84ffdb4c"
+        "sha256": "9e7c5baca515b7e5d2bd93d1454ad048a50d2c3966378e8eceb7d86021c0546b"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/2 Index.docx",
       "source_sha256_at_inventory": "3c6732b49f84d630ba0020cb5e5f60a41fd92f8fdc5cfc934aa380b4ffd8f8fe",
@@ -2582,7 +2582,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
-        "sha256": "503797bce133c40050297aea29f64f24b10923c735f5099eae3712538561cdb2"
+        "sha256": "ea10d9013869a22e3b9ede6e49ce64b694bc0c76ba115889edd2790bb80c0dfb"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-c - The Design Horizon - Principles for Re-weaving Civilization.docx",
       "source_sha256_at_inventory": "51d986de7746048d5d439cfa298e3faa63b8cbaa7eaea03362096b322cdbac85",
@@ -2607,7 +2607,11 @@
         "sha256": "0b95485951aeb91331627cdae61b133636b5c1f5f881dbf1dd44675461e36873"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/theta-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/theta-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/theta-chapter.md",
+      "current_header": {
+        "title": "The Architect's Pause",
+        "subtitle": "Design After Diagnosis"
+      }
     },
     {
       "unit_id": "v3-theta-interlude",
@@ -2618,7 +2622,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
-        "sha256": "40d0530ebd7be626c3cd4d41cfb7178e272c9f48544271f89a8c677470a847cf"
+        "sha256": "220309b1a809360bbcbdf6e86cf7f59ad20420dabdbb21003868b6dc03c138d4"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-i - The Architect’s Pause - Before We Build the Future.docx",
       "source_sha256_at_inventory": "8983adc5f712a2ec57c1ef5911983623595d3de816fd8085df631ca0d5f0bf80",
@@ -2648,7 +2652,11 @@
         "sha256": "8db0291f933e850584acb27d6771cee0c596176432381741a5c99784d9eb8959"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/theta-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/theta-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/theta-interlude.md",
+      "current_header": {
+        "title": "The Architect's Bench",
+        "subtitle": "C4A and the Three Empires"
+      }
     },
     {
       "unit_id": "v3-23-open",
@@ -2696,7 +2704,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
-        "sha256": "3ef1d3a63f1d49f9fa26378b8ac3c73f23e2c77618e0509c6bdbf6b902f5b11a"
+        "sha256": "a7d732cba441edf5a1d26872120b2c2ce0c6cdf2d32feecb99f112e9eb9d4a1d"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 23c - The Loom of Renewal - From Fracture to Framework.docx",
       "source_sha256_at_inventory": "bfb613808b37e788da56388f5d187eeb2f881f9d57ee13111b7812a14da91511",
@@ -2727,7 +2735,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/23-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/23-chapter.md",
-      "current_chapter_number": 23
+      "current_chapter_number": 23,
+      "current_header": {
+        "title": "The Loom of Renewal",
+        "subtitle": "From Fracture to Form"
+      }
     },
     {
       "unit_id": "v3-23-interlude",
@@ -2769,7 +2781,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/23-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/23-interlude.md",
-      "current_chapter_number": 23
+      "current_chapter_number": 23,
+      "current_header": {
+        "title": "The Loom of Design",
+        "subtitle": "Ethical Systems Thinking for Builders"
+      }
     },
     {
       "unit_id": "v3-24-open",
@@ -2854,7 +2870,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/24-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/24-chapter.md",
-      "current_chapter_number": 24
+      "current_chapter_number": 24,
+      "current_header": {
+        "title": "The Citizen's Dilemma",
+        "subtitle": "Agency, Trust, and Life Inside the New Mesh"
+      }
     },
     {
       "unit_id": "v3-24-interlude",
@@ -2896,7 +2916,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/24-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/24-interlude.md",
-      "current_chapter_number": 24
+      "current_chapter_number": 24,
+      "current_header": {
+        "title": "The Developer's Dilemma",
+        "subtitle": "Building Without Becoming the New Tyrant"
+      }
     },
     {
       "unit_id": "v3-25-open",
@@ -2975,7 +2999,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/25-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/25-chapter.md",
-      "current_chapter_number": 25
+      "current_chapter_number": 25,
+      "current_header": {
+        "title": "Beyond the Invisible Hand",
+        "subtitle": "Toward a Humane Economy"
+      }
     },
     {
       "unit_id": "v3-25-interlude",
@@ -3017,7 +3045,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/25-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/25-interlude.md",
-      "current_chapter_number": 25
+      "current_chapter_number": 25,
+      "current_header": {
+        "title": "The Living Ledger",
+        "subtitle": "Dynamic Value Flows and DAG Economies"
+      }
     },
     {
       "unit_id": "v3-26-open",
@@ -3066,7 +3098,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
-        "sha256": "732e3cd98131e03dbad98814501a05e6fed943871656c46a8e56a79542b85e73"
+        "sha256": "210f8e0c1aacde39cf3a1ed252c324ceb12a1afa5204e0908ddc17df6ee5397a"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 26c - The Steward’s Edge - Redefining Governance and Citizenship.docx",
       "source_sha256_at_inventory": "c912f28f89f919a039b0f8bfc4208808484e3482993d8cdb620d01b500bbf35b",
@@ -3098,7 +3130,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/26-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/29-chapter.md",
       "current_chapter_number": 29,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/26-chapter.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/26-chapter.md",
+      "current_header": {
+        "title": "The Steward's Edge",
+        "subtitle": "Governance as Co-Authorship"
+      }
     },
     {
       "unit_id": "v3-26-interlude",
@@ -3141,7 +3177,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/26-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/29-interlude.md",
       "current_chapter_number": 29,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/26-interlude.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/26-interlude.md",
+      "current_header": {
+        "title": "Civic Meshes",
+        "subtitle": "Identity, Federation, and Protocol Governance"
+      }
     },
     {
       "unit_id": "v3-27-open",
@@ -3189,7 +3229,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
-        "sha256": "9de8b307430d713837009ec005c0ab1df59af8cb0ae28b4a9f52f1a979120877"
+        "sha256": "7407fa734e954249d6ce9a57a3943c95e96f382aa477d6e36055e3757db6c038"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 27c The Reclaimed Commons - Knowledge, Nature, and Digital Space.docx",
       "source_sha256_at_inventory": "151e825fe6960ef50b7618f809dcba4c083c66c7e7bce8558efc156d0cfdf22a",
@@ -3220,7 +3260,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/27-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/27-chapter.md",
-      "current_chapter_number": 27
+      "current_chapter_number": 27,
+      "current_header": {
+        "title": "The Reclaimed Commons",
+        "subtitle": "Data, Nature, and Shared Ground"
+      }
     },
     {
       "unit_id": "v3-27-interlude",
@@ -3262,7 +3306,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/27-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/27-interlude.md",
-      "current_chapter_number": 27
+      "current_chapter_number": 27,
+      "current_header": {
+        "title": "Streams and Sanctuaries",
+        "subtitle": "Governing the Informational and Biological Commons"
+      }
     },
     {
       "unit_id": "v3-28-open",
@@ -3311,7 +3359,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
-        "sha256": "a78f36c8e9d847f0fedddc8eb5fa77cc9a7546aa38872f540eaa9b9a92bfe23a"
+        "sha256": "861a11e402575cbeaf7fb0ecf97654d932862994e3ea3f7547b66a72abb7d50d"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28c - The Flow of Care - Health as an Emergent State.docx",
       "source_sha256_at_inventory": "6aa8c0f70bd4e0b7d5f50b48beae91120bc58c9303f027b585aca10762d67332",
@@ -3343,7 +3391,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/28-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/31-chapter.md",
       "current_chapter_number": 31,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/28-chapter.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/28-chapter.md",
+      "current_header": {
+        "title": "The Flow of Care",
+        "subtitle": "Health as Presence, Pattern, and Partnership"
+      }
     },
     {
       "unit_id": "v3-28-interlude",
@@ -3354,7 +3406,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
-        "sha256": "01ac2111237343466d9c7d36155b6f69cf42909d322a1a17d5118a589601b30b"
+        "sha256": "00db21f10b9f9afea3f63bcea3237d6894a913cba3d0dd283cad462d64a378e3"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28i - From Molecule to Moment — Precision Medicine in the NEURO Age.docx",
       "source_sha256_at_inventory": "53d39e4517a0ba80c12dc42b0aaa53a67d890aba6102e6292caae75539dfa15e",
@@ -3386,7 +3438,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/28-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/31-interlude.md",
       "current_chapter_number": 31,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/28-interlude.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/28-interlude.md",
+      "current_header": {
+        "title": "From Molecule to Moment",
+        "subtitle": "Precision Medicine in the Age of Pattern Stewardship"
+      }
     },
     {
       "unit_id": "v3-29-open",
@@ -3467,7 +3523,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/29-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/28-chapter.md",
       "current_chapter_number": 28,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/29-chapter.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/29-chapter.md",
+      "current_header": {
+        "title": "The Reimagined Workshop",
+        "subtitle": "Making as Stewardship"
+      }
     },
     {
       "unit_id": "v3-29-interlude",
@@ -3510,7 +3570,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/29-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/28-interlude.md",
       "current_chapter_number": 28,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/29-interlude.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/29-interlude.md",
+      "current_header": {
+        "title": "Neufacturing",
+        "subtitle": "Biofabrication and Architectures of Regenerative Matter"
+      }
     },
     {
       "unit_id": "v3-30-open",
@@ -3558,7 +3622,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
-        "sha256": "05b4016b8c2045f0d506c205d7c292be6a9080f55223bec1a71ee852499e206a"
+        "sha256": "40973a46db09dcea3506d15450e4ce60e77508f0ef7688e30f347cbc33943686"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 30c - Justice Before Judgement - Living Inside Fair Systems.docx",
       "source_sha256_at_inventory": "9c803d39850b71f2a5e437512d50f94830eecc0f972d39bee242f6ce2d85a133",
@@ -3589,7 +3653,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/30-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/30-chapter.md",
-      "current_chapter_number": 30
+      "current_chapter_number": 30,
+      "current_header": {
+        "title": "Justice Before Judgment",
+        "subtitle": "Living Inside Fair Systems"
+      }
     },
     {
       "unit_id": "v3-30-interlude",
@@ -3631,7 +3699,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/30-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/30-interlude.md",
-      "current_chapter_number": 30
+      "current_chapter_number": 30,
+      "current_header": {
+        "title": "Protocols of Integrity",
+        "subtitle": "Designing Fairness into Systems"
+      }
     },
     {
       "unit_id": "v3-31-open",
@@ -3712,7 +3784,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/31-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/26-chapter.md",
       "current_chapter_number": 26,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/31-chapter.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/31-chapter.md",
+      "current_header": {
+        "title": "Minds in Harmony",
+        "subtitle": "Learning, Meaning, and Shared Reality"
+      }
     },
     {
       "unit_id": "v3-31-interlude",
@@ -3723,7 +3799,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
-        "sha256": "72b540c7db9e6e4a49eed85603ebd44141dbd872f4c289a93aa2fd0290b54deb"
+        "sha256": "75f08df94b7c55f29066a70be5d240ec91862a28304970dea4a9af129db2286e"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 31i - Signal and Story - Cognitive Architectures for a Wise Infosphere.docx",
       "source_sha256_at_inventory": "5d547966193917cacdac4fafdb59282670b93a7facfa65fafc2b31ef968a48c1",
@@ -3755,7 +3831,11 @@
       "legacy_planned_markdown_path": "draft/volume-iii/31-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/26-interlude.md",
       "current_chapter_number": 26,
-      "pre_renumbering_markdown_path": "manuscripts/volume-3/31-interlude.md"
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/31-interlude.md",
+      "current_header": {
+        "title": "Signal and Story",
+        "subtitle": "Cognitive Architectures for a Wise Infosphere"
+      }
     },
     {
       "unit_id": "v3-32-open",
@@ -3803,7 +3883,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
-        "sha256": "ad9006cf4377884b2c67bbdc19f8a6d13514687fbc5822cd69c35a39431d56f7"
+        "sha256": "25c1a0ec1e8bfbc98a8956d1ce4cb046e5a8735fcb5dce3c8e891d19c58f7734"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 32c - Threads of Continuity – Culture, Memory, and the Long Now.docx",
       "source_sha256_at_inventory": "7e095c87bfdcae5a194a38c1b5ba854a59001cd587639d146a71623c26c08074",
@@ -3834,7 +3914,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/32-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/32-chapter.md",
-      "current_chapter_number": 32
+      "current_chapter_number": 32,
+      "current_header": {
+        "title": "Threads of Continuity",
+        "subtitle": "Culture, Memory, and the Long Now"
+      }
     },
     {
       "unit_id": "v3-32-interlude",
@@ -3876,7 +3960,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/32-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/32-interlude.md",
-      "current_chapter_number": 32
+      "current_chapter_number": 32,
+      "current_header": {
+        "title": "Encoding the Eternal",
+        "subtitle": "Semantic Memory and Cultural Continuity"
+      }
     },
     {
       "unit_id": "v3-33-open",
@@ -3924,7 +4012,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
-        "sha256": "4f8ba4d110982bd4931ff89c46c4fb16ad85eb42a4187d27fdc8a09df5ca6e03"
+        "sha256": "010eea9c7483b8198b527648bda348fbc104964e82a6ca3128108d60b4a2c599"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 33c - The Arrow’s Release - Weavers of the Singular Thread.docx",
       "source_sha256_at_inventory": "bcd2d763abaaadb1f517509587d90d9993a6e67a6149ab1736ff3f3c2dbc001d",
@@ -3960,7 +4048,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/33-chapter.md",
       "canonical_markdown_path": "manuscripts/volume-3/33-chapter.md",
-      "current_chapter_number": 33
+      "current_chapter_number": 33,
+      "current_header": {
+        "title": "The Arrow's Release",
+        "subtitle": "Designing Without Possessing the Future"
+      }
     },
     {
       "unit_id": "v3-33-interlude",
@@ -4011,7 +4103,11 @@
       },
       "legacy_planned_markdown_path": "draft/volume-iii/33-interlude.md",
       "canonical_markdown_path": "manuscripts/volume-3/33-interlude.md",
-      "current_chapter_number": 33
+      "current_chapter_number": 33,
+      "current_header": {
+        "title": "Machines as Mirrors",
+        "subtitle": "Simulation as Sacred Act"
+      }
     },
     {
       "unit_id": "epilogue",
@@ -4140,6 +4236,13 @@
     "identity_policy": "unit_id and original_chapter_id remain stable provenance identifiers; current_chapter_number supplies the display number. Conversion reports and asset directory names retain their original identities.",
     "record": "work/provenance/volume-iii-renumbering-2026-09-30.json",
     "publishing_handoff": "work/publish_process/Volume_III_Renumbering_Handoff.md",
-    "publishing_status": "Publisher must adapt numbering consumers and refresh generated output before the next publication."
+    "publishing_status": "Completed: local publishing pipeline updated in 1722981; author reports deployment 72faa90 live with sequential Volume III numbering. This header revision requires the next author-invoked publication."
+  },
+  "volume_iii_header_review": {
+    "date": "2026-09-30",
+    "status": "reconciled-with-author-supplied-map",
+    "units_reviewed": 24,
+    "record": "work/provenance/volume-iii-headers-2026-09-30.json",
+    "policy": "Current title and subtitle are recorded in current_header and the canonical Markdown. source_heading_preview remains historical Word-inventory metadata."
   }
 }

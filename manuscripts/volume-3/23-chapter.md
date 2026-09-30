@@ -4,7 +4,7 @@ CHAPTER 23
 
 # The Loom of Renewal
 
-*From Fracture to Framework*
+*From Fracture to Form*
 
 *PATTERNS*
 

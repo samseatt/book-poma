@@ -2,9 +2,9 @@
 
 INTERLUDE Θ
 
-# The Architect's Pause
+# The Architect's Bench
 
-*Design Constraints Before Design Ambition*
+*C4A and the Three Empires*
 
 *METHODOLOGY*
 

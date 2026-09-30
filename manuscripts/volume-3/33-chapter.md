@@ -4,7 +4,7 @@ CHAPTER 33
 
 # The Arrow's Release
 
-*Weavers of the Singular Thread*
+*Designing Without Possessing the Future*
 
 > "We are called to be architects of the future, not its victims."\
 > --- **R. Buckminster Fuller**

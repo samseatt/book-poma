@@ -2,7 +2,7 @@
 
 CHAPTER 30
 
-# Justice Before Judgement
+# Justice Before Judgment
 
 *Living Inside Fair Systems*
 

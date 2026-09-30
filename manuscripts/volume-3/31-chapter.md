@@ -4,7 +4,7 @@ CHAPTER 31
 
 # The Flow of Care
 
-*Health as an Emergent State*
+*Health as Presence, Pattern, and Partnership*
 
 *X-MED*
 

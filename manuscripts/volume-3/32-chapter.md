@@ -2,7 +2,7 @@
 
 CHAPTER 32
 
-# The Threads of Continuity
+# Threads of Continuity
 
 *Culture, Memory, and the Long Now*
 

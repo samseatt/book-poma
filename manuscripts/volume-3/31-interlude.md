@@ -2,7 +2,7 @@
 
 INTERLUDE 31
 
-# *From Molecule to Moment*
+# From Molecule to Moment
 
 *Precision Medicine in the Age of Pattern Stewardship*
 
