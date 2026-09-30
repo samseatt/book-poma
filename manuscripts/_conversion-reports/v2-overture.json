@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v2-overture",
+  "kind": "overture",
+  "volume": "II",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/6 -o Overture v2.docx",
+    "archive_path": "archive/docx-originals/volume-2/6 -o Overture v2.docx",
+    "sha256": "ebcb80c9c3c3b1d9e3696bf958a48c571d50765b9cca88c15083719d945f69b4",
+    "bytes": 49685
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-2/overture.md",
+    "sha256": "ce7b5bed79bd4349febeb81b7ea94fa4512d61d2b11e5fe0eb01ecbd29ee8f01",
+    "bytes": 9673
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 1,
+    "markdown_image_reference_count": 1,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 9531,
+    "candidate_plain_characters": 9531,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/volume-2/assets/overture/image-01.jpeg",
+      "sha256": "33f226e0a1220c24c453a78827877835db66e8b5ca6e1632c698b35f38198756",
+      "ownership": "unit-specific"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

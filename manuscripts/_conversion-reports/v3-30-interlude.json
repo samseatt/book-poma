@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v3-30-interlude",
+  "kind": "interlude",
+  "volume": "III",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/7 30i - Protocold of Integrity - Coding Fairness into Systems.docx",
+    "archive_path": "archive/docx-originals/volume-3/7 30i - Protocold of Integrity - Coding Fairness into Systems.docx",
+    "sha256": "5913e1d91b5c1ceec2e156b3b4b050cbd0489c50882ce8d216ccc4768f089309",
+    "bytes": 71688
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-3/30-interlude.md",
+    "sha256": "fe1173ebe77d959a1cf7950bbab3a3794a0a561490b01e70328f086ce750341e",
+    "bytes": 30251
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 1,
+    "markdown_image_reference_count": 1,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 29645,
+    "candidate_plain_characters": 29645,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/assets/shared/interlude-gear.png",
+      "sha256": "f1a212743fd903dcad58514301579a5e0ef691f3c69ba3dcc34782c3f4a638d3",
+      "ownership": "shared"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": true,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

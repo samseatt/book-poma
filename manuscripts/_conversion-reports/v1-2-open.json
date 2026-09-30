@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v1-2-open",
+  "kind": "cold-open",
+  "volume": "I",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/5 2 -Open 02.docx",
+    "archive_path": "archive/docx-originals/volume-1/5 2 -Open 02.docx",
+    "sha256": "2fee0f74e3677945dabd66a1fa12121b1ac841bc242ab1a7dd0dd8e91c89d314",
+    "bytes": 114893
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-1/02-open.md",
+    "sha256": "5c11aff5640d28e605abe2a15df789ed1c530f94fa24768a6fee719effe29b9e",
+    "bytes": 876
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 2,
+    "markdown_image_reference_count": 2,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 798,
+    "candidate_plain_characters": 798,
+    "word_package_notes_parts": {
+      "footnotes_xml": false,
+      "endnotes_xml": false
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/volume-1/assets/02-open/opening.jpeg",
+      "sha256": "1e7dc97aeeffa9851765d9869f4eae80f5ed8d546f01aeddb453388dd31ec5ec",
+      "ownership": "unit-specific"
+    },
+    {
+      "path": "manuscripts/assets/shared/separator.png",
+      "sha256": "8af213714d53e11b65285ca7d626219e6d1ccc80276c96c835dc0f3493dc47b3",
+      "ownership": "shared"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

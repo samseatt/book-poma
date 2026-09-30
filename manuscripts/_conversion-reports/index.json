@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "index",
+  "kind": "index",
+  "volume": null,
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/2 Index.docx",
+    "archive_path": "archive/docx-originals/front-matter/2 Index.docx",
+    "sha256": "3c6732b49f84d630ba0020cb5e5f60a41fd92f8fdc5cfc934aa380b4ffd8f8fe",
+    "bytes": 37576
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/front-matter/index.md",
+    "sha256": "a3524a1b82da24cddea27eee16a261b11dc7fa6dabcd1fbd228cf205fdbb5272",
+    "bytes": 19488
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 0,
+    "markdown_image_reference_count": 0,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 18864,
+    "candidate_plain_characters": 18864,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

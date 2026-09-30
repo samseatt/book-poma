@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "glossary",
+  "kind": "glossary",
+  "volume": null,
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/9 Glossary of Key Concepts in Our Work.docx",
+    "archive_path": "archive/docx-originals/back-matter/9 Glossary of Key Concepts in Our Work.docx",
+    "sha256": "323bb187e823f757adfbbd3b4580a1fc383b2e74c20308a9df18dc49d61d7fd3",
+    "bytes": 14853
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/back-matter/glossary.md",
+    "sha256": "8f7d30cf7b87111708028f8f0d6a1409f5c0318c3946f1e935e84d669437d0a8",
+    "bytes": 2753
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 0,
+    "markdown_image_reference_count": 0,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 2606,
+    "candidate_plain_characters": 2606,
+    "word_package_notes_parts": {
+      "footnotes_xml": false,
+      "endnotes_xml": false
+    }
+  },
+  "assets": [],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

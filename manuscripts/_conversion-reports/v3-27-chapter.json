@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v3-27-chapter",
+  "kind": "chapter",
+  "volume": "III",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/7 27c The Reclaimed Commons - Knowledge, Nature, and Digital Space.docx",
+    "archive_path": "archive/docx-originals/volume-3/7 27c The Reclaimed Commons - Knowledge, Nature, and Digital Space.docx",
+    "sha256": "151e825fe6960ef50b7618f809dcba4c083c66c7e7bce8558efc156d0cfdf22a",
+    "bytes": 65178
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-3/27-chapter.md",
+    "sha256": "9de8b307430d713837009ec005c0ab1df59af8cb0ae28b4a9f52f1a979120877",
+    "bytes": 37250
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 1,
+    "markdown_image_reference_count": 1,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 36680,
+    "candidate_plain_characters": 36680,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/assets/shared/chapter-arrow.png",
+      "sha256": "f732ac23ecdfce5dc1a9070c7858c751cc57e3b1aed335ab3afeddd0550d6cba",
+      "ownership": "shared"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": true,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

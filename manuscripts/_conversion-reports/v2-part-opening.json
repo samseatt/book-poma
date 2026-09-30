@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v2-part-opening",
+  "kind": "part-opening",
+  "volume": "II",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/6 -pII - Part II - The Still Arrow.docx",
+    "archive_path": "archive/docx-originals/volume-2/6 -pII - Part II - The Still Arrow.docx",
+    "sha256": "b716d2e3cb62cac6366c00902d59a42711bd57e8819a0b016e4487e053d3e632",
+    "bytes": 13043
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-2/part-opening.md",
+    "sha256": "bf252a773493c2f16e855c51b2abe9cf766c61b10991ce64ff2286f091390a02",
+    "bytes": 637
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 0,
+    "markdown_image_reference_count": 0,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 616,
+    "candidate_plain_characters": 616,
+    "word_package_notes_parts": {
+      "footnotes_xml": false,
+      "endnotes_xml": false
+    }
+  },
+  "assets": [],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

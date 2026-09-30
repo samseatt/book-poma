@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v1-5-interlude",
+  "kind": "interlude",
+  "volume": "I",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/5 5i - Connected Currents — Computer Networks and Distributed Compuring.docx",
+    "archive_path": "archive/docx-originals/volume-1/5 5i - Connected Currents — Computer Networks and Distributed Compuring.docx",
+    "sha256": "4c453fd3acd71bd64502099ff14a726b5db166e64ca55a36fe86f5a173c52bfa",
+    "bytes": 79777
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-1/05-interlude.md",
+    "sha256": "994adcd219fe675c825773224781ebde97b28325247e157e817c7772ef93907a",
+    "bytes": 20917
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 2,
+    "markdown_image_reference_count": 2,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 20025,
+    "candidate_plain_characters": 20025,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/assets/shared/interlude-gear.png",
+      "sha256": "f1a212743fd903dcad58514301579a5e0ef691f3c69ba3dcc34782c3f4a638d3",
+      "ownership": "shared"
+    },
+    {
+      "path": "manuscripts/assets/shared/separator.png",
+      "sha256": "8af213714d53e11b65285ca7d626219e6d1ccc80276c96c835dc0f3493dc47b3",
+      "ownership": "shared"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": true,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

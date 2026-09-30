@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "epilogue",
+  "kind": "epilogue",
+  "volume": "III",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/8 Epilogue.docx",
+    "archive_path": "archive/docx-originals/back-matter/8 Epilogue.docx",
+    "sha256": "de415eb939b66e133a9fa3b1bd46bce938b51b1a3d869eba36cb6892ae45b2a9",
+    "bytes": 75626
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/back-matter/epilogue.md",
+    "sha256": "005ce06fccb523a0465d7f744e07f1a98382066ab238e79caaeeae478132c688",
+    "bytes": 10734
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 2,
+    "markdown_image_reference_count": 3,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 10499,
+    "candidate_plain_characters": 10499,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/back-matter/assets/epilogue/image-01.png",
+      "sha256": "b3b828ce89a65fd4512b0088df3f0bc44910df2d212303bd620dd056d08bd613",
+      "ownership": "unit-specific"
+    },
+    {
+      "path": "manuscripts/back-matter/assets/epilogue/image-02.png",
+      "sha256": "8af213714d53e11b65285ca7d626219e6d1ccc80276c96c835dc0f3493dc47b3",
+      "ownership": "unit-specific"
+    },
+    {
+      "path": "manuscripts/back-matter/assets/epilogue/image-03.png",
+      "sha256": "8af213714d53e11b65285ca7d626219e6d1ccc80276c96c835dc0f3493dc47b3",
+      "ownership": "unit-specific"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

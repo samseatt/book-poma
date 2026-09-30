@@ -1,0 +1,109 @@
+{
+  "created": "2026-09-29",
+  "status": "proposal-awaiting-author-review",
+  "scope": "Eleven new future-state gates in the current chapter order; no manuscript revision or renumbering.",
+  "proposal": "/Users/samseatt/projects/book-poma/work/VELOCITY_GATES_PROPOSAL.md",
+  "sha256": "868e3f0a1cf99d50c90cce8eb254a833fe17f340b66579d2cdb1a03db8474e2d",
+  "chapter_order": [
+    23,
+    24,
+    25,
+    31,
+    27,
+    29,
+    26,
+    30,
+    28,
+    32,
+    33
+  ],
+  "interval_months": 30,
+  "start": "2029-03-11",
+  "end": "2054-03-11",
+  "baseline_launch_intention": "2029-09-11",
+  "web_sources": [
+    {
+      "title": "Statistics Canada, June 2026",
+      "url": "https://www150.statcan.gc.ca/n1/pub/11-621-m/11-621-m2026010-eng.htm"
+    },
+    {
+      "title": "METR, Time Horizon 1.1",
+      "url": "https://metr.org/blog/2026-1-29-time-horizon-1-1/"
+    },
+    {
+      "title": "International AI Safety Report",
+      "url": "https://internationalaisafetyreport.org/publication/2026-report-executive-summary"
+    },
+    {
+      "title": "METR investigation",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
+    },
+    {
+      "title": "IPCC synthesis headline statements",
+      "url": "https://report.ipcc.ch/ar6syr/headline.html"
+    },
+    {
+      "title": "NIST AI Agent Standards Initiative",
+      "url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure"
+    },
+    {
+      "title": "NIST agent identity and authority concept paper announcement",
+      "url": "https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents"
+    },
+    {
+      "title": "ILO–NASK occupational exposure study",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure"
+    },
+    {
+      "title": "C2PA technical specification, scope and trust model",
+      "url": "https://spec.c2pa.org/specifications/specifications/1.0/specs/C2PA_Specification.html"
+    },
+    {
+      "title": "IEA, April 2026 analysis",
+      "url": "https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions"
+    },
+    {
+      "title": "IFR 2026 release",
+      "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally"
+    },
+    {
+      "title": "Nature, autonomous materials laboratory, updated with a 2026 correction",
+      "url": "https://www.nature.com/articles/s41586-023-06734-w"
+    },
+    {
+      "title": "Brollo and colleagues, IMF staff discussion note",
+      "url": "https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/06/11/broadening-the-gains-from-generative-ai-the-role-of-fiscal-policies-549639"
+    },
+    {
+      "title": "Statistics Canada population scenarios",
+      "url": "https://www150.statcan.gc.ca/n1/pub/17-20-0003/172000032026001-eng.htm"
+    },
+    {
+      "title": "FDA medical AI landscape",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/artificial-intelligence-enabled-medical-devices"
+    },
+    {
+      "title": "NIH personalized gene-editing report",
+      "url": "https://www.nih.gov/news-events/news-releases/infant-rare-incurable-disease-first-successfully-receive-personalized-gene-therapy-treatment"
+    },
+    {
+      "title": "Digital Preservation Coalition, retention and review",
+      "url": "https://www.dpconline.org/handbook/organisational-activities/retention-and-review"
+    },
+    {
+      "title": "Park and colleagues, revised 2026 study",
+      "url": "https://arxiv.org/abs/2411.10109"
+    },
+    {
+      "title": "Butlin and colleagues, consciousness indicators",
+      "url": "https://cris.tau.ac.il/en/publications/identifying-indicators-of-consciousness-in-ai-systems/"
+    }
+  ],
+  "limitations": "Targeted research rather than a systematic review. Sources support baselines and constraints, not exact future dates. Source-specific access and interpretation limits are recorded at the end of the proposal.",
+  "local_context": [
+    "EDITORIAL_CONTEXT.md",
+    "VOLUME_III_READING_NOTES.md",
+    "VOLUME_III_READING_REVIEW.md",
+    "HISTORICAL_ALIGNMENT_REVIEW.md"
+  ]
+}

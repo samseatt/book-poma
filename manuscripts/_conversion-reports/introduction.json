@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "introduction",
+  "kind": "introduction",
+  "volume": null,
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/3 Introduction.docx",
+    "archive_path": "archive/docx-originals/front-matter/3 Introduction.docx",
+    "sha256": "70dd81c626dfacea1e7ea50285e2098dd99af019c082170845b555aa6c80c673",
+    "bytes": 45184
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/front-matter/introduction.md",
+    "sha256": "b26cb3aa2cf12593442b38369e5f50a34f448467f98ff72c878e193394c354db",
+    "bytes": 13720
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 1,
+    "markdown_image_reference_count": 1,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 13359,
+    "candidate_plain_characters": 13359,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/front-matter/assets/introduction/image-01.png",
+      "sha256": "555b8f57cbe4a7745aba6885fbb7b0c143f4dbd29e470951c52de276a27b8d8b",
+      "ownership": "unit-specific"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

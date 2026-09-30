@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v1-part-opening",
+  "kind": "part-opening",
+  "volume": "I",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/5 -Part I - The First Archers.docx",
+    "archive_path": "archive/docx-originals/volume-1/5 -Part I - The First Archers.docx",
+    "sha256": "eeb47416dd343dc87309b82235c0ed2888cec4d5a83d031e9dc6838bd8700a4e",
+    "bytes": 645302
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-1/part-opening.md",
+    "sha256": "1dc2dd7aefcb28dafcdb4bc2aa1ae9dad7e676909942ed5c9bf969590f5d4880",
+    "bytes": 660
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 1,
+    "markdown_image_reference_count": 1,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 592,
+    "candidate_plain_characters": 592,
+    "word_package_notes_parts": {
+      "footnotes_xml": false,
+      "endnotes_xml": false
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/volume-1/assets/part-opening/image-01.jpeg",
+      "sha256": "bc8d664ee9b76c0ae58c1801db45e4309ebb7375e6204a297a8fc93be1b14ce3",
+      "ownership": "unit-specific"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": false,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

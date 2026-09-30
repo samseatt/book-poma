@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v2-20-interlude",
+  "kind": "interlude",
+  "volume": "II",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/6 20i - The Cost of Thinking — Hardware Frontiers Beyond Silicon.docx",
+    "archive_path": "archive/docx-originals/volume-2/6 20i - The Cost of Thinking — Hardware Frontiers Beyond Silicon.docx",
+    "sha256": "1c5ef6ffd3134ef1841c2f34d1bba20f2eb695203edff65535212ff0e15fd5fb",
+    "bytes": 69538
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-2/20-interlude.md",
+    "sha256": "4616ce8bc0f6647f8976b3924b21d5df98d4353f6d6f54021f8e6d1d57c96507",
+    "bytes": 23564
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 1,
+    "markdown_image_reference_count": 1,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 23032,
+    "candidate_plain_characters": 23032,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/assets/shared/interlude-gear.png",
+      "sha256": "f1a212743fd903dcad58514301579a5e0ef691f3c69ba3dcc34782c3f4a638d3",
+      "ownership": "shared"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": true,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

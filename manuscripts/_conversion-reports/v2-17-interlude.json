@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "authority_status": "canonical-markdown-and-assets",
+  "converted_at": "2026-09-30T02:55:53.150979+00:00",
+  "unit_id": "v2-17-interlude",
+  "kind": "interlude",
+  "volume": "II",
+  "source": {
+    "format": "docx",
+    "path": "/Users/samseatt/projects/book_poma/6 17i - Protective Boundaries — Secrecy, Trust, and Encryption.docx",
+    "archive_path": "archive/docx-originals/volume-2/6 17i - Protective Boundaries — Secrecy, Trust, and Encryption.docx",
+    "sha256": "e4c6ece8732abb527c032fc36aa82379e481696c412e5ee5bda99f78efd57d40",
+    "bytes": 72817
+  },
+  "output": {
+    "format": "portable-authoring-markdown",
+    "path": "manuscripts/volume-2/17-interlude.md",
+    "sha256": "7c43199706908abaffc9213c9ccca464548c12c39f158b0e5de9916834a96694",
+    "bytes": 26472
+  },
+  "pandoc_version": "pandoc 3.6.3",
+  "verification": {
+    "source_to_raw_markdown_plain_exact": true,
+    "source_to_raw_markdown_word_sequence_exact": true,
+    "candidate_plain_matches_intended_transformation": true,
+    "candidate_word_sequence_matches_intended_transformation": true,
+    "all_image_references_resolve": true,
+    "source_embedded_media_count": 1,
+    "markdown_image_reference_count": 1,
+    "unused_embedded_media_count": 0,
+    "source_plain_characters": 25644,
+    "candidate_plain_characters": 25644,
+    "word_package_notes_parts": {
+      "footnotes_xml": true,
+      "endnotes_xml": true
+    }
+  },
+  "assets": [
+    {
+      "path": "manuscripts/assets/shared/interlude-gear.png",
+      "sha256": "f1a212743fd903dcad58514301579a5e0ef691f3c69ba3dcc34782c3f4a638d3",
+      "ownership": "shared"
+    }
+  ],
+  "normalization": {
+    "portable_markdown": true,
+    "title_promoted_to_h1": true,
+    "presentation_attributes_removed": true,
+    "strikeout_passages_removed": 0,
+    "legacy_tail_excluded": false,
+    "legacy_end_text": null
+  },
+  "note": "Canonical authority confirmed by the author on 2026-09-29. Archived DOCX is frozen provenance and must not be reconverted over this manuscript.",
+  "canonicalized_at": "2026-09-30T03:44:55.402464+00:00",
+  "canonicalization_basis": "Author explicitly confirmed the full conversion as the source of truth after Volume III review and spot checks across the other volumes."
+}

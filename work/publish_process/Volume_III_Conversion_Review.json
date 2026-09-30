@@ -1,0 +1,1256 @@
+{
+  "summary": {
+    "units_reviewed": 38,
+    "kinds": {
+      "overture": 1,
+      "part-opening": 1,
+      "cold-open": 12,
+      "chapter": 12,
+      "interlude": 12
+    },
+    "markdown_inventory_matches": true,
+    "all_archives_match_hashes": true,
+    "all_markdown_match_hashes": true,
+    "normalized_body_matches": 38,
+    "image_references": 49,
+    "all_images_resolve_and_match": true,
+    "tails": [
+      {
+        "unit": "v3-theta-interlude",
+        "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
+        "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 0-theta-i - The Architect’s Pause - Before We Build the Future.docx",
+        "source_hash_matches": true,
+        "markdown_hash_matches": true,
+        "normalized_text_matches_intended_body": true,
+        "tail_removed": true,
+        "end_marker": "Now we build the trellis.",
+        "markdown_ends_at_marker": true,
+        "excluded_tail_words": 434,
+        "assets": [
+          {
+            "target": "../assets/shared/interlude-gear.png",
+            "exists": true,
+            "matches_word_media": true
+          }
+        ],
+        "source_notes": {
+          "word/footnotes.xml": 0,
+          "word/endnotes.xml": 0
+        },
+        "markdown_counts": {
+          "Image": 1,
+          "Header": 10
+        },
+        "parse_warnings": "",
+        "source_sha256": "8db0291f933e850584acb27d6771cee0c596176432381741a5c99784d9eb8959",
+        "markdown_sha256": "40d0530ebd7be626c3cd4d41cfb7178e272c9f48544271f89a8c677470a847cf"
+      },
+      {
+        "unit": "v3-33-chapter",
+        "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
+        "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 33c - The Arrow’s Release - Weavers of the Singular Thread.docx",
+        "source_hash_matches": true,
+        "markdown_hash_matches": true,
+        "normalized_text_matches_intended_body": true,
+        "tail_removed": true,
+        "end_marker": "And the world, maddening and beloved, receives another chance.",
+        "markdown_ends_at_marker": true,
+        "excluded_tail_words": 0,
+        "assets": [
+          {
+            "target": "../assets/shared/chapter-arrow.png",
+            "exists": true,
+            "matches_word_media": true
+          }
+        ],
+        "source_notes": {
+          "word/footnotes.xml": 0,
+          "word/endnotes.xml": 0
+        },
+        "markdown_counts": {
+          "Image": 1,
+          "Header": 18
+        },
+        "parse_warnings": "",
+        "source_sha256": "2c8280023d2619149f628efc593583f9f5b9282215aa2be5c19dcee775ce3f7a",
+        "markdown_sha256": "4f8ba4d110982bd4931ff89c46c4fb16ad85eb42a4187d27fdc8a09df5ca6e03"
+      },
+      {
+        "unit": "v3-33-interlude",
+        "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
+        "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 33i - Machines as Mirrors — Simulation as Sacred Act.docx",
+        "source_hash_matches": true,
+        "markdown_hash_matches": true,
+        "normalized_text_matches_intended_body": true,
+        "tail_removed": true,
+        "end_marker": "The plane was waiting.",
+        "markdown_ends_at_marker": true,
+        "excluded_tail_words": 7245,
+        "assets": [
+          {
+            "target": "../assets/shared/interlude-gear.png",
+            "exists": true,
+            "matches_word_media": true
+          }
+        ],
+        "source_notes": {
+          "word/footnotes.xml": 0,
+          "word/endnotes.xml": 0
+        },
+        "markdown_counts": {
+          "Image": 1,
+          "Header": 17
+        },
+        "parse_warnings": "",
+        "source_sha256": "8ee79f15ce105ac6766a411ba53d4c76f5f52d6b8f2070266952b8a1d7af19d7",
+        "markdown_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31"
+      }
+    ],
+    "issues": []
+  },
+  "units": [
+    {
+      "unit": "v3-overture",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/overture.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 -o Overture v3.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/overture/image-01.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1
+      },
+      "parse_warnings": "",
+      "source_sha256": "a31c26e5661a889a4238d77269e280c8a3afb73b5b79915e2bba182e27820d51",
+      "markdown_sha256": "80f03c63c698062c446d9bb80104d7ee385a2f2cb9c4c32a6ef3469c94f3b218"
+    },
+    {
+      "unit": "v3-part-opening",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/part-opening.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 -pIII - Part III - The Basket We Weave.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [],
+      "source_notes": {},
+      "markdown_counts": {},
+      "parse_warnings": "",
+      "source_sha256": "32b28e21f8e228226c1d63fba4f5fa2ebb50320209e88c33334eb5fbab037413",
+      "markdown_sha256": "3f66d2e48346f39fc7456afd515882a79a6f2486e265526aefd46821330225e2"
+    },
+    {
+      "unit": "v3-theta-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 0 - Open Theta.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/theta-open/opening.jpeg",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "dda29df8ddfe46fa6dc9c6ac31986945ebe21fd5ce1a1da1a2f4de676f1670e3",
+      "markdown_sha256": "0fc884871f47407d69d4ce24208fb0cadaaa55ba16136ef57ca8a8e03897149c"
+    },
+    {
+      "unit": "v3-theta-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 0-theta-c - The Design Horizon - Principles for Re-weaving Civilization.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 12
+      },
+      "parse_warnings": "",
+      "source_sha256": "0b95485951aeb91331627cdae61b133636b5c1f5f881dbf1dd44675461e36873",
+      "markdown_sha256": "503797bce133c40050297aea29f64f24b10923c735f5099eae3712538561cdb2"
+    },
+    {
+      "unit": "v3-theta-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 0-theta-i - The Architect’s Pause - Before We Build the Future.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": true,
+      "end_marker": "Now we build the trellis.",
+      "markdown_ends_at_marker": true,
+      "excluded_tail_words": 434,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 10
+      },
+      "parse_warnings": "",
+      "source_sha256": "8db0291f933e850584acb27d6771cee0c596176432381741a5c99784d9eb8959",
+      "markdown_sha256": "40d0530ebd7be626c3cd4d41cfb7178e272c9f48544271f89a8c677470a847cf"
+    },
+    {
+      "unit": "v3-23-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 23 - Open 23.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/23-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "62ec2e32aa7b5afce31cdd8485c89bcb1a6715a6cba35051a0662a3a9bf34036",
+      "markdown_sha256": "38174896122edd2f2277f5b96c0321e5df2bbba89eb9ead6222bfbddeee33845"
+    },
+    {
+      "unit": "v3-23-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 23c - The Loom of Renewal - From Fracture to Framework.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 11
+      },
+      "parse_warnings": "",
+      "source_sha256": "bfb613808b37e788da56388f5d187eeb2f881f9d57ee13111b7812a14da91511",
+      "markdown_sha256": "3ef1d3a63f1d49f9fa26378b8ac3c73f23e2c77618e0509c6bdbf6b902f5b11a"
+    },
+    {
+      "unit": "v3-23-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 23i - The Loom of Design — Foundations for Ethical Systems Thinking.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 16
+      },
+      "parse_warnings": "",
+      "source_sha256": "b165b1408436804a1ad6d98df44fc5268cf6c5a58b70aa230d831f2de8e3fca4",
+      "markdown_sha256": "5d6853a04d96d3a0aa6aa2e08425595875697740f61e259ddf7bb73795b0999b"
+    },
+    {
+      "unit": "v3-24-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 24 - Open 24.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/24-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "1b73faaa17387bc9d8c13c2a60aa368b59063fb2d2a7a8a3c1baccb4759f6e0d",
+      "markdown_sha256": "c4deadb7725921c198b47115b56a0db2d67780af21514ed3940025a12bfc4552"
+    },
+    {
+      "unit": "v3-24-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 24c - The Citizen’s Dilemma - Agency, Trust, and Life Inside the New Mesh.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 15
+      },
+      "parse_warnings": "",
+      "source_sha256": "5fd6833c6655adbbf2571b4c43c5de9bd3dfdc62153638c0b4eee38566722019",
+      "markdown_sha256": "157464d5675fc4de1bbbd00fd0e7f59c96b9d3ccacaaf60d669397640019653f"
+    },
+    {
+      "unit": "v3-24-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 24i - The Developer's Dilemma - Building Without Becoming the New Tyrant.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 15
+      },
+      "parse_warnings": "",
+      "source_sha256": "48e8a2da612ba8d6cb2ca887178e31833c24a382f1470cbcfd6279959139d343",
+      "markdown_sha256": "de4a5dda322e7273deb8585bfbac92b4c05f35602df82b5f056f105a41107efe"
+    },
+    {
+      "unit": "v3-25-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 25 - Open 25.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/25-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "001d8d41131ce91e8e0d75fef8c9744442554dfe91b73fa7c32badac8f7d4c97",
+      "markdown_sha256": "6a156ad859b4e515bd555aaeace4fb6f00e90e3c4c4926eed96fda6be8c18746"
+    },
+    {
+      "unit": "v3-25-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 25c - Beyond the Invisible Hand - Toward a Humane Economy.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 16
+      },
+      "parse_warnings": "",
+      "source_sha256": "375f39e68cd45bb7bda31d6460a86f51c3df97602bf0aec781ed0c012e232e9d",
+      "markdown_sha256": "e852353b6556764030b6b7f65a30bc49a7693e5d6ba2a34c63f18d096504c2ee"
+    },
+    {
+      "unit": "v3-25-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 25i - The Living Ledger - Dynamic Value Flows and DAG Economies.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 17
+      },
+      "parse_warnings": "",
+      "source_sha256": "c9e750c7e4e8f4ce1a614f95ad4bcdc5277a5545f363bbadb2dcc278a87946f5",
+      "markdown_sha256": "b5bf9abe832c360794f8c42dd03fa94ecf2492b14d0c53d070df4c7ccd80b38e"
+    },
+    {
+      "unit": "v3-26-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 26 - Open 26.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/26-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "ebee4d7885f6c1bb6ca4a52d618fe77120b68304cefc3f92c6d33a2abff10546",
+      "markdown_sha256": "d18bf7311e4a884ae51ce37b534b6b7c6a3a4386ed73d30911c023af76b2e2cc"
+    },
+    {
+      "unit": "v3-26-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 26c - The Steward’s Edge - Redefining Governance and Citizenship.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 16
+      },
+      "parse_warnings": "",
+      "source_sha256": "c912f28f89f919a039b0f8bfc4208808484e3482993d8cdb620d01b500bbf35b",
+      "markdown_sha256": "34f604bf91fae96dc07779f23b558590ee5fe7d7cb5d8543797d69586416c897"
+    },
+    {
+      "unit": "v3-26-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 26i - Civic Meshes - Identity, Federation, and Protocol Governance.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 18
+      },
+      "parse_warnings": "",
+      "source_sha256": "30770c3fcd1e2e2f67109a164dbd3e9a7f0a217bf532737cf9990c72915df15b",
+      "markdown_sha256": "ad5cf2a14fdbd733b7f4bdf994000201d1c0e751e2a982b1c1781cb89ef52ca5"
+    },
+    {
+      "unit": "v3-27-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 27 - Open 27.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/27-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "67b24d212c96a6507f54d908da35f47e6bc918c7bf0b6d99d5f988fa001bad3c",
+      "markdown_sha256": "1dc68b91f43989f2890a0e83421492d7b556271732a78a19c82b8620ec93483c"
+    },
+    {
+      "unit": "v3-27-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 27c The Reclaimed Commons - Knowledge, Nature, and Digital Space.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 16
+      },
+      "parse_warnings": "",
+      "source_sha256": "151e825fe6960ef50b7618f809dcba4c083c66c7e7bce8558efc156d0cfdf22a",
+      "markdown_sha256": "9de8b307430d713837009ec005c0ab1df59af8cb0ae28b4a9f52f1a979120877"
+    },
+    {
+      "unit": "v3-27-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 27i - Streams and Sanctuaries - Governing Informational and Biological Commons.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 18
+      },
+      "parse_warnings": "",
+      "source_sha256": "84d0fb06f94ac2c4efcfb0ea97631ba43ec68c8d27079744246dd27d1b0d5943",
+      "markdown_sha256": "601bb18e09d739d698bf21287e1670d1103522c4a5997fc700be00510777ab63"
+    },
+    {
+      "unit": "v3-28-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 28 - Open 28.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/28-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "1c54f51a0da886ae4552a2330d23efb27b0b99fa7a846287657f6bcb0b6bb355",
+      "markdown_sha256": "347fc2faa07adbce4f5dd7b5210c9d7c5200d5c88f7892f84f6eca11e26ed9f5"
+    },
+    {
+      "unit": "v3-28-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 28c - The Flow of Care - Health as an Emergent State.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 17
+      },
+      "parse_warnings": "",
+      "source_sha256": "6aa8c0f70bd4e0b7d5f50b48beae91120bc58c9303f027b585aca10762d67332",
+      "markdown_sha256": "17815dbf526011ac70d64cc5eefa6f7e54fbe4b4f698745bc51a03f8698f5ecc"
+    },
+    {
+      "unit": "v3-28-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 28i - From Molecule to Moment — Precision Medicine in the NEURO Age.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 18
+      },
+      "parse_warnings": "",
+      "source_sha256": "53d39e4517a0ba80c12dc42b0aaa53a67d890aba6102e6292caae75539dfa15e",
+      "markdown_sha256": "c026ec17a8ba920637112735d40f24f4178669fd44ad59485277a5cb4a9ce06a"
+    },
+    {
+      "unit": "v3-29-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 29 - Open 29.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/29-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "422c8896c5a3349fddd482d941039d06b29428a97def62c72873ac72a8363418",
+      "markdown_sha256": "b8c6d2db0254e3919f2a3caf8fb0dc6892552e3087531bd050b64af3c7423333"
+    },
+    {
+      "unit": "v3-29-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 29c - The Reimagined Workshop - Making as Stewardship.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 17
+      },
+      "parse_warnings": "",
+      "source_sha256": "a1cc666cbef213906ee6e5e85084fb714d2409717ad861ad41568014c2c30dc6",
+      "markdown_sha256": "3470845d50a5aa80725c39042df763a78b5cd82ec61c2aabcddd8bde00af266f"
+    },
+    {
+      "unit": "v3-29-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 29i - Neufacturing — Biofabrication and Architectures of Regenerative Matter.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 18
+      },
+      "parse_warnings": "",
+      "source_sha256": "cb2fd6ffe169d56dbf109970a2b7ed25ebedb429a8b260e8616443a83303550f",
+      "markdown_sha256": "fb2a67eb9c0462bab40fb7d92e17938ff567534f0e1b67bb8f56419d7860f1b6"
+    },
+    {
+      "unit": "v3-30-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 30 - Open 30.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/30-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "09755e047422a4fd238556e1a660ff6d17ea64609a572a839afb7b18513f1ca7",
+      "markdown_sha256": "93ddb38541f20b7ce58bcf84219367e2c3f27595c5cec4b2e28da1bce4e1ccb3"
+    },
+    {
+      "unit": "v3-30-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 30c - Justice Before Judgement - Living Inside Fair Systems.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 18
+      },
+      "parse_warnings": "",
+      "source_sha256": "9c803d39850b71f2a5e437512d50f94830eecc0f972d39bee242f6ce2d85a133",
+      "markdown_sha256": "05b4016b8c2045f0d506c205d7c292be6a9080f55223bec1a71ee852499e206a"
+    },
+    {
+      "unit": "v3-30-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 30i - Protocold of Integrity - Coding Fairness into Systems.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 19
+      },
+      "parse_warnings": "",
+      "source_sha256": "5913e1d91b5c1ceec2e156b3b4b050cbd0489c50882ce8d216ccc4768f089309",
+      "markdown_sha256": "fe1173ebe77d959a1cf7950bbab3a3794a0a561490b01e70328f086ce750341e"
+    },
+    {
+      "unit": "v3-31-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 31 - Open 31.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/31-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "c46143454d600189263aa38cb3e85489b5769b231ce37df8fcf4b3e74868aa8f",
+      "markdown_sha256": "cf5a577fd6c8f2cacfa6dffff388706d76a65c1aa30102ed2b0b5584fc77507d"
+    },
+    {
+      "unit": "v3-31-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 31c - Minds in Harmony - Learning, Meaning, and Shared Reality.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 15
+      },
+      "parse_warnings": "",
+      "source_sha256": "857c7039dd88173cc34bffbe6a0e5abde175e583985b964ed25c5b4b525110bc",
+      "markdown_sha256": "388e7a0df9666844d93e049525cd9dd0fb9aadacf959e7aee2dbf63f6cda4cd2"
+    },
+    {
+      "unit": "v3-31-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 31i - Signal and Story - Cognitive Architectures for a Wise Infosphere.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 18
+      },
+      "parse_warnings": "",
+      "source_sha256": "5d547966193917cacdac4fafdb59282670b93a7facfa65fafc2b31ef968a48c1",
+      "markdown_sha256": "7a9688c4e699864f9f46bedbe0b22ec3a9802c4711ef2b6ce586afc755214ecf"
+    },
+    {
+      "unit": "v3-32-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 32 - Open 32.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/32-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "c869df121780c5837e52f7a97ae4115325138a23e5aa38d873dd34a5ce0ab698",
+      "markdown_sha256": "aabecf64a4e08d6fbae992268041908c9b784c7dea4d2bee229928c7aec3dfc7"
+    },
+    {
+      "unit": "v3-32-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 32c - Threads of Continuity – Culture, Memory, and the Long Now.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 17
+      },
+      "parse_warnings": "",
+      "source_sha256": "7e095c87bfdcae5a194a38c1b5ba854a59001cd587639d146a71623c26c08074",
+      "markdown_sha256": "ad9006cf4377884b2c67bbdc19f8a6d13514687fbc5822cd69c35a39431d56f7"
+    },
+    {
+      "unit": "v3-32-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 32i - Encoding the Eternnal — Ontologies, Archives, and the Infrastructure of Memory.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 20
+      },
+      "parse_warnings": "",
+      "source_sha256": "1cdf4ac998783a95675722d43a666c443faeef62a77a8b8aa4d74ea99a52b3c2",
+      "markdown_sha256": "08a78b0c103ca9575160de3b8b52e1634cc1d92ff2af6ccd5d8dac1361a141ff"
+    },
+    {
+      "unit": "v3-33-open",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-open.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 33 - Open 33.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": false,
+      "end_marker": null,
+      "markdown_ends_at_marker": null,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "assets/33-open/opening.png",
+          "exists": true,
+          "matches_word_media": true
+        },
+        {
+          "target": "../assets/shared/separator.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {},
+      "markdown_counts": {
+        "Image": 2
+      },
+      "parse_warnings": "",
+      "source_sha256": "6e08dec231ba9269f9e310962d75e4a29b3799907abdbc76fbbbada7c9a484f7",
+      "markdown_sha256": "541d6c85e0f0c3441dbf6891e43f11e9c2a7f962e24704ac318fd3608b8dda3b"
+    },
+    {
+      "unit": "v3-33-chapter",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 33c - The Arrow’s Release - Weavers of the Singular Thread.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": true,
+      "end_marker": "And the world, maddening and beloved, receives another chance.",
+      "markdown_ends_at_marker": true,
+      "excluded_tail_words": 0,
+      "assets": [
+        {
+          "target": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 18
+      },
+      "parse_warnings": "",
+      "source_sha256": "2c8280023d2619149f628efc593583f9f5b9282215aa2be5c19dcee775ce3f7a",
+      "markdown_sha256": "4f8ba4d110982bd4931ff89c46c4fb16ad85eb42a4187d27fdc8a09df5ca6e03"
+    },
+    {
+      "unit": "v3-33-interlude",
+      "markdown": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
+      "archive": "/Users/samseatt/projects/book-poma/archive/docx-originals/volume-3/7 33i - Machines as Mirrors — Simulation as Sacred Act.docx",
+      "source_hash_matches": true,
+      "markdown_hash_matches": true,
+      "normalized_text_matches_intended_body": true,
+      "tail_removed": true,
+      "end_marker": "The plane was waiting.",
+      "markdown_ends_at_marker": true,
+      "excluded_tail_words": 7245,
+      "assets": [
+        {
+          "target": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_word_media": true
+        }
+      ],
+      "source_notes": {
+        "word/footnotes.xml": 0,
+        "word/endnotes.xml": 0
+      },
+      "markdown_counts": {
+        "Image": 1,
+        "Header": 17
+      },
+      "parse_warnings": "",
+      "source_sha256": "8ee79f15ce105ac6766a411ba53d4c76f5f52d6b8f2070266952b8a1d7af19d7",
+      "markdown_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31"
+    }
+  ],
+  "review_scope": "All 38 Markdown units in manuscripts/volume-3, including numbered pairs and cold opens, Theta triplet, overture and part-opening. Quick editorial usability/conversion review; not a prose revision or rendered-publication layout audit.",
+  "result": "PASS: all 38 normalized body texts match the intended archived source content, all 49 image references resolve to byte-identical source media, and the three special endpoints are correct.",
+  "numbering": "Original chapter identifiers and filenames remain unchanged; accepted reading order is recorded separately. Renaming is deferred to the author.",
+  "authority_note": "This records completed Volume III verification. It does not rewrite the publisher conversion manifest or declare a whole-book review of Volumes I and II."
+}

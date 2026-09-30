@@ -20,7 +20,7 @@ This repository is intended to support publication of selected material through 
 - scripts used to convert and normalize publication sources;
 - generated or staged web-publication assets where appropriate.
 
-The author's working Word manuscripts remain the authoritative writing sources unless explicitly designated otherwise. Publication files derived from them are secondary representations and should not silently replace the manuscripts.
+The reviewed Word-to-Markdown conversion was completed and explicitly confirmed by the author on 2026-09-29. Files under `manuscripts/` are now the canonical editorial sources; archived Word files are frozen provenance. The publishing process reads the canonical manuscripts and produces Quarto representations without silently changing their prose. See the [manuscript workflow](MANUSCRIPT-WORKFLOW.md) and [source-of-truth declaration](archive/SOURCE-OF-TRUTH-DECLARATION.md). The earlier `draft/` migration plan is retired.
 
 ## Current publication
 

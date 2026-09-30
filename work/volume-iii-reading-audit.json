@@ -1,0 +1,822 @@
+{
+  "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+  "scope": "Editorial reading only; no manuscript edits, new sequence, historical verification or future forecast validation.",
+  "status": "complete; author replacement of original Chapter 24 read in full",
+  "selection": "Original Word number/Greek+c/i; ignore PDFs, lock files and copy variants; latest modification time among duplicate eligible base Word candidates, before Markdown promotion.",
+  "source_hashes_rechecked": true,
+  "coverage_note": "Displayed chunks were read; truncated output from earlier calls was recovered. Chapter 24 wrong draft was only inspected, then the author replacement was read in full. Legacy tails were read but separated from current bodies.",
+  "counts": {
+    "design_packets_read": 22,
+    "numbered_drafts_read": 22,
+    "numbered_draft_pending": 0,
+    "theta_drafts_read": 2,
+    "cold_opens_read": 12,
+    "framing_documents_read": 3
+  },
+  "current_legacy_boundaries": {
+    "thetai": {
+      "current_end_paragraph": 398,
+      "legacy_start_paragraph": 402,
+      "end_text": "Now we build the trellis."
+    },
+    "33c": {
+      "current_end_paragraph": 580,
+      "legacy_start_paragraph": 589,
+      "end_text": "And the world, maddening and beloved, receives another chance."
+    },
+    "33i": {
+      "current_end_paragraph": 594,
+      "legacy_start_paragraph": 600,
+      "end_text": "The plane was waiting.",
+      "retained_art_source_paragraphs": [
+        642,
+        657
+      ]
+    }
+  },
+  "sources": {
+    "29c": {
+      "path": "/Users/samseatt/projects/book_poma/7 29c - The Reimagined Workshop - Making as Stewardship.docx",
+      "sha256": "a1cc666cbef213906ee6e5e85084fb714d2409717ad861ad41568014c2c30dc6",
+      "mtime_ns": 1790638430568715605,
+      "chunks": 2,
+      "words": 5294,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "32c": {
+      "path": "/Users/samseatt/projects/book_poma/7 32c - Threads of Continuity – Culture, Memory, and the Long Now.docx",
+      "sha256": "7e095c87bfdcae5a194a38c1b5ba854a59001cd587639d146a71623c26c08074",
+      "mtime_ns": 1790655834456911514,
+      "chunks": 2,
+      "words": 4898,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "31i": {
+      "path": "/Users/samseatt/projects/book_poma/7 31i - Signal and Story - Cognitive Architectures for a Wise Infosphere.docx",
+      "sha256": "5d547966193917cacdac4fafdb59282670b93a7facfa65fafc2b31ef968a48c1",
+      "mtime_ns": 1790635876482273767,
+      "chunks": 2,
+      "words": 5798,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "27i": {
+      "path": "/Users/samseatt/projects/book_poma/7 27i - Streams and Sanctuaries - Governing Informational and Biological Commons.docx",
+      "sha256": "84d0fb06f94ac2c4efcfb0ea97631ba43ec68c8d27079744246dd27d1b0d5943",
+      "mtime_ns": 1790637969605398255,
+      "chunks": 2,
+      "words": 4994,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "29o": {
+      "path": "/Users/samseatt/projects/book_poma/7 29 - Open 29.docx",
+      "sha256": "422c8896c5a3349fddd482d941039d06b29428a97def62c72873ac72a8363418",
+      "mtime_ns": 1751942064965126717,
+      "chunks": 1,
+      "words": 121,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "28o": {
+      "path": "/Users/samseatt/projects/book_poma/7 28 - Open 28.docx",
+      "sha256": "1c54f51a0da886ae4552a2330d23efb27b0b99fa7a846287657f6bcb0b6bb355",
+      "mtime_ns": 1751939326546788234,
+      "chunks": 1,
+      "words": 173,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "33o": {
+      "path": "/Users/samseatt/projects/book_poma/7 33 - Open 33.docx",
+      "sha256": "6e08dec231ba9269f9e310962d75e4a29b3799907abdbc76fbbbada7c9a484f7",
+      "mtime_ns": 1751944298208963847,
+      "chunks": 1,
+      "words": 165,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "32o": {
+      "path": "/Users/samseatt/projects/book_poma/7 32 - Open 32.docx",
+      "sha256": "c869df121780c5837e52f7a97ae4115325138a23e5aa38d873dd34a5ce0ab698",
+      "mtime_ns": 1751944127970849224,
+      "chunks": 1,
+      "words": 144,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "27c": {
+      "path": "/Users/samseatt/projects/book_poma/7 27c The Reclaimed Commons - Knowledge, Nature, and Digital Space.docx",
+      "sha256": "151e825fe6960ef50b7618f809dcba4c083c66c7e7bce8558efc156d0cfdf22a",
+      "mtime_ns": 1790636736942804268,
+      "chunks": 2,
+      "words": 5511,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "33c": {
+      "path": "/Users/samseatt/projects/book_poma/7 33c - The Arrow’s Release - Weavers of the Singular Thread.docx",
+      "sha256": "bcd2d763abaaadb1f517509587d90d9993a6e67a6149ab1736ff3f3c2dbc001d",
+      "mtime_ns": 1790573743612364981,
+      "chunks": 4,
+      "words": 15155,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "29i": {
+      "path": "/Users/samseatt/projects/book_poma/7 29i - Neufacturing — Biofabrication and Architectures of Regenerative Matter.docx",
+      "sha256": "cb2fd6ffe169d56dbf109970a2b7ed25ebedb429a8b260e8616443a83303550f",
+      "mtime_ns": 1790638665770777921,
+      "chunks": 2,
+      "words": 5428,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "23o": {
+      "path": "/Users/samseatt/projects/book_poma/7 23 - Open 23.docx",
+      "sha256": "62ec2e32aa7b5afce31cdd8485c89bcb1a6715a6cba35051a0662a3a9bf34036",
+      "mtime_ns": 1751933184183264788,
+      "chunks": 1,
+      "words": 150,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "33i": {
+      "path": "/Users/samseatt/projects/book_poma/7 33i - Machines as Mirrors — Simulation as Sacred Act.docx",
+      "sha256": "8ee79f15ce105ac6766a411ba53d4c76f5f52d6b8f2070266952b8a1d7af19d7",
+      "mtime_ns": 1790559875665200140,
+      "chunks": 4,
+      "words": 17009,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "25i": {
+      "path": "/Users/samseatt/projects/book_poma/7 25i - The Living Ledger - Dynamic Value Flows and DAG Economies.docx",
+      "sha256": "c9e750c7e4e8f4ce1a614f95ad4bcdc5277a5545f363bbadb2dcc278a87946f5",
+      "mtime_ns": 1790629413171023620,
+      "chunks": 2,
+      "words": 7002,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "26i": {
+      "path": "/Users/samseatt/projects/book_poma/7 26i - Civic Meshes - Identity, Federation, and Protocol Governance.docx",
+      "sha256": "30770c3fcd1e2e2f67109a164dbd3e9a7f0a217bf532737cf9990c72915df15b",
+      "mtime_ns": 1790639823254543242,
+      "chunks": 2,
+      "words": 4344,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "31c": {
+      "path": "/Users/samseatt/projects/book_poma/7 31c - Minds in Harmony - Learning, Meaning, and Shared Reality.docx",
+      "sha256": "857c7039dd88173cc34bffbe6a0e5abde175e583985b964ed25c5b4b525110bc",
+      "mtime_ns": 1790635523585462026,
+      "chunks": 2,
+      "words": 6734,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "24c": {
+      "path": "/Users/samseatt/projects/book_poma/7 24c - The Citizen’s Dilemma - Agency, Trust, and Life Inside the New Mesh.docx",
+      "sha256": "5fd6833c6655adbbf2571b4c43c5de9bd3dfdc62153638c0b4eee38566722019",
+      "mtime_ns": 1790718650672974535,
+      "chunks": 2,
+      "words": 5762,
+      "alternatives": [],
+      "replaces_confirmed_wrong_source_sha256": "6e6072c3875a20679edea835b9b8d69be7e5cb1a9f2e82d1f8b86321fede5933",
+      "renamed_from_path": "/Users/samseatt/projects/book_poma/7 24c - The Developer's Dilemma - Tools, Threads, and Temptations.docx",
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ],
+      "opening_rechecked_at": "2026-09-29T22:22:26.539807+00:00",
+      "previous_read_sha256": "4901c02c10cdcb6fd9238d95253b1fc13e28705ea2cb817168ecee6da0a753f0",
+      "subsequent_change": "Author removed both remaining age references and their editorial TODO from the opening. Full extracted-text comparison checked; the rest of the body is unchanged. The separate heading/epigraph TODOs remain. Do not restore the removed age material; the future vignette will be reconsidered in the later revision phase."
+    },
+    "25o": {
+      "path": "/Users/samseatt/projects/book_poma/7 25 - Open 25.docx",
+      "sha256": "001d8d41131ce91e8e0d75fef8c9744442554dfe91b73fa7c32badac8f7d4c97",
+      "mtime_ns": 1751933593065355294,
+      "chunks": 1,
+      "words": 123,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "thetao": {
+      "path": "/Users/samseatt/projects/book_poma/7 0 - Open Theta.docx",
+      "sha256": "dda29df8ddfe46fa6dc9c6ac31986945ebe21fd5ce1a1da1a2f4de676f1670e3",
+      "mtime_ns": 1769319844898961220,
+      "chunks": 1,
+      "words": 118,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "24o": {
+      "path": "/Users/samseatt/projects/book_poma/7 24 - Open 24.docx",
+      "sha256": "1b73faaa17387bc9d8c13c2a60aa368b59063fb2d2a7a8a3c1baccb4759f6e0d",
+      "mtime_ns": 1752859433053129809,
+      "chunks": 1,
+      "words": 93,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "32i": {
+      "path": "/Users/samseatt/projects/book_poma/7 32i - Encoding the Eternnal — Ontologies, Archives, and the Infrastructure of Memory.docx",
+      "sha256": "1cdf4ac998783a95675722d43a666c443faeef62a77a8b8aa4d74ea99a52b3c2",
+      "mtime_ns": 1790656317821326252,
+      "chunks": 2,
+      "words": 4562,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "28c": {
+      "path": "/Users/samseatt/projects/book_poma/7 28c - The Flow of Care - Health as an Emergent State.docx",
+      "sha256": "6aa8c0f70bd4e0b7d5f50b48beae91120bc58c9303f027b585aca10762d67332",
+      "mtime_ns": 1790649962701122172,
+      "chunks": 2,
+      "words": 5133,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "thetai": {
+      "path": "/Users/samseatt/projects/book_poma/7 0-theta-i - The Architect’s Pause - Before We Build the Future.docx",
+      "sha256": "8983adc5f712a2ec57c1ef5911983623595d3de816fd8085df631ca0d5f0bf80",
+      "mtime_ns": 1790609527754835145,
+      "chunks": 3,
+      "words": 11849,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2,
+        3
+      ]
+    },
+    "30i": {
+      "path": "/Users/samseatt/projects/book_poma/7 30i - Protocold of Integrity - Coding Fairness into Systems.docx",
+      "sha256": "5913e1d91b5c1ceec2e156b3b4b050cbd0489c50882ce8d216ccc4768f089309",
+      "mtime_ns": 1790642330625581134,
+      "chunks": 2,
+      "words": 4320,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "23c": {
+      "path": "/Users/samseatt/projects/book_poma/7 23c - The Loom of Renewal - From Fracture to Framework.docx",
+      "sha256": "bfb613808b37e788da56388f5d187eeb2f881f9d57ee13111b7812a14da91511",
+      "mtime_ns": 1790615251147808976,
+      "chunks": 2,
+      "words": 5654,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "31o": {
+      "path": "/Users/samseatt/projects/book_poma/7 31 - Open 31.docx",
+      "sha256": "c46143454d600189263aa38cb3e85489b5769b231ce37df8fcf4b3e74868aa8f",
+      "mtime_ns": 1751943469725470360,
+      "chunks": 1,
+      "words": 145,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "thetac": {
+      "path": "/Users/samseatt/projects/book_poma/7 0-theta-c - The Design Horizon - Principles for Re-weaving Civilization.docx",
+      "sha256": "51d986de7746048d5d439cfa298e3faa63b8cbaa7eaea03362096b322cdbac85",
+      "mtime_ns": 1777614285280055815,
+      "chunks": 3,
+      "words": 10445,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2,
+        3
+      ]
+    },
+    "30o": {
+      "path": "/Users/samseatt/projects/book_poma/7 30 - Open 30.docx",
+      "sha256": "09755e047422a4fd238556e1a660ff6d17ea64609a572a839afb7b18513f1ca7",
+      "mtime_ns": 1751943036560070579,
+      "chunks": 1,
+      "words": 157,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "28i": {
+      "path": "/Users/samseatt/projects/book_poma/7 28i - From Molecule to Moment — Precision Medicine in the NEURO Age.docx",
+      "sha256": "53d39e4517a0ba80c12dc42b0aaa53a67d890aba6102e6292caae75539dfa15e",
+      "mtime_ns": 1790650338329926293,
+      "chunks": 1,
+      "words": 4082,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "25c": {
+      "path": "/Users/samseatt/projects/book_poma/7 25c - Beyond the Invisible Hand - Toward a Humane Economy.docx",
+      "sha256": "375f39e68cd45bb7bda31d6460a86f51c3df97602bf0aec781ed0c012e232e9d",
+      "mtime_ns": 1790629049461328936,
+      "chunks": 2,
+      "words": 6294,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "23i": {
+      "path": "/Users/samseatt/projects/book_poma/7 23i - The Loom of Design — Foundations for Ethical Systems Thinking.docx",
+      "sha256": "b165b1408436804a1ad6d98df44fc5268cf6c5a58b70aa230d831f2de8e3fca4",
+      "mtime_ns": 1790615710924340202,
+      "chunks": 2,
+      "words": 6347,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "26c": {
+      "path": "/Users/samseatt/projects/book_poma/7 26c - The Steward’s Edge - Redefining Governance and Citizenship.docx",
+      "sha256": "c912f28f89f919a039b0f8bfc4208808484e3482993d8cdb620d01b500bbf35b",
+      "mtime_ns": 1790639369934847071,
+      "chunks": 2,
+      "words": 4879,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "30c": {
+      "path": "/Users/samseatt/projects/book_poma/7 30c - Justice Before Judgement - Living Inside Fair Systems.docx",
+      "sha256": "9c803d39850b71f2a5e437512d50f94830eecc0f972d39bee242f6ce2d85a133",
+      "mtime_ns": 1790642075387659831,
+      "chunks": 2,
+      "words": 4734,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "27o": {
+      "path": "/Users/samseatt/projects/book_poma/7 27 - Open 27.docx",
+      "sha256": "67b24d212c96a6507f54d908da35f47e6bc918c7bf0b6d99d5f988fa001bad3c",
+      "mtime_ns": 1751938723183148641,
+      "chunks": 1,
+      "words": 161,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "24i": {
+      "path": "/Users/samseatt/projects/book_poma/7 24i - NEURO Framework - Building Institutional Fabric.docx",
+      "sha256": "48e8a2da612ba8d6cb2ca887178e31833c24a382f1470cbcfd6279959139d343",
+      "mtime_ns": 1790619647728992693,
+      "chunks": 2,
+      "words": 4644,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1,
+        2
+      ]
+    },
+    "26o": {
+      "path": "/Users/samseatt/projects/book_poma/7 26 - Open 26.docx",
+      "sha256": "ebee4d7885f6c1bb6ca4a52d618fe77120b68304cefc3f92c6d33a2abff10546",
+      "mtime_ns": 1751938578264672432,
+      "chunks": 1,
+      "words": 126,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "overture": {
+      "path": "/Users/samseatt/projects/book_poma/7 -o Overture v3.docx",
+      "sha256": "a31c26e5661a889a4238d77269e280c8a3afb73b5b79915e2bba182e27820d51",
+      "mtime_ns": 1790457077915551192,
+      "chunks": 1,
+      "words": 1310,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "part-opening": {
+      "path": "/Users/samseatt/projects/book_poma/7 -pIII - Part III - The Basket We Weave.docx",
+      "sha256": "32b28e21f8e228226c1d63fba4f5fa2ebb50320209e88c33334eb5fbab037413",
+      "mtime_ns": 1751607006820660222,
+      "chunks": 1,
+      "words": 119,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "epilogue": {
+      "path": "/Users/samseatt/projects/book_poma/8 Epilogue.docx",
+      "sha256": "de415eb939b66e133a9fa3b1bd46bce938b51b1a3d869eba36cb6892ae45b2a9",
+      "mtime_ns": 1790562292286449174,
+      "chunks": 1,
+      "words": 1778,
+      "alternatives": [],
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p23c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/23c Design Packet — Chapter 23.md",
+      "sha256": "1ba36c15683f584294cd6c0dde32e269dd31073c4d320ae889986217c3bdc81c",
+      "chunks": 1,
+      "words": 2483,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p23i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/23i Design Packet — Interlude 23.md",
+      "sha256": "ca848dea8c69783395c4e6408949bd536a7a2ac0adc52b68c06fd66ea8847e66",
+      "chunks": 1,
+      "words": 2867,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p24c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/24c Design Packet — Chapter 24.md",
+      "sha256": "e0841a65546051dd9ac68dacd2fc4aa73c0737b28d1eeed023cc815f35517c88",
+      "chunks": 1,
+      "words": 3028,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p24i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/24i Design Packet — Interlude 24.md",
+      "sha256": "d509fe95150daecb1b63660ec739d97a76a529a12889bdc476c7a3fb6c9b5c6d",
+      "chunks": 1,
+      "words": 2709,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p25c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/25c Design Packet — Chapter 25.md",
+      "sha256": "582dce568735d4400fd3f9fc0e14b3056ec9d13f6494e916b46d7d1ef1faa058",
+      "chunks": 1,
+      "words": 3334,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p25i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/25i Design Packet — Interlude 25.md",
+      "sha256": "7a587177a507cf8dcabef6242fc21a56044fec3bb93e1f357b01f0c871f71fc8",
+      "chunks": 1,
+      "words": 2849,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p31c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/26c prev-31c Design Packet — Chapter 31.md",
+      "sha256": "90174101979110ac03ddacaff214aee794964f411bc0a2fbd182b9cde5e7c23c",
+      "chunks": 1,
+      "words": 3188,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p31i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/26i prev-31i Design Packet — Interlude 31.md",
+      "sha256": "60f7f8daeab72c07e4862b6ca00bd870fdce8cfa81a71b166ac0df0239225e7e",
+      "chunks": 1,
+      "words": 2754,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p27c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/27c Design Packet — Chapter 27.md",
+      "sha256": "e7fc667b312079dd71f1ba49830f55eb70e9bb493b4383e0131e331fed391397",
+      "chunks": 1,
+      "words": 3127,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p27i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/27i Design Packet — Interlude 27.md",
+      "sha256": "2cc17c686ba00265a74ca75129417b28b44444adfd6215a0c5460d02d4db638b",
+      "chunks": 1,
+      "words": 2673,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p29c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/28c prev-29c Design Packet — Chapter 29.md",
+      "sha256": "246702fd413816096073ebfa4350063d8cbe07299ecc80a5e49392c0c16e5b6a",
+      "chunks": 1,
+      "words": 3077,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p29i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/28i prev-29i Design Packet — Interlude 29.md",
+      "sha256": "c27d44c5149e61e3377b61f2c80eafef2ae9d40a462a5e1eb7ba8a2085bb7fa2",
+      "chunks": 1,
+      "words": 2547,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p26c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/29c prev-26c Design Packet — Chapter 26.md",
+      "sha256": "c9ebb70bf6e996035acb58a7751654b9fb6af1e28658e1bfe802bed89db6bb40",
+      "chunks": 1,
+      "words": 3287,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p26i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/29i prev-26i Design Packet — Interlude 26.md",
+      "sha256": "dac0e65a60f561eb728c5d2a8b4f54819c0f9c5db5fd7919a188cc4d87146f5a",
+      "chunks": 1,
+      "words": 2971,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p30c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/30c Design Packet — Chapter 30.md",
+      "sha256": "866103c20410957cf716d702d14ef1d6673aae38e601582012c5f41936dce1e9",
+      "chunks": 1,
+      "words": 3255,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p30i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/30i Design Packet — Interlude 30.md",
+      "sha256": "6a3e40629e1c30097b9cc75b8bff8c1e9532bdcd8263b9995a03e2d921584b85",
+      "chunks": 1,
+      "words": 2735,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p28c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/31c prev-28c Design Packet — Chapter 28.md",
+      "sha256": "2aa67ca31a6c808f57b69d66a5dbc006cbda78704d3760e0691f1dc179e6ecf7",
+      "chunks": 1,
+      "words": 3189,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p28i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/31i prev-28i Design Packet — Interlude 28.md",
+      "sha256": "feb2c06b39ee022a7aa13fa6f5bcc63e34db1365bf6f840494f3dd236f9c4fde",
+      "chunks": 1,
+      "words": 2650,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p32c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/32c Design Packet — Chapter 32.md",
+      "sha256": "717133e978ea8f0f4bcd326e79a71a9a146fa18e1a2850fd89a0561582088c5b",
+      "chunks": 1,
+      "words": 3227,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p32i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/32i Design Packet — Interlude 32.md",
+      "sha256": "7befd732d286cc9377468c9da1c1d756d264bed261d182f8dda3073c4d3bb3bd",
+      "chunks": 1,
+      "words": 2930,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p33c": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/33c Design Packet — Chapter 33.md",
+      "sha256": "5952feb95a90ea821eca76dc9250135e327d87cd14d7402d1374c1c3a19e949c",
+      "chunks": 1,
+      "words": 3566,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    },
+    "p33i": {
+      "path": "/Users/samseatt/projects/book_poma/_design_packets/33i Design Packet — Interlude 33.md",
+      "sha256": "a7d0285f08a9b1af6f0e49feaae4ce6f29f13aa87bc14bb4e43151f9fe04d202",
+      "chunks": 1,
+      "words": 4138,
+      "review_status": "read",
+      "reviewed_at": "2026-09-29T21:26:39.960179+00:00",
+      "chunks_read": [
+        1
+      ]
+    }
+  }
+}

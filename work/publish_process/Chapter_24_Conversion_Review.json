@@ -1,0 +1,356 @@
+{
+  "reviewed_on": "2026-09-29",
+  "scope": "Current Chapter 24 and paired interlude conversion candidates only. No canonical manuscript editing or full-book authority transition.",
+  "result": "Both samples pass for complete textual fidelity, semantic Markdown structure and preserved image assets.",
+  "method": "Independent OOXML text extraction, Pandoc parsed-document comparison, ordered text-block comparison, emphasis and quotation-span checks, hash checks against conversion records, and image byte comparison. No rendered Quarto/Word page-layout certification.",
+  "samples": [
+    {
+      "unit": "chapter",
+      "word_sha_matches_conversion_report": true,
+      "md_sha_matches_conversion_report": true,
+      "pandoc_plain_exact": false,
+      "pandoc_plain_normalized_exact": true,
+      "independent_xml_plain_normalized_exact": false,
+      "independent_xml_diff": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,10 @@\n",
+        "-Chapter",
+        "+[]",
+        "+CHAPTER",
+        " 24",
+        " The",
+        " Citizen's",
+        " Dilemma",
+        " Agency,",
+        " Trust,",
+        " and",
+        " Life"
+      ],
+      "source_features": {
+        "tracked_deletions": 0,
+        "strikethrough_properties": 0,
+        "tables": 0,
+        "hyperlinks": 0,
+        "math": 0,
+        "notes": {
+          "word/footnotes.xml": 0,
+          "word/endnotes.xml": 0
+        }
+      },
+      "source_ast_counts": {
+        "Image": 1,
+        "Emph": 2,
+        "BlockQuote": 1,
+        "LineBreak": 1,
+        "Strong": 18,
+        "Header": 14
+      },
+      "md_ast_counts": {
+        "Image": 1,
+        "Header": 15,
+        "Emph": 2,
+        "BlockQuote": 1,
+        "LineBreak": 1,
+        "Strong": 18
+      },
+      "images": [
+        {
+          "reference": "../assets/shared/chapter-arrow.png",
+          "exists": true,
+          "matches_embedded_source_bytes": true
+        }
+      ],
+      "word_styled_headings": [
+        [
+          "When Help Enters the Room",
+          "Heading2"
+        ],
+        [
+          "The Fear of the Helpful System",
+          "Heading2"
+        ],
+        [
+          "Agency Is Not a Button",
+          "Heading2"
+        ],
+        [
+          "Delegation Without Surrender",
+          "Heading2"
+        ],
+        [
+          "Trust as Architecture",
+          "Heading2"
+        ],
+        [
+          "The Model of Me",
+          "Heading2"
+        ],
+        [
+          "The Right to Outgrow the Model",
+          "Heading2"
+        ],
+        [
+          "Plural Selves, Plural Belonging",
+          "Heading2"
+        ],
+        [
+          "The Right to Opacity",
+          "Heading2"
+        ],
+        [
+          "Help That Leaves",
+          "Heading2"
+        ],
+        [
+          "Contestability as Dignity",
+          "Heading2"
+        ],
+        [
+          "Adaptive Systems and Paternalism",
+          "Heading2"
+        ],
+        [
+          "Dignity Under Recommendation",
+          "Heading2"
+        ],
+        [
+          "Build for Contestability",
+          "Heading2"
+        ]
+      ],
+      "inline_formatting_content_matches": {
+        "Emph": true,
+        "Strong": true,
+        "BlockQuote": true
+      },
+      "block_counts": {
+        "word": 480,
+        "markdown": 480
+      },
+      "block_differences": [
+        [
+          [
+            "Para",
+            "Chapter 24"
+          ],
+          [
+            "Para",
+            "CHAPTER 24"
+          ]
+        ],
+        [
+          [
+            "Para",
+            "The Citizen's Dilemma"
+          ],
+          [
+            "Header",
+            "The Citizen's Dilemma"
+          ]
+        ]
+      ],
+      "independent_xml_result": "All text matches after punctuation/whitespace normalization, removal of decorative-image placeholder, and applying source display capitals to Chapter/Interlude labels and Tiers.",
+      "independent_xml_after_confirmed_display_normalization_exact": true,
+      "formatting_matches_after_confirmed_small_caps_normalization": true,
+      "review_result": "PASS: no substantive text omission, insertion or reordering; portable Markdown preserves semantic structure and emphasis. Word small capitals rendered as capitals; titles promoted to H1.",
+      "source_path": "/Users/samseatt/projects/book_poma/7 24c - The Citizen’s Dilemma - Agency, Trust, and Life Inside the New Mesh.docx",
+      "source_sha256": "5fd6833c6655adbbf2571b4c43c5de9bd3dfdc62153638c0b4eee38566722019",
+      "markdown_path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
+      "markdown_sha256": "157464d5675fc4de1bbbd00fd0e7f59c96b9d3ccacaaf60d669397640019653f"
+    },
+    {
+      "unit": "interlude",
+      "word_sha_matches_conversion_report": true,
+      "md_sha_matches_conversion_report": true,
+      "pandoc_plain_exact": true,
+      "pandoc_plain_normalized_exact": true,
+      "independent_xml_plain_normalized_exact": false,
+      "independent_xml_diff": [
+        "--- \n",
+        "+++ \n",
+        "@@ -1,9 +1,10 @@\n",
+        "-Interlude",
+        "+[]",
+        "+INTERLUDE",
+        " 24",
+        " The",
+        " Developer's",
+        " Dilemma",
+        " Building",
+        " Without",
+        " Becoming",
+        " the",
+        "@@ -12,17 +13,17 @@\n",
+        " \"Every",
+        " system",
+        " hides",
+        " a",
+        " constitution.\"",
+        " ---",
+        " Lawrence",
+        " Lessig",
+        "-Tiers",
+        "+TIERS",
+        " The",
+        " phrase",
+        " on",
+        " the",
+        " screen",
+        " was",
+        " so",
+        " polite"
+      ],
+      "source_features": {
+        "tracked_deletions": 0,
+        "strikethrough_properties": 0,
+        "tables": 0,
+        "hyperlinks": 0,
+        "math": 0,
+        "notes": {
+          "word/footnotes.xml": 0,
+          "word/endnotes.xml": 0
+        }
+      },
+      "source_ast_counts": {
+        "Image": 1,
+        "Emph": 4,
+        "BlockQuote": 1,
+        "LineBreak": 1,
+        "Strong": 4,
+        "Header": 14
+      },
+      "md_ast_counts": {
+        "Image": 1,
+        "Header": 15,
+        "Emph": 4,
+        "BlockQuote": 1,
+        "LineBreak": 1,
+        "Strong": 4
+      },
+      "images": [
+        {
+          "reference": "../assets/shared/interlude-gear.png",
+          "exists": true,
+          "matches_embedded_source_bytes": true
+        }
+      ],
+      "word_styled_headings": [
+        [
+          "The Punch-Card Loom",
+          "Heading2"
+        ],
+        [
+          "The Builder as Civic Actor",
+          "Heading2"
+        ],
+        [
+          "Help Without Custody",
+          "Heading2"
+        ],
+        [
+          "Consent After the Checkbox",
+          "Heading2"
+        ],
+        [
+          "The Model of Me",
+          "Heading2"
+        ],
+        [
+          "The Right to Outgrow the Model",
+          "Heading2"
+        ],
+        [
+          "Explanation, Stakes, and Recourse",
+          "Heading2"
+        ],
+        [
+          "When Not to Automate",
+          "Heading2"
+        ],
+        [
+          "Dark Patterns as Civic Poison",
+          "Heading2"
+        ],
+        [
+          "Who Governs the Builders?",
+          "Heading2"
+        ],
+        [
+          "The Dangerous Word: Optimization",
+          "Heading2"
+        ],
+        [
+          "Exit, Portability, and Plural Help",
+          "Heading2"
+        ],
+        [
+          "The Developer’s Oath",
+          "Heading2"
+        ],
+        [
+          "Handoff: The Ledger Beneath the Help",
+          "Heading2"
+        ]
+      ],
+      "inline_formatting_content_matches": {
+        "Emph": false,
+        "Strong": true,
+        "BlockQuote": true
+      },
+      "block_counts": {
+        "word": 495,
+        "markdown": 495
+      },
+      "block_differences": [
+        [
+          [
+            "Para",
+            "Interlude 24"
+          ],
+          [
+            "Para",
+            "INTERLUDE 24"
+          ]
+        ],
+        [
+          [
+            "Para",
+            "The Developer's Dilemma"
+          ],
+          [
+            "Header",
+            "The Developer's Dilemma"
+          ]
+        ],
+        [
+          [
+            "Para",
+            "Tiers"
+          ],
+          [
+            "Para",
+            "TIERS"
+          ]
+        ]
+      ],
+      "independent_xml_result": "All text matches after punctuation/whitespace normalization, removal of decorative-image placeholder, and applying source display capitals to Chapter/Interlude labels and Tiers.",
+      "independent_xml_after_confirmed_display_normalization_exact": true,
+      "formatting_matches_after_confirmed_small_caps_normalization": true,
+      "review_result": "PASS: no substantive text omission, insertion or reordering; portable Markdown preserves semantic structure and emphasis. Word small capitals rendered as capitals; titles promoted to H1.",
+      "source_path": "/Users/samseatt/projects/book_poma/7 24i - The Developer's Dilemma - Building Without Becoming the New Tyrant.docx",
+      "source_sha256": "48e8a2da612ba8d6cb2ca887178e31833c24a382f1470cbcfd6279959139d343",
+      "markdown_path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
+      "markdown_sha256": "de4a5dda322e7273deb8585bfbac92b4c05f35602df82b5f056f105a41107efe"
+    }
+  ],
+  "workflow_conclusion": "Accept the manuscripts/archive/quarto/work separation; retire draft/ as an active destination. Publisher writes manuscripts only for the initial reviewed conversion and treats them as read-only after the author-confirmed transition.",
+  "publishing_recommendation": "Use a named commit or explicitly requested frozen working-tree snapshot for each publication. Include content and assets; record the revision. No publication is authorized by this review.",
+  "full_migration_notes": [
+    "Explicit Volume III order: 23,24,25,31,27,29,26,30,28,32,33; original IDs are not renumbered.",
+    "Consult current/legacy boundaries in VOLUME_III_READING_NOTES.md for Theta interlude and Chapter 33 pair; do not publish appended obsolete drafts as current prose. Preserve selected art material as reference.",
+    "These two samples contain no tables, equations, links or substantive foot/endnotes. They do not establish fidelity for those features elsewhere.",
+    "Keep the source and converted-file hashes and the review-confirmation boundary; update the editorial source mapping only on confirmed migration."
+  ],
+  "files_changed_during_review": "Workflow/reference records only; the reviewed Markdown and Word files are unchanged."
+}
