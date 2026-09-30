@@ -58,7 +58,7 @@
       32,
       33
     ],
-    "note": "The author accepts the current chapter/gate structure. Chapter, cold open and paired interlude remain together. Original IDs remain unchanged until explicit renumbering. The earlier provisional proposal is retained as superseded provenance; do not infer reading order by filename sorting."
+    "note": "Author-authorized renumbering completed on 2026-09-30. These arrays retain original identities as provenance; final_order maps to current sequential numbers 23–33. Read current_chapter_number and active_source for current numbering and paths. unit_id, original_chapter_id, Word archives and design-packet identities remain stable."
   },
   "editorial_references": {
     "style_guide": "/Users/samseatt/projects/book_poma/_GPT_session_outputs/GPT_writing_and_style_guide.md",
@@ -155,7 +155,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/index.md",
-        "sha256": "a3524a1b82da24cddea27eee16a261b11dc7fa6dabcd1fbd228cf205fdbb5272"
+        "sha256": "5a6a45078ab3275b17d1ec13f5a23d818756da85e424401df1b369aa84ffdb4c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/2 Index.docx",
       "source_sha256_at_inventory": "3c6732b49f84d630ba0020cb5e5f60a41fd92f8fdc5cfc934aa380b4ffd8f8fe",
@@ -2684,7 +2684,8 @@
         "sha256": "62ec2e32aa7b5afce31cdd8485c89bcb1a6715a6cba35051a0662a3a9bf34036"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/23-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/23-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/23-open.md",
+      "current_chapter_number": 23
     },
     {
       "unit_id": "v3-23-chapter",
@@ -2725,7 +2726,8 @@
         "sha256": "bfb613808b37e788da56388f5d187eeb2f881f9d57ee13111b7812a14da91511"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/23-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/23-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/23-chapter.md",
+      "current_chapter_number": 23
     },
     {
       "unit_id": "v3-23-interlude",
@@ -2766,7 +2768,8 @@
         "sha256": "b165b1408436804a1ad6d98df44fc5268cf6c5a58b70aa230d831f2de8e3fca4"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/23-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/23-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/23-interlude.md",
+      "current_chapter_number": 23
     },
     {
       "unit_id": "v3-24-open",
@@ -2802,7 +2805,8 @@
         "sha256": "1b73faaa17387bc9d8c13c2a60aa368b59063fb2d2a7a8a3c1baccb4759f6e0d"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/24-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/24-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/24-open.md",
+      "current_chapter_number": 24
     },
     {
       "unit_id": "v3-24-chapter",
@@ -2849,7 +2853,8 @@
         "sha256": "5fd6833c6655adbbf2571b4c43c5de9bd3dfdc62153638c0b4eee38566722019"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/24-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/24-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/24-chapter.md",
+      "current_chapter_number": 24
     },
     {
       "unit_id": "v3-24-interlude",
@@ -2890,7 +2895,8 @@
         "sha256": "48e8a2da612ba8d6cb2ca887178e31833c24a382f1470cbcfd6279959139d343"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/24-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/24-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/24-interlude.md",
+      "current_chapter_number": 24
     },
     {
       "unit_id": "v3-25-open",
@@ -2926,7 +2932,8 @@
         "sha256": "001d8d41131ce91e8e0d75fef8c9744442554dfe91b73fa7c32badac8f7d4c97"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/25-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/25-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/25-open.md",
+      "current_chapter_number": 25
     },
     {
       "unit_id": "v3-25-chapter",
@@ -2967,7 +2974,8 @@
         "sha256": "375f39e68cd45bb7bda31d6460a86f51c3df97602bf0aec781ed0c012e232e9d"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/25-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/25-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/25-chapter.md",
+      "current_chapter_number": 25
     },
     {
       "unit_id": "v3-25-interlude",
@@ -3008,7 +3016,8 @@
         "sha256": "c9e750c7e4e8f4ce1a614f95ad4bcdc5277a5545f363bbadb2dcc278a87946f5"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/25-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/25-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/25-interlude.md",
+      "current_chapter_number": 25
     },
     {
       "unit_id": "v3-26-open",
@@ -3018,7 +3027,7 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-open.md",
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-open.md",
         "sha256": "d18bf7311e4a884ae51ce37b534b6b7c6a3a4386ed73d30911c023af76b2e2cc"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 26 - Open 26.docx",
@@ -3028,7 +3037,7 @@
         "At her wrist, the woven bracelet chimed softly. A subtle projection unfolded above her hand, showing proposals from her district: a new footbridge plan, floodplain plantings, a com",
         "She read, thought, and added a comment about planting native grasses to reduce erosion. The words slipped instantly into the shared draft."
       ],
-      "planned_markdown_path": "manuscripts/volume-3/26-open.md",
+      "planned_markdown_path": "manuscripts/volume-3/29-open.md",
       "design_packet": null,
       "reading_review": {
         "status": "read",
@@ -3044,7 +3053,9 @@
         "sha256": "ebee4d7885f6c1bb6ca4a52d618fe77120b68304cefc3f92c6d33a2abff10546"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/26-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/26-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/29-open.md",
+      "current_chapter_number": 29,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/26-open.md"
     },
     {
       "unit_id": "v3-26-chapter",
@@ -3054,8 +3065,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
-        "sha256": "34f604bf91fae96dc07779f23b558590ee5fe7d7cb5d8543797d69586416c897"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
+        "sha256": "732e3cd98131e03dbad98814501a05e6fed943871656c46a8e56a79542b85e73"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 26c - The Steward’s Edge - Redefining Governance and Citizenship.docx",
       "source_sha256_at_inventory": "c912f28f89f919a039b0f8bfc4208808484e3482993d8cdb620d01b500bbf35b",
@@ -3064,7 +3075,7 @@
         "The Steward’s Edge",
         "Redefining Governance and Citizenship"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/26-chapter.md",
+      "planned_markdown_path": "manuscripts/volume-3/29-chapter.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/29c prev-26c Design Packet — Chapter 26.md",
         "filename_sequence_number": 29,
@@ -3085,7 +3096,9 @@
         "sha256": "c912f28f89f919a039b0f8bfc4208808484e3482993d8cdb620d01b500bbf35b"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/26-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/26-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/29-chapter.md",
+      "current_chapter_number": 29,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/26-chapter.md"
     },
     {
       "unit_id": "v3-26-interlude",
@@ -3095,8 +3108,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
-        "sha256": "ad5cf2a14fdbd733b7f4bdf994000201d1c0e751e2a982b1c1781cb89ef52ca5"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
+        "sha256": "6b31e93d96361cec9e30687a362bedf66ed0ab5b85c95c6ff640e43e05874d57"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 26i - Civic Meshes - Identity, Federation, and Protocol Governance.docx",
       "source_sha256_at_inventory": "30770c3fcd1e2e2f67109a164dbd3e9a7f0a217bf532737cf9990c72915df15b",
@@ -3105,7 +3118,7 @@
         "Civic Meshes",
         "Identity, Federation, and Protocol Governance"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/26-interlude.md",
+      "planned_markdown_path": "manuscripts/volume-3/29-interlude.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/29i prev-26i Design Packet — Interlude 26.md",
         "filename_sequence_number": 29,
@@ -3126,7 +3139,9 @@
         "sha256": "30770c3fcd1e2e2f67109a164dbd3e9a7f0a217bf532737cf9990c72915df15b"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/26-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/26-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/29-interlude.md",
+      "current_chapter_number": 29,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/26-interlude.md"
     },
     {
       "unit_id": "v3-27-open",
@@ -3162,7 +3177,8 @@
         "sha256": "67b24d212c96a6507f54d908da35f47e6bc918c7bf0b6d99d5f988fa001bad3c"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/27-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/27-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/27-open.md",
+      "current_chapter_number": 27
     },
     {
       "unit_id": "v3-27-chapter",
@@ -3203,7 +3219,8 @@
         "sha256": "151e825fe6960ef50b7618f809dcba4c083c66c7e7bce8558efc156d0cfdf22a"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/27-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/27-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/27-chapter.md",
+      "current_chapter_number": 27
     },
     {
       "unit_id": "v3-27-interlude",
@@ -3244,7 +3261,8 @@
         "sha256": "84d0fb06f94ac2c4efcfb0ea97631ba43ec68c8d27079744246dd27d1b0d5943"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/27-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/27-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/27-interlude.md",
+      "current_chapter_number": 27
     },
     {
       "unit_id": "v3-28-open",
@@ -3254,7 +3272,7 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-open.md",
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-open.md",
         "sha256": "347fc2faa07adbce4f5dd7b5210c9d7c5200d5c88f7892f84f6eca11e26ed9f5"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28 - Open 28.docx",
@@ -3264,7 +3282,7 @@
         "As he entered the clinic, the doors parted silently, scent of clean air and warm cedar drifting out. A nurse greeted him by name — not from a file, but because his wearable and hom",
         "Soon he lay inside a softly humming scanner. Gentle lights swept over his chest, generating a personalized imaging plan on the fly: a hybrid echo with targeted views. Beside him, a"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/28-open.md",
+      "planned_markdown_path": "manuscripts/volume-3/31-open.md",
       "design_packet": null,
       "reading_review": {
         "status": "read",
@@ -3280,7 +3298,9 @@
         "sha256": "1c54f51a0da886ae4552a2330d23efb27b0b99fa7a846287657f6bcb0b6bb355"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/28-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/28-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/31-open.md",
+      "current_chapter_number": 31,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/28-open.md"
     },
     {
       "unit_id": "v3-28-chapter",
@@ -3290,8 +3310,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
-        "sha256": "17815dbf526011ac70d64cc5eefa6f7e54fbe4b4f698745bc51a03f8698f5ecc"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
+        "sha256": "a78f36c8e9d847f0fedddc8eb5fa77cc9a7546aa38872f540eaa9b9a92bfe23a"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28c - The Flow of Care - Health as an Emergent State.docx",
       "source_sha256_at_inventory": "6aa8c0f70bd4e0b7d5f50b48beae91120bc58c9303f027b585aca10762d67332",
@@ -3300,7 +3320,7 @@
         "The Flow of Care",
         "Health as an Emergent State"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/28-chapter.md",
+      "planned_markdown_path": "manuscripts/volume-3/31-chapter.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/31c prev-28c Design Packet — Chapter 28.md",
         "filename_sequence_number": 31,
@@ -3321,7 +3341,9 @@
         "sha256": "6aa8c0f70bd4e0b7d5f50b48beae91120bc58c9303f027b585aca10762d67332"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/28-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/28-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/31-chapter.md",
+      "current_chapter_number": 31,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/28-chapter.md"
     },
     {
       "unit_id": "v3-28-interlude",
@@ -3331,8 +3353,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
-        "sha256": "c026ec17a8ba920637112735d40f24f4178669fd44ad59485277a5cb4a9ce06a"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
+        "sha256": "01ac2111237343466d9c7d36155b6f69cf42909d322a1a17d5118a589601b30b"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28i - From Molecule to Moment — Precision Medicine in the NEURO Age.docx",
       "source_sha256_at_inventory": "53d39e4517a0ba80c12dc42b0aaa53a67d890aba6102e6292caae75539dfa15e",
@@ -3341,7 +3363,7 @@
         "From Molecule to Moment",
         "Precision Medicine in the Age of Pattern Stewardship"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/28-interlude.md",
+      "planned_markdown_path": "manuscripts/volume-3/31-interlude.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/31i prev-28i Design Packet — Interlude 28.md",
         "filename_sequence_number": 31,
@@ -3362,7 +3384,9 @@
         "sha256": "53d39e4517a0ba80c12dc42b0aaa53a67d890aba6102e6292caae75539dfa15e"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/28-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/28-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/31-interlude.md",
+      "current_chapter_number": 31,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/28-interlude.md"
     },
     {
       "unit_id": "v3-29-open",
@@ -3372,7 +3396,7 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-open.md",
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-open.md",
         "sha256": "b8c6d2db0254e3919f2a3caf8fb0dc6892552e3087531bd050b64af3c7423333"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 29 - Open 29.docx",
@@ -3382,7 +3406,7 @@
         "A teen hunched over her tablet, brow furrowed in concentration. On-screen, the contours of a prosthetic limb shifted as she fine-tuned its curve to fit a neighbor’s growing child.",
         "Beside her, a 3D printer hummed steadily, nozzle weaving layer upon layer into a gleaming, functional form."
       ],
-      "planned_markdown_path": "manuscripts/volume-3/29-open.md",
+      "planned_markdown_path": "manuscripts/volume-3/28-open.md",
       "design_packet": null,
       "reading_review": {
         "status": "read",
@@ -3398,7 +3422,9 @@
         "sha256": "422c8896c5a3349fddd482d941039d06b29428a97def62c72873ac72a8363418"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/29-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/29-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/28-open.md",
+      "current_chapter_number": 28,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/29-open.md"
     },
     {
       "unit_id": "v3-29-chapter",
@@ -3408,8 +3434,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
-        "sha256": "3470845d50a5aa80725c39042df763a78b5cd82ec61c2aabcddd8bde00af266f"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
+        "sha256": "c69bd5faf08730a0b8ca70768de8367c7d3e62378de959109e263f7a0315ab92"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 29c - The Reimagined Workshop - Making as Stewardship.docx",
       "source_sha256_at_inventory": "a1cc666cbef213906ee6e5e85084fb714d2409717ad861ad41568014c2c30dc6",
@@ -3418,7 +3444,7 @@
         "The Reimagined Workshop",
         "Making as Stewardship"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/29-chapter.md",
+      "planned_markdown_path": "manuscripts/volume-3/28-chapter.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/28c prev-29c Design Packet — Chapter 29.md",
         "filename_sequence_number": 28,
@@ -3439,7 +3465,9 @@
         "sha256": "a1cc666cbef213906ee6e5e85084fb714d2409717ad861ad41568014c2c30dc6"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/29-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/29-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/28-chapter.md",
+      "current_chapter_number": 28,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/29-chapter.md"
     },
     {
       "unit_id": "v3-29-interlude",
@@ -3449,8 +3477,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
-        "sha256": "fb2a67eb9c0462bab40fb7d92e17938ff567534f0e1b67bb8f56419d7860f1b6"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
+        "sha256": "eb18d9e9dc9100d4b5a410d1ece12006bb18d14a01977e1eef2242ab83ae47ea"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 29i - Neufacturing — Biofabrication and Architectures of Regenerative Matter.docx",
       "source_sha256_at_inventory": "cb2fd6ffe169d56dbf109970a2b7ed25ebedb429a8b260e8616443a83303550f",
@@ -3459,7 +3487,7 @@
         "Neufacturing",
         "Biofabrication and Architectures of Regenerative Matter"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/29-interlude.md",
+      "planned_markdown_path": "manuscripts/volume-3/28-interlude.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/28i prev-29i Design Packet — Interlude 29.md",
         "filename_sequence_number": 28,
@@ -3480,7 +3508,9 @@
         "sha256": "cb2fd6ffe169d56dbf109970a2b7ed25ebedb429a8b260e8616443a83303550f"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/29-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/29-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/28-interlude.md",
+      "current_chapter_number": 28,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/29-interlude.md"
     },
     {
       "unit_id": "v3-30-open",
@@ -3516,7 +3546,8 @@
         "sha256": "09755e047422a4fd238556e1a660ff6d17ea64609a572a839afb7b18513f1ca7"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/30-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/30-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/30-open.md",
+      "current_chapter_number": 30
     },
     {
       "unit_id": "v3-30-chapter",
@@ -3557,7 +3588,8 @@
         "sha256": "9c803d39850b71f2a5e437512d50f94830eecc0f972d39bee242f6ce2d85a133"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/30-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/30-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/30-chapter.md",
+      "current_chapter_number": 30
     },
     {
       "unit_id": "v3-30-interlude",
@@ -3598,7 +3630,8 @@
         "sha256": "5913e1d91b5c1ceec2e156b3b4b050cbd0489c50882ce8d216ccc4768f089309"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/30-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/30-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/30-interlude.md",
+      "current_chapter_number": 30
     },
     {
       "unit_id": "v3-31-open",
@@ -3608,7 +3641,7 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-open.md",
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-open.md",
         "sha256": "cf5a577fd6c8f2cacfa6dffff388706d76a65c1aa30102ed2b0b5584fc77507d"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 31 - Open 31.docx",
@@ -3618,7 +3651,7 @@
         "Today’s challenge: How might we rebuild our neighborhood after a flood? One child suggested floating gardens. Another remembered how bees returned after their school planted flower",
         "Their devices gently prodded them: What else could you consider? Who might be left out? How did ancient communities face floods?"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/31-open.md",
+      "planned_markdown_path": "manuscripts/volume-3/26-open.md",
       "design_packet": null,
       "reading_review": {
         "status": "read",
@@ -3634,7 +3667,9 @@
         "sha256": "c46143454d600189263aa38cb3e85489b5769b231ce37df8fcf4b3e74868aa8f"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/31-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/31-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/26-open.md",
+      "current_chapter_number": 26,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/31-open.md"
     },
     {
       "unit_id": "v3-31-chapter",
@@ -3644,8 +3679,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
-        "sha256": "388e7a0df9666844d93e049525cd9dd0fb9aadacf959e7aee2dbf63f6cda4cd2"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
+        "sha256": "9655cf47fe3b56a6230d94a5469e63230163e019d778ac25e7a360fa2e7498b6"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 31c - Minds in Harmony - Learning, Meaning, and Shared Reality.docx",
       "source_sha256_at_inventory": "857c7039dd88173cc34bffbe6a0e5abde175e583985b964ed25c5b4b525110bc",
@@ -3654,7 +3689,7 @@
         "Minds in Harmony",
         "Learning, Meaning, and Shared Reality"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/31-chapter.md",
+      "planned_markdown_path": "manuscripts/volume-3/26-chapter.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/26c prev-31c Design Packet — Chapter 31.md",
         "filename_sequence_number": 26,
@@ -3675,7 +3710,9 @@
         "sha256": "857c7039dd88173cc34bffbe6a0e5abde175e583985b964ed25c5b4b525110bc"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/31-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/31-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/26-chapter.md",
+      "current_chapter_number": 26,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/31-chapter.md"
     },
     {
       "unit_id": "v3-31-interlude",
@@ -3685,8 +3722,8 @@
       "status": "canonical-markdown",
       "active_source": {
         "format": "markdown",
-        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
-        "sha256": "7a9688c4e699864f9f46bedbe0b22ec3a9802c4711ef2b6ce586afc755214ecf"
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
+        "sha256": "72b540c7db9e6e4a49eed85603ebd44141dbd872f4c289a93aa2fd0290b54deb"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 31i - Signal and Story - Cognitive Architectures for a Wise Infosphere.docx",
       "source_sha256_at_inventory": "5d547966193917cacdac4fafdb59282670b93a7facfa65fafc2b31ef968a48c1",
@@ -3695,7 +3732,7 @@
         "Signal & Story",
         "Cognitive Architectures for a Wise Infosphere"
       ],
-      "planned_markdown_path": "manuscripts/volume-3/31-interlude.md",
+      "planned_markdown_path": "manuscripts/volume-3/26-interlude.md",
       "design_packet": {
         "path": "/Users/samseatt/projects/book_poma/_design_packets/26i prev-31i Design Packet — Interlude 31.md",
         "filename_sequence_number": 26,
@@ -3716,7 +3753,9 @@
         "sha256": "5d547966193917cacdac4fafdb59282670b93a7facfa65fafc2b31ef968a48c1"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/31-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/31-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/26-interlude.md",
+      "current_chapter_number": 26,
+      "pre_renumbering_markdown_path": "manuscripts/volume-3/31-interlude.md"
     },
     {
       "unit_id": "v3-32-open",
@@ -3752,7 +3791,8 @@
         "sha256": "c869df121780c5837e52f7a97ae4115325138a23e5aa38d873dd34a5ce0ab698"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/32-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/32-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/32-open.md",
+      "current_chapter_number": 32
     },
     {
       "unit_id": "v3-32-chapter",
@@ -3793,7 +3833,8 @@
         "sha256": "7e095c87bfdcae5a194a38c1b5ba854a59001cd587639d146a71623c26c08074"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/32-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/32-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/32-chapter.md",
+      "current_chapter_number": 32
     },
     {
       "unit_id": "v3-32-interlude",
@@ -3834,7 +3875,8 @@
         "sha256": "1cdf4ac998783a95675722d43a666c443faeef62a77a8b8aa4d74ea99a52b3c2"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/32-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/32-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/32-interlude.md",
+      "current_chapter_number": 32
     },
     {
       "unit_id": "v3-33-open",
@@ -3870,7 +3912,8 @@
         "sha256": "6e08dec231ba9269f9e310962d75e4a29b3799907abdbc76fbbbada7c9a484f7"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/33-open.md",
-      "canonical_markdown_path": "manuscripts/volume-3/33-open.md"
+      "canonical_markdown_path": "manuscripts/volume-3/33-open.md",
+      "current_chapter_number": 33
     },
     {
       "unit_id": "v3-33-chapter",
@@ -3916,7 +3959,8 @@
         "sha256": "2c8280023d2619149f628efc593583f9f5b9282215aa2be5c19dcee775ce3f7a"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/33-chapter.md",
-      "canonical_markdown_path": "manuscripts/volume-3/33-chapter.md"
+      "canonical_markdown_path": "manuscripts/volume-3/33-chapter.md",
+      "current_chapter_number": 33
     },
     {
       "unit_id": "v3-33-interlude",
@@ -3966,7 +4010,8 @@
         "sha256": "8ee79f15ce105ac6766a411ba53d4c76f5f52d6b8f2070266952b8a1d7af19d7"
       },
       "legacy_planned_markdown_path": "draft/volume-iii/33-interlude.md",
-      "canonical_markdown_path": "manuscripts/volume-3/33-interlude.md"
+      "canonical_markdown_path": "manuscripts/volume-3/33-interlude.md",
+      "current_chapter_number": 33
     },
     {
       "unit_id": "epilogue",
@@ -4061,5 +4106,40 @@
         "sha256": "323bb187e823f757adfbbd3b4580a1fc383b2e74c20308a9df18dc49d61d7fd3"
       }
     }
-  ]
+  ],
+  "volume_iii_renumbering": {
+    "status": "completed",
+    "date": "2026-09-30",
+    "based_on_commit": "8a432f7e31196d1973b4d1986432cc5e405302bc",
+    "original_to_current": {
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "31": 26,
+      "27": 27,
+      "29": 28,
+      "26": 29,
+      "30": 30,
+      "28": 31,
+      "32": 32,
+      "33": 33
+    },
+    "current_reading_order": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "identity_policy": "unit_id and original_chapter_id remain stable provenance identifiers; current_chapter_number supplies the display number. Conversion reports and asset directory names retain their original identities.",
+    "record": "work/provenance/volume-iii-renumbering-2026-09-30.json",
+    "publishing_handoff": "work/publish_process/Volume_III_Renumbering_Handoff.md",
+    "publishing_status": "Publisher must adapt numbering consumers and refresh generated output before the next publication."
+  }
 }

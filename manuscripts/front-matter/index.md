@@ -258,13 +258,13 @@ Design vertebra: value flow. Rethinks economy through sensed need, contribution,
 
 Builder focus: value-flow graphs, DAG-based contribution and provisioning, service credits, anti-hoarding, local/global matching, privacy-preserving auditability, and anti-speculative logic.
 
-## Chapter 26. The Steward's Edge --- Governance as Co-Authorship
+## Chapter 26. Minds in Harmony --- Learning, Meaning, and Shared Reality
 
-Design vertebra: stewardship / governance. Citizenship as participation rather than passive status: edge legitimacy, hybrid delegation, civic roles, mediation, auditing, and governance people can enter.
+Design vertebra: epistemic flourishing. Education, media, shared reality, learning as civic becoming, epistemic commons, misinformation repair, and Neusphere becoming most visible.
 
-**Interlude 26. Civic Meshes --- Identity, Federation, and Protocol Governance**
+**Interlude 26. Signal and Story --- Cognitive Architectures for a Wise Infosphere**
 
-Builder focus: self-sovereign identity, plural membership, civic credentials, liquid delegation, rights across meshes, protocol governance, jurisdiction, and privacy-preserving eligibility.
+Builder focus: machine-assisted learning, narrative environments, epistemic resilience, nudge/neuducation architectures, anti-manipulation design, and meaningful cognitive scaffolds.
 
 ## Chapter 27. The Reclaimed Commons --- Data, Nature, and Shared Ground
 
@@ -274,21 +274,21 @@ Design vertebra: commons protection. Restores commons as load-bearing systems: d
 
 Builder focus: data stewardship, biological/genomic commons, ecological data trusts, protected knowledge zones, anti-enclosure mechanisms, consent, provenance, retention, and truth resilience.
 
-## Chapter 28. The Flow of Care --- Health as Presence, Pattern, and Partnership
-
-Design vertebra: adaptive care. Care as longitudinal, relational, contextual, and attentive: the whole patient, clinician-family-system loops, AI as clinical companion, and presence over throughput.
-
-**Interlude 28. From Molecule to Moment --- Precision Medicine in the NEURO Age**
-
-Builder focus: digital twins without reductionism, genomics, labs, wearables, medications, symptoms, context, uncertainty display, escalation paths, clinical recourse, and safety provenance.
-
-## Chapter 29. The Reimagined Workshop --- Making as Stewardship
+## Chapter 28. The Reimagined Workshop --- Making as Stewardship
 
 Design vertebra: regenerative making. Production reimagined as responsibility: material, energy, labor, waste, local and distributed capacity, repair, reuse, regeneration, and sustainable making.
 
-**Interlude 29. Neufacturing --- Biofabrication and Regenerative Matter**
+**Interlude 28. Neufacturing --- Biofabrication and Regenerative Matter**
 
 Builder focus: distributed fabrication, parametric design, material passports, circular supply chains, regenerative materials, biofabrication ethics, energy accounting, and repairability by design.
+
+## Chapter 29. The Steward's Edge --- Governance as Co-Authorship
+
+Design vertebra: stewardship / governance. Citizenship as participation rather than passive status: edge legitimacy, hybrid delegation, civic roles, mediation, auditing, and governance people can enter.
+
+**Interlude 29. Civic Meshes --- Identity, Federation, and Protocol Governance**
+
+Builder focus: self-sovereign identity, plural membership, civic credentials, liquid delegation, rights across meshes, protocol governance, jurisdiction, and privacy-preserving eligibility.
 
 ## Chapter 30. Justice Before Judgment --- Living Inside Fair Systems
 
@@ -298,13 +298,13 @@ Design vertebra: justice by design. What it means to inhabit institutions whose 
 
 Builder focus: fairness constraints, auditability, contestable automated decisions, evidence provenance, bias testing, due-process workflows, restorative pathways, and human judgment under guardrails.
 
-## Chapter 31. Minds in Harmony --- Learning, Meaning, and Shared Reality
+## Chapter 31. The Flow of Care --- Health as Presence, Pattern, and Partnership
 
-Design vertebra: epistemic flourishing. Education, media, shared reality, learning as civic becoming, epistemic commons, misinformation repair, and Neusphere becoming most visible.
+Design vertebra: adaptive care. Care as longitudinal, relational, contextual, and attentive: the whole patient, clinician-family-system loops, AI as clinical companion, and presence over throughput.
 
-**Interlude 31. Signal and Story --- Cognitive Architectures for a Wise Infosphere**
+**Interlude 31. From Molecule to Moment --- Precision Medicine in the NEURO Age**
 
-Builder focus: machine-assisted learning, narrative environments, epistemic resilience, nudge/neuducation architectures, anti-manipulation design, and meaningful cognitive scaffolds.
+Builder focus: digital twins without reductionism, genomics, labs, wearables, medications, symptoms, context, uncertainty display, escalation paths, clinical recourse, and safety provenance.
 
 ## Chapter 32. Threads of Continuity --- Culture, Memory, and the Long Now
 

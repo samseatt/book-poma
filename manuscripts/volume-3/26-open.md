@@ -1,13 +1,15 @@
-![](assets/26-open/opening.png)
+![](assets/31-open/opening.png)
 
-She settled on her favorite bench by the river, sun warming her back as birds sang overhead. Around her, the park pulsed with quiet life --- joggers passing, children laughing.
+A group of children sprawled across a sunny park meadow, shoes kicked off, knees brushing soft grass. In the center, a circle of small interactive devices projected shimmering prompts into the air.
 
-At her wrist, the woven bracelet chimed softly. A subtle projection unfolded above her hand, showing proposals from her district: a new footbridge plan, floodplain plantings, a community workshop. Each option glowed with potential, balanced by insights beyond any one mind's reach.
+Today's challenge: *How might we rebuild our neighborhood after a flood?* One child suggested floating gardens. Another remembered how bees returned after their school planted flowers. A third worried about families with nowhere dry to sleep.
 
-She read, thought, and added a comment about planting native grasses to reduce erosion. The words slipped instantly into the shared draft.
+Their devices gently prodded them: *What else could you consider? Who might be left out? How did ancient communities face floods?*
 
-She looked out across the water, feeling a quiet certainty: her voice mattered, even here, and every morning offered a chance to shape the world.
+They debated with fearless curiosity, each idea stretching their minds wider. Subtle guides within the system highlighted biases, nurtured empathy, and brought old wisdom into new light.
+
+Nearby adults watched quietly --- some parents, some trained educators --- all there to support but never to stifle.
 
 ![](../assets/shared/separator.png)
 
-*The river listened---and so did the world.*
+*The world had become their classroom. And wonder, their teacher.*

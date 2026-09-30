@@ -1,13 +1,13 @@
-![](assets/29-open/opening.png)
+![](assets/26-open/opening.png)
 
-Sunlight streamed through tall windows onto rows of worktables littered with tools, scraps of filament, and scribbled notes. The air smelled of warm plastic and fresh coffee from the communal pot in the corner.
+She settled on her favorite bench by the river, sun warming her back as birds sang overhead. Around her, the park pulsed with quiet life --- joggers passing, children laughing.
 
-A teen hunched over her tablet, brow furrowed in concentration. On-screen, the contours of a prosthetic limb shifted as she fine-tuned its curve to fit a neighbor's growing child.
+At her wrist, the woven bracelet chimed softly. A subtle projection unfolded above her hand, showing proposals from her district: a new footbridge plan, floodplain plantings, a community workshop. Each option glowed with potential, balanced by insights beyond any one mind's reach.
 
-Beside her, a 3D printer hummed steadily, nozzle weaving layer upon layer into a gleaming, functional form.
+She read, thought, and added a comment about planting native grasses to reduce erosion. The words slipped instantly into the shared draft.
 
-Above her design, a small display pulsed with quiet meaning: a contribution score, not currency or praise, but a living reflection of what she had given --- and what she'd someday receive.
+She looked out across the water, feeling a quiet certainty: her voice mattered, even here, and every morning offered a chance to shape the world.
 
 ![](../assets/shared/separator.png)
 
-*In this place, creation wasn't competition; it was kindness.*
+*The river listened---and so did the world.*

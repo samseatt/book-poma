@@ -1,13 +1,13 @@
-![](assets/28-open/opening.png)
+![](assets/29-open/opening.png)
 
-A tram glided to a quiet stop under pale morning skies. The man stepped off, his wristband pulsing a soft green. He didn't rush; his care team had already mapped every step.
+Sunlight streamed through tall windows onto rows of worktables littered with tools, scraps of filament, and scribbled notes. The air smelled of warm plastic and fresh coffee from the communal pot in the corner.
 
-As he entered the clinic, the doors parted silently, scent of clean air and warm cedar drifting out. A nurse greeted him by name --- not from a file, but because his wearable and home devices had already streamed a month of vitals, flagged subtle shifts, and tailored his checkup.
+A teen hunched over her tablet, brow furrowed in concentration. On-screen, the contours of a prosthetic limb shifted as she fine-tuned its curve to fit a neighbor's growing child.
 
-Soon he lay inside a softly humming scanner. Gentle lights swept over his chest, generating a personalized imaging plan on the fly: a hybrid echo with targeted views. Beside him, a projection of his digital physician floated just beyond the scanner bore, eyes kind, voice calm.
+Beside her, a 3D printer hummed steadily, nozzle weaving layer upon layer into a gleaming, functional form.
 
-Each heartbeat traced new patterns across shared displays. Notes and insights wove instantly into his lifelong health record. No rushed paperwork, no cryptic charts --- just a team, human and digital, seeing him fully, caring for him precisely.
+Above her design, a small display pulsed with quiet meaning: a contribution score, not currency or praise, but a living reflection of what she had given --- and what she'd someday receive.
 
 ![](../assets/shared/separator.png)
 
-*He was never just a chart again.*
+*In this place, creation wasn't competition; it was kindness.*

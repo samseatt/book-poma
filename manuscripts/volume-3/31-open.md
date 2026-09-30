@@ -1,15 +1,13 @@
-![](assets/31-open/opening.png)
+![](assets/28-open/opening.png)
 
-A group of children sprawled across a sunny park meadow, shoes kicked off, knees brushing soft grass. In the center, a circle of small interactive devices projected shimmering prompts into the air.
+A tram glided to a quiet stop under pale morning skies. The man stepped off, his wristband pulsing a soft green. He didn't rush; his care team had already mapped every step.
 
-Today's challenge: *How might we rebuild our neighborhood after a flood?* One child suggested floating gardens. Another remembered how bees returned after their school planted flowers. A third worried about families with nowhere dry to sleep.
+As he entered the clinic, the doors parted silently, scent of clean air and warm cedar drifting out. A nurse greeted him by name --- not from a file, but because his wearable and home devices had already streamed a month of vitals, flagged subtle shifts, and tailored his checkup.
 
-Their devices gently prodded them: *What else could you consider? Who might be left out? How did ancient communities face floods?*
+Soon he lay inside a softly humming scanner. Gentle lights swept over his chest, generating a personalized imaging plan on the fly: a hybrid echo with targeted views. Beside him, a projection of his digital physician floated just beyond the scanner bore, eyes kind, voice calm.
 
-They debated with fearless curiosity, each idea stretching their minds wider. Subtle guides within the system highlighted biases, nurtured empathy, and brought old wisdom into new light.
-
-Nearby adults watched quietly --- some parents, some trained educators --- all there to support but never to stifle.
+Each heartbeat traced new patterns across shared displays. Notes and insights wove instantly into his lifelong health record. No rushed paperwork, no cryptic charts --- just a team, human and digital, seeing him fully, caring for him precisely.
 
 ![](../assets/shared/separator.png)
 
-*The world had become their classroom. And wonder, their teacher.*
+*He was never just a chart again.*

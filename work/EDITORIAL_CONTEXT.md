@@ -19,7 +19,7 @@ Numbers below are original chapter identities, not final sequence numbers.
 - Original index: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33.
 - Previous session's drafting sequence: 23, 24, 25, 31, 27, 29, 26, 30, 28, 32, 33.
 - This session's earlier, superseded provisional proposal: 23, 26, 24, 29, 27, 25, 31, 32, 28, 30, 33.
-- Author-accepted structure: 23, 24, 25, 31, 27, 29, 26, 30, 28, 32, 33. No renumbering has been performed or authorized.
+- Author-accepted structure in original identities: 23, 24, 25, 31, 27, 29, 26, 30, 28, 32, 33. Renumbering was authorized and completed on 2026-09-30; these now correspond to current chapter numbers 23 through 33. Original 31 → current 26; original 29 → current 28; original 26 → current 29; original 28 → current 31. The other seven numbers remain unchanged.
 
 The previous session's lock mattered while it drafted. It preserves useful editorial provenance and a coherent baseline. It does not make existing transitions proof of necessary order. Distinguish actual prerequisites and promises from connections written after an earlier shuffle. Preserve or rebuild connections according to reader value, historical fit, and the book's established spines.
 
@@ -152,3 +152,11 @@ After this initial baseline, the editor owns and commits canonical manuscripts a
 Only one session may stage or commit in the shared checkout at a time, even when editing separate files. Before starting work, check the current branch, working tree and latest canonical files; preserve another session's unfinished work. The author will hand the baseline commit to the publisher before publishing work resumes. Subsequent publishing should use an identified source revision or an explicitly requested fixed snapshot. A commit does not authorize a push or publication.
 
 Original chapter identities and filenames remain unchanged. The accepted Volume III reading order remains 23,24,25,31,27,29,26,30,28,32,33.
+
+## Volume III numbering normalized — 30 September 2026
+
+After the publisher completed its work, the author authorized normalizing the accepted sequence before substantive prose revisions. Four groups moved: original 31 to current 26 (Minds), 29 to 28 (Making), 26 to 29 (Governance), and 28 to 31 (Care). Each cold open, chapter and interlude moved together. Eight opening chapter/interlude labels and three explicit in-body number references were corrected. The Volume III chapter/interlude blocks in the contents listing were reordered and renumbered without rewriting their descriptions. Other manuscript wording and all artwork were preserved.
+
+The editorial manifest now records current numbers and active paths while retaining original unit IDs, source references, design-packet mappings and historical orders. The dated record in `work/provenance/volume-iii-renumbering-2026-09-30.json` preserves before/after paths and hashes. Older notes and research continue to use original identities; translate them through this map. Conversion reports describe the frozen conversion baseline, not a fresh checksum inventory of edited manuscripts. Their paths and hashes must be interpreted at that baseline revision.
+
+Publishing follow-up is recorded in `work/publish_process/Volume_III_Renumbering_Handoff.md`. The publisher's script still uses original IDs for display and output names, so it must adopt current numbers before regenerating. Quarto configuration, generated output and deployment were left to the publisher under the agreed ownership division. Current manuscript reading order is now simply 23–33; future-gate positions and the accepted topical sequence have not changed. Subsequent work can proceed directly in the canonical Markdown.
