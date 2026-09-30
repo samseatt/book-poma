@@ -13,9 +13,10 @@ book:
     - part: "Volume I — The First Archers"
       chapters:
         - content/volume-1/prologue.qmd
-        # - content/volume-1/part-1.qmd
-        # - content/volume-1/chapter-00.qmd
-        # - content/volume-1/interlude-00.qmd
+        - content/volume-1/part-1.qmd
+        # - content/volume-1/open-00.qmd
+        - content/volume-1/chapter-00.qmd
+        - content/volume-1/interlude-00.qmd
         # - content/volume-1/open-01.qmd
         # - content/volume-1/chapter-01.qmd
         # - content/volume-1/interlude-01.qmd

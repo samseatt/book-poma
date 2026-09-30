@@ -4,7 +4,9 @@
 
 The current deployment remains the established Guten Cloudflare Pages project at `guten.pages.dev`. Its deployable files live in the separate `launch-pages` repository so that `/poma/` and `/livingstack/` remain under one Pages hostname.
 
-To prepare and review the POMA teaser edition:
+The sync script generates only manuscript roles that have an explicit publication adapter. To add a supported item, enable its path in `_quarto.yml`, run the sync command, and render. If an enabled path is reported missing, the publishing adapter must first be extended for that role; do not copy or edit generated QMD by hand.
+
+To prepare and review the selected POMA reading edition:
 
 ```sh
 cd /Users/samseatt/projects/book-poma/quarto
