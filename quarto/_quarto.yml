@@ -6,28 +6,134 @@ book:
   title: "The Path of Many Arrows - An Odyssey Past Stillness and Singularity"
   author: "Carbon, Silicon & Sam Seatt"
   chapters:
-    # - content/front-matter/front-matter.qmd
     - index.qmd
+    - content/front-matter/front-matter.qmd
     - content/front-matter/content-summary.qmd
     - content/front-matter/introduction.qmd
     - part: "Volume I — The First Archers"
       chapters:
         - content/volume-1/prologue.qmd
         - content/volume-1/part-1.qmd
-        # - content/volume-1/open-00.qmd
+        - content/volume-1/open-00.qmd
         - content/volume-1/chapter-00.qmd
         - content/volume-1/interlude-00.qmd
-        # - content/volume-1/open-01.qmd
-        # - content/volume-1/chapter-01.qmd
-        # - content/volume-1/interlude-01.qmd
-        # - content/volume-1/chapter-02.qmd
-        # - content/volume-1/chapter-03.qmd
-        # - content/volume-1/coda-1.qmd
-    # Add Volume II and Volume III only after their first approved
-    # publication chapters have been converted and reviewed.
-    # - part: "Volume 2 — The Still Arrow"
-    #   chapters:
-    #     # - content/volume-2/chapter-12.qmd
+        - content/volume-1/open-01.qmd
+        - content/volume-1/chapter-01.qmd
+        - content/volume-1/interlude-01.qmd
+        - content/volume-1/open-02.qmd
+        - content/volume-1/chapter-02.qmd
+        - content/volume-1/interlude-02.qmd
+        - content/volume-1/open-03.qmd
+        - content/volume-1/chapter-03.qmd
+        - content/volume-1/interlude-03.qmd
+        - content/volume-1/open-04.qmd
+        - content/volume-1/chapter-04.qmd
+        - content/volume-1/interlude-04.qmd
+        - content/volume-1/open-05.qmd
+        - content/volume-1/chapter-05.qmd
+        - content/volume-1/interlude-05.qmd
+        - content/volume-1/open-06.qmd
+        - content/volume-1/chapter-06.qmd
+        - content/volume-1/interlude-06.qmd
+        - content/volume-1/open-07.qmd
+        - content/volume-1/chapter-07.qmd
+        - content/volume-1/interlude-07.qmd
+        - content/volume-1/open-08.qmd
+        - content/volume-1/chapter-08.qmd
+        - content/volume-1/interlude-08.qmd
+        - content/volume-1/open-09.qmd
+        - content/volume-1/chapter-09.qmd
+        - content/volume-1/interlude-09.qmd
+        - content/volume-1/open-10.qmd
+        - content/volume-1/chapter-10.qmd
+        - content/volume-1/interlude-10.qmd
+        - content/volume-1/open-11.qmd
+        - content/volume-1/chapter-11.qmd
+        - content/volume-1/interlude-11.qmd
+        - content/volume-1/coda-1.qmd
+    - part: "Volume II — The Still Arrow"
+      chapters:
+        - content/volume-2/overture-2.qmd
+        - content/volume-2/part-2.qmd
+        - content/volume-2/open-00.qmd
+        - content/volume-2/chapter-00.qmd
+        - content/volume-2/interlude-00.qmd
+        - content/volume-2/open-12.qmd
+        - content/volume-2/chapter-12.qmd
+        - content/volume-2/interlude-12.qmd
+        - content/volume-2/open-13.qmd
+        - content/volume-2/chapter-13.qmd
+        - content/volume-2/interlude-13.qmd
+        - content/volume-2/open-14.qmd
+        - content/volume-2/chapter-14.qmd
+        - content/volume-2/interlude-14.qmd
+        - content/volume-2/open-15.qmd
+        - content/volume-2/chapter-15.qmd
+        - content/volume-2/interlude-15.qmd
+        - content/volume-2/open-16.qmd
+        - content/volume-2/chapter-16.qmd
+        - content/volume-2/interlude-16.qmd
+        - content/volume-2/open-17.qmd
+        - content/volume-2/chapter-17.qmd
+        - content/volume-2/interlude-17.qmd
+        - content/volume-2/open-18.qmd
+        - content/volume-2/chapter-18.qmd
+        - content/volume-2/interlude-18.qmd
+        - content/volume-2/open-19.qmd
+        - content/volume-2/chapter-19.qmd
+        - content/volume-2/interlude-19.qmd
+        - content/volume-2/open-20.qmd
+        - content/volume-2/chapter-20.qmd
+        - content/volume-2/interlude-20.qmd
+        - content/volume-2/open-21.qmd
+        - content/volume-2/chapter-21.qmd
+        - content/volume-2/interlude-21.qmd
+        - content/volume-2/open-22.qmd
+        - content/volume-2/chapter-22.qmd
+        - content/volume-2/interlude-22.qmd
+        - content/volume-2/coda-2.qmd
+    - part: "Volume III — The Basket We Weave"
+      chapters:
+        - content/volume-3/overture-3.qmd
+        - content/volume-3/part-3.qmd
+        - content/volume-3/open-00.qmd
+        - content/volume-3/chapter-00.qmd
+        - content/volume-3/interlude-00.qmd
+        - content/volume-3/open-23.qmd
+        - content/volume-3/chapter-23.qmd
+        - content/volume-3/interlude-23.qmd
+        - content/volume-3/open-24.qmd
+        - content/volume-3/chapter-24.qmd
+        - content/volume-3/interlude-24.qmd
+        - content/volume-3/open-25.qmd
+        - content/volume-3/chapter-25.qmd
+        - content/volume-3/interlude-25.qmd
+        - content/volume-3/open-31.qmd
+        - content/volume-3/chapter-31.qmd
+        - content/volume-3/interlude-31.qmd
+        - content/volume-3/open-27.qmd
+        - content/volume-3/chapter-27.qmd
+        - content/volume-3/interlude-27.qmd
+        - content/volume-3/open-29.qmd
+        - content/volume-3/chapter-29.qmd
+        - content/volume-3/interlude-29.qmd
+        - content/volume-3/open-26.qmd
+        - content/volume-3/chapter-26.qmd
+        - content/volume-3/interlude-26.qmd
+        - content/volume-3/open-30.qmd
+        - content/volume-3/chapter-30.qmd
+        - content/volume-3/interlude-30.qmd
+        - content/volume-3/open-28.qmd
+        - content/volume-3/chapter-28.qmd
+        - content/volume-3/interlude-28.qmd
+        - content/volume-3/open-32.qmd
+        - content/volume-3/chapter-32.qmd
+        - content/volume-3/interlude-32.qmd
+        - content/volume-3/open-33.qmd
+        - content/volume-3/chapter-33.qmd
+        - content/volume-3/interlude-33.qmd
+        - content/back-matter/epilogue.qmd
+    - content/back-matter/glossary.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -41,4 +147,3 @@ format:
   epub:
     cover-image: cover.png
     toc: true
-
