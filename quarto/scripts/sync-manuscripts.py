@@ -19,6 +19,9 @@ def roman(n):
  for v,g in vals:
   while n>=v:out.append(g);n-=v
  return ''.join(out)
+def chapter_id(u):
+ """Return the current publication number, preserving symbolic chapter IDs."""
+ return str(u.get('current_chapter_number') or u.get('original_chapter_id') or '')
 def front(t,u):return gen('# Title Page {.unnumbered .visually-hidden}',t)
 def index(t,u):return gen('# Contents {.unnumbered}',re.sub(r'(?m)^# ','## ',t))
 def intro(t,u):
@@ -46,12 +49,12 @@ def labelled(t,u):
  if len(n)>4 and discipline(l[n[4]]):
   e=n[4];second.append(f'*[{l[e].strip().strip("*").strip().title()}]{{.smallcaps}}*');start=e+1
  op='\n\n'.join(['::: {.chapter-opening}',l[a].strip(),f'[{label.capitalize()}]{{.smallcaps}}',':::'])
- sec='\n\n'.join(['::: {.chapter-opening}',*second,':::']);cid=str(u.get('original_chapter_id') or '')
+ sec='\n\n'.join(['::: {.chapter-opening}',*second,':::']);cid=chapter_id(u)
  if u['kind']=='chapter' and cid.isdigit():heading=f'# {int(cid)} {title} {{.unnumbered}}';y=None
  else:heading=f'# {title} {{.unnumbered}}';y=None
  return gen(op,heading,sec,'\n'.join(l[start:]),yaml=y)
 def opened(t,u):
- cid=str(u['original_chapter_id']);symbol=VG[u['volume']] if cid in G else roman(int(cid))
+ cid=chapter_id(u);symbol=VG[u['volume']] if cid in G else roman(int(cid))
  return gen(f'# Open {symbol} {{.unnumbered}}','::: {.book-open}',t,':::')
 def named(t,u):
  l=t.splitlines();n=nb(l)
@@ -75,7 +78,7 @@ def out(u):
  elif k=='overture':name=f'overture-{num}.qmd'
  elif k=='coda':name=f'coda-{num}.qmd'
  else:
-  cid=str(u['original_chapter_id']);s='00' if cid in G else f'{int(cid):02d}';prefix={'cold-open':'open','chapter':'chapter','interlude':'interlude'}[k];name=f'{prefix}-{s}.qmd'
+  cid=chapter_id(u);s='00' if cid in G else f'{int(cid):02d}';prefix={'cold-open':'open','chapter':'chapter','interlude':'interlude'}[k];name=f'{prefix}-{s}.qmd'
  return Path(v)/name
 def main():
  m=json.loads(MF.read_text());units=[*map(dict,m['documents']),*map(dict,m.get('supplemental_canonical_units',[]))]
@@ -84,7 +87,7 @@ def main():
  C.mkdir();records=[]
  for u in units:
   src=Path(u['active_source']['path']);dst=C/out(u);dst.parent.mkdir(parents=True,exist_ok=True);dst.write_text(A[u['kind']](src.read_text(),u))
-  records.append({'unit_id':u['unit_id'],'kind':u['kind'],'source':str(src.relative_to(R)),'source_sha256':sha(src),'output':str(dst.relative_to(P)),'output_sha256':sha(dst)})
+  records.append({'unit_id':u['unit_id'],'kind':u['kind'],'original_chapter_id':u.get('original_chapter_id'),'current_chapter_number':u.get('current_chapter_number'),'source':str(src.relative_to(R)),'source_sha256':sha(src),'output':str(dst.relative_to(P)),'output_sha256':sha(dst)})
  for rel in ['front-matter/assets','volume-1/assets','volume-2/assets','volume-3/assets','back-matter/assets','assets/shared']:
   src=M/rel
   if src.is_dir():shutil.copytree(src,C/rel,dirs_exist_ok=True)
@@ -93,6 +96,6 @@ def main():
   for ref in re.findall(r'!\[[^\]]*\]\(([^)]+)\)',q.read_text()):
    if not (q.parent/ref.split()[0]).resolve().is_file():missing.append(f'{q.relative_to(P)} -> {ref}')
  if missing:raise SystemExit('Broken images:\n'+'\n'.join(missing))
- data={'schema_version':2,'generated_at':datetime.now(timezone.utc).isoformat(),'scope':'Complete POMA canonical manuscript','unit_count':len(records),'volume_iii_final_order':m['volume_iii_orders_by_original_chapter_id']['final_order'],'records':records,'broken_image_references':0}
+ data={'schema_version':3,'generated_at':datetime.now(timezone.utc).isoformat(),'scope':'Complete POMA canonical manuscript','unit_count':len(records),'volume_iii_original_identity_order':m['volume_iii_orders_by_original_chapter_id']['final_order'],'volume_iii_current_reading_order':m['volume_iii_renumbering']['current_reading_order'],'records':records,'broken_image_references':0}
  (P/'content-manifest.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n');print(f'Generated all {len(records)} canonical manuscript units for Quarto.')
 if __name__=='__main__':main()
