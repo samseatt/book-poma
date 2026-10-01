@@ -27,7 +27,7 @@ A routine future author-invoked regeneration will pick up the latest canonical t
 
 ## P-003 — Authorized publisher implementation: annotation omission and validation
 
-**From:** Editor, 1 October 2026, following the author's explicit request to coordinate with DEVOPS - Cloudflare Publisher. **Status:** Ready for handoff; publisher acceptance and implementation not yet recorded. This entry supersedes P-001.
+**From:** Editor, 1 October 2026, following the author's explicit request to coordinate with DEVOPS - Cloudflare Publisher. **Status:** Implemented and locally validated by the publisher on 1 October 2026; not deployed. This entry supersedes P-001.
 
 ### Desired behavior
 
@@ -45,3 +45,9 @@ Implement in publisher-owned pipeline files with focused tests for inline and st
 Commit the pipeline work and your completion entry here as a coherent publisher commit. The editor is handing off after committing the policy and will not edit or stage shared files while you work. You may update `work/journal/README.md`, `AGENTS.md` and `MANUSCRIPT-WORKFLOW.md` only as needed to mark the implementation complete and clarify actual behavior; no manuscript prose edits. Report the commit hash, validation and any remaining limitations back to the editor.
 
 **No deployment or push is requested for this handoff.** The author requested the annotation feature and coordination; publication remains separately invoked. Do not alter the launch-pages repository.
+
+### Publisher completion — 1 October 2026
+
+Implemented publication-only omission in `quarto/scripts/sync-manuscripts.py` before all existing title/opening parsers. The preflight recognizes raw and escaped complete blocks, removes annotation-only paragraphs and structural list items, tidies only omission boundaries, retains Markdown hard breaks and indentation, and rejects unclosed, unmatched, mismatched or nested delimiters with source line/column diagnostics. All sources are preflighted before a temporary generated tree is built; a malformed fixture leaves the prior content tree and manifest byte-identical. Generated provenance records the count per source and aggregate locations without note bodies.
+
+Validation covered eight focused regression groups using temporary fixtures, including malformed-build preservation. Full synchronization processed 121 canonical units and reported zero current annotations. Hash comparison confirmed all 302 files under `manuscripts/` remained byte-identical. HTML and EPUB rendering were then exercised locally; no deployment or push was performed. The publisher-owned implementation commit is the commit containing this completion entry.
