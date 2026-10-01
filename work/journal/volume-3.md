@@ -179,3 +179,13 @@ The author confirms that the second-person vignette is a lapse in the latest dra
 **Standing intent:** Protect the shift from passenger to plane and the cabin-window light. Their intended gravity connects to the Overture's handoff and the author's Oppenheimer/Gita cadence association without an explanatory gloss. See B-004.
 
 ### New notes
+
+## Cross-chapter historical selections — 1 October 2026
+
+### V3-HISTORY-001 — Pending author review / Pass 1
+
+The author requests specific preferred events and leading alternatives for all 22 Persian/Iranian and American/institutional cutoffs before authorizing insertion. The review map is in [HISTORICAL_CUTOFF_SELECTIONS.md](../HISTORICAL_CUTOFF_SELECTIONS.md), using current numbers 23–33. No manuscript passages were changed. The earlier historical review remains provenance.
+
+The author also requests a small Indigenous North American counterpoint in the Persian track, with later connections to dispossession, Chapter 14's hidden cultures, and the possibility that AI could remove drudgery and enable more land-based, reciprocal and freely chosen ways of living. Preserve this as authorial intent; its proposed implementation is not yet approved. The report prefers the Alberta bison economy beside 250 BCE / Chapter 25, with the 1752 Mi'kmaq treaty as an alternative placement near 1751 / Chapter 33. The 1876 Indian Act remains central to Commons alongside its US comparison. The 1976 Indian Health Care Improvement Act is a new alternative for Care.
+
+Use specific peoples and practices, acknowledge living Indigenous leadership, and preserve community authority over knowledge. Do not equate all Indigenous peoples with foragers or treat Harari's broad agricultural critique or a universal evolutionary-psychology fit as established by this historical table. The full substantive thread is deferred to the authorized historical/design/future passes. Taking this note does not complete those integrations.
