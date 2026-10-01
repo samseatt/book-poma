@@ -167,9 +167,31 @@ Who can do it?
 
 How should value move toward it?
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## Who Gets the Harvest?
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*250 BCE · 1826 · 2034*
+
+Alexander's conquests had left a large inheritance and no peaceful agreement about its management. By around 250 BCE, Seleucid control in the east was loosening. The early Arsacids were emerging from the frontier world beyond it; their era was traditionally reckoned from about 247 BCE, although the sequence of their first advances remains disputed. The great Parthian empire was still to be made.[^v3-25-arsacids]
+
+A change on an imperial map invites an economical question: what changed for the people underneath? A new dynasty might redirect tribute, replace officials or alter access to a route without freeing a cultivator from the next demand on the harvest. The map records who acquired the territory. It seldom tells us whether producing a living became easier.
+
+There are other ways to read a landscape. In what is now southern Alberta, Head-Smashed-In preserves evidence of communal bison hunting over thousands of years. The terrain, the animals' behaviour, the drive lanes and the work below the cliff formed a system of provision. The site remains connected to living Blackfoot knowledge. This is a long archaeological counterpoint, not an invented hunt dated neatly to 250 BCE.[^v3-25-bison]
+
+No crown is required for the organization to be intricate. Knowledge must be learned, coordinated action must occur at the right time, and food must be processed. Calling such a world merely *before* civilization can bury its intelligence as efficiently as any conqueror. The arrowhead disappears under the word *primitive*.
+
+In Indiana in February 1826, Robert Owen's New Harmony adopted a constitution for a Community of Equality. The settlement attempted to make cooperative life an operating arrangement rather than a Sunday sentiment. Its communal experiment unravelled by 1827.[^v3-25-harmony] That outcome cannot settle every argument about cooperation. It does demand that a proposal explain how work, resources and disagreement will be handled after the founder's enthusiasm has ceased to count as revenue.
+
+Elsewhere that January, the Treaty of Washington with the Creek Nation annulled the disputed 1825 Treaty of Indian Springs, whose signatories' authority had been challenged. The replacement still required extensive land cessions.[^v3-25-treaty] Consent and dispossession can occupy the same document. An economy may acquire its starting assets through arrangements that its subsequent accounts treat as settled background.
+
+These two American beginnings put pressure on opposite sides of our Breadboard. New Harmony asks how an attractive internal promise becomes durable provision. The treaty asks what that provision costs outside the boundary drawn around the experiment.
+
+At the March 11, 2034 checkpoint, **the Dividend Divide**, the plausible fracture is between cheaper capabilities and uneven claims on their output. AI assistance may substantially reduce the labour needed for many services. That does not make land, housing, energy or attentive care equally abundant. Jobs can be recomposed, displaced or created at the same time; exposure to automatable tasks is not a census of future unemployment.[^v3-25-ilo] A worker may acquire a marvellous assistant and lose bargaining power in the same year.
+
+The benefit depends on ownership and rules of distribution. If productivity gains become lower prices, shorter working hours or broader access to essential services, people gain room to live. If the gains primarily raise returns to scarce assets, cheap intelligence can coexist quite comfortably with expensive existence.
+
+Neuconomy therefore needs to show more than activity inside a ledger. In the Breadboard, a meal, a ride and an hour of skilled help should be followed through their actual inputs. Who paid the external bill? Was the caregiver compensated, reciprocated or simply too polite to leave? How much depends on a founder's subsidy? An exchange that looks self-sustaining because unpaid effort falls outside its accounting is an old economy wearing a new name badge.
+
+The ambition is worth keeping: recover rootedness, reciprocal competence and time that does not need to justify itself to an employer. That would be a modern freedom, open to people making different lives, not a costume borrowed from an Indigenous past. AI could help make it materially possible. The design has to turn improved capacity into a claim people can actually exercise—while leaving some of life's value unpriced, and nobody's survival dependent on earning a favourable personal score.
 
 ## When Price Fails
 
@@ -1060,3 +1082,13 @@ But living ones.
 The next interlude goes there: into the old trading floor, the flow graph, the service credit, the DAG, the dangerous memory of value --- and the question that must sit above every economic instrument we build:
 
 Does this ledger help life move, or does it teach life to kneel before the ledger?
+
+[^v3-25-arsacids]: Klaus Schippmann, [“Arsacids ii. The Arsacid Dynasty,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/arsacids-ii/). Early chronology and the relation between the traditional era and territorial conquest remain uncertain.
+
+[^v3-25-bison]: UNESCO World Heritage Centre, [Head-Smashed-In Buffalo Jump](https://whc.unesco.org/en/list/158/). The site documents a long communal hunting tradition, with interruptions; it does not identify a particular hunt at this chapter's cutoff. Contemporary Blackfoot relationships to the site should not be flattened into a single identity assigned to every ancient layer.
+
+[^v3-25-harmony]: Indiana University, [*New Harmony Gazette* index](https://fedora.dlib.indiana.edu/fedora/get/iudl%3A643423/OVERVIEW), entries for the February 1826 Community of Equality constitution; Indiana Archives and Records Administration, [“New Harmony, Indiana”](https://www.in.gov/iara/services-for-public/search-archives-holdings/court-records/introduction-to-posey-county/new-harmony-indiana/), for the experiment's 1825–1827 span.
+
+[^v3-25-treaty]: [Treaty with the Creeks, January 24, 1826](https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1826-0264), preamble and Articles 1–2, *Tribal Treaties Database*, Oklahoma State University. Annulment of the earlier instrument did not eliminate land cession.
+
+[^v3-25-ilo]: Paweł Gmyrek and colleagues, [*Generative AI and Jobs: A Refined Global Index of Occupational Exposure*](https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure), ILO Working Paper 140 (2025). Its task-exposure estimates are not forecasts of unemployment in 2034.

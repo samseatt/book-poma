@@ -199,85 +199,35 @@ That is the paradox this chapter enters: preparation without possession, steward
 
 A designed future still has to live.
 
-## Three Empires at the Gate
+## The Authority to Leave Us Behind
 
-Every gate in this volume has had three shadows.
+*1751 CE · 2026 · 2054*
 
-One old, one modern, one not yet old enough to lie about itself.
+In 1751, Karim Khan recovered the Safavid figurehead Ismail III and took the title of regent. His position was contested; the relative recovery later associated with his rule had yet to be secured. After settling in Shiraz in 1765, he declined the title of shah and recast his role as *vakil al-ra'aya*, deputy of the subjects. Commerce, building and a measure of ordinary life recovered under a ruler whose power had nevertheless been won and maintained through violence.[^v3-33-karim]
 
-At this final gate, the first shadow falls from Persia.
+The modest title does not turn him into a modern democrat. It makes a smaller, useful opening in the imagination of rule. Power might describe itself by an obligation to those governed, rather than by the altitude of its owner.
 
-In 1751, after so much conquest, fracture, empire, and exhaustion, Karim Khan Zand rose not by announcing himself as another cosmic monarch, but by taking a humbler title: *Vakil al-Ra'aya* --- advocate of the people. Not Shah. Not king of kings. Not the usual thunderous arrangement by which men with armies ask heaven to admire their paperwork.
+The weakness remained personal. When Karim Khan died in 1779, his relatives fought for supremacy. A better disposition in the ruler had not become a dependable arrangement for the ruler's absence.[^v3-33-karim] That is where we leave this long Persian journey: with something worth preserving, and the unsettled question of how it survives the person who held it together.
 
-A gentler claim.
+A nearby date offers another form of obligation. In 1752, a Peace and Friendship Treaty between the British Crown and Jean-Baptiste Cope and fellow Mi'kmaq signatories promised continued hunting and fishing. Its particular parties and contested history should not be inflated into an agreement by all Indigenous peoples.[^v3-33-treaty] The promise concerns a continuing way of living. It asks more of an inheritance than permission to remember what has been lost.
 
-Not innocent, of course. No rule is innocent, and anyone who says otherwise has not met taxation. But still, a different imagination of authority: power as trusteeship, government as representation, Shiraz as a place where life might recover between violences.
+In 2026, the United States marked two hundred and fifty years since its declaration of independence. The National Archives opened an exhibition called *Free and Independent*. The founding document's return to public attention also returned its awkward proposition: people may alter or abolish a government that defeats the purposes for which it was established.[^v3-33-anniversary]
 
-That matters here.
+An anniversary can honour that proposition while making its application feel faintly disloyal. We can become so protective of an institution's founding achievement that preserving the institution displaces the achievement's purpose. Hamilton's old anxiety then survives in a changed form. A system may continue to possess its offices, documents and ceremonies while becoming less capable of restraining those who have learned how to use them.
 
-Because near the end of a long argument about civilization, it is tempting to look for the final system, the final architecture, the final crown. Some perfect arrangement that will settle the old beast at last and allow history to stop chewing furniture.
+The September from which this volume set out already carried public apprehension and private loss. I do not need to turn either into proof that a country has reached its appointed end. The useful question is harder: can an inherited order renew its capacity to serve before its preservation becomes the principal service it performs?
 
-But the wiser image is smaller.
+That question reaches me as a builder too. My father's death belongs to the reason this work matters. It cannot give my preferred architecture permanent jurisdiction over other people's lives. A tool made from grief still has to accept correction from someone who did not share the grief.
 
-A steward.
+March 11, 2054 brings us to **the Successor’s World**. The distance from the present makes particular devices increasingly uncertain. A more defensible condition is institutional: if these systems have endured, people will now depend on arrangements built under earlier assumptions, and many participants will have had no part in choosing those assumptions. AI could help them understand the inheritance, model alternatives and coordinate a transition at a scale that once required a formidable bureaucracy. It could equally make the inherited defaults almost effortless to perpetuate.
 
-A room.
+The final gate examines whether successors have actual power to change course. They need access to the knowledge, resources and authority required to revise an arrangement. Leaving a platform should not mean surrendering the records needed for care; replacing a governing protocol should not strand people whose livelihood depends on it. Release has to be engineered through transitions, not announced from a departing founder's balcony.
 
-A pause.
+Here the Breadboard should attempt its most uncomfortable experiment: remove the founder from a consequential decision. Let participants reject part of the design, carry its useful obligations forward and demonstrate what their alternative can sustain. Simulation can help expose failure before people bear it. It cannot certify every consequence of a living society or entitle its author to veto all unmodelled futures.
 
-Authority that does not need to inflate itself before serving. Power that understands itself as temporary custody, not possession. A hand that can hold the bow without mistaking the arrow's flight for personal property.
+Perhaps the resulting life contains less compulsory production, more freely chosen company, more competence in the places people inhabit. That would give the old machinery of progress something better to do than accelerate our dependence on it. No single ancestral life need be prescribed as the destination. Recovering rootedness leaves room for roots to grow differently.
 
-The second shadow falls from my own century.
-
-2026 was not history when it happened. It was only grief with calendar dates attached.
-
-A father declined. A son watched systems reveal themselves in the old way --- not as abstract diagrams, but as missed signals, inherited habits, procedural sleep, and the terrible ordinariness by which a preventable cascade becomes someone's final season. Then May arrived with its blunt arithmetic. Then September came, and with it the strange human need to turn a wound into a tool before the wound turns everything else into bitterness.
-
-That year became a hinge.
-
-Not because the world knew it. The world is busy. It rarely pauses for private hinges unless they break something public. But for this book, for these designs, for the work that later gathered names like Tiers, Neuverse, xMed, Neusphere, and whatever better names the future may yet invent, 2026 was the year grief changed its clothes and came to work.
-
-That is not a heroic sentence.
-
-It is just what happened.
-
-Design begins inside grief more often than design schools admit. A bridge begins where someone drowned. A law begins where someone was crushed. A hospital protocol begins where someone was missed. A public system begins, if it is honest, with the sentence: **this must not happen this way again.**
-
-The danger is that grief wants monuments.
-
-The better use of grief is tools.
-
-A monument asks others to remember your wound. A tool asks others to improve the world that made the wound possible. The first may be necessary for mourning. The second is necessary for mercy.
-
-So if this chapter returns to 2026, it does not do so to reopen the case. It does so because every humane design has a private ember somewhere inside it. Someone saw what should not have happened. Someone refused the laziness of "that is how systems are." Someone took the unbearable and asked whether it could become usable without becoming cruel.
-
-The third shadow falls forward.
-
-March 11, 2054: the Return of the Room.
-
-By then, the world has acquired many clever ways to avoid rooms. It can route decisions through meshes, models, markets, proxies, agents, delegates, synthetic hearings, asynchronous councils, embodied avatars, archived voices, and machine summaries that reduce eight hours of human conflict into twelve bullet points and a confidence score. This is not all bad. Some meetings deserved mercy long before machines arrived.
-
-But no civilization can abandon rooms entirely.
-
-A room is not merely a container with walls. A room is a moral technology. It bounds attention. It gives speech a place to land. It lets silence be witnessed. It reminds the powerful that bodies occupy space differently. It allows someone to notice the hand trembling before the argument becomes content. It lets tea interrupt ideology, which is among tea's higher civic functions.
-
-A room can be a clinic, a kitchen, a classroom, a council, a workshop, a funeral hall, a studio, a court, a family table, a care meeting, a cell of resistance, a place where the future is still small enough to be addressed by name.
-
-After decades of abstraction, the final gate returns us there.
-
-Not because abstraction failed.
-
-Because abstraction, to remain humane, must keep returning to the scale at which persons can meet.
-
-No matter how advanced the systems become, meaning does not happen everywhere at once. It gathers. It needs thresholds. It needs chairs. It needs someone to arrive late and change the temperature of the conversation. It needs a place where the young can ask a dangerous question and the old can answer poorly enough to remain human.
-
-This, then, is the threefold gate:
-
-A Persian memory of power refusing the largest title.
-
-A modern wound becoming design.
-
-A future room where release becomes possible because control has finally sat down.
+The room still matters: a place where those inheriting the design can speak in their own names. They may use tools I helped build to decide that one of my cherished ideas has become the obstacle. The system should make that possible without requiring them to obtain my blessing.
 
 ## The End of Certainty
 
@@ -1156,3 +1106,9 @@ The arrow waits.
 The hand opens.
 
 And the world, maddening and beloved, receives another chance.
+
+[^v3-33-karim]: John R. Perry, [“Karim Khan Zand,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/karim-khan-zand/), for the regency in 1751, later Shiraz settlement and interpretation of *wakil*, economic recovery and the succession struggle after his death. The later “deputy of the subjects” formulation is not assigned to the 1751 regency.
+
+[^v3-33-treaty]: Crown-Indigenous Relations and Northern Affairs Canada, [text of the 1752 Peace and Friendship Treaty](https://www.rcaanc.gc.ca/eng/1100100029040/1581293867988), especially Article 4; [historical context for the Peace and Friendship Treaties](https://www.rcaanc.gc.ca/eng/1100100028599/1539609517566). The passage does not treat Cope as an uncontested signatory for all Mi'kmaq communities, or the written promise as proof of its fulfilment.
+
+[^v3-33-anniversary]: National Archives, [*Free and Independent* exhibition announcement](https://www.archives.gov/press/press-releases/2026/nr26-2), opening April 25, 2026; [Declaration of Independence transcript](https://www.archives.gov/founding-docs/declaration-transcript). The anniversary is a historical anchor; judgments about institutional exhaustion and renewal are this book's argument, not a claim that the United States ends in 2026.

@@ -188,9 +188,31 @@ A broken civilization does not first need a throne, a slogan, or a dashboard.
 
 It needs a loom.
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## Before the Crown
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*750 BCE · 1776 · 2029*
+
+Before Astyages had his nightmare, there had to be something for a king to fear losing.
+
+Around 750 BCE, the Median communities of western Iran were still divided among local rulers, within reach of Assyrian campaigns and tribute demands. The unified kingdom familiar from later accounts cannot simply be planted here, already grown. What we can see is a region of settlements and competing powers, some of whose names survive because a larger power wanted something from them.[^v3-23-media] Being noticed by history was not always an improvement.
+
+Farther west, Rome places its legendary founding in 753 BCE; the Homeric epics belong broadly to the same eighth-century world. Neither gives us a synchronized starting gun. Cities, peoples and stories acquire beginnings partly by remembering backward.[^v3-23-beginnings] Nowruz lends this passage its promise of renewal, not a securely dated invention. Long before an empire can announce itself, people have already learned ways to plant, bargain, quarrel and begin again.
+
+So we step back from the king and his dream to the arrangements that made a kingdom possible. Who could assemble people beyond the household? What made a promise travel farther than the person making it? And when strangers finally coordinated, who acquired the power to command the coordination?
+
+In 1776, the American answer arrived with a declaration, but also with committee work. Richard Henry Lee's resolution of June 7 proposed independence, foreign alliances and a plan of confederation. Congress divided those tasks among three committees. The independence vote came on July 2; the Declaration was adopted on July 4. The work of joining the states did not conclude with the punctuation.[^v3-23-lee]
+
+This less theatrical part of the founding matters. Renouncing an authority and replacing its functions are different achievements. A rebellion still needs provisions, recognized representatives, credit and a way to keep one participant's promise from becoming another's unpaid bill. The Declaration gave the break a public argument. It could not, by itself, deliver the next sack of flour. Nor did its universal language give everyone within the new polity an equal place in deciding what came next.
+
+The first future checkpoint, March 11, 2029, catches another beginning before it hardens. I call it **the Coordination Gap**. In the future explored here, AI can already do considerable useful work: translate a request, assemble evidence, write working software, identify a missing step. Adoption is uneven. Some organizations have rebuilt their operations around these abilities; others have attached a conversational window to procedures that remain obstinately deaf.
+
+The gap opens between solving a task and completing a commitment. A system can find a clinic without securing an appointment, identify a benefit without establishing eligibility, offer five suitable volunteers without anyone agreeing to arrive. More intelligence can expose these failures faster than the surrounding institutions can resolve them. Agent identity and authorization are already practical research questions in 2026; their satisfactory resolution by 2029 is something to build and test, not assume.[^v3-23-agents]
+
+That is the useful pressure on Neuverse before the intended September launch. Its Breadboard should be able to follow one ordinary need all the way through: who requested help, who accepted responsibility, what resources were committed, whether the help arrived, and what happened when it did not. The participant should be able to correct the record. A person who declines the experiment should retain a workable route to help.
+
+These dates are occasions to inspect the trellis as the vine grows. They do not predict eleven inventions, or authorize civilization to postpone care until its assigned chapter. All the obligations are present at the beginning. We take them in turn so we can see where they pull against one another.
+
+Renewal earns its name when an arrangement can carry something the broken one could not. Start small enough to discover whether it does. The first knot has to hold a weight.
 
 ## After the Break
 
@@ -769,3 +791,11 @@ If help can arrive, what keeps help from becoming a cage?
 The first loom of renewal can bring help to the door.
 
 Chapter 24 begins when the person inside asks whether opening that door will cost them their agency.
+
+[^v3-23-media]: Inna N. Medvedskaya and Muhammad A. Dandamayev, [“Media,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/media/). The evidence for local Median rulers and Assyrian intervention does not establish a unified Median empire in 750 BCE.
+
+[^v3-23-beginnings]: Roma Capitale, [“Rome in a Nutshell”](https://www.turismoroma.it/en/page/rome-nutshell), for the traditional foundation; Metropolitan Museum of Art, [“Greek Gods and Religious Practices”](https://www.metmuseum.org/essays/greek-gods-and-religious-practices), for the broad Homeric chronology; Mary Boyce, [“Nowruz i,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/nowruz-i/), for the problems of early attestation.
+
+[^v3-23-lee]: National Archives, [“Lee Resolution (1776)”](https://www.archives.gov/milestone-documents/lee-resolution) and [Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript). For committee formation, see also the Library of Congress [primary-document guide to the Articles of Confederation](https://guides.loc.gov/articles-of-confederation/digital-collections), which distinguishes the June 11 resolution from the June 12 appointment of members. Independence, the Declaration and the later confederation were distinct acts.
+
+[^v3-23-agents]: NIST, [“New Concept Paper on Identity and Authority of Software Agents,” February 5, 2026](https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents). This documents an existing engineering problem, not a forecast of deployment in 2029. The future gates throughout these chapters are conditional planning scenarios.

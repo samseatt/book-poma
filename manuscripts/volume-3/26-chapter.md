@@ -274,9 +274,33 @@ and citizens who can say, together, not "we all believe the same thing," but som
 
 we know how to ask what would make this worthy of trust.
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## Whose Words Survive?
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*1 CE · 1851 · 2036*
+
+At the beginning of the Common Era, Rome and Parthia were arguing over Armenia, rival claimants and the words on an envelope.
+
+According to Cassius Dio's account, Augustus answered the Parthian ruler Phraataces without acknowledging his royal title. Phraataces replied as King of Kings and addressed Augustus merely as Caesar. This exchange belongs to 1 CE. In the following year, Phraataces and Augustus's adopted son Gaius met on an island in the Euphrates, with equal escorts. Recognition that had been withheld in correspondence was conceded in diplomacy.[^v3-26-parthia]
+
+The apparent vanity had an audience. Names and titles told other rulers, subjects and possible rivals whose authority counted. Augustus could not remove the Parthian king by deleting a word, but he could circulate a picture of the world in which that king lacked legitimacy. Armenia, meanwhile, had interests of its own that neither imperial description could exhaust.
+
+Shared reality has always involved more than agreeing on the scenery. It includes who is entitled to describe it, whose description travels, and who can answer back.
+
+In May 1851, Sojourner Truth addressed a women's rights convention in Akron, Ohio. Marius Robinson published his account the next month. Twelve years later, Frances Dana Gage produced the version that would become famous, with its repeated “Ain't I a Woman?” and Southern dialect. Truth had grown up enslaved in New York, speaking Dutch. Robinson's earlier report contains neither that refrain nor Gage's rendering of her speech.[^v3-26-truth]
+
+The surviving accounts cannot settle every word. They can return attention to something more substantial than the most memorable quotation. In Robinson's account, Truth challenges the use of supposed differences in intellect to withhold rights, invokes women's labour, and turns a biblical argument against those who deploy it. Her point does not require permission from a later narrator's more marketable voice.
+
+The distortion need not begin in hostility. Admiration can remake a person into the figure an audience knows how to hear. Repetition then supplies the authority that proximity to the event once supplied. An effective story becomes evidence for itself.
+
+By September 11, 2036, **the Mediated World** could make this process intimate and continuous. Translation, tutoring and explanation may be available whenever a person encounters difficulty. A reader can question an unfamiliar text instead of abandoning it; a specialist can test an argument across fields without first mastering every vocabulary. These are considerable enlargements of the mind's working space.
+
+But an intermediary that adapts every explanation to its recipient also selects what the recipient encounters. A fluent answer can hide the distance between an original record, a disputed report, an inference and a convenient reconstruction. Different people may receive accounts of the same event that contain no obvious falsehood yet leave them with incompatible understandings of what matters.
+
+The design problem is therefore deeper than detecting fabricated pictures. Provenance can establish where a file came from and how it changed without establishing that its claim is true.[^v3-26-provenance] An authenticated imperial letter is still an imperial letter.
+
+A wise infosphere would make the route back to evidence usable. A quotation should lead to its record and competing versions. A correction should reach the summaries and lessons built from the error, rather than remain politely attached to the original page while its descendants continue a prosperous career. Where evidence cannot decide an issue, the system should help us understand the disagreement instead of selecting a winner for conversational convenience.
+
+In the Breadboard, one deliberately disputed account can test this: follow how it spreads, who can challenge it, and whether a well-supported correction changes subsequent outputs. Success includes preserving the dissent that remains justified. The purpose of shared reality is to make disagreement productive enough that learning can occur across it. Harmony that depends on removing the inconvenient voice has confused the music with the mute button.
 
 ## Shared Reality as Commons
 
@@ -1033,3 +1057,9 @@ The trace from reality, and the tale we tell around it.
 If we cannot hold them together, every later design in this volume becomes decoration on fog.
 
 And fog, as history has shown, is where monsters prefer to move.
+
+[^v3-26-parthia]: Marek Jan Olbrycht, [“Phraates V,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/phraates-v/), discussing Cassius Dio's account of the 1 CE correspondence and Velleius Paterculus's eyewitness account of the subsequent meeting in 2 CE. These are ancient transmitted accounts, not surviving copies of the exchanged letters.
+
+[^v3-26-truth]: National Park Service, [“Ain't I a Woman?”](https://www.nps.gov/teachers/classrooms/aint-i-a-woman.htm), presents Robinson's June 21, 1851 report and Gage's 1863 account.
+
+[^v3-26-provenance]: Coalition for Content Provenance and Authenticity, [C2PA Technical Specification, version 1.2](https://spec.c2pa.org/specifications/specifications/1.2/specs/C2PA_Specification.html), especially the separation of verifiable provenance from judgments about the truth or value of content. Cited for this foundational distinction, not as the latest version or a prediction of the 2036 media environment.

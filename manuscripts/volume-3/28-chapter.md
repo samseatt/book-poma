@@ -166,9 +166,31 @@ The design question of this chapter is simple:
 
 Can we build a world where making no longer requires forgetting what matter costs?
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## The Hands Behind the Output
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*501 CE · 1901 · 2041*
+
+In 501, Kavad I was back on the Sasanian throne after his deposition and restoration. The productive order he commanded was about to expand through a particularly old form of recruitment. War with the Eastern Roman Empire began in 502; Amida fell in 503. Later historical accounts connect captives from that region with the founding of Arrajan and its linen industry, drawing on the skills of the displaced population.[^v3-28-kavad]
+
+The story arrives through sources that do not warrant confidence in every reported number. Its mechanism is less obscure: an empire could move expertise by moving the people who possessed it, whether those people wished to go or not. From the receiving city's perspective, a productive capacity had appeared. From the makers' perspective, a life had been taken apart.
+
+Production has a habit of presenting its finished surface to the customer. The cloth is visible. The conditions under which the hands learned, travelled and worked can disappear behind it.
+
+In February 1901, the incorporation of U.S. Steel brought an enormous body of industrial capacity under one corporation.[^v3-28-steel] Combining mines, transport and mills could coordinate production across stages that had previously required negotiation. It also concentrated decisions about work and investment. Scale solves some coordination problems by placing more of them inside a boundary; the people outside that boundary still live with the consequences.
+
+That September, McKinley was shot in Buffalo and died eight days later. Theodore Roosevelt became president.[^v3-28-mckinley] The new president inherited a country in which industrial command was concentrating on a vast scale. The productive machinery outlasted the political rupture.
+
+Moving from captive artisans to corporate capacity changes the form of command. It leaves the question of who can direct productive power, and how much the people doing the work can refuse.
+
+At **Programmable Production**, September 11, 2041, AI-assisted design and increasingly capable robotics could shorten the path from a useful idea to a tested object. Some repair parts, components and materials may be made near their point of use. Other production will still depend on specialized plants, global supply chains and hard-won process knowledge. Better instructions do not conjure a clean feedstock, a reliable actuator or a certified implant. Industrial robotics and automated laboratory work already offer concrete starting points; neither establishes universal fabrication on demand.[^v3-28-production]
+
+The opportunity is nevertheless substantial. A workshop could spend less of its skill translating between incompatible systems and more of it adapting things to actual needs. An old machine might stay useful because its damaged part can be reconstructed and tested. A designer might compare material and repair consequences before committing to a form. Skilled making can become more accessible without becoming effortless.
+
+Ownership could also retreat into the machinery. A community may own a printer but depend on a distant licence server, proprietary feedstock and certification that only the supplier can issue. The apparent return of the workshop would then conceal a continuing landlord. Local production is a location; local capacity includes the ability to inspect, maintain and alter what production depends on.
+
+For the Breadboard, a modest object is a better test than a declaration of industrial independence. Follow the replacement hinge from material source through fabrication and testing to use. Record the energy, waste, skilled attention and external purchases. Then change the conditions: the original supplier withdraws, a part fails, the specification needs revising. Can the community repair its capability as well as its object?
+
+Neufacturing should enlarge the scope for useful making while making these dependencies legible. Sometimes stewardship will favour a distant factory with a cleaner, safer process; sometimes a nearby workshop will spare months of delay and an unnecessary replacement. The decision needs evidence at the scale of the whole lifecycle. A beautifully efficient production step is a poor achievement if the rest of the object becomes somebody else's unrecorded damage.
 
 ## The Cost of Industrial Abstraction
 
@@ -924,3 +946,11 @@ The next interlude asks what machines, materials, protocols, certification syste
 Because a hinge is simple.
 
 Until one asks what kind of world it opens.
+
+[^v3-28-kavad]: Nikolaus Schindel, [“Kawād I i. Reign,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/kawad-i/kawad-i-reign/), for restoration and the 502–503 campaign; [“Arrajān”](https://www.iranicaonline.org/articles/arrajan-medieval-city-and-province-in-southwestern-iran-between-kuzestan-and-fars/), for the later accounts connecting settlement and linen expertise with captives from Amida. No precise captive total is adopted here.
+
+[^v3-28-steel]: U.S. Steel, [125th-anniversary historical account](https://www.usske.sk/en/article/u.-s.-steel-celebrates-its-125th-anniversary), gives incorporation on February 25, 1901. This corporate source establishes the date; the analysis of concentrated power is the argument developed here.
+
+[^v3-28-mckinley]: National Archives, [1900 Electoral College results and historical note](https://www.archives.gov/electoral-college/1900), for the September 6 shooting and September 14 death; U.S. Department of State, [announcement of McKinley's death and Roosevelt's accession](https://history.state.gov/historicaldocuments/frus1901/ch4), September 14, 1901.
+
+[^v3-28-production]: International Federation of Robotics, [“Five Million Robots Now Operate in Factories Globally”](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally); Nathan J. Szymanski and colleagues, [“An Autonomous Laboratory for the Accelerated Synthesis of Novel Materials,” *Nature* 624 (2023)](https://www.nature.com/articles/s41586-023-06734-w). These document bounded industrial and laboratory capabilities, not the universality, local affordability or exact timing of the 2041 scenario.

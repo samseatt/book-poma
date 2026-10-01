@@ -236,9 +236,33 @@ Not judgment abolished.
 
 Judgment made accountable before it becomes fate.
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## The Certificate of Justice
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*1001 CE · 1951 · 2046*
+
+In the *Shahnameh*, the tyrant Zahhak wants his subjects to sign a declaration attesting to his just rule. Kaveh, a blacksmith whose son has been seized, enters the court. Zahhak releases the son and expects the signature. Kaveh tears up the document.[^v3-30-kaveh]
+
+The king has mistaken a remedy he was obliged to provide for a favour that purchases endorsement. The blacksmith's refusal makes the difference public.
+
+Around 1001, Ferdowsi was still at work on the poem that carries this story. Its great completion date lies in 1010, not at our checkpoint.[^v3-30-ferdowsi] The poem gives the older world a language for judging power, including power dressed in its own assurances of righteousness. It cannot supply a court in which a living blacksmith can safely repeat the gesture. That is work for institutions.
+
+In 1951, Iran nationalized its oil industry. Britain brought the Anglo-Iranian Oil dispute to the International Court of Justice in May; the United States sent Averell Harriman to mediate in July. Through August, his mission worked between Iranian and British positions without securing a settlement.[^v3-30-oil]
+
+The competing claims did not fit neatly into one moral vocabulary. Iran asserted sovereignty over a national resource. Britain invoked obligations arising from the oil concession. A concession could be a legal instrument and still embody an unequal distribution of bargaining power. Conversely, declaring a national right did not by itself resolve every question of compensation or implementation. Justice required somewhere to examine the claims without assuming that the more powerful party's preferred description was the neutral one.
+
+Even the location of that examination was contested. In 1952, the ICJ held that it lacked jurisdiction. That was a decision about the Court's authority to hear the dispute, not a verdict settling the full merits of nationalization.[^v3-30-icj] The distinction is easy to lose when each side needs the law to issue a certificate.
+
+The same year as Harriman's mission, Julius and Ethel Rosenberg were convicted of conspiracy to commit espionage in the United States. The verdict came on March 29, 1951; the death sentences on April 5.[^v3-30-rosenberg] A criminal trial and an international oil dispute are different kinds of proceeding. They nevertheless expose a common pressure: the state is both an institution charged with justice and a power with interests, fears and a preferred account of the danger before it.
+
+An individual defendant's culpability, the quality of evidence against that person and the proportionality of punishment must each survive scrutiny. National peril cannot do the evidentiary work for them. The more irreversible the consequence, the less tolerable it is to discover afterward that review existed mainly as ceremony.
+
+By September 11, 2046, **Justice Across the Chain** tests a less concentrated source of harm. In this scenario, AI helps people understand rights, assemble claims and resolve routine disputes at far lower cost. At the same time, consequential decisions increasingly pass through several organizations and their agents. A medical need can become an eligibility classification, then a funding decision, then a provider's refusal. Each participant may have followed its local rule. The person at the end still lacks care.
+
+A complete audit trail is valuable. It is not treatment, replacement income or a repaired reputation. Neuverse must connect an explanation of what happened to someone empowered and resourced to put it right. Urgent support may need to continue while institutions determine how to divide responsibility. The claimant should not have to solve the entire system's governance before receiving relief.
+
+That gives the Breadboard a demanding case: distribute a harmful decision across several compliant components, then ask whether a participant can obtain timely remedy without being passed endlessly between them. Record the burden of appeal as part of the harm. A technically accessible process that consumes a sick person's remaining strength has made an unusual interpretation of access.
+
+Kaveh could tear the certificate because the story gave him a moment in the king's presence. Fair systems should not require every injured person to become an epic hero before anyone answers.
 
 ## The Illusion of Neutral Systems
 
@@ -1007,3 +1031,13 @@ A fair system is designed so error can be seen, contested, limited, and repaired
 Justice before judgment is a promise.
 
 The next interlude must ask what protocols keep that promise when the system is tired, wrong, captured, rushed, frightened, or very pleased with its green checkmarks.
+
+[^v3-30-kaveh]: Mahmoud Omidsalar, [“Kāva,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/kava-hero/), citing the *Shahnameh*, Khaleghi-Motlagh edition, vol. I, pp. 67–70. This is an episode in the poem, not an event dated to 1001.
+
+[^v3-30-ferdowsi]: Djalal Khaleghi-Motlagh, [“Ferdowsi i. Life,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ferdowsi-i/), on the work's composition and completion in 1010.
+
+[^v3-30-oil]: U.S. Department of State, [*Foreign Relations of the United States*, Iran, 1951–1954, document 41](https://history.state.gov/historicaldocuments/frus1952-54v10/d41), records Harriman's July–August mediation. The record describes an American diplomatic mission and should not be mistaken for an impartial judgment on the competing claims.
+
+[^v3-30-icj]: International Court of Justice, [*Anglo-Iranian Oil Co. (United Kingdom v. Iran)*](https://www.icj-cij.org/case/16): application May 26, 1951; judgment declining jurisdiction July 22, 1952. The Court did not decide the merits of nationalization in that judgment.
+
+[^v3-30-rosenberg]: National Archives, [release notice for additional Rosenberg grand jury transcripts](https://www.archives.gov/press/press-releases/2015/nr15-97.html), gives the charges, conviction and sentencing dates. The executions took place in 1953. The design argument here does not assume identical evidence against the two defendants or purport to retry the case.

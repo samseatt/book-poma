@@ -200,9 +200,31 @@ The question is whether the substrate will be treated as commons or quarry.
 
 How do we make invisible substrates visible without turning them into commodities for faster extraction?
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## The Terms of Belonging
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*251 CE · 1876 · 2039*
+
+Around 251 CE, Shapur I ruled a Sasanian empire in which different religious communities could live under a king whose own authority was expressed in Zoroastrian terms. Mani enjoyed his protection and dedicated a work to him. Shapur did not become Mani's convert. Coexistence did not require agreement; it did, however, depend heavily on royal disposition.[^v3-27-shapur]
+
+For someone admitted to that space, the distinction might be difficult to feel while permission lasted. A generous ruler can make conditional access feel secure. The unanswered question appears at succession, or at the moment a community's practice becomes inconvenient. What belongs to the people using a space, and what remains a favour that authority can withdraw?
+
+In 1876, the machinery of belonging became explicit in Canadian law. The Indian Act consolidated federal control over people classified as “Indians,” their reserve lands and aspects of their government. Its rules included the loss of legal status for a woman who married a man without that status.[^v3-27-act] A state classification could sever legal recognition from a person's continuing relationships. The administration had a definition; the family still had a daughter.
+
+Across the border, gold seekers had entered the Black Hills despite the protections of the 1868 Fort Laramie Treaty. A federal ultimatum required Lakota people outside reservations to report by the end of January 1876 or face treatment as hostile. The campaign that followed brought U.S. cavalry into battle with Lakota, Northern Cheyenne and Arapaho forces at the Little Bighorn in June.[^v3-27-bighorn]
+
+These were distinct peoples and distinct legal histories. Their conjunction exposes something an ordinary property diagram leaves out. Land can sustain relationships, movement, obligation and knowledge that are damaged when authority redraws it as a disposable asset. A promise of protection means little if the institution making it can unilaterally decide when it no longer applies.
+
+Canada cannot enter our future as the innocent place where other countries' mistakes are repaired. The workbench carries its own unfinished obligations.
+
+By March 11, 2039, **Intelligence as Infrastructure** asks what happens when useful AI becomes part of the ground on which daily life stands. Access to education, clinical expertise, public administration and small-business capacity could improve considerably. It could also depend on a small number of providers, power systems and technical supply chains. An interruption would then resemble a utility failure more than an unavailable application. The electricity and infrastructure pressures visible in the 2020s make this dependence a serious planning question; they do not establish a particular 2039 consumption figure.[^v3-27-energy]
+
+A commons cannot be designed by calling everything shared. An aquifer can be depleted; a mathematical result can be copied without consuming it. A person's medical history can be copied just as easily, with very different consequences. Ecological knowledge held by a community does not become unowned because a model can ingest it. The kind of resource, and the rights attached to it, determine what access should mean.
+
+Neuverse needs arrangements that keep essential capabilities available without collecting every underlying thing into one possession. A community may authorize a particular use of its knowledge while retaining authority over disclosure and subsequent uses. A public service may require continuity during a supplier's failure. A resource budget may need a real limit, negotiated with the people and ecosystems bearing its costs, rather than an efficiency improvement that merely permits more consumption.
+
+The historical test returns in a modern form: can those affected change the terms, or must they appeal to whoever currently grants access? A supplier's permission and a people's authority are different foundations for a future.
+
+Recovering rootedness begins with that difference. People need the practical means to remain connected to a place and to one another, while choosing how those connections evolve. A language model trained on a culture cannot provide the land, living teachers or jurisdiction through which that culture continues. If the commons is to be a floor, those standing on it must have a say in who can pull it away.
 
 ## The Cost of Invisible Substrates
 
@@ -909,3 +931,11 @@ But visibility is only the first mercy.
 The next task belongs to the builders: how to govern the streams without draining the springs; how to protect sanctuaries without blinding the public good; how to let data, biology, ecology, and knowledge flow where life needs them while refusing extraction where flow becomes theft.
 
 Once we understand that shared ground must be protected, the builder must decide how streams may flow and where sanctuaries must refuse the pipe.
+
+[^v3-27-shapur]: A. Shapur Shahbazi, [“Šāpur I: History,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/shapur-i/). See also [“Manicheism in Pre-Islamic Iran”](https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/) for royal support. This is a condition of Shapur's reign, not a tolerance edict dated to 251 or a claim that a single orthodox religious settlement already governed the entire Sasanian period.
+
+[^v3-27-act]: Crown-Indigenous Relations and Northern Affairs Canada, [“Background on Indian Registration”](https://www.cirnac.gc.ca/eng/1540405608208/1568898474141), and Royal Commission on Aboriginal Peoples, [report highlights](https://www.rcaanc.gc.ca/eng/1100100014597/1572547985018). The passage concerns the 1876 settlement and inherited status rules; later prohibitions and compulsory measures must retain their own dates.
+
+[^v3-27-bighorn]: National Park Service, [“Context and Story of the Battle,” Little Bighorn Battlefield](https://www.nps.gov/libi/learn/historyculture/battle-story.htm). The battle was June 25–26, 1876; the subsequent taking of the Black Hills should not be collapsed into the earlier treaty or this winter's ultimatum.
+
+[^v3-27-energy]: International Energy Agency, [“Data Centre Electricity Use Surged in 2025, Even with Tightening Bottlenecks Driving a Scramble for Solutions”](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions). The 2039 dependence and access conditions are a planning scenario, not an extrapolation of one growth rate.

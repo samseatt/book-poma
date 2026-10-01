@@ -86,7 +86,7 @@ The author confirms that the second-person vignette is a lapse in the latest dra
 
 ### Chapter
 
-#### V3-027-C-001 — Pending
+#### V3-027-C-001 — Historical portion drafted; later work pending
 
 **Phase:** Pass 1 — history; Pass 3 — projected consequences.
 
@@ -103,6 +103,8 @@ The author confirms that the second-person vignette is a lapse in the latest dra
 ```
 
 **Intake result:** Preserved here and removed from the publishable manuscript on 30 September 2026. The requested historical or vignette work remains pending.
+
+**Progress, 1 October 2026:** The new historical section uses the 1876 Indian Act, Black Hills comparison and specific community authority over knowledge; the future gate addresses access, dependence and rootedness. It does not apply a blanket genocide label to the 1876 act. Detailed Indigenous-led future scenes, technical language support and the larger institutional inversion remain for the design/vignette passes. Original note above is retained.
 
 ### Interlude
 
@@ -197,3 +199,19 @@ Use specific peoples and practices, acknowledge living Indigenous leadership, an
 The author has now accepted the main map with refinements recorded in [history-decisions-2026-10-01.md](history-decisions-2026-10-01.md). That dated record supersedes the candidate preferences where they differ: notably King–Byng → Balfour in 1926, Rosenbergs added after the 1951 oil dispute, and Bamiyan leading the 2001 passage. The Alberta seed is accepted; the 1752 treaty remains optional. The 2026 Theta/Release division and the broader Neusphere/Indigenous meditation are recorded there as pending integration, with factual qualifications kept separate from authorial intent.
 
 The requested Volume I openings/endings reading is complete. See [the thread map](../VOLUME_I_THREAD_READING.md) and [coverage audit](../volume-i-thread-reading-audit.json). No history section has yet been drafted or inserted, and no manuscript has changed in this response.
+
+## Historical drafting milestone — 1 October 2026
+
+### V3-HISTORY-004 — Eleven sections drafted; author review pending
+
+The author accepted the historical qualifications and “recovering rootedness,” then authorized drafting all eleven history → future gate → design sections. These are now in canonical Chapters 23–33. Ten placeholder pairs were replaced; the inherited Chapter 33 section was replaced. Forty-six source notes accompany the prose. See [the reading map and review](../VOLUME_III_HISTORICAL_BRAID_REVIEW.md) and [source/hash audit](../volume-iii-historical-braid-audit.json).
+
+The design pass and vignette pass remain pending. Existing surrounding futures, including Desk Exodus, Silicon Tonnage Tax and Synthetic Species Split, are not validated by these insertions. Only the immediate Chapter 32 sentence presupposing the synthetic split was changed as a necessary join. No numbered interlude, Open, Theta manuscript, Overture or Epilogue was redrafted.
+
+### V3-THETA-001 — Setup list prepared; prose revision pending
+
+[THETA_SETUP_FOR_HISTORICAL_BRAID.md](../THETA_SETUP_FOR_HISTORICAL_BRAID.md) separates Chapter Theta's design duties from Interlude Theta's historical/future/Breadboard preparation. It includes the current-affairs audit still needed at the chosen September 2026 scene, exact-date qualifications, an operational Breadboard proposal, and eleven possible concluding tests. Breadboard reflections may inform the gates but are not the gates' sole purpose. This record does not assert that a present implementation passes those tests.
+
+### V3-C4A-001 — Naming proposal pending author decision
+
+The author may rename C4A to **Civilization for All**, connecting the historical inquiry and Breadboard. The current Theta interlude says **Citizenship for All**; the latest prompt referred to **Civics for All**. No global renaming has been made. Preserve the distinction between an authorial proposal and an adopted name.

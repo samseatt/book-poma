@@ -144,9 +144,33 @@ The deeper design question is:
 
 Which decisions belong where, under what authority, with what recourse, and on whose behalf?
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## Who May Decide?
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*751 CE · 1926 · 2044*
+
+By 751, the Abbasid revolution had overturned Umayyad rule. The decisive victory belonged to 750; the problem now was making the victorious coalition into a government. Abu Muslim's organization in Khurasan had been indispensable. That did not make the new caliphate a Persian national restoration, or leave a simple agreement about whose authority should prevail inside it.[^v3-29-abbasids]
+
+The conflict could become quite practical. An official carrying the caliph's appointment could encounter men who would not recognize him without Abu Muslim's authorization. There were two plausible routes to command: the office at the centre and the power that had helped put it there. In 755, the caliph al-Mansur had Abu Muslim killed.[^v3-29-abbasids]
+
+A founding coalition can agree on removing a ruler while leaving dangerously unsettled how its own members will be restrained. Victory answers who prevailed. It does not distribute a durable right to decide.
+
+In 1926, Canada encountered a version of that question which could be fought through institutions. Facing a likely parliamentary censure, Prime Minister Mackenzie King asked Governor General Byng to dissolve Parliament. Byng refused, believing an alternative government could be formed. King resigned. Arthur Meighen took office, soon lost the confidence of the House, and an election followed. King returned to power.[^v3-29-kingbyng]
+
+The argument was about more than personalities. How far could the Crown's representative exercise judgment against a prime minister's advice? How should that judgment relate to parliamentary confidence? Who was answerable to whom when the ordinary route of authority became contested?
+
+Later that year, the Imperial Conference's Balfour Declaration described Britain and the Dominions as autonomous communities, equal in status. The declaration belonged to a wider evolution of their relationship; the King–Byng dispute was not its sole cause. Nor did a sentence instantly finish the legal work. The Statute of Westminster followed in 1931, with further Canadian constitutional questions left unresolved.[^v3-29-balfour]
+
+We cross the American border for this institutional checkpoint because Canada's quarrel makes the architecture unusually visible. A federation or commonwealth needs both shared arrangements and a defensible boundary to each member's authority. Otherwise the centre's convenient interpretation becomes the member's constitution.
+
+At the March 11, 2044 gate, **Authority at Machine Speed**, routine allocation and administration could operate with far less delay. AI systems may forecast demand, coordinate infrastructure, prepare budgets and implement decisions within delegated limits. This could remove a great deal of administrative exhaustion. It could also allow decisions to accumulate faster than people can discover which body had the right to make them.
+
+A technically excellent allocation does not establish its own mandate. If a regional system reallocates water during a shortage, it must distinguish measuring the shortage from deciding whose claim takes priority. Municipalities, provinces, Indigenous governments and service providers cannot be collapsed into interchangeable nodes because a software diagram prefers symmetry. Their powers arise from different histories, laws and agreements.
+
+Neuverse's civic meshes need to make those differences operational. Each consequential action should carry a discoverable source of authority, a scope and a route for challenge. Emergency powers need an expiry that does not depend on the emergency operator remembering to surrender them. Shared services should survive a member's disagreement wherever possible; otherwise federation becomes a threat to turn off the lights.
+
+The same discipline applies to funding. A tax on “silicon tonnage” may be a useful provocation, but compute consumed is not identical to value captured or labour displaced. A fiscal design has to identify its base, who ultimately bears the charge and which level of government may levy it. That work cannot be delegated to a metaphor.
+
+The Breadboard can test a small dispute with real boundaries: two participants claim authority over the same resource, each has reasons, and neither can simply dismiss the other from the experiment. Can the system preserve essential service while reaching a legitimate resolution? The decisive output may be a documented refusal to execute an instruction until the proper authority is established. Intelligence should help government govern; it should not acquire jurisdiction as a performance bonus.
 
 ## Governance After Trust Collapse
 
@@ -871,3 +895,9 @@ The plumbing beneath co-authorship.
 Because democracy can learn new physics.
 
 But only if the pipes do not become chains.
+
+[^v3-29-abbasids]: *Encyclopaedia Iranica*, [“Abū Moslem Ḵorāsānī”](https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/), especially the revolution, competing appointments in Fars and Abu Muslim's death in 755. The 751 cutoff concerns consolidation following the 750 overthrow, not a misdated revolution or a modern national succession.
+
+[^v3-29-kingbyng]: House of Commons, [*Procedure and Practice*, “The Parliamentary Cycle,” note 122](https://www.ourcommons.ca/marleaumontpetit/DocumentViewer.aspx?Language=E&Sec=Ch08&Seq=10); Library of Parliament, [*Transition to the 45th Parliament: Key Roles, Government Formation and Other Issues*, section 3.1.10](https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/HillStudies/PDF/2025-09-E.pdf). The crisis involved competing constitutional judgments; the passage does not treat Byng's refusal as an uncontested breach of law.
+
+[^v3-29-balfour]: Government of Canada, [“The Statute of Westminster, 1931”](https://www.canada.ca/en/intergovernmental-affairs/services/federation/statute-westminster.html), on the 1926 declaration, subsequent legislation and Canada's reservations about constitutional amendment.

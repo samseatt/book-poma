@@ -196,9 +196,33 @@ Chapter 31 asks:
 
 What would care become if it could see the person over time, in context, with uncertainty, and with enough humility to ask what it does not yet understand?
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## Counting the Living
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*1251 CE · 1976 · 2049*
+
+War had entered this book before it could enter my vocabulary. At the end of the childhood chapter on biology, the living body's intricate order met the older machinery for breaking it.
+
+The Iranian lands of 1251 carried wounds from the Mongol conquests of the preceding decades. For survivors, an imperial chronology could announce a new reign while the consequences of earlier violence remained physical: injury, lost provision, disrupted households. Möngke's accession that year did not reset the bodies within his dominion.
+
+Arghun Aqa, the Mongol administrator in Iran, travelled to the imperial court in 1251–1252 and described a fiscal order in disarray. After his return in 1253, a census and revised taxation followed. Juvaini credited him with restraining military encroachments and illegal exactions; other contemporary testimony was far less admiring.[^v3-31-mongols]
+
+From above, a population becoming countable could look like recovery. Regular demands might offer relief from arbitrary ones. But administrative regularity is an incomplete account of a person's condition. A household can reappear in a revenue record long before its members regain security or health. Knowing that someone survives tells us little about how they are living.
+
+The American care problem of 1976 faced in the opposite temporal direction. Harm was feared ahead. An outbreak of swine influenza at Fort Dix raised the possibility of a much larger epidemic. President Ford announced a national vaccination initiative in March; the mass programme began that autumn. The feared epidemic did not spread as anticipated. A signal of increased Guillain–Barré syndrome among vaccine recipients contributed to the programme's suspension in December.[^v3-31-flu]
+
+It is easy, after the feared event fails to occur, to pretend the uncertainty had never existed. It is equally easy to defend an initial decision so firmly that later evidence cannot enter. Public health must act before it knows everything, then remain capable of changing course. Protection includes watching for harm caused by the protective measure itself. This history supplies an argument for serious surveillance and revision, not a general argument against vaccination.
+
+That September, the Indian Health Care Improvement Act also became law, declaring a federal commitment to improving the health of American Indians and Alaska Natives.[^v3-31-ihcia] It places another obligation beside emergency mobilization: the slower work of making ordinary care available to people whose needs have repeatedly been treated as peripheral.
+
+By March 11, 2049, **the Long Care Horizon** will have a firmer demographic basis than any promise of immortality. Canadian projections already anticipate substantial growth in the oldest age groups through the 2030s and 2040s, although the scale depends on their assumptions.[^v3-31-demography] More people living longer means more years in which function, chronic illness, relationships and the practical work of care matter together.
+
+In the scenario, AI can help recognize deterioration earlier, reconcile medications and preserve context across encounters. Some therapies may improve substantially; benefits will differ by condition and access. More continuous observation can make life safer. It can also generate an uninterrupted stream of warnings that someone—often a family member—must interpret, absorb or act upon.
+
+The measure of success cannot be how much the system noticed. Did the person retain function? Did the intervention prevent a serious problem, or mainly produce more tests? Did it reduce the caregiver's burden or move unpaid clinical work into the kitchen? A warning with no available response is a transfer of anxiety.
+
+Neuverse's care design should connect observation to a named clinical responsibility, a feasible response and the person's own priorities. A patient must be able to say that a tolerable risk is worth taking, or that another month of measurements is no longer the life they want. Those choices need support, including good explanation of uncertainty; they should not be extracted from exhaustion.
+
+The future clinic should carry a person's history without making them live inside its forecasts. That is what the older census could not tell us, and what a new abundance of measurements still cannot decide alone: whether we have helped someone live, or merely become very precise about their decline.
 
 ## The Failure of Protocol Medicine
 
@@ -799,3 +823,11 @@ But the body is not all that must be carried.
 Names, stories, rituals, archives, languages, losses, recipes, songs, and the strange private meanings by which a life becomes more than physiology also require care.
 
 After molecule and moment comes memory.
+
+[^v3-31-mongols]: Peter Jackson, [“Arḡūn Āqā,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/argun-aqa-a-mongol-administrator-in-iran-d-1275/), for the 1251–1252 visit, 1253 measures and contrasting contemporary assessments. The wounded landscape refers to the aftermath of earlier conquests, not a newly invented massacre in 1251; Hulagu's later campaign is not imported into that year.
+
+[^v3-31-flu]: David J. Sencer and J. Donald Millar, [“Reflections on the 1976 Swine Flu Vaccination Program,” *Emerging Infectious Diseases* 12, no. 1 (2006)](https://wwwnc.cdc.gov/eid/article/12/1/05-1007_article); Gerald R. Ford Presidential Library and Museum, [Swine Flu Immunization Program, 1976](https://www.fordlibrarymuseum.gov/galleries/swine-flu-immunization-program-1976). Sencer and Millar were participants in the programme; their retrospective is evidence and interpretation, not a disinterested verdict. The limited outbreak, anticipated pandemic and later safety signal are distinct events.
+
+[^v3-31-ihcia]: [Indian Health Care Improvement Act, Public Law 94-437, September 30, 1976](https://www.ihs.gov/sites/ihcia/themes/responsive2017/display_objects/documents/home/2000_IHCIA_Codification.pdf), historical enactment and policy provisions in the Indian Health Service's codification. Later amendments in that compilation should not be attributed to the original act.
+
+[^v3-31-demography]: Statistics Canada, [*Population Projections for Canada (2025 to 2075), Provinces and Territories (2025 to 2050)*](https://www150.statcan.gc.ca/n1/pub/17-20-0003/172000032026001-eng.htm). Demographic projections are conditional; they offer no warrant for a fixed date for radical life extension.

@@ -115,7 +115,7 @@ Care preserved the body's pattern across time.
 
 But persons and civilizations are more than biological continuity. We survive through names, songs, rituals, stories, jokes, recipes, warnings, languages, migrations, sacred objects, local idioms, school scars, burial customs, photographs, and the old sentences people murmur when ordinary speech fails.
 
-The synthetic split forced a new question.
+The archive's new fluency sharpened an old question.
 
 If machines can preserve, recombine, simulate, and extend our cultural material better than we can, what remains ours to steward?
 
@@ -127,9 +127,33 @@ The goal is to make sure memory does not become simulation without obligation.
 
 A civilization that cannot remember wisely cannot change without becoming amnesiac.
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## The Inheritance That Can Answer Back
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*1501 CE · 2001 · 2051*
+
+In 1501, Ismail entered Tabriz, proclaimed himself shah and declared Shiism the official faith of his new state. He was about fifteen. The Safavid settlement would help shape Iran for centuries; it did not convert the country in an afternoon. Its making involved coercion, conflict and the gradual building of institutions through which a chosen identity could endure.[^v3-32-safavids]
+
+There is a powerful achievement here, and a danger inside the achievement. A people can inherit a durable language of belonging. Those who do not fit the authorized account can inherit the obligation to disappear from it. Continuity becomes easier to administer when the past is permitted only one legitimate descendant.
+
+Five hundred years later, the Taliban destroyed the great Buddha statues at Bamiyan in March 2001. The empty niches made an ideology's claim on the past physically visible: what could not be admitted into the present should no longer be allowed to remain in stone.[^v3-32-bamiyan]
+
+September brought the attacks in the United States. In October, the USA PATRIOT Act expanded federal investigative and surveillance powers.[^v3-32-patriot] These events did not form one causal chain from the broken statues to the new law. They revealed different ways the future could be narrowed: by destroying an inheritance, and by reorganizing public life under the pressure of an emergency.
+
+A threatened society has real reasons to defend itself. It also has to decide which responses are temporary, which protections remain indispensable and who will be able to revisit the bargain once fear has become ordinary. The “new normal” can inherit powers more easily than it remembers their original justification. A date on a statute is easier to preserve than the atmosphere in which it became acceptable.
+
+Continuity therefore requires several kinds of memory. We need the record of what happened, the reasons people gave, the consequences they failed to see and the voices their settlement excluded. We also need enough freedom to argue with the inheritance. Preserving every rule unchanged would leave us very well documented and largely governed by the dead.
+
+At **the Living Inheritance** checkpoint on September 11, 2051, memory could have acquired more ability to act. Archives may be searched through conversation; family records may be assembled across languages and damaged formats; models may assist with the recovery and teaching of knowledge whose transmission has become fragile. Institutions could rely on agents trained on decades of their own decisions. A founder's preferences might continue operating long after the founder has stopped attending meetings.
+
+That last possibility changes the custodial problem. A stored letter waits to be read. An active model can recommend, rank, exclude or authorize. If it inherits yesterday's assumptions without a living route of revision, preservation has become a mechanism of government.
+
+The technical duties are quite concrete: keep original records distinguishable from reconstructions; preserve versions and disagreements; record who may authorize reuse; make migration possible when formats and suppliers change. A generated continuation should never quietly replace a missing passage. More fluent access increases the need to know what, exactly, we have accessed.[^v3-32-preservation]
+
+Living cultures require more than excellent archives. The Blackfoot knowledge beside the bison jump belongs to people who can teach, disagree and change; it is not exhausted by a collection of descriptions. The same applies, differently, to other peoples and places. Community authority over recording and access can matter precisely because some knowledge is carried through relationships that a public dataset cannot reproduce. Recovering rootedness means supporting those relationships, including their right to remain partly outside our systems.
+
+For Neuverse, inheritance needs a distinction between what must remain knowable and what must remain binding. Successors should be able to discover why a rule existed, inspect its effects and replace it without falsifying the record. The Breadboard can rehearse that separation: preserve the founder's original decision, let a later group revise it, and test whether services continue under the revision.
+
+The result may disappoint the founder. That is one of the ways we will know a living future has arrived. An archive that can speak must still leave room for an answer.
 
 ## What Should Survive?
 
@@ -882,3 +906,11 @@ Because memory gives the future a thread.
 But a thread is not a leash.
 
 And if we encode everything only to control what comes next, we have mistaken continuity for possession.
+
+[^v3-32-safavids]: Rudi Matthee, [“Safavid Dynasty,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/safavids/), especially Ismail's 1501 accession, declaration of the state faith and the coercive, extended formation of the Safavid order. The cutoff is 1501, not the later 1510 conquest.
+
+[^v3-32-bamiyan]: UNESCO World Heritage Centre, [Cultural Landscape and Archaeological Remains of the Bamiyan Valley](https://whc.unesco.org/en/list/208/). The statues were destroyed in March 2001. A later commemoration on March 11 is not evidence that the entire destruction occurred on that single day.
+
+[^v3-32-patriot]: [USA PATRIOT Act, Public Law 107-56](https://www.govinfo.gov/app/details/PLAW-107publ56), enacted October 26, 2001, especially Title II on surveillance procedures. The passage connects emergency and institutional memory; it does not equate legislation with the destruction at Bamiyan.
+
+[^v3-32-preservation]: Digital Preservation Coalition, [*Digital Preservation Handbook*, “Retention and Review”](https://www.dpconline.org/handbook/organisational-activities/retention-and-review). Existing preservation practice informs the scenario; an archive's ability to authorize or govern through agents is a further design problem proposed here, not a capability forecast by the handbook.

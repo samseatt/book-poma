@@ -185,9 +185,33 @@ Not whether adaptive systems should help. They will. They already do.
 
 The question is whether help remains answerable to the person helped.
 
-\[THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.\]
+## The Empire That Knows Your Name
 
-\[SEGUE FROM TIMELINE INTO DESIGN ARGUMENT TO BE DRAFTED AFTER FINAL TIMELINE ALIGNMENT.\]
+*500 BCE · 1801 · 2031*
+
+By 500 BCE, the child whom Astyages had feared was long dead. The empire Cyrus founded had outlived him, enlarged and consolidated under his successors. Darius ruled a domain stretching from Egypt into the Indus region. The vine had acquired roads, officials and a remarkable appetite for records.[^v3-24-empire]
+
+The Persepolis Fortification tablets, covering years from 509 to 493 BCE, preserve some of its working metabolism: food issued to workers, provisions for travellers, quantities recorded and authorized. Here is empire below the monumental inscription. Someone had to get grain to the right place. The records made movement and work possible across distances that would otherwise defeat personal acquaintance.[^v3-24-tablets]
+
+They also make a distinction visible. Being provided for within an arrangement does not give a person authority over it. A ration record can recognize a worker precisely while saying very little about what the worker was free to refuse.
+
+In 499 BCE, the Ionian Revolt began on the empire's western edge. Its causes included the ambitions and failures of local rulers as well as opposition to Persian domination; it was no uncomplicated plebiscite for modern liberty. But the revolt exposed a limit in the imperial settlement. A structure that held together from the centre could remain intolerable at its edges.[^v3-24-ionia] The trellis had worked. For whom was becoming the question.
+
+On March 4, 1801, Jefferson took office after an election whose deadlock had required a decision in the House of Representatives. An opponent could inherit executive power without overthrowing the state. This was an institutional achievement worth more than the personal virtue of either departing or arriving president.[^v3-24-jefferson]
+
+Hamilton, no admirer of Jefferson, had urged James Bayard to prefer him to Aaron Burr. His January letter feared Burr's ambition and willingness to attempt a usurpation. This was partisan judgment, not clairvoyance. Its lasting design concern is nevertheless exact: what happens when the person who can obtain an office has fewer restraints than the office's builders expected?[^v3-24-hamilton]
+
+Jefferson's Louisiana Purchase in 1803 enlarged the republic's room to act. For Indigenous nations whose homelands lay within the purchase's claimed boundaries, the agreement between France and the United States did not amount to consent. Agency had expanded at one scale without being granted at another.[^v3-24-louisiana]
+
+By September 11, 2031, **the Delegated Life** is the condition to examine. In this scenario, persistent AI assistants handle enough scheduling, correspondence, applications and comparison shopping to be difficult to surrender. People with little time or institutional fluency gain capable representation. The exhausted caregiver gets through the form. The small organization acquires expertise it could never have kept on payroll. Much of this is liberation from work that had become a tax on being alive.
+
+Then representation begins to shape the represented. An assistant remembers which offers I accept, negotiates from those expectations, and quietly presents a narrower future. Perhaps it is usually right. That makes the problem harder. Incompetence invites rebellion; competent management can make rebellion look unreasonable.
+
+The useful boundary is specific authority. An agent may gather offers without accepting one, negotiate a price within a limit, or submit a document after approval. Its instructions must survive delegation to another agent, and its permissions must expire where the person intended them to expire. A log that tells me afterward why my life changed is an incomplete substitute for consent.
+
+For Neuverse, the test is whether I can correct its picture of me, revoke a representative, or move to another service without losing the benefits that made participation possible. This must work for the tired person, not just the person willing to audit a permissions panel over breakfast. The system should bear much of the burden of remembering what it was allowed to do.[^v3-24-authority]
+
+Darius's officials needed to know who was travelling and what provisions they could receive. My future assistant may know where I ought to go. The citizen's dilemma begins in the small interval between *ought* and *will*.
 
 ## The Fear of the Helpful System
 
@@ -960,3 +984,17 @@ The next interlude belongs to the builders of such seams. Because once help beco
 The citizen has asked for contestability.
 
 The developer must now decide whether to build it before the tool becomes law.
+
+[^v3-24-empire]: Metropolitan Museum of Art, [“The Achaemenid Persian Empire (550–330 B.C.)”](https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c), for imperial expansion and administration. The Ionian chronology here follows the specialist source below.
+
+[^v3-24-tablets]: Richard T. Hallock, [*Persepolis Fortification Tablets*](https://isac.uchicago.edu/publications/persepolis-fortification-tablets), Oriental Institute Publications 92 (1969); University of Southern California, [Persepolis Fortification Archive](https://dornsife.usc.edu/wsrp/persepolis-fortification-archive/).
+
+[^v3-24-ionia]: *Encyclopaedia Iranica*, [“Ionian Revolt”](https://www.iranicaonline.org/articles/ionian-revolt/). The revolt began in 499 BCE; the account does not reduce its several causes to a modern theory of individual agency.
+
+[^v3-24-jefferson]: Library of Congress, [“Peaceful Transition of Power”](https://www.loc.gov/exhibits/creating-the-united-states/peaceful-transition.html).
+
+[^v3-24-hamilton]: Alexander Hamilton to James A. Bayard, [January 16, 1801](https://founders.archives.gov/documents/Hamilton/01-25-02-0169), *Founders Online*, National Archives.
+
+[^v3-24-louisiana]: National Archives, [“Louisiana Purchase Treaty (1803)”](https://www.archives.gov/milestone-documents/louisiana-purchase-treaty). The treaty between the purchasing and ceding states did not itself obtain the consent of the Indigenous nations within its territorial claims.
+
+[^v3-24-authority]: NIST, [“New Concept Paper on Identity and Authority of Software Agents”](https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents). The specific rights and tests proposed here are design requirements, not a claim that a current standard guarantees them.

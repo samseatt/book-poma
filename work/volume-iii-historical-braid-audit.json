@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-01",
+  "base_commit": "2a92f4d",
+  "status": "canonical-first-draft-for-author-review",
+  "source_policy": "Direct source links appear in chapter footnotes; primary documents and institutional/scholarly histories distinguish fact, transmitted story, interpretation, and conditional future scenario. Web review does not constitute a full specialist peer review.",
+  "changes": [
+    {
+      "chapter": 23,
+      "unit_id": "v3-23-chapter",
+      "path": "manuscripts/volume-3/23-chapter.md",
+      "section_title": "Before the Crown",
+      "section_words_approx": 647,
+      "source_note_count": 4,
+      "before_sha256": "5e59a6b9915e09ea7117eafe0b0bfc0927ff26ee7b4aeb4385656dfb0e73cc4b",
+      "after_sha256": "ea13856386b11dbea9ad01557f8627c9fa2a064f33b4a074a2b1d77396dc1521",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/media/",
+        "https://www.turismoroma.it/en/page/rome-nutshell",
+        "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+        "https://www.iranicaonline.org/articles/nowruz-i/",
+        "https://www.archives.gov/milestone-documents/lee-resolution",
+        "https://www.archives.gov/founding-docs/declaration-transcript",
+        "https://guides.loc.gov/articles-of-confederation/digital-collections",
+        "https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents"
+      ]
+    },
+    {
+      "chapter": 24,
+      "unit_id": "v3-24-chapter",
+      "path": "manuscripts/volume-3/24-chapter.md",
+      "section_title": "The Empire That Knows Your Name",
+      "section_words_approx": 664,
+      "source_note_count": 7,
+      "before_sha256": "157464d5675fc4de1bbbd00fd0e7f59c96b9d3ccacaaf60d669397640019653f",
+      "after_sha256": "7140ccef841f9ad8a503f78b8c42b86c1198e80afd95b3c7e9d1d8801123f43e",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+        "https://isac.uchicago.edu/publications/persepolis-fortification-tablets",
+        "https://dornsife.usc.edu/wsrp/persepolis-fortification-archive/",
+        "https://www.iranicaonline.org/articles/ionian-revolt/",
+        "https://www.loc.gov/exhibits/creating-the-united-states/peaceful-transition.html",
+        "https://founders.archives.gov/documents/Hamilton/01-25-02-0169",
+        "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+        "https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents"
+      ]
+    },
+    {
+      "chapter": 25,
+      "unit_id": "v3-25-chapter",
+      "path": "manuscripts/volume-3/25-chapter.md",
+      "section_title": "Who Gets the Harvest?",
+      "section_words_approx": 696,
+      "source_note_count": 5,
+      "before_sha256": "e852353b6556764030b6b7f65a30bc49a7693e5d6ba2a34c63f18d096504c2ee",
+      "after_sha256": "1fc94ee0a6ccbd2a2287f63857c6a035e4dd48980d8079667be571904aa6a86c",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/arsacids-ii/",
+        "https://whc.unesco.org/en/list/158/",
+        "https://fedora.dlib.indiana.edu/fedora/get/iudl%3A643423/OVERVIEW",
+        "https://www.in.gov/iara/services-for-public/search-archives-holdings/court-records/introduction-to-posey-county/new-harmony-indiana/",
+        "https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1826-0264",
+        "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure"
+      ]
+    },
+    {
+      "chapter": 26,
+      "unit_id": "v3-31-chapter",
+      "path": "manuscripts/volume-3/26-chapter.md",
+      "section_title": "Whose Words Survive?",
+      "section_words_approx": 644,
+      "source_note_count": 3,
+      "before_sha256": "9655cf47fe3b56a6230d94a5469e63230163e019d778ac25e7a360fa2e7498b6",
+      "after_sha256": "53f5da348721528dacbb03b249544f45303813ca63893c270097c06481188766",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/phraates-v/",
+        "https://www.nps.gov/teachers/classrooms/aint-i-a-woman.htm",
+        "https://spec.c2pa.org/specifications/specifications/1.2/specs/C2PA_Specification.html"
+      ]
+    },
+    {
+      "chapter": 27,
+      "unit_id": "v3-27-chapter",
+      "path": "manuscripts/volume-3/27-chapter.md",
+      "section_title": "The Terms of Belonging",
+      "section_words_approx": 669,
+      "source_note_count": 4,
+      "before_sha256": "7407fa734e954249d6ce9a57a3943c95e96f382aa477d6e36055e3757db6c038",
+      "after_sha256": "58176538fc5e949c8c28465310af60d0666679f9133ae0a0ef9af3e29bb97351",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/shapur-i/",
+        "https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/",
+        "https://www.cirnac.gc.ca/eng/1540405608208/1568898474141",
+        "https://www.rcaanc.gc.ca/eng/1100100014597/1572547985018",
+        "https://www.nps.gov/libi/learn/historyculture/battle-story.htm",
+        "https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions"
+      ]
+    },
+    {
+      "chapter": 28,
+      "unit_id": "v3-29-chapter",
+      "path": "manuscripts/volume-3/28-chapter.md",
+      "section_title": "The Hands Behind the Output",
+      "section_words_approx": 647,
+      "source_note_count": 4,
+      "before_sha256": "c69bd5faf08730a0b8ca70768de8367c7d3e62378de959109e263f7a0315ab92",
+      "after_sha256": "cca85a388a23b5c909a15017fb71ba16ec00489fbd1160cf58e175f4e5a626d5",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/kawad-i/kawad-i-reign/",
+        "https://www.iranicaonline.org/articles/arrajan-medieval-city-and-province-in-southwestern-iran-between-kuzestan-and-fars/",
+        "https://www.usske.sk/en/article/u.-s.-steel-celebrates-its-125th-anniversary",
+        "https://www.archives.gov/electoral-college/1900",
+        "https://history.state.gov/historicaldocuments/frus1901/ch4",
+        "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+        "https://www.nature.com/articles/s41586-023-06734-w"
+      ]
+    },
+    {
+      "chapter": 29,
+      "unit_id": "v3-26-chapter",
+      "path": "manuscripts/volume-3/29-chapter.md",
+      "section_title": "Who May Decide?",
+      "section_words_approx": 674,
+      "source_note_count": 3,
+      "before_sha256": "210f8e0c1aacde39cf3a1ed252c324ceb12a1afa5204e0908ddc17df6ee5397a",
+      "after_sha256": "bd9fabedfc926a58966ad1e2fd140d9d6c8d5011223c76d752e2f4e708563315",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/",
+        "https://www.ourcommons.ca/marleaumontpetit/DocumentViewer.aspx?Language=E&Sec=Ch08&Seq=10",
+        "https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/HillStudies/PDF/2025-09-E.pdf",
+        "https://www.canada.ca/en/intergovernmental-affairs/services/federation/statute-westminster.html"
+      ]
+    },
+    {
+      "chapter": 30,
+      "unit_id": "v3-30-chapter",
+      "path": "manuscripts/volume-3/30-chapter.md",
+      "section_title": "The Certificate of Justice",
+      "section_words_approx": 673,
+      "source_note_count": 5,
+      "before_sha256": "40973a46db09dcea3506d15450e4ce60e77508f0ef7688e30f347cbc33943686",
+      "after_sha256": "5626ed137bf2864d118d6ef7cf93822897ebea80ea735972ba56c9d6f73bbcac",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/kava-hero/",
+        "https://www.iranicaonline.org/articles/ferdowsi-i/",
+        "https://history.state.gov/historicaldocuments/frus1952-54v10/d41",
+        "https://www.icj-cij.org/case/16",
+        "https://www.archives.gov/press/press-releases/2015/nr15-97.html"
+      ]
+    },
+    {
+      "chapter": 31,
+      "unit_id": "v3-28-chapter",
+      "path": "manuscripts/volume-3/31-chapter.md",
+      "section_title": "Counting the Living",
+      "section_words_approx": 675,
+      "source_note_count": 4,
+      "before_sha256": "861a11e402575cbeaf7fb0ecf97654d932862994e3ea3f7547b66a72abb7d50d",
+      "after_sha256": "8a490388e914836cf10b114839425c8032afb8f58b9ff34b77dbd9b8f0c2c501",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/argun-aqa-a-mongol-administrator-in-iran-d-1275/",
+        "https://wwwnc.cdc.gov/eid/article/12/1/05-1007_article",
+        "https://www.fordlibrarymuseum.gov/galleries/swine-flu-immunization-program-1976",
+        "https://www.ihs.gov/sites/ihcia/themes/responsive2017/display_objects/documents/home/2000_IHCIA_Codification.pdf",
+        "https://www150.statcan.gc.ca/n1/pub/17-20-0003/172000032026001-eng.htm"
+      ]
+    },
+    {
+      "chapter": 32,
+      "unit_id": "v3-32-chapter",
+      "path": "manuscripts/volume-3/32-chapter.md",
+      "section_title": "The Inheritance That Can Answer Back",
+      "section_words_approx": 688,
+      "source_note_count": 4,
+      "before_sha256": "25c1a0ec1e8bfbc98a8956d1ce4cb046e5a8735fcb5dce3c8e891d19c58f7734",
+      "after_sha256": "b87451ea0996d84294425343f2bd96ca0a03ae94734a765532742284ad483d14",
+      "narrow_seams": [
+        {
+          "before": "The synthetic split forced a new question.",
+          "after": "The archive's new fluency sharpened an old question.",
+          "reason": "Remove immediate dependency on superseded species-split gate without rewriting the vignette or later design discussion."
+        }
+      ],
+      "sources": [
+        "https://www.iranicaonline.org/articles/safavids/",
+        "https://whc.unesco.org/en/list/208/",
+        "https://www.govinfo.gov/app/details/PLAW-107publ56",
+        "https://www.dpconline.org/handbook/organisational-activities/retention-and-review"
+      ]
+    },
+    {
+      "chapter": 33,
+      "unit_id": "v3-33-chapter",
+      "path": "manuscripts/volume-3/33-chapter.md",
+      "section_title": "The Authority to Leave Us Behind",
+      "section_words_approx": 798,
+      "source_note_count": 3,
+      "before_sha256": "010eea9c7483b8198b527648bda348fbc104964e82a6ca3128108d60b4a2c599",
+      "after_sha256": "db986de1aca0d3219004ef04e489834d5c1b4b686244fd503752ec838134e433",
+      "narrow_seams": [],
+      "sources": [
+        "https://www.iranicaonline.org/articles/karim-khan-zand/",
+        "https://www.rcaanc.gc.ca/eng/1100100029040/1581293867988",
+        "https://www.rcaanc.gc.ca/eng/1100100028599/1539609517566",
+        "https://www.archives.gov/press/press-releases/2026/nr26-2",
+        "https://www.archives.gov/founding-docs/declaration-transcript"
+      ]
+    }
+  ],
+  "untouched_scope": [
+    "chapter and interlude titles/numbering",
+    "opens",
+    "interludes",
+    "Theta manuscripts",
+    "Overture and Epilogue",
+    "Volumes I and II",
+    "assets",
+    "archived Word and conversion records",
+    "publishing infrastructure"
+  ],
+  "verification": {
+    "hash_guard": "passed for all eleven files",
+    "footnote_integrity": "passed for all eleven files",
+    "final_scope_diff": "passed: only planned replacements, source footnotes, and one Chapter 32 seam",
+    "markdown_parser": "Quarto Pandoc: 11 files parsed; 46 definitions, 48 resolved note references; no warnings. Chapter 23 date clarification rechecked before commit.",
+    "media_references": "unchanged in all eleven chapters",
+    "deployment": "not run; canonical editorial work only"
+  },
+  "source_discrepancies": [
+    {
+      "chapter": 23,
+      "issue": "National Archives summary groups committee appointments on June 11; Library of Congress primary-document guide separates June 11 resolution and June 12 confederation committee appointments.",
+      "resolution": "Describe division of committee work without assigning all appointments to one day.",
+      "source": "https://guides.loc.gov/articles-of-confederation/digital-collections"
+    }
+  ]
+}

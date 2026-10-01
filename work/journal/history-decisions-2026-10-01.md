@@ -1,5 +1,7 @@
 # Historical selections: author response and editorial qualifications
 
+**Later status, 1 October 2026:** The author authorized the next pass and the eleven sections are now drafted in canonical Chapters 23–33. See [the review map](../VOLUME_III_HISTORICAL_BRAID_REVIEW.md). The intake record below preserves the earlier deferred status and rationale; it does not supersede this progress update.
+
 1 October 2026. **Author direction received; drafting deferred to the next authorized historical pass.** This is a paraphrased decision record of the author's detailed response, not manuscript prose or a verbatim transcript. It supplements the earlier [candidate table](../HISTORICAL_CUTOFF_SELECTIONS.md), preserving that proposal as provenance. Current chapter numbers apply.
 
 ## Governing approach

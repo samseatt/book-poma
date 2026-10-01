@@ -2704,7 +2704,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
-        "sha256": "5e59a6b9915e09ea7117eafe0b0bfc0927ff26ee7b4aeb4385656dfb0e73cc4b"
+        "sha256": "ea13856386b11dbea9ad01557f8627c9fa2a064f33b4a074a2b1d77396dc1521"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 23c - The Loom of Renewal - From Fracture to Framework.docx",
       "source_sha256_at_inventory": "bfb613808b37e788da56388f5d187eeb2f881f9d57ee13111b7812a14da91511",
@@ -2833,7 +2833,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
-        "sha256": "157464d5675fc4de1bbbd00fd0e7f59c96b9d3ccacaaf60d669397640019653f"
+        "sha256": "7140ccef841f9ad8a503f78b8c42b86c1198e80afd95b3c7e9d1d8801123f43e"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 24c - The Citizen’s Dilemma - Agency, Trust, and Life Inside the New Mesh.docx",
       "source_sha256_at_inventory": "6e6072c3875a20679edea835b9b8d69be7e5cb1a9f2e82d1f8b86321fede5933",
@@ -2968,7 +2968,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
-        "sha256": "e852353b6556764030b6b7f65a30bc49a7693e5d6ba2a34c63f18d096504c2ee"
+        "sha256": "1fc94ee0a6ccbd2a2287f63857c6a035e4dd48980d8079667be571904aa6a86c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 25c - Beyond the Invisible Hand - Toward a Humane Economy.docx",
       "source_sha256_at_inventory": "375f39e68cd45bb7bda31d6460a86f51c3df97602bf0aec781ed0c012e232e9d",
@@ -3098,7 +3098,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
-        "sha256": "210f8e0c1aacde39cf3a1ed252c324ceb12a1afa5204e0908ddc17df6ee5397a"
+        "sha256": "bd9fabedfc926a58966ad1e2fd140d9d6c8d5011223c76d752e2f4e708563315"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 26c - The Steward’s Edge - Redefining Governance and Citizenship.docx",
       "source_sha256_at_inventory": "c912f28f89f919a039b0f8bfc4208808484e3482993d8cdb620d01b500bbf35b",
@@ -3229,7 +3229,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
-        "sha256": "7407fa734e954249d6ce9a57a3943c95e96f382aa477d6e36055e3757db6c038"
+        "sha256": "58176538fc5e949c8c28465310af60d0666679f9133ae0a0ef9af3e29bb97351"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 27c The Reclaimed Commons - Knowledge, Nature, and Digital Space.docx",
       "source_sha256_at_inventory": "151e825fe6960ef50b7618f809dcba4c083c66c7e7bce8558efc156d0cfdf22a",
@@ -3359,7 +3359,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
-        "sha256": "861a11e402575cbeaf7fb0ecf97654d932862994e3ea3f7547b66a72abb7d50d"
+        "sha256": "8a490388e914836cf10b114839425c8032afb8f58b9ff34b77dbd9b8f0c2c501"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28c - The Flow of Care - Health as an Emergent State.docx",
       "source_sha256_at_inventory": "6aa8c0f70bd4e0b7d5f50b48beae91120bc58c9303f027b585aca10762d67332",
@@ -3491,7 +3491,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
-        "sha256": "c69bd5faf08730a0b8ca70768de8367c7d3e62378de959109e263f7a0315ab92"
+        "sha256": "cca85a388a23b5c909a15017fb71ba16ec00489fbd1160cf58e175f4e5a626d5"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 29c - The Reimagined Workshop - Making as Stewardship.docx",
       "source_sha256_at_inventory": "a1cc666cbef213906ee6e5e85084fb714d2409717ad861ad41568014c2c30dc6",
@@ -3622,7 +3622,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
-        "sha256": "40973a46db09dcea3506d15450e4ce60e77508f0ef7688e30f347cbc33943686"
+        "sha256": "5626ed137bf2864d118d6ef7cf93822897ebea80ea735972ba56c9d6f73bbcac"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 30c - Justice Before Judgement - Living Inside Fair Systems.docx",
       "source_sha256_at_inventory": "9c803d39850b71f2a5e437512d50f94830eecc0f972d39bee242f6ce2d85a133",
@@ -3752,7 +3752,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
-        "sha256": "9655cf47fe3b56a6230d94a5469e63230163e019d778ac25e7a360fa2e7498b6"
+        "sha256": "53f5da348721528dacbb03b249544f45303813ca63893c270097c06481188766"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 31c - Minds in Harmony - Learning, Meaning, and Shared Reality.docx",
       "source_sha256_at_inventory": "857c7039dd88173cc34bffbe6a0e5abde175e583985b964ed25c5b4b525110bc",
@@ -3883,7 +3883,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
-        "sha256": "25c1a0ec1e8bfbc98a8956d1ce4cb046e5a8735fcb5dce3c8e891d19c58f7734"
+        "sha256": "b87451ea0996d84294425343f2bd96ca0a03ae94734a765532742284ad483d14"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 32c - Threads of Continuity – Culture, Memory, and the Long Now.docx",
       "source_sha256_at_inventory": "7e095c87bfdcae5a194a38c1b5ba854a59001cd587639d146a71623c26c08074",
@@ -4012,7 +4012,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
-        "sha256": "010eea9c7483b8198b527648bda348fbc104964e82a6ca3128108d60b4a2c599"
+        "sha256": "db986de1aca0d3219004ef04e489834d5c1b4b686244fd503752ec838134e433"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 33c - The Arrow’s Release - Weavers of the Singular Thread.docx",
       "source_sha256_at_inventory": "bcd2d763abaaadb1f517509587d90d9993a6e67a6149ab1736ff3f3c2dbc001d",
@@ -4253,5 +4253,26 @@
     "publishing_exchange": "work/journal/publisher.md",
     "archive": "work/journal/archive/",
     "created_on": "2026-09-30"
+  },
+  "volume_iii_historical_braid": {
+    "drafted_at": "2026-10-01",
+    "status": "drafted-in-canonical-manuscripts-awaiting-author-review",
+    "current_chapters": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "review": "work/VOLUME_III_HISTORICAL_BRAID_REVIEW.md",
+    "theta_setup": "work/THETA_SETUP_FOR_HISTORICAL_BRAID.md",
+    "audit": "work/volume-iii-historical-braid-audit.json",
+    "scope": "Eleven history/gate/design sections and one narrow Chapter 32 seam; main design condensation, future vignette reconstruction, Theta revision, and interlude science anchors remain pending."
   }
 }
