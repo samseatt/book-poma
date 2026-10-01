@@ -20,7 +20,7 @@ Not the first message in the world. By then, the world had been shouting for yea
 
 No. This was the first message that mattered because it came from nearby.
 
-**Does anyone know if Mahogany Pharmacy is still doing prescription pickup? Mom's refill is due today. Phone line keeps looping.**
+**Does anyone know if Mahogany Shoppers is still doing prescription pickup? Mom's refill is due today. Phone line keeps looping.**
 
 A simple question.
 

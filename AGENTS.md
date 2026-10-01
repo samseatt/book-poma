@@ -5,6 +5,7 @@ This is the working repository for Sam Seatt's *The Path of Many Arrows*. The au
 ## Before working on manuscript text
 
 - Read `work/EDITORIAL_CONTEXT.md` for the decisions established in the current editorial session.
+- At the start of each editorial run, read `work/journal/README.md`, `inbox.md`, `book.md` and the relevant unit notes (currently `volume-3.md`). Inspect the current manuscript diff and scan scoped files for inline annotations. Read `work/journal/publisher.md` before publishing-related/shared-file work. Do not treat journal intake as completion of deferred work.
 - Consult `work/manuscript-manifest.json` for the active source of each manuscript unit. It records original chapter identities, actual source paths, design packet mappings, and the competing Volume III orders.
 - Apply the author's writing guide at `/Users/samseatt/projects/book_poma/_GPT_session_outputs/GPT_writing_and_style_guide.md`. The handoff beside it adds context but does not define this session's entire scope or lock the final order.
 - Treat `/Users/samseatt/projects/book_poma` as read-only provenance. Do not edit, rename, delete, or save changes into it. Ignore PDF counterparts, Word lock files, and copy variants, including names ending in `copy`, `_copy`, `copy 2`, etc.
@@ -21,6 +22,12 @@ This is the working repository for Sam Seatt's *The Path of Many Arrows*. The au
 - Concurrent drafting sessions must have disjoint assigned files or an explicit handoff. Read the current Markdown immediately before editing, preserve the author's intervening edits, and commit coherent editorial milestones with messages identifying the affected unit. Commit messages document changes but do not prevent simultaneous-write conflicts.
 - Recommended publishing handoff: identify and freeze the source revision for each build, preferably a named commit. If the author requests publication of current uncommitted changes, explicitly include those in a fixed snapshot and record it. Publishing remains manually invoked by the author; a commit does not itself authorize publication.
 - Preserve epigraphs, notes, citations, tables, equations, artwork and meaningful emphasis through conversion. Exclude struck-through/deleted material. Consult the reading review for appended legacy text inside otherwise current Word documents, particularly Theta interlude and the Chapter 33 pair; retain valuable excluded material as working provenance.
+
+## Author annotations and publication
+
+- The author may make direct edits, embed raw additions as `[[ADD: ...]]` (or plain `[[...]]`), and instructions as `[[NOTE: ...]]` (or legacy `[[<...>]]`). Accept multiline and escaped forms. Preserve original note text and its source anchor before clearing a block; process only within the current authorized scope.
+- Before publishing, check canonical Markdown for unresolved double-square-bracket annotations, including escaped or incomplete delimiters. Do not publish or silently strip them. Journal files under `work/journal/` are editorial-only. The requested automated guard is tracked in `work/journal/publisher.md`; it is not yet implemented. Existing single-bracket manuscript placeholders remain subject to their separate editorial plan.
+- Historical integration, design/voice condensation, and future-vignette reconstruction are separate passes. Preserve factual São Paulo and South Health Campus recollections, authored Mirror/Breadboard ideas, and implicit Overture/Epilogue threads. Consult the journal for details.
 
 ## Identity and editorial work
 

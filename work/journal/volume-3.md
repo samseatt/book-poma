@@ -1,0 +1,181 @@
+# Volume III journal
+
+Use current numbering. Add raw notes below the relevant piece; the editor assigns IDs when useful. An “Anchor” is text locating the insertion, not an instruction to retain that exact prose forever. Pending source notes are kept verbatim, including their typos.
+
+## Overture III — The Basket We Carry
+
+**Standing intent:** See B-004 in [book.md](book.md). Preserve the civil-engineering-to-computing register shift, the unresolved inheritance question and the later plane echo through cadence and imagery. Do not explain them in the manuscript.
+
+**Review, 30 September 2026:** Retain the author's walker, data transfer, generational span, alignment and gabion changes. “Remedial falsework” was adjusted to “remedial shoring” as a closer metaphor for supporting an existing aging structure. See the archived batch for the source and exact action.
+
+### New notes
+
+## Volume III part-opening
+
+### New notes
+
+## Theta — The Architect's Pause / The Architect's Bench
+
+### Open
+
+### Chapter
+
+### Interlude
+
+## 23 — Renewal
+
+### Open
+
+### Chapter
+
+**Accepted direct edit:** “Mahogany Pharmacy” → “Mahogany Shoppers.” Retained as the author’s chosen local grounding; no claim has been made here about that business’s future operation.
+
+### Interlude
+
+#### V3-023-I-001 — Deferred to Pass 3
+
+The author confirms that the second-person vignette is a lapse in the latest draft, not evidence that the wrong draft remains. Recast the relevant scene in first person during the planned vignette reconstruction. Do not globally replace “you” elsewhere; distinguish the vignette from intentional general address. Existing manuscript TODO remains pending.
+
+## 24 — Agency
+
+### Open
+
+### Chapter
+
+### Interlude
+
+## 25 — Economy
+
+### Open
+
+### Chapter
+
+### Interlude
+
+**Standing intent:** Preserve the author’s Breadboard test and its meaningful development. See B-003.
+
+## 26 — Minds
+
+### Open
+
+### Chapter
+
+#### V3-026-C-001 — Pending
+
+**Phase:** Pass 3 — future vignette.
+
+**Source:** `manuscripts/volume-3/26-chapter.md`.
+
+**Anchor:** The Uber driver called before I found the curb.
+
+**Editorial reading:** Introduce the date naturally rather than always announcing it at the beginning. Keep the future specific and realistically optimistic while showing what persists. Preserve the real São Paulo memory; assess the projected translation encounter without relocating or rewriting the remembered event. An ordinary local conversation may work better than a taxi if the latter strains the date.
+
+**Original author note — verbatim:**
+
+```text
+[[<One thing we should do in my opinion is like we have done here, not put the date of this time period right at the onset. It's okay to opitonally put it later like it's doen here. The idea is the user will know but putting it exactly sort of gives the impression of precision-extrapolation into the future. That being said the vignette should be as exact possible for a somewhat optimistially-paced futre while (where applicable) retaining, even contrastinge what sort of felt the same. Mabye "Uber driver" was still there in 2026, or something similar - maybe Brazil may not change in some ways in ten more years so we can sneak in this scenario for conversation. If taxi (Uber) looks like a questionable fit, we could do the same at a shop or somethig in an area where people understand less, or just a communication with a regular local - something that I seek the most in visiting other countries, and that's where language would be more of a barrier, not to see the expressions etc., and only talking to those who know English, and the old smartphone-screen version would be more arduous for such a person>]]
+```
+
+**Intake result:** Preserved here and removed from the publishable manuscript on 30 September 2026. The requested historical or vignette work remains pending.
+
+### Interlude
+
+## 27 — Commons
+
+### Open
+
+### Chapter
+
+#### V3-027-C-001 — Pending
+
+**Phase:** Pass 1 — history; Pass 3 — projected consequences.
+
+**Source:** `manuscripts/volume-3/27-chapter.md`.
+
+**Anchor:** [THREE-EMPIRE TIMELINE SECTION TO BE INSERTED IN LATER HISTORICAL-SPINE PASS: Empire of Ideology / Empire of Institution / Empire of Speed.]
+
+**Editorial reading:** Use the 1876 Canadian Indian Act as the preferred institutional anchor. Research its effects and the exact scope and attribution of genocide terminology. Develop the design inversion of institutions serving as commons, and commons functioning as institutions. Explore Indigenous-led knowledge, governance and language possibilities in Alberta/Canada around 2039. Do not collapse distinct peoples or traditions into one generic near-nature model; distinguish author ambition, evidence and future scenario.
+
+**Original author note — verbatim:**
+
+```text
+[[<For Institution I would like to use the Canadian Indian Act of 1876 (and its devestating effects of this sometimes called "cultural genoside" on some sort of common ) - sort of the opposite of reclaming commons, though its reversal could be reclaiming commons. I plan to talk a lot about North American indigenous people and the prospect of bringing thse close-to-earth practices back in the age of AI-augmented culture, like AI could speak their languages more, but more in the sense of what can we learn in the sense of making instutions run as commons, or even making commons the institues i.e. the other way around. How would progress like that, both in general and for the indigenous people of Canada, look like in 2039 in Canada/Alberta?>]]
+```
+
+**Intake result:** Preserved here and removed from the publishable manuscript on 30 September 2026. The requested historical or vignette work remains pending.
+
+### Interlude
+
+## 28 — Making
+
+### Open
+
+### Chapter
+
+### Interlude
+
+## 29 — Governance
+
+### Open
+
+### Chapter
+
+### Interlude
+
+## 30 — Justice
+
+### Open
+
+### Chapter
+
+### Interlude
+
+## 31 — Care
+
+### Open
+
+### Chapter
+
+#### V3-031-C-001 — Pending
+
+**Phase:** Pass 3 — future vignette.
+
+**Source:** `manuscripts/volume-3/31-chapter.md`.
+
+**Anchor:** The building had changed in small ways by 2049.
+
+**Editorial reading:** Make the cut into 2049 more dramatic through the hospital’s care model and decision systems, while showing enduring budget constraints and familiar spaces. Preserve the actual South Health Campus recollections. Treat the suggested existence of care lounges in 2026 as uncertain until confirmed; do not promote it into a remembered fact.
+
+**Original author note — verbatim:**
+
+```text
+[[<I think here the cut to the hospital of 2049 shoud be dramatic not suble, but possibly with recognition of things that didn't change as well: some things remain the same like care lounges which may already have been present in 2026 for this hospital that was quite modern then for that time - in infrastructure but not the healthcare model and the 20th-century protocol based care. The meat of this vignette should be how this inner brain changed, and where it didn't. And where the same limited budgets of the past still lingered in ways not too unfamiliar across elapesed time...> ]]
+```
+
+**Intake result:** Preserved here and removed from the publishable manuscript on 30 September 2026. The requested historical or vignette work remains pending.
+
+### Interlude
+
+## 32 — Continuity
+
+### Open
+
+### Chapter
+
+### Interlude
+
+## 33 — Release
+
+### Open
+
+### Chapter
+
+### Interlude
+
+**Standing intent:** Preserve the author’s Mirror concept; improve its realization in the appropriate pass. See B-003 and the Epilogue notes.
+
+## Epilogue / Coda III
+
+**Standing intent:** Protect the shift from passenger to plane and the cabin-window light. Their intended gravity connects to the Overture's handoff and the author's Oppenheimer/Gita cadence association without an explanatory gloss. See B-004.
+
+### New notes

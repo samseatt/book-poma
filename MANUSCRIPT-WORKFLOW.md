@@ -98,3 +98,8 @@ The editor makes the initial commit containing the canonical conversion, archive
 Only one session may stage or commit in the shared checkout at a time, even when editing separate files. Before starting, check the current branch, working tree and latest canonical files, and preserve other sessions' unfinished work. Build from an identified commit or an explicitly requested fixed snapshot. Publishing remains manually invoked by the author; a commit does not authorize a push or publication.
 
 The author retains final authority over manuscript content, structural decisions, and the declaration that a conversion or revision is authoritative.
+## Author journal and annotation intake
+
+Use [the author journal](work/journal/README.md) for the current collaboration process. Direct author edits remain in canonical Markdown. Raw additions use `[[ADD: ...]]`; instructions use `[[NOTE: ...]]`; plain double brackets and the earlier angle-bracket form remain accepted. Journal intake preserves original text, location and status, and separates deferred work from completed integration. Before each scoped editorial run, read the inbox, standing book guidance and relevant piece notes, then inspect current files and their diffs.
+
+The journal and publisher exchange are outside publication. Unresolved inline annotation blocks must be integrated or moved intact into the journal before publication; they are not private Markdown syntax. Publisher adoption of an automated pre-generation check is pending in [the shared exchange](work/journal/publisher.md). Task messages can carry a concise handoff when the author requests one. Journal entries do not wake tasks, initiate publication or permit simultaneous edits to shared files.

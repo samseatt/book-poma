@@ -2475,7 +2475,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/overture.md",
-        "sha256": "80f03c63c698062c446d9bb80104d7ee385a2f2cb9c4c32a6ef3469c94f3b218"
+        "sha256": "ec86df4035868bd22e705003c550960cf41171793de9d5b51ba3c7e358c9f72c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 -o Overture v3.docx",
       "source_sha256_at_inventory": "a31c26e5661a889a4238d77269e280c8a3afb73b5b79915e2bba182e27820d51",
@@ -2704,7 +2704,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
-        "sha256": "a7d732cba441edf5a1d26872120b2c2ce0c6cdf2d32feecb99f112e9eb9d4a1d"
+        "sha256": "5e59a6b9915e09ea7117eafe0b0bfc0927ff26ee7b4aeb4385656dfb0e73cc4b"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 23c - The Loom of Renewal - From Fracture to Framework.docx",
       "source_sha256_at_inventory": "bfb613808b37e788da56388f5d187eeb2f881f9d57ee13111b7812a14da91511",
@@ -4244,5 +4244,14 @@
     "units_reviewed": 24,
     "record": "work/provenance/volume-iii-headers-2026-09-30.json",
     "policy": "Current title and subtitle are recorded in current_header and the canonical Markdown. source_heading_preview remains historical Word-inventory metadata."
+  },
+  "editorial_journal": {
+    "guide": "work/journal/README.md",
+    "inbox": "work/journal/inbox.md",
+    "standing_guidance": "work/journal/book.md",
+    "volume_iii": "work/journal/volume-3.md",
+    "publishing_exchange": "work/journal/publisher.md",
+    "archive": "work/journal/archive/",
+    "created_on": "2026-09-30"
   }
 }

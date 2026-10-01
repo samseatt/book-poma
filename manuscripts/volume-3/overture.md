@@ -8,11 +8,11 @@ The Basket We Carry
 
 The high ceilings and lakefront glass made even ordinary family noise feel curated---less living room than gallery. Lofty white frames. Pillars of light. A quiet so clean it bordered on surgical. The kind of space designed by people who trust structure, straight lines, and load-bearing truth.
 
-At the center of it sat the Architect---the patriarch of that moment---commanding the sofa even in repose. A foldable walker stood beside him like a modest piece of good engineering: dutiful, unobtrusive, patient. He lifted his iPhone. The screen came alive with a photograph of a woman in her forties, smiling with the sort of calm that survives decades without filing a complaint with time.
+At the center of it sat the Architect---the patriarch of that moment---commanding the sofa even in repose. A foldable walker was tucked beside him like remedial shoring for a bridge that still refuses to yield to the river of time rushing beneath it. He lifted his iPhone. The screen came alive with a photograph of a woman in her forties, smiling with the sort of calm that survives decades without filing a complaint with time.
 
-Across the room toddled the other pole of the family's magnetism---baby Ryan, one year old, newly promoted to standing and walking, a tiny engine of pure possibility. The Architect angled the phone toward the child. It was not a casual look-how-cute gesture. It was closer to a handoff. Legacy offered across a generational distance too large for language. *That was your great-grandmother,* the gesture said, even if the words themselves never fully arrived.
+Across the room toddled the other pole of the family's magnetism---baby Ryan, one year old, newly promoted to standing and walking, a tiny engine of pure possibility. The Architect angled the phone toward the child. It was not a casual look-how-cute gesture. It was closer to a data transfer. Legacy offered across a generational span too wide for language. *That was your great-grandmother,* the gesture said, even if the words themselves never fully arrived.
 
-Ryan stopped. He steadied himself. He looked.
+Ryan stopped. He found his alignment. He looked.
 
 Then something happened that did not belong to the standard operating system of toddlers. He did not reach for the device. He did not swipe at the glass. He did not grin, babble, or perform the ordinary rituals of one-year-old mischief. Instead he stood perfectly straight---as if his small spine had discovered an ancient protocol---folded his hands behind his back, took a deliberate step away, and bowed his head.
 
@@ -65,4 +65,4 @@ The man watching all this---trying to keep one foot in the sacred and one foot i
 
 Volume II was the autopsy: a taxonomy of why our arrows stall, why our castles crack, why our myths become cages. Volume III is what comes after one stops narrating the damage and starts designing the repair: architecture, not applause. A framework, not a slogan. A loom sturdy enough to weave freedom without weaving a fresh tyranny into the hem.
 
-This is where the basket stops being something we merely clutch ... and becomes something we build. Not perfectly. Not purely. Not alone. But deliberately---before the systems we inherit decide, on our behalf, what kind of reverence the next child will be trained to perform.
+This is where the basket stops being something we merely clutch ... and becomes a gabion we build. Not perfectly. Not purely. Not alone. But deliberately---before the systems we inherit decide, on our behalf, what kind of reverence the next child will be trained to perform.

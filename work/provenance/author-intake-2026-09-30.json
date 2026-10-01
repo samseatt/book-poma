@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-30",
+  "baseline_commit": "7679d721cd85ac92763d5e0f3ef0343f8e83f5c1",
+  "scope": "Review author edits and establish journal; no historical/vignette rewrite.",
+  "author_changed_paths": [
+    "manuscripts/volume-3/23-chapter.md",
+    "manuscripts/volume-3/26-chapter.md",
+    "manuscripts/volume-3/27-chapter.md",
+    "manuscripts/volume-3/31-chapter.md",
+    "manuscripts/volume-3/overture.md"
+  ],
+  "inline_instructions_moved": {
+    "26": {
+      "path": "manuscripts/volume-3/26-chapter.md",
+      "raw_block_sha256": "e3faa7e6a26da5f959e108e989b8cffcea2e5290de6dedee022f748807824835",
+      "journal": "work/journal/volume-3.md",
+      "status": "pending"
+    },
+    "27": {
+      "path": "manuscripts/volume-3/27-chapter.md",
+      "raw_block_sha256": "042ec8589fb67e100b0ff8f0303af45ed08246b17f74fd151021ba79e2662e95",
+      "journal": "work/journal/volume-3.md",
+      "status": "pending"
+    },
+    "31": {
+      "path": "manuscripts/volume-3/31-chapter.md",
+      "raw_block_sha256": "3f24c558a6de674c008c37396e1e361f11ec7dc0417c5794102bdbb961885f84",
+      "journal": "work/journal/volume-3.md",
+      "status": "pending"
+    }
+  },
+  "manuscript_hashes": {
+    "manuscripts/volume-3/23-chapter.md": {
+      "author_input_sha256": "5e59a6b9915e09ea7117eafe0b0bfc0927ff26ee7b4aeb4385656dfb0e73cc4b",
+      "after_intake_sha256": "5e59a6b9915e09ea7117eafe0b0bfc0927ff26ee7b4aeb4385656dfb0e73cc4b"
+    },
+    "manuscripts/volume-3/26-chapter.md": {
+      "author_input_sha256": "1d64d810eb81f815691c974d2882c448efc05a63a4d9ceabdf3b254350b6580d",
+      "after_intake_sha256": "9655cf47fe3b56a6230d94a5469e63230163e019d778ac25e7a360fa2e7498b6"
+    },
+    "manuscripts/volume-3/27-chapter.md": {
+      "author_input_sha256": "b7c218d985e649d9702f55b9797dbb2cc464c8c32fa2cb6bcc7a461ce177bc70",
+      "after_intake_sha256": "7407fa734e954249d6ce9a57a3943c95e96f382aa477d6e36055e3757db6c038"
+    },
+    "manuscripts/volume-3/31-chapter.md": {
+      "author_input_sha256": "18017455dbe78ebadab75aa41447a78daef2cc26e4dc285d449c8e7947ae9119",
+      "after_intake_sha256": "861a11e402575cbeaf7fb0ecf97654d932862994e3ea3f7547b66a72abb7d50d"
+    },
+    "manuscripts/volume-3/overture.md": {
+      "author_input_sha256": "09c5be0314c86dd61e86721dfdeea09630ec12434cdd06eb498e386ce2f498b4",
+      "after_intake_sha256": "ec86df4035868bd22e705003c550960cf41171793de9d5b51ba3c7e358c9f72c"
+    }
+  },
+  "editorial_text_changes": [
+    {
+      "path": "manuscripts/volume-3/overture.md",
+      "before": "remedial falsework",
+      "after": "remedial shoring"
+    }
+  ],
+  "validation": {
+    "raw_notes_preserved_verbatim": 3,
+    "all_three_substantive_notes_still_pending": true,
+    "unresolved_double_bracket_annotations_in_manuscripts": 0,
+    "active_source_hashes_verified": 121,
+    "annotated_chapter_prose_preserved": true,
+    "publishing_files_unchanged": true
+  }
+}

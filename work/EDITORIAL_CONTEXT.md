@@ -172,3 +172,13 @@ The numbered changes restore the supplied subtitles for Renewal, Commons, Govern
 The active editorial manifest records `current_header` alongside current hashes. Frozen Word heading previews and older research remain provenance. The dated header audit is `work/provenance/volume-iii-headers-2026-09-30.json`. The publisher reads these headings directly from Markdown, so the next normal regeneration can pick them up without a numbering-script change.
 
 A wider title-reference search also found old “Machines as Reality Bubbles” references in Volume II Interlude 22. These are outside this Volume III heading pass and remain for the planned Volume II continuity review; the Volume III concept section “Reality Bubbles on Purpose” is not a stale main title.
+
+## Author journal and phased editing — 30 September 2026
+
+The author has completed the manual comparison of numbered chapters/interludes with the original drafting process and confirms they match. The second-person Interlude 23 opening is an inherited writing lapse, not a remaining wrong-file diagnosis. Defer its scene-wide first-person treatment to the vignette pass rather than applying a global pronoun replacement.
+
+The active author journal is `work/journal/`: consult its guide, inbox, book-wide standing instructions and relevant unit sections at the start of each run. The three received inline instructions were preserved verbatim and moved to pending Chapter 26, 27 and 31 entries. The Overture revisions and Chapter 23 local naming edit were accepted, with only “remedial falsework” changed to “remedial shoring.” The subtle engineering/computing handoff and plane/cabin-window echo are author-supplied intent, recorded for preservation rather than explanation in the narrative.
+
+The current editorial sequence is three focused passes: historical braid; design-spine condensation and stronger authorial voice; future vignettes and their bridges. Read the earlier volumes fully at the agreed point to retrieve threads and promises. Do not invent factual memory or sacrifice humor, quirks and technical substance merely to shorten prose. `work/journal/book.md` and `volume-3.md` hold the detailed constraints, scene-specific pending work and protected São Paulo/South Health Campus/Mirror/Breadboard material.
+
+The existing publisher task is discoverable and direct task coordination is available. A shared exchange has been prepared in `work/journal/publisher.md`; no message or publication request has been sent. Publisher ownership of pipeline changes remains intact. The annotation publication guard is a pending publisher action, not an implemented feature.
