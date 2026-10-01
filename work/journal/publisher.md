@@ -9,15 +9,9 @@ A shared local record, not an automatic message queue. This file is outside the 
 - Editor owns canonical manuscript corrections and editorial notes. Publisher owns Quarto generation, formatting, build checks and deployment work.
 - Read current branch/status and current files first. One writer per shared file and one session staging/committing at a time. Include the exact source revision in a handoff; a file notification or commit is not publication authorization.
 
-## P-001 — Pending publisher adoption: annotations
+## P-001 — Superseded: initially proposed annotation blocker
 
-**From:** Editor, 30 September 2026. **Status:** Prepared locally; no task message sent and no publisher acceptance recorded.
-
-The author can now use `[[ADD: ...]]` for raw material and `[[NOTE: ...]]` for instructions. Accept plain `[[...]]` as additions and the older `[[<...>]]` as notes, including escaped bracket forms and multiline blocks. These are not private Markdown syntax and must not enter a public build unresolved. All journal files under `work/journal/` are editorial-only and must stay out of generated publication content.
-
-Before syncing/staging for publication, scan canonical Markdown for unresolved annotation delimiters. Report file and location; do not silently strip or reinterpret the note. Ask the editor to integrate the material or preserve it in the journal and clear the source as appropriate. A pending journal item for a later pass does not by itself block publication of the current intentional draft once the marker has been safely removed from manuscript content.
-
-**Requested pipeline improvement:** Add a read-only guard at the start of synchronization, before generated content is removed or written. Check opening and closing delimiters (including escaped forms) so malformed annotations are caught too. This remains a publisher task; no automated guard was installed in this editorial batch.
+The 30 September proposal would have stopped publication on every unresolved annotation. The author's 1 October direction supersedes that behavior: complete annotations are omitted from publication copies, while malformed annotations stop generation. See P-003. Earlier intake records remain historical provenance.
 
 ## P-002 — Current editorial handoff
 
@@ -30,3 +24,24 @@ A routine future author-invoked regeneration will pick up the latest canonical t
 ## Publisher replies / new items
 
 <!-- Append a dated response here when this process is adopted or a new issue is found. -->
+
+## P-003 — Authorized publisher implementation: annotation omission and validation
+
+**From:** Editor, 1 October 2026, following the author's explicit request to coordinate with DEVOPS - Cloudflare Publisher. **Status:** Ready for handoff; publisher acceptance and implementation not yet recorded. This entry supersedes P-001.
+
+### Desired behavior
+
+- Treat every complete `[[...]]` block in canonical manuscript text as editorial-only: ADD, NOTE, untagged, unknown future tags, multiline blocks, legacy `[[<...>]]` and escaped bracket forms such as `\[\[NOTE: ...\]\]`. No new tag is needed. Do not execute or pass HTML through; remove the whole block from the derived copy.
+- Leave canonical `manuscripts/` and `work/manuscript-manifest.json` untouched. Preserve source hashes as hashes of the actual annotated canonical files. Omission is rendering behavior, not editorial completion; the notes remain available to the editor.
+- Run the transformation on source text before the existing opening/title/subtitle parsers and Quarto generation. Use the cleaned derived source for every supported output format, including future print. Keep all `work/journal/` files out of publication.
+- Handle adjacent blocks and blocks at line/file boundaries. Inline removal must not create doubled boundary spaces; example `one [[NOTE: x]] two` becomes `one two`. Avoid a stray boundary space before punctuation. An annotation-only paragraph disappears without joining two surrounding prose paragraphs. Do not globally normalize whitespace or alter intentional Markdown hard breaks, indentation, lists, code fences, tables or unrelated text. The author reserves double brackets for annotations; examples containing literal double brackets inside manuscript code are not a current use case.
+- Nesting is unsupported. Unclosed openers, unmatched closers, nested/malformed blocks or ambiguous boundary cases that cannot be removed safely must produce a clear source path/line error, not silently eat neighboring text or leak markers. Preflight all units before deleting or writing any generated content, so failure preserves the prior build. Verify no annotation delimiters remain in generated publication text.
+- Record omitted-block counts and file locations in local validation output or existing provenance records where useful; do not copy note bodies into generated pages or publicly shipped metadata.
+
+### Scope and validation
+
+Implement in publisher-owned pipeline files with focused tests for inline and standalone removal, multiline notes, adjacent blocks, escaped forms, legacy angle-bracket contents, spacing/punctuation, Markdown structural preservation and malformed/nested rejection. Verify the full current 121-unit source remains unchanged, sync all units and perform the relevant local render/build checks. Include a check that a bad annotation leaves existing generated output intact. Use temporary test fixtures rather than adding test annotations to the author's manuscript.
+
+Commit the pipeline work and your completion entry here as a coherent publisher commit. The editor is handing off after committing the policy and will not edit or stage shared files while you work. You may update `work/journal/README.md`, `AGENTS.md` and `MANUSCRIPT-WORKFLOW.md` only as needed to mark the implementation complete and clarify actual behavior; no manuscript prose edits. Report the commit hash, validation and any remaining limitations back to the editor.
+
+**No deployment or push is requested for this handoff.** The author requested the annotation feature and coordination; publication remains separately invoked. Do not alter the launch-pages repository.
