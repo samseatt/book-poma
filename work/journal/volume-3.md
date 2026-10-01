@@ -182,10 +182,18 @@ The author confirms that the second-person vignette is a lapse in the latest dra
 
 ## Cross-chapter historical selections — 1 October 2026
 
-### V3-HISTORY-001 — Pending author review / Pass 1
+### V3-HISTORY-001 — Author response received / integration deferred to Pass 1
+
+**Original intake retained for provenance; current author selections follow under V3-HISTORY-002.**
 
 The author requests specific preferred events and leading alternatives for all 22 Persian/Iranian and American/institutional cutoffs before authorizing insertion. The review map is in [HISTORICAL_CUTOFF_SELECTIONS.md](../HISTORICAL_CUTOFF_SELECTIONS.md), using current numbers 23–33. No manuscript passages were changed. The earlier historical review remains provenance.
 
 The author also requests a small Indigenous North American counterpoint in the Persian track, with later connections to dispossession, Chapter 14's hidden cultures, and the possibility that AI could remove drudgery and enable more land-based, reciprocal and freely chosen ways of living. Preserve this as authorial intent; its proposed implementation is not yet approved. The report prefers the Alberta bison economy beside 250 BCE / Chapter 25, with the 1752 Mi'kmaq treaty as an alternative placement near 1751 / Chapter 33. The 1876 Indian Act remains central to Commons alongside its US comparison. The 1976 Indian Health Care Improvement Act is a new alternative for Care.
 
 Use specific peoples and practices, acknowledge living Indigenous leadership, and preserve community authority over knowledge. Do not equate all Indigenous peoples with foragers or treat Harari's broad agricultural critique or a universal evolutionary-psychology fit as established by this historical table. The full substantive thread is deferred to the authorized historical/design/future passes. Taking this note does not complete those integrations.
+
+### V3-HISTORY-002 — Author selections recorded, 1 October 2026
+
+The author has now accepted the main map with refinements recorded in [history-decisions-2026-10-01.md](history-decisions-2026-10-01.md). That dated record supersedes the candidate preferences where they differ: notably King–Byng → Balfour in 1926, Rosenbergs added after the 1951 oil dispute, and Bamiyan leading the 2001 passage. The Alberta seed is accepted; the 1752 treaty remains optional. The 2026 Theta/Release division and the broader Neusphere/Indigenous meditation are recorded there as pending integration, with factual qualifications kept separate from authorial intent.
+
+The requested Volume I openings/endings reading is complete. See [the thread map](../VOLUME_I_THREAD_READING.md) and [coverage audit](../volume-i-thread-reading-audit.json). No history section has yet been drafted or inserted, and no manuscript has changed in this response.

@@ -36,3 +36,9 @@ The Epilogue's plane transformation and “flicker of my first light” carry an
 ## New author notes
 
 <!-- Add general notes here. -->
+
+## Reading progress and new direction — 1 October 2026
+
+**B-005, partial progress:** Read the openings and endings of all 12 Volume I chapters and all 12 interludes, plus the Prologue and Coda in full. The exact sampling and source hashes are recorded in the [thread review](../VOLUME_I_THREAD_READING.md) and its audit. Full topical-body and Volume II reading remains pending; the checkbox above intentionally remains open.
+
+**B-007 — Standing direction:** AI should help people outgrow harmful inherited control arrangements rather than merely accelerate them. Neusphere names the desired plural civilizational capacity and way of living, not a technology product. Explore freedom from drudgery, rootedness, reciprocal relationships and ecological competence without treating one ancestral way of life as a universal prescription or merging distinct Indigenous identities. The author's detailed direction and proposed historical placements are in [the dated decision record](history-decisions-2026-10-01.md). Integration remains deferred to the appropriate passes.

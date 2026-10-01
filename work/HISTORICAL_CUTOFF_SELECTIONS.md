@@ -2,6 +2,8 @@
 
 Prepared 1 October 2026. **For author review; no historical passages have been inserted.** Current chapter numbering, 23–33, is used throughout.
 
+**Subsequent status, 1 October 2026:** The author has responded. See [accepted directions and editorial qualifications](journal/history-decisions-2026-10-01.md) for the current selection basis. The proposal below is retained as provenance; no historical passages have yet been inserted.
+
 The accepted chapter order remains workable. This selection develops the earlier historical review with stronger alternatives, an improved Making anchor, explicit US–Canada comparisons, and a proposed Indigenous thread. It supersedes earlier candidate preferences only as a new editorial proposal, not an author-approved lock.
 
 **Event** means a dated occurrence; **condition** means a documented situation spanning the cutoff; **nearby** retains the event's actual date. Design connections below are editorial interpretations, not historical claims that the examples prove the proposed Neuverse arrangements. The Persian track covers Iranian history and its imperial worlds, including periods without a Persian national state. Seasonal symmetry remains optional.

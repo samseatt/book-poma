@@ -1,0 +1,406 @@
+{
+  "date": "2026-10-01",
+  "purpose": "Retrieve cross-volume threads before Volume III historical integration; not a factual audit",
+  "basis_revision": "94ae93b",
+  "method": "Whole paragraphs through at least 1200 opening and 500 closing words for each boot/numbered chapter and interlude; prologue and coda in full",
+  "unit_count_sampled": 24,
+  "additional_units_read_in_full": 2,
+  "records": [
+    {
+      "path": "manuscripts/volume-1/phi-chapter.md",
+      "sha256": "5af32346468c89e41dbdd290fd634baed4df8ab83bb292eb79928d0b1248207e",
+      "total_words_whitespace_split": 6144,
+      "opening": {
+        "line_start": 1,
+        "line_end": 119,
+        "words": 1229
+      },
+      "ending": {
+        "line_start": 499,
+        "line_end": 520,
+        "words": 549
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/phi-interlude.md",
+      "sha256": "5f23098b978f43658b0896c9deb06518c0d4a15de4dd5dabdf31892f1eee8244",
+      "total_words_whitespace_split": 3683,
+      "opening": {
+        "line_start": 1,
+        "line_end": 89,
+        "words": 1200
+      },
+      "ending": {
+        "line_start": 376,
+        "line_end": 439,
+        "words": 507
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/01-chapter.md",
+      "sha256": "eed7f6d6a3cb349ec3483037cd2561a1a836f242baa39775fafaf32ba2a591c9",
+      "total_words_whitespace_split": 7211,
+      "opening": {
+        "line_start": 1,
+        "line_end": 59,
+        "words": 1217
+      },
+      "ending": {
+        "line_start": 457,
+        "line_end": 486,
+        "words": 521
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/01-interlude.md",
+      "sha256": "af1d55528d4f7e8e9ba640ac1d79e4122efe200c91da1cc291360cbc5d687c03",
+      "total_words_whitespace_split": 4616,
+      "opening": {
+        "line_start": 1,
+        "line_end": 83,
+        "words": 1227
+      },
+      "ending": {
+        "line_start": 313,
+        "line_end": 362,
+        "words": 504
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/02-chapter.md",
+      "sha256": "bf8bed0ffe19a1dcf8b5f93b8a58bfb36d3bbdbf3b14deabadd3c87c419e8416",
+      "total_words_whitespace_split": 6637,
+      "opening": {
+        "line_start": 1,
+        "line_end": 66,
+        "words": 1211
+      },
+      "ending": {
+        "line_start": 439,
+        "line_end": 476,
+        "words": 501
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/02-interlude.md",
+      "sha256": "5f1776adee465f03397bd61bb1846983913389a3309e0e8976b066e8bd42fb9c",
+      "total_words_whitespace_split": 4096,
+      "opening": {
+        "line_start": 1,
+        "line_end": 67,
+        "words": 1234
+      },
+      "ending": {
+        "line_start": 293,
+        "line_end": 334,
+        "words": 514
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/03-chapter.md",
+      "sha256": "721d8b08a282a6dcd361d9d93f26c9f1317729aa4466ec6e975c67b211625259",
+      "total_words_whitespace_split": 8278,
+      "opening": {
+        "line_start": 1,
+        "line_end": 69,
+        "words": 1234
+      },
+      "ending": {
+        "line_start": 727,
+        "line_end": 758,
+        "words": 520
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/03-interlude.md",
+      "sha256": "12ee694e53fceafd7af34179b0a201b7f5a7125beb942e3a58dff696b1ae4126",
+      "total_words_whitespace_split": 2982,
+      "opening": {
+        "line_start": 1,
+        "line_end": 109,
+        "words": 1210
+      },
+      "ending": {
+        "line_start": 320,
+        "line_end": 352,
+        "words": 501
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/04-chapter.md",
+      "sha256": "556f3574105918bf49fa92a55d714be4e71987ea3bb3e7936d7b54e45b6a28b2",
+      "total_words_whitespace_split": 8886,
+      "opening": {
+        "line_start": 1,
+        "line_end": 65,
+        "words": 1248
+      },
+      "ending": {
+        "line_start": 666,
+        "line_end": 698,
+        "words": 506
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/04-interlude.md",
+      "sha256": "639b18928fa2182d9e88d70b37c0f025f0340a9d68978a049e77e3cc83632e50",
+      "total_words_whitespace_split": 3301,
+      "opening": {
+        "line_start": 1,
+        "line_end": 85,
+        "words": 1209
+      },
+      "ending": {
+        "line_start": 226,
+        "line_end": 269,
+        "words": 519
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/05-chapter.md",
+      "sha256": "e85250167eb670c44252f263df6fdcf28c2800895e71abab8c9b2ff79aff3b71",
+      "total_words_whitespace_split": 7129,
+      "opening": {
+        "line_start": 1,
+        "line_end": 74,
+        "words": 1217
+      },
+      "ending": {
+        "line_start": 432,
+        "line_end": 483,
+        "words": 501
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/05-interlude.md",
+      "sha256": "994adcd219fe675c825773224781ebde97b28325247e157e817c7772ef93907a",
+      "total_words_whitespace_split": 3214,
+      "opening": {
+        "line_start": 1,
+        "line_end": 117,
+        "words": 1218
+      },
+      "ending": {
+        "line_start": 320,
+        "line_end": 359,
+        "words": 546
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/06-chapter.md",
+      "sha256": "0bada843f39113bc84ef9cc10112e14b4255197485add08760b00aa929c4a964",
+      "total_words_whitespace_split": 7552,
+      "opening": {
+        "line_start": 1,
+        "line_end": 83,
+        "words": 1220
+      },
+      "ending": {
+        "line_start": 658,
+        "line_end": 695,
+        "words": 533
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/06-interlude.md",
+      "sha256": "4dc08db5c26a46cccd3d7487d9c6634a65c23a44f18d7d66d1b8210d6aa4ff8e",
+      "total_words_whitespace_split": 3181,
+      "opening": {
+        "line_start": 1,
+        "line_end": 75,
+        "words": 1205
+      },
+      "ending": {
+        "line_start": 207,
+        "line_end": 252,
+        "words": 502
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/07-chapter.md",
+      "sha256": "a3997a1da308b24d5e7c1978f59688d5d5ce6f6caeddbdf24505b07fe5b858ee",
+      "total_words_whitespace_split": 9481,
+      "opening": {
+        "line_start": 1,
+        "line_end": 55,
+        "words": 1224
+      },
+      "ending": {
+        "line_start": 689,
+        "line_end": 716,
+        "words": 511
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/07-interlude.md",
+      "sha256": "e071ac2f9a1907132e8d66530f7211b52807e290c1af25f96feba80998bf15f5",
+      "total_words_whitespace_split": 2908,
+      "opening": {
+        "line_start": 1,
+        "line_end": 59,
+        "words": 1233
+      },
+      "ending": {
+        "line_start": 149,
+        "line_end": 174,
+        "words": 513
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/08-chapter.md",
+      "sha256": "8326afeeb93f23c04973693e9bd52b0f562c43b0921758bc4c492419dcca704b",
+      "total_words_whitespace_split": 7844,
+      "opening": {
+        "line_start": 1,
+        "line_end": 109,
+        "words": 1212
+      },
+      "ending": {
+        "line_start": 762,
+        "line_end": 791,
+        "words": 553
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/08-interlude.md",
+      "sha256": "5c5aa312a49312b752a96ab60f65c72b7cc86312d4e081ee716185e7f3332283",
+      "total_words_whitespace_split": 3059,
+      "opening": {
+        "line_start": 1,
+        "line_end": 75,
+        "words": 1225
+      },
+      "ending": {
+        "line_start": 167,
+        "line_end": 208,
+        "words": 526
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/09-chapter.md",
+      "sha256": "6e70d33efe5cb7f53c93478ee6662f077d3f139ba295d9d80463283c60dd4d65",
+      "total_words_whitespace_split": 8155,
+      "opening": {
+        "line_start": 1,
+        "line_end": 73,
+        "words": 1251
+      },
+      "ending": {
+        "line_start": 478,
+        "line_end": 517,
+        "words": 503
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/09-interlude.md",
+      "sha256": "4b1647f1a1d53fb37f4aab44f402be63d433af8b5bfec204d61a8c3bbf642e98",
+      "total_words_whitespace_split": 3237,
+      "opening": {
+        "line_start": 1,
+        "line_end": 75,
+        "words": 1213
+      },
+      "ending": {
+        "line_start": 224,
+        "line_end": 262,
+        "words": 538
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/10-chapter.md",
+      "sha256": "02aff74f72a9a3d11d19011eb6b737341f35d9b26e73501f21124dfd6c4b9e49",
+      "total_words_whitespace_split": 9918,
+      "opening": {
+        "line_start": 1,
+        "line_end": 85,
+        "words": 1209
+      },
+      "ending": {
+        "line_start": 831,
+        "line_end": 872,
+        "words": 522
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/10-interlude.md",
+      "sha256": "e4c130654eee1147d9f4b0dab8d2b5f3f9fa57ec8fcc743efbabdc7c53a4c8af",
+      "total_words_whitespace_split": 4042,
+      "opening": {
+        "line_start": 1,
+        "line_end": 89,
+        "words": 1245
+      },
+      "ending": {
+        "line_start": 220,
+        "line_end": 257,
+        "words": 550
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/11-chapter.md",
+      "sha256": "6d1e91779b53d96fa90ba615868ff5ac3582e7a7135aadd2d32141f9a21c8dab",
+      "total_words_whitespace_split": 6772,
+      "opening": {
+        "line_start": 1,
+        "line_end": 79,
+        "words": 1221
+      },
+      "ending": {
+        "line_start": 408,
+        "line_end": 437,
+        "words": 524
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/11-interlude.md",
+      "sha256": "b8a3a67e55cd491f877f2a58a922ec7ac0881320bec1d71ac2f5a506a47eee5a",
+      "total_words_whitespace_split": 3084,
+      "opening": {
+        "line_start": 1,
+        "line_end": 102,
+        "words": 1221
+      },
+      "ending": {
+        "line_start": 212,
+        "line_end": 247,
+        "words": 502
+      },
+      "status": "sampled_opening_and_ending_read"
+    },
+    {
+      "path": "manuscripts/volume-1/prologue.md",
+      "sha256": "64568f0ad52e90959b185fbc68658b511e9b35dcd7599ccfc01162f05725cc63",
+      "total_words_whitespace_split": 581,
+      "status": "read_in_full"
+    },
+    {
+      "path": "manuscripts/volume-1/coda.md",
+      "sha256": "4f6de477d766bec91b052cdfa43b41162f0ab5af93d3db215936f13bc599b5d0",
+      "total_words_whitespace_split": 1582,
+      "status": "read_in_full"
+    }
+  ]
+}
