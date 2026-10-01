@@ -48,3 +48,29 @@ The Epilogue's plane transformation and “flicker of my first light” carry an
 **B-006 / B-007:** The eleven numbered Volume III historical sections have now been drafted and inserted, with the accepted rootedness framing. This completes that authorized drafting batch, not the entire multi-step historical pass or the later design/vignette passes. Theta revision and optional interlude milestones remain pending. See [the review map](../VOLUME_III_HISTORICAL_BRAID_REVIEW.md).
 
 **Voice clarification from the author:** Use the style guide as an aspiration, with editorial judgment. Prioritize intellectual substance and efficiency without removing wit, dark humour or unusual associations. Dense and technical passages are welcome when they do useful work; vary them with narrative or humorous release. Avoid invented novelistic detail in factual accounts, generic LLM cadence and explanatory padding. The author's later successful additions should belong naturally in the same voice.
+
+## Register, progression and references — 1 October 2026
+
+### B-008 — A consistent voice with changing emphasis
+
+**Standing direction; application remains part of the later editorial passes.** The author approves the efficient historical prose as a baseline. The editor describes it as analytical narrative nonfiction, with the Empire passages taking the form of narrative history carrying a design argument. Clarity, chronology and causal explanation do the work; wit, philosophy and emotion can enter without padding the account. Susan Bauer is an affinity for lucid historical narration, not a request to reproduce another author's voice.
+
+The usual chapter movement is lived experience, a bridge into a question, substantial investigation, then a return to human consequence. Openings can be vivid and funny; bridges can carry philosophy; history should reward a knowledgeable reader and establish the stakes of the design. The technical middle must provide mechanisms, consequences and choices rather than diffuse design sentiment. The closing movement can deepen the reflection and invite participation. Interludes follow a related movement but give more room to the machinery and its practical use.
+
+This is an emphasis pattern, not a mandatory sequence of labeled compartments. Preserve humor and feeling where they arise naturally, including the technical middle, without requiring every paragraph to accomplish every tonal purpose. Grief need not manufacture a joke. Clarity need not mean uniformly short sentences. Let the reader absorb a point before changing register; cut explanations that merely repeat its landing.
+
+Factual personal scenes must remain faithful to memory and documented context; verify public dates and do not manufacture precision where memory is uncertain. Future scenes should inhabit their stated scenario confidently and show the consequences of compounded advances in ordinary life. Establish their conjectural status and assumptions clearly, then avoid repetitive hedging and decorative futurism. Material uncertainty still belongs in the argument wherever a design depends on it.
+
+### B-009 — The three-volume progression
+
+**Standing direction.** Volume I chapters expose domain upheavals or cracks. Volume II applies systems principles across overlapping cracks and closes with opportunity signals. Volume III draws on those signals across chapter boundaries and develops designs, then invites a meaningful next action. Neither transition is one-to-one. The eleven signals are now extracted in [the Volume II reading record](../VOLUME_II_OPPORTUNITY_SIGNALS.md); a systematic many-to-many mapping into Volume III remains pending.
+
+### B-010 — The closing invitation
+
+**Editorial recommendation, not a manuscript renaming.** Use **The Next Move** as the working name for Volume III's concluding movement; internally, call these design invitations. The phrase can carry the life-moves thread and the Still Arrow without turning every ending into a campaign speech. Different chapters may invite a trial, a repair, shared stewardship, scrutiny, refusal or release. Participation should extend beyond Neuverse to projects that meet the book's principles. An invitation earns its force from the chapter's design and consequences; it should not introduce an unrelated exhortation.
+
+### B-011 — Source discipline and edition-aware references
+
+**Policy established; backfill and print implementation pending.** Adopt [the reference workflow](../REFERENCE_WORKFLOW.md). Maintain stable native notes in canonical Markdown and a shared bibliographic database. Keep notes close to each unit online; place print notes at the back of the bound edition, grouped by chapter/interlude and by volume where necessary, followed by the edition's Works Cited. The publisher has assessed compatibility; grouped print endnotes remain future implementation work. No citation migration or publication was performed in this batch.
+
+**B-005 progress update:** Delta's chapter and interlude and all eleven numbered Volume II chapters have now been read in full, including appended legacy material. Numbered Volume II interludes were excluded as requested. This supersedes the earlier statement that all Volume II reading was pending. Full Volume I topical-body reading and later interlude review remain outstanding, so B-005 stays open. See [the audit](../volume-ii-reading-audit.json) and [Volume II journal](volume-2.md).

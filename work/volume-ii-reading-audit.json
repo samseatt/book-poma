@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-01",
+  "source_revision": "aae7296f784b5ba8d5c44bedef61158c706bfbea",
+  "scope": "Entire Delta chapter and interlude; entire numbered Chapters 12–22; numbered interludes excluded by author instruction.",
+  "status": "reading complete; no manuscript edits",
+  "limits": "Editorial reading and signal extraction, not factual certification of all claims or a complete cross-volume design mapping.",
+  "unit_count": 13,
+  "word_count_including_legacy_notes": 112876,
+  "signal_count": 11,
+  "sources": [
+    {
+      "source": "manuscripts/volume-2/delta-chapter.md",
+      "sha256": "3b85c3742e0d67885172262eb3cf88278dc01584db7dc678001be2ce7163d49a",
+      "word_count": 8885,
+      "line_count": 551,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 234
+        },
+        {
+          "start_line": 235,
+          "end_line": 451
+        },
+        {
+          "start_line": 452,
+          "end_line": 551
+        }
+      ]
+    },
+    {
+      "source": "manuscripts/volume-2/delta-interlude.md",
+      "sha256": "2470a4cd19989df02eaee83b035a0d85ccb43a5c8c1491f7e5092a90a3c84348",
+      "word_count": 12402,
+      "line_count": 384,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 106
+        },
+        {
+          "start_line": 107,
+          "end_line": 224
+        },
+        {
+          "start_line": 225,
+          "end_line": 332
+        },
+        {
+          "start_line": 333,
+          "end_line": 384
+        }
+      ]
+    },
+    {
+      "source": "manuscripts/volume-2/12-chapter.md",
+      "sha256": "e6858e53428c44a58cce5dbb3c22572e66d1d4daf3387f457763a266d1a271de",
+      "word_count": 7750,
+      "line_count": 464,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 174
+        },
+        {
+          "start_line": 175,
+          "end_line": 457
+        },
+        {
+          "start_line": 458,
+          "end_line": 464
+        }
+      ],
+      "signal_id": "v2-signal-12",
+      "opportunity_section": {
+        "line": 417,
+        "heading": "Opportunity Signal: What Would Need to Move"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/13-chapter.md",
+      "sha256": "0111b025fcf168c65aa70f7459e1589161eee833a0daf3c194852ffef4156909",
+      "word_count": 11070,
+      "line_count": 811,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 252
+        },
+        {
+          "start_line": 253,
+          "end_line": 474
+        },
+        {
+          "start_line": 475,
+          "end_line": 811
+        }
+      ],
+      "signal_id": "v2-signal-13",
+      "opportunity_section": {
+        "line": 443,
+        "heading": "Opportunity Signal: Widening the Corridor"
+      },
+      "additional_legacy_heading_occurrences": [
+        {
+          "line": 632,
+          "heading": "8. Opportunity Signal: widening the corridor"
+        }
+      ]
+    },
+    {
+      "source": "manuscripts/volume-2/14-chapter.md",
+      "sha256": "d3ad1ffa6c279a7602af0d60dba80360baba6b8d53f967160ebc0878b2182f8b",
+      "word_count": 8817,
+      "line_count": 449,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 161
+        },
+        {
+          "start_line": 162,
+          "end_line": 369
+        },
+        {
+          "start_line": 370,
+          "end_line": 449
+        }
+      ],
+      "signal_id": "v2-signal-14",
+      "opportunity_section": {
+        "line": 394,
+        "heading": "Opportunity Signal: Unbury the Substrate"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/15-chapter.md",
+      "sha256": "9261c5d2193dabf7062ffacccbd81cf50e5dcfc8a5b3aa50a2ae4785e713bd46",
+      "word_count": 8478,
+      "line_count": 737,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 281
+        },
+        {
+          "start_line": 282,
+          "end_line": 611
+        },
+        {
+          "start_line": 612,
+          "end_line": 737
+        }
+      ],
+      "signal_id": "v2-signal-15",
+      "opportunity_section": {
+        "line": 501,
+        "heading": "Opportunity Signal: Building Better Sensing"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/16-chapter.md",
+      "sha256": "6e0894cfdf698bcc371cfafd6f5c428c5d3da036c09f61caa81c442c97a29b2d",
+      "word_count": 7174,
+      "line_count": 630,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 396
+        },
+        {
+          "start_line": 397,
+          "end_line": 630
+        }
+      ],
+      "signal_id": "v2-signal-16",
+      "opportunity_section": {
+        "line": 566,
+        "heading": "Opportunity Signal: Build Governors with the Accelerators"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/17-chapter.md",
+      "sha256": "ad9b390a4a30879782658bed162cea0f4049d19146fd8cac20915de9a7a1be07",
+      "word_count": 7205,
+      "line_count": 614,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 355
+        },
+        {
+          "start_line": 356,
+          "end_line": 614
+        }
+      ],
+      "signal_id": "v2-signal-17",
+      "opportunity_section": {
+        "line": 540,
+        "heading": "Opportunity Signal: Keep the Door in the Cage"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/18-chapter.md",
+      "sha256": "0272c3f80ca735162d4d8a32a3fe94cf656cfe779433025aca69c7f1b41dc60d",
+      "word_count": 8117,
+      "line_count": 628,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 254
+        },
+        {
+          "start_line": 255,
+          "end_line": 563
+        },
+        {
+          "start_line": 564,
+          "end_line": 628
+        }
+      ],
+      "signal_id": "v2-signal-18",
+      "opportunity_section": {
+        "line": 526,
+        "heading": "Opportunity Signal: Obligation Scaffolding"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/19-chapter.md",
+      "sha256": "ffaa40766208226cf62d0cd8d4888bf3d2ca890ab1ae9dd82341ea74ec5b671f",
+      "word_count": 8331,
+      "line_count": 589,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 272
+        },
+        {
+          "start_line": 273,
+          "end_line": 524
+        },
+        {
+          "start_line": 525,
+          "end_line": 589
+        }
+      ],
+      "signal_id": "v2-signal-19",
+      "opportunity_section": {
+        "line": 491,
+        "heading": "Opportunity Signal: Stewardship Architectures"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/20-chapter.md",
+      "sha256": "dbbc643eda75a51fc1454aec07dfff6d30072845223425e20252dd8d0f378f5a",
+      "word_count": 8116,
+      "line_count": 832,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 498
+        },
+        {
+          "start_line": 499,
+          "end_line": 777
+        },
+        {
+          "start_line": 778,
+          "end_line": 832
+        }
+      ],
+      "signal_id": "v2-signal-20",
+      "opportunity_section": {
+        "line": 729,
+        "heading": "Opportunity Signal: Re-humanize Form"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/21-chapter.md",
+      "sha256": "d1ca9f23403b50b435a6b956ccc21cb8aea916ec248eeb27853360f1d22d36e2",
+      "word_count": 8131,
+      "line_count": 611,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 273
+        },
+        {
+          "start_line": 274,
+          "end_line": 557
+        },
+        {
+          "start_line": 558,
+          "end_line": 611
+        }
+      ],
+      "signal_id": "v2-signal-21",
+      "opportunity_section": {
+        "line": 512,
+        "heading": "Opportunity Signal: Cognitive Scaffolds"
+      }
+    },
+    {
+      "source": "manuscripts/volume-2/22-chapter.md",
+      "sha256": "203919c21eabf9fb2ade870ccda9bd130184609c40ab593abe931557bdc493e8",
+      "word_count": 8400,
+      "line_count": 641,
+      "coverage": "complete, including appended legacy material where present",
+      "read_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 279
+        },
+        {
+          "start_line": 280,
+          "end_line": 562
+        },
+        {
+          "start_line": 563,
+          "end_line": 641
+        }
+      ],
+      "signal_id": "v2-signal-22",
+      "opportunity_section": {
+        "line": 493,
+        "heading": "Opportunity Signal: The Pause as Design Primitive"
+      }
+    }
+  ]
+}
