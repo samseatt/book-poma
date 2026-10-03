@@ -4,7 +4,7 @@ project:
 
 book:
   title: "The Path of Many Arrows - An Odyssey Past Stillness and Singularity"
-  author: "Carbon, Silicon & Sam Seatt"
+  author: "Sam Seatt, with Carbon and Silicon"
   chapters:
     - index.qmd
     - content/front-matter/front-matter.qmd

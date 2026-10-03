@@ -2,6 +2,9 @@ _book/
 .quarto/
 .quarto-backups/
 .DS_Store
+tmp/
+output/pdf/*.pdf
+output/pdf/*.tex
 
 /.quarto/
 content/

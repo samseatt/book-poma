@@ -1,0 +1,9 @@
+# Publisher's Note {.unnumbered}
+
+This is the second of three physical volumes of *The Path of Many Arrows*. It contains Part II, *The Still Arrow*. It begins where Volume I leaves the journey: with the inherited world already in motion and the human observer learning to recognize the systems that motion has made.
+
+```{=latex}
+\cleardoublepage
+\mainmatter
+\pagestyle{fancy}
+```

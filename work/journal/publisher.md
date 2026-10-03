@@ -65,3 +65,60 @@ Web notes remain local to their chapter/interlude. Print notes should collect at
 The next technical step, when separately commissioned, is a small representative citation/rendering specimen, followed by bibliography migration support and eventual print profiles/endnotes. The editor will supply verified bibliographic content and precise source locators. Preserve existing self-contained source notes until migration preserves their evidence. **No further implementation, regeneration, push or deployment is requested by this entry.**
 
 **Publisher acknowledgment:** The publisher explicitly accepted this ownership division and edition policy on 1 October, confirmed the print work remains future implementation, and agreed to make no repository changes, renders, commits or deployments during this editorial commit.
+
+## P-005 — Three-volume print proof baseline
+
+**3 October 2026. Status:** Implemented and locally validated; not committed,
+deployed, or sent to a printer. The author commissioned three independent 6 ×
+9 inch print interiors and corresponding Letter home-print proofs. This local
+proof run used the current working tree, including the author's separately
+owned uncommitted manuscript edits; the publisher did not modify those files.
+
+The generated projects give each physical volume independent Roman prelims and
+Arabic body pagination. Every top-level unit opens recto. Volume I contains the
+Prologue, Volume III contains the Epilogue, and publisher opening/closing notes
+remain outside canonical manuscript prose. The Letter artifacts center the
+unchanged 6 × 9 pages without scaling, preserving line endings and pagination.
+Raster copies are converted to grayscale only in temporary print projects.
+
+The print filter preserves equations through STIX Two Math, scopes Persian
+script to joined right-to-left Noto Nastaliq with explicit HarfBuzz Persian
+shaping, and retains German language typography.
+Decorative checkmarks, pointing hands, pins, warning symbols, and similar icons
+are removed or normalized to a plain bullet in print; canonical Markdown is
+unchanged. LuaLaTeX logs are rejected on missing glyphs. Geometry, Letter
+parity, recto starts, page-label transitions, and representative rendered pages
+were checked. Current interiors are 412, 518, and 542 pages for Volumes I–III.
+Grouped endnotes, verified bibliographies, an editor-supplied index, covers, and
+printer-specific preflight remain later work.
+
+## P-006 — Print opening-page refinement
+
+**3 October 2026. Status:** Implemented and visually validated in all volumes;
+not committed, deployed, or sent to a printer. At the author's direction, the
+print-only preparation now suppresses Quarto's visible unit headings while
+retaining navigation. Chapters and interludes receive centered composite
+headers and optional ruled epigraphs. Opens have no visible title, use a
+smaller ornament, and are validated as one recto page followed by a blank
+verso. Repeated raster diamonds and semantic Markdown thematic breaks become
+the same centered, thin partial-width rule. Open artwork is set to 1.50 inches
+and Open prose is set slightly larger. Named-opening ornaments precede their
+titles in Prologue, Epilogue, Codas, and Overtures. Coda and Overture artwork is
+reduced, and authorship metadata now reads “Sam Seatt, with Carbon and
+Silicon.”
+
+Parts I, II, and III each occupy a dedicated recto, with prose beginning on the
+verso. Prologue and Epilogue now use the named-opening hierarchy shared with
+Codas and Overtures: title, reduced ornament, label, epigraph, and prose on the
+same recto. The redundant generated half-title pair was removed while retaining
+Quarto's required contentless home-page entry. The Publisher's Note now begins
+on Roman page v; page vi is the intentional blank verso before Arabic page 1 on
+physical page 7.
+
+Volumes I–III rebuilt to 408, 512, and 530 pages. All six 6 × 9 and Letter
+artifacts passed geometry, pagination, recto, one-page Open, and missing-glyph
+checks. Representative Publisher's Note, Prologue, Part I–III, Open, Chapter,
+Interlude, Coda, Overture, and Epilogue pages were rendered and inspected.
+Print execution is explicitly disabled so indented prose cannot trigger an
+inferred Jupyter kernel. Canonical manuscript files were untouched by the
+publisher.

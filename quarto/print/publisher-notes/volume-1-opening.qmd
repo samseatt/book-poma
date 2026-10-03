@@ -1,0 +1,9 @@
+# Publisher's Note {.unnumbered}
+
+This is the first of three physical volumes of *The Path of Many Arrows*. It contains Part I, *The First Archers*, including the Prologue that opens the journey. The three volumes form one work, while each is designed to be read, carried, and revised as a book in its own right.
+
+```{=latex}
+\cleardoublepage
+\mainmatter
+\pagestyle{fancy}
+```

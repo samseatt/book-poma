@@ -1,0 +1,134 @@
+% Shared 6 x 9 inch print treatment for the three POMA volumes.
+\usepackage[paperwidth=6in,paperheight=9in,inner=0.84in,outer=0.64in,top=0.70in,bottom=0.82in,headsep=0.18in,footskip=0.36in]{geometry}
+\usepackage{microtype}
+\usepackage{needspace}
+\usepackage{fancyhdr}
+\usepackage{etoolbox}
+\usepackage{ragged2e}
+\usepackage{fontspec}
+\usepackage{xcolor}
+% HarfBuzz performs contextual Arabic-script joining. Noto Nastaliq gives the
+% Persian quotation a native Persian calligraphic character rather than the
+% disconnected fallback glyphs produced by the earlier renderer.
+\newfontfamily\persianfont[
+  Script=Arabic,
+  Language=Persian,
+  Renderer=HarfBuzz
+]{Noto Nastaliq Urdu}
+
+% Print-only opening-page vocabulary. The Lua filter builds these structures
+% from generated semantic Markdown; canonical manuscript prose stays intact.
+\newcommand{\pomaunitstart}[1]{%
+  \cleardoublepage
+  \phantomsection
+  \addcontentsline{toc}{chapter}{#1}%
+  \markboth{#1}{#1}%
+  \thispagestyle{plain}}
+\newenvironment{pomaunitopening}{%
+  \begin{center}\setlength{\parindent}{0pt}%
+}{\end{center}\vspace{0.65\baselineskip}}
+\newcommand{\pomaunitlabel}[1]{\par\vspace{0.55\baselineskip}{\small\scshape #1}\par}
+\newcommand{\pomaunittitle}[1]{\par\vspace{0.35\baselineskip}{\LARGE\bfseries #1}\par}
+\newcommand{\pomaunitsubtitle}[1]{\par\vspace{0.30\baselineskip}{\large\itshape #1}\par}
+\newcommand{\pomaunitdiscipline}[1]{\par\vspace{0.42\baselineskip}{\footnotesize\color{black!58}\scshape\addfontfeatures{LetterSpace=7}#1}\par}
+\newenvironment{pomaepigraph}{%
+  \par\vspace{0.35\baselineskip}\begin{center}%
+  \begin{minipage}{0.84\textwidth}\centering\itshape
+  \hrule\vspace{0.60\baselineskip}%
+}{%
+  \vspace{0.55\baselineskip}\hrule
+  \end{minipage}\end{center}\vspace{1.05\baselineskip}\par
+}
+\newenvironment{pomatitleplate}{%
+  \thispagestyle{empty}\vspace*{\fill}\begin{center}\setlength{\parindent}{0pt}%
+}{\end{center}\vspace*{\fill}}
+\newenvironment{pomanamedopening}{%
+  \begin{center}\setlength{\parindent}{0pt}%
+}{\end{center}\vspace{0.45\baselineskip}}
+\newcommand{\pomanamedtitle}[1]{\par{\LARGE\bfseries #1}\par\vspace{0.80\baselineskip}}
+\newcommand{\pomanamedlabel}[1]{\par\vspace{0.65\baselineskip}{\small\scshape #1}\par}
+\newcommand{\pomagenericchapter}[1]{\pomadefaultchapterhead{#1}}
+\newcommand{\pomaseparator}{%
+  \par\vspace{0.65\baselineskip}%
+  \begin{center}\rule{0.52\textwidth}{0.35pt}\end{center}%
+  \vspace{0.55\baselineskip}\par}
+
+% Pandoc switches to main matter immediately after the contents. The print
+% edition has publisher front matter after the contents, so defer that first
+% automatic switch; each volume's opening publisher note invokes the real
+% \mainmatter immediately before the authored journey.
+\let\pomarealmainmatter\mainmatter
+\newif\ifpomamainmatterrequested
+\pomamainmatterrequestedfalse
+\renewcommand{\mainmatter}{%
+  \ifpomamainmatterrequested
+    \pomarealmainmatter
+  \else
+    \global\pomamainmatterrequestedtrue
+  \fi}
+
+\setlength{\parindent}{1.15em}
+\setlength{\parskip}{0pt}
+\widowpenalty=10000
+\clubpenalty=10000
+\displaywidowpenalty=10000
+\brokenpenalty=10000
+
+% Keep headings with a useful amount of following text.
+\pretocmd{\section}{\Needspace{7\baselineskip}}{}{}
+\pretocmd{\subsection}{\Needspace{6\baselineskip}}{}{}
+\pretocmd{\subsubsection}{\Needspace{5\baselineskip}}{}{}
+
+% Quarto/Pandoc emits these environments from fenced divs.
+\newenvironment{chapter-opening}{\begin{center}}{\end{center}}
+\newenvironment{book-open}{%
+  \begin{center}\begin{minipage}{0.90\textwidth}%
+  \fontsize{11.5pt}{14pt}\selectfont\justifying
+}{\end{minipage}\end{center}}
+
+% Opening-image sizes follow the visual hierarchy of the original manuscript.
+\newcommand{\pomaopeninggraphic}[2]{%
+  \begingroup
+  \def\pomaasset{#1}%
+  \def\pomawidth{#2}%
+  \includegraphics[width=\pomawidth,keepaspectratio]{\pomaasset}%
+  \endgroup
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\itshape The Path of Many Arrows}
+\fancyhead[RO]{\small\itshape\leftmark}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[LE,RO]{\thepage}\renewcommand{\headrulewidth}{0pt}}
+
+% Book-class openright supplies recto starts for every top-level unit. Blank
+% verso pages stay truly blank.
+\makeatletter
+\newcommand{\pomadefaultchapterhead}[1]{%
+  \vspace*{18pt}%
+  {\parindent\z@\centering\normalfont
+    \Huge\bfseries #1\par\nobreak
+    \vskip 28pt}}
+\def\@makeschapterhead#1{}
+\let\pomaoriginaltableofcontents\tableofcontents
+\renewcommand{\tableofcontents}{%
+  \begingroup
+  \let\@makeschapterhead\pomadefaultchapterhead
+  \pomaoriginaltableofcontents
+  \endgroup
+  \global\pomaskipnextchapterbreaktrue}
+\def\cleardoublepage{\clearpage\if@twoside\ifodd\c@page\else
+  \hbox{}\thispagestyle{empty}\newpage
+  \if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\let\pomarealcleardoublepage\cleardoublepage
+\newif\ifpomaskipnextchapterbreak
+\pomaskipnextchapterbreakfalse
+\def\cleardoublepage{%
+  \ifpomaskipnextchapterbreak
+    \global\pomaskipnextchapterbreakfalse
+  \else
+    \pomarealcleardoublepage
+  \fi}
+\makeatother

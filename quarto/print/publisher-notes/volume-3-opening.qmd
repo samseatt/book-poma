@@ -1,0 +1,9 @@
+# Publisher's Note {.unnumbered}
+
+This is the third and final physical volume of *The Path of Many Arrows*. It contains Part III, *The Basket We Weave*. The questions carried through the first two volumes now enter their constructive movement: how a civilization might learn, adapt, and care without losing the human beings it is meant to serve.
+
+```{=latex}
+\cleardoublepage
+\mainmatter
+\pagestyle{fancy}
+```
