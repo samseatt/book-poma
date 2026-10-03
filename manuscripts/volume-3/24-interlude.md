@@ -9,7 +9,7 @@ INTERLUDE 24
 > "Every system hides a constitution."\
 > --- **Lawrence Lessig**
 
-*TIERS*
+*DOING*
 
 The phrase on the screen was so polite it took me a moment to feel the violence.
 

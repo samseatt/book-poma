@@ -6,7 +6,7 @@ CHAPTER 29
 
 *Governance as Co-Authorship*
 
-*NGOC8 & C4A*
+*STEWARDSHIP*
 
 > "Society is a partnership not only between those who are living, but between those who are dead, and those who are to be born." --- **Edmund Burke**
 

@@ -1,4 +1,6 @@
+
 ![](assets/25-open/opening.png)
+
 
 Dew clung to rows of emerald leaves as dawn light spread across the orchard. A farmer knelt among low branches, twisting ripe apples free and dropping them gently into worn wooden crates.
 
@@ -8,6 +10,6 @@ He pulled a small device from his pocket, tapping each crate's count. A display 
 
 No hidden fees, no bidding wars. Just quiet recognition of what was given and what was restored.
 
-![](../assets/shared/separator.png)
+---
 
 *Beyond money changing hands, beyond invisible forces pulling strings, value was measured in life sustained.*

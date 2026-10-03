@@ -90,5 +90,7 @@ The castles are built. The arrows have flown. The future gleams ahead like a mir
 
 Progress always ships on time. Morality usually arrives in the next update.
 
+---
+
 > Mein Vater, mein Vater, und hörest du nicht,\
 > Was Erlenkönig mir leise verspricht? --- **Goethe**, Erlkönig

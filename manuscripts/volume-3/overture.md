@@ -8,9 +8,9 @@ The Basket We Carry
 
 The high ceilings and lakefront glass made even ordinary family noise feel curated---less living room than gallery. Lofty white frames. Pillars of light. A quiet so clean it bordered on surgical. The kind of space designed by people who trust structure, straight lines, and load-bearing truth.
 
-At the center of it sat the Architect---the patriarch of that moment---commanding the sofa even in repose. A foldable walker was tucked beside him like remedial shoring for a bridge that still refuses to yield to the river of time rushing beneath it. He lifted his iPhone. The screen came alive with a photograph of a woman in her forties, smiling with the sort of calm that survives decades without filing a complaint with time.
+At the center of it sat the Architect---the patriarch of that moment---commanding the sofa even in repose. A foldable walker was tucked beside him like remedial shoring for a bridge that still refuses to yield to the river of time rushing beneath it. He lifted his iPhone. The screen came alive with a photograph of a woman in her forties, her smile so confident it held that rushing current still.
 
-Across the room toddled the other pole of the family's magnetism---baby Ryan, one year old, newly promoted to standing and walking, a tiny engine of pure possibility. The Architect angled the phone toward the child. It was not a casual look-how-cute gesture. It was closer to a data transfer. Legacy offered across a generational span too wide for language. *That was your great-grandmother,* the gesture said, even if the words themselves never fully arrived.
+Across the room toddled the other pole of the family's magnetism---baby Ryan, one year old, newly promoted to standing and walking, a little engine of pure possibility. The Architect angled the phone toward the child. It was not a casual look-how-cute gesture. It was closer to a data transfer. Legacy offered across a generational span too wide for language. *That was your great-grandmother,* the silent prompt said, even if no actual words were spoken.
 
 Ryan stopped. He found his alignment. He looked.
 
@@ -40,16 +40,16 @@ Maybe that was all it was. And despite it being all, there was more to it. Maybe
 
 Because we do, in fact, maintain a private compact with ourselves. We allow a certain amount of poetic truth. A few rituals. A few warm irrational corners. A little private incense in the machinery. Harmless fictions to help us move through this fragile bubble called life without demanding that every tenderness submit to laboratory protocol.
 
-Sitting there, watching the loop repeat, I could almost hear the Architect reciting one of those haunting Persian verses he used to murmur when the room grew quiet.
+Sitting there, watching the loop repeat, I could almost hear the Architect reciting one of those haunting Persian verses he used to murmur, always following a silence that felt heavy with years.
 
 > به هر سو رقص بسمل بود، شب جایی که من بودم\
 > *(In every direction, the fleeting dance whirled around me, in that strange place where I stood last night\...)*
 
 I always found the line chilling because it felt like his own quiet realization of his own end, a man looking back from the far edge of ninety years, watching a one-year-old child just stepping onto the floor to begin the same brief choreography.
 
-But it is a two-way pact with reality. In return, we are not permitted to be fools. We must remain on the same page with reality---especially when reality is about to become editable.
+But the mercy of fiction is a two-way pact with reality. In return, we are not permitted to be fools. We must share the page with reality---especially when reality is about to become editable.
 
-So take this as a metaphor, not a manual: you may enter Virtual Reality, even blend imagination with the physical world in Augmented Reality, but you must still know where the furniture sits in the real room. You do not get to walk through a solid chair simply because you prefer the story in which you can.
+So take this as a metaphor, not a manual: you may enter Virtual Reality, you may even blend imagination with the physical world in Augmented Reality, but you must still know where the furniture sits in the real room. You do not get to walk through a solid chair simply because you prefer the story in which you can.
 
 And the danger only deepens once you step outside the metaphor.
 
@@ -63,6 +63,6 @@ The Architect's phone was a small glass basket---carrying a face, a memory, an i
 
 The man watching all this---trying to keep one foot in the sacred and one foot in the sane---was me.
 
-Volume II was the autopsy: a taxonomy of why our arrows stall, why our castles crack, why our myths become cages. Volume III is what comes after one stops narrating the damage and starts designing the repair: architecture, not applause. A framework, not a slogan. A loom sturdy enough to weave freedom without weaving a fresh tyranny into the hem.
+Volume II was the autopsy: a taxonomy of why our arrows stall, why our castles crack, why our myths become cages. Volume III is what comes after one stops narrating the damage and starts designing the repair: architecture, not applause. A framework, not a slogan. A loom sturdy enough to weave freedom without weaving a fresh tyranny into the fabric.
 
-This is where the basket stops being something we merely clutch ... and becomes a gabion we build. Not perfectly. Not purely. Not alone. But deliberately---before the systems we inherit decide, on our behalf, what kind of reverence the next child will be trained to perform.
+This is where the basket stops being something we just clutch ... and becomes a gabion we build. It doesn't have to be perfect, but it absolutely have to be built collectively and deliberately---before the systems we inherit decide, on our behalf, what kind of reverence the next child will be "trained" to perform.

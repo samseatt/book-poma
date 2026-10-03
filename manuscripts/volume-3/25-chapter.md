@@ -6,7 +6,7 @@ CHAPTER 25
 
 *Toward a Humane Economy*
 
-*?*
+*VALUES*
 
 > "."
 

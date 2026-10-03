@@ -6,6 +6,8 @@ INTERLUDE 32
 
 *Semantic Memory and Cultural Continuity*
 
+*LIFECYCLE*
+
 The machine completed the song beautifully.
 
 That was how I knew we had a problem.

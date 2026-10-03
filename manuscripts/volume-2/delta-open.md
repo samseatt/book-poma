@@ -1,4 +1,6 @@
+
 ![](assets/delta-open/opening.jpeg)
+
 
 Zeno said the arrow doesn't move.
 
@@ -14,6 +16,6 @@ What if the arrow has been airborne for centuries...
 
 ...and still hasn't left the room?
 
-![](../assets/shared/separator.png)
+---
 
 *Then the next act isn't aiming. It's diagnosing.*

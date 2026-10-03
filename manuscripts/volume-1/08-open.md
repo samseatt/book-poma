@@ -1,4 +1,6 @@
+
 ![](assets/08-open/opening.jpeg)
+
 
 The cabin hummed with morning light. Passengers tucked newspapers into seat pockets, adjusted belts, murmured over coffee in foam cups.
 
@@ -12,6 +14,6 @@ Silence thickened. The seatbelt light blinked off. The world, below and above, f
 
 But a line had already been crossed.
 
-![](../assets/shared/separator.png)
+---
 
 *From quiet comfort, history tilted.*

@@ -1,4 +1,6 @@
+
 ![](assets/27-open/opening.png)
+
 
 The boy climbed onto a mossy stone, knees damp from morning dew. Sunlight dappled through leaves above, turning the forest canopy into a shifting mosaic of greens and golds.
 
@@ -10,6 +12,6 @@ In this forest, nothing stood alone. Every trunk, stream, and stone was part of 
 
 He looked up at the sunlit branches, eyes wide, heart full of a quiet promise.
 
-![](../assets/shared/separator.png)
+---
 
 *This knowledge was his to share, and this place was his to protect.*

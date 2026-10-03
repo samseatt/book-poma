@@ -6,7 +6,7 @@ INTERLUDE 31
 
 *Precision Medicine in the Age of Pattern Stewardship*
 
-*VITALEDGE*
+*MEDICINE*
 
 The first thing the model did right was hesitate.
 

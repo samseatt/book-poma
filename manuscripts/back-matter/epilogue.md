@@ -54,7 +54,7 @@ What matters is the discipline: design the containers that will hold the next ag
 
 And here the snake appears---the Ouroboros that has been circling in the margins all along.
 
-![](assets/epilogue/image-02.png)
+---
 
 We began with "nothing," or something close enough to nothing that the word serves as a warning more than a description: a possibility field, a quantum haze, a universe that did not yet know it was a universe. Then came structure---time, energy, law---then repetition enough to become memory. From repetition: chemistry. From chemistry: copying. From copying: evolution. From evolution: nervous systems. From nervous systems: inner simulations. From inner simulations: language, cooperation, and the long, strange project of building external memory.
 
@@ -72,7 +72,7 @@ Not guaranteed. Not clean. Not inevitable. But possible.
 
 And because it is possible, neutrality is no longer a virtue. The age of spectatorship is over. In a world where architecture is editable, choosing not to design is still a design choice---one that hands the pen to whoever shows up with the loudest incentives.
 
-![](assets/epilogue/image-03.png)
+---
 
 So I do not end this book with a conclusion. I end it with a posture.
 

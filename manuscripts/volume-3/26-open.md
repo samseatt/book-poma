@@ -1,4 +1,6 @@
+
 ![](assets/31-open/opening.png)
+
 
 A group of children sprawled across a sunny park meadow, shoes kicked off, knees brushing soft grass. In the center, a circle of small interactive devices projected shimmering prompts into the air.
 
@@ -10,6 +12,6 @@ They debated with fearless curiosity, each idea stretching their minds wider. Su
 
 Nearby adults watched quietly --- some parents, some trained educators --- all there to support but never to stifle.
 
-![](../assets/shared/separator.png)
+---
 
 *The world had become their classroom. And wonder, their teacher.*

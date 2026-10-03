@@ -6,6 +6,8 @@ INTERLUDE 28
 
 *Biofabrication and Architectures of Regenerative Matter*
 
+*MANUFACTURING*
+
 The arm stopped halfway through the part.
 
 Not dramatically. Machines rarely understand theater unless humans install it by mistake. The robotic arm simply paused above the print bed, holding a nozzle full of warmed polymer with the quiet moral confidence of a librarian refusing to stamp a suspicious book.

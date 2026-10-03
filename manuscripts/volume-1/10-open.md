@@ -1,4 +1,6 @@
+
 ![](assets/10-open/opening.png)
+
 
 The sun hung heavy over scorched hills, heat shimmering like a mirage. Asphalt split open, each crack a quiet prophecy. The air tasted of smoke and old anger.
 
@@ -10,6 +12,6 @@ Winds howled, tides clawed higher. Bomb cyclones spun like the earth's own fever
 
 "Take a number," the land whispered. "A plague is still simmering. And the frogs already boil in silence."
 
-![](../assets/shared/separator.png)
+---
 
 *Then even the wind held its breath.*

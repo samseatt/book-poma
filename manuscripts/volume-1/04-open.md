@@ -1,4 +1,6 @@
+
 ![](assets/04-open/opening.png)
+
 
 The room was quiet. Lamplight pooled on faded carpet, shadows clinging to corners. A single bed sat askew, sheets rumpled like a storm had passed.
 
@@ -12,6 +14,6 @@ The mind that once mapped right from wrong twisted on itself, each thought feedi
 
 No monster waited under the bed. The monster was already here, wearing a human face.
 
-![](../assets/shared/separator.png)
+---
 
 *How fragile is the line between thought and horror?*

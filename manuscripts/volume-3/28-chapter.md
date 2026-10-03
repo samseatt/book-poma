@@ -6,6 +6,8 @@ CHAPTER 28
 
 *Making as Stewardship*
 
+*MAKING*
+
 > "We shape our tools and thereafter our tools shape us."\
 > --- often attributed to **Marshall McLuhan**
 

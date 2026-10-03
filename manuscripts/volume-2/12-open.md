@@ -1,4 +1,6 @@
+
 ![](assets/12-open/opening.png)
+
 
 The moon hung thin over black waves, stars cold and sharp in the sky. A fire flickered on a rocky shore, casting small faces in orange light. Eyes watched the dark water with fear and wonder.
 
@@ -14,6 +16,6 @@ Across a narrow strait, the future waited.
 
 A thin line between extinction and everything to come.
 
-![](../assets/shared/separator.png)
+---
 
 *How far must we carry it --- just* *to survive?*

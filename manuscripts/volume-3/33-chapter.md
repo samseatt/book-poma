@@ -6,6 +6,8 @@ CHAPTER 33
 
 *Designing Without Possessing the Future*
 
+*REALITY*
+
 > "We are called to be architects of the future, not its victims."\
 > --- **R. Buckminster Fuller**
 

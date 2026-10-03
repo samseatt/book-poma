@@ -6,6 +6,8 @@ CHAPTER 32
 
 *Culture, Memory, and the Long Now*
 
+*LIFE*
+
 > "In every deliberation, we must consider the impact on the seventh generation." --- **The Great Law of the Haudenosaunee Confederacy**
 
 On September 11, 2051, the archive asked whether I wanted the gaps filled.

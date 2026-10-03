@@ -6,6 +6,8 @@ INTERLUDE 30
 
 *Designing Fairness into Systems*
 
+*JURISPRUDENCE*
+
 Nothing had broken.
 
 That was the problem.

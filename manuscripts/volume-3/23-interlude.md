@@ -6,7 +6,7 @@ INTERLUDE 23
 
 *Ethical Systems Thinking for Builders*
 
-*ARCHITECTURE*
+*BUILDING*
 
 \[TODO: change from "you" to "I"\]
 

@@ -37,7 +37,7 @@ This was my experiential Big Bang: the first spark of what would become my consc
 
 The plane was not just a plane. It was the first crossing. The first rupture. The first unveiling of the monster that lives in reality itself: the unease of displacement, the terror of not knowing where home has gone, the thinness of the veil that we call the familiar.
 
-![](assets/prologue/image-02.png)
+---
 
 Thus began my life of crossings. Each move, each departure, would peel back another mask, unearth another monster---hidden in systems, in structures, in the earth beneath our feet, in the stars above, and in the human heart.
 

@@ -1,4 +1,6 @@
+
 ![](assets/theta-open/opening.jpeg)
+
 
 In the beginning, the Chinese storytellers say, there was only an egg.
 
@@ -12,6 +14,6 @@ Diagnosis is noticing the egg is cracking.
 
 Design is deciding where the seam should go---and
 
-![](../assets/shared/separator.png)
+---
 
 *what kind of world you'll be responsible for once it opens.*

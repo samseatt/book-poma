@@ -6,7 +6,7 @@ INTERLUDE Θ
 
 *C4A and the Three Empires*
 
-*METHODOLOGY*
+*METHOD*
 
 The air in Ecbatana was thick with summer dust when the king woke screaming.
 

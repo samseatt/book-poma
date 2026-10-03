@@ -1,4 +1,6 @@
+
 ![](assets/19-open/opening.png)
+
 
 Smoke coiled above marble columns, black against the moonlit sky. Sparks drifted down like falling stars, settling on scrolls stacked higher than a man could reach.
 
@@ -10,6 +12,6 @@ Outside, flames leapt through tall windows. On distant hills, watchers saw the g
 
 The library's heart beat slower with each gust of fire.
 
-![](../assets/shared/separator.png)
+---
 
 *When the commons crumble, memory becomes ash.*

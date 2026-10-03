@@ -1,3 +1,8 @@
+![](assets/part-opening/image-01.png)
+
+***\
+***
+
 ***The Cracks That Spread,***
 
 ***The Aims That Falter***

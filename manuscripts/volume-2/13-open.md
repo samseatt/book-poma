@@ -1,4 +1,6 @@
+
 ![](assets/13-open/opening.png)
+
 
 The plane waited on the tarmac, lights blinking in the humid night. The boarding stairs loomed like a narrow bridge.
 
@@ -12,6 +14,6 @@ Hours later, wheels struck wet tarmac. Rain hammered JFK's runways as the plane 
 
 I had crossed a line no one could see.
 
-![](../assets/shared/separator.png)
+---
 
 *How far must we go to be free to think?*

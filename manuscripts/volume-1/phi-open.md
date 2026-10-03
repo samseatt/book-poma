@@ -1,4 +1,6 @@
+
 ![](assets/phi-open/opening.png)
+
 
 Let there be a system --- finite in its symbols, bound in its rules, complete in its ambition. Let it be consistent. Let it be knowable. Let it prove itself.
 
@@ -14,6 +16,6 @@ And so, from that single fracture --- not a failure, but a limit --- the first m
 
 A truth that would never kneel.
 
-![](../assets/shared/separator.png)
+---
 
 *What they built to contain all truth\... could never contain itself.*

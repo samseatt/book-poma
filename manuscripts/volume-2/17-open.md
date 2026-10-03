@@ -1,4 +1,6 @@
+
 ![](assets/17-open/opening.png)
+
 
 The stone cell smelled of old candles and iron. Shadows rippled along bare walls as a single flame danced in the draft.
 
@@ -10,6 +12,6 @@ Visions swirled behind closed eyes: saints suffering, kingdoms rising, sinners b
 
 Somewhere above, church bells tolled midnight. He welcomed the sound as absolution and prison both.
 
-![](../assets/shared/separator.png)
+---
 
 *What cages stronger than myths we make holy?*

@@ -1,4 +1,6 @@
+
 ![](assets/15-open/opening.png)
+
 
 The hall was silent. Hundreds of students stood in rigid rows, eyes fixed forward, breath held.
 
@@ -12,6 +14,6 @@ I stared into the darkness beyond the hall, ears ringing, cheeks burning, the hu
 
 No one moved. No one dared breathe.
 
-![](../assets/shared/separator.png)
+---
 
 *How blind is a system that strikes before it senses?*

@@ -6,6 +6,8 @@ CHAPTER 30
 
 *Living Inside Fair Systems*
 
+*JUSTICE*
+
 > "Justice delayed is justice denied."\
 > --- commonly attributed to **William E. Gladstone**
 

@@ -6,7 +6,7 @@ CHAPTER Θ
 
 *Design After Diagnosis*
 
-*DESIGN*
+*PATTERN*
 
 > "Engineering, medicine, business, architecture and painting are concerned not with the necessary but with the contingent -- not with how things are but with how they might be -- in short, with design."---**Herbert A. Simon**
 

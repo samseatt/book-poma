@@ -1,4 +1,6 @@
+
 ![](assets/22-open/opening.png)
+
 
 Salt spray hissed against the sides of the raft. Paddles dipped and rose in ragged rhythm. Behind them, the dark line of the old shore shrank beneath a sky paling with dawn.
 
@@ -10,6 +12,6 @@ Every creak of the raft carried a question: Would there be fresh water ahead? Wo
 
 The old world lay behind, silent. The new world waited, unseen.
 
-![](../assets/shared/separator.png)
+---
 
 *They sailed on, hearts split between terror and wonder.*

@@ -1,4 +1,6 @@
+
 ![](assets/16-open/opening.png)
+
 
 A vial balanced on trembling fingers. Frost crawled across glass.
 
@@ -16,6 +18,6 @@ Outside, birds sang over traffic. Someone laughed at a café.
 
 A new patient zero took its first breath.
 
-![](../assets/shared/separator.png)
+---
 
 *Monsters breathe invisible fire.*

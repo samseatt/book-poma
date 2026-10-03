@@ -1,4 +1,6 @@
+
 ![](assets/09-open/opening.png)
+
 
 Snow drifted across quiet sidewalks, swirling under streetlights like pale ghosts. Downtown storefronts glowed warm behind frosted glass, shoppers bustling past in winter coats.
 
@@ -12,6 +14,6 @@ Blood bloomed on fresh snow. Silence swallowed the street.
 
 Somewhere above, holiday lights blinked on and off, cold and unfeeling.
 
-![](../assets/shared/separator.png)
+---
 
 *How thin is the ice we build our peace upon?*

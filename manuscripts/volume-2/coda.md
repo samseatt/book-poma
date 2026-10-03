@@ -111,5 +111,7 @@ As I pen these notes in early September 2026, the calendar itself seems to be mo
 
 Now, as the shadows lengthen toward the 25th anniversary of September 11, we are forced to look back not just at a quarter-century of endless expeditions, but at the entire structural trajectory of Western power. We stand at a civilizational crossroads, staring into a hyper-technological future that threatens to outpace our capacity to govern it. The old systems have run out of road. The machinery is jammed. To find a way forward, we have to look away from the crashing tides of collapsing empires and turn our gaze north, toward an entirely different template for the next century\...
 
+---
+
 > Mein Vater, mein Vater, jetzt faßt er mich an!\
 > Erlkönig hat mir ein Leids getan! --- **Goethe**, Erlkönig

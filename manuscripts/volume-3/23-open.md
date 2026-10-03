@@ -1,4 +1,6 @@
+
 ![](assets/23-open/opening.png)
+
 
 A grandmother sat hunched over a wooden loom, its beams creaking softly in the dawn light. Her fingers moved with practiced patience, guiding threads dyed in earth and midnight tones.
 
@@ -10,6 +12,6 @@ Outside her window, the world stirred: birdsong over quiet streets, distant voic
 
 She pulled the final thread through, paused, and looked at what she'd made: a tapestry not of cloth alone, but of wounds closed and futures imagined.
 
-![](../assets/shared/separator.png)
+---
 
 *What might we weave if we remember every frayed strand?*

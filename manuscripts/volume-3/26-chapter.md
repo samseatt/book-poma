@@ -6,6 +6,8 @@ CHAPTER 26
 
 *Learning, Meaning, and Shared Reality*
 
+*LEARNING*
+
 > "Education is the kindling of a flame, not the filling of a vessel." --- **Plutarch**
 
 The Uber driver called before I found the curb.

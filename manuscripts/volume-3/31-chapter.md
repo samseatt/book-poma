@@ -6,7 +6,7 @@ CHAPTER 31
 
 *Health as Presence, Pattern, and Partnership*
 
-*X-MED*
+*HEALTH*
 
 > "The physician should not treat the disease, but the person who is suffering from it." --- **Maimonides**
 

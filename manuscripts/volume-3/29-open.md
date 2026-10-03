@@ -1,4 +1,6 @@
+
 ![](assets/26-open/opening.png)
+
 
 She settled on her favorite bench by the river, sun warming her back as birds sang overhead. Around her, the park pulsed with quiet life --- joggers passing, children laughing.
 
@@ -8,6 +10,6 @@ She read, thought, and added a comment about planting native grasses to reduce e
 
 She looked out across the water, feeling a quiet certainty: her voice mattered, even here, and every morning offered a chance to shape the world.
 
-![](../assets/shared/separator.png)
+---
 
 *The river listened---and so did the world.*

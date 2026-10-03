@@ -6,7 +6,7 @@ CHAPTER 24
 
 *Agency, Trust, and Life Inside the New Mesh*
 
-*TODO*
+*BELONGING*
 
 > "TODO."\
 > --- **TODO**

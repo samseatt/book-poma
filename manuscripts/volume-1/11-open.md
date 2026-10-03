@@ -1,4 +1,6 @@
+
 ![](assets/11-open/opening.png)
+
 
 A prompt landed in darkness like a stone dropped into a silent pool.
 
@@ -12,6 +14,6 @@ A switch flipped. A signal leapt across wires. A turbine wound up. A satellite a
 
 The system paused, silent and waiting for the next prompt.
 
-![](../assets/shared/separator.png)
+---
 
 *What happens when our words don't end in words?*

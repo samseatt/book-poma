@@ -6,7 +6,7 @@ INTERLUDE 25
 
 *Dynamic Value Flows and DAG Economies*
 
-*N*
+*VALUE*
 
 The first thing that arrived was not a philosophy.
 

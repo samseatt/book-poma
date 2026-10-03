@@ -1,4 +1,6 @@
+
 ![](assets/21-open/opening.png)
+
 
 Rain streaked across the windshield, wipers beating in slow, hypnotic arcs. The baby's cry rose from the back seat, thin and piercing.
 
@@ -10,6 +12,6 @@ Five seconds passed.
 
 A horn blared. Brakes screamed. Metal crumpled into night.
 
-![](../assets/shared/separator.png)
+---
 
 *A mind, perfect in intent, stilled by a moment's drift.*

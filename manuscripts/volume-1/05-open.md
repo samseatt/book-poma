@@ -1,4 +1,6 @@
+
 ![](assets/05-open/opening.png)
+
 
 Smoke twisted across the street like a living thing. Flames flickered on both sides of the road, devouring storefronts and sending black clouds into the night sky.
 
@@ -12,6 +14,6 @@ I gripped the wheel, eased the car forward, inching into the smoke, vision shrin
 
 The riot swallowed me whole.
 
-![](../assets/shared/separator.png)
+---
 
 *What monster grows when rage sets the city alight?*

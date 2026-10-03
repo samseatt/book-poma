@@ -1,4 +1,6 @@
+
 ![](assets/07-open/opening.png)
+
 
 A narrow room buzzed under flickering fluorescent lights. Steel shelves lined the walls, crowded with boxes and rows of paperbacks. Shipping labels curled on cheap tables. The scent of cardboard hung in the air.
 
@@ -10,6 +12,6 @@ Somewhere beyond the garage door, midnight traffic whispered through wet streets
 
 Rain tapped the garage roof in steady rhythms.
 
-![](../assets/shared/separator.png)
+---
 
 *From silence, an empire began to breathe.*

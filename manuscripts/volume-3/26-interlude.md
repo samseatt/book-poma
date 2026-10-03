@@ -6,6 +6,8 @@ INTERLUDE 26
 
 *Cognitive Architectures for a Wise Infosphere*
 
+*EDUCATION*
+
 The first rule of the lab was that nothing entered the public record wearing only one face.
 
 This was written on the wall in three languages, two scripts, and one diagram that looked suspiciously like a nervous octopus trying to get tenure.

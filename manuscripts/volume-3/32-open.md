@@ -1,4 +1,6 @@
+
 ![](assets/32-open/opening.png)
+
 
 A child sat by a small fire, stars spinning overhead. An elder traced constellations with a gnarled finger: a hunter's bow, a serpent's coil, a goddess' gaze.
 
@@ -10,6 +12,6 @@ Far from this quiet circle, others looked up with different names, different pra
 
 Above them all, the same night sky held the same truths --- patient, cold, and unclaimed.
 
-![](../assets/shared/separator.png)
+---
 
 *Tonight, for a moment, the child felt the stories not as boundaries, but as bridges --- strands that could yet be rewoven into something new, something shared.*

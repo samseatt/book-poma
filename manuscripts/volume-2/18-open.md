@@ -1,4 +1,6 @@
+
 ![](assets/18-open/opening.png)
+
 
 A phone screen glowed in the dark, its light dancing across posters of pop stars on a pale bedroom wall. A stuffed bear slumped by her pillow, one ear worn thin.
 
@@ -10,6 +12,6 @@ Her room felt smaller with each buzz. Breath came shallow, eyes rimmed in salt. 
 
 Outside, the world moved on. Inside, she saw no world at all.
 
-![](../assets/shared/separator.png)
+---
 
 *A fractured basket. A monster inside.*

@@ -1,4 +1,6 @@
+
 ![](assets/20-open/opening.png)
+
 
 Rain streaked across the windshield, turning headlights into pale, shifting ghosts. The electric hum of the car was steady, each sensor pulsing infrared and lidar into the night.
 
@@ -12,6 +14,6 @@ The car drifted forward, calm as the grave.
 
 Metal met metal. Glass burst into crystal rain.
 
-![](../assets/shared/separator.png)
+---
 
 *A perfect system, frozen by an imperfect picture.*

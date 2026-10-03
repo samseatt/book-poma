@@ -6,7 +6,7 @@ INTERLUDE 29
 
 *Identity, Federation, and Protocol Governance*
 
-*EDGES AND MESHES*
+*GOVERNANCE*
 
 The map made the person too simple.
 

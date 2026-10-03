@@ -1,4 +1,6 @@
+
 ![](assets/03-open/opening.png)
+
 
 Seats hummed beneath flight suits as engines rumbled to life. A soft shudder became a roar, vibrations climbing up spines and ribs. Hands gripped switches, eyes flicked to glowing displays.
 
@@ -12,6 +14,6 @@ A flicker outside. A lurch.
 
 Then ---
 
-![](../assets/shared/separator.png)
+---
 
 *How far can our reach go before it breaks us?*

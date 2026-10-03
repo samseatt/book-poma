@@ -1,4 +1,6 @@
+
 ![](assets/02-open/opening.jpeg)
+
 
 The ocean was black, hot, alive with storms. Lightning split sulfurous clouds, each strike flaring across waves churning with minerals.
 
@@ -12,6 +14,6 @@ Each second, heat threatened to tear these loops apart. But each second, they tr
 
 And in the dark, the monster of entropy watched --- until life took root, trembling but defiant.
 
-![](../assets/shared/separator.png)
+---
 
 *But what kind of monster would this life become?*

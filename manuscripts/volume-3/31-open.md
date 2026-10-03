@@ -1,4 +1,6 @@
+
 ![](assets/28-open/opening.png)
+
 
 A tram glided to a quiet stop under pale morning skies. The man stepped off, his wristband pulsing a soft green. He didn't rush; his care team had already mapped every step.
 
@@ -8,6 +10,6 @@ Soon he lay inside a softly humming scanner. Gentle lights swept over his chest,
 
 Each heartbeat traced new patterns across shared displays. Notes and insights wove instantly into his lifelong health record. No rushed paperwork, no cryptic charts --- just a team, human and digital, seeing him fully, caring for him precisely.
 
-![](../assets/shared/separator.png)
+---
 
 *He was never just a chart again.*

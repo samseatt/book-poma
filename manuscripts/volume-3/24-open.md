@@ -1,4 +1,6 @@
+
 ![](assets/24-open/opening.png)
+
 
 A young engineer stares at the cursor blinking on a blank repo.
 
@@ -15,6 +17,6 @@ It's governance by guidance, regulation by architecture.
 She hits enter.\
 And the future ripples outward.
 
-![](../assets/shared/separator.png)
+---
 
 *Not all power corrupts. But all architecture governs.*
