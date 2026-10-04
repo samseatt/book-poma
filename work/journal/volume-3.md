@@ -30,6 +30,13 @@ Use current numbering. Add raw notes below the relevant piece; the editor assign
 
 **Accepted direct edit:** “Mahogany Pharmacy” → “Mahogany Shoppers.” Retained as the author’s chosen local grounding; no claim has been made here about that business’s future operation.
 
+#### V3-023-C-001 — Opening review draft recovered, 3 October 2026
+
+**Status:** Separate review copy saved; manuscript adoption pending. The author requested a condensed personal March 2029 vignette and philosophical bridge, explicitly leaving canonical Markdown unchanged. The draft was supplied in conversation. After the author reported it missing from the display, it was preserved in [the opening and bridge review draft](../volume-3-drafting/23-opening-and-bridge-review-2026-10-03.md).
+
+The review file retains the posted prose and separately records the subsequently welcomed separation/coordination line. It also captures the author's proposed Alberta separation, Canada–US tariffs and Davos connections, and planned Theta expansion covering the 2026 geopolitical/climate/Nepal/9–11/AI/Iran context. Those additions require their own factual treatment; no new 2029 political outcome is assumed. The existing historical section, inline notes and main manuscript are untouched.
+
+
 ### Interlude
 
 #### V3-023-I-001 — Deferred to Pass 3
