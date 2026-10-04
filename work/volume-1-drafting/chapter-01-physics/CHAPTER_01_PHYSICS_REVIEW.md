@@ -6,6 +6,8 @@ Reviewed the complete canonical Chapter 1, *The First Horizon — The Monster of
 
 The companion [annotated chapter](01-chapter.annotated-review.md) preserves the original prose and adds review notes. **Those notes are not endorsements of the sentences carrying them.** The [claim ledger](CLAIM_LEDGER.md) supplies decisions and source links; the [source catalog](chapter-01-source-catalog.json) records verification limits and pending leads. The separate bibliography is for later adoption.
 
+**Subsequent author clarification:** the proposed ontology treats existence itself as relative conformational bias, rather than asking how a separate physical substance is produced. Read the [relational-existence follow-up](../../journal/archive/2026-10-04-chapter-01-relational-existence.md) alongside the actualization discussion below. Its question must allow this possibility; the factual physics repairs remain applicable. New source bookmarks include Müller's *Law without law*. No manuscript changes have been made.
+
 ## Editorial judgment
 
 **Keep the inversion, the mother, the circles, and the journey from bewilderment to matter. Rebuild several scientific connections between them.** The chapter has an unusually strong human reason for discussing symmetry. Its weakness is not its willingness to speculate. It is the occasional conversion of a suggestive philosophical association into a supposed result of physics.
