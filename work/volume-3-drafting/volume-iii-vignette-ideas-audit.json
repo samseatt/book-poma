@@ -1,0 +1,360 @@
+{
+  "date": "2026-10-04",
+  "baseline_commit": "86d8341f78170cb2ff42318eac4736575d85acd1",
+  "deliverable": "work/volume-3-drafting/VOLUME_III_VIGNETTE_IDEAS.md",
+  "status": "22 scenario briefs for author personalization; not replacement prose or accepted manuscript changes",
+  "scope": "Ideation from current openings, packet scenario material, accepted gates, author guidance and the separate Chapter 23 review. No new factual research or forecast certification. No canonical manuscripts or publishing files changed.",
+  "sources": [
+    {
+      "current_number": 23,
+      "kind": "chapter",
+      "unit_id": "v3-23-chapter",
+      "manuscript": "manuscripts/volume-3/23-chapter.md",
+      "sha256": "ac297de3f9051d8d0cbda49ec5ce505a9c2f81003d9dc3126c263afbe0ffd4df",
+      "opening_read_lines": [
+        1,
+        142
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/23c Design Packet — Chapter 23.md",
+      "design_packet_sha256": "1ba36c15683f584294cd6c0dde32e269dd31073c4d320ae889986217c3bdc81c",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 23,
+      "kind": "interlude",
+      "unit_id": "v3-23-interlude",
+      "manuscript": "manuscripts/volume-3/23-interlude.md",
+      "sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "opening_read_lines": [
+        1,
+        138
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/23i Design Packet — Interlude 23.md",
+      "design_packet_sha256": "ca848dea8c69783395c4e6408949bd536a7a2ac0adc52b68c06fd66ea8847e66",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 24,
+      "kind": "chapter",
+      "unit_id": "v3-24-chapter",
+      "manuscript": "manuscripts/volume-3/24-chapter.md",
+      "sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "opening_read_lines": [
+        1,
+        149
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/24c Design Packet — Chapter 24.md",
+      "design_packet_sha256": "e0841a65546051dd9ac68dacd2fc4aa73c0737b28d1eeed023cc815f35517c88",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 24,
+      "kind": "interlude",
+      "unit_id": "v3-24-interlude",
+      "manuscript": "manuscripts/volume-3/24-interlude.md",
+      "sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "opening_read_lines": [
+        1,
+        115
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/24i Design Packet — Interlude 24.md",
+      "design_packet_sha256": "d509fe95150daecb1b63660ec739d97a76a529a12889bdc476c7a3fb6c9b5c6d",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 25,
+      "kind": "chapter",
+      "unit_id": "v3-25-chapter",
+      "manuscript": "manuscripts/volume-3/25-chapter.md",
+      "sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "opening_read_lines": [
+        1,
+        116
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/25c Design Packet — Chapter 25.md",
+      "design_packet_sha256": "582dce568735d4400fd3f9fc0e14b3056ec9d13f6494e916b46d7d1ef1faa058",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 25,
+      "kind": "interlude",
+      "unit_id": "v3-25-interlude",
+      "manuscript": "manuscripts/volume-3/25-interlude.md",
+      "sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "opening_read_lines": [
+        1,
+        222
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/25i Design Packet — Interlude 25.md",
+      "design_packet_sha256": "7a587177a507cf8dcabef6242fc21a56044fec3bb93e1f357b01f0c871f71fc8",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 26,
+      "kind": "chapter",
+      "unit_id": "v3-31-chapter",
+      "manuscript": "manuscripts/volume-3/26-chapter.md",
+      "sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "opening_read_lines": [
+        1,
+        278
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/26c prev-31c Design Packet — Chapter 31.md",
+      "design_packet_sha256": "90174101979110ac03ddacaff214aee794964f411bc0a2fbd182b9cde5e7c23c",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 26,
+      "kind": "interlude",
+      "unit_id": "v3-31-interlude",
+      "manuscript": "manuscripts/volume-3/26-interlude.md",
+      "sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "opening_read_lines": [
+        1,
+        124
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/26i prev-31i Design Packet — Interlude 31.md",
+      "design_packet_sha256": "60f7f8daeab72c07e4862b6ca00bd870fdce8cfa81a71b166ac0df0239225e7e",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 27,
+      "kind": "chapter",
+      "unit_id": "v3-27-chapter",
+      "manuscript": "manuscripts/volume-3/27-chapter.md",
+      "sha256": "e5e98380652cf11367c69bdca21af33d0ee154ddf8794755d197e100665f249d",
+      "opening_read_lines": [
+        1,
+        132
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/27c Design Packet — Chapter 27.md",
+      "design_packet_sha256": "e7fc667b312079dd71f1ba49830f55eb70e9bb493b4383e0131e331fed391397",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 27,
+      "kind": "interlude",
+      "unit_id": "v3-27-interlude",
+      "manuscript": "manuscripts/volume-3/27-interlude.md",
+      "sha256": "14a5d42bba57c79a36c731e31e570cabd865648aba58cf479ccde8d6a656515a",
+      "opening_read_lines": [
+        1,
+        102
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/27i Design Packet — Interlude 27.md",
+      "design_packet_sha256": "2cc17c686ba00265a74ca75129417b28b44444adfd6215a0c5460d02d4db638b",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 28,
+      "kind": "chapter",
+      "unit_id": "v3-29-chapter",
+      "manuscript": "manuscripts/volume-3/28-chapter.md",
+      "sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "opening_read_lines": [
+        1,
+        138
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/28c prev-29c Design Packet — Chapter 29.md",
+      "design_packet_sha256": "246702fd413816096073ebfa4350063d8cbe07299ecc80a5e49392c0c16e5b6a",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 28,
+      "kind": "interlude",
+      "unit_id": "v3-29-interlude",
+      "manuscript": "manuscripts/volume-3/28-interlude.md",
+      "sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "opening_read_lines": [
+        1,
+        142
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/28i prev-29i Design Packet — Interlude 29.md",
+      "design_packet_sha256": "c27d44c5149e61e3377b61f2c80eafef2ae9d40a462a5e1eb7ba8a2085bb7fa2",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 29,
+      "kind": "chapter",
+      "unit_id": "v3-26-chapter",
+      "manuscript": "manuscripts/volume-3/29-chapter.md",
+      "sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "opening_read_lines": [
+        1,
+        106
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/29c prev-26c Design Packet — Chapter 26.md",
+      "design_packet_sha256": "c9ebb70bf6e996035acb58a7751654b9fb6af1e28658e1bfe802bed89db6bb40",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 29,
+      "kind": "interlude",
+      "unit_id": "v3-26-interlude",
+      "manuscript": "manuscripts/volume-3/29-interlude.md",
+      "sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "opening_read_lines": [
+        1,
+        102
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/29i prev-26i Design Packet — Interlude 26.md",
+      "design_packet_sha256": "dac0e65a60f561eb728c5d2a8b4f54819c0f9c5db5fd7919a188cc4d87146f5a",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 30,
+      "kind": "chapter",
+      "unit_id": "v3-30-chapter",
+      "manuscript": "manuscripts/volume-3/30-chapter.md",
+      "sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "opening_read_lines": [
+        1,
+        162
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/30c Design Packet — Chapter 30.md",
+      "design_packet_sha256": "866103c20410957cf716d702d14ef1d6673aae38e601582012c5f41936dce1e9",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 30,
+      "kind": "interlude",
+      "unit_id": "v3-30-interlude",
+      "manuscript": "manuscripts/volume-3/30-interlude.md",
+      "sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "opening_read_lines": [
+        1,
+        116
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/30i Design Packet — Interlude 30.md",
+      "design_packet_sha256": "6a3e40629e1c30097b9cc75b8bff8c1e9532bdcd8263b9995a03e2d921584b85",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 31,
+      "kind": "chapter",
+      "unit_id": "v3-28-chapter",
+      "manuscript": "manuscripts/volume-3/31-chapter.md",
+      "sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "opening_read_lines": [
+        1,
+        198
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/31c prev-28c Design Packet — Chapter 28.md",
+      "design_packet_sha256": "2aa67ca31a6c808f57b69d66a5dbc006cbda78704d3760e0691f1dc179e6ecf7",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 31,
+      "kind": "interlude",
+      "unit_id": "v3-28-interlude",
+      "manuscript": "manuscripts/volume-3/31-interlude.md",
+      "sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "opening_read_lines": [
+        1,
+        118
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/31i prev-28i Design Packet — Interlude 28.md",
+      "design_packet_sha256": "feb2c06b39ee022a7aa13fa6f5bcc63e34db1365bf6f840494f3dd236f9c4fde",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 32,
+      "kind": "chapter",
+      "unit_id": "v3-32-chapter",
+      "manuscript": "manuscripts/volume-3/32-chapter.md",
+      "sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "opening_read_lines": [
+        1,
+        113
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/32c Design Packet — Chapter 32.md",
+      "design_packet_sha256": "717133e978ea8f0f4bcd326e79a71a9a146fa18e1a2850fd89a0561582088c5b",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 32,
+      "kind": "interlude",
+      "unit_id": "v3-32-interlude",
+      "manuscript": "manuscripts/volume-3/32-interlude.md",
+      "sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "opening_read_lines": [
+        1,
+        92
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/32i Design Packet — Interlude 32.md",
+      "design_packet_sha256": "7befd732d286cc9377468c9da1c1d756d264bed261d182f8dda3073c4d3bb3bd",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 33,
+      "kind": "chapter",
+      "unit_id": "v3-33-chapter",
+      "manuscript": "manuscripts/volume-3/33-chapter.md",
+      "sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "opening_read_lines": [
+        1,
+        157
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/33c Design Packet — Chapter 33.md",
+      "design_packet_sha256": "5952feb95a90ea821eca76dc9250135e327d87cd14d7402d1374c1c3a19e949c",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    },
+    {
+      "current_number": 33,
+      "kind": "interlude",
+      "unit_id": "v3-33-interlude",
+      "manuscript": "manuscripts/volume-3/33-interlude.md",
+      "sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "opening_read_lines": [
+        1,
+        271
+      ],
+      "design_packet": "/Users/samseatt/projects/book_poma/_design_packets/33i Design Packet — Interlude 33.md",
+      "design_packet_sha256": "a7d0285f08a9b1af6f0e49feaae4ce6f29f13aa87bc14bb4e43151f9fe04d202",
+      "packet_review_scope": "opening scenario material/excerpts; inherited future labels are not adopted"
+    }
+  ],
+  "reference_snapshots": [
+    {
+      "path": "work/VELOCITY_GATES_PROPOSAL.md",
+      "sha256": "868e3f0a1cf99d50c90cce8eb254a833fe17f340b66579d2cdb1a03db8474e2d"
+    },
+    {
+      "path": "work/volume-3-drafting/23-opening-and-bridge-review-v2-2026-10-03.md",
+      "sha256": "cbb15db899d6221a853f8dca75e0fdad29b9e932d733c0f00383605e45faab21"
+    },
+    {
+      "path": "work/journal/README.md",
+      "sha256": "379a399187f01ab7f430050585241d467026fadd66a71b6755f29ee7169db876"
+    },
+    {
+      "path": "work/journal/book.md",
+      "sha256": "a34dc644b756a12a2febcce3edeb916e2ef2c1e2eae4dbf861c40bed44da7636"
+    },
+    {
+      "path": "work/journal/volume-3.md",
+      "sha256": "d425b69ac6b8e01cd48d830ed13b68b3a1b696e947f696ae635fbf9f6aa45355"
+    },
+    {
+      "path": "work/EDITORIAL_CONTEXT.md",
+      "sha256": "631205f401a056777caecee1a8dffb3d39a046b24ca68c258c3724b693d295e3"
+    }
+  ],
+  "style_guide": {
+    "path": "/Users/samseatt/projects/book_poma/_GPT_session_outputs/GPT_writing_and_style_guide.md",
+    "sha256": "f9bdd35c2e08b2dcfcfe862e4388101b8f7405dd622cbfdcc4545c0d9f4b4fce"
+  },
+  "checks": {
+    "scenario_briefs": 22,
+    "author_anchor_prompts": 22,
+    "numbering": "current sequential 23-33, one chapter and one interlude each",
+    "checkpoint_framework_unchanged": true,
+    "protected_material": [
+      "factual São Paulo recollections",
+      "factual South Health Campus recollections",
+      "author Breadboard and Mirror ideas",
+      "plane reserved for Epilogue"
+    ],
+    "all_manuscript_files_unchanged_at_preparation": true
+  }
+}
