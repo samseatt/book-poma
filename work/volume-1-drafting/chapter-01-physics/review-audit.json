@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-10-04",
+  "source_revision": "f25fe438a5414b6d24529c694b46841e9b469d22",
+  "canonical_source": "manuscripts/volume-1/01-chapter.md",
+  "canonical_sha256": "eed7f6d6a3cb349ec3483037cd2561a1a836f242baa39775fafaf32ba2a591c9",
+  "read_scope": "Entire Chapter 1, all 485 lines; targeted adjacent mother/circles passages only. No claim of a new full reading of other chapters.",
+  "author_clarifications_included": [
+    "Mother worked approximately two years after original discoveries.",
+    "Occam as broad possibility-search principle, not primarily Everettian split-selection."
+  ],
+  "canonical_changed": false,
+  "author_chapter23_preserved": true,
+  "annotated_body_reconstructs_source_exactly": true,
+  "review_footnotes_parsed": 56,
+  "bib_records_parsed": 43,
+  "pending_leads": 6,
+  "validation": "Pandoc Markdown AST and BibLaTeX-to-CSL parsing completed without warnings; independent source-hash comparison passed.",
+  "source_verification_limits": "Catalog distinguishes inspected passages, original abstracts, indexed excerpts and metadata-only checks. No claim of full-text or quote verification where unavailable.",
+  "publication": "None. Research, annotations and bibliography remain under work/."
+}

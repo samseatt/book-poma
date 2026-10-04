@@ -1,0 +1,14 @@
+{
+  "head": "f25fe438a5414b6d24529c694b46841e9b469d22",
+  "hashes": {
+    "manuscripts/volume-1/01-chapter.md": "eed7f6d6a3cb349ec3483037cd2561a1a836f242baa39775fafaf32ba2a591c9",
+    "manuscripts/volume-1/01-interlude.md": "af1d55528d4f7e8e9ba640ac1d79e4122efe200c91da1cc291360cbc5d687c03",
+    "manuscripts/volume-1/01-open.md": "69f9864476c48f0202bb0b9bac4c1ed813f0f984c7d33ee27b0748c78f70a8bf",
+    "manuscripts/volume-3/23-chapter.md": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+    "work/journal/volume-1.md": "6d8abe334bb2687597fa88d75d4627053286e06340693a0783a63dd3e6686f48",
+    "work/journal/book.md": "e33c53b1870ab7e046034cf77f08b05804e281ea7ce43c6534d2fff1ff96b57a",
+    "work/EDITORIAL_CONTEXT.md": "09f4bcb69a3daa2ff740238fd399df330fa08dbc727ed9d9621960d1aa28424e",
+    "work/manuscript-manifest.json": "4dce270dae018439cbe8ebe79ce3dc74cb9c092bd0dd696c5f42bd0b3976d429",
+    "quarto/references.bib": "828a0efe860cbc4578136cce01a918f4bc28e58e14a93de0ebc812ad39f2af67"
+  }
+}

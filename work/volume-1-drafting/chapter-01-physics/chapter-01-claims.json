@@ -1,0 +1,699 @@
+{
+  "source_path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-chapter.md",
+  "source_sha256": "eed7f6d6a3cb349ec3483037cd2561a1a836f242baa39775fafaf32ba2a591c9",
+  "source_commit": "f25fe438a5414b6d24529c694b46841e9b469d22",
+  "notes": [
+    {
+      "id": "v1-01c-physics-review-01",
+      "source_start_line": 11,
+      "source_end_line": 11,
+      "source_anchor": "> \"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.\"---**Carl Sagan**",
+      "claim": "Sagan epigraph",
+      "status": "Attribution pending",
+      "decision": "Check continuous wording against an original episode or owned edition. Familiarity is not quotation verification.",
+      "sources": []
+    },
+    {
+      "id": "v1-01c-physics-review-02",
+      "source_start_line": 13,
+      "source_end_line": 13,
+      "source_anchor": "That bubble of Fokker memory---lodged somewhere in my hippocampus and amygdala alike---ended as abruptly as it began. Like a quantum fluctuation: brief, unexplainable, and gone before you could take a measurement. The context of that experiential bubble only reconstructed from the particle tracks form my mother's later storytelling. But the physics stayed, or so I was promised. The plane---or perhaps several parallel planes, depending on which universe you ask---landed. My oblivious toddler self was tagged, transported, washed, rinsed, repeated.",
+      "claim": "Quantum fluctuation and memory",
+      "status": "Repair / metaphor",
+      "decision": "Keep the Fokker memory; remove the claim that fluctuations are inherently unexplainable and evade measurement. Brain-location detail is not established by this recollection.",
+      "sources": [
+        "tong2006qft"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-03",
+      "source_start_line": 23,
+      "source_end_line": 27,
+      "source_anchor": "Reality felt so unreal to our early ancestors that they replaced it with fiction and then promoted the fiction to \"truth.\" We drafted creation stories for everything from gods to empires to economies: from the founding of Rome to the minting of Bitcoin. We installed myths like emergency door plugs, sometimes with the bolts missing. Nothing to worry about. Just a neat sleight of hand we still go along with for lack of better instructions---and lack of refunds.",
+      "claim": "Nothing, absurdity and the origin of myths",
+      "status": "Philosophical / historical caution",
+      "decision": "The childhood question stands. The universal psychological explanation for ancestral myths is not established anthropology; make it the narrator’s reading, not an account of all cultures.",
+      "sources": []
+    },
+    {
+      "id": "v1-01c-physics-review-04",
+      "source_start_line": 31,
+      "source_end_line": 33,
+      "source_anchor": "But \"knowing\" is a loaded word. Does a field \"know\" its value? Does a wavefunction \"know\" its limits? Is decoherence a kind of primordial handshake, or just our name for what happens when systems stop interfering and start minding their own business? And what does \"we\" even mean when we try to speak from inside pure physics?",
+      "claim": "Primitive knowing and decoherence",
+      "status": "Interpretation plus correction",
+      "decision": "Keep physical registration distinct from feeling; environmental interaction, not simple isolation, drives decoherence. See review §3.",
+      "sources": [
+        "rovelli1996relational",
+        "zurek2003decoherence",
+        "schlosshauer2005decoherence"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-05",
+      "source_start_line": 35,
+      "source_end_line": 39,
+      "source_anchor": "Brian Greene calls them necessary fallbacks---scaffolding in the dark. Stories are useful, often beautiful, sometimes even predictive. But they are still stories: compressed, rearranged, and color-corrected for human palatability. We robe naked emperors in the language of emergence and call it good enough. Between minds, we tolerate them. Between selves, contradictions itch. One way to soothe the itch is with logic, or at least with logical aesthetics: that satisfying internal coherence that feels like truth even before we can prove it. We look for a gospel, even a private one, that quiets the background noise.",
+      "claim": "Big Bang and Greene attribution",
+      "status": "Qualify / attribution pending",
+      "decision": "The hot early history does not settle an absolute beginning. Greene’s specific attributed formulation was not verified.",
+      "sources": [
+        "carroll1997gr"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-06",
+      "source_start_line": 47,
+      "source_end_line": 51,
+      "source_anchor": "When a brain dies, its private reality ceases, but the world it modeled carries on. The same seems true of its imagined possibilities: they don't vanish from whatever \"meta-space\" we're using just because the little engine that dreamt them has stalled. Possibility, at least conceptually, is freer and more pervasive than matter. Even vacuum energy isn't free; it's just cheap. But possibility? That might be the only true free lunch. Yum.",
+      "claim": "Possibility as free lunch",
+      "status": "Retain as conjecture",
+      "decision": "Conceptual possibility has no established physical energy price. A quantum vacuum is already physical structure; it is not cheap nothing.",
+      "sources": [
+        "tong2006qft"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-07",
+      "source_start_line": 53,
+      "source_end_line": 55,
+      "source_anchor": "What if everything---brains, vacuum, atoms, space---is a web woven from nothing sturdier than **possibility**? Not all possibilities, just the ones that can self-consistently compute themselves into being. A rare subset where mutual reinforcement---gauge symmetry, decoherence, repetition---lets a pattern stabilize long enough to call itself *real*.",
+      "claim": "Possibilities compute themselves into reality",
+      "status": "Original conjecture",
+      "decision": "Consistency does not by itself establish physical instantiation. Gauge redundancy and decoherence do not supply the missing actualization step.",
+      "sources": [
+        "tegmark2008universe"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-08",
+      "source_start_line": 57,
+      "source_end_line": 61,
+      "source_anchor": "In that repetition, structure starts to flicker: laws, rules, \"truths.\" But perhaps these too are artifacts---beautiful, useful artifacts---arising not from divine decree but from statistical convergence inside a saturated possibility field.",
+      "claim": "Inflation, repetition and emergent law",
+      "status": "Rebuild inference",
+      "decision": "Inflation uses laws and spacetime; it does not derive them from a saturated possibility field. Effective laws offer a narrower real emergence analogy.",
+      "sources": [
+        "pdg2025inflation",
+        "anderson1972different"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-09",
+      "source_start_line": 65,
+      "source_end_line": 75,
+      "source_anchor": "In physics, this shows up as **symmetry** (often gauge symmetry): the idea that certain transformations leave the underlying story unchanged. That \"looks the same here as there\" quality is part of what makes reality *feel* real.",
+      "claim": "Possibility-field expansion becomes gauge symmetry",
+      "status": "Rebuild inference",
+      "decision": "Expansion, volume and field already import physical structure. Repetition is not a derivation of gauge symmetry.",
+      "sources": [
+        "tong2006qft"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-10",
+      "source_start_line": 77,
+      "source_end_line": 79,
+      "source_anchor": "According to special relativity (and ordinary sanity), this bubbling happens differently everywhere, constrained by the speed of light. Or, turned around: inconsistency would have to travel faster than light to break the illusion. If the universe is a scam, it is at least a locally consistent one.",
+      "claim": "Inconsistency would have to travel faster than light",
+      "status": "Remove assertion",
+      "decision": "Relativistic causal structure supplies no such logical-consistency theorem. Keep the scam joke only with a different physical premise.",
+      "sources": [
+        "carroll1997gr"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-11",
+      "source_start_line": 85,
+      "source_end_line": 87,
+      "source_anchor": "In a sea of infinite possibilities, the **Anthropic Principle** says we only wake up in regions where waking up is possible. Minds require patterns, consistency, something like logic. So of course, we find ourselves in a patch where those things exist. Where else could we be---in a universe where electrons occasionally turn into hamsters for no reason? Those don't build telescopes.",
+      "claim": "Anthropic observer restriction",
+      "status": "Retain with scope",
+      "decision": "An observer-selection condition neither proves an ensemble nor selects its probability measure. Distinguish physical regularities from mathematical axioms.",
+      "sources": [
+        "carter1974anthropic"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-12",
+      "source_start_line": 89,
+      "source_end_line": 89,
+      "source_anchor": "Add **Occam's bias**---the simple fact that the simplest routes through possibility space are overwhelmingly more common than the Rube Goldberg ones---and you get a patch that not only permits minds, but does so in the least contrived way. We experience it as elegance:",
+      "claim": "Simple routes are overwhelmingly common",
+      "status": "Original selection conjecture",
+      "decision": "Latest author clarification: existence as a search problem at all levels. A simplicity-favouring search requires an explicit weighting assumption; compare description and runtime priors.",
+      "sources": [
+        "solomonoff1964inference",
+        "schmidhuber2000algorithmic"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-13",
+      "source_start_line": 91,
+      "source_end_line": 93,
+      "source_anchor": "On this view, the laws don't precede the expansion; they *fall out* of it. Or more modestly: the laws we write down are just the ways we compress repeated regularities. They are what simplicity looks like once we've learned to formalize it.",
+      "claim": "Laws precede or follow the universe",
+      "status": "Retain / distinguish",
+      "decision": "Separate description, effective emergence and ontological dependence from literal temporal emergence after expansion. The unnamed simplicity slogan needs no Einstein attribution.",
+      "sources": [
+        "lewis1994humean",
+        "anderson1972different"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-14",
+      "source_start_line": 95,
+      "source_end_line": 99,
+      "source_anchor": "Even within our Anthropic patch, Occam keeps working. Among all the regions that could host minds like ours, we almost certainly occupy one of the cheapest: the minimal rule set that still allows observers. The laws we admire for their elegance and compressibility are not preconditions for expansion so much as residue---what's left after the gaudy, overcomplicated options fail the probability test.",
+      "claim": "We almost certainly inhabit the cheapest observer-world",
+      "status": "Unsupported probability",
+      "decision": "Observer selection plus an unspecified simplicity preference does not establish this near-certainty. State it as the proposed economy, not a result.",
+      "sources": [
+        "carter1974anthropic",
+        "schmidhuber2000algorithmic"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-15",
+      "source_start_line": 101,
+      "source_end_line": 105,
+      "source_anchor": "This Everett-flavored continuity is what Occam's efficiency looks like in time: the inertia of simplicity choosing the least contrived next frame.",
+      "claim": "Nearest states, entropy and Everett",
+      "status": "Replace physical derivation",
+      "decision": "Remove the claimed equivalence. Stationary action is a limited scientific comparison; it is not Occam selecting successive states.",
+      "sources": [
+        "feynman1964action",
+        "everett1957relative",
+        "schlosshauer2005decoherence"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-16",
+      "source_start_line": 107,
+      "source_end_line": 109,
+      "source_anchor": "Perhaps, in some formulations, we do---but a world with no change is a world with no information. If nothing changes, nothing is noticed; if nothing is noticed, there's nothing to say. At least that's how our little Anthropic patch seems to behave: the early near-uniformity of the Big Bang, plus expansion, set things in motion, and in this neighborhood we don't see any simple, low-cost way for all that dynamics to hit the brakes at once. To \"stop\" time would be to erase the very idea of time. We'll dig deeper into this when we reach Interlude 12 on time and entropy.",
+      "claim": "A changeless world has no information",
+      "status": "Narrow",
+      "decision": "A static record may encode information. Distinguish an unchanging description from an evolving clock or observer; defer the fuller argument to Interlude 12.",
+      "sources": []
+    },
+    {
+      "id": "v1-01c-physics-review-17",
+      "source_start_line": 111,
+      "source_end_line": 119,
+      "source_anchor": "Whether you file that under biocentrism, Tegmark, Barbour, or \"shut up and calculate\" with added philosophy, the labels are less important than the picture: a universe where regularity is not given *to* us, but shared *with* us---because only in such regions could anything like \"us\" appear at all.",
+      "claim": "Energy as possibility cost and interpretive name-list",
+      "status": "Reframe / source pending",
+      "decision": "Energy requires its physical definition before a cost metaphor. Tegmark, Barbour and biocentrism are not interchangeable labels; identify a particular claim or omit the name.",
+      "sources": [
+        "tong2006qft",
+        "tegmark2008universe"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-18",
+      "source_start_line": 123,
+      "source_end_line": 135,
+      "source_anchor": "-   law experienced as world.",
+      "claim": "Reality as an ongoing weave",
+      "status": "Philosophical image",
+      "decision": "Preserve the weave; becoming versus a complete spacetime description is not decided by the metaphor. Avoid presenting recurrence as proof of self-generation.",
+      "sources": []
+    },
+    {
+      "id": "v1-01c-physics-review-19",
+      "source_start_line": 137,
+      "source_end_line": 149,
+      "source_anchor": "-   There is no external scaffolding---the \"stage\" *is* the actors, and the actors *are* the stage.",
+      "claim": "Relativity and identity of stage with actors",
+      "status": "Retain / correct",
+      "decision": "Geometry is dynamical, but vacuum gravitational geometry is possible. Do not identify all geometry with matter.",
+      "sources": [
+        "carroll1997gr"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-20",
+      "source_start_line": 151,
+      "source_end_line": 165,
+      "source_anchor": "The universe requires no container. It contains itself. Its shape---whether finite or infinite---defines all that shape can mean.",
+      "claim": "No before, no outside, time began",
+      "status": "Qualify materially",
+      "decision": "No external container is required; an absolute beginning of time is not experimentally established. Competing origin/bounce proposals remain model-dependent.",
+      "sources": [
+        "carroll1997gr",
+        "hartlehawking1983wavefunction",
+        "ashtekar2006bounce"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-21",
+      "source_start_line": 167,
+      "source_end_line": 183,
+      "source_anchor": "In that sense, Occam's Razor is less a sacred law than a house rule: we favor the description that **wastes the least explanatory effort** for the problem at hand. In our patch, the uniformity of physics looks like a bargain: a small set of rules that buy us a very large, very stable weave.",
+      "claim": "Uniformity, complexity and entropy",
+      "status": "Separate notions",
+      "decision": "Retain the economical-description intuition. Thermodynamic entropy, description length and simplicity of a probability distribution are different quantities.",
+      "sources": [
+        "solomonoff1964inference"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-22",
+      "source_start_line": 185,
+      "source_end_line": 199,
+      "source_anchor": "This is the **horizon problem**: distant patches behaving as though they once shared a thermostat.",
+      "claim": "CMB smoothness and horizon problem",
+      "status": "Retain with observational scope",
+      "decision": "Separate same laws from similar conditions. Quote anisotropies as order 10^-5 with dipole/foreground context, not a universal exact bound.",
+      "sources": [
+        "planck2020overview",
+        "pdg2025inflation"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-23",
+      "source_start_line": 201,
+      "source_end_line": 207,
+      "source_anchor": "The universe looks as though it has been ironed and decluttered before the curtain rose..",
+      "claim": "Flatness and relic problems",
+      "status": "Retain with model scope",
+      "decision": "Spatial curvature and unwanted relics motivate inflation; relic predictions depend on the underlying particle model.",
+      "sources": [
+        "guth1981inflation"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-24",
+      "source_start_line": 209,
+      "source_end_line": 219,
+      "source_anchor": "-   The result is a universe that looks remarkably similar in all directions because it all came from one well-mixed nursery.",
+      "claim": "Guth date, plateau and smoothing",
+      "status": "Correct history / mechanism",
+      "decision": "Distinguish original false-vacuum inflation, published 1981, from later slow roll; avoid simple temperature-ironing as the whole account.",
+      "sources": [
+        "guth1981inflation",
+        "pdg2025inflation"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-25",
+      "source_start_line": 221,
+      "source_end_line": 231,
+      "source_anchor": "All from a short burst of \"space on cheap steroids.\"",
+      "claim": "Superluminal separation, horizon and flatness",
+      "status": "Retain with scope",
+      "decision": "Metric expansion is not local faster-than-light signalling; frame proposed resolutions within the inflationary model.",
+      "sources": [
+        "pdg2025inflation"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-26",
+      "source_start_line": 233,
+      "source_end_line": 255,
+      "source_anchor": "The universe didn't have to be *chosen* this way; it only had to *arrive* in a configuration where this trick naturally ran.",
+      "claim": "Inflation common because cheap; laws take hold",
+      "status": "Rebuild",
+      "decision": "Aesthetic economy is not a probability measure over setups, and inflation assumes dynamics. Remove the asserted derivation of laws.",
+      "sources": [
+        "schmidhuber2000algorithmic",
+        "pdg2025inflation"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-27",
+      "source_start_line": 257,
+      "source_end_line": 269,
+      "source_anchor": "Inflation is generous: it gives you both **uniformity of law** and **enough imperfection** to build stars, planets, and the occasional teenager.",
+      "claim": "Fluctuations seed structure; uniformity of law",
+      "status": "Retain first / repair second",
+      "decision": "Keep the model’s perturbation-to-structure account. Replace uniformity of law with large-scale conditions.",
+      "sources": [
+        "pdg2025inflation",
+        "planck2020overview"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-28",
+      "source_start_line": 271,
+      "source_end_line": 291,
+      "source_anchor": "And somewhere in that cooled bubble, a child looks around, feels that something is off, and starts to suspect there's a monster hidden in all this existence---even as the grown-up version learns to call some of it \"inflation,\" some of it \"Guth,\" and some of it \"good enough for now.\"",
+      "claim": "Eternal inflation equals all possibility",
+      "status": "Separate proposals",
+      "decision": "Some inflationary models admit continued production of regions; this neither exhausts logical possibility nor identifies Everettian branches.",
+      "sources": [
+        "guth2007eternal"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-29",
+      "source_start_line": 295,
+      "source_end_line": 303,
+      "source_anchor": "Symmetry gives the world repeatability, predictability---the very notion that experiments are worth repeating. It tells us that the equations care about relationships, not absolute positions. The universe doesn't have favorites; it has patterns. And the idea of reality, of familiarity, of survival, of storage, even consciousness, is simply being able to perform multiple experiments and finding them as expected.",
+      "claim": "Symmetry as sameness everywhere",
+      "status": "Clarify",
+      "decision": "Specify transformation and controlled conditions. Symmetry of laws differs from symmetry of a state; neither is equivalent to familiarity or consciousness.",
+      "sources": [
+        "tong2006qft"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-30",
+      "source_start_line": 305,
+      "source_end_line": 307,
+      "source_anchor": "In 1915, when the world was coming apart at the seams, Emmy Noether quietly discovered why it hadn't already. She proved that every symmetry implies a conservation law.",
+      "claim": "Noether 1915; every symmetry",
+      "status": "Correct",
+      "decision": "Use 1918 theorem; continuous action symmetries under relevant assumptions, not every discrete transformation.",
+      "sources": [
+        "noether1918invariant"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-31",
+      "source_start_line": 309,
+      "source_end_line": 317,
+      "source_anchor": "Noether didn't just tidy up physics; she revealed that the very stability of the universe is a bookkeeping trick. Conservation isn't an extra rule---it's the receipt you get for paying with symmetry.",
+      "claim": "Noether examples and charge",
+      "status": "Narrow",
+      "decision": "Time translation is not time reversal. Treat global charges and local gauge redundancy carefully; cosmic total energy needs extra conditions.",
+      "sources": [
+        "noether1918invariant",
+        "tong2006qft"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-32",
+      "source_start_line": 319,
+      "source_end_line": 319,
+      "source_anchor": "Of course, her theorem was so elegant that most of her male contemporaries tried to take credit for it, or worse, \"honor\" her by ignoring it for twenty years. Physicists can be sentimental that way. But without her, our equations would still be holding their pants up with string.",
+      "claim": "Most men stole or ignored Noether’s work",
+      "status": "Replace unsupported history",
+      "decision": "Keep documented institutional exclusion; do not allege generalized credit theft. Her supporters are part of the record.",
+      "sources": [
+        "rowe2024noether"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-33",
+      "source_start_line": 321,
+      "source_end_line": 325,
+      "source_anchor": "An electron, for instance, isn't a marble rolling through space---it's a representation of the Lorentz group, performing a highly choreographed dance that looks the same from any angle or speed. The deeper you look, the more physics starts to resemble theatre: invariant lighting, rehearsed transformations, no refunds.",
+      "claim": "Electron is a Lorentz-group representation",
+      "status": "Correct precision",
+      "decision": "Distinguish relativistic one-particle Poincaré representations from Lorentz transformation rules for fields.",
+      "sources": [
+        "wigner1939representations",
+        "tong2006qft"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-34",
+      "source_start_line": 327,
+      "source_end_line": 327,
+      "source_anchor": "These symmetries---rotational, translational, gauge---are what make quantum fields hum in tune. The Higgs field itself exists to restore a broken harmony---less a heroic solo than the steady metronome that keeps the rest of the band from drifting apart.",
+      "claim": "Higgs restores broken harmony",
+      "status": "Replace mechanism",
+      "decision": "Use its vacuum value and electroweak mass mechanism; avoid purpose-language as a scientific explanation.",
+      "sources": [
+        "pdg2025higgs",
+        "durr2008hadron"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-35",
+      "source_start_line": 329,
+      "source_end_line": 337,
+      "source_anchor": "The Anthropic Principle explains why those six sit in such suspiciously life-friendly ranges: only in patches like that can creatures arise who count constants for a living. Occam's Razor has a different job. It informs that the fact there are *six* knobs instead of sixty or six hundred is no miracle at all---just the universe taking the shortest workable recipe. Fine-tuning lives on the Anthropic side; the smallness of the tuning panel is Occam's contribution.",
+      "claim": "Six constants; razor-thin tuning; Occam chooses six",
+      "status": "Rebuild",
+      "decision": "Rees’s selection is not a census. Specify varied parameters and vacuum-energy units; no lottery odds without a prior. Rees locator pending.",
+      "sources": [
+        "weinberg2000cc",
+        "lahde2020triplealpha"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-36",
+      "source_start_line": 339,
+      "source_end_line": 345,
+      "source_anchor": "Soon, the universe would find one. It would appear as a tiny asymmetry, a hairline fracture in perfection. And a young woman in a physics lab would one day circle that fracture in pencil.",
+      "claim": "Perfect symmetry is unstable",
+      "status": "Remove universal claim",
+      "decision": "State-specific instability and explicit CP violation differ. The transition to mother can preserve the motif without a general instability theorem.",
+      "sources": [
+        "pdg2025higgs",
+        "pdg2025cp"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-37",
+      "source_start_line": 349,
+      "source_end_line": 349,
+      "source_anchor": "Before she came to fetch me on that Fokker flight, my mother had spent a year tracing ghosts. She was nineteen, working at Yale's High Energy Physics Lab, scanning miles of photographic film for faint signs of particle collisions. The data came from Brookhaven---an \"island,\" she told me later, as if that explained why the particles there behaved like castaways. Each roll unspooled the after-image of an impact: white scratches on black emulsion, some two-pronged, some three. She'd circle the rare ones---the prize events, the little rebels that refused to fit the templates.",
+      "claim": "Mother’s work and chronology",
+      "status": "Protected author provenance",
+      "decision": "Author clarifies work approximately two years after the discoveries. Preserve remembered employment and film-scanning; exact assignment is still unknown.",
+      "sources": []
+    },
+    {
+      "id": "v1-01c-physics-review-38",
+      "source_start_line": 351,
+      "source_end_line": 355,
+      "source_anchor": "To me, looking back, it feels like that pencil stroke may have been the first time I existed---not as flesh, but as a possibility in the grammar of matter, a metaphorical quark penciled into the sentence before the rest of me was written. It was the same family of events that, a couple of years earlier, had given the quark model its proof and taught reality to conjugate in triplets.",
+      "claim": "Ω photograph, Eightfold Way, quark proof",
+      "status": "Correct / preserve possibility",
+      "decision": "A three-pronged appearance is not unique identification. Credit Ne’eman; distinguish successful symmetry prediction from establishing quark substructure. Mother’s involvement remains possible, not documented.",
+      "sources": [
+        "bnl1964omega",
+        "gross2004qcd"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-39",
+      "source_start_line": 357,
+      "source_end_line": 359,
+      "source_anchor": "The Ω-minus sits at the heavy end of the baryon octet: three strange quarks bound by gluons in perfect color balance. Its discovery was the universe admitting that even chaos obeys syntax. Each baryon, meson, and lepton would soon find its place in a symmetry group---*SU(3) × SU(2) × U(1)*---a tidy algebraic lattice that physicists came to call the **Standard Model**.",
+      "claim": "Ω in octet; flavour and colour groups",
+      "status": "Correct",
+      "decision": "Ω− is in the spin-3/2 decuplet, with sss valence content. Distinguish flavour SU(3) from colour SU(3), and hadrons from leptons.",
+      "sources": [
+        "pdg2025quark"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-40",
+      "source_start_line": 361,
+      "source_end_line": 365,
+      "source_anchor": "You could say the universe discovered diversity the moment she invented quarks. And, in keeping with her later habits, she immediately complicated matters by insisting that no quark could ever appear alone. Confinement was the first social contract of reality: individuality forbidden, cooperation mandatory.",
+      "claim": "Colour, flavour and confinement",
+      "status": "Clarify",
+      "decision": "Quantum labels are not merely arbitrary clerical devices. No isolated colour-charged asymptotic particles is the relevant confinement statement; do not make it a literal universal ban on individuality.",
+      "sources": [
+        "pdg2025quark"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-41",
+      "source_start_line": 367,
+      "source_end_line": 373,
+      "source_anchor": "And soon, my mother would circle that crookedness itself.",
+      "claim": "Gluons visible; Ω fragility breaks laws",
+      "status": "Separate image and inference",
+      "decision": "Gluons are not film tracks; Ω decay follows physical dynamics rather than proving laws are crooked. Keep the narrator’s retrospective reading.",
+      "sources": [
+        "bnl1964omega",
+        "pdg2025quark"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-42",
+      "source_start_line": 375,
+      "source_end_line": 377,
+      "source_anchor": "The second circle---if she ever drew it---may have come on a different afternoon, perhaps a little later in that same dim lab, the fluorescent lights humming their own monotonous version of the cosmic microwave background. Another roll of Brookhaven film, another storm of silver trails. Two faint lines diverging like an afterthought: a neutral kaon decay that refused to behave. The same decay that a couple of years ago, as I started my own journey as an embryo, revealed the CP violation -- a small asymmetry that carried the weight of a heresy.",
+      "claim": "Second afternoon; two tracks identify CP",
+      "status": "Unverified scene / correct inference",
+      "decision": "No specific later CP assignment is established. Two tracks alone do not identify CP violation; the original evidence required selected kaons, kinematics and statistics.",
+      "sources": [
+        "christenson1964cp",
+        "bnl1980cp"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-43",
+      "source_start_line": 379,
+      "source_end_line": 379,
+      "source_anchor": "But we start with the original heresy. Only a decasde earlier, physicists had convinced themselves that nature was perfectly ambidextrous. Every left-handed process had a right-handed twin. Then, in 1956, Chien-Shiung Wu showed otherwise: cobalt-60 atoms preferred to spit electrons in one direction when placed in a magnetic field. **Parity---P symmetry---was broken.** The mirror lied.",
+      "claim": "Wu 1956 magnetic-field asymmetry",
+      "status": "Correct date / mechanism",
+      "decision": "Late-1956 work, 1957 publication; describe electron emission relative to polarized nuclear spin.",
+      "sources": [
+        "wu1957parity"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-44",
+      "source_start_line": 381,
+      "source_end_line": 383,
+      "source_anchor": "That's the moment I imagine my mother's second circle marking: not discovery, but confirmation. She may have been cataloging the anomaly that let the universe keep its atoms. Without that small betrayal of symmetry, every particle would have met its antiparticle in a final, nihilistic embrace, and nothing---no stars, no planets, no carbon, no me---would have remained to notice.",
+      "claim": "CP is a matter bias that saved every atom",
+      "status": "Replace causal claim",
+      "decision": "C conjugates internal quantum numbers; the kaon result is not a demonstration of cosmic baryogenesis. Annihilation leaves radiation.",
+      "sources": [
+        "pdg2025cp",
+        "riottotroden1999baryogenesis"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-45",
+      "source_start_line": 385,
+      "source_end_line": 391,
+      "source_anchor": "I like to think my mother's pencil caught that limp -- in a post hoc fashion. The track she circled was the signature of imperfection, a scratch of bias in an otherwise indifferent cosmos. A small prejudice in favor of something over nothing. She didn't know it then, but she was literally circling my material existence.",
+      "claim": "CKM angle; literal circling of existence",
+      "status": "Correct / retain figuratively",
+      "decision": "Use CP-violating phase. Do not infer matter excess from CP violation alone; literal should become a clear retrospective image.",
+      "sources": [
+        "pdg2025cp"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-46",
+      "source_start_line": 393,
+      "source_end_line": 401,
+      "source_anchor": "She finished her shift, circled her last anomaly, and packed up to come get me. Somewhere between that film and that Fokker flight, the universe's favor toward matter had symbolically compounded through her, into me.",
+      "claim": "Insufficient CP; perfection cannot persist; last shift",
+      "status": "Repair logical conflict / chronology",
+      "decision": "The later qualification does not fix earlier overclaims. Do not turn a missing baryogenesis mechanism into universal imperfection theology; preserve only author-supported last-shift detail.",
+      "sources": [
+        "pdg2025cp",
+        "riottotroden1999baryogenesis"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-47",
+      "source_start_line": 403,
+      "source_end_line": 407,
+      "source_anchor": "The **Standard Model** had given us the pattern: twelve fermions dancing to the tune of four forces, their symmetries preserved in an abstract score of *SU(3) × SU(2) × U(1)*. But it was an incomplete symphony. One instrument kept playing off-key: gravity. General relativity described it not as a force but as a curvature---geometry itself responding to mass-energy. The other forces lived happily in quantum field theory, where uncertainty was the rule. Marrying the two has been the longest courtship in science, one that has yet to produce an heir.",
+      "claim": "Standard Model has four forces",
+      "status": "Correct",
+      "decision": "It describes three interactions and excludes gravity. Explain what twelve fermion species counts, or omit the inventory here.",
+      "sources": [
+        "tong2006qft",
+        "pdg2025higgs"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-48",
+      "source_start_line": 409,
+      "source_end_line": 415,
+      "source_anchor": "LQG has the virtue of restraint: no extra dimensions, no cosmic strings, just quantized geometry. It's a theory that behaves like an engineer---minimal assumptions, maximum stubbornness. You could say it's general relativity learning to speak quantum, with a thick accent.",
+      "claim": "LQG pixels; automatic Big Bounce",
+      "status": "Qualify",
+      "decision": "Spin-network geometry is not a fixed spatial pixel lattice; cite a particular cosmological bounce model, not a universal demonstrated prehistory.",
+      "sources": [
+        "rovellismolin1995geometry",
+        "ashtekar2006bounce"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-49",
+      "source_start_line": 417,
+      "source_end_line": 421,
+      "source_anchor": "Then there are the hybrids---**Causal Dynamical Triangulations**, where spacetime is built from evolving simplices, and **Emergent Gravity**, which treats space and gravity not as fundamentals but as bookkeeping for entanglement and information flow. Each proposal is a new kind of loom: spin networks, strings, triangles, bits.",
+      "claim": "Strings, dimension counts, vacua and CDT hybrid",
+      "status": "Repair",
+      "decision": "Open/closed strings; distinguish superstrings and M-theory. Drop unsupported landscape count. CDT is a distinct approach, not a string-loop hybrid.",
+      "sources": [
+        "tong2009strings",
+        "ambjorn2004cdt"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-50",
+      "source_start_line": 423,
+      "source_end_line": 423,
+      "source_anchor": "None yet weave the whole cloth. But together they suggest a pattern: that *space-time itself may be a derived property*---a condensation of something deeper, perhaps informational, perhaps probabilistic, perhaps relational.",
+      "claim": "Spacetime may be derived",
+      "status": "Retain as research possibility",
+      "decision": "Theoretical emergence results motivate the question within their frameworks; they do not establish our universe’s actual origin.",
+      "sources": [
+        "vanraamsdonk2010spacetime"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-51",
+      "source_start_line": 425,
+      "source_end_line": 433,
+      "source_anchor": "We are all born from the same supernova sermon. Some of us go on to think, others to compute, and a few, apparently, to narrate.",
+      "claim": "First carbon, triple collision, universal supernova",
+      "status": "Correct / preserve imagined journey",
+      "decision": "Do not require second-generation stars or an impossible simultaneous encounter. Give the resonance-mediated process; distinguish imagined atom biography from reconstructed provenance.",
+      "sources": [
+        "lahde2020triplealpha"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-52",
+      "source_start_line": 435,
+      "source_end_line": 447,
+      "source_anchor": "Reality, in this light, isn't *given*---it's *iterated*. Every law is a cached result, every particle a proof-of-concept. The cosmos is open-source, but the compiler never stops running.",
+      "claim": "Dirac completeness produces coherence; all law cached",
+      "status": "Delete false correspondence / retain metaphor",
+      "decision": "There is no standard coherence-from-mathematical-completeness result. The computational cosmos remains your interpretation, not a synthesis established by these theories.",
+      "sources": [
+        "tong2006qft",
+        "schlosshauer2005decoherence"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-53",
+      "source_start_line": 451,
+      "source_end_line": 463,
+      "source_anchor": "At around the same time, in nearby in Brookhaven, the omega-minus and CP-violation discoveries were taking place.",
+      "claim": "CMB discovery and exact personal simultaneity",
+      "status": "Separate chronology",
+      "decision": "Use 1964–1965 observations and 1965 publication. Mother’s later work, the discoveries and conception need distinct dates or appropriately loose transitions.",
+      "sources": [
+        "penziaswilson1965antenna",
+        "dicke1965cmb"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-54",
+      "source_start_line": 465,
+      "source_end_line": 471,
+      "source_anchor": "CP violation revealed a fundamental asymmetry in the laws of nature, where particles and their antiparticles do not behave identically. And as it was being discovered, my biological symmetry was broken: my embryo now had an arbitrary polarity.",
+      "claim": "Ω proved quarks; embryonic polarity analogy",
+      "status": "Correct / biology pending",
+      "decision": "The analogy may stay; the Ω result does not alone prove quark substructure, and embryo polarity is not the same mechanism as CP violation.",
+      "sources": [
+        "bnl1964omega"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-55",
+      "source_start_line": 473,
+      "source_end_line": 477,
+      "source_anchor": "Inflationary cosmology later explained that smoothness as exponential stretching---quantum jitters ballooned beyond any hope of causal contact, freezing irregularities into the faint anisotropies we now map like freckles on the face of eternity.",
+      "claim": "CMB proved beginning of time; early exact smoothness",
+      "status": "Correct",
+      "decision": "Hot-history evidence is not proof of an absolute origin. Separate original detection from subsequent precision anisotropy measurements.",
+      "sources": [
+        "penziaswilson1965antenna",
+        "planck2020overview",
+        "carroll1997gr"
+      ]
+    },
+    {
+      "id": "v1-01c-physics-review-56",
+      "source_start_line": 479,
+      "source_end_line": 485,
+      "source_anchor": "Somewhere in that mirror, sand began to dream of permanence.",
+      "claim": "Birth cell count; atoms practicing memory",
+      "status": "Metaphor / separate biology check",
+      "decision": "Keep Carbon-to-Silicon transition; verify the neonatal cell count separately. Atomic metaphor does not establish microscopic thought or memory in the psychological sense.",
+      "sources": []
+    }
+  ]
+}
