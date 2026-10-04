@@ -28,6 +28,14 @@ Author-editable notes for Delta and Chapters/Interludes 12–22. These are edito
 
 **Pending future source pass.** Check scientific analogies, broad evolutionary-psychology claims, clinical explanations, historical examples and epigraph attributions against their specific claims. The reading record does not validate them. Preserve the difference between metaphor, diagnosis, empirical result and the author's proposed design principle. The machinery-focused numbered interludes remain unread in this batch and cannot yet be credited with supplying missing evidence.
 
+## V2-007 — Systems and their machinery
+
+**Author direction recorded, 4 October 2026; interlude development pending.** The numbered chapters concern systems; interludes may examine the machinery/processes/science producing them, or machinery that becomes possible by harnessing them. Provisional examples: macrostate/macrostasis → time/change/stasis; microstate → particle physics and identity, then computing identity/credentials; hidden subsystems → quantum theory and quantum computing. These are candidate connections, not eleven finalized topic assignments.
+
+Interlude 12 can connect the physics of time and entropy to agricultural/biological rhythms, industrial scheduling, Gantt-style management, and the dependence of computation on timing. Preserve the author's distinction between humans organizing time and machines requiring it. Do not imply that Planck time is an established indivisible tick or that logic requires physically discrete time. CPU cycles are engineered timing; logical steps, sampling and physical time require distinction. Scientific links must be shown, not inferred from matching vocabulary. A hidden social subsystem is not thereby quantum.
+
+Delta remains the meta-level systems-thinking/caseboard setup. The author intends to develop the remaining numbered-interlude split subsequently. This task did not read or draft the numbered Volume II interludes. Original wording and scientific qualification are in [the intake](archive/2026-10-04-volume-spines-and-phi.md) and [Phi review](../PHI_FOUNDATIONS_REVIEW.md).
+
 ## New author notes
 
 <!-- Add notes here. -->

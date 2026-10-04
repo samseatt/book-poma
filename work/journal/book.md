@@ -102,3 +102,13 @@ Distinguish purpose/value, requirement, design principle, analysis method, archi
 ### B-014 — Civilizational design and system building: provisional emphasis
 
 **Author direction, still in flux.** The numbered chapters should principally offer design principles for designing civilization; the paired interludes should principally offer methodologies and patterns for building its enabling systems or its “silicon civilization.” Designer/builder is a useful shorthand, not a fixed division of disciplines. The builder of civilization and designer of its systems can overlap. Choose placement for the book's usefulness and the reader's task, not to defend a taxonomy. Building includes organizational and physical systems as well as software. The technical companion now records this qualification explicitly.
+
+## Volume spines and their setup pairs — 4 October 2026
+
+### B-015 — Three complementary splits, used for reader value
+
+**Author direction; detailed allocations remain provisional.** Volume I pairs civilization/Carbon and technology/Silicon, with personal moves and educational/professional life as their respective narrative emphases. Volume II pairs systems with machinery that produces, maintains or harnesses them. Volume III pairs civilizational design with building its enabling systems, and lived experience with work/Breadboard activity. These extend B-012/B-014 without turning emphasis into exclusive subject ownership.
+
+The Greek pairs work at the level of method: Phi supplies philosophical orientation and formal/empirical ways to represent and check; Delta supplies systems thinking and the caseboard; Theta supplies design thinking and the Breadboard. The Phi looking-glass role is an editorial recommendation, not a new adopted name. Avoid adding compulsory brands or explaining every recurring image at every entrance.
+
+See the [full Phi review](../PHI_FOUNDATIONS_REVIEW.md) and [original request](archive/2026-10-04-volume-spines-and-phi.md). **B-005 progress:** Prologue and both Phi pieces, including the open, have now been read completely. Other Volume I topical-body reading remains as previously recorded; this does not establish a full reread of Volume I. No manuscript was revised.

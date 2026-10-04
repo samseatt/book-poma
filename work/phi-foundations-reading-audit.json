@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-04",
+  "scope": "Phi structural assessment and journal intake; no manuscript edits",
+  "source_revision": "e19d8588c32a28cb53dc0ee1e0299b8b50c32bf5",
+  "fully_read": [
+    {
+      "path": "manuscripts/volume-1/prologue.md",
+      "sha256": "3d5631532771f5030730d0c32216c11d06e3e2822decd40d6670f726e5d22c48",
+      "lines": 46,
+      "inline_double_bracket_annotations": 0
+    },
+    {
+      "path": "manuscripts/volume-1/phi-open.md",
+      "sha256": "f438e9d82883122caaca199515044a4c0b28bf6ef2ca4881aee9073548326b78",
+      "lines": 21,
+      "inline_double_bracket_annotations": 0
+    },
+    {
+      "path": "manuscripts/volume-1/phi-chapter.md",
+      "sha256": "5af32346468c89e41dbdd290fd634baed4df8ab83bb292eb79928d0b1248207e",
+      "lines": 519,
+      "inline_double_bracket_annotations": 0
+    },
+    {
+      "path": "manuscripts/volume-1/phi-interlude.md",
+      "sha256": "5f23098b978f43658b0896c9deb06518c0d4a15de4dd5dabdf31892f1eee8244",
+      "lines": 438,
+      "inline_double_bracket_annotations": 0
+    }
+  ],
+  "adjacent_checks": {
+    "volume_1": [
+      "Chapter 1 and Interludes 1–3: openings/section headings",
+      "Interludes 4–11: titles, plus Interlude 11 opening only"
+    ],
+    "volume_2": [
+      "Delta chapter/interlude: openings and section headings; full reading previously recorded separately"
+    ],
+    "limitations": "This task did not read numbered Volume II interludes or reread all of Volume I."
+  },
+  "sources_consulted": [
+    "https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf",
+    "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf",
+    "https://periodic-table.rsc.org/element/12/magnesium",
+    "https://periodic-table.rsc.org/element/13/aluminium",
+    "https://www.postgresql.org/docs/current/functions-comparison.html",
+    "https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/",
+    "https://arxiv.org/abs/1812.01542"
+  ],
+  "source_check_limit": "Targeted checks of architectural claims, not exhaustive quotation, historical, scientific or autobiography verification.",
+  "preserved_uncommitted_author_file": {
+    "path": "manuscripts/volume-3/23-chapter.md",
+    "sha256": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6"
+  },
+  "next_work": "Author consideration, then scoped manuscript restructuring and factual repairs; no automatic publishing."
+}

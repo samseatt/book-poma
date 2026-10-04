@@ -1,6 +1,6 @@
 # Author journal
 
-Start in [inbox.md](inbox.md) if you do not want to sort a thought. Use [book.md](book.md) for recurring guidance and [volume-2.md](volume-2.md) or [volume-3.md](volume-3.md) for notes on a specific piece. Add plain text under any heading; dates, IDs and polished wording are optional. The editor will organize it when processing a batch. Other volume files can be added when those volumes enter active editing. The [reference workflow](../REFERENCE_WORKFLOW.md) governs source notes and future edition layouts.
+Start in [inbox.md](inbox.md) if you do not want to sort a thought. Use [book.md](book.md) for recurring guidance and [volume-1.md](volume-1.md), [volume-2.md](volume-2.md) or [volume-3.md](volume-3.md) for notes on a specific piece. Add plain text under any heading; dates, IDs and polished wording are optional. The editor will organize it when processing a batch. Other volume files can be added when those volumes enter active editing. The [reference workflow](../REFERENCE_WORKFLOW.md) governs source notes and future edition layouts.
 
 ## Three ways to contribute
 
