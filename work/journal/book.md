@@ -74,3 +74,13 @@ Factual personal scenes must remain faithful to memory and documented context; v
 **Policy established; backfill and print implementation pending.** Adopt [the reference workflow](../REFERENCE_WORKFLOW.md). Maintain stable native notes in canonical Markdown and a shared bibliographic database. Keep notes close to each unit online; place print notes at the back of the bound edition, grouped by chapter/interlude and by volume where necessary, followed by the edition's Works Cited. The publisher has assessed compatibility; grouped print endnotes remain future implementation work. No citation migration or publication was performed in this batch.
 
 **B-005 progress update:** Delta's chapter and interlude and all eleven numbered Volume II chapters have now been read in full, including appended legacy material. Numbered Volume II interludes were excluded as requested. This supersedes the earlier statement that all Volume II reading was pending. Full Volume I topical-body reading and later interlude review remain outstanding, so B-005 stays open. See [the audit](../volume-ii-reading-audit.json) and [Volume II journal](volume-2.md).
+
+## Vignette roles — 3 October 2026
+
+### B-012 — Living in the chapters; building in the interludes
+
+**Author direction.** For the projected personal openings, use the numbered chapters principally for lived, non-work experiences and reflections. Place the author's experiments, building activity and Breadboard development principally in the interludes. The chapters retain their substantial design spines; this distinction concerns the narrative viewpoint rather than excluding design from the chapter argument.
+
+A chapter and interlude may follow different sides of the same situation: what a person encounters, then what builders must understand and implement. Avoid replaying the whole scene or turning every personal experience into a project demonstration. This division should help vary the vignettes and preserve the narrator as a person with a life beyond constructing the proposed system.
+
+Chapter 23 now has a separate second opening/bridge review draft applying this direction. It has not been adopted into the manuscript, and the proposed Interlude 23 relocation remains pending.

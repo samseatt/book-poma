@@ -37,11 +37,26 @@ Use current numbering. Add raw notes below the relevant piece; the editor assign
 The review file retains the posted prose and separately records the subsequently welcomed separation/coordination line. It also captures the author's proposed Alberta separation, Canada–US tariffs and Davos connections, and planned Theta expansion covering the 2026 geopolitical/climate/Nepal/9–11/AI/Iran context. Those additions require their own factual treatment; no new 2029 political outcome is assumed. The existing historical section, inline notes and main manuscript are untouched.
 
 
+
+#### V3-023-C-002 — Personal opening and bridge, version 2
+
+**Review draft prepared 3 October 2026; adoption pending.** The author redirected the chapter toward personal, non-work reflection and reserved experimentation/Breadboard scenes for the interlude. The [second review draft](../volume-3-drafting/23-opening-and-bridge-review-v2-2026-10-03.md) follows an imagined Sunday walk, pharmacy errand and neighbour's kitchen visit. It retains the father's loss and the welcomed separation/coordination line, with more humour and emotional room. The early statement of conjecture protects the factual earlier-volume memories.
+
+The date is a verified Sunday. The new Alberta Time detail follows the announced November 2026 policy and assumes its continuation in the imagined 2029; sources and scenario limits are recorded with the draft. The Davos analogy is interpretation, not a quotation. Canonical prose and inline notes remain unchanged.
+
+**On adoption:** Reconcile the community-hall cast and callbacks in Chapter 23's later design text and ending. Those still describe the older opening and have not been rewritten in this limited review task.
+
+
 ### Interlude
 
 #### V3-023-I-001 — Deferred to Pass 3
 
 The author confirms that the second-person vignette is a lapse in the latest draft, not evidence that the wrong draft remains. Recast the relevant scene in first person during the planned vignette reconstruction. Do not globally replace “you” elsewhere; distinguish the vignette from intentional general address. Existing manuscript TODO remains pending.
+
+#### V3-023-I-002 — Reserve the experiment side for the interlude
+
+**Pending.** Per the author's new division of vignette roles, the first Chapter 23 review's civic experiment, coordination-room and volunteer-score material can inform Interlude 23. The [first review draft](../volume-3-drafting/23-opening-and-bridge-review-2026-10-03.md) preserves that material. Consider following the same pharmacy request from the builder's side, without repeating the chapter's domestic encounter. Actual interlude redrafting/transplantation has not been performed; its current second-person and weak-AI framing still need revision.
+
 
 ## 24 — Agency
 
