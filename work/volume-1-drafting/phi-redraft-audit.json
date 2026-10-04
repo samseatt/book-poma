@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-04",
+  "status": "Complete separate review drafts; canonical adoption pending",
+  "source_head": "3c137b87e34d5f82fc8f8feb2892746213dd86a7",
+  "source_snapshot": {
+    "head": "3c137b87e34d5f82fc8f8feb2892746213dd86a7",
+    "hashes": {
+      "manuscripts/volume-1/phi-chapter.md": "5af32346468c89e41dbdd290fd634baed4df8ab83bb292eb79928d0b1248207e",
+      "manuscripts/volume-1/phi-interlude.md": "5f23098b978f43658b0896c9deb06518c0d4a15de4dd5dabdf31892f1eee8244",
+      "manuscripts/volume-1/phi-open.md": "f438e9d82883122caaca199515044a4c0b28bf6ef2ca4881aee9073548326b78",
+      "manuscripts/volume-1/prologue.md": "3d5631532771f5030730d0c32216c11d06e3e2822decd40d6670f726e5d22c48",
+      "manuscripts/volume-3/23-chapter.md": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+      "work/journal/book.md": "97189fa2f666d0813cd86f98ae09c2f0e4399d1bb0ddab1a2d3c013103535e78",
+      "work/journal/volume-1.md": "dd55307541e944ef81c178cc2a5d4e6ff37d9b537592bd99c77dc20ea9c9a4a3",
+      "work/EDITORIAL_CONTEXT.md": "aa8df2a8867adb2c43679efc424ffd8eefa25eaa7ffb27b04dad650368bc985a",
+      "quarto/references.bib": "828a0efe860cbc4578136cce01a918f4bc28e58e14a93de0ebc812ad39f2af67"
+    },
+    "original_word_counts": {
+      "manuscripts/volume-1/phi-chapter.md": 6144,
+      "manuscripts/volume-1/phi-interlude.md": 3683
+    }
+  },
+  "drafts": {
+    "phi-chapter.review.md": {
+      "sha256": "5cb96365b48992226b1f433c0df5ca43deb33dca70d4548fe4a2397501ad0f27",
+      "body_words": 5285,
+      "total_markdown_words": 5944,
+      "note_count": 17,
+      "note_ids": [
+        "v1-phi-c-certainty",
+        "v1-phi-c-consciousness",
+        "v1-phi-c-memory",
+        "v1-phi-c-registration",
+        "v1-phi-c-language",
+        "v1-phi-c-institutions",
+        "v1-phi-c-gettier",
+        "v1-phi-c-hume",
+        "v1-phi-c-certainty-background",
+        "v1-phi-c-validity",
+        "v1-phi-c-empty",
+        "v1-phi-c-null",
+        "v1-phi-c-russell",
+        "v1-phi-c-hilbert",
+        "v1-phi-c-godel",
+        "v1-phi-c-godel-extension",
+        "v1-phi-c-companions"
+      ]
+    },
+    "phi-interlude.review.md": {
+      "sha256": "02ab27ffb7287232f4d69a8dac6a19dbe96b76d3a5b210206f0c8ce73cac8a12",
+      "body_words": 3952,
+      "total_markdown_words": 4765,
+      "note_count": 20,
+      "note_ids": [
+        "v1-phi-i-sets",
+        "v1-phi-i-null",
+        "v1-phi-i-structure",
+        "v1-phi-i-logic",
+        "v1-phi-i-calculus",
+        "v1-phi-i-godel-coding",
+        "v1-phi-i-rosser",
+        "v1-phi-i-godel-consistency",
+        "v1-phi-i-turing",
+        "v1-phi-i-halting",
+        "v1-phi-i-metrology",
+        "v1-phi-i-decoherence",
+        "v1-phi-i-quantum-records",
+        "v1-phi-i-popper",
+        "v1-phi-i-duhem",
+        "v1-phi-i-reproduction",
+        "v1-phi-i-bayes",
+        "v1-phi-i-pvalues",
+        "v1-phi-i-switching",
+        "v1-phi-i-learning-proof"
+      ]
+    }
+  },
+  "sources": 31,
+  "notes": 37,
+  "checks": {
+    "native_notes": "All references resolve; no duplicate or canonical-colliding IDs",
+    "assets": "All relative image references resolve at intended final paths",
+    "markup": "Both drafts converted with bundled Pandoc x86_64 to HTML without warnings; all notes present",
+    "bibliography": "31 BibTeX entries parsed to CSL JSON",
+    "examples": "Detector arithmetic and propositional inference checked",
+    "protected_files": "All snapshot files match before repository writes"
+  },
+  "limits": [
+    "No canonical adoption",
+    "No publication or Quarto-project render",
+    "No print-layout certification",
+    "Source verification is passage-level; not every cited work read in full",
+    "Autobiographical uncertainties remain author-owned"
+  ]
+}

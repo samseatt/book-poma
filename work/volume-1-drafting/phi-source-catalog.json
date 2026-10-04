@@ -1,0 +1,666 @@
+{
+  "as_of": "2026-10-04",
+  "status": "Separate review drafts; no canonical adoption or publication",
+  "sources": {
+    "wittgenstein1969certainty": {
+      "type": "book",
+      "author": "Wittgenstein, Ludwig",
+      "title": "On Certainty",
+      "year": "1969",
+      "url": "https://circuitdebater.org/w/archive_files/On%20Certainty.pdf/507953768/On%20Certainty.pdf",
+      "locator_checked": "§§114–115, 147–150, 253",
+      "verification": "Primary English text; epigraph checked verbatim at §253.",
+      "accessed": "2026-10-04",
+      "publisher": "Basil Blackwell",
+      "editor": "Anscombe, G. E. M. and von Wright, G. H.",
+      "translator": "Paul, Denis and Anscombe, G. E. M."
+    },
+    "wittgenstein1953investigations": {
+      "type": "book",
+      "author": "Wittgenstein, Ludwig",
+      "title": "Philosophical Investigations",
+      "year": "1953",
+      "url": "https://www.wittgensteinnachlass.com/en/w-pi/",
+      "locator_checked": "§§7, 23, 43",
+      "verification": "Primary work in a modern electronic presentation; no quotation attributed to a particular English translation.",
+      "accessed": "2026-10-04",
+      "note": "Original publication 1953; consulted multilingual electronic text."
+    },
+    "schacter2013memory": {
+      "type": "article",
+      "author": "Schacter, Daniel L.",
+      "title": "Memory: Sins and Virtues",
+      "year": "2013",
+      "url": "https://dash.harvard.edu/server/api/core/bitstreams/7312037d-2c2c-6bd4-e053-0100007fdf3b/content",
+      "locator_checked": "Accepted-manuscript discussion of constructive episodic simulation, PDF pp. 7–8",
+      "verification": "Author manuscript checked for constructive memory and adaptive uses; does not verify the author’s autobiography.",
+      "accessed": "2026-10-04",
+      "journal": "Annals of the New York Academy of Sciences",
+      "volume": "1303",
+      "number": "1",
+      "pages": "56--60",
+      "doi": "10.1111/nyas.12168"
+    },
+    "sethbayne2022consciousness": {
+      "type": "article",
+      "author": "Seth, Anil K. and Bayne, Tim",
+      "title": "Theories of Consciousness",
+      "year": "2022",
+      "url": "https://michaelpollan.com/wp-content/uploads/2026/02/SethBayne_NRN_accepted.pdf",
+      "locator_checked": "Table 1; Figure 3; Box 1 in the accepted manuscript",
+      "verification": "Author review checked for the plurality of theories and predictive approaches. No settled theory of subjective experience is asserted.",
+      "accessed": "2026-10-04",
+      "journal": "Nature Reviews Neuroscience",
+      "volume": "23",
+      "pages": "439--452",
+      "doi": "10.1038/s41583-022-00587-4"
+    },
+    "gettier1963knowledge": {
+      "type": "article",
+      "author": "Gettier, Edmund L.",
+      "title": "Is Justified True Belief Knowledge?",
+      "year": "1963",
+      "url": "https://www.caphi-philo.fr/wp-content/uploads/2015/01/Gettier_1963_Is_Justified_True_Belief_Knowledge-d75.pdf",
+      "locator_checked": "Cases I and II, pp. 121–123",
+      "verification": "Primary paper checked. The draft’s stopped-clock illustration is not attributed to Gettier as one of these cases.",
+      "accessed": "2026-10-04",
+      "journal": "Analysis",
+      "volume": "23",
+      "number": "6",
+      "pages": "121--123"
+    },
+    "hume1748enquiry": {
+      "type": "book",
+      "author": "Hume, David",
+      "title": "An Enquiry Concerning Human Understanding",
+      "year": "1748",
+      "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+      "locator_checked": "Section IV, Part II; Section V, Part I",
+      "verification": "Primary text on inference beyond experience and habit. Citation uses section locators across editions.",
+      "accessed": "2026-10-04",
+      "note": "First published in 1748 under the title Philosophical Essays Concerning Human Understanding."
+    },
+    "searle2015status": {
+      "type": "article",
+      "author": "Searle, John R.",
+      "title": "Status functions and institutional facts: reply to Hindriks and Guala",
+      "year": "2015",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B19855351F1963B0DFB3BE78E17C3CA5/S1744137414000629a.pdf/status_functions_and_institutional_facts_reply_to_hindriks_and_guala.pdf",
+      "locator_checked": "Opening discussion, pp. 507–509",
+      "verification": "Primary statement of Searle’s account; attributed as an account, not treated as the sole theory of institutions.",
+      "accessed": "2026-10-04",
+      "journal": "Journal of Institutional Economics",
+      "volume": "11",
+      "number": "3",
+      "pages": "507--514",
+      "doi": "10.1017/S1744137414000629"
+    },
+    "aristotleprioranalytics": {
+      "type": "book",
+      "author": "Aristotle",
+      "title": "Prior Analytics",
+      "year": "",
+      "url": "https://classics.mit.edu/Aristotle/prior.1.i.html",
+      "locator_checked": "Book I, chapters 1 and 4",
+      "verification": "Primary text in A. J. Jenkinson’s translation; historical account of necessary consequence, not modern terminology.",
+      "accessed": "2026-10-04",
+      "translator": "Jenkinson, A. J."
+    },
+    "lehman2018mcs": {
+      "type": "book",
+      "author": "Lehman, Eric and Leighton, F. Thomson and Meyer, Albert R.",
+      "title": "Mathematics for Computer Science",
+      "year": "2018",
+      "url": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
+      "locator_checked": "§1.4.1 (p. 10); §§4.1, 4.5 (pp. 103–105, 115); chapter 12 opening and §12.1 (pp. 501–502)",
+      "verification": "Author textbook, revision dated 6 June 2018; specified passages checked locally in the original PDF. The prose’s worked examples are newly constructed.",
+      "accessed": "2026-10-04",
+      "institution": "Massachusetts Institute of Technology",
+      "note": "Revision of 6 June 2018; CC BY-SA 3.0."
+    },
+    "postgres18comparison": {
+      "type": "misc",
+      "author": "{PostgreSQL Global Development Group}",
+      "title": "PostgreSQL 18 Documentation: Comparison Functions and Operators",
+      "year": "",
+      "url": "https://www.postgresql.org/docs/18/functions-comparison.html",
+      "locator_checked": "§9.2, NULL comparisons and IS NULL",
+      "verification": "Official version-specific documentation checked. No universal claim about all programming languages’ null values.",
+      "accessed": "2026-10-04"
+    },
+    "russell1903principles": {
+      "type": "book",
+      "author": "Russell, Bertrand",
+      "title": "The Principles of Mathematics",
+      "year": "1903",
+      "url": "https://people.umass.edu/klement/pom/pom.html",
+      "locator_checked": "Chapter X, §§100–106; Appendix A on Frege",
+      "verification": "Primary text for the contradiction and foundations context.",
+      "accessed": "2026-10-04",
+      "publisher": "Cambridge University Press"
+    },
+    "whiteheadrussell1910principia": {
+      "type": "book",
+      "author": "Whitehead, Alfred North and Russell, Bertrand",
+      "title": "Principia Mathematica, Volume I",
+      "year": "1910",
+      "url": "https://www.gutenberg.org/ebooks/78050/",
+      "locator_checked": "Title and bibliographic record; foundations context cross-checked in Feferman",
+      "verification": "Bibliographic record checked; not used as evidence for detailed claims about the book’s proofs.",
+      "accessed": "2026-10-04",
+      "publisher": "Cambridge University Press"
+    },
+    "hilbert1902problems": {
+      "type": "article",
+      "author": "Hilbert, David",
+      "title": "Mathematical Problems",
+      "year": "1902",
+      "url": "https://www.gutenberg.org/cache/epub/71655/pg71655-images.html",
+      "locator_checked": "Problem 2: The compatibility of the arithmetical axioms",
+      "verification": "Primary English translation of the 1900 address; consistency requirement checked.",
+      "accessed": "2026-10-04",
+      "journal": "Bulletin of the American Mathematical Society",
+      "volume": "8",
+      "pages": "437--479",
+      "translator": "Newson, M. W.",
+      "note": "English translation of the 1900 address."
+    },
+    "godel1931undecidable": {
+      "type": "article",
+      "author": "Gödel, Kurt",
+      "title": "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I",
+      "year": "1931",
+      "url": "https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf",
+      "locator_checked": "§§1–2; Proposition VI; §4, Proposition XI in B. Meltzer’s translation",
+      "verification": "Primary paper checked in the English translation. Original assumptions distinguished from the modern Gödel–Rosser statement.",
+      "accessed": "2026-10-04",
+      "journal": "Monatshefte für Mathematik und Physik",
+      "volume": "38",
+      "pages": "173--198",
+      "doi": "10.1007/BF01700692",
+      "note": "Consulted B. Meltzer translation, On Formally Undecidable Propositions of Principia Mathematica and Related Systems, first published in English 1962; Dover reprint 1992."
+    },
+    "feferman2006godel": {
+      "type": "misc",
+      "author": "Feferman, Solomon",
+      "title": "The nature and significance of Gödel’s incompleteness theorems",
+      "year": "2006",
+      "url": "https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf",
+      "locator_checked": "Theorem statements and conditions, pp. 4–9; later discussion of Hilbert and wider interpretations",
+      "verification": "Specialist’s own lecture checked for modern scope and limits of extrapolation.",
+      "accessed": "2026-10-04",
+      "howpublished": "Gödel centenary lecture, Institute for Advanced Study"
+    },
+    "rosser1936extensions": {
+      "type": "article",
+      "author": "Rosser, J. Barkley",
+      "title": "Extensions of some theorems of Gödel and Church",
+      "year": "1936",
+      "url": "https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/extensions-of-some-theorems-of-godel-and-church/0461E34DC1F219C459EE84CC2FA89068",
+      "locator_checked": "Opening extract on ordinary versus omega-consistency",
+      "verification": "Publisher’s primary-text extract and bibliographic record checked; full paywalled proof not claimed as newly audited.",
+      "accessed": "2026-10-04",
+      "journal": "The Journal of Symbolic Logic",
+      "volume": "1",
+      "number": "3",
+      "pages": "87--91",
+      "doi": "10.2307/2269028"
+    },
+    "turing1936computable": {
+      "type": "article",
+      "author": "Turing, Alan M.",
+      "title": "On Computable Numbers, with an Application to the Entscheidungsproblem",
+      "year": "1936",
+      "url": "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf",
+      "locator_checked": "§§1–2; §6 (universal machine); §8 (general impossibility)",
+      "verification": "Primary paper checked. The halting passage is a modern presentation of diagonal reasoning, not a quotation or reproduction of Turing’s original formulation.",
+      "accessed": "2026-10-04",
+      "journal": "Proceedings of the London Mathematical Society",
+      "volume": "s2-42",
+      "pages": "230--265",
+      "doi": "10.1112/plms/s2-42.1.230",
+      "note": "Volume dated 1936–1937; paper received in 1936."
+    },
+    "rscmagnesium": {
+      "type": "misc",
+      "author": "{Royal Society of Chemistry}",
+      "title": "Magnesium: Element information, properties and uses",
+      "year": "",
+      "url": "https://periodic-table.rsc.org/element/12/magnesium",
+      "locator_checked": "Origin of the name",
+      "verification": "Official element entry: Magnesia. The author’s pearl/protector associations are explicitly personal wordplay.",
+      "accessed": "2026-10-04"
+    },
+    "rscaluminium": {
+      "type": "misc",
+      "author": "{Royal Society of Chemistry}",
+      "title": "Aluminium: Element information, properties and uses",
+      "year": "",
+      "url": "https://periodic-table.rsc.org/element/13/aluminium",
+      "locator_checked": "Origin of the name",
+      "verification": "Official element entry: alum. No attribution of a human-name etymology to the chemical element.",
+      "accessed": "2026-10-04"
+    },
+    "thompson1914calculus": {
+      "type": "book",
+      "author": "Thompson, Silvanus P.",
+      "title": "Calculus Made Easy",
+      "year": "1914",
+      "url": "https://www.gutenberg.org/cache/epub/33283/pg33283-images.html",
+      "locator_checked": "Chapters VIII and XVII–XIX",
+      "verification": "Primary teaching text: time-dependent rates, integration and integration constants. Example in draft adds explicit one-dimensional conditions.",
+      "accessed": "2026-10-04",
+      "edition": "2",
+      "publisher": "Macmillan and Co.",
+      "note": "First edition 1910; consulted second edition 1914."
+    },
+    "jcgm2012vim": {
+      "type": "manual",
+      "author": "{Joint Committee for Guides in Metrology}",
+      "title": "International Vocabulary of Metrology: Basic and General Concepts and Associated Terms (VIM)",
+      "year": "2012",
+      "url": "https://www.bipm.org/documents/20126/2071204/JCGM_200_2012.pdf",
+      "locator_checked": "§§2.1, 2.3, 2.15, 2.17, 2.26, 2.39",
+      "verification": "Official definitions checked. Thermometer example is hypothetical; calibration is not equated with adjustment.",
+      "accessed": "2026-10-04",
+      "number": "JCGM 200:2012",
+      "edition": "3",
+      "doi": "10.59161/JCGM200-2012",
+      "note": "Third edition, 2008 version with minor corrections, 2012."
+    },
+    "zurek2003decoherence": {
+      "type": "article",
+      "author": "Zurek, Wojciech H.",
+      "title": "Decoherence, einselection, and the quantum origins of the classical",
+      "year": "2003",
+      "url": "https://arxiv.org/abs/quant-ph/0105127",
+      "locator_checked": "Abstract and measurement/decoherence discussion in the author’s review",
+      "verification": "Author review checked for environmental interaction, correlations and stable records; does not establish subjective experience in detectors.",
+      "accessed": "2026-10-04",
+      "journal": "Reviews of Modern Physics",
+      "volume": "75",
+      "pages": "715--775",
+      "doi": "10.1103/RevModPhys.75.715"
+    },
+    "schlosshauer2005decoherence": {
+      "type": "article",
+      "author": "Schlosshauer, Maximilian",
+      "title": "Decoherence, the measurement problem, and interpretations of quantum mechanics",
+      "year": "2005",
+      "url": "https://arxiv.org/abs/quant-ph/0312059",
+      "locator_checked": "Introduction; §§II, III.D and IV.A",
+      "verification": "Author review checked for local suppression of interference and the remaining interpretive question of outcomes.",
+      "accessed": "2026-10-04",
+      "journal": "Reviews of Modern Physics",
+      "volume": "76",
+      "pages": "1267--1305",
+      "doi": "10.1103/RevModPhys.76.1267",
+      "note": "Volume 76 is dated 2004; article published in 2005. Consulted final arXiv version, 28 June 2005."
+    },
+    "popper1963conjectures": {
+      "type": "book",
+      "author": "Popper, Karl R.",
+      "title": "Conjectures and Refutations: The Growth of Scientific Knowledge",
+      "year": "1963",
+      "url": "https://www.inf.fu-berlin.de/lehre/SS06/materials/eng/PopperScience.pdf",
+      "locator_checked": "Chapter 1, section I, numbered conclusions 1–7; linked excerpt pp. 2–3",
+      "verification": "Primary essay excerpt checked. The draft treats falsifiability as Popper’s influential account, not a sufficient description of every scientific practice.",
+      "accessed": "2026-10-04",
+      "publisher": "Routledge and Kegan Paul",
+      "note": "Chapter 1 essay, Science: Conjectures and Refutations, originated in a 1953 lecture and was first published in 1957."
+    },
+    "duhem1954theory": {
+      "type": "book",
+      "author": "Duhem, Pierre",
+      "title": "The Aim and Structure of Physical Theory",
+      "year": "1954",
+      "url": "https://thehangedman.com/teaching-files/hps/duhem.pdf",
+      "locator_checked": "Part II, chapter VI, §2; linked excerpt’s opening discussion",
+      "verification": "Primary translated text checked for the dependence of a physical test on multiple hypotheses and apparatus assumptions.",
+      "accessed": "2026-10-04",
+      "translator": "Wiener, Philip P.",
+      "publisher": "Princeton University Press",
+      "note": "Translation of La théorie physique: son objet et sa structure (1906)."
+    },
+    "nasem2019reproducibility": {
+      "type": "book",
+      "author": "{National Academies of Sciences, Engineering, and Medicine}",
+      "title": "Reproducibility and Replicability in Science",
+      "year": "2019",
+      "url": "https://www.nationalacademies.org/read/25303/chapter/6",
+      "locator_checked": "Chapter 3, Defining reproducibility and replicability",
+      "verification": "Official report checked; its definitions are a stated convention because terminology differs among disciplines.",
+      "accessed": "2026-10-04",
+      "publisher": "The National Academies Press",
+      "doi": "10.17226/25303"
+    },
+    "bayes1763essay": {
+      "type": "article",
+      "author": "Bayes, Thomas",
+      "title": "An Essay towards solving a Problem in the Doctrine of Chances",
+      "year": "1763",
+      "url": "https://www2.isye.gatech.edu/isyebayes/bank/Bayesessay.pdf",
+      "locator_checked": "Section I, conditional probability propositions",
+      "verification": "Primary text checked; modern invented fault-detector illustration calculated independently.",
+      "accessed": "2026-10-04",
+      "journal": "Philosophical Transactions",
+      "volume": "53",
+      "pages": "370--418",
+      "doi": "10.1098/rstl.1763.0053",
+      "note": "Communicated by Richard Price."
+    },
+    "asa2016pvalues": {
+      "type": "misc",
+      "author": "{American Statistical Association}",
+      "title": "American Statistical Association Releases Statement on Statistical Significance and P-Values",
+      "year": "2016",
+      "url": "https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf",
+      "locator_checked": "Six principles, especially 2, 3 and 5",
+      "verification": "Official statement checked for what p-values and thresholds do not establish.",
+      "accessed": "2026-10-04",
+      "note": "7 March 2016."
+    },
+    "boole1854laws": {
+      "type": "book",
+      "author": "Boole, George",
+      "title": "An Investigation of the Laws of Thought",
+      "year": "1854",
+      "url": "https://www.gutenberg.org/files/15114/15114-pdf.pdf",
+      "locator_checked": "Chapters II–III and V–VI",
+      "verification": "Primary text for an algebra of logical relations; modern examples are not represented as quotations.",
+      "accessed": "2026-10-04",
+      "publisher": "Walton and Maberly"
+    },
+    "shannon1938switching": {
+      "type": "article",
+      "author": "Shannon, Claude E.",
+      "title": "A Symbolic Analysis of Relay and Switching Circuits",
+      "year": "1938",
+      "url": "https://tubes.mit.edu/6S917/_static/2025/resources/shannon38.pdf",
+      "locator_checked": "§§I–II, reprint pp. 471–472 (first two PDF pages)",
+      "verification": "Primary scan visually inspected: algebraic circuit analysis and series/parallel definitions. Draft uses conducting=true; Shannon uses a hindrance convention.",
+      "accessed": "2026-10-04",
+      "journal": "Transactions of the American Institute of Electrical Engineers",
+      "volume": "57",
+      "pages": "713--723"
+    },
+    "deepmind2024alphaproof": {
+      "type": "misc",
+      "author": "{Google DeepMind}",
+      "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+      "year": "2024",
+      "url": "https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "locator_checked": "AlphaProof: a formal approach to reasoning",
+      "verification": "Research team’s own report checked for learning combined with formal proof in Lean. No claim of general human-level reasoning or independent replication.",
+      "accessed": "2026-10-04",
+      "note": "25 July 2024."
+    }
+  },
+  "notes": {
+    "v1-phi-c-certainty": {
+      "sources": [
+        "wittgenstein1969certainty"
+      ],
+      "locator": "§253.",
+      "qualification": "Translation by Denis Paul and G. E. M. Anscombe; edited by G. E. M. Anscombe and G. H. von Wright."
+    },
+    "v1-phi-c-consciousness": {
+      "sources": [
+        "sethbayne2022consciousness"
+      ],
+      "locator": "Table 1, Figure 3 and Box 1 in the accepted manuscript.",
+      "qualification": "The working picture in the text is an orientation; it does not settle how physical activity becomes felt experience."
+    },
+    "v1-phi-c-memory": {
+      "sources": [
+        "schacter2013memory"
+      ],
+      "locator": "Discussion of constructive episodic simulation.",
+      "qualification": "The compression metaphor and the assessment of this particular memory belong to the author."
+    },
+    "v1-phi-c-registration": {
+      "sources": [
+        "zurek2003decoherence"
+      ],
+      "locator": "Abstract and discussion of measurement correlations and environmental interaction.",
+      "qualification": "Extending registration into an ancestry of human experience is the author’s philosophical proposal, not a result of this paper."
+    },
+    "v1-phi-c-language": {
+      "sources": [
+        "wittgenstein1953investigations"
+      ],
+      "locator": "§§7, 23 and 43.",
+      "qualification": "The qualification on meaning-as-use matters; the text is paraphrased, not quoted from a named English translation."
+    },
+    "v1-phi-c-institutions": {
+      "sources": [
+        "searle2015status"
+      ],
+      "locator": "Opening discussion, pp. 507–509.",
+      "qualification": "The operating-system image and its proposed inversion are the author’s extensions."
+    },
+    "v1-phi-c-gettier": {
+      "sources": [
+        "gettier1963knowledge"
+      ],
+      "locator": "Cases I and II.",
+      "qualification": "The stopped clock is a familiar illustration of epistemic luck, not one of Gettier’s two cases in this paper."
+    },
+    "v1-phi-c-hume": {
+      "sources": [
+        "hume1748enquiry"
+      ],
+      "locator": "Section IV, Part II; compare Section V, Part I.",
+      "qualification": ""
+    },
+    "v1-phi-c-certainty-background": {
+      "sources": [
+        "wittgenstein1969certainty"
+      ],
+      "locator": "§§114–115 and 147–150.",
+      "qualification": "The practical recommendation about revisability is the author’s reading."
+    },
+    "v1-phi-c-validity": {
+      "sources": [
+        "aristotleprioranalytics",
+        "lehman2018mcs"
+      ],
+      "locator": "Aristotle, Book I, chapters 1 and 4; Lehman, Leighton and Meyer, §1.4.1.",
+      "qualification": "The basket examples are illustrative constructions. Modern validity concerns truth preservation; true premises are a further requirement for a sound argument."
+    },
+    "v1-phi-c-empty": {
+      "sources": [
+        "lehman2018mcs"
+      ],
+      "locator": "§§4.1 and 4.5.",
+      "qualification": "An empty set is not identified with a physical vacuum or the philosophical absence of existence."
+    },
+    "v1-phi-c-null": {
+      "sources": [
+        "postgres18comparison"
+      ],
+      "locator": "§9.2, NULL comparisons and predicates.",
+      "qualification": "The example concerns SQL’s missing-value treatment, not a universal meaning of null across programming languages."
+    },
+    "v1-phi-c-russell": {
+      "sources": [
+        "russell1903principles"
+      ],
+      "locator": "Chapter X, especially §§101–102.",
+      "qualification": "The paradox concerns unrestricted set formation; contemporary set theories restrict it."
+    },
+    "v1-phi-c-hilbert": {
+      "sources": [
+        "hilbert1902problems",
+        "whiteheadrussell1910principia",
+        "russell1903principles"
+      ],
+      "locator": "Hilbert, Problem 2; Whitehead and Russell, Volume I; Russell, Appendix A on Frege.",
+      "qualification": "Hilbert’s consistency programme and the logicist projects are related but distinct. The English Hilbert text translates the 1900 address."
+    },
+    "v1-phi-c-godel": {
+      "sources": [
+        "feferman2006godel",
+        "godel1931undecidable"
+      ],
+      "locator": "Feferman, pp. 4–9; Gödel, Propositions VI and XI.",
+      "qualification": "The first result is stated in its modern Gödel–Rosser form. The interlude distinguishes the original consistency assumptions."
+    },
+    "v1-phi-c-godel-extension": {
+      "sources": [
+        "feferman2006godel"
+      ],
+      "locator": "Discussion following the incompleteness theorems.",
+      "qualification": "A stronger consistent, effective arithmetical theory can settle additional statements while remaining incomplete; no theorem about civil society follows automatically."
+    },
+    "v1-phi-c-companions": {
+      "sources": [
+        "rscmagnesium",
+        "rscaluminium"
+      ],
+      "locator": "Origin-of-name entries.",
+      "qualification": "Mag/Maggie and Al/Alexander are literary associations. Pearl and protector are not the chemical elements’ etymologies."
+    },
+    "v1-phi-i-sets": {
+      "sources": [
+        "lehman2018mcs"
+      ],
+      "locator": "§§4.1 and 4.5.",
+      "qualification": "The cardinalities of ∅ and {∅} are respectively zero and one."
+    },
+    "v1-phi-i-null": {
+      "sources": [
+        "postgres18comparison"
+      ],
+      "locator": "§9.2.",
+      "qualification": "Ordinary comparisons involving NULL and the dedicated IS NULL predicate perform different operations."
+    },
+    "v1-phi-i-structure": {
+      "sources": [
+        "lehman2018mcs"
+      ],
+      "locator": "Chapter 12 opening and §12.1.",
+      "qualification": "The friendship example is the author’s illustration of the modelling choice, not an empirical finding about friendship."
+    },
+    "v1-phi-i-logic": {
+      "sources": [
+        "lehman2018mcs"
+      ],
+      "locator": "§1.4.1, modus ponens and sound inference rules.",
+      "qualification": "The alarm example contrasts modus ponens with the invalid converse inference known as affirming the consequent."
+    },
+    "v1-phi-i-calculus": {
+      "sources": [
+        "thompson1914calculus"
+      ],
+      "locator": "Chapters VIII and XVII–XIX.",
+      "qualification": "The prose specifies differentiability and one-dimensional motion; integrating velocity requires an initial position to recover a particular position history."
+    },
+    "v1-phi-i-godel-coding": {
+      "sources": [
+        "godel1931undecidable"
+      ],
+      "locator": "§§1–2 and Proposition VI, in B. Meltzer’s English translation.",
+      "qualification": "The self-reference concerns formal provability, not the liar paradox."
+    },
+    "v1-phi-i-rosser": {
+      "sources": [
+        "rosser1936extensions"
+      ],
+      "locator": "Opening statement of the strengthening from omega-consistency to ordinary consistency.",
+      "qualification": "The terminology in the prose is modernized; the result still requires an effective theory of sufficient arithmetical strength."
+    },
+    "v1-phi-i-godel-consistency": {
+      "sources": [
+        "godel1931undecidable"
+      ],
+      "locator": "§4, Proposition XI.",
+      "qualification": "The claim concerns the theory’s standard formal representation of its own consistency under the theorem’s conditions."
+    },
+    "v1-phi-i-turing": {
+      "sources": [
+        "turing1936computable"
+      ],
+      "locator": "§§1–2 and 6.",
+      "qualification": ""
+    },
+    "v1-phi-i-halting": {
+      "sources": [
+        "turing1936computable"
+      ],
+      "locator": "§8.",
+      "qualification": "The draft uses the modern halting presentation of diagonalization, rather than reproducing Turing’s circle-free-machine argument verbatim."
+    },
+    "v1-phi-i-metrology": {
+      "sources": [
+        "jcgm2012vim"
+      ],
+      "locator": "§§2.1, 2.3, 2.15, 2.17, 2.26 and 2.39.",
+      "qualification": "The thermometer and room examples are hypothetical. Repeated readings alone need not reveal a shared systematic offset."
+    },
+    "v1-phi-i-decoherence": {
+      "sources": [
+        "schlosshauer2005decoherence"
+      ],
+      "locator": "Introduction and §§II, III.D and IV.A.",
+      "qualification": "Decoherence and the interpretation of definite outcomes are distinguished; no consciousness-induced collapse is asserted."
+    },
+    "v1-phi-i-quantum-records": {
+      "sources": [
+        "zurek2003decoherence"
+      ],
+      "locator": "Discussion of measurement, environmental monitoring and stable correlations.",
+      "qualification": "The text does not assert a unique settled quantum/classical boundary or equate a physical record with subjective experience."
+    },
+    "v1-phi-i-popper": {
+      "sources": [
+        "popper1963conjectures"
+      ],
+      "locator": "Chapter 1, section I, especially numbered conclusions 1–7.",
+      "qualification": "The linked essay excerpt predates its inclusion in the 1963 collection. Falsifiability is presented as one influential account of scientific testing."
+    },
+    "v1-phi-i-duhem": {
+      "sources": [
+        "duhem1954theory"
+      ],
+      "locator": "Part II, chapter VI, §2.",
+      "qualification": "The material-under-load illustration is the author’s application of the argument, not Duhem’s example."
+    },
+    "v1-phi-i-reproduction": {
+      "sources": [
+        "nasem2019reproducibility"
+      ],
+      "locator": "Chapter 3, Defining reproducibility and replicability.",
+      "qualification": "Following this report’s usage: reproducibility concerns results from the same data and computational procedures; replication uses newly collected data. Usage varies by field."
+    },
+    "v1-phi-i-bayes": {
+      "sources": [
+        "bayes1763essay"
+      ],
+      "locator": "Section I, conditional probability propositions.",
+      "qualification": "The detector example is invented: 100 × 0.90 = 90 true alarms; 9,900 × 0.05 = 495 false alarms; 90/585 ≈ 15.38%. The modern update description is not a quotation from Bayes."
+    },
+    "v1-phi-i-pvalues": {
+      "sources": [
+        "asa2016pvalues"
+      ],
+      "locator": "Principles 2, 3 and 5.",
+      "qualification": ""
+    },
+    "v1-phi-i-switching": {
+      "sources": [
+        "boole1854laws",
+        "shannon1938switching"
+      ],
+      "locator": "Boole, chapters II–III; Shannon, §§I–II.",
+      "qualification": "The switch illustration takes conduction as true. Shannon’s original hindrance notation uses zero for a closed circuit and one for an open one."
+    },
+    "v1-phi-i-learning-proof": {
+      "sources": [
+        "deepmind2024alphaproof"
+      ],
+      "locator": "AlphaProof: a formal approach to reasoning.",
+      "qualification": "This is the research team’s report about a particular system, not a claim that all learned systems supply proofs or that a proof establishes general understanding."
+    }
+  }
+}

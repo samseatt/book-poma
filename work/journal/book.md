@@ -112,3 +112,13 @@ Distinguish purpose/value, requirement, design principle, analysis method, archi
 The Greek pairs work at the level of method: Phi supplies philosophical orientation and formal/empirical ways to represent and check; Delta supplies systems thinking and the caseboard; Theta supplies design thinking and the Breadboard. The Phi looking-glass role is an editorial recommendation, not a new adopted name. Avoid adding compulsory brands or explaining every recurring image at every entrance.
 
 See the [full Phi review](../PHI_FOUNDATIONS_REVIEW.md) and [original request](archive/2026-10-04-volume-spines-and-phi.md). **B-005 progress:** Prologue and both Phi pieces, including the open, have now been read completely. Other Volume I topical-body reading remains as previously recorded; this does not establish a full reread of Volume I. No manuscript was revised.
+
+## Φ decisions and reference coverage — 4 October 2026
+
+### B-016 — Facts-led exploration, Greek labels and complete draft references
+
+**Standing author direction.** Render the setup identities as **Φ, Δ and Θ**; the author types their names as shortcuts. Gödel is Φ's upheaval. ORIENTATION is the accepted Chapter Φ domain label. Other tertiary labels may need a future editorial pass; no blanket cleanup is authorized by this entry.
+
+The book wraps hard disciplinary thought in a personal, lyrical and sometimes mythical journey. Seek deep interdisciplinary relationships and productive inversions, testing both the conventional and reversed explanations. Science supplies accountable replacements for inherited explanations; the text should preserve the unsettled edge rather than invent certainty or retreat into generic textbook exposition. Reality is not created by human language or thought. The proposed relation between primitive physical registration and brain experience may be explored explicitly as philosophy, without treating it as a solved quantum or consciousness claim.
+
+**Reference practice from now on:** track and bookmark significant source-bearing material across every complete new draft, including preserved passages. Use the existing reference workflow; distinguish evidence, interpretation, original analysis and personal memory. The first full application is the [separate Φ redraft pair](../volume-1-drafting/PHI_REVIEW_NOTES.md), with 37 notes and 31 sources. The author's review and eventual canonical adoption remain pending. This is not a retroactive claim that all earlier manuscripts have been fully sourced.

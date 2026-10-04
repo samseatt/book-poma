@@ -15,3 +15,15 @@ The interlude can function as a looking glass without acquiring another branded 
 ## New author notes
 
 <!-- Add notes here. -->
+
+## V1-002 — Φ decisions and full review drafts
+
+**Author decisions recorded and separate drafts delivered, 4 October 2026; author revision/adoption pending.** This supersedes V1-001's unresolved label questions and its statement that drafting is wholly pending. “Theta” in the Gödel discussion was a typing error: the upheaval belongs to **Φ**. Use **Φ, Δ and Θ** in reader-facing prose; the spelled-out forms are author typing shortcuts. **ORIENTATION** replaces EXPERIENCE in the Chapter Φ review. The all-caps domain labels elsewhere need a later considered cleanup, not a global replacement now.
+
+The author accepts the chapter/interlude allocation with productive overlap. Physical existence is independent of human thought and language. Brain experience belongs to a later elaboration through biology/neuroscience; more primitive physical registration may be explored as its distant ancestry, but this is a philosophical proposal, not an established equivalence between quantum measurement and felt experience. Keep the science accurate while letting the facts provoke interdisciplinary connections and reversals of conventional cause/effect assumptions. An inversion must remain answerable to evidence too. The book is an intellectually serious exploration with a lyrical wrapper, neither a generic science textbook nor speculative science presented as fact.
+
+The [complete chapter and interlude review drafts](../volume-1-drafting/PHI_REVIEW_NOTES.md) implement the accepted division, condense the repeated imagery, retain the factual limits of the childhood memories, repair the formal/scientific claims and add empirical inquiry. Looking glass remains an optional literary relation consistent with the Silicon mirror; no formal new board is needed. The interlude's review subtitle is *From Symbols to the Silicon Mirror*, with **INQUIRY** as its domain label.
+
+**Standing source direction:** every new book draft from this point receives source tracking throughout its full scope, including retained notable material. This pair has 37 native source notes and 31 bibliography records, plus a claim/locator ledger. Shared bibliography adoption remains a deliberate later step. Source checking does not certify autobiographical gaps or establish philosophical speculation as scientific fact.
+
+The author's [full clarification and drafting request](archive/2026-10-04-phi-redraft-decisions.md) is preserved. Canonical manuscripts, the Open, Prologue, manifest and publisher configuration are unchanged. The author may edit the review files before authorizing adoption. Adjacent Open/Prologue consistency and later placement of condensed ML material remain noted in the review, not performed. This completes the requested draft batch, not canonical adoption or the rest of Volume I's revision.
