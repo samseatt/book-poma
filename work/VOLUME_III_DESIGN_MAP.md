@@ -2,6 +2,8 @@
 
 Prepared 4 October 2026 from the canonical manuscripts at repository revision `80ce1e7`. **Editorial assessment and proposals for review; no manuscript changes.** Current chapter numbering is used throughout. The separate Chapter 23 opening experiments are not treated as adopted text.
 
+**Complementary technical list added 4 October 2026:** Read this inventory alongside [Design methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md). The author has clarified that both indirect design values and direct technical rigor are essential. This first list remains active: it groups values, requirements, principles, safeguards, and mechanisms. The additional list distinguishes established design principles, analysis methods, architectures, patterns, and engineering practices, with applications and tradeoffs for all eleven pairs. Its terminology corrects the overly broad use of “principles” and “primitives” in this first assessment; it does not discard the material.
+
 ## Editorial judgment
 
 **Keep the eleven-pair order. Strengthen the mechanisms and distinguish the jobs of the paired pieces.** Each chapter has a defensible subject and useful principles. There is no displaced design domain that warrants another chapter shuffle. The principal weakness is that a principle is often stated repeatedly while the mechanism that would make it work receives a list of desirable features. An interlude should take the reader further into implementation, tradeoffs, and failure recovery.
@@ -64,9 +66,11 @@ All eleven signals find substantial homes, but none needs to appear in every cha
 
 Sources: [chapter](../manuscripts/volume-3/23-chapter.md), especially “From Institutions to Flows” through “Build the First Knot”; [interlude](../manuscripts/volume-3/23-interlude.md), “Goodwill Is Not Architecture” onward.
 
+**Technical companion:** [Pair 23: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-23).
+
 **Signal inheritance.** D: **S12** changes the condition of failed coordination rather than counting more activity; **S15** makes hidden need safely reportable; **S18** gives mutual obligation roles and support; **S20** replaces disconnected institutional handoffs with usable flows. S: **S13** protects refusal and recovery; **S16** bounds risky matches and emergency authority; **S19** treats the coordination fabric as a maintained commons.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Institutions as organizers of flows.** Trace care, food, information, permission, and responsibility across existing institutions; preserve useful institutional competence.
 - **Keep — Need visibility with dignity.** Reveal only the information necessary to deliver help, with correction and withdrawal appropriate to the task.
@@ -76,7 +80,7 @@ Sources: [chapter](../manuscripts/volume-3/23-chapter.md), especially “From In
 - **Keep — A modest civic covenant.** Mutual obligation must survive inconvenience while preserving exit, rest, dissent, and protection from local coercion.
 - **Develop — Coordination that learns upstream.** Repeated requests should expose structural failures; success includes reducing the underlying need for emergency improvisation.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Keep — Need and capacity cards.** Describe the request or offer, authorized viewers, urgency, limits, expiry, correction, and support required by the contributor.
 - **Keep — Scoped roles.** Separate requester, contributor, dispatcher, verifier, steward, auditor, advocate, and institutional liaison; technical access does not confer civic authority.
@@ -103,9 +107,11 @@ Sources: [chapter](../manuscripts/volume-3/23-chapter.md), especially “From In
 
 Sources: [chapter](../manuscripts/volume-3/24-chapter.md), “Agency Is Not a Button” onward; [interlude](../manuscripts/volume-3/24-interlude.md), “Help Without Custody” through “The Developer's Oath.”
 
+**Technical companion:** [Pair 24: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-24).
+
 **Signal inheritance.** D: **S13** makes choices usable and recovery affordable; **S17** prevents the personal model becoming a cage; **S21** makes assistance support judgment. S: **S15** exposes inferences for correction; **S16** bounds consequential interventions; **S20** makes portability and plural provision structural; **S22** permits pause, review, and revocation before convenience hardens into jurisdiction.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Agency beyond menus.** Intelligibility, feasible alternatives, time, refusal, reversibility, and appeal make choice real.
 - **Keep — Bounded delegation.** Permission to schedule, recommend, or monitor does not silently authorize decisions about treatment, values, identity, or political judgment.
@@ -116,7 +122,7 @@ Sources: [chapter](../manuscripts/volume-3/24-chapter.md), “Agency Is Not a Bu
 - **Qualify — Proportionate intervention.** Evidence, urgency, rights, and accountability govern exceptions; the path back to agency is part of the intervention.
 - **Keep — Dignity under recommendation.** Protect non-optimized paths, creative work, rest, grief, and meanings the recommendation system cannot price.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Develop — Consent and delegation records.** Scope, duration, actor, purpose, downstream use, renewal, revocation, and the consequences of refusal become enforceable settings and records.
 - **Keep — Personal-model inspection surface.** Show meaningful claims, their sources, confidence, uses, and correction status rather than dumping an unintelligible technical export.
@@ -143,9 +149,11 @@ Sources: [chapter](../manuscripts/volume-3/24-chapter.md), “Agency Is Not a Bu
 
 Sources: [chapter](../manuscripts/volume-3/25-chapter.md), “When Price Fails” onward; [interlude](../manuscripts/volume-3/25-interlude.md), “The Invisible Custodian” and the ledger sections.
 
+**Technical companion:** [Pair 25: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-25).
+
 **Signal inheritance.** D: **S12** changes the economic purpose from activity to provision; **S18** supports necessary contribution and reciprocal obligations; **S19** replenishes the commons and protects reserves. S: **S13** separates livelihood and recovery from obedience or approved productivity; **S15** detects need not expressed as purchasing power; **S20** changes the allocation and accounting architecture rather than decorating the old price signal.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Price and money as useful, incomplete representations.** Preserve their coordinating functions while making excluded costs, needs, and obligations visible.
 - **Qualify — Reserves versus hoarding.** Protect household and civic buffers; challenge specific bottlenecks, exclusion, and political capture rather than treating every large financial balance as idle material.
@@ -156,7 +164,7 @@ Sources: [chapter](../manuscripts/volume-3/25-chapter.md), “When Price Fails�
 - **Keep — Basic provision and voluntary contribution.** Essential access must not depend on a contribution balance; livelihood includes belonging and purpose without prescribed usefulness.
 - **Qualify — Abundance with agency.** Automation can free time and improve provision, but neither meaningful work nor concentrated ownership disappears automatically.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Develop — Breadboard connectors.** xFin, xMed, and xGaia connect internal experiments to external payments, professional obligations, and ecological consequences. Treat these as proposed interfaces, not evidence of achieved solvency or validated medicine.
 - **Keep — Separate contribution and need records.** Record useful events with context, access limits, correction, and expiry; protect anonymity and unquantified contribution.
@@ -183,9 +191,11 @@ Sources: [chapter](../manuscripts/volume-3/25-chapter.md), “When Price Fails�
 
 Sources: [chapter](../manuscripts/volume-3/26-chapter.md), “Shared Reality as Commons” onward; [interlude](../manuscripts/volume-3/26-interlude.md), “Signal Before Story” onward.
 
+**Technical companion:** [Pair 26: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-26).
+
 **Signal inheritance.** D: **S14** restores context and voices lost in transmission; **S15** separates observation, interpretation, and authority; **S17** protects correction of models and shared stories; **S21** develops discernment under abundant assistance. S: **S19** funds and governs shared epistemic infrastructure; **S22** gives attention, deliberation, and consequential sharing room for reconsideration.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Shared reality as a commons.** Maintain common records and methods that make disagreements intelligible without demanding identical opinions.
 - **Keep — Interpretation beyond information access.** Supply context, uncertainty, counterargument, and the distinction between fact, knowledge, judgment, and values.
@@ -196,7 +206,7 @@ Sources: [chapter](../manuscripts/volume-3/26-chapter.md), “Shared Reality as 
 - **Qualify — Plurality, attention, and protective friction.** Preserve different experiences and meanings while evaluating factual claims; protections must themselves be contestable.
 - **Keep — Rehearsal for learning and wiser disagreement.** Shared simulations reveal assumptions and tradeoffs; they do not settle political values or replace lived evidence.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Keep — Claim and evidence records.** Distinguish observation, inference, interpretation, uncertainty, source, and the action a claim can responsibly support.
 - **Qualify — Provenance and authenticity mechanisms.** Signed capture, custody, transformation history, and synthetic-content labels support verification; they do not establish that the depicted event or interpretation is true.
@@ -224,9 +234,11 @@ Sources: [chapter](../manuscripts/volume-3/26-chapter.md), “Shared Reality as 
 
 Sources: [chapter](../manuscripts/volume-3/27-chapter.md), “The Cost of Invisible Substrates” onward; [interlude](../manuscripts/volume-3/27-interlude.md), “Streams and Sanctuaries” onward.
 
+**Technical companion:** [Pair 27: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-27).
+
 **Signal inheritance.** D: **S15** combines sensing with protection from the consequences of visibility; **S19** turns shared dependency into durable stewardship. S: **S14** restores place-bound and excluded knowledge; **S16** addresses depletion, emergency use, and irreversible exposure; **S18** assigns sustainable maintenance obligations; **S20** supplies public fallback and resists infrastructure lock-in.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Name and maintain the substrate.** Soil, water, biodiversity, public health, knowledge, trust, software, and infrastructure are load-bearing dependencies.
 - **Qualify — Commons with boundaries.** Shared governance is neither unmanaged access nor necessarily universal access; different resources require different rules.
@@ -237,7 +249,7 @@ Sources: [chapter](../manuscripts/volume-3/27-chapter.md), “The Cost of Invisi
 - **Keep — Instruments with situated knowledge.** Dashboards and embodied observation can correct each other; Indigenous authority is not decorative consultation.
 - **Develop — Intergenerational stewardship and sanctuary.** Give maintenance, future claims, protected places, regenerative intervals, and limits enforceable form; watch capture, stagnation, and metric substitution.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Develop — Purpose-bound trusts and steward roles.** Specify duties, beneficiaries, access authority, conflicts, benefit return, succession, and redress; a database or label does not create a trust relationship by itself.
 - **Keep — Community-specific data authority.** Respect collective protocols alongside individual rights; some knowledge is not available for collection or sharing.
@@ -265,9 +277,11 @@ Sources: [chapter](../manuscripts/volume-3/27-chapter.md), “The Cost of Invisi
 
 Sources: [chapter](../manuscripts/volume-3/28-chapter.md), “The Cost of Industrial Abstraction” onward; [interlude](../manuscripts/volume-3/28-interlude.md), “From Factory to Cell” onward.
 
+**Technical companion:** [Pair 28: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-28).
+
 **Signal inheritance.** D: **S16** matches production power to safety and containment; **S19** maintains materials, tools, and shared capacity; **S20** builds repair and adaptation into objects. S: **S12** distinguishes useful provision from throughput; **S18** carries responsibility through suppliers, makers, users, and recovery; **S22** makes a justified refusal or pause part of competent production.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — The object as a chain of obligations.** Material origin, labor, energy, maintenance, repair, and disposal remain part of making after sale.
 - **Keep — Start with need.** Repair, adapt, substitute, or avoid production before assuming a new object is required.
@@ -278,7 +292,7 @@ Sources: [chapter](../manuscripts/volume-3/28-chapter.md), “The Cost of Indust
 - **Keep — Human capability after automation.** Remove dangerous drudgery while supporting craft, judgment, apprenticeship, adaptation, art, and access to making.
 - **Develop — Accountable supply meshes, standards, and workshop commons.** Safety, maintenance, access, funding, labor conditions, and commercial use need workable arrangements across scales.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Keep — Production-cell capability boundaries.** State what a local cell or regional hub may make, test, certify, repair, or refuse.
 - **Develop — Parametric design envelopes.** Define permitted geometry/material/process variations and the evidence supporting them; customization is bounded by the actual use.
@@ -305,9 +319,11 @@ Sources: [chapter](../manuscripts/volume-3/28-chapter.md), “The Cost of Indust
 
 Sources: [chapter](../manuscripts/volume-3/29-chapter.md), “Governance After Trust Collapse” onward; [interlude](../manuscripts/volume-3/29-interlude.md), “The Person Is Not the Profile” onward.
 
+**Technical companion:** [Pair 29: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-29).
+
 **Signal inheritance.** D: **S18** makes civic roles and delegated responsibility sustainable; **S20** places authority, rights, and interfaces in a workable federation. S: **S13** makes participation and exit feasible; **S16** keeps machine action and emergencies within accountable limits; **S19** supports shared infrastructure; **S21** respects finite civic attention; **S22** enables review, amendment, and time-bounded exceptional powers.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Legitimacy through answerability.** Representation, performance, participation, inspection, fairness, and recourse must operate together.
 - **Keep — Participation without civic conscription.** Offer direct, representative, delegated, deliberative, audit, and stewardship routes that ordinary people can realistically use.
@@ -318,7 +334,7 @@ Sources: [chapter](../manuscripts/volume-3/29-chapter.md), “Governance After T
 - **Keep — Machine responsibility with an address.** Trace accountable operators and institutions; autonomy must not erase liability or incident response.
 - **Develop — Co-authorship protected from capture.** Rights floors, minority protections, independent appeal, amendment, and replaceable stewards make entering governance consequential. Canada is a workbench, not a universal model.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Keep — Separate identity, credential, role, right, delegation, and jurisdiction.** A credential verifies a claim; it does not confer unlimited authority or determine human worth.
 - **Develop — Contextual credentials with recovery.** Minimal disclosure, offline alternatives, lost-wallet recovery, plural recognition, and public fallback protect practical access.
@@ -345,9 +361,11 @@ Sources: [chapter](../manuscripts/volume-3/29-chapter.md), “Governance After T
 
 Sources: [chapter](../manuscripts/volume-3/30-chapter.md), “The Illusion of Neutral Systems” onward; [interlude](../manuscripts/volume-3/30-interlude.md), “Compliance Is Not Integrity” onward.
 
+**Technical companion:** [Pair 30: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-30).
+
 **Signal inheritance.** D: **S13** prevents a temporary mismatch becoming exclusion; **S17** opens classifications and fairness assumptions to challenge; **S20** evaluates the whole decision path rather than isolated compliant components. S: **S14** restores evidence and historical context; **S15** makes harms and errors reportable; **S16** limits cascading and irreversible consequences; **S18** funds responsibility and repair; **S21** gives reviewers actual comprehension and authority; **S22** permits holds and reconsideration before harm outruns appeal. This is the broadest mapping because the chapter expressly brings these mechanisms together, not because justice is a generic virtue applicable everywhere.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Categories are consequential judgments.** Inspect eligibility, risk, identity, and evidentiary classifications before calling the resulting procedure neutral.
 - **Keep — Fairness begins upstream.** Evaluate data, proxies, categories, historical burden, consultation, and outliers rather than relying on a fair-looking average.
@@ -358,7 +376,7 @@ Sources: [chapter](../manuscripts/volume-3/30-chapter.md), “The Illusion of Ne
 - **Keep — Restoration with accountability.** Distinguish honest error, negligence, and deliberate harm; repair is owed without requiring victims to forgive or reconcile.
 - **Develop — Justice across systems and resources.** Trace machine responsibility, cross-jurisdiction harm, extraction, and missing standing; preserve dignity during investigation and maintain justice as accessible civic infrastructure.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Keep — Decision traces and evidence types.** Connect actor, authority, rule/model version, evidence, uncertainty, alternatives, review, and remedy to a consequential decision.
 - **Develop — Explicit fairness claims and challenge cases.** State the selected fairness objective and tradeoffs; test rare, poorly represented, and administratively inconvenient lives.
@@ -385,9 +403,11 @@ Sources: [chapter](../manuscripts/volume-3/30-chapter.md), “The Illusion of Ne
 
 Sources: [chapter](../manuscripts/volume-3/31-chapter.md), “The Failure of Protocol Medicine” onward; [interlude](../manuscripts/volume-3/31-interlude.md), “From Record to Pattern” onward.
 
+**Technical companion:** [Pair 31: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-31).
+
 **Signal inheritance.** D: **S15** receives symptoms, caregiver observations, and uncertain measurements without silencing them; **S18** makes care handoffs and caregiver obligations sustainable; **S20** organizes around a longitudinal person rather than visits and departments. S: **S13** preserves feasible choices, access, and goals; **S16** handles coupled interventions and escalation; **S17** keeps the clinical model open to contradiction; **S19** maintains care capacity; **S21** supports patient and clinician judgment under limited attention.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Protocols with contextual judgment.** Retain evidence-based standards while allowing justified exceptions, multimorbidity, and questions the usual pathway misses.
 - **Keep — Whole-person interpretation over time.** Integrate physiology, medication, function, environment, social support, history, and what matters to the patient.
@@ -398,7 +418,7 @@ Sources: [chapter](../manuscripts/volume-3/31-chapter.md), “The Failure of Pro
 - **Develop — Home, prevention, and precision with real support.** Monitoring and molecular insight must connect to action, respite, accessible care, and realistic household capacity.
 - **Keep — Dignity, goals, and equity across aging.** Distinguish treatable decline, acceptable treatment burden, palliation, and ageist dismissal; protect patients and caregivers, including those outside data-rich settings.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Keep — Longitudinal state and temporal updates.** Separate fast physiology, slower trends, historical facts, current inferences, and values requiring conversation.
 - **Qualify — Bounded clinical twins.** Use a model for specified questions with uncertainty, validation, provenance, and limits; it is neither a complete person nor an oracle.
@@ -425,9 +445,11 @@ Sources: [chapter](../manuscripts/volume-3/31-chapter.md), “The Failure of Pro
 
 Sources: [chapter](../manuscripts/volume-3/32-chapter.md), “What Should Survive?” onward; [interlude](../manuscripts/volume-3/32-interlude.md), “Storage Is Not Memory” onward.
 
+**Technical companion:** [Pair 32: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-32).
+
 **Signal inheritance.** D: **S14** recovers buried records and missing context; **S17** prevents ontology and inherited stories becoming permanent cages; **S19** treats memory and language as maintained inheritances. S: **S18** supports custodial duties and generational handoffs; **S20** makes preservation interpretable, repairable, and independent of one technical custodian.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Selective continuity.** Preserve knowledge, language, care, art, and warnings while retiring inherited domination; age alone confers no authority.
 - **Keep — Memory in living use.** Speaking, teaching, cooking, practicing, adapting, and questioning carry culture beyond the archive.
@@ -438,7 +460,7 @@ Sources: [chapter](../manuscripts/volume-3/32-chapter.md), “What Should Surviv
 - **Keep — Trauma and art as consequential inheritances.** Preserve testimony and expressive pressure without making injury a compulsory identity or a script for future revenge.
 - **Qualify — Long-duration and human-scale continuity.** Plan beyond a vendor or lifespan; protect meaning under advanced mediation without requiring a literal synthetic species split in 2051.
 
-**Existing interlude primitives**
+**Existing interlude mechanisms and builder requirements**
 
 - **Keep — Context-rich memory objects.** Record source, relations, language, intended use, uncertainty, consent, restrictions, and authorized custodians.
 - **Keep — Revisable ontologies and typed graph relationships.** Distinguish facts, testimony, resemblance, inference, disputed meanings, temporal validity, and prohibited inference.
@@ -465,9 +487,11 @@ Sources: [chapter](../manuscripts/volume-3/32-chapter.md), “What Should Surviv
 
 Sources: [chapter](../manuscripts/volume-3/33-chapter.md), “The End of Certainty” onward; [interlude](../manuscripts/volume-3/33-interlude.md), “Not Resurrection” through “Before the Epilogue.”
 
+**Technical companion:** [Pair 33: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-33).
+
 **Signal inheritance.** D: **S12** asks whether the Still Arrow's underlying direction changed; **S16** carries responsibility through powerful deployment; **S17** leaves even Neuverse's models and purposes revisable; **S22** turns rehearsal and review into better action. S: **S13** preserves successors' feasible freedom to refuse or depart; **S18** prepares a supported handoff; **S19** leaves maintained commons; **S20** makes the design amendable, repairable, and capable of surviving its founder.
 
-**Existing chapter topics and principles**
+**Existing chapter topics, values, requirements, and principles**
 
 - **Keep — Orientation without certainty.** Designs are revisable proposals; the future can change conditions and expose the author's assumptions.
 - **Keep — Prepared release.** Leave recourse, memory, tools, maintenance capacity, and usable instructions; neither domination nor neglected obligations is a gift.

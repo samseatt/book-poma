@@ -88,3 +88,17 @@ Chapter 23 now has a separate second opening/bridge review draft applying this d
 ## Design assessment and closing invitations — 4 October 2026
 
 **B-009/B-010 progress:** The [design map](../VOLUME_III_DESIGN_MAP.md) records the opportunity-signal inheritance, existing principles and builder primitives, proposed developments, placement recommendations, and a first **Next Move** for each numbered Volume III chapter. These are distinct invitations grounded in the design, not eleven identical recruitment appeals. The current order remains defensible. No ending or manuscript heading has been replaced. This advances the design assessment; it does not complete the condensation, callback, vignette, or final-source passes.
+
+## Complementary design layers — 4 October 2026
+
+### B-013 — Preserve values; add explicit design and development rigor
+
+**Author clarification; standing direction.** Both indirect design values and direct design principles/methods are important and lead to good designs. Keep the original content list and provide the academic/professional technical knowledge as an additional list. The author intends to explain these ideas in accessible language so readers can use agents to help build future civilization competently. Plain language should preserve the reasoning, application, and limits of the method.
+
+Distinguish purpose/value, requirement, design principle, analysis method, architectural or design pattern, primitive, development/operating practice, and acceptance evidence. Chapters need substantial transferable design reasoning; interludes need construction and experimentation methods. Neither is limited to a list of safeguards. Do not replace a worked explanation with a recognized name, or treat a technical pattern as proof of an ethical outcome.
+
+**Assessment recorded; manuscript integration pending.** The [additional methods and patterns list](../VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md) covers all eleven pairs and includes formal names, brief explanations, applications, worked-demonstration proposals, tradeoffs, and primary references. The [original inventory](../VOLUME_III_DESIGN_MAP.md) remains active and links each pair to its technical companion. No canonical prose was changed.
+
+### B-014 — Civilizational design and system building: provisional emphasis
+
+**Author direction, still in flux.** The numbered chapters should principally offer design principles for designing civilization; the paired interludes should principally offer methodologies and patterns for building its enabling systems or its “silicon civilization.” Designer/builder is a useful shorthand, not a fixed division of disciplines. The builder of civilization and designer of its systems can overlap. Choose placement for the book's usefulness and the reader's task, not to defend a taxonomy. Building includes organizational and physical systems as well as software. The technical companion now records this qualification explicitly.

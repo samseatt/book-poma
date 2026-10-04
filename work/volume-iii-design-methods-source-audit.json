@@ -1,0 +1,431 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-04",
+  "source_revision": "e0cd46664e750126b5a4faed3fb8ea599fc9e7f1",
+  "report": "work/VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md",
+  "relationship": "Additional technical list; original values/domain inventory and signal map remain active.",
+  "manuscripts_modified": false,
+  "previous_content_audit": "work/volume-iii-design-map-audit.json",
+  "coverage": [
+    {
+      "path": "manuscripts/volume-3/23-chapter.md",
+      "sha256": "ac297de3f9051d8d0cbda49ec5ce505a9c2f81003d9dc3126c263afbe0ffd4df",
+      "unit_id": "v3-23-chapter",
+      "current_chapter_number": 23,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 5
+    },
+    {
+      "path": "manuscripts/volume-3/23-interlude.md",
+      "sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "unit_id": "v3-23-interlude",
+      "current_chapter_number": 23,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 30
+    },
+    {
+      "path": "manuscripts/volume-3/24-chapter.md",
+      "sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "unit_id": "v3-24-chapter",
+      "current_chapter_number": 24,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 3
+    },
+    {
+      "path": "manuscripts/volume-3/24-interlude.md",
+      "sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "unit_id": "v3-24-interlude",
+      "current_chapter_number": 24,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 9
+    },
+    {
+      "path": "manuscripts/volume-3/25-chapter.md",
+      "sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "unit_id": "v3-25-chapter",
+      "current_chapter_number": 25,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 3
+    },
+    {
+      "path": "manuscripts/volume-3/25-interlude.md",
+      "sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "unit_id": "v3-25-interlude",
+      "current_chapter_number": 25,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 10
+    },
+    {
+      "path": "manuscripts/volume-3/26-chapter.md",
+      "sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "unit_id": "v3-31-chapter",
+      "current_chapter_number": 26,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 20
+    },
+    {
+      "path": "manuscripts/volume-3/26-interlude.md",
+      "sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "unit_id": "v3-31-interlude",
+      "current_chapter_number": 26,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 34
+    },
+    {
+      "path": "manuscripts/volume-3/27-chapter.md",
+      "sha256": "e5e98380652cf11367c69bdca21af33d0ee154ddf8794755d197e100665f249d",
+      "unit_id": "v3-27-chapter",
+      "current_chapter_number": 27,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 3
+    },
+    {
+      "path": "manuscripts/volume-3/27-interlude.md",
+      "sha256": "14a5d42bba57c79a36c731e31e570cabd865648aba58cf479ccde8d6a656515a",
+      "unit_id": "v3-27-interlude",
+      "current_chapter_number": 27,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 7
+    },
+    {
+      "path": "manuscripts/volume-3/28-chapter.md",
+      "sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "unit_id": "v3-29-chapter",
+      "current_chapter_number": 28,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 9
+    },
+    {
+      "path": "manuscripts/volume-3/28-interlude.md",
+      "sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "unit_id": "v3-29-interlude",
+      "current_chapter_number": 28,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 10
+    },
+    {
+      "path": "manuscripts/volume-3/29-chapter.md",
+      "sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "unit_id": "v3-26-chapter",
+      "current_chapter_number": 29,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 0
+    },
+    {
+      "path": "manuscripts/volume-3/29-interlude.md",
+      "sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "unit_id": "v3-26-interlude",
+      "current_chapter_number": 29,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 8
+    },
+    {
+      "path": "manuscripts/volume-3/30-chapter.md",
+      "sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "unit_id": "v3-30-chapter",
+      "current_chapter_number": 30,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 15
+    },
+    {
+      "path": "manuscripts/volume-3/30-interlude.md",
+      "sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "unit_id": "v3-30-interlude",
+      "current_chapter_number": 30,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 20
+    },
+    {
+      "path": "manuscripts/volume-3/31-chapter.md",
+      "sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "unit_id": "v3-28-chapter",
+      "current_chapter_number": 31,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 3
+    },
+    {
+      "path": "manuscripts/volume-3/31-interlude.md",
+      "sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "unit_id": "v3-28-interlude",
+      "current_chapter_number": 31,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 18
+    },
+    {
+      "path": "manuscripts/volume-3/32-chapter.md",
+      "sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "unit_id": "v3-32-chapter",
+      "current_chapter_number": 32,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 7
+    },
+    {
+      "path": "manuscripts/volume-3/32-interlude.md",
+      "sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "unit_id": "v3-32-interlude",
+      "current_chapter_number": 32,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 14
+    },
+    {
+      "path": "manuscripts/volume-3/33-chapter.md",
+      "sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "unit_id": "v3-33-chapter",
+      "current_chapter_number": 33,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 4
+    },
+    {
+      "path": "manuscripts/volume-3/33-interlude.md",
+      "sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "unit_id": "v3-33-interlude",
+      "current_chapter_number": 33,
+      "scope": "Prior substantive design-body review plus targeted named-method and related-vocabulary scan this turn.",
+      "selected_named_label_matches": [],
+      "related_vocabulary_line_count": 2
+    }
+  ],
+  "named_method_scan_caveat": "A deliberately selected label list was searched. Zero explicit label matches does not establish absence of the underlying concepts or of all other methods.",
+  "source_references": [
+    {
+      "label": "IIBA's business-analysis tasks",
+      "url": "https://www.iiba.org/knowledgehub/business-analysis-standard/4-tasks-and-knowledge-areas/introducing-business-analysis-tasks/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Public task/technique listing and descriptions; not full access-restricted BABOK content."
+    },
+    {
+      "label": "NASA's systems-engineering account",
+      "url": "https://www.nasa.gov/reference/2-0-fundamentals-of-systems-engineering/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "NASA's decision-analysis method",
+      "url": "https://www.nasa.gov/reference/6-8-decision-analysis/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "SEI's Quality Attribute Workshop",
+      "url": "https://insights.sei.cmu.edu/library/quality-attribute-workshop-collection/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "ATAM",
+      "url": "https://insights.sei.cmu.edu/library/architecture-tradeoff-analysis-method-collection/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "NASA's logical decomposition",
+      "url": "https://www.nasa.gov/reference/4-3-logical-decomposition/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Parnas's original argument",
+      "url": "https://www.cs.lafayette.edu/~gexia/cs301/resources/parnas.html",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Cockburn's architecture",
+      "url": "https://alistair.cockburn.us/hexagonal-architecture",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "integration pattern",
+      "url": "https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Saltzer and Schroeder",
+      "url": "https://www.mit.edu/~Saltzer/publications/protection/index.html",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Human–AI Interaction guidelines",
+      "url": "https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "NIST's ABAC model",
+      "url": "https://csrc.nist.gov/pubs/sp/800/162/upd2/final",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "GoF pattern collection",
+      "url": "https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-software-9780201633610",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Publisher description/catalog; not a complete reading of the copyrighted book. Abstract Factory excerpt separately opened."
+    },
+    {
+      "label": "The Nobel account of mechanism design",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2007/9272-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-2007/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "database/message dual-write failure",
+      "url": "https://docs.aws.amazon.com/en_en/prescriptive-guidance/latest/cloud-design-patterns/transactional-outbox.html",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Saga",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/saga",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Biggs's original paper",
+      "url": "https://doi.org/10.1007/BF00138871",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "NIST's explainability principles",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "W3C PROV",
+      "url": "https://www.w3.org/TR/prov-overview/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Ostrom's Nobel lecture",
+      "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Indexed lecture excerpts reviewed; direct PDF opening failed. No claim of complete lecture review."
+    },
+    {
+      "label": "Google's overload engineering",
+      "url": "https://sre.google/sre-book/handling-overload/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "ISO's LCA framework",
+      "url": "https://www.iso.org/standard/37456.html",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Official public standard description, not full standard."
+    },
+    {
+      "label": "Abstract Factory",
+      "url": "https://www.informit.com/articles/article.aspx?p=1398599",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Domain-driven design's bounded-context approach",
+      "url": "https://martinfowler.com/bliki/BoundedContext.html",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "OMG's DMN",
+      "url": "https://www.omg.org/dmn/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "pattern",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Fowler's account",
+      "url": "https://martinfowler.com/bliki/StranglerFigApplication.html",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Gunther's Universal Scalability Law",
+      "url": "https://www.perfdynamics.com/Manifesto/USLscalability.pdf",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Chouldechova's research",
+      "url": "https://arxiv.org/abs/1610.07524",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Meyer’s contract approach",
+      "url": "https://www.eiffel.com/values/design-by-contract/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Event Sourcing",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "METTLE",
+      "url": "https://arxiv.org/abs/1807.10453",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "Leveson and Thomas's STPA",
+      "url": "https://psas.scripts.mit.edu/home/books-and-handbooks/",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    },
+    {
+      "label": "OAIS reference model",
+      "url": "https://ccsds.org/Pubs/650x0m3.pdf",
+      "use": "Definition, framework, practice, or qualification; chapter placement and worked examples are editorial applications.",
+      "scope_note": "Primary-source page, author account, research paper, or official technical guidance consulted through browsing; no certification of the proposed civic application."
+    }
+  ],
+  "proposed_technical_entry_counts": {
+    "23": 8,
+    "24": 8,
+    "25": 8,
+    "26": 8,
+    "27": 8,
+    "28": 8,
+    "29": 8,
+    "30": 8,
+    "31": 8,
+    "32": 8,
+    "33": 9
+  },
+  "author_clarification": "Both indirect design values and direct academic/engineering knowledge matter. Preserve the first list; the second supports later explanation in common language and competent building with agents.",
+  "provisional_chapter_interlude_emphasis": "Chapters: principles and reasoning for designing civilization. Interludes: methods/patterns for building enabling systems, including Silicon. Placement is utilitarian, overlapping, and not fixed."
+}
