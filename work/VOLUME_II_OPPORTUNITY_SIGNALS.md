@@ -2,7 +2,7 @@
 
 Editorial reading completed 1 October 2026, against source revision `aae7296`. Read the whole of Delta's chapter and interlude and Chapters 12–22, including legacy notes still appended to two chapters. Numbered interludes were deliberately excluded. No manuscript prose was changed. Source hashes and complete reading coverage are in [the reading audit](volume-ii-reading-audit.json).
 
-This is an extraction of the existing argument, with editorial interpretation explicitly distinguished from manuscript headings. It is not a verification of every historical, scientific, medical or attributed claim in these drafts. The next task is to trace these signals into Volume III's design decisions; that many-to-many mapping has not yet been completed.
+This is an extraction of the existing argument, with editorial interpretation explicitly distinguished from manuscript headings. It is not a verification of every historical, scientific, medical or attributed claim in these drafts. The many-to-many mapping into Volume III was completed as an editorial assessment on 4 October 2026 in [the design map](VOLUME_III_DESIGN_MAP.md). Its proposed changes and callbacks have not been integrated into manuscript prose. The signal extraction below remains unchanged.
 
 ## The contract between the volumes
 
@@ -82,7 +82,7 @@ Audits, rehearsals, reserves and interruptions make reflection operational. Thei
 
 Together these pieces supply a method and a common set of cases. They do not add a twelfth opportunity signal.
 
-## Next mapping exercise
+## Mapping method and subsequent assessment
 
 For each Volume III chapter, test all eleven signals for substantive relevance. Record a strong connection only where it changes an actual design choice, tradeoff, failure test or form of participation. Identify a few dominant inheritances and retain supporting ones where they do useful work; an eleven-by-eleven matrix need not become 121 obligatory callbacks.
 

@@ -1,0 +1,1181 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-04",
+  "report": "work/VOLUME_III_DESIGN_MAP.md",
+  "source_revision": "80ce1e7d12bec7ecfedfad3b2a07a78be2a312d8",
+  "canonical_manuscripts_modified": false,
+  "scope_note": "Grouped editorial inventory and substantive design-body review of 22 numbered Volume III units. Reading envelopes summarize the areas reviewed across overlapping calls, not a claim of a new cover-to-cover read. Openings/history were consulted selectively. No full factual validation is claimed.",
+  "signal_source": {
+    "path": "work/VOLUME_II_OPPORTUNITY_SIGNALS.md",
+    "sha256": "a0f3b4b004ff5222aa8805efddf2b59912424c40997ae3917002a89ffa196d22",
+    "note": "Hash records extraction document before this task adds a dated mapping-status link. Signal definitions unchanged."
+  },
+  "prior_reading_records": [
+    "work/volume-iii-reading-audit.json",
+    "work/volume-ii-reading-audit.json"
+  ],
+  "input_units": [
+    {
+      "path": "manuscripts/volume-3/23-chapter.md",
+      "sha256": "ac297de3f9051d8d0cbda49ec5ce505a9c2f81003d9dc3126c263afbe0ffd4df",
+      "words": 6640,
+      "headings": [
+        "5: # The Loom of Renewal",
+        "143: ## The First Knot",
+        "191: ## Before the Crown",
+        "220: ## After the Break",
+        "276: ## From Institutions to Flows",
+        "346: ## Visible Need, Visible Capacity",
+        "402: ## Availability, Not Authority",
+        "460: ## The First Meshes",
+        "536: ## The Neighbor Refactored",
+        "580: ## Covenant Without Thunder",
+        "628: ## The Danger of Helpful Coordination",
+        "702: ## Build the First Knot"
+      ],
+      "annotations": [
+        "[[The AI concerns have now shifted from the acute hysteria of the previous two or so years into a chronic *what now?* But we'sr still in the early-plow season of a grand innovation: access is near ubiquitous but failure mitigation, data-center and vendor failover, and economic and cultural realignment are still waiting for significantly modern gods. ]]"
+      ],
+      "unit_id": "v3-23-chapter",
+      "current_chapter_number": 23,
+      "original_chapter_id": 23,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          220,
+          780
+        ]
+      ],
+      "manifest_recorded_sha256": "ea13856386b11dbea9ad01557f8627c9fa2a064f33b4a074a2b1d77396dc1521",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 804
+    },
+    {
+      "path": "manuscripts/volume-3/23-interlude.md",
+      "sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "words": 6364,
+      "headings": [
+        "5: # The Loom of Design",
+        "139: ## Iron, Lens, Log",
+        "205: ## Goodwill Is Not Architecture",
+        "267: ## Need: The Dangerous Visibility",
+        "347: ## Capacity: Help Without Conscription",
+        "437: ## Roles, Not Users",
+        "515: ## Trust Gradients",
+        "605: ## Boundaries and Sunsets",
+        "657: ## The Ethics of Routing",
+        "731: ## Feedback Without Punishment",
+        "805: ## Local First, Federated Later",
+        "853: ## The Renewal Mesh as Commons",
+        "909: ## Interfaces Between Worlds",
+        "975: ## Failure Modes",
+        "1045: ## The First Oath",
+        "1111: ## Handoff: The Door Opens"
+      ],
+      "annotations": [],
+      "unit_id": "v3-23-interlude",
+      "current_chapter_number": 23,
+      "original_chapter_id": 23,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          205,
+          1143
+        ]
+      ],
+      "manifest_recorded_sha256": "5d6853a04d96d3a0aa6aa2e08425595875697740f61e259ddf7bb73795b0999b",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1143
+    },
+    {
+      "path": "manuscripts/volume-3/24-chapter.md",
+      "sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "words": 6562,
+      "headings": [
+        "5: # The Citizen's Dilemma",
+        "150: ## When Help Enters the Room",
+        "188: ## The Empire That Knows Your Name",
+        "216: ## The Fear of the Helpful System",
+        "270: ## Agency Is Not a Button",
+        "318: ## Delegation Without Surrender",
+        "374: ## Trust as Architecture",
+        "422: ## The Model of Me",
+        "516: ## The Right to Outgrow the Model",
+        "556: ## Plural Selves, Plural Belonging",
+        "616: ## The Right to Opacity",
+        "670: ## Help That Leaves",
+        "722: ## Contestability as Dignity",
+        "772: ## Adaptive Systems and Paternalism",
+        "842: ## Dignity Under Recommendation",
+        "886: ## Build for Contestability"
+      ],
+      "annotations": [],
+      "unit_id": "v3-24-chapter",
+      "current_chapter_number": 24,
+      "original_chapter_id": 24,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          216,
+          958
+        ]
+      ],
+      "manifest_recorded_sha256": "7140ccef841f9ad8a503f78b8c42b86c1198e80afd95b3c7e9d1d8801123f43e",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1000
+    },
+    {
+      "path": "manuscripts/volume-3/24-interlude.md",
+      "sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "words": 4662,
+      "headings": [
+        "5: # The Developer's Dilemma",
+        "116: ## The Punch-Card Loom",
+        "154: ## The Builder as Civic Actor",
+        "214: ## Help Without Custody",
+        "306: ## Consent After the Checkbox",
+        "392: ## The Model of Me",
+        "480: ## The Right to Outgrow the Model",
+        "522: ## Explanation, Stakes, and Recourse",
+        "590: ## When Not to Automate",
+        "652: ## Dark Patterns as Civic Poison",
+        "706: ## Who Governs the Builders?",
+        "794: ## The Dangerous Word: Optimization",
+        "856: ## Exit, Portability, and Plural Help",
+        "918: ## The Developer's Oath",
+        "974: ## Handoff: The Ledger Beneath the Help"
+      ],
+      "annotations": [],
+      "unit_id": "v3-24-interlude",
+      "current_chapter_number": 24,
+      "original_chapter_id": 24,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          154,
+          974
+        ]
+      ],
+      "manifest_recorded_sha256": "de4a5dda322e7273deb8585bfbac92b4c05f35602df82b5f056f105a41107efe",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 992
+    },
+    {
+      "path": "manuscripts/volume-3/25-chapter.md",
+      "sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "words": 7134,
+      "headings": [
+        "5: # Beyond the Invisible Hand",
+        "117: ## When the Desks Go Dark",
+        "170: ## Who Gets the Harvest?",
+        "196: ## When Price Fails",
+        "272: ## Money Wearing Too Large a Hat",
+        "328: ## The Apples in the Closet",
+        "404: ## Seeing Need Directly",
+        "468: ## Contribution Beyond Wage",
+        "528: ## From Transaction to Flow",
+        "586: ## The Bank Refactored",
+        "656: ## Anti-Hoarding by Design",
+        "726: ## Value Memory, Not Human Scoring",
+        "776: ## Provision as Dignity",
+        "824: ## Business as Provisioning Intelligence",
+        "884: ## Livelihood After Jobs",
+        "956: ## The Danger of Abundance",
+        "1004: ## Economies That See"
+      ],
+      "annotations": [],
+      "unit_id": "v3-25-chapter",
+      "current_chapter_number": 25,
+      "original_chapter_id": 25,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          196,
+          1004
+        ]
+      ],
+      "manifest_recorded_sha256": "1fc94ee0a6ccbd2a2287f63857c6a035e4dd48980d8079667be571904aa6a86c",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1094
+    },
+    {
+      "path": "manuscripts/volume-3/25-interlude.md",
+      "sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "words": 7020,
+      "headings": [
+        "5: # The Living Ledger",
+        "223: ## The Invisible Custodian",
+        "335: ## Lever, Flow, Chain, Measure",
+        "381: ## Ledger as Memory, Not Master",
+        "437: ## From Balance Sheet to Flow Graph",
+        "505: ## DAGs and the Shape of Contribution",
+        "569: ## Contribution Without Scoring the Soul",
+        "621: ## Need Without Stigma",
+        "679: ## Service Credits and Their Temptations",
+        "727: ## The Pantry and the Dragon's Cave",
+        "785: ## Audit Without Exposure",
+        "821: ## Local and Global Value",
+        "873: ## Non-Speculative Value Media",
+        "945: ## Plural Value Registers",
+        "997: ## Recourse in the Ledger",
+        "1081: ## Who Governs the Ledger?",
+        "1151: ## The Civic Metabolism"
+      ],
+      "annotations": [],
+      "unit_id": "v3-25-interlude",
+      "current_chapter_number": 25,
+      "original_chapter_id": 25,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          223,
+          335
+        ],
+        [
+          381,
+          1151
+        ]
+      ],
+      "manifest_recorded_sha256": "b5bf9abe832c360794f8c42dd03fa94ecf2492b14d0c53d070df4c7ccd80b38e",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1231
+    },
+    {
+      "path": "manuscripts/volume-3/26-chapter.md",
+      "sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "words": 7466,
+      "headings": [
+        "5: # Minds in Harmony",
+        "181: ## When Meaning Arrives Late",
+        "279: ## Whose Words Survive?",
+        "307: ## Shared Reality as Commons",
+        "363: ## From Information to Interpretation",
+        "425: ## Education as Civic Attunement",
+        "479: ## Media as Epistemic Infrastructure",
+        "533: ## Practical Prophets",
+        "603: ## Truth, Knowledge, Wisdom",
+        "661: ## Machine Tutors and Cognitive Scaffolds",
+        "713: ## Provenance and Public Record",
+        "771: ## Rituals of Correction",
+        "833: ## Plurality Without Relativism",
+        "883: ## Attention as Civic Resource",
+        "933: ## Shared Simulations as Learning Environments",
+        "977: ## Build Minds That Can Update"
+      ],
+      "annotations": [],
+      "unit_id": "v3-31-chapter",
+      "current_chapter_number": 26,
+      "original_chapter_id": 31,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          307,
+          1000
+        ]
+      ],
+      "manifest_recorded_sha256": "53f5da348721528dacbb03b249544f45303813ca63893c270097c06481188766",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1067
+    },
+    {
+      "path": "manuscripts/volume-3/26-interlude.md",
+      "sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "words": 5818,
+      "headings": [
+        "5: # Signal and Story",
+        "125: ## Hero's Theater and the Antikythera Sky",
+        "173: ## Signal Before Story",
+        "237: ## Provenance as Civic Infrastructure",
+        "303: ## Beyond True and False",
+        "387: ## The Public Record as Civic Skeleton",
+        "439: ## Media as Civic Interface",
+        "523: ## Attention Protection Protocols",
+        "569: ## Cognitive Scaffolds",
+        "619: ## AI Tutors and Epistemic Apprenticeships",
+        "697: ## Narrative Environments",
+        "755: ## Practical Prophecy Systems",
+        "839: ## Correction Architecture",
+        "897: ## Epistemic Recourse",
+        "969: ## Anti-Manipulation Design",
+        "1023: ## The Epistemic Commons",
+        "1089: ## Machine-Generated Story and Art",
+        "1129: ## The Signal Table"
+      ],
+      "annotations": [],
+      "unit_id": "v3-31-interlude",
+      "current_chapter_number": 26,
+      "original_chapter_id": 31,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          173,
+          1175
+        ]
+      ],
+      "manifest_recorded_sha256": "75f08df94b7c55f29066a70be5d240ec91862a28304970dea4a9af129db2286e",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1213
+    },
+    {
+      "path": "manuscripts/volume-3/27-chapter.md",
+      "sha256": "e5e98380652cf11367c69bdca21af33d0ee154ddf8794755d197e100665f249d",
+      "words": 6325,
+      "headings": [
+        "5: # The Reclaimed Commons",
+        "133: ## The Floor Becomes Visible",
+        "203: ## The Terms of Belonging",
+        "229: ## The Cost of Invisible Substrates",
+        "275: ## What a Commons Is Not",
+        "309: ## Data Without Exposure",
+        "363: ## Attention and Trust as Commons",
+        "423: ## Nature as Infrastructure",
+        "463: ## The Sovereign Grid",
+        "513: ## How Commons Become Enclosed",
+        "617: ## Stewardship as Participation",
+        "645: ## Dashboards and Footsteps",
+        "691: ## Place-Based Knowledge",
+        "729: ## Future Generations",
+        "789: ## Sacred Limits",
+        "845: ## Commons Failure Modes",
+        "879: ## Make the Invisible Visible"
+      ],
+      "annotations": [],
+      "unit_id": "v3-27-chapter",
+      "current_chapter_number": 27,
+      "original_chapter_id": 27,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          229,
+          941
+        ]
+      ],
+      "manifest_recorded_sha256": "58176538fc5e949c8c28465310af60d0666679f9133ae0a0ef9af3e29bb97351",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 941
+    },
+    {
+      "path": "manuscripts/volume-3/27-interlude.md",
+      "sha256": "14a5d42bba57c79a36c731e31e570cabd865648aba58cf479ccde8d6a656515a",
+      "words": 5012,
+      "headings": [
+        "5: # Streams and Sanctuaries",
+        "103: ## Steel, Map, Canon",
+        "145: ## Streams and Sanctuaries",
+        "175: ## Data Trusts Are Not Databases",
+        "235: ## Indigenous Data Sovereignty and Place-Bound Knowledge",
+        "287: ## The Genome Is a Family Alphabet",
+        "369: ## Ecological Data: Visibility Before Speculation",
+        "423: ## Access Tiers",
+        "479: ## Use Covenants and Purpose Limits",
+        "535: ## Provenance, Retention, and Deletion",
+        "593: ## Benefit Sharing",
+        "663: ## Proof Without Exposure",
+        "697: ## Let Knowledge Travel When Data Should Not",
+        "755: ## Anti-Enclosure Architecture",
+        "807: ## Stewardship Roles",
+        "859: ## Commons Incident Response",
+        "937: ## The Duty to Flow",
+        "1003: ## The Covenant of the Spring"
+      ],
+      "annotations": [],
+      "unit_id": "v3-27-interlude",
+      "current_chapter_number": 27,
+      "original_chapter_id": 27,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          145,
+          1060
+        ]
+      ],
+      "manifest_recorded_sha256": "601bb18e09d739d698bf21287e1670d1103522c4a5997fc700be00510777ab63",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1071
+    },
+    {
+      "path": "manuscripts/volume-3/28-chapter.md",
+      "sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "words": 6075,
+      "headings": [
+        "5: # The Reimagined Workshop",
+        "139: ## When the Road Goes Silent",
+        "171: ## The Hands Behind the Output",
+        "197: ## The Cost of Industrial Abstraction",
+        "255: ## Making as Responsibility",
+        "317: ## Local Where Useful, Distributed Where Wise",
+        "357: ## The Reimagined Workshop",
+        "410: ## Repair as Civic Virtue",
+        "462: ## Material Passports",
+        "502: ## Circular Before Recycled",
+        "548: ## Regenerative Matter",
+        "618: ## Labor After Automation",
+        "678: ## Craft and Art",
+        "702: ## Supply Chains as Moral Chains",
+        "756: ## The Corridor and the Room",
+        "790: ## Standards Without Suffocation",
+        "842: ## The Workshop as Commons",
+        "878: ## Build What Can Be Sustained"
+      ],
+      "annotations": [],
+      "unit_id": "v3-29-chapter",
+      "current_chapter_number": 28,
+      "original_chapter_id": 29,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          197,
+          933
+        ]
+      ],
+      "manifest_recorded_sha256": "cca85a388a23b5c909a15017fb71ba16ec00489fbd1160cf58e175f4e5a626d5",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 958
+    },
+    {
+      "path": "manuscripts/volume-3/28-interlude.md",
+      "sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "words": 5448,
+      "headings": [
+        "5: # Neufacturing",
+        "143: ## Zero, Silk, Stirrup",
+        "195: ## From Factory to Cell",
+        "257: ## Parametric Objects",
+        "307: ## Additive Is Not Automatically Ethical",
+        "351: ## Material Passports",
+        "405: ## Lifecycle Ledgers",
+        "429: ## Repair as Protocol",
+        "467: ## Certification Without Suffocation",
+        "519: ## Biofabrication Without Halos",
+        "549: ## Regenerative Matter",
+        "599: ## Energy, Water, and Resource Accounting",
+        "643: ## Supply Meshes",
+        "675: ## Open Design Libraries",
+        "707: ## The Human Hand Returns",
+        "737: ## Waste as Feedback",
+        "787: ## Governance of Production Cells",
+        "839: ## The Arm That Paused"
+      ],
+      "annotations": [],
+      "unit_id": "v3-29-interlude",
+      "current_chapter_number": 28,
+      "original_chapter_id": 29,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          195,
+          900
+        ]
+      ],
+      "manifest_recorded_sha256": "eb18d9e9dc9100d4b5a410d1ece12006bb18d14a01977e1eef2242ab83ae47ea",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 909
+    },
+    {
+      "path": "manuscripts/volume-3/29-chapter.md",
+      "sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "words": 5640,
+      "headings": [
+        "5: # The Steward's Edge",
+        "107: ## When Machines Carry the Weight",
+        "147: ## Who May Decide?",
+        "175: ## Governance After Trust Collapse",
+        "233: ## From Representation to Participation",
+        "283: ## Authority at the Edge",
+        "335: ## Liquid Delegation and Civic Roles",
+        "403: ## The Silicon Tonnage Tax",
+        "461: ## Taxation as Moral Measurement",
+        "509: ## Stewardship as Civic Infrastructure",
+        "563: ## Citizenship Beyond Passport",
+        "601: ## Governance of Machine Actors",
+        "655: ## Recourse as Legitimacy",
+        "699: ## Anti-Capture at the Edge",
+        "753: ## Canada as Workbench",
+        "781: ## Governance as Co-Authorship",
+        "829: ## Build Governance People Can Enter"
+      ],
+      "annotations": [],
+      "unit_id": "v3-26-chapter",
+      "current_chapter_number": 29,
+      "original_chapter_id": 26,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          175,
+          870
+        ]
+      ],
+      "manifest_recorded_sha256": "bd9fabedfc926a58966ad1e2fd140d9d6c8d5011223c76d752e2f4e708563315",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 903
+    },
+    {
+      "path": "manuscripts/volume-3/29-interlude.md",
+      "sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "words": 4361,
+      "headings": [
+        "5: # Civic Meshes",
+        "103: ## Paper, Algebra, Distillation",
+        "163: ## The Person Is Not the Profile",
+        "207: ## Identity, Credential, Role, Right",
+        "243: ## Self-Sovereign, But Not Wallet-Sovereign",
+        "289: ## Plural Membership",
+        "345: ## Rights Across Meshes",
+        "385: ## Liquid Delegation",
+        "429: ## Civic Credentials Without Castes",
+        "479: ## Protocol Governance",
+        "511: ## Federation Without Chaos",
+        "553: ## Jurisdiction and Dispute Routing",
+        "621: ## Machine Actor Registries",
+        "649: ## Taxation and Measurement Protocols",
+        "687: ## Civic Audit Trails",
+        "721: ## Anti-Capture Architecture",
+        "779: ## Upgrade and Amendment",
+        "815: ## Civic Meshes"
+      ],
+      "annotations": [],
+      "unit_id": "v3-26-interlude",
+      "current_chapter_number": 29,
+      "original_chapter_id": 26,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          163,
+          849
+        ]
+      ],
+      "manifest_recorded_sha256": "6b31e93d96361cec9e30687a362bedf66ed0ab5b85c95c6ff640e43e05874d57",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 849
+    },
+    {
+      "path": "manuscripts/volume-3/30-chapter.md",
+      "sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "words": 5555,
+      "headings": [
+        "5: # Justice Before Judgment",
+        "163: ## The Future Judges in Interfaces",
+        "241: ## The Certificate of Justice",
+        "269: ## The Illusion of Neutral Systems",
+        "337: ## Judgment Before Judgment",
+        "393: ## Fairness Before Outcome",
+        "441: ## Evidence Provenance",
+        "487: ## Due Process as Interface",
+        "535: ## Recourse as Right",
+        "583: ## Proportionality",
+        "633: ## Prevention Without Pre-Crime",
+        "705: ## Restorative and Reparative Pathways",
+        "775: ## Systems That Admit Error",
+        "829: ## Justice Across Blurred Jurisdictions",
+        "859: ## Resource Justice",
+        "893: ## Justice for Machine-Caused Harm",
+        "941: ## Dignity Under Suspicion",
+        "971: ## Justice as Commons",
+        "999: ## Build Systems That Can Admit Error"
+      ],
+      "annotations": [],
+      "unit_id": "v3-30-chapter",
+      "current_chapter_number": 30,
+      "original_chapter_id": 30,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          269,
+          1045
+        ]
+      ],
+      "manifest_recorded_sha256": "5626ed137bf2864d118d6ef7cf93822897ebea80ea735972ba56c9d6f73bbcac",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1045
+    },
+    {
+      "path": "manuscripts/volume-3/30-interlude.md",
+      "sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "words": 4341,
+      "headings": [
+        "5: # Protocols of Integrity",
+        "117: ## Optics, Compass, Clinic",
+        "177: ## Compliance Is Not Integrity",
+        "237: ## Decision Traceability",
+        "285: ## Evidence Is a Journey",
+        "323: ## Fairness Is Not One Knob",
+        "357: ## Edge Cases Are Where People Live",
+        "399: ## Contestable Automation",
+        "457: ## Due Process as Workflow",
+        "509: ## Proportionality Protocols",
+        "537: ## Prevention Without Punishment",
+        "577: ## Civic Postmortems",
+        "617: ## Restorative Pathways",
+        "647: ## Reliability Engineering for Justice",
+        "681: ## Metrics Under Suspicion",
+        "709: ## Human Review That Actually Reviews",
+        "761: ## Cross-Jurisdiction Integrity",
+        "781: ## Integrity Meshes",
+        "829: ## All Green Checks, One Wrong Life"
+      ],
+      "annotations": [],
+      "unit_id": "v3-30-interlude",
+      "current_chapter_number": 30,
+      "original_chapter_id": 30,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          177,
+          863
+        ]
+      ],
+      "manifest_recorded_sha256": "fe1173ebe77d959a1cf7950bbab3a3794a0a561490b01e70328f086ce750341e",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 863
+    },
+    {
+      "path": "manuscripts/volume-3/31-chapter.md",
+      "sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "words": 5970,
+      "headings": [
+        "5: # The Flow of Care",
+        "163: ## Bodies Do Not Live Episodically",
+        "199: ## Counting the Living",
+        "227: ## The Failure of Protocol Medicine",
+        "263: ## Seeing the Whole Patient",
+        "291: ## Care as Relationship",
+        "315: ## The Patient-Clinician-System Loop",
+        "363: ## AI as Clinical Companion",
+        "411: ## Uncertainty as Interface",
+        "451: ## Family and Caregiver as Signal",
+        "499: ## Home as Care Setting",
+        "527: ## Prevention as Presence",
+        "569: ## Precision Without Reductionism",
+        "597: ## Dignity in Aging",
+        "643: ## Practical Angels",
+        "673: ## Care Equity",
+        "709: ## Care as Commons",
+        "761: ## Design for Presence"
+      ],
+      "annotations": [],
+      "unit_id": "v3-28-chapter",
+      "current_chapter_number": 31,
+      "original_chapter_id": 28,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          227,
+          833
+        ]
+      ],
+      "manifest_recorded_sha256": "8a490388e914836cf10b114839425c8032afb8f58b9ff34b77dbd9b8f0c2c501",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 833
+    },
+    {
+      "path": "manuscripts/volume-3/31-interlude.md",
+      "sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "words": 4101,
+      "headings": [
+        "5: # From Molecule to Moment",
+        "119: ## Clock, Formula, Lens",
+        "173: ## From Record to Pattern",
+        "257: ## Longitudinal Health State",
+        "287: ## Digital Twin Without Reductionism",
+        "331: ## Genome as Weather, Not Fate",
+        "381: ## Signals: Labs, Wearables, Symptoms, Family",
+        "459: ## Medication State Architecture",
+        "531: ## The Body Ignores the Hospital Directory",
+        "573: ## Uncertainty as Interface",
+        "625: ## Escalation Pathways",
+        "667: ## AI Second Opinions",
+        "717: ## Patient and Family Interfaces",
+        "753: ## Clinical Provenance",
+        "793: ## Safety, Validation, and Drift",
+        "839: ## Clinical Recourse",
+        "877: ## Against Protocol Tyranny",
+        "929: ## Pattern Stewardship"
+      ],
+      "annotations": [],
+      "unit_id": "v3-28-interlude",
+      "current_chapter_number": 31,
+      "original_chapter_id": 28,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          173,
+          971
+        ]
+      ],
+      "manifest_recorded_sha256": "00db21f10b9f9afea3f63bcea3237d6894a913cba3d0dd283cad462d64a378e3",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 971
+    },
+    {
+      "path": "manuscripts/volume-3/32-chapter.md",
+      "sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "words": 5718,
+      "headings": [
+        "5: # Threads of Continuity",
+        "114: ## The Archive Learns to Speak",
+        "132: ## The Inheritance That Can Answer Back",
+        "160: ## What Should Survive?",
+        "248: ## Memory, Not Museum",
+        "282: ## The Old Stories Were Not Empty",
+        "346: ## Religion as Memory Infrastructure",
+        "394: ## Ritual as Emotional Technology",
+        "454: ## Archives with Ethics",
+        "502: ## The Right to Incompleteness",
+        "548: ## Language as Weather System",
+        "584: ## Culture After Borders",
+        "606: ## Family Memory and Civilizational Memory",
+        "666: ## Trauma and Continuity",
+        "694: ## The Synthetic Species Split",
+        "736: ## Art as Continuity",
+        "780: ## Long Now Stewardship",
+        "866: ## Carry Forward Without Freezing"
+      ],
+      "annotations": [],
+      "unit_id": "v3-32-chapter",
+      "current_chapter_number": 32,
+      "original_chapter_id": 32,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          160,
+          918
+        ]
+      ],
+      "manifest_recorded_sha256": "b87451ea0996d84294425343f2bd96ca0a03ae94734a765532742284ad483d14",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 918
+    },
+    {
+      "path": "manuscripts/volume-3/32-interlude.md",
+      "sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "words": 4584,
+      "headings": [
+        "5: # Encoding the Eternal",
+        "93: ## Print, Powder, Contagion",
+        "133: ## Storage Is Not Memory",
+        "177: ## Semantic Continuity",
+        "213: ## Ontology as Worldview",
+        "293: ## Knowledge Graphs with Humility",
+        "351: ## Provenance as Moral Spine",
+        "381: ## Preserve the Artifact, Version the Interpretation",
+        "411: ## Cultural Metadata",
+        "449: ## Language as Living Archive",
+        "501: ## Ritual Context",
+        "531: ## Reconstruction Is Not Resurrection",
+        "583: ## The Right to Incompleteness",
+        "617: ## Forgetting as Mercy Function",
+        "659: ## Community-Controlled Archives",
+        "709: ## AI Is Not Entitled to the Archive",
+        "765: ## Future-Readable Memory",
+        "791: ## Authenticity and Memory Security",
+        "845: ## Semantic Commons",
+        "871: ## Mark It as Missing"
+      ],
+      "annotations": [],
+      "unit_id": "v3-32-interlude",
+      "current_chapter_number": 32,
+      "original_chapter_id": 32,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          133,
+          919
+        ]
+      ],
+      "manifest_recorded_sha256": "08a78b0c103ca9575160de3b8b52e1634cc1d92ff2af6ccd5d8dac1361a141ff",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 919
+    },
+    {
+      "path": "manuscripts/volume-3/33-chapter.md",
+      "sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "words": 10016,
+      "headings": [
+        "5: # The Arrow's Release",
+        "158: ## A Designed Future Still Has to Live",
+        "204: ## The Authority to Leave Us Behind",
+        "234: ## The End of Certainty",
+        "284: ## Release Is Not Abandonment",
+        "336: ## Control Is Not Care",
+        "404: ## The Humane Singularity",
+        "464: ## Simulation Before Release",
+        "512: ## The Room as Final Technology",
+        "552: ## Future Generations as Co-Authors",
+        "600: ## The Builder's Temptation",
+        "648: ## Failure as Inheritance",
+        "712: ## The Basket Returns",
+        "782: ## The Arrow Releases",
+        "854: ## Grief Transmuted into Tools",
+        "902: ## Canada as Workbench",
+        "940: ## What We Have Woven",
+        "994: ## Release Without Abandoning"
+      ],
+      "annotations": [],
+      "unit_id": "v3-33-chapter",
+      "current_chapter_number": 33,
+      "original_chapter_id": 33,
+      "kind": "chapter",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          234,
+          1116
+        ]
+      ],
+      "manifest_recorded_sha256": "db986de1aca0d3219004ef04e489834d5c1b4b686244fd503752ec838134e433",
+      "manifest_hash_matches_current": false,
+      "unchanged_during_assessment": true,
+      "line_count": 1116
+    },
+    {
+      "path": "manuscripts/volume-3/33-interlude.md",
+      "sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "words": 9862,
+      "headings": [
+        "5: # Machines as Mirrors",
+        "272: ## Not Resurrection",
+        "316: ## What Is It Like to Be an Archive?",
+        "360: ## The Candy and the Feast",
+        "414: ## Every Dashboard Is a Mirror with an Agenda",
+        "456: ## Reality Bubbles on Purpose",
+        "505: ## Simulation as Rehearsal, Not Prophecy",
+        "539: ## Do Not Test Civilization in Production",
+        "585: ## Sacred Is What Power Must Not Handle Casually",
+        "667: ## If Experience Is Possible",
+        "725: ## Grief Is Not a Subscription Tier",
+        "805: ## The Collective State",
+        "868: ## The Still Arrow Revisited",
+        "912: ## Carbon and Silicon Ouroboros",
+        "964: ## What Simulation Must Never Replace",
+        "1028: ## The Last Look at the Mirror",
+        "1160: ## Before the Epilogue"
+      ],
+      "annotations": [],
+      "unit_id": "v3-33-interlude",
+      "current_chapter_number": 33,
+      "original_chapter_id": 33,
+      "kind": "interlude",
+      "review_scope": "Design-bearing sections; selected openings, transitions, and historical context. Prior full reading remains supporting provenance.",
+      "design_reading_envelope_lines": [
+        [
+          272,
+          1214
+        ]
+      ],
+      "manifest_recorded_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "manifest_hash_matches_current": true,
+      "unchanged_during_assessment": true,
+      "line_count": 1214
+    }
+  ],
+  "signal_map": [
+    {
+      "chapter": 23,
+      "topic": "Renewal",
+      "dominant": [
+        "v2-signal-12",
+        "v2-signal-15",
+        "v2-signal-18",
+        "v2-signal-20"
+      ],
+      "supporting": [
+        "v2-signal-13",
+        "v2-signal-16",
+        "v2-signal-19"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Make help arrive",
+        "summary": "Make one recurring need reliably reach appropriate help, then identify what requires a funded service."
+      }
+    },
+    {
+      "chapter": 24,
+      "topic": "Agency",
+      "dominant": [
+        "v2-signal-13",
+        "v2-signal-17",
+        "v2-signal-21"
+      ],
+      "supporting": [
+        "v2-signal-15",
+        "v2-signal-16",
+        "v2-signal-20",
+        "v2-signal-22"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Keep a key",
+        "summary": "Bound an important delegation, preserve a usable alternative, and use the recovered freedom for a chosen life."
+      }
+    },
+    {
+      "chapter": 25,
+      "topic": "Economy",
+      "dominant": [
+        "v2-signal-12",
+        "v2-signal-18",
+        "v2-signal-19"
+      ],
+      "supporting": [
+        "v2-signal-13",
+        "v2-signal-15",
+        "v2-signal-20"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Give abundance somewhere to go",
+        "summary": "Turn a productivity gain into a dependable, funded benefit beyond its owner."
+      }
+    },
+    {
+      "chapter": 26,
+      "topic": "Minds",
+      "dominant": [
+        "v2-signal-14",
+        "v2-signal-15",
+        "v2-signal-17",
+        "v2-signal-21"
+      ],
+      "supporting": [
+        "v2-signal-19",
+        "v2-signal-22"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Make changing your mind easier",
+        "summary": "Build a shared evidence practice in which corrections reach the people who received the original claim."
+      }
+    },
+    {
+      "chapter": 27,
+      "topic": "Commons",
+      "dominant": [
+        "v2-signal-15",
+        "v2-signal-19"
+      ],
+      "supporting": [
+        "v2-signal-14",
+        "v2-signal-16",
+        "v2-signal-18",
+        "v2-signal-20"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Take a share of the stewardship",
+        "summary": "Support a legitimate custodial arrangement for a shared dependency and undertake one continuing obligation."
+      }
+    },
+    {
+      "chapter": 28,
+      "topic": "Making",
+      "dominant": [
+        "v2-signal-16",
+        "v2-signal-19",
+        "v2-signal-20"
+      ],
+      "supporting": [
+        "v2-signal-12",
+        "v2-signal-18",
+        "v2-signal-22"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Give one thing another life",
+        "summary": "Repair or extend a useful object safely, record what made that possible, and challenge the obstacle it exposed."
+      }
+    },
+    {
+      "chapter": 29,
+      "topic": "Governance",
+      "dominant": [
+        "v2-signal-18",
+        "v2-signal-20"
+      ],
+      "supporting": [
+        "v2-signal-13",
+        "v2-signal-16",
+        "v2-signal-19",
+        "v2-signal-21",
+        "v2-signal-22"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Put one rule within reach",
+        "summary": "Give affected people a resourced, legitimate route to change a rule and review its consequences."
+      }
+    },
+    {
+      "chapter": 30,
+      "topic": "Justice",
+      "dominant": [
+        "v2-signal-13",
+        "v2-signal-17",
+        "v2-signal-20"
+      ],
+      "supporting": [
+        "v2-signal-14",
+        "v2-signal-15",
+        "v2-signal-16",
+        "v2-signal-18",
+        "v2-signal-21",
+        "v2-signal-22"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Carry the appeal through to repair",
+        "summary": "Make one consequential decision challengeable, deliver remedy, and correct similarly affected cases."
+      }
+    },
+    {
+      "chapter": 31,
+      "topic": "Care",
+      "dominant": [
+        "v2-signal-15",
+        "v2-signal-18",
+        "v2-signal-20"
+      ],
+      "supporting": [
+        "v2-signal-13",
+        "v2-signal-16",
+        "v2-signal-17",
+        "v2-signal-19",
+        "v2-signal-21"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Keep the care connected",
+        "summary": "Close a real care handoff with an accepting recipient, response plan, and backup that reduce household burden."
+      }
+    },
+    {
+      "chapter": 32,
+      "topic": "Continuity",
+      "dominant": [
+        "v2-signal-14",
+        "v2-signal-17",
+        "v2-signal-19"
+      ],
+      "supporting": [
+        "v2-signal-18",
+        "v2-signal-20"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Leave something living",
+        "summary": "Transmit a practice or memory with its context, permissions, resources, and freedom to change."
+      }
+    },
+    {
+      "chapter": 33,
+      "topic": "Release",
+      "dominant": [
+        "v2-signal-12",
+        "v2-signal-16",
+        "v2-signal-17",
+        "v2-signal-22"
+      ],
+      "supporting": [
+        "v2-signal-13",
+        "v2-signal-18",
+        "v2-signal-19",
+        "v2-signal-20"
+      ],
+      "next_move": {
+        "status": "proposal",
+        "title": "Hand over the keys",
+        "summary": "Transfer real authority and the means to exercise it while retaining responsibility for unresolved consequences."
+      }
+    }
+  ],
+  "source_checks": [
+    {
+      "topic": "Money creation",
+      "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+      "support": "Commercial bank lending creates deposits; financial claims must be distinguished from physical stores.",
+      "limit": "Does not endorse the proposed economic system."
+    },
+    {
+      "topic": "Content provenance",
+      "url": "https://spec.c2pa.org/specifications/specifications/2.2/explainer/Explainer.html",
+      "support": "Provenance and authenticity credentials do not establish factual truth.",
+      "limit": "Not an evaluation of every future media mechanism."
+    },
+    {
+      "topic": "First Nations data authority",
+      "url": "https://fnigc.ca/ocap-training/",
+      "support": "OCAP concerns First Nations ownership, control, access, and possession.",
+      "limit": "Do not generalize it to one uniform Indigenous governance regime."
+    },
+    {
+      "topic": "Differential privacy",
+      "url": "https://csrc.nist.gov/pubs/sp/800/226/final",
+      "support": "Privacy guarantees require explicit parameters and implementation assessment.",
+      "limit": "Does not validate every federated or encrypted architecture."
+    },
+    {
+      "topic": "Medical AI lifecycle",
+      "url": "https://www.fda.gov/medical-devices/artificial-intelligence-enabled-medical-devices/good-machine-learning-practice-medical-device-development-guiding-principles",
+      "support": "2025 IMDRF good machine learning practice supports lifecycle discipline.",
+      "limit": "Does not certify a future whole-person twin or a retrospective clinical counterfactual."
+    },
+    {
+      "topic": "AI consciousness indicators",
+      "url": "https://arxiv.org/abs/2308.08708",
+      "support": "Theory-derived indicators support inquiry into possible consciousness.",
+      "limit": "Not a settled consciousness test or a finding that the imagined Mirror is conscious."
+    },
+    {
+      "topic": "Provenance representation",
+      "url": "https://www.w3.org/TR/prov-overview/",
+      "support": "A vocabulary for entities, activities, agents, and their provenance relations.",
+      "limit": "Representation is not a guarantee of truth, consent, or just attribution."
+    }
+  ],
+  "limitations": [
+    "All recommendations and proposed additions remain review material, not adopted prose.",
+    "Existing annotations and deferred journal requests remain pending.",
+    "Historical manuscript manifest hashes can lag author edits; current observed source hashes above are the assessment baseline. No manifest hashes were changed.",
+    "Current gate dates are scenario checkpoints, not invention-date predictions."
+  ]
+}

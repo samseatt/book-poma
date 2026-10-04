@@ -6,7 +6,7 @@ Author-editable notes for Delta and Chapters/Interludes 12–22. These are edito
 
 **Addressed: reading and extraction, 1 October 2026.** Read Delta's chapter and interlude and Chapters 12–22 completely. Excluded numbered interludes because the author says their machinery-focused drafts are unfinished. The eleven explicit opportunity sections are recorded in [the reading review](../VOLUME_II_OPPORTUNITY_SIGNALS.md), with source hashes and coverage in [the audit](../volume-ii-reading-audit.json). No canonical manuscript edits were made.
 
-**Pending:** Map the signals to Volume III by actual design contribution, allowing several signals per design and several designs per signal. Do not impose a chapter-number correspondence or count a passing vocabulary resemblance as a substantive connection. Return to source passages before writing callbacks.
+**Addressed: mapping assessment, 4 October 2026.** The [Volume III design map](../VOLUME_III_DESIGN_MAP.md) assigns dominant and supporting signals by actual mechanisms, with a rationale for every selected connection. The signal definitions remain unchanged. **Pending:** integrate selected callbacks during the authorized design pass, returning to their source passages rather than mechanically naming every mapped signal. The original mapping instruction and completion scope are retained in [the batch record](archive/2026-10-04-design-map.md).
 
 ## V2-002 — Appended drafting material
 

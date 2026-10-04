@@ -237,3 +237,15 @@ The design pass and vignette pass remain pending. Existing surrounding futures, 
 ### V3-C4A-001 — Naming proposal pending author decision
 
 The author may rename C4A to **Civilization for All**, connecting the historical inquiry and Breadboard. The current Theta interlude says **Citizenship for All**; the latest prompt referred to **Civics for All**. No global renaming has been made. Preserve the distinction between an authorial proposal and an adopted name.
+
+## Design assessment — 4 October 2026
+
+### V3-DESIGN-001 — Assessment complete; recommendations awaiting review
+
+The author requested three outputs: map the eleven Volume II opportunity signals to each numbered chapter and list its design topics; assess the chapter principles and interlude primitives, including useful additions and placement changes; and propose eleven **Next Moves**. The complete [design map](../VOLUME_III_DESIGN_MAP.md) and [source audit](../volume-iii-design-map-audit.json) record these separately for all eleven pairs. The [batch record](archive/2026-10-04-design-map.md) retains the request and scope of completion.
+
+**Recommendation:** retain the current chapter order. Distinguish governing principles from operational machinery, give repeated mechanisms primary homes, and make the positive gains from beneficial acceleration as concrete as the safeguards. The largest developments concern economic allocation and settlement, physical commons and production, legitimate institutional adoption and remedy, staffed care delivery, and founder-independent succession. Proposed additions are clearly separated from existing material and from qualifications to overbroad claims.
+
+**Pending author review / later design pass:** select and integrate these developments, work the V2 callbacks into prose, condense repetition while preserving humor and the author's ideas, and develop the proposed endings. The current date grid is retained; the dates are scenario checkpoints, not deadlines for first adopting their principles. Existing obsolete future labels need reconciliation in the later prose pass.
+
+**Scope preserved:** canonical manuscripts, inline notes, openings, historical braid, headers, order, manifest, and publishing files were not changed. The separate Chapter 23 opening draft remains unadopted. Preserve the factual São Paulo and South Health Campus recollections, and the author's Breadboard, Mirror, basket, and inheritance threads. This assessment is not a full factual certification.

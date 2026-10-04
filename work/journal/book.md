@@ -63,7 +63,7 @@ Factual personal scenes must remain faithful to memory and documented context; v
 
 ### B-009 — The three-volume progression
 
-**Standing direction.** Volume I chapters expose domain upheavals or cracks. Volume II applies systems principles across overlapping cracks and closes with opportunity signals. Volume III draws on those signals across chapter boundaries and develops designs, then invites a meaningful next action. Neither transition is one-to-one. The eleven signals are now extracted in [the Volume II reading record](../VOLUME_II_OPPORTUNITY_SIGNALS.md); a systematic many-to-many mapping into Volume III remains pending.
+**Standing direction.** Volume I chapters expose domain upheavals or cracks. Volume II applies systems principles across overlapping cracks and closes with opportunity signals. Volume III draws on those signals across chapter boundaries and develops designs, then invites a meaningful next action. Neither transition is one-to-one. The eleven signals are now extracted in [the Volume II reading record](../VOLUME_II_OPPORTUNITY_SIGNALS.md); the systematic many-to-many mapping was completed for review on 4 October 2026 in [the Volume III design map](../VOLUME_III_DESIGN_MAP.md). Prose integration remains pending.
 
 ### B-010 — The closing invitation
 
@@ -84,3 +84,7 @@ Factual personal scenes must remain faithful to memory and documented context; v
 A chapter and interlude may follow different sides of the same situation: what a person encounters, then what builders must understand and implement. Avoid replaying the whole scene or turning every personal experience into a project demonstration. This division should help vary the vignettes and preserve the narrator as a person with a life beyond constructing the proposed system.
 
 Chapter 23 now has a separate second opening/bridge review draft applying this direction. It has not been adopted into the manuscript, and the proposed Interlude 23 relocation remains pending.
+
+## Design assessment and closing invitations — 4 October 2026
+
+**B-009/B-010 progress:** The [design map](../VOLUME_III_DESIGN_MAP.md) records the opportunity-signal inheritance, existing principles and builder primitives, proposed developments, placement recommendations, and a first **Next Move** for each numbered Volume III chapter. These are distinct invitations grounded in the design, not eleven identical recruitment appeals. The current order remains defensible. No ending or manuscript heading has been replaced. This advances the design assessment; it does not complete the condensation, callback, vignette, or final-source passes.
