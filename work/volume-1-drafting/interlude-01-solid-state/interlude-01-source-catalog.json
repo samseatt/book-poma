@@ -1,0 +1,330 @@
+{
+  "as_of": "2026-10-04",
+  "sources": [
+    {
+      "key": "mit2007semiconductors",
+      "title": "Semiconductor Physics (I), 6.012 Lecture 2",
+      "url": "https://web.mit.edu/6.012/www/SP07-L2.pdf",
+      "author": "MIT 6.012 teaching staff",
+      "year": "2007",
+      "locator": "Slides 2–5, 8–15: tetrahedral bonding, intrinsic carriers, donors, acceptors, neutrality.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "mitdispersion",
+      "title": "Review of Energy Dispersion Relations in Solids, 6.732 course notes",
+      "url": "https://web.mit.edu/6.732/www/new_part1.pdf",
+      "author": "Massachusetts Institute of Technology",
+      "year": "",
+      "locator": "Chapters 1–2; Fig. 2.2, band occupancy and metals. Selected passages only; not all 124 pages.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "marzari2007bands",
+      "title": "Band Structure, 3.23 Lecture 9",
+      "url": "https://ocw.mit.edu/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/49728ee6fbac8503c94b5a9aab74242c_lec9.pdf",
+      "author": "Marzari, Nicola",
+      "year": "2007",
+      "locator": "Slides 1–9: periodic potential, Bloch states, band edges and silicon/copper examples.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "elzerman2004spin",
+      "title": "Single-shot read-out of an individual electron spin in a quantum dot",
+      "url": "https://arxiv.org/abs/cond-mat/0411232",
+      "author": "Elzerman, J. M. and Hanson, R. and Willems van Beveren, L. H. and Witkamp, B. and Vandersypen, L. M. K. and Kouwenhoven, L. P.",
+      "year": "2004",
+      "locator": "Original research abstract: single-electron spin information and electrical readout.",
+      "verification": "Original abstract and publication metadata inspected",
+      "kind": "article",
+      "journal": "Nature",
+      "volume": "430",
+      "pages": "431--435",
+      "doi": "10.1038/nature02693"
+    },
+    {
+      "key": "mit2010solidssyllabus",
+      "title": "Introduction to Solid State Chemistry: Syllabus",
+      "url": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/syllabus/",
+      "author": "Massachusetts Institute of Technology",
+      "year": "2010",
+      "locator": "Learning objectives distinguish amorphous and crystalline solids.",
+      "verification": "Official syllabus learning objectives and topic coverage inspected",
+      "kind": "online"
+    },
+    {
+      "key": "terman2017digital",
+      "title": "Computation Structures: The Digital Abstraction, annotated slides",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c2/c2s1/",
+      "author": "Terman, Chris",
+      "year": "2017",
+      "locator": "Voltage representation, static discipline, noise margins and signal restoration. Do not interpret ideal behavior as zero physical failure probability.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "terman2017cmos",
+      "title": "Computation Structures: CMOS, annotated slides",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/",
+      "author": "Terman, Chris",
+      "year": "2017",
+      "locator": "MOSFET control, n/p channels and inverter topology. Use ideal switch discussion narrowly; do not adopt dated process-node dimensions or the transcript’s pinch-off/tunnelling wording.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "terman2017combinational",
+      "title": "Computation Structures: Combinational Logic, annotated slides",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c4/c4s1/",
+      "author": "Terman, Chris",
+      "year": "2017",
+      "locator": "Truth tables; Universal Building Blocks; CMOS inverting logic. Boolean completeness does not make a finite chip an unbounded computer.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "mit2007junction",
+      "title": "Microelectronic Devices and Circuits: p-n Junction Electrostatics, Lecture 5",
+      "url": "https://web.mit.edu/6.012/www/SP07-L5.pdf",
+      "author": "MIT 6.012 teaching staff",
+      "year": "2007",
+      "locator": "Equilibrium diffusion, built-in field and depletion region; selected slides.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "mit2007bjt",
+      "title": "Microelectronic Devices and Circuits: Introduction to BJT, Lecture 17",
+      "url": "https://web.mit.edu/6.012/www/SP07-L17.pdf",
+      "author": "MIT 6.012 teaching staff",
+      "year": "2007",
+      "locator": "Slides 7–9, forward-active transport. Current gain is a regime-dependent circuit approximation.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "mit2007cmospower",
+      "title": "Microelectronic Devices and Circuits: CMOS Inverter, Lecture 13",
+      "url": "https://web.mit.edu/6.012/www/SP07-L13.pdf",
+      "author": "MIT 6.012 teaching staff",
+      "year": "2007",
+      "locator": "Slides 13–16: switching, capacitive loading and supply energy. This is not a universal energy-per-logical-operation theorem.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "intel2009chip",
+      "title": "From Sand to Silicon: Making of a Chip",
+      "url": "https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf",
+      "author": "Intel Corporation",
+      "year": "2009",
+      "locator": "Pages 3–6: silicon feedstock, ingot, wafers and resist; 2009 manufacturing example, not a current universal process recipe.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "asml2021steps",
+      "title": "Six crucial steps in semiconductor manufacturing",
+      "url": "https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps",
+      "author": "ASML",
+      "year": "2021",
+      "locator": "Photoresist, exposure, etch and implantation sections; positive/negative resist distinction.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "asmllithography",
+      "title": "Lithography principles",
+      "url": "https://www.asml.com/en/technology/lithography-principles",
+      "author": "ASML",
+      "year": "",
+      "locator": "Projection, reticle and pattern transfer; accessed 4 October 2026.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "asmloptics",
+      "title": "Lenses and mirrors: lithography principles",
+      "url": "https://www.asml.com/en/technology/lithography-principles/lenses-and-mirrors",
+      "author": "ASML",
+      "year": "",
+      "locator": "DUV lenses and EUV mirrors; accessed 4 October 2026. Avoid adopting promotional future claims.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "appliedepitaxy",
+      "title": "Epitaxy",
+      "url": "https://www.appliedmaterials.com/il/en/semiconductor/semiconductor-technologies/epitaxy.html",
+      "author": "Applied Materials",
+      "year": "",
+      "locator": "Crystalline films, controlled dopants, strain and low defect levels; accessed 4 October 2026. Vendor wording about perfection is not a claim of literally defect-free growth.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "noyce1961device",
+      "title": "Semiconductor device-and-lead structure, US2981877A",
+      "url": "https://patents.google.com/patent/US2981877A/en",
+      "author": "Noyce, Robert N.",
+      "year": "1961",
+      "locator": "Filed 30 July 1959; issued 25 April 1961. Description of insulating oxide and metal strips connecting devices.",
+      "verification": "Primary patent description and dates inspected",
+      "kind": "online"
+    },
+    {
+      "key": "hoerni1962planar",
+      "title": "Method of manufacturing semiconductor devices, US3025589A",
+      "url": "https://patents.google.com/patent/US3025589A/en",
+      "author": "Hoerni, Jean A.",
+      "year": "1962",
+      "locator": "Planar protection by oxide; filed 1 May 1959, issued 20 March 1962.",
+      "verification": "Primary patent and metadata inspected",
+      "kind": "online"
+    },
+    {
+      "key": "kilby1958artifact",
+      "title": "Jack Kilby’s first solid circuit, object 500003095",
+      "url": "https://www.computerhistory.org/revolution/digital-logic/12/276/1413",
+      "author": "Computer History Museum / Texas Instruments",
+      "year": "",
+      "locator": "Artifact record: germanium circuit tested 12 September 1958.",
+      "verification": "TI-credited primary artifact record inspected",
+      "kind": "online"
+    },
+    {
+      "key": "illinoisbardeen",
+      "title": "John Bardeen: In Memoriam",
+      "url": "https://physics.illinois.edu/people/Memorials/bardeen",
+      "author": "University of Illinois Urbana-Champaign",
+      "year": "",
+      "locator": "Wisconsin degrees, 1928/1929; Bell Labs work and 1947 transistor effect; Illinois career.",
+      "verification": "Institutional biographical account inspected",
+      "kind": "online"
+    },
+    {
+      "key": "nobel1956transistor",
+      "title": "The Nobel Prize in Physics 1956",
+      "url": "https://www.nobelprize.org/prizes/physics/1956/summary/",
+      "author": "Nobel Foundation",
+      "year": "1956",
+      "locator": "Official attribution to Shockley, Bardeen and Brattain for semiconductor research and transistor effect.",
+      "verification": "Official indexed prize citation inspected; direct pages intermittently blocked",
+      "kind": "online"
+    },
+    {
+      "key": "nobelphysicslist",
+      "title": "All Nobel Prizes in Physics",
+      "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics/1929-1920/?gallery_style=page",
+      "author": "Nobel Prize Outreach",
+      "year": "",
+      "locator": "Only Bardeen awarded Physics twice, in 1956 and 1972; checked 4 October 2026.",
+      "verification": "Official indexed list excerpt inspected",
+      "kind": "online"
+    },
+    {
+      "key": "nvidia2026introduction",
+      "title": "CUDA Programming Guide: Introduction",
+      "url": "https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/introduction.html",
+      "author": "NVIDIA",
+      "year": "2026",
+      "locator": "§1.1.1 graphics origin and programmability; §1.1.2 CPU/GPU throughput and latency emphasis. Page retrieved in October 2026.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "dennard1974scaling",
+      "title": "Design of Ion-Implanted MOSFETs with Very Small Physical Dimensions",
+      "url": "https://www.cs.sfu.ca/~ashriram/Courses/CS7ARCH/papers/dennard-1967.pdf",
+      "author": "Dennard, Robert H. and others",
+      "year": "1974",
+      "locator": "Original IEEE paper, October 1974; scaling discussion and device-parameter sensitivity. Host filename incorrectly says 1967.",
+      "verification": "Selected original-paper passages inspected",
+      "kind": "article",
+      "journal": "IEEE Journal of Solid-State Circuits",
+      "volume": "9",
+      "number": "5",
+      "pages": "256--268",
+      "doi": "10.1109/JSSC.1974.1050511"
+    },
+    {
+      "key": "anderson1972more",
+      "title": "More Is Different",
+      "url": "https://aiichironakano.github.io/cs596/Anderson-MoreIsDifferent-Science72.pdf",
+      "author": "Anderson, P. W.",
+      "year": "1972",
+      "locator": "Opening argument about levels and organization; emergent descriptions do not follow from repetition alone.",
+      "verification": "Original essay inspected in Chapter 1 review and revisited here",
+      "kind": "article",
+      "journal": "Science",
+      "volume": "177",
+      "pages": "393--396",
+      "doi": "10.1126/science.177.4047.393"
+    },
+    {
+      "key": "pdg2025inflation",
+      "title": "Inflation",
+      "url": "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf",
+      "author": "Ellis, John and Vennin, Vincent and Wands, David",
+      "year": "2025",
+      "locator": "Introductory model status and primordial perturbations. Reuse Chapter 1 review; no claim of a new complete 34-page audit.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "carter1974anthropic",
+      "title": "Large Number Coincidences and the Anthropic Principle in Cosmology",
+      "url": "https://gwern.net/doc/existential-risk/1974-carter.pdf",
+      "author": "Carter, Brandon",
+      "year": "1974",
+      "locator": "Introduction and §3; observer selection, not guaranteed production of a world.",
+      "verification": "Previously inspected original paper; same task-series research",
+      "kind": "incollection",
+      "booktitle": "Confrontation of Cosmological Theories with Observational Data",
+      "pages": "291--298"
+    },
+    {
+      "key": "terman2017sequential",
+      "title": "Computation Structures: Sequential Logic, annotated slides",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c5/c5s1/",
+      "author": "Terman, Chris",
+      "year": "2017",
+      "locator": "Storage, feedback and sequential components; selective consultation for memory handoff.",
+      "verification": "Relevant primary text inspected",
+      "kind": "online"
+    },
+    {
+      "key": "reid2024overviews",
+      "title": "AI Overviews: About last week",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-overviews-update-may-2024/",
+      "author": "Reid, Liz",
+      "year": "2024",
+      "locator": "Google acknowledges the pizza-glue answer; retain as an explicitly retrospective 2024 joke.",
+      "verification": "Author/company indexed passage inspected",
+      "kind": "online"
+    },
+    {
+      "key": "shannon1938switching",
+      "title": "A symbolic analysis of relay and switching circuits",
+      "url": "https://doi.org/10.1109/EE.1938.6431064",
+      "author": "Shannon, Claude E.",
+      "year": "1938",
+      "locator": "Published paper metadata. Underlying full text still needs a precise locator if its historical claim is inserted. MIT thesis repository has a different catalog date.",
+      "verification": "Publication metadata only; do not represent as full-text verified",
+      "kind": "article",
+      "journal": "Electrical Engineering",
+      "doi": "10.1109/EE.1938.6431064"
+    }
+  ],
+  "pending": [
+    "Author provenance for adjacent campus buildings, concurrent parental activities and remembered coursework.",
+    "Birth/conception date must remain author supplied; the public IC chronology conflicts with the current few-months claim.",
+    "The exact AI-textbook monkey/box source is unspecified; keep as a generic planning analogy or supply an edition.",
+    "The random-wafer metaphor needs a stipulated ensemble and working dynamics before any probability is asserted.",
+    "Shannon full paper and exact locator before inserting a dated historical aside.",
+    "Any substantive biological mechanism added to the ending needs the separate Chapter 2 fact-check."
+  ]
+}

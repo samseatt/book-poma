@@ -1,0 +1,588 @@
+[
+  {
+    "id": "I01-01",
+    "start": 11,
+    "end": 19,
+    "label": "Parents’ parallel lines and campus geography",
+    "status": "Preserve; author provenance",
+    "action": "Keep the mother/father opening. Adjacent buildings, vellum, precise concurrence and intentions are memoir details, not independently verified facts. Do not attach either parent to a discovery run or invented scene.",
+    "sources": [],
+    "anchor": "claim-01",
+    "note_id": "v1-01i-solid-review-01",
+    "source_excerpt": "My mother's hand once circled a faint track on photographic film --- the ghost of a particle that had wandered, left its signature, and vanished. At almost the same time, in an adjacent building on the same campus, my father's hands drew loops of another kind --- the tight spirals of a highway interchange. Her lines described what matter was doing. His lines planned what people would do with it once it settled down - and poured as gravel and sand.\n\nBetween their two lines --- one on film, one on vellum --- the whole spectrum of making was quietly rehearsed: from the early motions of our world to the deliberate shaping of them.\n\n-   One tried to see how matter is carved.\n\n-   The other tried to show how we carve matter.\n\nBoth trusted the same trick: do something simple, over and over, until pattern hardens into order."
+  },
+  {
+    "id": "I01-02",
+    "start": 21,
+    "end": 23,
+    "label": "Sand, quartz, silicon and highways",
+    "status": "Qualify",
+    "action": "Distinguish silicon dioxide from elemental electronic-grade silicon; real road aggregate varies. Preserve the linked geometries of flow without claiming the same physical batch or all roads are silicon.",
+    "sources": [
+      "intel2009chip"
+    ],
+    "anchor": "claim-02",
+    "note_id": "v1-01i-solid-review-02",
+    "source_excerpt": "My father's blueprints were lattices of motion --- grids through which cars and cargo would flow, each junction a question, each loop a recurring argument with traffic. Underneath those neat lines lay sand, crushed quartz, silicon dioxide: the same stuff that coats beaches, fills concrete, and later, almost as an afterthought, became the base material of thought.\n\nWhat he built in sand for cars, later generations --- my own included --- would build in the same sand for electrons. Highways and microchips: two geometries of flow, both born from silicon, both children of the same patient geology."
+  },
+  {
+    "id": "I01-03",
+    "start": 25,
+    "end": 25,
+    "label": "Inflation compared with lattice repetition",
+    "status": "Correct analogy",
+    "action": "Inflationary perturbations can seed later structure within the model; repetition is not the shared physical mechanism. Do not present inflation as an observed creation of law.",
+    "sources": [
+      "pdg2025inflation"
+    ],
+    "anchor": "claim-03",
+    "note_id": "v1-01i-solid-review-03",
+    "source_excerpt": "If cosmic inflation was nature's way of stretching quantum ripples into galaxies, then silicon lattices were humanity's way of stretching atomic regularity into computation. In both cases, repetition did the heavy lifting. We just changed what was allowed to repeat. In each instance, the relentless regularity of repetition allowed for the emergence of vast, complex new realities."
+  },
+  {
+    "id": "I01-04",
+    "start": 29,
+    "end": 31,
+    "label": "Consistency explained by repeated equations",
+    "status": "Reframe as conjecture",
+    "action": "The cosmic bureaucrat is a joke, not a derivation. Tie back to Chapter 1 as a question; fields vibrating just enough is not a stability explanation.",
+    "sources": [
+      "pdg2025inflation",
+      "anderson1972more"
+    ],
+    "anchor": "claim-04",
+    "note_id": "v1-01i-solid-review-04",
+    "source_excerpt": "Repetition has always been the universe's quiet party trick. In physics, it births stability. In life, it breeds form. In thought, it becomes understanding.\n\nThe first miracle of the cosmos was not complexity, but *consistency*: a handful of physical rules run on infinite loop. Fields vibrated just steadily enough that the whole contraption didn't shake itself apart. The same equations kept being applied to new situations, like a cosmic bureaucrat stamping \"Approved\" on one region of spacetime after another. Until whatever we choose to call reality on a given weekend, could scaffold itself."
+  },
+  {
+    "id": "I01-05",
+    "start": 35,
+    "end": 45,
+    "label": "Collective harmonies and higher symmetry",
+    "status": "Correct; compress",
+    "action": "Band formation and cosmic structure do not form one hierarchy of increasing symmetry. A crystal breaks continuous translations into a discrete lattice. Keep the metaphor scoped to organized relationships.",
+    "sources": [
+      "marzari2007bands",
+      "anderson1972more"
+    ],
+    "anchor": "claim-05",
+    "note_id": "v1-01i-solid-review-05",
+    "source_excerpt": "When atoms settle into orderly arrays instead of a random scrum, they begin to sing in unison. Their quantum states overlap, forming collective harmonies --- bands, gaps, currents --- that no single atom could manage on its own. The universe repeats itself across scales:\n\n-   the inflationary field becomes the galaxy cluster,\n\n-   the atomic lattice becomes the microchip,\n\neach a higher symmetry folded out of a simpler one below.\n\nThis is where solid-state physics enters the story --- not as a digression from cosmology, but as its local accent. The same principles that governed the early universe --- symmetry, fluctuation, stability --- now govern the tiny universes we cook in clean rooms.\n\nSilicon wafers are miniature cosmoses: cooled, flattened, and stretched just enough to hold a second kind of expansion --- the expansion of logic."
+  },
+  {
+    "id": "I01-06",
+    "start": 49,
+    "end": 53,
+    "label": "Repetition’s Mirror",
+    "status": "Priority light revision",
+    "action": "Replace achieved creation from possibility with the Chapter 1 conjecture. Establish manufactured operational layers and retain more from something. Use passage A in the review.",
+    "sources": [
+      "terman2017digital",
+      "mit2007cmospower"
+    ],
+    "anchor": "claim-06",
+    "note_id": "v1-01i-solid-review-06",
+    "source_excerpt": "In Chapter 1, repetition in possibility space gave us *reality*: a universe where laws behaved themselves long enough for galaxies and Fokker flights to happen.\n\nHere, in the silicon mirror, we try the trick in reverse: starting from that settled reality of physics and lining *it* up in careful rows to create new possibilities --- circuits, computers, networks, AI, AR, XR, digital twins, and other acronyms that sound like future tense.\n\nIf physics was the first draft of \"something from nothing,\" the silicon story is our attempt at \"more from something.\""
+  },
+  {
+    "id": "I01-07",
+    "start": 57,
+    "end": 61,
+    "label": "Repetition creates new laws; collective gravity",
+    "status": "Compress; repair",
+    "action": "Emergent descriptions require organization, interactions and conditions. Gravity does not start when stars form a collective. Replace repeated framing with a direct entrance to the actual semiconductor mechanism.",
+    "sources": [
+      "anderson1972more"
+    ],
+    "anchor": "claim-07",
+    "note_id": "v1-01i-solid-review-07",
+    "source_excerpt": "If Chapter 1 told the story of the cosmic loom, this interlude is about the thread we've woven on top of it. The universe gave us the pattern: periodicity, coherence, constraint. We --- the lab-coated and the coffee-fueled --- gave it *intention*. We took atoms that already knew how to repeat and taught them how to compute.\n\nBefore diving into band structures and transistors, it's worth pausing on this continuity. The physics that once stabilized *space* now stabilizes *information*. Repetition in great numbers doesn't just give you sturdiness; it gives you new laws. Galaxies obey gravity not one star at a time, but as a collective. Crystals conduct electricity not one atom at a time, but by sharing a pattern.\n\nEmergence is just repetition that has lived long enough to get a job. And silicon is one of its most eloquent dialects."
+  },
+  {
+    "id": "I01-08",
+    "start": 65,
+    "end": 69,
+    "label": "Condensed matter and solid-state scope",
+    "status": "Correct",
+    "action": "These subjects include disordered solids; quantum vibrations are not literal stay/join coin flips. Keep quantum mechanics and classical approximations distinct rather than inventing a neither-quantum-nor-classical category.",
+    "sources": [
+      "mit2010solidssyllabus",
+      "marzari2007bands"
+    ],
+    "anchor": "claim-08",
+    "note_id": "v1-01i-solid-review-08",
+    "source_excerpt": "Before circuits and code, there was only matter --- quiet, mostly, and not taking calls. Yet even \"inert\" matter has a kind of restlessness. Every atom jitters in its quantum cage; every vibration is a tiny coin flip: stay local, or join a rhythm? Condensed matter physics studies what happens when atoms choose rhythm.\n\nPack them tight, cool them down, and instead of behaving like a crowd of drunks, they sometimes agree on a dance. Their wavefunctions overlap, and suddenly the laws that apply to one particle don't quite capture what the whole group is doing. Electrons begin to move as if the entire lattice were their home address.\n\nThis specific arrangement **---**the rigid, crystalline solid**---** is the province of solid-state physics --- the study of how atoms, when densely packed in an ordered way, give rise to behaviors neither wholly quantum nor classical. It is a physics of collective emergence: where the crowd writes its own laws."
+  },
+  {
+    "id": "I01-09",
+    "start": 71,
+    "end": 73,
+    "label": "One electron cannot store information",
+    "status": "Correct absolute",
+    "action": "A single-electron state can encode information with suitable preparation and readout apparatus. Reliability does not require unbroken periodicity. Ordinary memory details belong chiefly in Interlude 2.",
+    "sources": [
+      "elzerman2004spin",
+      "terman2017sequential"
+    ],
+    "anchor": "claim-09",
+    "note_id": "v1-01i-solid-review-09",
+    "source_excerpt": "No single atom knows what \"conductivity\" means. No electron alone can \"store\" information. But when arranged in unbroken repetition, they do. Order, when multiplied, becomes possibility.\n\nIn this way, the solid state is a mirror of the cosmic state. Just as the early universe found coherence in repetition --- in a handful of constants replayed across all spacetime --- the solid state finds coherence in geometry, in the periodicity of its lattice. Repetition gives birth to constraint, constraint gives rise to pattern, and pattern to new rules."
+  },
+  {
+    "id": "I01-10",
+    "start": 79,
+    "end": 79,
+    "label": "Silicon tetrahedral bonding",
+    "status": "Retain with source",
+    "action": "Bulk crystalline silicon has a diamond-cubic structure and four tetrahedrally arranged nearest neighbours. The arm-sharing image works.",
+    "sources": [
+      "mit2007semiconductors"
+    ],
+    "anchor": "claim-10",
+    "note_id": "v1-01i-solid-review-10",
+    "source_excerpt": "Take silicon. Each atom links arms with four neighbors, forming a tetrahedral network so regular it could be accused of being dull. Yet inside that apparent stillness is a subtle permission for motion: electrons aren't frozen; they're shared."
+  },
+  {
+    "id": "I01-11",
+    "start": 81,
+    "end": 85,
+    "label": "Bands as a choir and forbidden notes",
+    "status": "Refine",
+    "action": "Explain allowed electronic energies and band occupancy; a band gap lacks bulk states in the ideal band description, not all possible electron states in every actual device. Impurity/surface states need no detour here.",
+    "sources": [
+      "marzari2007bands",
+      "mitdispersion"
+    ],
+    "anchor": "claim-11",
+    "note_id": "v1-01i-solid-review-11",
+    "source_excerpt": "At this level, symmetry is both freedom and confinement. It decides what an electron *may* do and what it *will never* do. In a disordered solid, electrons scatter like voices in a noisy bar. In a crystal, they form a choir: individual voices -- their wavelengths -- blur into a single, extended song.\n\nThis collective resonance is what we call the **band structure** --- a hierarchy of allowed and forbidden energy states. In a single atom, these states are discrete notes. In a lattice, they merge into scales --- continuous bands where electrons can play. Between those bands lie gaps, energy gaps where no stable electron can perform. You're either performing with the Beatles or the Stones --- there's no middle frequency.\n\nAnd just as music derives harmony from its restrictions, so does matter. The gaps define the melody. The forbidden makes the possible meaningful."
+  },
+  {
+    "id": "I01-12",
+    "start": 89,
+    "end": 93,
+    "label": "Conductor, insulator and semiconductor trio",
+    "status": "Correct classification",
+    "action": "Metals need not have overlapping bands: partial filling can suffice. Insulators have no ordinary supply of mobile carriers under the stated conditions, not a ban on all motion. Retain one music joke without making it a model.",
+    "sources": [
+      "mitdispersion"
+    ],
+    "anchor": "claim-12",
+    "note_id": "v1-01i-solid-review-12",
+    "source_excerpt": "-   **Conductors** like copper, where bands overlap and electrons move freely. Think Leonard Bernstein mid-symphony: everyone playing at once, and somehow the lights stay on.\n\n-   **Insulators** like quartz, where gaps are wide and motion is forbidden. More Glenn Gould: precise, contained, and not about to start improvising.\n\n-   **Semiconductors** like silicon, balanced on the knife-edge between stillness and flow. A small nudge -- some heat, a photon, a voltage -- and the system changes its mind. That's Mozart at the keyboard, playing between order and mischief."
+  },
+  {
+    "id": "I01-13",
+    "start": 99,
+    "end": 107,
+    "label": "Perfect silicon is inactive; one-in-a-million doping",
+    "status": "Correct; retain donors/acceptors",
+    "action": "Pure silicon has thermally generated carriers. Phosphorus and boron are suitable donor/acceptor examples. Dopant concentration depends on the device; the stated ratio may be an illustration, not a general prescription.",
+    "sources": [
+      "mit2007semiconductors"
+    ],
+    "anchor": "claim-13",
+    "note_id": "v1-01i-solid-review-13",
+    "source_excerpt": "Repetition gives you order; **controlled imperfection** gives you meaning.\n\nFor in silicon's perfect lattice, we found a paradox: too much order, and nothing happens. Electrons stay bound, potential locked away. But introduce a trace impurity --- one atom in a million replaced with something else --- and suddenly, the material awakens.\n\nThis process, called **doping**, is the deliberate insertion of asymmetry --- the art of making perfection misbehave on command.\n\n-   Add phosphorus, and you sneak in extra electrons (n-type).\n\n-   Add boron, and you create \"holes,\" places where an electron could be but isn't (p-type)."
+  },
+  {
+    "id": "I01-14",
+    "start": 111,
+    "end": 113,
+    "label": "p-n junction as first computation",
+    "status": "Correct history/mechanism",
+    "action": "Explain the depletion region and voltage-dependent transport. A diode is not by itself a computer, and semiconductor devices did not inaugurate computation.",
+    "sources": [
+      "mit2007junction",
+      "terman2017combinational",
+      "shannon1938switching"
+    ],
+    "anchor": "claim-14",
+    "note_id": "v1-01i-solid-review-14",
+    "source_excerpt": "At the boundary between p-type and n-type --- the **p--n junction** --- the rules of flow acquire conditions. Voltage stops being a gentle suggestion and becomes an actual decision.\n\nOut of that marriage of repetition and deviation, the first act of computation emerges. The universe, once content merely to expand and cool, now begins to *compute* about itself."
+  },
+  {
+    "id": "I01-15",
+    "start": 115,
+    "end": 117,
+    "label": "Informational gravity repeated twice",
+    "status": "Remove as mechanism; optional metaphor elsewhere",
+    "action": "There is no supplied law that every stored bit favours its own elaboration or stable patterns attract patterns. Both paragraphs duplicate one unsupported claim. Replace with the short engineering requirement in passage F.",
+    "sources": [
+      "terman2017sequential"
+    ],
+    "anchor": "claim-15",
+    "note_id": "v1-01i-solid-review-15",
+    "source_excerpt": "In those tiny impurities lies the first hint of something like informational gravity: the tendency of order to bend around what can remember. Once a system can remember one bit reliably, it can start to favor states that preserve and elaborate that memory. Randomness bends, ever so slightly, toward configurations that can keep a story going.\n\nWithin that impurity was the first hint of what we might call **informational gravity** --- not a new physical force, but the tendency of order to bend around whatever can remember. Every stable pattern attracts another until meaning itself behaves like a kind of force field in state space, gently curving random noise into thought. Silicon learned to do, in miniature, what spacetime pulled off at scale: keep the conversation going."
+  },
+  {
+    "id": "I01-16",
+    "start": 121,
+    "end": 137,
+    "label": "Emergence bridge; pizza; fields-to-computation ladder",
+    "status": "Compress and label",
+    "action": "Keep the layer progression as organization, not an automatic chronology or proof from scale. Physics remains in force. The pizza joke has a 2024 primary acknowledgment and must be retrospective.",
+    "sources": [
+      "anderson1972more",
+      "reid2024overviews"
+    ],
+    "anchor": "claim-16",
+    "note_id": "v1-01i-solid-review-16",
+    "source_excerpt": "Here we see the essence of emergence --- the lesson that quietly binds the spine of this book. When repetition reaches critical scale, new rules appear. A lattice of silicon atoms knows nothing of logic gates, yet their collective doped behavior *creates* the substrate for logic.\n\nAt that point, physics gives way to possibility. The same element that once lay as dust under my father's highway sketches now holds the circuits that simulate galaxies, price derivatives, route trucks, and occasionally \"help\" you glue your pizza together.\n\nSand became silicon; silicon became syntax.\n\nEach layer of repetition births the next:\n\n-   Quantum fields → atoms\n\n-   Atoms → crystals\n\n-   Crystals → circuits\n\n-   Circuits → computation\n\nReality, it seems, is a recursive poem of emergence --- the same stanza, rewritten in finer hand each time."
+  },
+  {
+    "id": "I01-17",
+    "start": 141,
+    "end": 143,
+    "label": "Bardeen, Nobel awards and Wisconsin",
+    "status": "Retain public connection; qualify place",
+    "action": "The two Physics awards and Wisconsin EE degrees are sound. Do not infer the identical hallway/building from shared university affiliation. His first award concerned transistors; second concerned superconductivity.",
+    "sources": [
+      "illinoisbardeen",
+      "nobel1956transistor",
+      "nobelphysicslist"
+    ],
+    "anchor": "claim-17",
+    "note_id": "v1-01i-solid-review-17",
+    "source_excerpt": "If physics gave us the structure, it took a few stubborn Midwesterners to give it a job description. One of them --- John Bardeen --- became the only person to win a Nobel Prize in Physics twice.\n\nBy the time I walked the corridors of the University of Wisconsin--Madison's Electrical Engineering building, Bardeen had long departed that place. I had no idea I was sharing a hallway with history. As far as I knew, \"Bardeen\" was just another one of those whose work made my homework longer. The only thing I would have envied him for was he didn't have to take Professor Arthur Tiedemann's electronics class back them."
+  },
+  {
+    "id": "I01-18",
+    "start": 143,
+    "end": 147,
+    "label": "Tiedemann and author’s path",
+    "status": "Preserve voice; author check only",
+    "action": "Keep the graded-work/software anecdote. Check spelling and quoted wording from recollection when editing; do not turn it into fabricated dialogue. Minor grammar is a later copyedit.",
+    "sources": [],
+    "anchor": "claim-18",
+    "note_id": "v1-01i-solid-review-18",
+    "source_excerpt": "By the time I walked the corridors of the University of Wisconsin--Madison's Electrical Engineering building, Bardeen had long departed that place. I had no idea I was sharing a hallway with history. As far as I knew, \"Bardeen\" was just another one of those whose work made my homework longer. The only thing I would have envied him for was he didn't have to take Professor Arthur Tiedemann's electronics class back them.\n\nGrading at Madison back in my day was already Ebenezer Scrooge's wet dream, and Tiedemann wouldn't even hand out a partial credit. In his tutelage electronics needed to run at scale, forever, and without an error. I was one of those students who would start the solution but ultimately would get tired of punching the calculator keys step after step, and somehow always doubting a bit my ability punch in the digits right. I would rather write the trailing steps of an ideal diode equation solution in words or pseudo answers. But that slight clerical laziness, \"then everything is wrong,\" and you get a big fat zero. No wonder I now draft requirements and algorithms, and not solve numbers.\n\nI quickly moved to digital electronics -- now I at least knew the true from false. And ultimately to software -- no closed solutions anymore: find an error, fix it, iterate. Oh, don't forget to rinse first -- always, refactor and code review. But those are the next moves: our future interludes. First, we need to lay down the heavy stones."
+  },
+  {
+    "id": "I01-19",
+    "start": 151,
+    "end": 159,
+    "label": "No partial credit and failure tolerance",
+    "status": "Revise the scientific lesson",
+    "action": "Some specifications are categorical while components vary continuously. Noise margins intentionally accommodate bounded deviations. Preserve the 5%/100% question and complicate the anecdote with passage G.",
+    "sources": [
+      "terman2017digital"
+    ],
+    "anchor": "claim-19",
+    "note_id": "v1-01i-solid-review-19",
+    "source_excerpt": "For all my complaining, Tiedemann was right about one thing: some layers of reality are brutally zero-sum.\n\nSemiconductors are like that. If your junction is off by a factor of ten, the device doesn't \"sort of\" work. It just doesn't. An airliner doesn't stay \"mostly in the sky\"; a bank ledger doesn't tolerate \"roughly correct\" balances.\n\nSo that \"no partial credit\" ethic stuck with me. To this day, whenever I design or critique a system, I find myself asking: if this fails by 5%, who eats the 100% of the consequences?\n\nOver time, though, I also learned a quieter counter-truth: **life itself is mostly partial credit**--- a long, collaborative exercise in mutual leniency. We rarely get the right answer, but we often get *close enough*, and then agree to call that truth. Civilization, too, is partial credit --- a society of approximations, stable not because it is perfect but because it is *forgiving*.\n\nGood systems live in the tension between those two poles: ruthless in the layers where failure is lethal, forgiving everywhere else. But not too forgiving, lest you drown in what software people now call *technical debt* --- unpaid compromises with interest."
+  },
+  {
+    "id": "I01-20",
+    "start": 165,
+    "end": 171,
+    "label": "Transistor steers randomness; high voltage means on",
+    "status": "Replace with scoped MOSFET account",
+    "action": "An enhancement-mode n-channel example uses gate-to-source voltage; complementary p-channel behavior differs. Device physics is not sorting random electrons left/right. Add CMOS, missing from the present bridge.",
+    "sources": [
+      "terman2017cmos"
+    ],
+    "anchor": "claim-20",
+    "note_id": "v1-01i-solid-review-20",
+    "source_excerpt": "At the quantum level, electrons don't care about our intentions. They move according to wave equations and probabilities, not product roadmaps. But once we carve channels in silicon, introduce carefully chosen impurities (dopants), and apply electric fields, that randomness can be *steered*. A transistor is that steering mechanism in silicon: a microscopic \"if--then.\"\n\n-   **If** the control voltage is high, **then** let current flow.\n\n-   **If not**, hold the line.\n\nEvery if, then, and else in modern computing is ultimately some variation of that one move: a gate deciding whether a handful of electrons goes left or stays put."
+  },
+  {
+    "id": "I01-21",
+    "start": 173,
+    "end": 175,
+    "label": "Determinism, choice and transistor invention",
+    "status": "Retain as metaphor; correct firstness",
+    "action": "Circuit selection is not a demonstrated free choice. Credit Bardeen/Brattain and Shockley without making the first transistor the discovery that matter can compute.",
+    "sources": [
+      "nobel1956transistor",
+      "illinoisbardeen",
+      "shannon1938switching"
+    ],
+    "anchor": "claim-21",
+    "note_id": "v1-01i-solid-review-21",
+    "source_excerpt": "In that sense, the transistor is more than a component; it's a philosophical object: determinism on the inside, *choice* on the outside.\n\nBardeen, along with Walter Brattain and William Shockley, didn't just invent a device; they proved a principle: **matter can be persuaded to compute**."
+  },
+  {
+    "id": "I01-22",
+    "start": 177,
+    "end": 177,
+    "label": "BJT sandwich description",
+    "status": "Refine or shorten",
+    "action": "Useful introductory current-control model in forward-active operation; base-emitter injection and collector collection are the better account. BJT must not silently stand in for the MOSFET in modern chips.",
+    "sources": [
+      "mit2007bjt"
+    ],
+    "anchor": "claim-22",
+    "note_id": "v1-01i-solid-review-22",
+    "source_excerpt": "A basic bipolar transistor is just an arranged conversation between n-type and p-type material --- an *n--p--n* or *p--n--p* sandwich. One junction lets current happen; the other junction decides under what conditions. A small current at the base controls a much larger current between collector and emitter. It's leverage in elemental form."
+  },
+  {
+    "id": "I01-23",
+    "start": 179,
+    "end": 183,
+    "label": "Gates to processors; neuron analogy",
+    "status": "Strengthen composition",
+    "action": "Functional completeness is a useful missing step: NAND gates can implement Boolean functions. Useful computation also needs state, timing and interfaces. Transistor/neuron similarity remains analogy.",
+    "sources": [
+      "terman2017combinational",
+      "terman2017sequential"
+    ],
+    "anchor": "claim-23",
+    "note_id": "v1-01i-solid-review-23",
+    "source_excerpt": "Put a few of these together and you get logic gates --- *AND*, *OR*, *NOT* --- the toddler vocabulary of machines. With enough of them, you get adders, multiplexers, and eventually a processor that can play chess badly or optimize ad delivery frighteningly well.\n\nWhat neurons pull off with ions and synapses, silicon does with carriers and junctions: slower to appear in history, faster once it gets going, and almost offensively patient.\n\nBut single transistors, heroics aside, weren't enough. If electrons were going to think together at scale, the underlying *structure* had to grow up. We needed a way to make the silicon itself carry more of the burden."
+  },
+  {
+    "id": "I01-24",
+    "start": 191,
+    "end": 199,
+    "label": "Epitaxy as flawless one-sheet growth",
+    "status": "Qualify; preserve gardening voice",
+    "action": "Epitaxy is oriented crystalline growth, not necessarily atomically perfect sheet-by-sheet copying. Growth modes and defects depend on process. Dinner-plate wafers are a modern image; avoid backdating 300 mm to the student lab.",
+    "sources": [
+      "appliedepitaxy",
+      "intel2009chip"
+    ],
+    "anchor": "claim-24",
+    "note_id": "v1-01i-solid-review-24",
+    "source_excerpt": "Epitaxy is a word that sounds like a skin condition but is really gardening for atoms.\n\nYou start with a polished wafer --- a disc of silicon whose atoms are already holding hands in a neat crystal lattice. Then you encourage new layers to grow on top, one atomic sheet at a time, aligned so precisely that the new lattice continues the old one without a hiccup.\n\nWe don't so much *build* structures as we *coax* them into existence. The silicon copies its own pattern upward, like a brick wall deciding to keep going because the bricks below looked confident.\n\nIn my introductory devices class, this was the bit that blew my mind. We had taken the grand, indifferent laws of thermodynamics and turned them into a kind of precision agriculture. \"Please grow up, but only in this orientation, with this purity, and don't embarrass us in the lab report.\"\n\nWe were farming universes on dinner-plate wafers."
+  },
+  {
+    "id": "I01-25",
+    "start": 207,
+    "end": 223,
+    "label": "Lithography recipe",
+    "status": "Correct process; keep list’s joke",
+    "action": "State a simplified positive-resist process. Exposure changes chemistry, development reveals it; the target layer need not be silicon. Masks are usually optically imaged rather than laid on a wafer in modern projection systems.",
+    "sources": [
+      "asml2021steps",
+      "asmllithography"
+    ],
+    "anchor": "claim-25",
+    "note_id": "v1-01i-solid-review-25",
+    "source_excerpt": "The rough sequence goes like this --- and, in spirit, still does:\n\n1.  **Coat** the wafer with a light-sensitive film called photoresist.\n\n2.  **Lay down** a mask --- a tiny, quartz-and-chrome stencil of the circuit you want.\n\n3.  **Shine** ultraviolet light through the mask.\n\n4.  **Develop** the image like a photograph; exposed regions of the resist change their chemistry.\n\n5.  **Wash away** the softened parts, exposing naked silicon beneath.\n\n6.  **Etch** that exposed silicon.\n\n7.  **Strip** the remaining resist.\n\n8.  Repeat until you question your major."
+  },
+  {
+    "id": "I01-26",
+    "start": 225,
+    "end": 233,
+    "label": "Masks, layout and monkey-box analogy",
+    "status": "Keep indirection; remove invented cosmology",
+    "action": "We do design layouts and derive mask patterns; mask correction complicates literal stencil language. Keep the engineering analogy; the cosmos jumping loops and hosting primates imports unproved intention. Textbook edition remains unspecified.",
+    "sources": [
+      "asmllithography",
+      "carter1974anthropic"
+    ],
+    "anchor": "claim-26",
+    "note_id": "v1-01i-solid-review-26",
+    "source_excerpt": "Layer after layer: cover, expose, etch, clean. Protect, reveal, destroy, preserve. It's less like fabrication and more like a liturgy.\n\nTo me, this was the most literal metaphor for cognitive load I had ever seen. The chip is too intricate to work on directly --- our minds cannot hold its final complexity in one piece --- so we invent **indirection**.\n\nWe don't draw the chip. We draw the *masks*. The masks stand between us and the final object like a row of translators: thought → layout → mask → light → etch → device.\n\nIn AI textbooks, there's a classic problem about monkeys, a box, and some bananas placed just out of reach. The smart monkey doesn't leap; it moves the box. In IC fabrication, the mask is the box --- the extra object we introduce so we can solve a problem that was impossible in its original form. In the preceding chapter we saw the cosmos having jumped its own early quantum loops -- no wonder its Anthropic flavor arrived ready to host us primates!\n\nHere, the abstraction is made out of glass and chrome."
+  },
+  {
+    "id": "I01-27",
+    "start": 233,
+    "end": 249,
+    "label": "Glass/chrome mask and abstraction scale",
+    "status": "Qualify present-day scope",
+    "action": "Fine for a simplified transmissive-mask story; EUV uses reflective optics/masks. Scale benefits depend on more than lithography alone. Save detailed architecture for Interlude 3.",
+    "sources": [
+      "asmloptics",
+      "noyce1961device",
+      "dennard1974scaling"
+    ],
+    "anchor": "claim-27",
+    "note_id": "v1-01i-solid-review-27",
+    "source_excerpt": "Here, the abstraction is made out of glass and chrome.\n\nAnd, we do the same trick everywhere:\n\n-   Language stands between thought and speech.\n\n-   Code stands between logic and metal.\n\n-   Protocols stand between intent and action.\n\nWhen a problem is too hard to attack head-on, we invent a layer in the middle and talk to *that* instead.\n\nOnce we learned how to grow crystals with epitaxy and how to carve them with light, history hit fast-forward. Each generation of process technology made smaller features possible, which made more transistors feasible, which made new architectures worth imagining.\n\nThe masks got finer; the circuits got denser; the abstractions stacked higher.\n\nBefore long, we weren't just drawing patterns in silicon. We were teaching matter to host **hierarchies** of meaning --- a step that would eventually invite something unnervingly close to thought."
+  },
+  {
+    "id": "I01-28",
+    "start": 255,
+    "end": 257,
+    "label": "Kilby and Noyce; everything silicon",
+    "status": "Correct historical core",
+    "action": "Kilby’s 1958 demonstrator used germanium. Noyce’s 1959 planar silicon concept used insulating oxide and metal interconnects; Hoerni’s contribution belongs in one clause. Wiring is not all carved from silicon.",
+    "sources": [
+      "kilby1958artifact",
+      "noyce1961device",
+      "hoerni1962planar"
+    ],
+    "anchor": "claim-28",
+    "note_id": "v1-01i-solid-review-28",
+    "source_excerpt": "In 1958 and 1959, Jack Kilby and Robert Noyce noticed what everyone else was suffering through: the transistor was no longer the problem --- the spaghetti between them was. We had built good little switches; we were just drowning in legs and solder.\n\nTheir idea, once they'd had it, seemed almost stupidly obvious: put everything on **one** piece of silicon. The transistors, the resistors, the wiring --- all carved out of the same slab."
+  },
+  {
+    "id": "I01-29",
+    "start": 259,
+    "end": 261,
+    "label": "Intelligence intrinsic to geometry; phase transition",
+    "status": "Remove literal claims",
+    "action": "Integration enables complex circuitry; it does not establish intrinsic intelligence or a thermodynamic phase transition in the chip. Distinguish arrangement, powered dynamics and interpretation.",
+    "sources": [
+      "anderson1972more",
+      "mit2007cmospower"
+    ],
+    "anchor": "claim-29",
+    "note_id": "v1-01i-solid-review-29",
+    "source_excerpt": "The result was a new ontology of matter. For the first time, **intelligence was an intrinsic property of geometry**.\n\nEach transistor became a cell in a tissue; each connection, a synapse. The chip itself was no longer a sum of parts, but a *phase transition* --- a threshold crossed when repetition reached critical mass."
+  },
+  {
+    "id": "I01-30",
+    "start": 265,
+    "end": 273,
+    "label": "Modularity, biology and opacity",
+    "status": "Retain; sharpen scale distinction",
+    "action": "Modularity manages complexity; it does not arise only after processors or mean designed circuitry is fundamentally unknowable. Neuron/cell hierarchy is an analogy and not universal biology.",
+    "sources": [
+      "terman2017combinational"
+    ],
+    "anchor": "claim-30",
+    "note_id": "v1-01i-solid-review-30",
+    "source_excerpt": "What followed was less invention than iteration. Circuits became subsystems, subsystems became processors, processors became architectures.\n\nThe hierarchy mirrored every living thing: molecules forming cells, cells forming organs, organs forming thought.\n\nWe discovered that the key to scaling complexity wasn't brute force, but **modularity**. We stopped building parts, and started building **rules for assembling parts**. From there, computing became an evolutionary process, each generation refining the previous, guided not by design alone but by *selection pressures of efficiency and heat*.\n\nAnd as with biology, we learned that **abstraction is survival**. A good chip, like a good organism, hides its mechanisms beneath layers that serve higher purposes.\n\nIn this way, every new generation of processors became more opaque --- more like us. The more powerful they grew, the less we could see how they worked, even though we had built them."
+  },
+  {
+    "id": "I01-31",
+    "start": 277,
+    "end": 283,
+    "label": "Scaling ended; CPUs serial; GPUs crowds",
+    "status": "Qualify and merge with next section",
+    "action": "CPU/GPU emphasis is latency versus throughput, not sequential versus parallel as exclusive categories. Device scaling, parallelism and architecture co-evolved. Thermal constraints deserve one grounded sentence.",
+    "sources": [
+      "nvidia2026introduction",
+      "dennard1974scaling",
+      "mit2007cmospower"
+    ],
+    "anchor": "claim-31",
+    "note_id": "v1-01i-solid-review-31",
+    "source_excerpt": "For decades, progress meant making things smaller and faster --- until we realized there were limits to both. The laws of physics, ever patient, began to tighten their grip: heat, leakage, quantum tunneling.\n\nSo we stopped trying to make one core sprint faster and started training **crowds**. The answer was parallelism: many modest brains instead of one overclocked genius. CPUs had marched like soldiers --- one instruction after another. GPUs arrived and said, \"What if we act like sardines instead?\" Thousands of simple units doing very similar little jobs at the same time.\n\nIt turned out that a giant pile of \"dumb but coordinated\" is extremely good at drawing pixels, multiplying matrices, and training neural networks to guess what you meant.\n\nOnce again, repetition did the magic. A billion transistors, doing the same handful of chores, created behaviors no single transistor could dream of --- if transistors dreamed, which is still up for debate."
+  },
+  {
+    "id": "I01-32",
+    "start": 283,
+    "end": 283,
+    "label": "Transistor dreams remain up for debate",
+    "status": "Cut or make unmistakably comic",
+    "action": "There is no transistor result here bearing on consciousness. Avoid giving a throwaway joke the form of an active empirical controversy.",
+    "sources": [],
+    "anchor": "claim-32",
+    "note_id": "v1-01i-solid-review-32",
+    "source_excerpt": "Once again, repetition did the magic. A billion transistors, doing the same handful of chores, created behaviors no single transistor could dream of --- if transistors dreamed, which is still up for debate."
+  },
+  {
+    "id": "I01-33",
+    "start": 287,
+    "end": 295,
+    "label": "Gaming origin and GPU workload",
+    "status": "Retain humour; narrow history",
+    "action": "Graphics acceleration was broader than games; programmability enabled wider computation. Many AI workloads benefit; not every computation maps efficiently to a GPU. Repair leading he to The.",
+    "sources": [
+      "nvidia2026introduction"
+    ],
+    "anchor": "claim-33",
+    "note_id": "v1-01i-solid-review-33",
+    "source_excerpt": "he graphics processing unit didn't come out of a philosophy seminar. It came out of people wanting better video games.\n\nWe asked the CPU to handle geometry, lighting, texture, physics, and everything else. It gave us a look and subcontracted.\n\nThe GPU was built to answer one question thousands of times in parallel: \"Given this light and that triangle, what color does this pixel want to be?\"\n\nIt turned out that this \"same operation on lots of data\" model is exactly what modern AI needs. You can almost hear the silicon groan: \"Fine, I'll stop drawing dragons and start fitting probability distributions. It\\'s a dirty job, but someone\\'s gotta do it.\"\n\nChip architecture --- how you arrange those cores, caches, and lanes --- is just the set of rules for how this big silicon crowd thinks together. That's what we'll pick up in Interlude 3."
+  },
+  {
+    "id": "I01-34",
+    "start": 297,
+    "end": 305,
+    "label": "Understanding, fractal cognition, self-recognition",
+    "status": "Reserve as philosophical questions",
+    "action": "Hardware hierarchy is not literally a proved cognitive fractal; capable computation alone does not establish comprehension or consciousness. End the hardware argument before announcing later interlude conclusions.",
+    "sources": [],
+    "anchor": "claim-34",
+    "note_id": "v1-01i-solid-review-34",
+    "source_excerpt": "For now, the important bit is this: by stacking repetition on repetition, then wiring it sideways instead of just forward, we nudged matter over one more threshold. Electrons weren't just flowing. They were taking part in something we could squint at and call *thought*.\n\n**From Electrons to Thought**\n\nIn the same way that epitaxy grew order upon order, AI grew knowledge upon knowledge---one foundational pattern building upon the last until comprehension emerged from repetition. The lattice had become recursive. Matter no longer just conducted charge; it conducted understanding.\n\nWe have built, quite literally, a *fractal of cognition*. Each stratum is both substrate and metaphor for the next.\n\nAnd somewhere between the silicon lattice and the neural lattice, between transistors and synapses, something uncanny occurs: **matter begins to recognize itself.**"
+  },
+  {
+    "id": "I01-35",
+    "start": 307,
+    "end": 307,
+    "label": "Persistence and next data interlude",
+    "status": "Retain handoff",
+    "action": "Interlude 2 is the proper place to develop representation and storage. Distinguish a state-bearing device from experienced recognition.",
+    "sources": [
+      "terman2017sequential"
+    ],
+    "anchor": "claim-35",
+    "note_id": "v1-01i-solid-review-35",
+    "source_excerpt": "But in order to be recognized, you have to first persist. In the next interlude we will see how information finds a home in this lattice. What constitutes data, and how it persists?"
+  },
+  {
+    "id": "I01-36",
+    "start": 311,
+    "end": 315,
+    "label": "Roads, refined sand and model weights",
+    "status": "Retain recurring image; repair substrate",
+    "action": "Weights are encoded values, not a later chemical form of silicon. Preserve the father-to-author-to-attention callback and the book-choice joke.",
+    "sources": [
+      "intel2009chip",
+      "terman2017digital"
+    ],
+    "anchor": "claim-36",
+    "note_id": "v1-01i-solid-review-36",
+    "source_excerpt": "In this precarious little corner of possibility space, we and our machines are basically elaborate sandbox games. My father drew channels in literal sand so cars and trucks could find their way. I later traced channels in refined sand so electrons could. Now, our circuits trace channels in *behavior* --- recommendation paths, workflow paths, social feeds --- so thoughts and attention can.\n\nIn the end, it's all the same silicon rearranged: first as stone, then as glass, then as wafer, then as chip, then as model weights. If matter has a secret wish, maybe it's this: start as dust under someone's shoes, end as the thing deciding which book they read next.\n\nAnd so the sand rests."
+  },
+  {
+    "id": "I01-37",
+    "start": 317,
+    "end": 327,
+    "label": "Same symmetry, mutation and all memory in silicon",
+    "status": "Trim; reserve biology mechanisms",
+    "action": "Do not claim one symmetry explains crystals and cells, or that no new mutation guarantees extinction. Doping/mutation is an analogy. Magnetic/optical media are not all silicon; the ladder is not historical chronology. Detailed biology sourcing remains a Chapter 2 task.",
+    "sources": [],
+    "anchor": "claim-37",
+    "note_id": "v1-01i-solid-review-37",
+    "source_excerpt": "The same symmetry that made its atoms lock into a crystal will soon appear in another costume: carbon chains, water films, membranes, cells.\n\n## **From Sand to Clay**\n\nIf the universe's first trick was stretching \"almost nothing\" into \"something,\" our next party trick was stretching sand into logic. The one we will get to next is stranger: stretching cells into selves.\n\nThe stretch of biology is different. Where physics expanded space, biology expanded **time and number**. Its growth is not in kilometers or parsecs, but in generations and mutations---its universe measured in heartbeats and geological epochs. And equally, biology's stretch lies in **memory**: the quiet inscription of life's code into the double helix, a stable data format written in the chemistry of carbon. DNA remembers---faithfully, though never perfectly.\n\nIt too has its version of doping: tiny copying errors and environmental nudges that keep the pattern from freezing. A species with *no* mutations goes extinct; a chip with *too many* does the same. And the professor laughs!\n\nThis is the lineage of remembrance: from the stable configurations of electrons in atoms, to the etched permanence of circuits on wafers, to the helical archives of biology, and onward to the magnetic and optical traces of data in silicon. Each layer is a different form of *memory*---each the next act in matter's long rehearsal for consciousness."
+  },
+  {
+    "id": "I01-38",
+    "start": 321,
+    "end": 321,
+    "label": "Universe stretched almost nothing into something",
+    "status": "Correct epistemic frame",
+    "action": "This restates the Chapter 1 conjecture as established cosmology. Replace with a return to investigated organization, not an asserted creation mechanism.",
+    "sources": [
+      "pdg2025inflation"
+    ],
+    "anchor": "claim-38",
+    "note_id": "v1-01i-solid-review-38",
+    "source_excerpt": "If the universe's first trick was stretching \"almost nothing\" into \"something,\" our next party trick was stretching sand into logic. The one we will get to next is stranger: stretching cells into selves."
+  },
+  {
+    "id": "I01-39",
+    "start": 333,
+    "end": 347,
+    "label": "First ICs months before author’s conception",
+    "status": "Correct synchrony before adoption",
+    "action": "First working ICs date to 1958, with the planar concept in 1959; Chapter 2 places conception near 1964 events. Use by the time / already, or identify a real later milestone. Never move the personal date to rescue a coincidence.",
+    "sources": [
+      "kilby1958artifact",
+      "noyce1961device"
+    ],
+    "anchor": "claim-39",
+    "note_id": "v1-01i-solid-review-39",
+    "source_excerpt": "By the time the first integrated circuits flickered to life, I was almost ready to be conceived. The planet had learned to carve logic into matter. It was about to let matter carve logic into me.\n\nThe next frontier wasn't electrons; it was **encoding**:\n\n-   How do you turn a physical state into a signal?\n\n-   How do signals become patterns?\n\n-   How do patterns become stories?\n\n-   At what point do the stories start insisting they are someone?\n\nBefore the algorithm, there was the axon. Before any circuit could calculate, a cell had to sense, and fire, and remember that it fired.\n\nA few months after those first chips started counting for other people, a cell would start counting for me. And then, with time and a lot of practice, it would call itself \"I.\""
+  },
+  {
+    "id": "I01-40",
+    "start": 345,
+    "end": 349,
+    "label": "Axon before algorithm; embryonic cell as self",
+    "status": "Mark metaphor; simplify handoff",
+    "action": "Do not make a first embryonic cell a neuron or assume all cells fire and remember in the neuronal sense. A brief transition can set up biological organization without claiming that electronics preceded life.",
+    "sources": [],
+    "anchor": "claim-40",
+    "note_id": "v1-01i-solid-review-40",
+    "source_excerpt": "Before the algorithm, there was the axon. Before any circuit could calculate, a cell had to sense, and fire, and remember that it fired.\n\nA few months after those first chips started counting for other people, a cell would start counting for me. And then, with time and a lot of practice, it would call itself \"I.\"\n\nThat is where Chapter 2 picks up: in the warm, messy, error-tolerant lattice of life --- the next layer in this long experiment of matter trying to remember itself."
+  },
+  {
+    "id": "I01-41",
+    "start": 353,
+    "end": 361,
+    "label": "Maggie/Alex closing voices",
+    "status": "Retain as overt poetry",
+    "action": "Standing still, energy becoming form and atoms finding syntax are personifications. Let the prose establish correct mechanics before this clearly poetic close.",
+    "sources": [],
+    "anchor": "claim-41",
+    "note_id": "v1-01i-solid-review-41",
+    "source_excerpt": "> ***Maggie:** Matter learned to stand still without dying.*\n>\n> ***Alex:** Logic learned to move without leaving.*\n>\n> ***Maggie:** Energy became form;*\n>\n> ***Alex:** Form began to compute.*\n>\n> ***Both:** And the silence of atoms found syntax.*"
+  }
+]

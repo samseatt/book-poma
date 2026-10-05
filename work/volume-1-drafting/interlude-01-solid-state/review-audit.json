@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-10-04",
+  "source_revision": "cc0eb71010321fd10518605b7feff49491a53725",
+  "canonical_source": "manuscripts/volume-1/01-interlude.md",
+  "canonical_sha256": "af1d55528d4f7e8e9ba640ac1d79e4122efe200c91da1cc291360cbc5d687c03",
+  "canonical_words_whitespace": 4616,
+  "canonical_lines": 361,
+  "read_scope": "Entire Interlude 1. Selective adjacent Chapter 1, Chapter 2 and Interlude 2/3 passages and existing Chapter 1 review; no new full reading of those adjacent units.",
+  "canonical_changed": false,
+  "all_manuscript_snapshot_entries_unchanged": 313,
+  "author_chapter23_preserved": true,
+  "annotated_body_reconstructs_source_exactly": true,
+  "review_footnotes_parsed": 41,
+  "bib_records_parsed": 30,
+  "local_links_and_anchors_checked": 150,
+  "pending_leads": 6,
+  "validation": "Pandoc Markdown AST and BibLaTeX-to-CSL parsing passed without warnings. Note, claim, source-key, local-link, image and exact-source-reconstruction checks passed. Canonical and shared manifest/bibliography hashes match initial snapshot.",
+  "source_verification_limits": "Catalog distinguishes relevant primary passages, original abstracts, official indexed extracts, and metadata-only leads; no universal full-text verification claim.",
+  "publication": "None. All research, draft passages, annotations and bibliography remain under work/."
+}
