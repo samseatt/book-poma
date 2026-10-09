@@ -6,7 +6,7 @@ INTERLUDE 10
 
 *Our Second Atmosphere*
 
-*CLOUD COMPUTING*
+*CLOUD*
 
 When I first arrived in British Columbia, I was also chasing clouds of another kind---data-center ones. Before Vancouver's skyline became my home screen, I spent a little time living out of hotel rooms and conference rooms, consulting for companies and ministries that wanted their very own "hosting environments." They went at it with the solemnity of building a Zen garden---except the garden here was a building-sized hair dryer stuffed with blinking LEDs.
 

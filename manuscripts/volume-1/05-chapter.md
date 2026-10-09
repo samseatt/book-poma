@@ -6,7 +6,7 @@ CHAPTER 5
 
 *Injustice, Rage, and the Monster We Build Together*
 
-*SOCIOLOGY*
+*SOCIETY*
 
 > "Those who make peaceful revolution impossible will make violent revolution inevitable." --- **John F. Kennedy**
 

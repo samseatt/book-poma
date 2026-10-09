@@ -6,7 +6,7 @@ CHAPTER 4
 
 *Psychology, Morality, and the Dance of Free Will*
 
-*PSYCHOLOGY*
+*PERSON*
 
 > "The line dividing good and evil cuts through the heart of every human being." --- **Aleksandr Solzhenitsyn**
 

@@ -6,7 +6,7 @@ INTERLUDE 19
 
 *Medicine, Mutation, and Mortality*
 
-*CELLULAR GOVERNANCE*
+*GOVERNANCE*
 
 The morning inside the Foothills endoscopy suite was peaceful---the sort of eerily profound calm a hospital achieves only when its inhabitants are too drugged to complain. It felt as though the drowsiness of the half-anesthetized patients behind the walls had become infectious, a local law of physics. At reception, a friendly person provided instructions with the quiet efficiency of someone selling tickets to a play everyone already knows the ending to. They took Mom away to prep, and the waiting game began.
 

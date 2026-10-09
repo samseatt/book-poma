@@ -6,7 +6,7 @@ INTERLUDE 11
 
 *The Architectures of the Singularity*
 
-*MACHINE LEARNING*
+*INTELLIGENCE*
 
 When I moved my office into a Calgary guest-room in late 2018, the commute collapsed into twelve steps and thirteen sighs---a short walk, but a long fall. I had quietly benched myself as principal consultant. No clients. No SOWs. No invoices. Just me, a laptop, and the open prairie staring through the window like an existential reminder that horizons can be both physical and psychological.
 

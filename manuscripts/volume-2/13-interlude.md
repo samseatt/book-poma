@@ -22,40 +22,33 @@ INTERLUDE 13
 
  IAM, avatars, digital twins
 
+[[NOTE: She was trying to measure me, and I lamented any attempts to collapse my wave function into a "singular" "edge."]]
+
 "Are you from **Lemuria**?"
 
 *(She named an actual country. I'm protecting the innocent---mainly the part of me that still cringes at this.)*
 
-It was Union South at the University of Wisconsin--Madison. A blonde student, ponytail, wholesome-looking, friendly in the default American way---like she came with a complimentary smile and a campus map. But it was a poor choice of conversation starter, not because curiosity is a sin, but because she didn't ask. She assumed. She collapsed a human into a coordinate before the human had agreed to the axes.
-
-And something in me snapped.
+It was Union South at the University of Wisconsin--Madison. A blonde student, ponytail, wholesome-looking, friendly in the default American way---like she came with a complimentary smile that said: *I champion diversity*. But it was an unfortunate choice for a conversation starter: she assumed rather than asked. A graph arrived before the coordinates were drawn. And somehow, that pulled me straight into a cynical version of myself.
 
 "No. Are you?"
 
-It wasn't clever. It wasn't even properly hostile. It was a blunt, passive-aggressive deflection---my small rebellion against being sorted.
+My answer was a blunt, passive-aggressive deflection, my micro-rebellion against being pinned to someone else's map. I had thought before I spoke (just not enough).
 
-I knew, based on her looks, that she wasn't from "Lemuria," and I can assume that she knew that I knew that she wasn't from there. But factually I wasn't from there either: maybe close, but no cigar. In my mind, that made us even: if she could project a label onto me, I could bounce one back at her. She might as well have asked, "Are you Jennifer?" or "Are you Guido?" or---since we were already playing--- "are you a ring-tailed lemur?"
+I knew, based on her looks, that she wasn't from "Lemuria," and I can assume that she knew that I knew that she wasn't from there. But factually I wasn't from there either: maybe close, but no cigar. In my mind, that made us even: if she could project a label onto me, I could bounce one back at her. She might as well have asked, "Are you Jennifer?" or "Are you Guido?" Or (since we're already playing) "are you a ring-tailed lemur?"
 
-There were a hundred polite ways to answer. That day I chose none of them. Perhaps I had an exam hovering over my head. Perhaps I was already tired of being treated like a multiple-choice question.
+Give a lemur a typewriter and infinite time, and even it will eventually spit out something better than what I said. If I could explain it now, I wouldn't have said it then. But let's say (for posterity's sake) that Arthur Tiedemann's no-partial-credit, no-multiple-choice regime had already rubbed off on me.
 
-She paused. There was a brief contemplative look---as if she were critiquing both her question and my answer at the same time. Then the moment dissolved back into campus life.
+She paused. There was a brief contemplative look---as if she were critiquing both her question and my answer at the same time. Then the moment dissolved back into campus life (for her, anyway).
 
-But it didn't dissolve in me.
+It still runs around somewhere deep in some jungle of thoughts. I feel bad about my brusque response to a fellow human. And I still find the underlying discomfort instructive: why did a "benign question" feel like being forced to give up a coherent state---made to entangle with someone else's ensemble, someone else's category system?
 
-It lingered like a Polaroid handed back into my palm. Like a parking ticket with no place to pay it. I still feel bad about my brusque response to a fellow human. And I still find the underlying discomfort instructive: why did a "polite question" feel like being forced to give up a coherent state---made to entangle with someone else's ensemble, someone else's category system?
+Which is identity, really? Are we independent particles---self-contained, self-defined---until observed? Or are we only "real" once we're assigned a sorting system?
 
-Which is identity, really?
-
-Are we independent particles---self-contained, self-defined---until observed?\
-Or are we only "real" once we can be sorted into a label, a class, a tribe, a checkbox?
-
-Even worse: even if she had asked "Where are you from?" in the correct manner, I wouldn't have been fully comfortable. I am from many places---and even more so depending on mood. Irish on St. Patrick's Day, sure---but that's an inner coordinate, not a passport. And when someone asks that question, they often aren't requesting geography. They're requesting a template. They want to pre-load the stereotype so the conversation runs faster.
+Worse: even if she had asked "Where are you from?" in the correct manner, I wouldn't have been fully comfortable. I am from many places (more of them depending on mood). Irish on St. Patrick's Day, sure---but that's an internal coordinate, not a passport. And when someone asks that question, they often aren't requesting geography. They're asking you to preload a template.
 
 That day, I answered poorly. But the question was the real instrument, and I felt the probe.
 
-This interlude is about that probe.
-
-Chapter 13 traced a fragile arrow---an individual trajectory buffeted by fields it didn't choose. This interlude studies the coordinate system that keeps trying to name that trajectory: identity as type, identity as narrative, identity as profile. We'll begin at the most reduced level---the particle zoo---where identity is not story but symmetry: a few quantum numbers, a few conserved properties, a few roles repeated endlessly across the cosmos. Then we'll climb upward through human selves---fluid, contextual, basis-dependent---and into the digital mirror, where identity becomes a dataset: usernames, profiles, reputational scores, and the quiet harvesting of every click.
+Chapter 13 traced a fragile arrow (more pinball than archery, frankly). This interlude tries to label that trajectory. We'll begin at the most reduced level---the particle zoo---where identity is not story but symmetry of nature: a few quantum numbers, a few conserved properties, a few roles repeated across the entire cosmos. Then we'll zoom out and talk about human identity. Finally, identity admires itself in its silicon mirror.
 
 And we'll ask the question that matters now that our tools never sleep: When identity becomes legible to machines, who gets to decide what you are?
 

@@ -7,15 +7,11 @@
 > --- Hölderlin, *Patmos*
 
 A loud, groaning plane---likely a Fokker---cut a strange path through the ether.\
-The fuselage hummed and shuddered, a frail metal chamber suspended in a vast and invisible sky. Inside, a small boy sat stiff with an unrest no less vast and no less invisible. He was two and a half years old. The world he had known was gone.
+The fuselage kept vibrating and shuddering in anger. Its fragile capsule suspended in a vast and invisible sky. Inside, a small boy sat stiff, grinding beneath his own unrest that was no less vast and no less invisible. He was two and a half years old. The world he had known was gone.
 
 Beside him sat a man and a woman, younger than those he had called his parents. They spoke softly. Kindly. They tried to soothe him with words he barely understood. But to him they were strangers---imposters in a world that no longer made sense.
 
-He was not at home.
-
-The faces he trusted were nowhere to be seen.
-
-The house, the familiar smells, the rhythms of his small world---all had been torn away. And now he was trapped in this rattling chamber, hurtling through nothingness, with only his fear and confusion as companions.
+He was not at home. The faces he trusted were nowhere to be seen. The house, the familiar sounds, the persistence that was his small world---all had been torn away. And now he was trapped in this rattling chamber, hurtling through nothingness, with only his fear and confusion as companions.
 
 Only one thing tethered him to what was real: his basket.
 

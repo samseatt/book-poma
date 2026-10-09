@@ -8,6 +8,8 @@ INTERLUDE 2
 
 *DATA*
 
+[[NOTE: In the selfish-gene view of biology, data would be a rough Silicon equivalent. Dawkin's memes can then be algorithms. ]]
+
 I didn't have much to do as an embryo. No classes, no inbox, no forms to fill out. But I was already a prolific data professional --- replicating, storing, and debugging at cellular scale. Every split of a cell was a write operation; every strand of DNA, a backup job that never missed its window. My hardware was wet, but my uptime was impeccable.
 
 Around the same time, in cleanrooms across California and New York, another kind of embryo was forming. IBM and Fairchild were quietly teaching silicon to remember --- replacing magnetism with charge, iron rings with tiny rectangles of doped crystal.

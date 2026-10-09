@@ -6,7 +6,7 @@ INTERLUDE 27
 
 *Governing the Informational and Biological Commons*
 
-*INFRASTRUCTURE*
+*SUPPORTING*
 
 The map wanted everything.
 

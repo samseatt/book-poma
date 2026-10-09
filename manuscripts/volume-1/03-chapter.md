@@ -6,7 +6,7 @@ CHAPTER 3
 
 *The Brain as Creation's Engine*
 
-*NEUROSCIENCE*
+*BRAIN*
 
 > "Every act of perception, is to some degree an act of creation, and every act of memory is to some degree an act of imagination." --- **Oliver Sacks**
 

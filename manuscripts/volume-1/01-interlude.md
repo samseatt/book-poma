@@ -6,7 +6,7 @@ INTERLUDE 1
 
 *The Birth of Computing*
 
-*SOLID STATE PHYSICS*
+*MATERIAL*
 
 My mother's hand once circled a faint track on photographic film --- the ghost of a particle that had wandered, left its signature, and vanished. At almost the same time, in an adjacent building on the same campus, my father's hands drew loops of another kind --- the tight spirals of a highway interchange. Her lines described what matter was doing. His lines planned what people would do with it once it settled down - and poured as gravel and sand.
 
@@ -18,15 +18,15 @@ Between their two lines --- one on film, one on vellum --- the whole spectrum of
 
 Both trusted the same trick: do something simple, over and over, until pattern hardens into order.
 
-My father's blueprints were lattices of motion --- grids through which cars and cargo would flow, each junction a question, each loop a recurring argument with traffic. Underneath those neat lines lay sand, crushed quartz, silicon dioxide: the same stuff that coats beaches, fills concrete, and later, almost as an afterthought, became the base material of thought.
+My father's blueprints were lattices of motion --- grids through which cars and cargo would flow, each junction a question, each loop a recurring argument with traffic. Underneath those neat lines lay sand, crushed quartz, silicon dioxide: the same stuff that covers beaches, fills concrete, and later, almost as an afterthought, became the base material of thought.
 
-What he built in sand for cars, later generations --- my own included --- would build in the same sand for electrons. Highways and microchips: two geometries of flow, both born from silicon, both children of the same patient geology.
+What he built in sand for cars, later generations --- including my own --- would build in the same sand for electrons. Highways and microchips: two geometries of flow, both born from silicon, both children of the same patient geology.
 
 If cosmic inflation was nature's way of stretching quantum ripples into galaxies, then silicon lattices were humanity's way of stretching atomic regularity into computation. In both cases, repetition did the heavy lifting. We just changed what was allowed to repeat. In each instance, the relentless regularity of repetition allowed for the emergence of vast, complex new realities.
 
 **Repetition as Creation**
 
-Repetition has always been the universe's quiet party trick. In physics, it births stability. In life, it breeds form. In thought, it becomes understanding.
+Repetition has always been the universe's favorite party trick. In physics, it manufactures stability. In life, it generates form. In thought, it turns signal into understanding.
 
 The first miracle of the cosmos was not complexity, but *consistency*: a handful of physical rules run on infinite loop. Fields vibrated just steadily enough that the whole contraption didn't shake itself apart. The same equations kept being applied to new situations, like a cosmic bureaucrat stamping "Approved" on one region of spacetime after another. Until whatever we choose to call reality on a given weekend, could scaffold itself.
 

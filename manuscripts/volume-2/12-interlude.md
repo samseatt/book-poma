@@ -6,8 +6,9 @@ INTERLUDE 12
 
 *Time, Entropy, and Coordination*
 
-*TEMPORAL ORDER*
+*CHANGE*
 
+[[OLD: 
 The Omega wasn't new, but to me it was sacred.
 
 My father had worn it through years when minutes mattered---when he was building things, solving things, steering a family through a world most children only half-understand. When he handed it to me---somewhere in that foggy range between twelve and fourteen---it felt less like a watch and more like an initiation: a small, heavy ticket into adulthood. A machine that claimed to keep time, even if I barely managed to keep homework straight.
@@ -41,12 +42,43 @@ He said it simply, the way engineers say things when they don't want poetry to d
 For the rest of the ride the air in the car did what lectures couldn't. I sat there with heat on my cheek, gears exposed on my wrist, and a new kind of discomfort blooming in my chest---the discomfort of realizing that "what happened" and "what you said happened" are not the same thing.
 
 That Omega is gone now, but the lesson stayed.
+]]
 
-Because the older I get, the more I see the same pattern scaled up: drift is inevitable. Entropy guarantees it. Systems slip. Memories blur. Incentives bend stories. Every civilization develops a talent for telling itself what it prefers to be true.
+The Omega wasn't new, but to me it was sacred. My father had worn it since he came to pick me up a decade before. Then he handed it down to me, somewhere between twelve and fourteen: the last letter of the Greek alphabet, my first serious watch, and never once in the custody of _Pulp Fiction_'s Captain Koons. This was a machine that claimed to keep time, on the wrist of a boy who could barely keep his homework straight.
 
-And so we build clocks.
+Naturally, I opened it.
+
+I wanted to see how it worked. Telling time was the boring part. That was a fixed feature, not movement: the hands keep coming back to the same places, twice a day, every day, a metronome reinforcing conformity. What was interesting was how all that stasis came about, whatever purposeful structure sat under the dial. (That's how I'd put it now. At the time I mostly wanted the hands without the glass in the way.)
+
+So I took to taking the glass off. I may also have pried at the back for a look at the machinery itself, though I can't swear to it.
+
+Then one morning, as we were getting ready to leave (me for school, him for work), and he was about to back the car out of the driveway, he glanced at my wrist.
+
+"Where is the glass?"
+
+I lied, and looked down at the watch with great surprise, as though I were noticing for the first time.
+
+He was furious. He stopped the car, which on those mornings said a lot by itself: he normally had to drop us at our schools and still make it to his own work on time. Then he said it:
+
+"I don't even mind that you took the glass off. But I hate lying."
+
+[[OLD:
+The Omega is gone now. It soon lost out to those early digital watches, languished in some drawer, and was eventually lost to the same time it was so good at pretending to locate.
+
+The lesson stayed: "what happened" and "what you said happened" are not the same thing. But the older I get, the more I see the same pattern scaled up: drift is inevitable. Entropy guarantees it, systems slip, and incentives bend stories. Every civilization becomes an expert at telling itself what it prefers to be true.
+
+And so we build clocks, and all the other measurement regimes and paraphernalia.
 
 Not only to measure the world, but to keep ourselves honest about change. To put a grid under drift. To say: *this happened before that*; *this changed after that*; *this claim doesn't match the timestamped record*. Timekeeping, at its best, is a kind of discipline against convenient storytelling.
+]]
+
+The Omega is gone now. It soon lost out to those early digital watches, languished in some drawer, and was eventually lost to the same time it was so good at pretending to find.
+
+What happened and what I said happened came apart in that car, and the older I get, the more I see the same gap at larger scales. Systems drift, and the stories about them drift faster, usually toward whatever is most comfortable. Civilizations become very good at telling themselves what they would prefer to be true.
+
+So we build clocks (and calendars, ledgers, census forms, logs, and the rest of the measurement paraphernalia), partly to measure the world and partly to keep ourselves honest about it: to put a grid under the drift, so that this happened before that, and a convenient story can be checked against the timestamped record.
+
+The record can be unflattering in a quieter way, too. A clock can show that an enormous amount of ticking went on and the hands ended up exactly where they started. My father's Omega, ticking away behind its missing glass, was a small model of a civilization that is extremely busy and hardly moving.
 
 Which returns us to Chapter 12.
 
@@ -69,6 +101,8 @@ The rest of this interlude is the adult version of that childhood curiosity: a l
 What follows is less a chronology and more a disassembly: a guided opening of the watch.
 
 Yet, time is the axis that makes change (or lack of change) legible. Without a shared clock, stasis can masquerade as motion because there's no agreed "before/after" to compare against. With clocks, you can't hide that the arrow hasn't moved where it matters. Time thus becomes truth---like the truth dad expected from me---as it measures cause and effect. Each tick of the clock (whatever the unit may be) is also a pause, a moment to reflect, audit, synchronize, and quality correct.
+
+[[ADD: That watch said time, but it was showing me space. I took out the glass and I didn't see time in there, I saw the space, the dial more deeply. Now I'm opening the case of a different watch, of time itself.]]
 
 **What Is Time, Really?**
 

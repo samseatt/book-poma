@@ -6,7 +6,7 @@ CHAPTER 7
 
 *Capitalism, the Dream, and the Monster at the Gates*
 
-*ECONOMICS*
+*ECONOMY*
 
 > "Capitalism is the astounding belief that the most wickedest of men will do the most wickedest of things for the greatest good of everyone." --- **John Maynard Keynes**
 

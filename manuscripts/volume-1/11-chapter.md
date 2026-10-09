@@ -2,7 +2,7 @@
 
 CHAPTER 11
 
-# The Final Crossing:
+# The Final Crossing
 
 *Nomads in a Purgatory of Code*
 

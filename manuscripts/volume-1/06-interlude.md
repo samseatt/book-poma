@@ -6,7 +6,7 @@ INTERLUDE 6
 
 *Computing Systems & Enterprise Software*
 
-*APPLICATION SOFTWARE*
+*APP*
 
 By the time I hit Silicon Valley, I was essentially a **free agent without a franchise**---the sort of draft pick who shows up with a head full of theory, a box of freshly laundered optimism, and a Corolla that still smelled faintly of Los Angeles and incomplete graduate resolutions. The riots were behind me, the Northridge quake ahead of me, and between them stretched a valley of parking lots so pristine they looked pressure-washed by venture capital. The headquarters I passed were the household deities of the era: Intel, Sun, Apple, Oracle, HP, SGI. I had worshipped them from afar. Now I was loitering in their lobbies.
 

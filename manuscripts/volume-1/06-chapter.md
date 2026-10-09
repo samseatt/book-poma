@@ -6,7 +6,7 @@ CHAPTER 6
 
 *Nature's Indifference and the Illusion of Control*
 
-*ENGINEERING*
+*INDUSTRY*
 
 > "Man is not the lord of beings. Man is the shepherd of being." --- **Martin Heidegger**
 

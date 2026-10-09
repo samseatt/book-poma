@@ -12,99 +12,99 @@ Emergence and wonder. The Carbon chapters trace the ascent from physical reality
 
 ## Chapter Φ. The Archer's Compass --- The Unprovable Beginning
 
-Experience, memory, language, story, logic, and the first act of aiming. Establishes the compass by which the book turns raw life into an arrow of meaning.
+ORIENTATION. Experience, memory, language, story, logic, and the first act of aiming. Establishes the compass by which the book turns raw life into an arrow of meaning.
 
 **Interlude Φ. The Edges of Reason --- From Gödel's Paradox to the Silicon Mind**
 
-The compass's machinery: logic, mathematics, probability, computation, Gödel, Boole, Shannon, and the limits of formal reason before the ascent begins.
+INQUIRY. The compass's machinery: logic, mathematics, probability, computation, Gödel, Boole, Shannon, and the limits of formal reason before the ascent begins.
 
 ## Chapter 1. The First Horizon --- The Monster of Existence
 
-The emergence of spacetime, physical law, symmetry, matter, and the strange fact that anything coherent exists at all.
+PHYSICS. The emergence of spacetime, physical law, symmetry, matter, and the strange fact that anything coherent exists at all.
 
 **Interlude 1. Solid-State Sparks --- The Birth of Computing**
 
-Semiconductor physics, transistors, chips, and the material birth of computation.
+SUBSTRATE. Semiconductor physics, transistors, chips, and the material birth of computation.
 
 ## Chapter 2. The Inheritance of Life --- The Monster of Becoming
 
-Life as self-replication, persistence, vulnerability, and organized becoming, from molecular origins to evolving organisms.
+BIOLOGY. Life as self-replication, persistence, vulnerability, and organized becoming, from molecular origins to evolving organisms.
 
 **Interlude 2. Data Fundamentals --- The Language of Reality**
 
-Information representation, structure, storage, organization, scaling, and the bridge from biological code to digital data.
+DATA. Information representation, structure, storage, organization, scaling, and the bridge from biological code to digital data.
 
 ## Chapter 3. The Promethean Bargain --- The Brain as Creation's Engine
 
-Brains as modeling organs, engines of imagination, and the first creation-machines.
+BRAIN. Brains as modeling organs, engines of imagination, and the first creation-machines.
 
 **Interlude 3. Silicon Minds --- The Art of Computer Architecture**
 
-CPUs, memory, interconnects, instruction sets, and the architectural basis of machine cognition.
+HARDWARE. CPUs, memory, interconnects, instruction sets, and the architectural basis of machine cognition.
 
 ## Chapter 4. The Monster Within --- Psychology, Morality, and the Dance of Free Will
 
-Mind as lived looping across a lifetime: selfhood, moral conflict, agency, illusion, and interior weather.
+PERSON. Mind as lived looping across a lifetime: selfhood, moral conflict, agency, illusion, and interior weather.
 
 **Interlude 4. Soft Logic --- The Art of Software**
 
-Software, languages, operating systems, abstraction, programs, and the beginning of machine behavior.
+SOFTWARE. Software, languages, operating systems, abstraction, programs, and the beginning of machine behavior.
 
 ## Chapter 5. The Burning City --- Injustice, Rage, and the Monster We Build Together
 
-Human psychologies in number: social order, hierarchy, rage, injustice, and the monsters groups build together.
+SOCIETY. Human psychologies in number: social order, hierarchy, rage, injustice, and the monsters groups build together.
 
 **Interlude 5. Connected Currents --- Computer Networks and Distributed Computing**
 
-Networks, protocols, distributed systems, and the social structure of machines under strict rules.
+NETWORK. Networks, protocols, distributed systems, and the social structure of machines under strict rules.
 
 ## Chapter 6. Living on Shaking Ground --- Industry, Systems, and the Illusion of Control
 
-Purposeful human organization, engineering, machines, workflows, production systems, and the built structures we mistake for mastery.
+INDUSTRY. Purposeful human organization, engineering, machines, workflows, production systems, and the built structures we mistake for mastery.
 
 **Interlude 6. Systems in Concert --- Computing Systems and Enterprise Software**
 
-Large systems built from hardware, software, users, networks, orchestration, and enterprise coordination.
+APP. Large systems built from hardware, software, users, networks, orchestration, and enterprise coordination.
 
 ## Chapter 7. The Engine of Prosperity --- Capitalism, the Dream, and the Monster at the Gates
 
-Trade, money, markets, abstraction, incentives, prosperity, appetite, and the systems that free and cage us.
+ECONOMY. Trade, money, markets, abstraction, incentives, prosperity, appetite, and the systems that free and cage us.
 
 **Interlude 7. The E-conomy --- How the Web Turned Code into Capital**
 
-Computing as industry, platform, market force, and commercial ecosystem.
+WEB. Computing as industry, platform, market force, and commercial ecosystem.
 
 ## Chapter 8. The Broken Banner --- Borders, Betrayals, and the Monster of 9/11
 
-Nations, borders, empires, sovereignty, identity, administration, and the promises and wounds of political scale.
+POLITICS. Nations, borders, empires, sovereignty, identity, administration, and the promises and wounds of political scale.
 
 **Interlude 8. The Borderless Machine --- Decentralization, Blockchain, and Digital Borders**
 
-Decentralization, blockchain, commercial networks, digital borders, and the border-making habits of borderless machines.
+DECENTRALIZATION. Decentralization, blockchain, commercial networks, digital borders, and the border-making habits of borderless machines.
 
 ## Chapter 9. The Thin Ice --- Guns, Civility, and the Fragile Modern Mind
 
-Humanity as moral weather: ideology, civility, violence, public temperament, and the fragility of the modern mind.
+IDEOLOGY. Humanity as moral weather: ideology, civility, violence, public temperament, and the fragility of the modern mind.
 
 **Interlude 9. Interfaces and Experiences --- Computing's Human Touch**
 
-UI, UX, interaction, interfaces, human affordance, and the surface where computation meets lived experience.
+INTERFACE. UI, UX, interaction, interfaces, human affordance, and the surface where computation meets lived experience.
 
 ## Chapter 10. When Paradise Burns --- The Anthropocene Monster
 
-Ecosystem, Gaia, planetary metabolism, climate, biodiversity, fire, extinction, and the nonhuman world answering back.
+ECOSYSTEM. Ecosystem, Gaia, planetary metabolism, climate, biodiversity, fire, extinction, and the nonhuman world answering back.
 
 **Interlude 10. Cloud Atlas, Rewired --- Our Second Atmosphere**
 
-Cloud computing, service models, edge patterns, AI infrastructure, and computation as a second atmosphere.
+CLOUD. Cloud computing, service models, edge patterns, AI infrastructure, and computation as a second atmosphere.
 
 ## Chapter 11. The Final Crossing --- Nomads in a Purgatory of Code
 
-Information, AI, singularity, personal trajectory, civilizational threshold, and the question of what kind of intelligence we are becoming.
+INFORMATION. Information, AI, singularity, personal trajectory, civilizational threshold, and the question of what kind of intelligence we are becoming.
 
 **Interlude 11. Transformers --- The Architectures of the Singularity**
 
-Transformers, training, inference, prompting, orchestration, serving infrastructure, and alignment.
+INTELLIGENCE. Transformers, training, inference, prompting, orchestration, serving infrastructure, and alignment.
 
 ## Coda I. The Soil and the Shadow
 
@@ -120,11 +120,11 @@ A threshold into the diagnostic volume: low battery, human stillness, and the fi
 
 ## Chapter Δ. The Archer's Paradox --- Gauging the Heart of the Draw
 
-The diagnostic compass. Establishes causal humility, symptom versus mechanism, domain versus failure mode, systems thinking, observability, proxy failure, and critique as preparation for design.
+DIAGNOSIS. The diagnostic compass. Establishes causal humility, symptom versus mechanism, domain versus failure mode, systems thinking, observability, proxy failure, and critique as preparation for design.
 
 **Interlude Δ. Body, Boulevard, Ballot, Bible --- The B4 Ladder**
 
-The diagnostic caseboard: body, mobility, governance, and sacred story as reusable specimens for reading complex systems under stress.
+DIAGNOSTICS. The diagnostic caseboard: body, mobility, governance, and sacred story as reusable specimens for reading complex systems under stress.
 
 ## Chapter 12. The Frozen Arc --- Our Collective Stasis
 
@@ -132,7 +132,7 @@ MACROSTATE. Diagnoses civilization as locally active but macroscopically phase-l
 
 **Interlude 12. Temporal Order --- Time, Entropy, and Synchronization**
 
-TEMPORAL ORDER. Time as the coordinate of macro-change: geometry, entropy, synchronization, clocks, machine time, and timing as infrastructure.
+ORDER. Time as the coordinate of macro-change: geometry, entropy, synchronization, clocks, machine time, and timing as infrastructure.
 
 ## Chapter 13. The Fragile Arrow --- Shards of Reality in a Collective Mirror
 
@@ -140,7 +140,7 @@ MICROSTATE. The individual as a constrained agent: feasible sets, path dependenc
 
 **Interlude 13. Identity and Boundary --- Particles, Persons, and Digital Selves**
 
-BOUNDARY. Identity as primitive: particles and types, selfhood, center and surround, IAM, profiles, avatars, and digital twins.
+IDENTITY. Identity as primitive: particles and types, selfhood, center and surround, IAM, profiles, avatars, and digital twins.
 
 ## Chapter 14. The Buried Arrowhead --- The Horse, the Conqueror, and the Erased
 
@@ -148,15 +148,15 @@ CONFOUNDER. Hidden variables, erased histories, buried rails, missing data, caus
 
 **Interlude 14. The Quantum Machine --- Unburying Reality's Hidden Layers**
 
-HIDDEN STRUCTURE. Quantum substrate, measurement, superposition, entanglement, decoherence, quantum computing primitives, and engineering caveats.
+PROBABILITY. Quantum substrate, measurement, superposition, entanglement, decoherence, quantum computing primitives, and engineering caveats.
 
 ## Chapter 15. The Unstrung Bow --- The Shielded Compass of Collective Meaning
 
-OBSERVABILITY. Signal loss, mis-sensing, weak indicators, proxy failure, moral navigation failure, and systems that punish before they see.
+SIGNAL. Signal loss, mis-sensing, weak indicators, proxy failure, moral navigation failure, and systems that punish before they see.
 
 **Interlude 15. Instrumented Worlds --- Sensors, Signals, and Action**
 
-SENSING. Sensors, signals, noise, ADC, embedded systems, edge inference, networking, actuation, IoT, and privacy/security hazards.
+MEASUREMENT. Sensors, signals, noise, ADC, embedded systems, edge inference, networking, actuation, IoT, and privacy/security hazards.
 
 ## Chapter 16. The Flaming Tip --- Germs, Nukes, and AI at the Edge of Erasure
 
@@ -164,11 +164,11 @@ DYNAMICS. Positive feedback, thresholds, fat tails, coupling, dual-use power, ru
 
 **Interlude 16. Adaptive Repair --- CRISPR and the Code of Life**
 
-EDITING. DNA as code, CRISPR as programmable intervention, sequencing, guide RNAs, bioinformatics, control, and dual-use risk.
+INTERVENTION. DNA as code, CRISPR as programmable intervention, sequencing, guide RNAs, bioinformatics, control, and dual-use risk.
 
 ## Chapter 17. The Caged Archer --- The Stasis of Civilization's Myths
 
-MODEL LOCK-IN. Myths, priors, paradigms, ideological overfit, abstraction debt, stale legitimacy, and stories that harden into cages.
+MODEL. Myths, priors, paradigms, ideological overfit, abstraction debt, stale legitimacy, and stories that harden into cages.
 
 **Interlude 17. Protective Boundaries --- Secrecy, Trust, and Encryption**
 
@@ -176,7 +176,7 @@ ENCAPSULATION. Privacy, secrecy, abstraction layers, cryptography, cybersecurity
 
 ## Chapter 18. The Splintered Basket --- The Shattered Bonds of Collective Morality
 
-OBJECTIVE FUNCTION. Moral fragmentation, trust decay, incentive drift, norm collapse, principal-agent problems, and the leakage of the shared "we."
+OBJECTIVE. Moral fragmentation, trust decay, incentive drift, norm collapse, principal-agent problems, and the leakage of the shared "we."
 
 **Interlude 18. Agreement and Scarcity --- Consensus, Trust, and Digital Ownership**
 
@@ -188,7 +188,7 @@ COMMONS. Enclosure, externalities, resilience loss, maintenance neglect, public-
 
 **Interlude 19. Governance Within --- Medicine, Mutation, and Mortality**
 
-CELLULAR GOVERNANCE. The body as commons: cellular cooperation, immune policing, mutation, cancer, resistance, and treatment as systems intervention.
+GOVERNANCE. The body as commons: cellular cooperation, immune policing, mutation, cancer, resistance, and treatment as systems intervention.
 
 ## Chapter 20. The Still Machine --- The Stasis of Our Tools
 
@@ -196,7 +196,7 @@ ARCHITECTURE. Industrial forms, inherited machine architectures, bottlenecks, ov
 
 **Interlude 20. The Cost of Thinking --- Hardware Frontiers Beyond Silicon**
 
-SUBSTRATE. Energy, latency, memory movement, hardware constraints, neuromorphic/optical/in-memory computing, and the physical cost of intelligence.
+INFRASTRUCTURE. Energy, latency, memory movement, hardware constraints, neuromorphic/optical/in-memory computing, and the physical cost of intelligence.
 
 ## Chapter 21. The Still Mind --- Humanity's Cognitive Stasis
 

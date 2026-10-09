@@ -6,7 +6,7 @@ CHAPTER 10
 
 *The Anthropocene Monster*
 
-*ECOLOGY*
+*ECOSYSTEM*
 
 > "Evolution is a tightly coupled dance, with life and the material environment as partners. From the dance emerges the entity Gaia." --- **James Lovelock**
 

@@ -6,7 +6,7 @@ CHAPTER 27
 
 *Data, Nature, and Shared Ground*
 
-*COMMONS*
+*SHARING*
 
 > "That which is common to the greatest number has the least care bestowed upon it." --- **Aristotle**, Politics
 

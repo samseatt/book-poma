@@ -6,29 +6,48 @@ INTERLUDE ∅
 
 *From Gödel's Paradox to the Silicon Mind*
 
-*LOGIC*
+*INQUIRY*
 
-What will happen if I through this \[vase\] on the floor? Can I chew my way out of this crib?
+**ONTOLOGIST’S JOURNAL** — _Coordinates: Indeterminate_ — _Subject: The Emergent Thought
 
-If time has no beginning then that makes no sense, but if time started at some point, then what was before then, and that puts us back to where we started (literally, and figuratively). If space ends somewhere, then what's on the other side; but if it never ends, then that is also difficult to imagine.
+**Inquiry I.** — _On the baseline testing of physical boundaries and containment._
+	"What will happen if I throw this \[vase\] on the floor? Can I chew my way out of this crib?"
 
-Dad, where inside the radio is that thing that takes the wave thing and make \[sic.\] it into sound? Why can't we see these waves, what would they look like if we could see them? Where do they come from? How does the antenna find them?
+**Inquiry II.** — _An inquiry into the necessity of predatory reptiles._
+	"Mom, why did God create snakes?"
 
-Dad, will we have flying cars in the 1980s? What about in 1990? I will 'invent' \[sic.\] them when I grow up. Mom, the night watchman said according to the holy book the world will end in a few years? ... You say, "I should not worry, he is only saying because he thinks he will die," does this mean\... \<fuzzy about the rest of the conversation, so I need to recreate the rest.\>. Why do people grow old?
+**Inquiry III.** — _On the early confrontation with eschatology._
+	"Mom, the nightwatchman was saying that according to scripture the world will end in ten years. Is this true? ... Oh, so he is saying this because he's old and he thinks his life will end. Does this mean that the world will end for him? What do you mean by *he is reflecting his inner fear*? ..."
 
-I know the earth is round and we live on all sides of it, like this globe. But if I put things on this globe they fall off, especially from the bottom. But we are not stuck to earth, why don't we fall down? Why is it so special? Why is it not like this globe in space? Why doesn't this globe have gravity then?
+**Inquiry IV.** — _On the mechanics of invisible atmospheric phenomena._
+	"Dad, where inside the radio is that thing that takes the wave thing and make \[sic.\] it into sound? Why can't we see these waves, what would they look like if we could see them? Where do they come from? How does the antenna find them?"
 
-Why do they make me go to the school every day? Why should I make my bed if I have to take the bedcover off in the night anyway?
+**Inquiry V.** — _A proposal for an enclosed ecological experiment._
+	"Dear uncle, what will happen if you put a gecko and a mouse in a box? What will they do? What if we add a frog?"
 
-Why are some people more \[sic.\] poor? What makes them poor? Why does God make half of the people poor?
+**Inquiry VI.** — _On technological forecasting and youthful ambition._
+	"Dad, will we have flying cars in the future? I will 'invent' \[sic.\] them when I grow up."
 
-Do dogs think? It seems like sometimes they are thinking? \... Why do we eat animals? Why does it feel okay to eat plants though?
+**Inquiry VII.** — _On the futility of enforced routine and domestic order._
+	"Why do they make me go to the school every day? Why should I make my bed if I have to take the bedcover off in the night anyway?"
 
-Dear uncle, what will happen if you put a gecko and a mouse in a box? What will they do? What if we add a frog?
+**Inquiry VIII.** — _On the apparent paradox of planetary gravitation._
+	"I know the earth is round and we live on all sides of it, like this globe. But if I put things on this globe they fall off, especially from the bottom. But we are not stuck to earth, why don't we fall down? Why is it so special? Why is it not like this globe in space? Why doesn't this globe have gravity then?"
+
+**Inquiry IX.** — _On animal consciousness and the ethics of consumption._
+	"Do dogs think? It seems like sometimes they are thinking? \... Why do we eat animals? Why does it feel okay to eat plants though?"
+
+**Inquiry X.** — _On the arbitrary distribution of wealth and divine equity._
+	"Why are some people more \[sic.\] poor? What makes them poor? Would a just God 'make' half of the people poor?"
+
+**Inquiry XI.** — _On the incomprehensibility of infinite space and linear time._
+	"If time has no beginning then that makes no sense, but if time started at some point, then what was before then, and that puts us back to where we started (literally, and figuratively). If space ends somewhere, then what's on the other side, and so on; but if all this never ends, then that is also difficult to imagine."
 
 **One Thousand and One Lamps**
 
-They were meant to sound silly because they are factual. Real thoughts of the silliness of a child, straight out of (except for the first one) my unorganized Trash icon of mental storage, somehow surviving the "permanently delete" button. These are some silly questions of a child, some just though, some thought out loud, that could be dismissed. Some cleaned up during the ritual of learning and growing up, other just sticking their unresolved like a broken shoelace not long enough to tie but just enough to make you stop to pull the two bared ends in fits and starts. Civilization never felt any more immune with questions of its own. Something deep always turns out permanently AWAL, but the window dressings, they are exquisitely filling. Growing up does not become a cure for these thoughts; the language of these thoughts and questions simply slug up to slightly higher rungs of sophistication ladder. And the same for the collective -- the stories can get better but never fully real. Acknowledging it may even be a virtue sometimes, ignoring them as bliss would require a very large rug to sweep under. We need to answer them, make the rug-requirement compact whenever we can. An remember flying rugs are, well just that, floating on dust bowls of illusions, turtles of dust all the way down.
+They were meant to sound silly because they are factual. Real thoughts of the silliness of a child, straight out of (except for the first one) my unorganized Trash icon of mental storage, somehow surviving the "permanently delete" button. These are some silly questions of a child, some just though, some thought out loud, that could be dismissed. Some cleaned up during the ritual of learning and growing up, other just sticking their unresolved like a broken shoelace not long enough to tie but just enough to make you stop to pull the two bared ends in fits and starts. What's more embarrassing than these questions for this subject [me] is to be embarrassed by them yet leaving established thinking unchallenged.
+
+Civilization never felt any more immune with questions of its own. Something deep always turns out permanently AWAL, but the window dressings, they are exquisitely filling. Growing up does not become a cure for these thoughts; the language of these thoughts and questions simply slug up to slightly higher rungs of sophistication ladder. And the same for the collective -- the stories can get better but never fully real. Acknowledging it may even be a virtue sometimes, ignoring them as bliss would require a very large rug to sweep under. We need to answer them, make the rug-requirement compact whenever we can. An remember flying rugs are, well just that, floating on dust bowls of illusions, turtles of dust all the way down.
 
 When I look back even that over-curious child, what feels odd is not those questions, but the lack thereof. How much more I didn't question and accepted as baseline reality, on experience or on word. Though curiosity and innovation are our super traits, humans are even better at that other trait. Object permanence, quick center-surround conclusions in "survival-seconds." And when those crack into questions, they're even more unsettling -- like .
 

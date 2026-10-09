@@ -6,7 +6,7 @@ INTERLUDE 20
 
 *Hardware Frontiers Beyond Silicon*
 
-*SUBSTRATE*
+*INFRASTRUCTURE*
 
 A client once brought me in because something "mysterious" was happening. The system looked strong on paper. The CPUs were modern. The memory was plentiful. The storage was fast. The network was not the bottleneck---at least not the obvious one. The team had optimized code, tuned parameters, upgraded instances, and said all the right words. The dashboards were green enough to make a project manager fall in love. And yet the thing crawled.
 
