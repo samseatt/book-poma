@@ -2,13 +2,17 @@
 ![](assets/01-open/opening.png)
 
 
-In the beginning, there was no dark, no light --- not even nothing. In the beginning, there was no beginning. A rift tore open in the void, and a roar of fire and time burst forth.
+In the beginning there was no beginning, and nothing to begin: not darkness, not light, not even nothing.
 
-That space swelled faster than thought, stars were forged in chaos, laws carved into the newborn night.
+And nothing said, Let there be.
 
-Darkness drew matter into swirling towers; fire raged until it birthed the quiet spark of order.
+And space swelled faster than light could follow, and the deep was fire, and symmetries broke, and forces that had been one went their separate ways.
 
-And yet, beneath the brilliance, silence lingered: no answer to why the void cracked, why there is something rather than nothing.
+And there was light, but it could not go anywhere. For three hundred and eighty thousand years it was held in the fire, and when the fire cooled, the light went free. It is traveling still.
+
+And darkness drew matter into towers, and the towers kindled, and the stars forged the stuff from which, one day, eyes would be made.
+
+But no star knew why, and the silence beneath the fire gave no answer.
 
 ---
 

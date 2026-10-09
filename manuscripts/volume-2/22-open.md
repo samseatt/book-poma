@@ -2,15 +2,16 @@
 ![](assets/22-open/opening.png)
 
 
-Salt spray hissed against the sides of the raft. Paddles dipped and rose in ragged rhythm. Behind them, the dark line of the old shore shrank beneath a sky paling with dawn.
+_When the thirty birds looked, they saw at once, beyond all doubt, that these thirty birds were the Simorgh._  
+--- **Attar**, _The Conference of the Birds_
 
-Eyes searched the far horizon for hints of land --- a dark smudge, a rise of hills, anything beyond the endless sway of waves.
+Thousands of years after the Gate of Grief, the descendants of those who came through it had walked the coasts of Asia to its last southern islands.
 
-The sea's breath chilled their skin. Hands blistered against rough wood. Children whimpered into mothers' shoulders. Elders stared across the water, minds heavy with stories of beasts they had never seen but feared all the same.
+Island after island, each crossing a little wider than the one before, until the chain ran out at a sea with no shore that anyone could be sure of on the other side.
 
-Every creak of the raft carried a question: Would there be fresh water ahead? Would new stars guide them, or leave them lost? Would those they might meet greet them as kin --- or prey?
+They built something that would float, and went anyway: on purpose, with families aboard, and in numbers large enough to stay. No one knows their names, or what they said to each other as the land sank behind them.
 
-The old world lay behind, silent. The new world waited, unseen.
+For a while the shore they had left was gone, and the one ahead had not yet risen. There was only the water, and the raft, and the people on it.
 
 ---
 

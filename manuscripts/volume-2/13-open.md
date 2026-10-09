@@ -2,17 +2,18 @@
 ![](assets/13-open/opening.png)
 
 
-The plane waited on the tarmac, lights blinking in the humid night. The boarding stairs loomed like a narrow bridge.
+_Listen to the reed how it tells a tale, complaining of separations, saying, "Ever since I was parted from the reed-bed, my lament hath caused man and woman to moan."_  
+--- **Rumi**, _Masnavi_
 
-I stood beneath the steel belly, two suitcases and a carry-on all that remained of my life. My breath hung in the heavy air, heart pounding loud enough to drown the silence.
+A young man stood on a tarmac in the humid night, under the belly of a plane, with two suitcases and a carry-on: everything he was taking from his life.
 
-Behind me lay narrow streets and silent eyes, words I could never say, thoughts punishable by death. Ahead, an unknown sky.
+Behind him were narrow streets and watchful eyes, words he had learned never to say, and thoughts that were punishable by death.
 
-I climbed the steps. The door closed with a hollow thud.
+He climbed the stairs. The door closed behind him with a hollow sound.
 
-Hours later, wheels struck wet tarmac. Rain hammered JFK's runways as the plane shuddered to a stop. Somewhere beside that dark terminal, a statue raised a torch through the storm --- perhaps a welcome, perhaps just another creed.
+Hours later, the wheels struck a wet runway in New York. Rain hammered the airfield. Somewhere out in the harbor, beyond the dark and the rain, a statue held up a torch: perhaps a welcome, perhaps only another creed.
 
-I had crossed a line no one could see.
+He had crossed a line no one could see.
 
 ---
 

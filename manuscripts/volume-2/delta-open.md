@@ -2,19 +2,14 @@
 ![](assets/delta-open/opening.jpeg)
 
 
-Zeno said the arrow doesn't move.
+_...the flying arrow is at rest..._  
+--- **Aristotle**, reporting Zeno, _Physics_ VI
 
-Not because it can't fly---because when you look closely enough, you only ever catch it *being* somewhere: a point in space, a sliver of time, a still photograph mistaken for a journey.
+Zeno said the arrow doesn't move. Catch it at any instant and it is simply where it is: a still photograph mistaken for a journey.
 
-All of a sudden, a civilization started to suspect the same thing about itself:
+A civilization can come to suspect the same of itself. It has speed and spectacle, graphs that climb like prayers, castles of invention stacked on castles of invention. And yet in the places that matter most (meaning, fairness, trust, sanity), the air feels strangely unchanged.
 
-We have speed. We have spectacle. We have graphs that climb like prayers. We have castles of invention stacked on castles of invention. And yet, in the places that matter most---meaning, fairness, trust, sanity---the air feels strangely unchanged.
-
-What if our progress is real in motion, but false in meaning?
-
-What if the arrow has been airborne for centuries...
-
-...and still hasn't left the room?
+Perhaps the progress is real in motion and false in meaning. Perhaps the arrow has been in the air for centuries and has never left the room.
 
 ---
 

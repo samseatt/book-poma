@@ -2,19 +2,17 @@
 ![](assets/phi-open/opening.png)
 
 
-Let there be a system --- finite in its symbols, bound in its rules, complete in its ambition. Let it be consistent. Let it be knowable. Let it prove itself.
+I saw a city built of signs, foursquare and finite, its gates numbered, and over its gate was written: *Here every question shall be answered, and no answer shall contradict another.*
 
-Then a sentence stepped forward --- a quiet sentence, well-formed and clean:
+And the builders said, Let the city bear witness to itself. And it was so, for a season.
 
-"This sentence cannot be proven true."
+And a voice asked, Who is worthy to settle every word? And none was found worthy. For out of the city came a sentence, small and well formed, speaking in the city's own tongue, and this was its testimony: *I cannot be proven here.*
 
-The system tried. It twisted, reframed, reformalized. But to prove it would break consistency. To reject it would break completeness.
+To prove it, the city must become a liar. To leave it, the question must stand at the gate forever.
 
-The sentence did not blink. It was true. But not provable.
+And there was silence in the city about the space of half an hour.
 
-And so, from that single fracture --- not a failure, but a limit --- the first mystery entered the world.
-
-A truth that would never kneel.
+And from that hour there was a truth in the world that would not kneel.
 
 ---
 

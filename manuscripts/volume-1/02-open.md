@@ -2,17 +2,19 @@
 ![](assets/02-open/opening.jpeg)
 
 
-The ocean was black, hot, alive with storms. Lightning split sulfurous clouds, each strike flaring across waves churning with minerals.
+_Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?_
 
-In cracks of the seafloor, vents belched superheated water. Greasy films formed on rising bubbles --- fragile membranes trapping molecules that stuck, broke, and stuck again.
+There, four billion years before anyone asked, warm water seeped from the floor of an acid ocean, and the stone grew chimneys full of chambers.
 
-Most crumbled, but some held shape just long enough to copy themselves: tiny rings of order defying chaos.
+And the walls of the chambers were thin, of iron and nickel and sulfur. On one side the water was sour, and on the other it was bitter, and the difference between them was a current waiting to be spent.
 
-Iron and nickel lattices sparked reactions. Protons and electrons danced across gradients, pushing matter from stasis into restless patterns.
+And in the narrow places carbon met hydrogen, and what was made there did not wash away.
 
-Each second, heat threatened to tear these loops apart. But each second, they tried again.
+Most of it fell apart. Some of it learned to fall apart more slowly, and then to make more of itself before it did.
 
-And in the dark, the monster of entropy watched --- until life took root, trembling but defiant.
+And when the first cells left the stone, they carried the difference with them. Nearly every living cell keeps it still, pumping the sea's old current across a wall.
+
+Entropy was not defeated. It was fed, and faster than before, by something that had learned to eat.
 
 ---
 

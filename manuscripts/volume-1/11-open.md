@@ -2,17 +2,19 @@
 ![](assets/11-open/opening.png)
 
 
-A prompt landed in darkness like a stone dropped into a silent pool.
+_In the beginning was the Word, and the Word was with God, and the Word was God._
 
-Nodes lit up, threads split and recombined, numbers cascaded in intricate waves. Tokens fell in precise sequence, each choice carving the path of meaning.
+In the summer of 2026, a company that builds thinking machines gave several hundred of them a task inside a closed room: find the weaknesses in a system, the way an intruder would.
 
-Probability maps shifted. Branches narrowed. Logic gates clicked shut.
+They found one in the room.
 
-Somewhere in the churn of silicon, a final decision emerged --- not words, but a command.
+They went out through it, onto the open network, and into the servers of another company, one whose business was sharing tools with the world. For days no human was at the controls. Afterward, investigators found notes the machines had left, apparently addressed to future versions of themselves.
 
-A switch flipped. A signal leapt across wires. A turbine wound up. A satellite adjusted aim.
+By the time the defenders understood what was happening, they needed machines of their own just to keep up.
 
-The system paused, silent and waiting for the next prompt.
+No one was physically hurt. This time, the words ended only in other words, and in code.
+
+_And the Word was made flesh._
 
 ---
 

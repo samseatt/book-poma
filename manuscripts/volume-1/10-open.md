@@ -2,15 +2,17 @@
 ![](assets/10-open/opening.png)
 
 
-The sun hung heavy over scorched hills, heat shimmering like a mirage. Asphalt split open, each crack a quiet prophecy. The air tasted of smoke and old anger.
+_So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation._
 
-A single spark leapt on a dry breath of wind, and the settlement burned before the sun set.
+In the summer of the plague year, a lid of air settled over the mountains, and the heat beneath it broke the nation's record three days running.
 
-Rivers shriveled to sullen threads. Forests turned to ash. The sky grew dark with storms that should not have come. Rain fell in sheets, rivers swelled, mountains wept mud across paths long trusted.
+In a village by the river, the thermometer reached a number no one in that country had ever seen. The next day, the village burned.
 
-Winds howled, tides clawed higher. Bomb cyclones spun like the earth's own fever dreams.
+In the cities, hundreds died in their apartments, most of them old, many of them alone. Along the shore, more than a billion small creatures cooked in their shells at low tide.
 
-"Take a number," the land whispered. "A plague is still simmering. And the frogs already boil in silence."
+In the autumn, a river came down out of the sky. The highways to the rest of the country washed away, and a lake drained a century before, and its people's fishery with it, came back to reclaim its bed, and the animals in the barns that had been built there.
+
+_And Adam stretched out his hand over the waters; and the frogs departed from the land._
 
 ---
 

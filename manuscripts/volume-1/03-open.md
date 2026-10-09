@@ -2,15 +2,19 @@
 ![](assets/03-open/opening.png)
 
 
-Seats hummed beneath flight suits as engines rumbled to life. A soft shudder became a roar, vibrations climbing up spines and ribs. Hands gripped switches, eyes flicked to glowing displays.
+_Go to, let us build us a city and a tower, whose top may reach unto heaven... and now nothing will be restrained from them, which they have imagined to do._
 
-Gravity's pull loosened as the shuttle strained skyward, each second a triumph of steel, fuel, and thought. Through small windows, the world curved away --- oceans spread blue and endless, clouds layered like white continents.
+That morning there was ice on the tower.
 
-Voices crackled in headsets: checklists read in calm tones, hearts pounding beneath measured words. The cabin glowed with sunlight breaking over the horizon, shimmering across helmets and control panels.
+It hung from the gantry in long teeth, on the coldest morning that had ever seen a launch. Below it stood the work of a three-pound organ and two hands: a machine to carry seven people above the weather, and one of them was a teacher.
 
-For a moment, wonder eclipsed fear. Humanity was leaving home, carried by minds that had learned to shape fire.
+In classrooms across the country, children were watching.
 
-A flicker outside. A lurch.
+The machine rose on fire, and the fire held. But at a joint in one of its rockets, a ring of rubber too cold to keep its shape let a breath of flame slip past, and no one saw it in time.
+
+Seventy-three seconds.
+
+The sky was very blue.
 
 Then ---
 

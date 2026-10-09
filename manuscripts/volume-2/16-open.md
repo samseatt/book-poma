@@ -2,21 +2,19 @@
 ![](assets/16-open/opening.png)
 
 
-A vial balanced on trembling fingers. Frost crawled across glass.
+_Ye were not made to live like unto brutes,  
+But for pursuit of virtue and of knowledge._  
+--- **Dante**, _Inferno_ XXVI
 
-A sequence glowed on the monitor -- letters of life, letters of death.
+In the spring of 1986, in the middle of a Ukrainian night, the operators of a nuclear power station were running a test of their reactor's safety.
 
-Breath misted in the sterile air. Eyes scanned columns of nucleotides faster than any mind should dare.
+It went wrong slowly, and then all at once. The power fell too low, and to raise it they withdrew more of the rods that hold a reactor back than their own rules allowed. In that kind of reactor, more steam meant more power, and more power meant more steam.
 
-A bead of liquid slipped down the vial's curve. The hand flinched.
+At twenty-three minutes past one, someone pressed the button meant to shut everything down. The rods began to slide back into the core, and for a few seconds their tips made the reaction stronger.
 
-Glass met tile. The shatter cracked like a gunshot.
+In those seconds, the safeguard became the trigger.
 
-Silence flooded the room.
-
-Outside, birds sang over traffic. Someone laughed at a café.
-
-A new patient zero took its first breath.
+The town beside the station was evacuated a day and a half later. It has been empty ever since.
 
 ---
 

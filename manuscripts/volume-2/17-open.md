@@ -2,15 +2,16 @@
 ![](assets/17-open/opening.png)
 
 
-The stone cell smelled of old candles and iron. Shadows rippled along bare walls as a single flame danced in the draft.
+_I saw a man clothed with rags, standing in a certain place, with his face from his own house, a book in his hand, and a great burden upon his back._  
+--- **John Bunyan**, _The Pilgrim's Progress_
 
-He knelt, robe pooling at his feet. Fingers traced beads along a worn rosary, lips whispering words carved into him since childhood.
+In Vienna in the 1840s, a great hospital ran two maternity wards. In one, the mothers were attended by doctors; in the other, by midwives. In the doctors' ward, far more of them died of fever, and the women knew it. Some begged to be sent to the other ward. Some gave birth in the street rather than be taken in.
 
-His breath came ragged, chest rising and falling with practiced fervor. In his other hand, a thin cord looped around his thigh. Each pull bit deeper. Each sting burned devotion into flesh.
+A young physician noticed that the doctors came to the mothers straight from dissecting the dead. He made them wash their hands in chlorinated lime, and the deaths fell to a fraction of what they had been.
 
-Visions swirled behind closed eyes: saints suffering, kingdoms rising, sinners burning. His world reduced to penance and promise.
+His profession's model of disease had no room for what he had seen. Many of his colleagues refused to wash.
 
-Somewhere above, church bells tolled midnight. He welcomed the sound as absolution and prison both.
+He died in an asylum at forty-seven, of an infected wound: the kind of infection he had spent his life trying to stop.
 
 ---
 

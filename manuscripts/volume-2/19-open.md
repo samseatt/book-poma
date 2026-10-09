@@ -2,16 +2,19 @@
 ![](assets/19-open/opening.png)
 
 
-Smoke coiled above marble columns, black against the moonlit sky. Sparks drifted down like falling stars, settling on scrolls stacked higher than a man could reach.
+_Many cities did he visit, and many were the nations with whose manners and customs he was acquainted._  
+--- **Homer**, _Odyssey_ I
 
-The scent of burning ink filled the corridors. Shadows ran between stone shelves, feet slapping ancient floors as voices shouted in tongues older than empires.
+The kings of Alexandria wanted every book in the world.
 
-Scrolls cracked in the heat, words dissolving into ash. Generations of thought curled into smoke.
+Ships that put into their harbor were searched for scrolls. The scrolls were copied, the copies were handed back to the ships, and the originals stayed in the library.
 
-Outside, flames leapt through tall windows. On distant hills, watchers saw the glow rising over the city's walls --- a beacon of knowledge devoured.
+Scholars came from everywhere to read them. Some sat down with the poems of Homer and fixed the text from which much of what we read still descends.
 
-The library's heart beat slower with each gust of fire.
+The legend says the library burned in a single night. It didn't. A war burned part of it. A king who distrusted scholars drove them out. The money thinned, the copying slowed, the roofs went unrepaired, and centuries later a mob tore down what remained of its daughter library.
+
+No single night of fire. Only a long forgetting to pay for memory.
 
 ---
 
-*When the commons crumble, memory becomes ash.*
+*When the commons crumble, memory turns to dust.*

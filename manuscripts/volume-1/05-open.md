@@ -2,17 +2,21 @@
 ![](assets/05-open/opening.png)
 
 
-Smoke twisted across the street like a living thing. Flames flickered on both sides of the road, devouring storefronts and sending black clouds into the night sky.
+_But let judgment run down as waters, and righteousness as a mighty stream._
 
-My little Corolla crawled forward, low on gas, tank needle sinking as I searched for a working station. Earlier, I had spotted one --- lights off but doors open. Shapes moved inside, slipping out with armfuls of goods. Not customers. Looters.
+A year before, a man on a balcony had filmed police officers beating another man on the ground, and the whole country had watched the tape. That afternoon, a jury watched the same tape and saw something else.
 
-Now, the air grew darker, the road ahead a wall of swirling smoke lit by pulsing orange. Fire crackled somewhere beyond sight.
+By nightfall the city was burning.
 
-I weighed my options. Turn around? Nowhere safe behind me. Stop? Trapped. The sooner I crossed, the better --- but every second felt like it could ignite.
+A young man in a small car was looking for gas, the needle sinking. He passed a station with its lights off and its doors open, and people walking out of it with their arms full.
 
-I gripped the wheel, eased the car forward, inching into the smoke, vision shrinking to a dull, ghostly tunnel.
+Then the street ahead filled with smoke, lit orange from underneath, and both sides of it were on fire. Behind him there was nowhere better to go.
 
-The riot swallowed me whole.
+He held the wheel and drove into it, slowly, because the smoke allowed nothing faster, and the city closed over the car.
+
+He came out the other side. Over the days that followed, more than sixty people did not.
+
+Judgment had been asked to run down like water. That night it came down as fire.
 
 ---
 

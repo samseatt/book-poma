@@ -2,17 +2,19 @@
 ![](assets/04-open/opening.png)
 
 
-The room was quiet. Lamplight pooled on faded carpet, shadows clinging to corners. A single bed sat askew, sheets rumpled like a storm had passed.
+_The heart is deceitful above all things, and desperately wicked: who can know it?_
 
-Breath came shallow in the heavy air. A glass on the nightstand caught the light, trembling slightly with each heartbeat.
+A hotel room in Milwaukee, in the autumn of 1987. Two men had come in from a bar, and only one of them would leave alive.
 
-A mirror reflected a hollow face --- eyes distant, pupils dark, thoughts lost somewhere cold. Fingers toyed with objects on the dresser, each motion deliberate, detached.
+The man who woke that morning believed he had won. For nine years he had told himself that the thing inside him was buried, and he had nearly come to believe it.
 
-Outside the door, laughter drifted down the hallway, oblivious to the silence inside. Inside, morality slipped from its moorings.
+He woke to bruises on his own hands, and to a stranger beside him who was no longer breathing. He would say he remembered nothing. He would say he could not believe it had happened.
 
-The mind that once mapped right from wrong twisted on itself, each thought feeding darker impulses.
+So the question was no longer who had done it. The question was who he was.
 
-No monster waited under the bed. The monster was already here, wearing a human face.
+He stopped resisting after that, as if the evidence had settled an argument he had been losing for years.
+
+The other man was Steven Tuomi, twenty-five, of Ontonagon, Michigan. His remains were never found.
 
 ---
 

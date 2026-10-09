@@ -2,17 +2,19 @@
 ![](assets/08-open/opening.jpeg)
 
 
-The cabin hummed with morning light. Passengers tucked newspapers into seat pockets, adjusted belts, murmured over coffee in foam cups.
+_Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men...? I tell you, Nay._
 
-A flight attendant smiled, moving aisle to aisle, eyes scanning for unspoken needs. Overhead bins rattled softly with shifting luggage as the plane banked into clear skies.
+It was a Tuesday, and the sky over the East Coast was what pilots call severe clear: no cloud, no haze, nothing between the eye and the horizon.
 
-Sunlight glittered across aluminum wings, glancing off cloud tops like shards of glass.
+Four planes took off that morning with people bound for ordinary places.
 
-Somewhere in the back, a man stared out the window, fingers drumming on his tray table. Another passenger checked his watch, breathing measured and shallow.
+On one of them, a flight attendant picked up a phone at the back of the cabin and, in a steady voice, began reading seat numbers to the people on the ground.
 
-Silence thickened. The seatbelt light blinked off. The world, below and above, felt safe.
+Then the towers.
 
-But a line had already been crossed.
+Nearly three thousand people died that day: at their desks, on the planes, and on the stairs, going up.
+
+By midmorning, for the first time in its history, the nation ordered every plane in its sky to come down, and thousands of them did, onto whatever runway was nearest. For days afterward, the sky over the country was empty, and very quiet, and very blue.
 
 ---
 

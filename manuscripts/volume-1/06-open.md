@@ -2,11 +2,13 @@
 ![](assets/06-open/opening.png)
 
 
-On that lab table, the drive platter spun up just a bit faster. A subtle shift in tone from hum to whine. Just enough to destabilize the servo control loop, sending the read-write head oscillating erratically. A tiny spark arced at the actuator coil. A sudden resonance. A lateral slip. The head collided with the platter surface. Magnetic layers delaminated. Fragments of recording media scattered. The drive ceased all operation.
+_And after the wind an earthquake; but the LORD was not in the earthquake._
 
-Below the floor, strain deep in the fault reached its final threshold. Silent cracks spread through rock locked tight for centuries. Stacks of earth shuddered as friction gave way. A sudden, sharp slip sent shockwaves racing upward. The beast pulsed through foundations. Walls creaked. Windows rattled. Chandeliers swung. The city jolted awake.
+In a clean room by the bay, a disk spins thousands of times a minute, and a head smaller than a grain of rice flies above it on a cushion of air far thinner than a hair, like a jet held a few feet off the ground. Let in a speck of dust, or a tremor, and the head touches. The surface tears, the head plows, and what was written there is gone. The engineers have a plain word for it: a crash.
 
-But "not so fast," whispered Chaos. First, I had to move...
+Hundreds of miles south, before dawn on a January morning, a fault that was on no map gave way beneath a sleeping valley. Steel frames built to bend cracked at their welds. A freeway interchange that had fallen once before, while it was still being built, fell again. A police officer riding to work in the dark went over the edge where the road had been. The interchange carries his name now.
+
+A young man had left the state not long before. The ground, it seemed, had waited for him to go.
 
 ---
 

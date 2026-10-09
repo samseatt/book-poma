@@ -2,17 +2,18 @@
 ![](assets/15-open/opening.png)
 
 
-The hall was silent. Hundreds of students stood in rigid rows, eyes fixed forward, breath held.
+_Before the Law stands a doorkeeper. To this doorkeeper comes a man from the country and asks to be admitted to the Law._  
+--- **Franz Kafka**, "Before the Law"
 
-I stood alone on the stage, lights glaring off polished floors. Below me, a sea of faces watched --- some wide-eyed, others blank, all unmoving.
+The hall was silent. Hundreds of students stood in rows, eyes forward.
 
-A finger pointed from the stage's edge, as if the voice of heaven itself had chosen me. My legs carried me up steps I barely felt.
+From the stage, a finger pointed into the crowd, and found a boy.
 
-Words thundered above the hush, each syllable cutting sharper than the last. A hand swung. Skin cracked with the sound. Another swing followed, swift and perfect, striking the other cheek.
+He walked up the steps without feeling them. Above him, a voice was telling everyone else something about him.
 
-I stared into the darkness beyond the hall, ears ringing, cheeks burning, the hush louder than any shout.
+Then a hand struck one cheek, and at once the other, with the speed of long practice.
 
-No one moved. No one dared breathe.
+His ears rang. His face burned. Hundreds of students watched, and not one of them moved, because the finger could have found any of them.
 
 ---
 

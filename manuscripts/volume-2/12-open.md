@@ -2,20 +2,19 @@
 ![](assets/12-open/opening.png)
 
 
-The moon hung thin over black waves, stars cold and sharp in the sky. A fire flickered on a rocky shore, casting small faces in orange light. Eyes watched the dark water with fear and wonder.
+_Never, Gilgamesh, has there been a crossing, and the waters of death lie across the way._  
+--- after _The Epic of Gilgamesh_, Tablet X
 
-Behind them lay parched earth, hunger, the scent of death. Ahead, an endless stretch of sea, quiet and unknowable.
+Tens of thousands of years ago, at the southern end of a narrow sea, a small band of people sat by a fire and looked at the water.
 
-A mother held her child close, the night wind whispering promises and curses. Elders argued in low voices, the taste of ash on their tongues.
+Behind them the land was drying out. Ahead, across a strait the sea had narrowed but not closed, lay another shore, near enough to see on a clear day and far enough to drown in.
 
-A raft scraped against wet sand. Hands grasped it, knuckles pale, splinters biting. One by one, figures climbed aboard. Breath caught. The raft shoved off.
+Nobody knows how they crossed: on reeds lashed together, perhaps, or driftwood, or something cleverer that the sea has not kept. Perhaps many tried before any arrived.
 
-The shore shrank. The old world slipped behind them, silent.
+Much later, people named the strait Bab-el-Mandeb, the Gate of Grief.
 
-Across a narrow strait, the future waited.
-
-A thin line between extinction and everything to come.
+Nearly everyone alive outside Africa today descends from people who came through gates like it.
 
 ---
 
-*How far must we carry it --- just* *to survive?*
+*How far must we carry it, just to survive?*

@@ -2,15 +2,17 @@
 ![](assets/07-open/opening.png)
 
 
-A narrow room buzzed under flickering fluorescent lights. Steel shelves lined the walls, crowded with boxes and rows of paperbacks. Shipping labels curled on cheap tables. The scent of cardboard hung in the air.
+_And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number._
 
-A lone figure moved between stacks, scanning barcodes, scribbling notes. Each beep echoed with possibility.
+A garage in a rented house east of Seattle, in the years when the web was learning to talk. A handful of people sat at desks made from doors, because doors were cheaper than desks.
 
-A phone rang once, then fell silent. A computer monitor glowed green text across a black screen, lines of code plotting something bigger than the space could hold.
+They had meant to call the company Cadabra, as in abracadabra, until someone heard _cadaver_. So they named it for the largest river on Earth instead.
 
-Somewhere beyond the garage door, midnight traffic whispered through wet streets. Neon signs reflected in puddles. Every passing headlight a reminder of a world unaware of the quiet revolution in motion.
+At first, a bell rang whenever an order came in, and everyone gathered to see whether they knew the customer. Within weeks it rang so often that they had to turn it off.
 
-Rain tapped the garage roof in steady rhythms.
+The first book they ever sold was about how a machine might learn to think.
+
+In Egypt, the storehouses filled through seven years of plenty, and when the lean years came, whoever held the storehouses held everything else.
 
 ---
 
