@@ -1,0 +1,442 @@
+[
+  {
+    "path": "manuscripts/back-matter/epilogue.md",
+    "old_words": 1787,
+    "new_words": 1398,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/back-matter/glossary.md",
+    "old_words": 417,
+    "new_words": 409,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/front-matter/index.md",
+    "old_words": 2597,
+    "new_words": 2618,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/front-matter/introduction.md",
+    "old_words": 2173,
+    "new_words": 1708,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/01-interlude.md",
+    "old_words": 4616,
+    "new_words": 4616,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/01-open.md",
+    "old_words": 109,
+    "new_words": 143,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/02-interlude.md",
+    "old_words": 4096,
+    "new_words": 4117,
+    "annotation_openers": 1,
+    "annotation_closers": 1,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/02-open.md",
+    "old_words": 126,
+    "new_words": 183,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/03-chapter.md",
+    "old_words": 8278,
+    "new_words": 8278,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/03-open.md",
+    "old_words": 132,
+    "new_words": 156,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/04-chapter.md",
+    "old_words": 8886,
+    "new_words": 8886,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/04-open.md",
+    "old_words": 132,
+    "new_words": 168,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/05-chapter.md",
+    "old_words": 7129,
+    "new_words": 7129,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/05-open.md",
+    "old_words": 152,
+    "new_words": 186,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/06-chapter.md",
+    "old_words": 7552,
+    "new_words": 7552,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/06-interlude.md",
+    "old_words": 3181,
+    "new_words": 3180,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/06-open.md",
+    "old_words": 141,
+    "new_words": 197,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/07-chapter.md",
+    "old_words": 9481,
+    "new_words": 9481,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/07-open.md",
+    "old_words": 125,
+    "new_words": 162,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/08-open.md",
+    "old_words": 113,
+    "new_words": 173,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/09-open.md",
+    "old_words": 111,
+    "new_words": 130,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/10-chapter.md",
+    "old_words": 9918,
+    "new_words": 9918,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/10-interlude.md",
+    "old_words": 4042,
+    "new_words": 4041,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/10-open.md",
+    "old_words": 120,
+    "new_words": 190,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/11-chapter.md",
+    "old_words": 6772,
+    "new_words": 6772,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/11-interlude.md",
+    "old_words": 3084,
+    "new_words": 3083,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/11-open.md",
+    "old_words": 99,
+    "new_words": 157,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/coda.md",
+    "old_words": 1583,
+    "new_words": 1399,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/phi-chapter.md",
+    "old_words": 6144,
+    "new_words": 7571,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 19
+  },
+  {
+    "path": "manuscripts/volume-1/phi-interlude.md",
+    "old_words": 3683,
+    "new_words": 7815,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 20
+  },
+  {
+    "path": "manuscripts/volume-1/phi-open.md",
+    "old_words": 118,
+    "new_words": 155,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-1/prologue.md",
+    "old_words": 581,
+    "new_words": 515,
+    "annotation_openers": 1,
+    "annotation_closers": 1,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/12-interlude.md",
+    "old_words": 5386,
+    "new_words": 5985,
+    "annotation_openers": 3,
+    "annotation_closers": 3,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/12-open.md",
+    "old_words": 143,
+    "new_words": 151,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/13-interlude.md",
+    "old_words": 4756,
+    "new_words": 4728,
+    "annotation_openers": 1,
+    "annotation_closers": 1,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/13-open.md",
+    "old_words": 143,
+    "new_words": 158,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/14-open.md",
+    "old_words": 125,
+    "new_words": 153,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/15-open.md",
+    "old_words": 134,
+    "new_words": 127,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/16-open.md",
+    "old_words": 89,
+    "new_words": 165,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/17-open.md",
+    "old_words": 119,
+    "new_words": 188,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/18-open.md",
+    "old_words": 112,
+    "new_words": 152,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/19-interlude.md",
+    "old_words": 6179,
+    "new_words": 6178,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/19-open.md",
+    "old_words": 109,
+    "new_words": 161,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/20-interlude.md",
+    "old_words": 3574,
+    "new_words": 3574,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/20-open.md",
+    "old_words": 97,
+    "new_words": 137,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/21-open.md",
+    "old_words": 82,
+    "new_words": 147,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/22-open.md",
+    "old_words": 149,
+    "new_words": 167,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/coda.md",
+    "old_words": 2720,
+    "new_words": 2017,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/delta-open.md",
+    "old_words": 127,
+    "new_words": 119,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-2/overture.md",
+    "old_words": 1601,
+    "new_words": 1252,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-3/23-chapter.md",
+    "old_words": 6640,
+    "new_words": 7365,
+    "annotation_openers": 2,
+    "annotation_closers": 2,
+    "footnote_defs": 4
+  },
+  {
+    "path": "manuscripts/volume-3/27-chapter.md",
+    "old_words": 6325,
+    "new_words": 6325,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 4
+  },
+  {
+    "path": "manuscripts/volume-3/27-interlude.md",
+    "old_words": 5012,
+    "new_words": 5012,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-3/overture.md",
+    "old_words": 1337,
+    "new_words": 1368,
+    "annotation_openers": 0,
+    "annotation_closers": 0,
+    "footnote_defs": 0
+  },
+  {
+    "path": "manuscripts/volume-3/theta-interlude.md",
+    "old_words": 9297,
+    "new_words": 10084,
+    "annotation_openers": 2,
+    "annotation_closers": 2,
+    "footnote_defs": 0
+  }
+]

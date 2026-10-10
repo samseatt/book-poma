@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-09",
+  "author_baseline": "16c6b5b82383b67f49bfefa3558d76c5d1337bcf",
+  "checks": {
+    "all_other_snapshot_manuscript_files_byte_identical": true,
+    "all_opens_unchanged": true,
+    "all_author_annotations_unchanged": true,
+    "images_unchanged": true,
+    "no_scoped_note_id_collisions": true,
+    "no_editor_local_reference_urls": true,
+    "git_diff_check": "passed"
+  },
+  "units": [
+    {
+      "path": "manuscripts/volume-1/phi-chapter.md",
+      "sha256": "97bf97774afcfcb879103aa730c95e7c73c1f3a6120cb6adbc79132256c698cc",
+      "notes": 22,
+      "pandoc_parse": "passed"
+    },
+    {
+      "path": "manuscripts/volume-1/phi-interlude.md",
+      "sha256": "670250b9d947e0168e2889d98fb733336bc002a560b6cb15e74a7cf3b9c7ece9",
+      "notes": 26,
+      "pandoc_parse": "passed"
+    }
+  ],
+  "scope": "Source-note repairs and narrow associated factual edits; no rendered publication or deployment."
+}

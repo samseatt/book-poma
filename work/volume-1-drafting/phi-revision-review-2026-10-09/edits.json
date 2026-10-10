@@ -1,0 +1,158 @@
+[
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Restore native footnote syntax; replace editor-local TODO link with a verified source definition.",
+    "before": "[^v1-phi-c-vonneumann](https://file+.vscode-resource.vscode-cdn.net/Users/samseatt/projects/book-poma/work/sam/!--%20TODO:%20source%20von%20Neumann's%20reaction%20at%20K%C3%B6nigsberg%20\\(1930\\),%20his%20November%201930%20letter%20to%20G%C3%B6del%20on%20the%20second%20incompleteness%20theorem,%20G%C3%B6del's%20reply,%20and%20von%20Neumann's%20subsequent%20turn%20away%20from%20foundational%20work%20\\(e.g.,%20Dawson,%20*Logical%20Dilemmas:%20The%20Life%20and%20Work%20of%20Kurt%20G%C3%B6del*,%201997\\).%20--)",
+    "after": "[^v1-phi-c-vonneumann]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Restore native footnote syntax; replace editor-local TODO link with a verified source definition.",
+    "before": "[^v1-phi-i-ordinals](https://file+.vscode-resource.vscode-cdn.net/Users/samseatt/projects/book-poma/work/sam/!--%20TODO:%20source%20the%20von%20Neumann%20construction%20of%20the%20natural%20numbers%20\\(John%20von%20Neumann,%20%22Zur%20Einf%C3%BChrung%20der%20transfiniten%20Zahlen,%22%201923,%20or%20a%20standard%20set%20theory%20text\\).%20The%20creation-story%20framing%20is%20the%20author's,%20with%20the%20stated%20caution.%20--)",
+    "after": "[^v1-phi-i-ordinals]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Restore native footnote syntax; replace editor-local TODO link with a verified source definition.",
+    "before": "[^v1-phi-i-linegraph](https://file+.vscode-resource.vscode-cdn.net/Users/samseatt/projects/book-poma/work/sam/!--%20TODO:%20source%20the%20line%20graph%20definition%20\\(e.g.,%20Frank%20Harary,%20*Graph%20Theory*,%201969,%20chapter%20on%20line%20graphs\\).%20The%20roundabout%20example%20\\(the%20line%20graph%20of%20a%20four-pointed%20star%20is%20a%20complete%20graph%20on%20four%20nodes\\)%20and%20the%20emergence%20reading%20are%20the%20author's.%20--)",
+    "after": "[^v1-phi-i-linegraph]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Restore native footnote syntax; replace editor-local TODO link with a verified source definition.",
+    "before": "[^v1-phi-i-priority](https://file+.vscode-resource.vscode-cdn.net/Users/samseatt/projects/book-poma/work/sam/!--%20TODO:%20source%20the%20Newton%E2%80%93Leibniz%20priority%20dispute%20\\(e.g.,%20A.%20Rupert%20Hall,%20*Philosophers%20at%20War*,%201980\\).%20--)",
+    "after": "[^v1-phi-i-priority]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Restore native footnote syntax; replace editor-local TODO link with a verified source definition.",
+    "before": "[^v1-phi-i-hilbert](https://file+.vscode-resource.vscode-cdn.net/Users/samseatt/projects/book-poma/work/sam/!--%20TODO:%20source%20Hilbert%20space%20and%20its%20naming;%20John%20von%20Neumann,%20*Mathematische%20Grundlagen%20der%20Quantenmechanik*%20\\(1932\\);%20the%20Born%20rule%20\\(Max%20Born,%201926\\);%20and%20the%20pendulum%20phase-space%20example%20\\(any%20standard%20mechanics%20text\\).%20The%20%22possibilities%20bearing%20on%20possibilities%22%20reading%20is%20the%20author's%20framing%20for%20Chapter%201.%20--)",
+    "after": "[^v1-phi-i-hilbert]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Restore native footnote syntax; replace editor-local TODO link with a verified source definition.",
+    "before": "[^v1-phi-i-vonneumann](https://file+.vscode-resource.vscode-cdn.net/Users/samseatt/projects/book-poma/work/sam/!--%20TODO:%20source%20John%20von%20Neumann,%20*First%20Draft%20of%20a%20Report%20on%20the%20EDVAC*%20\\(1945\\),%20on%20the%20stored-program%20design,%20and%20a%20history%20covering%20the%20credit%20dispute%20with%20J.%20Presper%20Eckert%20and%20John%20Mauchly.%20--)",
+    "after": "[^v1-phi-i-vonneumann]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Restore native footnote syntax; replace editor-local TODO link with a verified source definition.",
+    "before": "[^v1-phi-i-universality](https://file+.vscode-resource.vscode-cdn.net/Users/samseatt/projects/book-poma/work/sam/!--%20TODO:%20source%20one-instruction-set%20universality%20\\(e.g.,%20the%20SUBLEQ%20literature\\)%20and%20Matthew%20Cook,%20%22Universality%20in%20Elementary%20Cellular%20Automata,%22%20*Complex%20Systems*%2015%20\\(2004\\),%20for%20Rule%20110.%20The%20threshold%20and%20emergence%20readings%20are%20the%20author's.%20--)",
+    "after": "[^v1-phi-i-universality]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Connect the existing epigraph source note, which had lost its callout.",
+    "before": "**Ludwig Wittgenstein**, On Certainty",
+    "after": "**Ludwig Wittgenstein**, On Certainty[^v1-phi-c-certainty]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Source the software principle; distinguish the later philosophical extension.",
+    "before": "(The engineers' shorthand is the Hollywood principle: don't call us, we'll call you.)",
+    "after": "(The engineers' shorthand is the Hollywood principle: don't call us, we'll call you.)[^v1-phi-c-inversion]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Correct the documented interval and letter date; distinguish announcement from a published full proof; remove an unsupported causal career claim.",
+    "before": "Within weeks he had worked out the second theorem on his own, the one about consistency, and wrote to Gödel with the news, only to learn that Gödel had already proved it and sent it to press. Von Neumann, one of the most formidable mathematical minds of the century, largely left the foundations of mathematics to others after that.",
+    "after": "By November he had worked out the second theorem on his own, the one about consistency, and wrote to Gödel with the news on 20 November 1930, only to learn that Gödel had already submitted a paper announcing it. Von Neumann accepted Gödel's priority."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Source Hawking’s polar analogy and its conditional cosmological context.",
+    "before": "the question is well-formed as grammar and possibly empty as geography.",
+    "after": "the question is well-formed as grammar and possibly empty as geography.[^v1-phi-c-hawking]"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Verify the original passage, correct the article range, and distinguish the author’s proposed threshold from Hockett’s account.",
+    "before": "[^v1-phi-c-displacement]: Charles F. Hockett, \"The Origin of Speech\" (1960), _Scientific American_ 203(3): 88–96, on design features of language including displacement and productivity. The threshold framing and its extension to other codes are the author's.",
+    "after": "[^v1-phi-c-displacement]: Charles F. Hockett, [The Origin of Speech](https://doi.org/10.1038/scientificamerican0960-88) (1960), _Scientific American_ 203(3): 88–97, especially pp. 90–92 on displacement, productivity and duality of patterning. [Original article scan](https://langev.com/pdf/charles60theOrigin.pdf). Hockett identifies thirteen features, not a sufficient two-feature test for language. The threshold framing and extension to other codes are the author's."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Match the cited SUBLEQ instruction: branch if the result is less than or equal to zero.",
+    "before": "jumps elsewhere if the result is negative",
+    "after": "jumps elsewhere if the result is zero or negative"
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Include the cell’s own state and distinguish the proof’s publication date from its discovery.",
+    "before": "A row of cells, each updating by a single fixed rule about its two neighbors, can do the same: the cellular automaton called Rule 110 was proved universal in 2004.",
+    "after": "A row of cells, each updating by a single fixed rule about itself and its two neighbors, can do the same: a proof of the universality of the cellular automaton called Rule 110 was published in 2004."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "The cited paper is dated 1938; avoid identifying its publication year as the thesis date or retaining an unattributed superlative.",
+    "before": "Eighty-four years later, a young Claude Shannon showed in his master's thesis (it has been called the most consequential master's thesis of the century) that the same algebra could describe, and design, circuits of electrical switches.",
+    "after": "Eighty-four years later, a young Claude Shannon published a paper, developed from his master's thesis, showing that the same algebra could describe, and design, circuits of electrical switches."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Attribute the combined 2024 result accurately and distinguish the 2025 natural-language system from formal proof checking.",
+    "before": "In 2024, DeepMind's AlphaProof combined learning with formal proof construction and checking to reach silver-medal standard at the International Mathematical Olympiad, and within a year AI systems were reported at gold-medal level.",
+    "after": "In 2024, DeepMind's AlphaProof combined learning with formal proof construction and checking; together with AlphaGeometry 2, it reached silver-medal standard on International Mathematical Olympiad problems. In 2025, an advanced version of Gemini Deep Think reached gold-medal standard with natural-language proofs."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Verify both primary research-team reports and distinguish their systems, scores and validation methods.",
+    "before": "[^v1-phi-i-learning-proof]: Google DeepMind, [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/) (2024). AlphaProof: a formal approach to reasoning. This is the research team's report about a particular system, not a claim that all learned systems supply proofs or that a proof establishes general understanding.",
+    "after": "[^v1-phi-i-learning-proof]: Google DeepMind, [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/) (25 July 2024), sections on AlphaProof, AlphaGeometry 2 and the competition results; Thang Luong and Edward Lockhart, [Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) (21 July 2025). The 2024 combined result was 28/42: three problems from AlphaProof and one from AlphaGeometry 2. The 2025 result was 35/42, with natural-language solutions graded and certified by IMO coordinators, according to the team. Formal verification and expert grading provide different kinds of warrant; neither result establishes general understanding."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-c-vonneumann",
+    "after": "Solomon Feferman, [The nature and significance of Gödel’s incompleteness theorems](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf) (2006), pp. 10–11. This historical account by a Gödel editor documents von Neumann’s response to the Königsberg announcement and his letter of 20 November 1930. Gödel’s paper, received on 17 November, proved the first theorem and announced the second."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-c-inversion",
+    "after": "Martin Fowler, [Inversion of Control](https://martinfowler.com/bliki/InversionOfControl.html) (26 June 2005), discussion of libraries, frameworks and the Hollywood principle. Fowler traces earlier uses of the idea; he is not credited here with inventing it. Its use as a general philosophical question is the author’s extension."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-chapter.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-c-hawking",
+    "after": "Stephen Hawking, [The Beginning of Time](https://www.hawking.org.uk/in-words/lectures/the-beginning-of-time) (1996), concluding discussion of the Hartle–Hawking no-boundary proposal and the North Pole analogy. The analogy concerns a proposed cosmological model, not an established proof that every possible account of the universe makes earlier time meaningless."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-i-ordinals",
+    "after": "Johann von Neumann, [Zur Einführung der transfiniten Zahlen](https://acta.bibl.u-szeged.hu/13294/) (1923), _Acta Litterarum ac Scientiarum Regiae Universitatis Hungaricae Francisco-Josephinae, Sectio Scientiarum Mathematicarum_ 1: 199–208, introduction and §1. [Text transcription](https://bbi-math.narod.ru/newmann/newmann.html). Each natural number is represented by the set of its predecessors. This is a construction within a mathematical framework, using specified operations and assumptions, not a derivation of physical existence from absolute nothing."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-i-linegraph",
+    "after": "NetworkX Developers, [line_graph](https://networkx.org/documentation/stable/reference/generated/networkx.generators.line.line_graph.html), definition and notes on undirected graphs (accessed 9 October 2026). For a simple undirected graph, original edges become vertices, adjacent when they share an endpoint. In the four-spoke star, all six pairs of spokes share the hub, so its line graph is the complete graph on four vertices. This verifies the example; the emergence interpretation remains the author’s."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-i-priority",
+    "after": "Isaac Newton, [Newton’s statement of the case in dispute between Leibniz and himself](https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00360), Cambridge University Library, MS Add. 3968, ff. 255r–256v, normalized transcription by the Newton Project. The document records the accusations and exchanges over priority. It is Newton’s advocacy in the dispute, not an impartial verdict on Leibniz’s work; the parenthetical joke is the author’s."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-i-hilbert",
+    "after": "John Preskill, [Quantum Information, Chapter 2: Foundations I: States and Ensembles](https://ilorentz.org/quantumcomputers/literature/preskill_2_update.pdf) (July 2015), §§2.1, 2.3 and 2.4.1, for pure states, measurement probabilities, density operators and entanglement; John von Neumann, [Mathematical Foundations of Quantum Mechanics](https://www.jstor.org/stable/j.ctt1wq8zhp), originally published in German in 1932, especially chapter II, “Abstract Hilbert Space.” A vector represents a pure state, up to overall phase; general states require density operators. Entanglement concerns composite systems. The formalism does not establish the author’s proposed prephysical possibility space."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-i-vonneumann",
+    "after": "John von Neumann, [First Draft of a Report on the EDVAC](https://en.wikisource.org/wiki/Index:VN_First_Draft_Report_EDVAC_Moore_Sch_1945.pdf) (30 June 1945), §§2.4(b) and 2.5, pp. 4 and 6: instructions must be remembered, and different memory functions are to share one memory organ. These passages support the stored-program account. The author’s name on the report is not evidence of sole invention of the architecture."
+  },
+  {
+    "file": "manuscripts/volume-1/phi-interlude.md",
+    "reason": "Add verified source note with limits.",
+    "note_id": "v1-phi-i-universality",
+    "after": "Oleg Mazonka and Alex Kolodin, [A Simple Multi-Processor Computer Based on Subleq](https://arxiv.org/abs/1106.2593) (2011), abstract and §2; Matthew Cook, [Universality in Elementary Cellular Automata](https://content.wolfram.com/sites/13/2023/02/15-1-1.pdf) (2004), _Complex Systems_ 15(1): 1–40, especially the introduction and construction; Cook, [A Concrete View of Rule 110 Computation](https://arxiv.org/abs/0906.3248) (2009), abstract. SUBLEQ branches when subtraction yields a nonpositive result. Rule 110 uses a cell and its two neighbors. Universality concerns computable functions under idealized resource assumptions; Cook’s construction uses specially arranged, unbounded backgrounds. A finite implementation remains limited by its physical resources."
+  }
+]
