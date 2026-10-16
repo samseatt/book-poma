@@ -92,3 +92,23 @@ The personal orientation and childhood Ontologist’s Journal now work well; ret
 **Book allocation:** Φ establishes the distinctions and epistemic ground; Chapter 1 makes the bolder proposal alongside the mother’s measurements and symmetry; Interlude 1 retains the implemented-silicon analogy; time/entropy and deeper quantum implications return in the appropriate Volume II pieces. Do not expand Φ into the complete cosmology. Preserve the author’s voice, the mother’s story and all outstanding annotations. Planck granularity, spherical global geometry, a Higgs-only account of mass, anthropic minimum complexity and the Einstein quotation are not accepted as established facts.
 
 All 313 files under manuscripts retain their initial hashes. No canonical manuscript, Open, annotation, shared bibliography, publisher configuration or deployed edition was changed. This intake does not resolve any pending author note or adopt the proposed prose. The current research is a selective synthesis, not an exhaustive 2026 literature review or a claim to have solved something from nothing.
+
+## V1-010 — Φ references finalized for the author’s manual prose pass
+
+**Reference pass completed, 15 October 2026.** Checked all 48 existing notes against their stated sources and supporting passages, corrected links and edition details, tightened their wording, and added two separate historical bookmarks for Russell’s letter to Frege and Hilbert’s address. Chapter Φ now has 24 notes; Interlude Φ has 26. All existing IDs remain stable. Definitions follow their first appearance in the prose. The [reference audit](../volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json) records every note, source, locator, access level and qualification. Abstract-only or bibliographic checks are identified rather than represented as full-text inspection.
+
+**Resolved:** the epigraph’s broken *On Certainty* link; the *Philosophical Investigations* link to an explicitly LLM-generated translation (replaced with the published 2009 fourth edition and its named translators); Russell’s stopped clock in *Human Knowledge*, with the correct locator for the consulted impression; the 16 June 1902 Frege letter and archival account of the appendix; and Hilbert’s translated radio text, distinguished from his 8 September public address. Added the previously missing human-name etymology sources. Tightened the formal scope of Gödel, quantum records, Hilbert space and computational universality in the notes.
+
+**Prose remains for the author’s manual pass.** A citation cannot repair these sentences by itself:
+
+- Chapter Φ’s passenger/Gödel analogy is not an exact mathematical equivalence; arithmetic can be investigated from a metatheory. Avoid turning incompleteness into a universal ban on self-knowledge or all guarantees.
+- Interlude Φ’s internal consistency implication concludes the formal sentence G, not an unrestricted internal assertion that “G is true.”
+- Interlude Φ’s bridge to Chapter 1 should distinguish Hilbert space from the author’s broader possibility conjecture.
+- Integrating velocity gives displacement; integrating speed gives distance travelled. The existing calculus paragraph needs that distinction.
+- Hilbert and Gödel spoke at associated Königsberg meetings; “the same conference” is a compression to refine. The public address and the radio excerpt should not silently become one event.
+- Anderson does not establish a universal two-condition test for emergence. The nodes/edges and transition scheme remains the author’s heuristic.
+- Prediction without a known mechanism need not be a stopped-clock case; unexplained regularity and statistical confounding are different problems.
+
+Existing heading-symbol and formula-typography issues remain for the same manual pass. No narrative wording or author annotations were changed; only two citation callouts and the source-note definitions were edited. The author’s pre-existing Chapter Φ prose edits and Interlude 2 edit remain separate from this reference commit. The shared bibliography, publishing pipeline and deployed book were not changed.
+
+**Validation:** all 50 callouts have one matching definition, their IDs have no collisions elsewhere in canonical manuscripts, and a local Pandoc HTML rendering preserves all 50 notes and return links. Narrative text matches the initial author-edited files when citation markers and definitions are excluded. The longer source audit stays outside publication; the published notes are shorter overall despite the two added bookmarks. This is a reference finalization, not a blanket factual certification of the unfinished prose.

@@ -1,0 +1,703 @@
+{
+  "date": "2026-10-15",
+  "scope": "Source-note finalization for canonical Chapter Φ and Interlude Φ; not a substantive prose rewrite or blanket factual clearance.",
+  "source_revision": "4669f6f3b045431edba8cdc0a8e90d9646107111",
+  "original_note_count": 48,
+  "final_note_count": 50,
+  "status": "Existing reference checks completed at the documented access level; two historical bookmarks added. Manual prose issues remain open.",
+  "method": "Cited passages, bibliographic identity and recoverable locators checked. Abstract-only and metadata-only checks explicitly identified. Proofs were not independently rederived. Research uses primary texts, author manuscripts, official documentation and identified scholarly interpretation.",
+  "manual_prose_followups": [
+    {
+      "unit": "chapter",
+      "anchor": "That is the boy’s predicament on the plane, made exact / We can’t step outside arithmetic",
+      "issue": "Gödel’s formal result does not make the memoir analogy exact or forbid external mathematical reasoning.",
+      "action": "Keep the image as an analogy and narrow the categorical language in the manual prose pass."
+    },
+    {
+      "unit": "interlude",
+      "anchor": "The reasoning “if I’m consistent, then G is true” can be carried out inside the system",
+      "issue": "Formal derivation concerns the sentence G, not an internal general truth predicate.",
+      "action": "Use “if the theory is consistent, then G” for the formal implication."
+    },
+    {
+      "unit": "interlude",
+      "anchor": "Chapter 1 will start from exactly this space",
+      "issue": "Hilbert space with its defined structure is not identical to unrestricted prephysical possibility.",
+      "action": "Adjust the bridge to distinguish the formal physical analogy from the conjecture."
+    },
+    {
+      "unit": "interlude",
+      "anchor": "integrating velocity",
+      "issue": "Signed velocity integrates to displacement; speed integrates to distance travelled.",
+      "action": "Change distance to displacement or explicitly limit the example to motion without reversal."
+    },
+    {
+      "unit": "chapter",
+      "anchor": "same conference, a day earlier",
+      "issue": "Gödel and Hilbert spoke in related Königsberg meetings, not necessarily one conference session sequence; Smith distinguishes public address and later radio recording.",
+      "action": "Prefer “at the associated Königsberg meetings” and keep the radio/public-address distinction if precise chronology is retained."
+    },
+    {
+      "unit": "chapter",
+      "anchor": "Nodes and Edges / Two conditions seem to matter",
+      "issue": "Anderson is not a source for a universal two-condition emergence rule or a line-graph mechanism; temperature as mere jostling is a simplification.",
+      "action": "Retain as the author’s heuristic and qualify any universal physical assertion."
+    },
+    {
+      "unit": "chapter",
+      "anchor": "Knowing What We Think We Know / confounder",
+      "issue": "Prediction without mechanistic explanation is not automatically luck, and an unexplained regularity is not necessarily confounding.",
+      "action": "Preserve the stopped-clock lesson while separating epistemic luck, induction and confounding."
+    }
+  ],
+  "files": [
+    {
+      "path": "manuscripts/volume-1/phi-chapter.md",
+      "before_sha256": "dca4d93d550c48de1e0e448e6c22da8d0968f00ec76d79bc06e976184124c4b1",
+      "after_sha256": "9496d1956c285a09964f8707a8a4e82f6b1d582dfd72ad870850b1e30a558d31",
+      "narrative_unchanged_ignoring_citation_markers": true
+    },
+    {
+      "path": "manuscripts/volume-1/phi-interlude.md",
+      "before_sha256": "670250b9d947e0168e2889d98fb733336bc002a560b6cb15e74a7cf3b9c7ece9",
+      "after_sha256": "988a148ee91fc4a39e8b57afb37d93e8889dec7cac1127263bebbea80adfd9f7",
+      "narrative_unchanged_ignoring_citation_markers": true
+    }
+  ],
+  "notes": [
+    {
+      "id": "v1-phi-c-certainty",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Ludwig Wittgenstein, [On Certainty](https://circuitdebater.org/w/archive_files/On%20Certainty.pdf/507953768/On%20Certainty.pdf) (1969), Basil Blackwell. §253. Translation by Denis Paul and G. E. M. Anscombe; edited by G. E. M. Anscombe and G. H. von Wright.",
+      "final_note": "Ludwig Wittgenstein, [_On Certainty_](https://debatewikiarchive.github.io/circuitdebater/file/view/On%20Certainty.pdf/507953768/On%20Certainty.pdf), ed. G. E. M. Anscombe and G. H. von Wright, trans. Denis Paul and Anscombe (Blackwell, 1969), §253, p. 33e.",
+      "sources": [
+        "https://debatewikiarchive.github.io/circuitdebater/file/view/On%20Certainty.pdf/507953768/On%20Certainty.pdf"
+      ],
+      "verification": "Published scan: title page and §253, printed p. 33e (PDF page 36). Epigraph wording matches. Replaces the broken circuitdebater URL.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-c-consciousness",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Anil K. Seth and Tim Bayne, [Theories of Consciousness](https://michaelpollan.com/wp-content/uploads/2026/02/SethBayne_NRN_accepted.pdf) (2022), _Nature Reviews Neuroscience_ 23: 439–452. Table 1, Figure 3 and Box 1 in the accepted manuscript. The working picture in the text is an orientation; it does not settle how physical activity becomes felt experience.",
+      "final_note": "Anil K. Seth and Tim Bayne, [“Theories of Consciousness”](https://michaelpollan.com/wp-content/uploads/2026/02/SethBayne_NRN_accepted.pdf), _Nature Reviews Neuroscience_ 23 (2022): 439–452, especially the opening survey and table 1. The chapter’s working picture does not settle the origin of felt experience.",
+      "sources": [
+        "https://michaelpollan.com/wp-content/uploads/2026/02/SethBayne_NRN_accepted.pdf"
+      ],
+      "verification": "Accepted manuscript: opening theory survey and table 1 inspected; publication metadata checked.",
+      "scope_limits": "Theory review supports the unresolved question, not a settled account of consciousness or the author’s complete working model."
+    },
+    {
+      "id": "v1-phi-c-memory",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Daniel L. Schacter, [Memory: Sins and Virtues](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-2c2c-6bd4-e053-0100007fdf3b/content) (2013), _Annals of the New York Academy of Sciences_ 1303(1): 56–60. Discussion of constructive episodic simulation. The compression metaphor and the assessment of this particular memory belong to the author.",
+      "final_note": "Daniel L. Schacter, [“Memory: Sins and Virtues”](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-2c2c-6bd4-e053-0100007fdf3b/content), _Annals of the New York Academy of Sciences_ 1303 (2013): 56–60, discussion of constructive episodic simulation. The particular recollection and compression metaphor are the author’s.",
+      "sources": [
+        "https://dash.harvard.edu/server/api/core/bitstreams/7312037d-2c2c-6bd4-e053-0100007fdf3b/content"
+      ],
+      "verification": "Harvard manuscript, discussion of constructive episodic simulation and adaptive recombination, manuscript pp. 7–8.",
+      "scope_limits": "Does not authenticate the autobiographical memory or a literal memory-compression algorithm."
+    },
+    {
+      "id": "v1-phi-c-registration",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Wojciech H. Zurek, [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127) (2003), _Reviews of Modern Physics_ 75: 715–775. Abstract and discussion of measurement correlations and environmental interaction. Extending registration into an ancestry of human experience is the author's philosophical proposal, not a result of this paper.",
+      "final_note": "Wojciech H. Zurek, [“Decoherence, einselection, and the quantum origins of the classical”](https://arxiv.org/abs/quant-ph/0105127), _Reviews of Modern Physics_ 75 (2003): 715–775, discussions of measurement correlations and “Events, Records, Histories.” An ancestry of experience through physical registration is the author’s conjecture.",
+      "sources": [
+        "https://arxiv.org/abs/quant-ph/0105127"
+      ],
+      "verification": "Author manuscript HTML: measurement correlations in section II and subsection “Events, Records, Histories” in VII inspected.",
+      "scope_limits": "Physical correlation and records are not evidence of subjective experience in particles."
+    },
+    {
+      "id": "v1-phi-c-language",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Ludwig Wittgenstein, [Philosophical Investigations](https://www.wittgensteinnachlass.com/en/w-pi/) (1953). §§7, 23 and 43. The qualification on meaning-as-use matters; the text is paraphrased, not quoted from a named English translation.",
+      "final_note": "Ludwig Wittgenstein, [_Philosophical Investigations_](https://www.peterstran.com/courses/PoLaC/PDFs/Main/Wittgenstein.1953%281-48%29.pdf), rev. 4th ed., trans. G. E. M. Anscombe, P. M. S. Hacker and Joachim Schulte (Wiley-Blackwell, 2009; first published 1953), §§7, 23 and 43. Section 43 expressly qualifies the meaning-as-use account.",
+      "sources": [
+        "https://www.peterstran.com/courses/PoLaC/PDFs/Main/Wittgenstein.1953%281-48%29.pdf"
+      ],
+      "verification": "Published fourth-edition PDF: title and copyright pages; §§7, 23, 43, printed pp. 8e, 14e–15e, 25e (PDF pages 44, 56, 58, 78).",
+      "scope_limits": "Replaces wittgensteinnachlass.com English text, which labels itself LLM-generated and unsuitable for citation. No quotation from that translation retained."
+    },
+    {
+      "id": "v1-phi-c-displacement",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Charles F. Hockett, [The Origin of Speech](https://doi.org/10.1038/scientificamerican0960-88) (1960), _Scientific American_ 203(3): 88–97, especially pp. 90–92 on displacement, productivity and duality of patterning. [Original article scan](https://langev.com/pdf/charles60theOrigin.pdf). Hockett identifies thirteen features, not a sufficient two-feature test for language. The threshold framing and extension to other codes are the author's.",
+      "final_note": "Charles F. Hockett, [“The Origin of Speech”](https://langev.com/pdf/charles60theOrigin.pdf), _Scientific American_ 203, no. 3 (1960): 88–97, especially 90–92. Displacement and productivity belong to his thirteen design features; they are not a sufficient two-feature test for language.",
+      "sources": [
+        "https://langev.com/pdf/charles60theOrigin.pdf"
+      ],
+      "verification": "Original article scan: discussion and design-feature diagram on displacement, productivity and duality; DOI 10.1038/scientificamerican0960-88.",
+      "scope_limits": "The manuscript’s two-feature threshold is a heuristic and must not be attributed to Hockett as a sufficient definition."
+    },
+    {
+      "id": "v1-phi-c-institutions",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "John R. Searle, [Status functions and institutional facts: reply to Hindriks and Guala](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B19855351F1963B0DFB3BE78E17C3CA5/S1744137414000629a.pdf/status_functions_and_institutional_facts_reply_to_hindriks_and_guala.pdf) (2015), _Journal of Institutional Economics_ 11(3): 507–514. Opening discussion, pp. 507–509. The operating-system image and its proposed inversion are the author's extensions.",
+      "final_note": "John R. Searle, [“Status functions and institutional facts: reply to Hindriks and Guala”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B19855351F1963B0DFB3BE78E17C3CA5/S1744137414000629a.pdf/status_functions_and_institutional_facts_reply_to_hindriks_and_guala.pdf), _Journal of Institutional Economics_ 11, no. 3 (2015): 507–514, especially 507–509. The operating-system metaphor is the author’s.",
+      "sources": [
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B19855351F1963B0DFB3BE78E17C3CA5/S1744137414000629a.pdf/status_functions_and_institutional_facts_reply_to_hindriks_and_guala.pdf"
+      ],
+      "verification": "Publisher PDF pp. 507–509: collective recognition, status functions, institutional facts and deontic powers. DOI 10.1017/S1744137414000629.",
+      "scope_limits": "Searle’s account is an attributed philosophical theory, not a universal empirical explanation of institutions."
+    },
+    {
+      "id": "v1-phi-c-gettier",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Edmund L. Gettier, [Is Justified True Belief Knowledge?](https://www.caphi-philo.fr/wp-content/uploads/2015/01/Gettier_1963_Is_Justified_True_Belief_Knowledge-d75.pdf) (1963), _Analysis_ 23(6): 121–123. Cases I and II. The stopped clock is a familiar illustration of epistemic luck, not one of Gettier's two cases in this paper.",
+      "final_note": "Bertrand Russell, [_Human Knowledge: Its Scope and Limits_](https://dokumen.pub/human-knowledge-its-scope-and-limits.html) (Allen & Unwin, 1948), part II, “Suspended Reactions: Knowledge and Belief,” p. 113 in the 1956 impression; Edmund L. Gettier, [“Is Justified True Belief Knowledge?”](https://www.caphi-philo.fr/wp-content/uploads/2015/01/Gettier_1963_Is_Justified_True_Belief_Knowledge-d75.pdf), _Analysis_ 23 (1963): 121–123. The stopped clock adapts Russell’s example; Gettier’s paper gives different cases.",
+      "sources": [
+        "https://dokumen.pub/human-knowledge-its-scope-and-limits.html",
+        "https://www.caphi-philo.fr/wp-content/uploads/2015/01/Gettier_1963_Is_Justified_True_Belief_Knowledge-d75.pdf"
+      ],
+      "verification": "Russell digitized text: imprint states 1948 first publication, 1956 third impression; stopped-clock passage printed p. 113. Gettier original article, Cases I and II, pp. 121–123 inspected.",
+      "scope_limits": "Russell does not specify the manuscript’s twelve-hour interval. Do not use p. 154 from another edition. Reliable prediction without a known mechanism is not automatically epistemic luck."
+    },
+    {
+      "id": "v1-phi-c-hume",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "David Hume, [An Enquiry Concerning Human Understanding](https://www.gutenberg.org/cache/epub/9662/pg9662-images.html) (1748). Section IV, Part II; compare Section V, Part I.",
+      "final_note": "David Hume, [_An Enquiry Concerning Human Understanding_](https://www.gutenberg.org/cache/epub/9662/pg9662-images.html) (1748), §IV, part II, on the inference from past experience to future regularity; compare §V, part I, on custom.",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html"
+      ],
+      "verification": "Gutenberg transcription: §IV part II, especially paragraph 32, and §V part I.",
+      "scope_limits": "Hume’s induction problem does not establish that every unexplained regularity is a statistical confounder."
+    },
+    {
+      "id": "v1-phi-c-certainty-background",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Ludwig Wittgenstein, [On Certainty](https://circuitdebater.org/w/archive_files/On%20Certainty.pdf/507953768/On%20Certainty.pdf) (1969), Basil Blackwell. §§114–115 and 147–150. The practical recommendation about revisability is the author's reading.",
+      "final_note": "Wittgenstein, [_On Certainty_](https://debatewikiarchive.github.io/circuitdebater/file/view/On%20Certainty.pdf/507953768/On%20Certainty.pdf), §§115 and 146–150, on the background that makes doubt and testing possible. Revisability is the author’s application.",
+      "sources": [
+        "https://debatewikiarchive.github.io/circuitdebater/file/view/On%20Certainty.pdf/507953768/On%20Certainty.pdf"
+      ],
+      "verification": "Same 1969 scan, PDF pages 21 and 25: §115 and §§146–150 inspected.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-c-inversion",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Martin Fowler, [Inversion of Control](https://martinfowler.com/bliki/InversionOfControl.html) (26 June 2005), discussion of libraries, frameworks and the Hollywood principle. Fowler traces earlier uses of the idea; he is not credited here with inventing it. Its use as a general philosophical question is the author’s extension.",
+      "final_note": "Martin Fowler, [“Inversion of Control”](https://martinfowler.com/bliki/InversionOfControl.html) (26 June 2005), on libraries, frameworks and the Hollywood principle. Fowler explains an existing idea; its philosophical use here is the author’s extension.",
+      "sources": [
+        "https://martinfowler.com/bliki/InversionOfControl.html"
+      ],
+      "verification": "Fowler’s full short article and dated heading inspected; includes prior uses and the Hollywood-principle discussion.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-c-emergence",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "P. W. Anderson, [More Is Different](https://doi.org/10.1126/science.177.4047.393) (1972), _Science_ 177(4047): 393–396. The nodes-and-edges picture of emergence, and its use to arrange the book's domains, are the author's.",
+      "final_note": "P. W. Anderson, [“More Is Different”](https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf), _Science_ 177, no. 4047 (1972): 393–396. Anderson distinguishes reduction to fundamental laws from reconstructing higher-level behavior. The book’s nodes-and-edges scheme is the author’s.",
+      "sources": [
+        "https://www.tkm.kit.edu/downloads/TKM1_2011_more_is_different_PWA.pdf"
+      ],
+      "verification": "Original four-page article scan, especially opening argument on reductionism and constructionism, p. 393; DOI 10.1126/science.177.4047.393.",
+      "scope_limits": "Does not prove that all emergence requires a crowd and a sharp transition, or that a line-graph construction produces physical emergence."
+    },
+    {
+      "id": "v1-phi-c-russell",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Bertrand Russell, [The Principles of Mathematics](https://people.umass.edu/klement/pom/pom.html) (1903), Cambridge University Press. Chapter X, especially §§101–102. The paradox concerns unrestricted set formation; contemporary set theories restrict it.",
+      "final_note": "Bertrand Russell, [_The Principles of Mathematics_](https://people.umass.edu/klement/pom/pom.html) (Cambridge University Press, 1903), ch. X, §§101–102, pp. 102–103. The contradiction exposes unrestricted class formation; modern set theories restrict permissible constructions.",
+      "sources": [
+        "https://people.umass.edu/klement/pom/pom.html"
+      ],
+      "verification": "Kevin Klement’s primary-text transcription: §§101–102 read, including the restriction on class-forming propositional functions.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-c-frege-letter",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": null,
+      "final_note": "Bertrand Russell, [letter to Gottlob Frege, 16 June 1902](https://bracers.mcmaster.ca/53946), Russell Archives, document 53946, trans. B. Woodward, ed. Nicholas Griffin. The archive’s accompanying note records Frege’s response in the appendix to _Grundgesetze der Arithmetik_, vol. II.",
+      "sources": [
+        "https://bracers.mcmaster.ca/53946"
+      ],
+      "verification": "McMaster BRACERS record: original German and English letter transcription, date, translation credits and editorial note 1 quoting Frege’s appendix acknowledgment.",
+      "scope_limits": "The appendix connection is verified through the archival editor’s note; a complete original appendix was not inspected."
+    },
+    {
+      "id": "v1-phi-c-hilbert",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "David Hilbert, [Mathematical Problems](https://www.gutenberg.org/cache/epub/71655/pg71655-images.html) (1902), _Bulletin of the American Mathematical Society_ 8: 437–479; Alfred North Whitehead and Bertrand Russell, [Principia Mathematica, Volume I](https://www.gutenberg.org/ebooks/78050/) (1910), Cambridge University Press. Hilbert, Problem 2; Whitehead and Russell, Volume I. Hilbert's consistency program and the logicist projects are related but distinct. The English Hilbert text translates the 1900 address.",
+      "final_note": "David Hilbert, [“Mathematical Problems”](https://www.gutenberg.org/cache/epub/71655/pg71655-images.html), trans. Mary Winston Newson, _Bulletin of the American Mathematical Society_ 8 (1902): 437–479, Problem 2, from the 1900 address; Alfred North Whitehead and Bertrand Russell, [_Principia Mathematica_](https://www.gutenberg.org/ebooks/78050/), vol. I (Cambridge University Press, 1910), preface. The consistency and logicist projects were distinct.",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/71655/pg71655-images.html",
+        "https://www.gutenberg.org/ebooks/78050/"
+      ],
+      "verification": "Hilbert primary English text, Problem 2, inspected. Principia first-edition metadata and preface inspected separately.",
+      "scope_limits": "Hilbert’s 1900 problem is not by itself a source for every later formulation of his program."
+    },
+    {
+      "id": "v1-phi-c-hilbert-address",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": null,
+      "final_note": "David Hilbert, [Königsberg radio address](https://www.smith-at-sfsu.net/Documents/HilbertRadio/Hilbert%20Presentation.pdf), September 1930, trans. James T. Smith, “David Hilbert’s Radio Address” (2014), reproduced on PDF pp. 8–9. Smith dates the public address to 8 September; the recorded excerpt ends with the quoted declaration.",
+      "sources": [
+        "https://www.smith-at-sfsu.net/Documents/HilbertRadio/Hilbert%20Presentation.pdf"
+      ],
+      "verification": "Translator’s 2014 presentation, PDF p. 6 for 8 September public address and later radio excerpt; pp. 8–9 for bilingual text and final sentence.",
+      "scope_limits": "Same conference is imprecise: related Königsberg meetings were held together. Exact broadcast timing is not separately established. The Gödel 7 September roundtable chronology is an editorial history check, not supplied by Hilbert’s recording."
+    },
+    {
+      "id": "v1-phi-c-godel",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Solomon Feferman, [The nature and significance of Gödel's incompleteness theorems](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf) (2006); Kurt Gödel, [Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) (1931), _Monatshefte für Mathematik und Physik_ 38: 173–198. Feferman, pp. 4–9; Gödel, Propositions VI and XI. The first result is stated in its modern Gödel–Rosser form. The interlude distinguishes the original consistency assumptions.",
+      "final_note": "Kurt Gödel, [“On Formally Undecidable Propositions of _Principia Mathematica_ and Related Systems I”](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) (1931), trans. B. Meltzer (Oliver & Boyd, 1962), propositions VI and XI; Solomon Feferman, [“The nature and significance of Gödel’s incompleteness theorems”](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf) (2006), pp. 4–9. The chapter uses the modern Gödel–Rosser formulation of the first theorem.",
+      "sources": [
+        "https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf",
+        "https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf"
+      ],
+      "verification": "Meltzer translation of the 1931 paper, propositions VI and XI; Feferman’s formal statements and discussion, pp. 4–9.",
+      "scope_limits": "Original first theorem uses omega-consistency for the unprovability of the negation; Rosser weakens the assumption. Second theorem needs its standard formal conditions. No general impossibility of self-knowledge follows."
+    },
+    {
+      "id": "v1-phi-c-vonneumann",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Solomon Feferman, [The nature and significance of Gödel’s incompleteness theorems](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf) (2006), pp. 10–11. This historical account by a Gödel editor documents von Neumann’s response to the Königsberg announcement and his letter of 20 November 1930. Gödel’s paper, received on 17 November, proved the first theorem and announced the second.",
+      "final_note": "Feferman, [“The nature and significance of Gödel’s incompleteness theorems”](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf), pp. 10–11: von Neumann’s letter of 20 November 1930 and Gödel’s prior submission, received 17 November. The 1931 paper proved the first theorem and announced the second with a proof sketch.",
+      "sources": [
+        "https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf"
+      ],
+      "verification": "Gödel editor Feferman’s historical discussion, pp. 10–11; Gödel manuscript’s received date and proposition XI announcement.",
+      "scope_limits": "Not a claim that the original 1931 publication supplied the later full proof of the second theorem."
+    },
+    {
+      "id": "v1-phi-c-godel-extension",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Solomon Feferman, [The nature and significance of Gödel's incompleteness theorems](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf) (2006). Discussion following the incompleteness theorems. A stronger consistent, effective arithmetical theory can settle additional statements while remaining incomplete; no theorem about civil society follows automatically. The \"turtles\" reading is the author's.",
+      "final_note": "Feferman, [“The nature and significance of Gödel’s incompleteness theorems”](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf), pp. 4–9. Stronger consistent, effectively axiomatized arithmetical theories remain subject to incompleteness. The extension to human institutions and the passenger’s predicament is an analogy.",
+      "sources": [
+        "https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf"
+      ],
+      "verification": "Feferman statements of incompleteness and discussion of stronger systems, pp. 4–9.",
+      "scope_limits": "Does not show that all guarantees require larger systems or that arithmetic cannot be studied from a metatheory. Those stronger claims remain a prose issue."
+    },
+    {
+      "id": "v1-phi-c-empty",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Eric Lehman, F. Thomson Leighton and Albert R. Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (2018). §§4.1 and 4.5. An empty set is not identified with a physical vacuum or the philosophical absence of existence.",
+      "final_note": "Eric Lehman, F. Thomson Leighton and Albert R. Meyer, [_Mathematics for Computer Science_](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (6 June 2018), §§4.1 and 4.5, pp. 103–105, 115. The empty set is a mathematical object, not a physical vacuum or absolute nonexistence.",
+      "sources": [
+        "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"
+      ],
+      "verification": "MIT PDF, printed pp. 103–105 and 115: sets, empty set, power set and finite cardinality.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-c-null",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "PostgreSQL Global Development Group, [PostgreSQL 18 Documentation: Comparison Functions and Operators](https://www.postgresql.org/docs/18/functions-comparison.html). §9.2, NULL comparisons and predicates. The example concerns SQL's missing-value treatment, not a universal meaning of null across programming languages.",
+      "final_note": "PostgreSQL Global Development Group, [“Comparison Functions and Operators,” PostgreSQL 18 documentation](https://www.postgresql.org/docs/18/functions-comparison.html), §9.2, NULL comparisons and predicates. SQL’s missing-value marker differs from zero and from an empty set.",
+      "sources": [
+        "https://www.postgresql.org/docs/18/functions-comparison.html"
+      ],
+      "verification": "Official version-18 documentation §9.2, comparison and IS NULL rules.",
+      "scope_limits": "NULL conventions vary across programming languages. A SQL NULL need not mean only that someone has not entered a value."
+    },
+    {
+      "id": "v1-phi-c-hawking",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Stephen Hawking, [The Beginning of Time](https://www.hawking.org.uk/in-words/lectures/the-beginning-of-time) (1996), concluding discussion of the Hartle–Hawking no-boundary proposal and the North Pole analogy. The analogy concerns a proposed cosmological model, not an established proof that every possible account of the universe makes earlier time meaningless.",
+      "final_note": "Stephen Hawking, [“The Beginning of Time”](https://www.hawking.org.uk/in-words/lectures/the-beginning-of-time) (1996), concluding discussion of the Hartle–Hawking no-boundary proposal and the North Pole analogy. This is a model-dependent illustration, not proof that every cosmology excludes earlier time.",
+      "sources": [
+        "https://www.hawking.org.uk/in-words/lectures/the-beginning-of-time"
+      ],
+      "verification": "Hawking estate’s lecture text: concluding no-boundary discussion and polar analogy.",
+      "scope_limits": "Does not settle the origin of spacetime or show that asking about earlier conditions is universally meaningless."
+    },
+    {
+      "id": "v1-phi-c-leibniz",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Gottfried Wilhelm Leibniz, \"The Principles of Nature and Grace, Based on Reason\" (1714), §7. The ladder of nothings, and the suggestion that laws may be products of the universe rather than its scaffolding, are the author's framing for Chapter 1.",
+      "final_note": "Gottfried Wilhelm Leibniz, [“Principles of Nature and Grace, Based on Reason”](https://www.earlymoderntexts.com/assets/pdfs/leibniz1714a.pdf) (1714), §7, in Jonathan Bennett’s modernized translation. The ladder and the inversion of nothing as a default are the author’s.",
+      "sources": [
+        "https://www.earlymoderntexts.com/assets/pdfs/leibniz1714a.pdf"
+      ],
+      "verification": "Early Modern Texts PDF §7 (PDF page 4), sufficient reason and why-something question; front matter credits Jonathan Bennett and identifies editorial additions.",
+      "scope_limits": "Bennett’s version modernizes and interpolates for readability; it is not an unmodified historical English edition. It does not support the author’s cosmological conjecture as a physical result."
+    },
+    {
+      "id": "v1-phi-c-companions",
+      "file": "manuscripts/volume-1/phi-chapter.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Royal Society of Chemistry, [Magnesium: Element information, properties and uses](https://periodic-table.rsc.org/element/12/magnesium); Royal Society of Chemistry, [Aluminium: Element information, properties and uses](https://periodic-table.rsc.org/element/13/aluminium). Origin-of-name entries. Mag/Maggie and Al/Alex/Alexander are literary associations; pearl and protector are the meanings of the human names, not the elements' etymologies.",
+      "final_note": "Royal Society of Chemistry, [“Magnesium”](https://periodic-table.rsc.org/element/12/magnesium) and [“Aluminium”](https://periodic-table.rsc.org/element/13/aluminium), name histories; Douglas Harper, _Online Etymology Dictionary_, [“Margaret”](https://www.etymonline.com/word/Margaret) and [“Alexander”](https://www.etymonline.com/word/Alexander) (accessed 15 October 2026). The human-name associations are wordplay, distinct from the elements’ etymologies.",
+      "sources": [
+        "https://periodic-table.rsc.org/element/12/magnesium",
+        "https://periodic-table.rsc.org/element/13/aluminium",
+        "https://www.etymonline.com/word/Margaret",
+        "https://www.etymonline.com/word/Alexander"
+      ],
+      "verification": "RSC magnesium naming history and aluminium podcast transcript’s alum derivation; Harper’s name entries give pearl and defending men.",
+      "scope_limits": "Aluminium page has unrelated historically questionable discovery/IUPAC wording; this citation relies only on the alum derivation. No inference from names to chemical properties."
+    },
+    {
+      "id": "v1-phi-i-sets",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Eric Lehman, F. Thomson Leighton and Albert R. Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (2018). §§4.1 and 4.5. The cardinalities of ∅ and {∅} are respectively zero and one.",
+      "final_note": "Eric Lehman, F. Thomson Leighton and Albert R. Meyer, [_Mathematics for Computer Science_](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (6 June 2018), §§4.1 and 4.5, pp. 103–105, 115. The sets ∅ and {∅} contain zero and one members, respectively.",
+      "sources": [
+        "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"
+      ],
+      "verification": "MIT PDF set definitions, empty set and finite cardinality, printed pp. 103–105 and 115; example checked directly.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-i-ordinals",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Johann von Neumann, [Zur Einführung der transfiniten Zahlen](https://acta.bibl.u-szeged.hu/13294/) (1923), _Acta Litterarum ac Scientiarum Regiae Universitatis Hungaricae Francisco-Josephinae, Sectio Scientiarum Mathematicarum_ 1: 199–208, introduction and §1. [Text transcription](https://bbi-math.narod.ru/newmann/newmann.html). Each natural number is represented by the set of its predecessors. This is a construction within a mathematical framework, using specified operations and assumptions, not a derivation of physical existence from absolute nothing.",
+      "final_note": "Johann von Neumann, [“Zur Einführung der transfiniten Zahlen”](https://acta.bibl.u-szeged.hu/13294/), _Acta Scientiarum Mathematicarum_ 1 (1923): 199–208, introduction and §1 ([transcription](https://bbi-math.narod.ru/newmann/newmann.html)). Numbers are represented by sets of predecessors within a specified mathematical framework, not derived from absolute nonexistence.",
+      "sources": [
+        "https://acta.bibl.u-szeged.hu/13294/",
+        "https://bbi-math.narod.ru/newmann/newmann.html)"
+      ],
+      "verification": "Journal archive metadata and primary German transcription: introduction gives 0 = empty set, 1 = singleton empty set, successive predecessor sets and required assumptions.",
+      "scope_limits": "Modern journal short title used. Mathematical construction presupposes operations/axioms; it is not physical creation."
+    },
+    {
+      "id": "v1-phi-i-null",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "PostgreSQL Global Development Group, [PostgreSQL 18 Documentation: Comparison Functions and Operators](https://www.postgresql.org/docs/18/functions-comparison.html). §9.2. Ordinary comparisons involving NULL yield unknown, including comparison of NULL with NULL; the dedicated IS NULL predicate performs a different operation.",
+      "final_note": "PostgreSQL Global Development Group, [“Comparison Functions and Operators,” PostgreSQL 18 documentation](https://www.postgresql.org/docs/18/functions-comparison.html), §9.2. Ordinary comparisons with NULL yield unknown; `IS NULL` tests for null directly.",
+      "sources": [
+        "https://www.postgresql.org/docs/18/functions-comparison.html"
+      ],
+      "verification": "Official documentation, §9.2, including NULL = NULL and IS NULL distinction.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-i-structure",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Eric Lehman, F. Thomson Leighton and Albert R. Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (2018). Chapter 12 opening and §12.1. The friendship example is the author's illustration of the modeling choice, not an empirical finding about friendship.",
+      "final_note": "Lehman, Leighton and Meyer, [_Mathematics for Computer Science_](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), §12.1, pp. 501–502, on vertices and edges in simple undirected graphs. The friendship network is an illustrative model.",
+      "sources": [
+        "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"
+      ],
+      "verification": "MIT PDF printed pp. 501–502, graph definitions and relation to mutually related pairs.",
+      "scope_limits": "Modeling friendship as mutual is a stipulated simplification, not a claim about all real friendships."
+    },
+    {
+      "id": "v1-phi-i-linegraph",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "NetworkX Developers, [line_graph](https://networkx.org/documentation/stable/reference/generated/networkx.generators.line.line_graph.html), definition and notes on undirected graphs (accessed 9 October 2026). For a simple undirected graph, original edges become vertices, adjacent when they share an endpoint. In the four-spoke star, all six pairs of spokes share the hub, so its line graph is the complete graph on four vertices. This verifies the example; the emergence interpretation remains the author’s.",
+      "final_note": "NetworkX Developers, [“line_graph”](https://networkx.org/documentation/stable/reference/generated/networkx.generators.line.line_graph.html), definition for undirected graphs (accessed 15 October 2026). Edges become vertices, adjacent when they share an endpoint. The four-spoke star therefore yields a complete four-vertex graph; the emergence interpretation is the author’s.",
+      "sources": [
+        "https://networkx.org/documentation/stable/reference/generated/networkx.generators.line.line_graph.html"
+      ],
+      "verification": "Official implementation documentation’s definition inspected; four-spoke star has six pairs sharing its hub, independently checked.",
+      "scope_limits": "The transformation is a mathematical redescription, not evidence of a physical emergence mechanism."
+    },
+    {
+      "id": "v1-phi-i-logic",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Eric Lehman, F. Thomson Leighton and Albert R. Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (2018). §1.4.1, modus ponens and sound inference rules. The alarm example contrasts modus ponens with the invalid converse inference known as affirming the consequent.",
+      "final_note": "Lehman, Leighton and Meyer, [_Mathematics for Computer Science_](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), §1.4.1, p. 10, on modus ponens. The alarm example contrasts valid implication with affirming the consequent.",
+      "sources": [
+        "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"
+      ],
+      "verification": "MIT PDF printed p. 10, modus ponens and sound inference; alarm logic independently checked.",
+      "scope_limits": "Malformed duplicated letters/formula in current prose remain a manual typography task."
+    },
+    {
+      "id": "v1-phi-i-priority",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Isaac Newton, [Newton’s statement of the case in dispute between Leibniz and himself](https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00360), Cambridge University Library, MS Add. 3968, ff. 255r–256v, normalized transcription by the Newton Project. The document records the accusations and exchanges over priority. It is Newton’s advocacy in the dispute, not an impartial verdict on Leibniz’s work; the parenthetical joke is the author’s.",
+      "final_note": "Isaac Newton, [statement of the dispute with Leibniz](https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00360), Cambridge University Library, MS Add. 3968, ff. 255r–256v, Newton Project transcription. This is a participant’s advocacy in the calculus priority dispute, not an impartial verdict.",
+      "sources": [
+        "https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00360"
+      ],
+      "verification": "Primary archival transcription read: Newton’s accusations, chronology and competing claims.",
+      "scope_limits": "The document supports the existence and nature of the dispute, not by itself the separate historical consensus on independent invention."
+    },
+    {
+      "id": "v1-phi-i-calculus",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Silvanus P. Thompson, [Calculus Made Easy](https://www.gutenberg.org/cache/epub/33283/pg33283-images.html) (1914), Macmillan and Co. Chapters VIII and XVII–XIX. The prose specifies smooth one-dimensional motion; integrating velocity requires an initial position to recover a particular position history.",
+      "final_note": "Silvanus P. Thompson, [_Calculus Made Easy_](https://www.gutenberg.org/cache/epub/33283/pg33283-images.html), 2nd ed. (Macmillan, 1914), chs. VIII and XVII–XIX. For one-dimensional motion, integrating velocity gives displacement; integrating speed gives distance travelled. An initial position fixes the integration constant.",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/33283/pg33283-images.html"
+      ],
+      "verification": "Gutenberg second-edition text: ch. VIII successive derivatives; XVII–XIX integration, constant and definite-integral limits.",
+      "scope_limits": "Current prose says integrating velocity recovers distance travelled. Correct to displacement, or specify no reversal of direction, in the author’s manual pass."
+    },
+    {
+      "id": "v1-phi-i-bayes",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Thomas Bayes, [An Essay towards solving a Problem in the Doctrine of Chances](https://www2.isye.gatech.edu/isyebayes/bank/Bayesessay.pdf) (1763), _Philosophical Transactions_ 53: 370–418. Section I, conditional probability propositions. The detector example is invented: 100 × 0.90 = 90 true alarms; 9,900 × 0.05 = 495 false alarms; 90/585 ≈ 15.38%. The modern update description is not a quotation from Bayes.",
+      "final_note": "Thomas Bayes, [“An Essay towards solving a Problem in the Doctrine of Chances”](https://www2.isye.gatech.edu/isyebayes/bank/Bayesessay.pdf), communicated by Richard Price, _Philosophical Transactions_ 53 (1763): 370–418, §I, propositions 3–5. The invented detector example gives 90 true alarms and 495 false alarms: 90/585 ≈ 15.38%.",
+      "sources": [
+        "https://www2.isye.gatech.edu/isyebayes/bank/Bayesessay.pdf"
+      ],
+      "verification": "Primary-paper transcription: §I propositions 3–5, especially reverse conditioning in proposition 5; example independently calculated.",
+      "scope_limits": "Modern updating language and fault detector are author illustrations; no clinical claim is sourced to Bayes."
+    },
+    {
+      "id": "v1-phi-i-pvalues",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "American Statistical Association, [American Statistical Association Releases Statement on Statistical Significance and P-Values](https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf) (2016). Principles 2, 3 and 5.",
+      "final_note": "American Statistical Association, [statement on statistical significance and p-values](https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf) (7 March 2016), principles 2, 3 and 5: p-values do not give hypothesis probabilities, replace contextual judgment or measure effect size.",
+      "sources": [
+        "https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf"
+      ],
+      "verification": "Official ASA release, PDF p. 2, six principles; cited principles inspected.",
+      "scope_limits": "Links to the official release containing the principles, not to the longer journal article."
+    },
+    {
+      "id": "v1-phi-i-hilbert",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "John Preskill, [Quantum Information, Chapter 2: Foundations I: States and Ensembles](https://ilorentz.org/quantumcomputers/literature/preskill_2_update.pdf) (July 2015), §§2.1, 2.3 and 2.4.1, for pure states, measurement probabilities, density operators and entanglement; John von Neumann, [Mathematical Foundations of Quantum Mechanics](https://www.jstor.org/stable/j.ctt1wq8zhp), originally published in German in 1932, especially chapter II, “Abstract Hilbert Space.” A vector represents a pure state, up to overall phase; general states require density operators. Entanglement concerns composite systems. The formalism does not establish the author’s proposed prephysical possibility space.",
+      "final_note": "John Preskill, [“Foundations I: States and Ensembles”](https://ilorentz.org/quantumcomputers/literature/preskill_2_update.pdf), _Quantum Information_, ch. 2 (July 2015), §§2.1, 2.3, 2.4.1; John von Neumann, [_Mathematical Foundations of Quantum Mechanics_](https://www.jstor.org/stable/j.ctt1wq8zhp) (German original 1932; trans. Robert T. Beyer, new ed. Nicholas A. Wheeler, Princeton University Press, 2018), ch. II. Vectors describe pure states; general states require density operators. Neither source establishes prephysical possibility space.",
+      "sources": [
+        "https://ilorentz.org/quantumcomputers/literature/preskill_2_update.pdf",
+        "https://www.jstor.org/stable/j.ctt1wq8zhp"
+      ],
+      "verification": "Preskill lecture chapter: pure states and probabilities, density operators, Schmidt-number definition of bipartite pure-state entanglement. JSTOR publisher description and contents verify von Neumann’s original date, translation, new edition and chapter II.",
+      "scope_limits": "Technical claims checked in Preskill. The full von Neumann book was not accessible; it is retained for historical attribution and bibliographic location only. “Exactly this space” in the Chapter 1 bridge remains an unresolved over-identification."
+    },
+    {
+      "id": "v1-phi-i-godel-coding",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Kurt Gödel, [Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) (1931), _Monatshefte für Mathematik und Physik_ 38: 173–198. §§1–2 and Proposition VI, in B. Meltzer's English translation. The self-reference concerns formal provability, not the liar paradox. The prime-power example is a standard simplified illustration.",
+      "final_note": "Kurt Gödel, [“On Formally Undecidable Propositions of _Principia Mathematica_ and Related Systems I”](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) (1931), trans. B. Meltzer (Oliver & Boyd, 1962), §§1–2, proposition VI. The prime-power coding is simplified; the self-reference concerns provability, not the liar paradox.",
+      "sources": [
+        "https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf"
+      ],
+      "verification": "Meltzer translation, §§1–2 and proposition VI: arithmetization and formal undecidable sentence.",
+      "scope_limits": "Illustrative symbol assignments are not claimed to reproduce Gödel’s exact numbering."
+    },
+    {
+      "id": "v1-phi-i-rosser",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "J. Barkley Rosser, [Extensions of some theorems of Gödel and Church](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/extensions-of-some-theorems-of-godel-and-church/0461E34DC1F219C459EE84CC2FA89068) (1936), _The Journal of Symbolic Logic_ 1(3): 87–91. The strengthening from omega-consistency to ordinary consistency. The result still requires an effective theory of sufficient arithmetical strength.",
+      "final_note": "J. Barkley Rosser, [“Extensions of Some Theorems of Gödel and Church”](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/extensions-of-some-theorems-of-godel-and-church/0461E34DC1F219C459EE84CC2FA89068), _Journal of Symbolic Logic_ 1, no. 3 (1936): 87–91. Rosser replaces omega-consistency with ordinary consistency; effective axiomatization and sufficient arithmetic remain necessary.",
+      "sources": [
+        "https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/extensions-of-some-theorems-of-godel-and-church/0461E34DC1F219C459EE84CC2FA89068"
+      ],
+      "verification": "Publisher metadata and indexed author abstract explicitly state the weakening of the hypothesis in Gödel Satz VI; DOI 10.2307/2269028. Feferman’s inspected account corroborates the modern theorem.",
+      "scope_limits": "Full Rosser proof was not accessible in this check. Abstract suffices for the limited historical strengthening claimed; no claim of proof-by-proof verification."
+    },
+    {
+      "id": "v1-phi-i-godel-consistency",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Kurt Gödel, [Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) (1931), _Monatshefte für Mathematik und Physik_ 38: 173–198. §4, Proposition XI. The prose gives the standard informal sketch; the claim concerns the theory's standard formal representation of its own consistency under the theorem's conditions.",
+      "final_note": "Gödel, [“On Formally Undecidable Propositions”](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf), §4, proposition XI; Solomon Feferman, [“The nature and significance of Gödel’s incompleteness theorems”](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf) (2006), pp. 7–9. The internal implication is from a formal consistency statement to the Gödel sentence, under the theorem’s conditions.",
+      "sources": [
+        "https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf",
+        "https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf"
+      ],
+      "verification": "Gödel §4 proposition XI and Feferman’s formal consistency implication, pp. 7–9.",
+      "scope_limits": "The prose’s “G is true” inside the theory needs changing to the formal sentence G; truth and provability must not be silently identified."
+    },
+    {
+      "id": "v1-phi-i-turing",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Alan M. Turing, [On Computable Numbers, with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) (1936), _Proceedings of the London Mathematical Society_ s2-42: 230–265. §§1–2 and 6.",
+      "final_note": "Alan M. Turing, [“On Computable Numbers, with an Application to the Entscheidungsproblem”](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf), _Proceedings of the London Mathematical Society_, ser. 2, 42 (1936–37): 230–265, §§1–2 and 6, on computing machines and the universal machine.",
+      "sources": [
+        "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf"
+      ],
+      "verification": "Original article scan, §§1–2 machine definition and §6 universal machine; volume spans 1936–37, manuscript received 28 May 1936.",
+      "scope_limits": ""
+    },
+    {
+      "id": "v1-phi-i-vonneumann",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "John von Neumann, [First Draft of a Report on the EDVAC](https://en.wikisource.org/wiki/Index:VN_First_Draft_Report_EDVAC_Moore_Sch_1945.pdf) (30 June 1945), §§2.4(b) and 2.5, pp. 4 and 6: instructions must be remembered, and different memory functions are to share one memory organ. These passages support the stored-program account. The author’s name on the report is not evidence of sole invention of the architecture.",
+      "final_note": "John von Neumann, [_First Draft of a Report on the EDVAC_](https://en.wikisource.org/wiki/Index:VN_First_Draft_Report_EDVAC_Moore_Sch_1945.pdf) (30 June 1945), §§2.4(b) and 2.5, pp. 4, 6: remembered instructions and a common memory organ. Authorship of the report does not imply sole invention of the architecture.",
+      "sources": [
+        "https://en.wikisource.org/wiki/Index:VN_First_Draft_Report_EDVAC_Moore_Sch_1945.pdf"
+      ],
+      "verification": "Proofread transcription tied to original scan: PDF pages 12/14, printed pp. 4/6, instructions must be remembered and memory functions share one organ.",
+      "scope_limits": "A complete credit history of EDVAC/Eckert/Mauchly and others is outside this citation’s scope. Current prose describes the report without assigning sole invention."
+    },
+    {
+      "id": "v1-phi-i-universality",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Oleg Mazonka and Alex Kolodin, [A Simple Multi-Processor Computer Based on Subleq](https://arxiv.org/abs/1106.2593) (2011), abstract and §2; Matthew Cook, [Universality in Elementary Cellular Automata](https://content.wolfram.com/sites/13/2023/02/15-1-1.pdf) (2004), _Complex Systems_ 15(1): 1–40, especially the introduction and construction; Cook, [A Concrete View of Rule 110 Computation](https://arxiv.org/abs/0906.3248) (2009), abstract. SUBLEQ branches when subtraction yields a nonpositive result. Rule 110 uses a cell and its two neighbors. Universality concerns computable functions under idealized resource assumptions; Cook’s construction uses specially arranged, unbounded backgrounds. A finite implementation remains limited by its physical resources.",
+      "final_note": "Oleg Mazonka and Alex Kolodin, [“A Simple Multi-Processor Computer Based on Subleq”](https://arxiv.org/abs/1106.2593) (2011), §2; Matthew Cook, [“Universality in Elementary Cellular Automata”](https://content.wolfram.com/sites/13/2023/02/15-1-1.pdf), _Complex Systems_ 15 (2004): 1–40, and [“A Concrete View of Rule 110 Computation”](https://arxiv.org/abs/0906.3248) (2009), abstract. SUBLEQ branches on a nonpositive result. Universality assumes unbounded resources; Cook’s construction uses specially arranged infinite backgrounds.",
+      "sources": [
+        "https://arxiv.org/abs/1106.2593",
+        "https://content.wolfram.com/sites/13/2023/02/15-1-1.pdf",
+        "https://arxiv.org/abs/0906.3248"
+      ],
+      "verification": "SUBLEQ paper §2 instruction semantics; Cook 2004 introduction and local three-cell update rule; Cook 2009 abstract explicitly specifies repeating left/right backgrounds and encoded computation.",
+      "scope_limits": "Universality proofs not rederived. Finite hardware cannot supply unbounded tape/time; computable does not mean feasible."
+    },
+    {
+      "id": "v1-phi-i-halting",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Alan M. Turing, [On Computable Numbers, with an Application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) (1936), _Proceedings of the London Mathematical Society_ s2-42: 230–265. §8. The draft uses the modern halting presentation of diagonalization, rather than reproducing Turing's circle-free-machine argument verbatim.",
+      "final_note": "Turing, [“On Computable Numbers”](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf), §8, pp. 246–248. The interlude uses the modern halting-problem presentation of diagonalization; Turing’s original argument concerns circle-free machines.",
+      "sources": [
+        "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf"
+      ],
+      "verification": "Original article scan, §8, printed pp. 246–248: assumed circle-free decision process and diagonal contradiction.",
+      "scope_limits": "Modern Decider pseudocode is an adaptation, not the original wording or identical original decision problem."
+    },
+    {
+      "id": "v1-phi-i-metrology",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Joint Committee for Guides in Metrology, [International Vocabulary of Metrology: Basic and General Concepts and Associated Terms (VIM)](https://www.bipm.org/documents/20126/2071204/JCGM_200_2012.pdf) (2012). §§2.1, 2.3, 2.15, 2.17, 2.26 and 2.39. The thermometer and room examples are hypothetical. Repeated readings alone need not reveal a shared systematic offset.",
+      "final_note": "Joint Committee for Guides in Metrology, [_International Vocabulary of Metrology_ (VIM)](https://www.bipm.org/documents/20126/2071204/JCGM_200_2012.pdf), 3rd ed., JCGM 200:2012, entries 2.1, 2.3, 2.13, 2.15, 2.17, 2.26 and 2.39. Repetition alone need not expose a systematic measurement error.",
+      "sources": [
+        "https://www.bipm.org/documents/20126/2071204/JCGM_200_2012.pdf"
+      ],
+      "verification": "Official bilingual vocabulary: entries 2.1, 2.3, 2.13, 2.15, 2.17, 2.26 and 2.39 for measurement, measurand, accuracy, precision, systematic error, uncertainty and calibration.",
+      "scope_limits": "Examples are hypothetical. Precision, accuracy, trueness and uncertainty are distinct concepts."
+    },
+    {
+      "id": "v1-phi-i-decoherence",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Maximilian Schlosshauer, [Decoherence, the measurement problem, and interpretations of quantum mechanics](https://arxiv.org/abs/quant-ph/0312059) (2005), _Reviews of Modern Physics_ 76: 1267–1305. Introduction and §§II, III.D and IV.A. Decoherence and the interpretation of definite outcomes are distinguished; no consciousness-induced collapse is asserted.",
+      "final_note": "Maximilian Schlosshauer, [“Decoherence, the measurement problem, and interpretations of quantum mechanics”](https://arxiv.org/abs/quant-ph/0312059), _Reviews of Modern Physics_ 76: 1267–1305 (published 2005), discussions of definite outcomes and the measurement problem. Suppression of interference does not by itself select a unique interpretation.",
+      "sources": [
+        "https://arxiv.org/abs/quant-ph/0312059"
+      ],
+      "verification": "Author manuscript full text: definite outcomes in II.B and measurement-problem discussion in IV.A; publisher year 2005, journal volume assigned 2004.",
+      "scope_limits": "Does not establish consciousness-induced collapse or decoherence alone as a complete solution to the outcome problem."
+    },
+    {
+      "id": "v1-phi-i-quantum-records",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Wojciech H. Zurek, [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127) (2003), _Reviews of Modern Physics_ 75: 715–775. Discussion of measurement, environmental monitoring and stable correlations. The text does not assert a unique settled quantum/classical boundary or equate a physical record with subjective experience.",
+      "final_note": "Wojciech H. Zurek, [“Decoherence, einselection, and the quantum origins of the classical”](https://arxiv.org/abs/quant-ph/0105127), _Reviews of Modern Physics_ 75 (2003): 715–775, discussions of measurement correlations and “Events, Records, Histories.” A physical record need not be a conscious experience.",
+      "sources": [
+        "https://arxiv.org/abs/quant-ph/0105127"
+      ],
+      "verification": "Author manuscript: measurement correlations, environmental monitoring, stable pointer records and redundant records.",
+      "scope_limits": "No unique settled quantum/classical boundary or equivalence between records and subjective experience is established."
+    },
+    {
+      "id": "v1-phi-i-popper",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Karl R. Popper, [Conjectures and Refutations: The Growth of Scientific Knowledge](https://www.inf.fu-berlin.de/lehre/SS06/materials/eng/PopperScience.pdf) (1963), Routledge and Kegan Paul. Chapter 1, section I, especially numbered conclusions 1–7. Falsifiability is presented as one influential account of scientific testing; the horoscope comparison is the author's.",
+      "final_note": "Karl R. Popper, [_Conjectures and Refutations_](https://www.inf.fu-berlin.de/lehre/SS06/materials/eng/PopperScience.pdf) (Routledge & Kegan Paul, 1963), ch. 1, §I, conclusions 1–7. The linked excerpt gives his falsifiability criterion, one influential account of scientific testing.",
+      "sources": [
+        "https://www.inf.fu-berlin.de/lehre/SS06/materials/eng/PopperScience.pdf"
+      ],
+      "verification": "Four-page primary excerpt “Science: Conjectures and Refutations,” numbered conclusions 1–7 inspected.",
+      "scope_limits": "Not represented as the single exhaustive demarcation of science."
+    },
+    {
+      "id": "v1-phi-i-duhem",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Pierre Duhem, [The Aim and Structure of Physical Theory](https://thehangedman.com/teaching-files/hps/duhem.pdf) (1954), Princeton University Press. Part II, chapter VI, §2. The beam-under-load illustration is the author's application of the argument, not Duhem's example.",
+      "final_note": "Pierre Duhem, [_The Aim and Structure of Physical Theory_](https://thehangedman.com/teaching-files/hps/duhem.pdf), trans. Philip P. Wiener (Princeton University Press, 1954; French original 1906), part II, ch. VI, §2. The beam example applies Duhem’s argument that experiments test connected assumptions.",
+      "sources": [
+        "https://thehangedman.com/teaching-files/hps/duhem.pdf"
+      ],
+      "verification": "Anthology reprint of translated “Physical Theory and Experiment,” printed pp. 53–57; group-of-hypotheses argument pp. 54–55.",
+      "scope_limits": "The linked excerpt is a reprint rather than the complete 1954 volume; beam illustration is the author’s."
+    },
+    {
+      "id": "v1-phi-i-reproduction",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "National Academies of Sciences, Engineering, and Medicine, [Reproducibility and Replicability in Science](https://www.nationalacademies.org/read/25303/chapter/6) (2019), The National Academies Press. Chapter 3. Following this report's usage: reproducibility concerns results from the same data and computational procedures; replication uses newly collected data. Usage varies by field.",
+      "final_note": "National Academies of Sciences, Engineering, and Medicine, [_Reproducibility and Replicability in Science_](https://www.nationalacademies.org/read/25303/chapter/6) (National Academies Press, 2019), ch. 3, “Understanding Reproducibility and Replicability.” This report distinguishes reuse of the same data and computational procedures from studies using new data; terminology varies across fields.",
+      "sources": [
+        "https://www.nationalacademies.org/read/25303/chapter/6"
+      ],
+      "verification": "Official online chapter 3, definitions of reproducibility and replicability; DOI 10.17226/25303.",
+      "scope_limits": "Does not assert uniform vocabulary across disciplines."
+    },
+    {
+      "id": "v1-phi-i-switching",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "George Boole, [An Investigation of the Laws of Thought](https://www.gutenberg.org/files/15114/15114-pdf.pdf) (1854), Walton and Maberly; Claude E. Shannon, [A Symbolic Analysis of Relay and Switching Circuits](https://tubes.mit.edu/6S917/_static/2025/resources/shannon38.pdf) (1938), _Transactions of the American Institute of Electrical Engineers_ 57: 713–723. Boole, chapters II–III; Shannon, §§I–II. The switch illustration takes conduction as true; Shannon's original hindrance notation uses zero for a closed circuit and one for an open one.",
+      "final_note": "George Boole, [_An Investigation of the Laws of Thought_](https://www.gutenberg.org/files/15114/15114-pdf.pdf) (1854), chs. II–III; Claude E. Shannon, [“A Symbolic Analysis of Relay and Switching Circuits”](https://tubes.mit.edu/6S917/_static/2025/resources/shannon38.pdf), _Transactions of the AIEE_ 57 (1938): 713–723, §§I–II. Here conduction represents true; Shannon’s hindrance notation assigns 0 to closed and 1 to open circuits.",
+      "sources": [
+        "https://www.gutenberg.org/files/15114/15114-pdf.pdf",
+        "https://tubes.mit.edu/6S917/_static/2025/resources/shannon38.pdf"
+      ],
+      "verification": "Boole primary text chs. II–III; Shannon reprint visually inspected at printed pp. 471–472 (PDF pages 1–2): publication footnote and hindrance definitions.",
+      "scope_limits": "Shannon reprint pagination differs from original journal pp. 713–723. Manuscript uses conduction convention, dual to Shannon’s hindrance convention."
+    },
+    {
+      "id": "v1-phi-i-learning-proof",
+      "file": "manuscripts/volume-1/phi-interlude.md",
+      "accessed": "2026-10-15",
+      "previous_note": "Google DeepMind, [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/) (25 July 2024), sections on AlphaProof, AlphaGeometry 2 and the competition results; Thang Luong and Edward Lockhart, [Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) (21 July 2025). The 2024 combined result was 28/42: three problems from AlphaProof and one from AlphaGeometry 2. The 2025 result was 35/42, with natural-language solutions graded and certified by IMO coordinators, according to the team. Formal verification and expert grading provide different kinds of warrant; neither result establishes general understanding.",
+      "final_note": "Google DeepMind, [2024 IMO results](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/) (25 July 2024), and Thang Luong and Edward Lockhart, [2025 IMO results](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) (21 July 2025). The teams report 28/42 for AlphaProof plus AlphaGeometry 2 and 35/42 for Gemini Deep Think. Formal proof checking and expert grading of natural-language solutions provide different warrants.",
+      "sources": [
+        "https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/",
+        "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/"
+      ],
+      "verification": "Official project reports: 2024 28/42, three AlphaProof problems plus one AlphaGeometry 2; 2025 five of six, 35/42, natural-language grading and IMO coordinator certification described.",
+      "scope_limits": "Historical team reports, not an independent replication or a claim about general understanding; no newer performance inference."
+    }
+  ],
+  "validation": {
+    "notes": [
+      {
+        "file": "manuscripts/volume-1/phi-chapter.md",
+        "notes": 24,
+        "callouts": 24,
+        "old_note_words": 817,
+        "new_note_words": 801
+      },
+      {
+        "file": "manuscripts/volume-1/phi-interlude.md",
+        "notes": 26,
+        "callouts": 26,
+        "old_note_words": 1223,
+        "new_note_words": 933
+      }
+    ],
+    "all_phi_ids_book_unique": true,
+    "pandoc_note_links_valid": true,
+    "narrative_unchanged": true
+  }
+}
