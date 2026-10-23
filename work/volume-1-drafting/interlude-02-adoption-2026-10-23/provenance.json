@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-23",
+  "stage": 2,
+  "baseline_commit": "1476a25bdcbbb66db15667cd18c02691114b63d5",
+  "input_hashes": {
+    "manuscripts/volume-1/02-chapter.md": "26d2ba6caf2a7b190b9c2db546208296d51c126f07f69b6f7d8ced0793f0d503",
+    "manuscripts/volume-1/02-interlude.md": "2931834d12a2ae5b3b2ad253de34bc257cece82fc6a1d292f00858ec137be18a",
+    "work/manuscript-manifest.json": "6edc2a5ac06ba101ded254abfb72496feacd048849a22c0c416cbed409031fd9",
+    "work/journal/volume-1.md": "90f17cf53620143b622a847f59f9788eff9925f541a910c2643491d061921875",
+    "work/journal/book.md": "d058bad932019cf8035c06fa830051b9f99c681a4d178d95cebe1d54b7f2ef24",
+    "work/EDITORIAL_CONTEXT.md": "a552e873ac2497157e1ecd08b12aaa502ece2b8ab0d149ecb78f70aab81cab63",
+    ".gitignore": "4a46222675abc2b1ae26fcdf1577468af17ab3e92ee37ae24d16af3f1216e9ed",
+    "manuscripts/volume-1/01-interlude.md": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e"
+  },
+  "incoming_source": {
+    "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-2.md",
+    "sha256": "52c6a927509244a248f9c3773251349281d3d7d8570d15913ac32058584498a0"
+  },
+  "context_interludes_read": [
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-3.md",
+      "sha256": "1da7ddfe973e2a6f500ae1451be4e6add489f7a3a1956a8dbda3af03530d4a0b",
+      "reading_extent": "full, for AI-thread allocation only"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-4.md",
+      "sha256": "eaf16809853a58558d331aa0da4e071ded21be5d7090e51131c3d187abb3a5a9",
+      "reading_extent": "full, for AI-thread allocation only"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-5.md",
+      "sha256": "7b5c7a8b9d9493b30ea7a055a1a0c8432a519172d8c6a3ff9be02ede182c7a14",
+      "reading_extent": "full, for AI-thread allocation only"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-6.md",
+      "sha256": "2088355c0284cc82b33e9068ae7c3cf6e3b6ce3bc7c8c8d97732f1af92051e6a",
+      "reading_extent": "full, for AI-thread allocation only"
+    }
+  ],
+  "annotation_policy": "Carry the one canonical I2 annotation verbatim; no resolution in this task.",
+  "existing_uncommitted_preserved": [
+    ".gitignore",
+    "manuscripts/volume-1/01-interlude.md"
+  ],
+  "figures": "Original black/white/grayscale SVG, source generator included; PNGs are QA previews only.",
+  "final_manuscripts": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
+      "sha256": "4dddeff4ac7334c0b0cb176d75560257d205d7ac17e3a67a53d8d7d0d1d95d8a"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-interlude.md",
+      "sha256": "283cfa10153008dd452be140caa4816087f09b0a2c6deb4926a50f896ebf1ec6"
+    }
+  ]
+}

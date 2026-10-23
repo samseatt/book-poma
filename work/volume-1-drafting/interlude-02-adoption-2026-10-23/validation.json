@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
+    "sha256": "4dddeff4ac7334c0b0cb176d75560257d205d7ac17e3a67a53d8d7d0d1d95d8a",
+    "defined_notes": 45,
+    "note_references": 45,
+    "parsed_notes": 45,
+    "html_note_backlinks": 45,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-interlude.md",
+    "sha256": "283cfa10153008dd452be140caa4816087f09b0a2c6deb4926a50f896ebf1ec6",
+    "defined_notes": 40,
+    "note_references": 40,
+    "parsed_notes": 40,
+    "html_note_backlinks": 40,
+    "display_equations": 1,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Author annotations are present and untouched; this is not the publication annotation guard."
+    ],
+    "errors": [],
+    "passed": true
+  }
+]

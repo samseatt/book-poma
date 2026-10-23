@@ -1,0 +1,459 @@
+{
+  "scope": "Interlude 2 full alignment and five new Chapter 2 notes",
+  "records": [
+    {
+      "note_id": "v1-i2-genome",
+      "access_date": "2026-10-23",
+      "evidence": "Primary paper, indexed author-hosted full-text excerpts and PubMed record, https://pubmed.ncbi.nlm.nih.gov/35357919/",
+      "verification_scope": "Reference size and bibliographic details.",
+      "limits": "PubMed direct page returned only footer; no claim of full-paper rereading.",
+      "source_note": "Sergey Nurk et al., [“The complete sequence of a human genome”](https://doi.org/10.1126/science.abj6987), *Science* 376 (2022): 44–53. The CHM13 reference spans about 3.055 billion base pairs. A reference assembly is not an individual’s complete diploid genome, and a genomic sequence is not sufficient by itself to generate an organism.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "My nuclear codebase arrived in two sets, one from each parent, each about three billion letters long, written in an alphabet of four: A, T, C and G.[^v1-i2-genome] But a sequence alone couldn't build me. I also inherited an egg's living machinery, including mitochondria with their own small genome, "
+    },
+    {
+      "note_id": "v1-i2-coding",
+      "access_date": "2026-10-23",
+      "evidence": "Nature primary paper indexed text, https://www.nature.com/articles/nature03001; T2T paper; NHGRI sequencing-cost fact sheet, indexed exome proportion ~1.5%, https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost",
+      "verification_scope": "Historical annotation estimates checked; prose uses a rounded modern count.",
+      "limits": "No claim that the 2001 draft already reported the modern count.",
+      "source_note": "International Human Genome Sequencing Consortium, [“Finishing the euchromatic sequence of the human genome”](https://doi.org/10.1038/nature03001), *Nature* 431 (2004): 931–945; Nurk et al. (2022), cited above. Protein-coding gene counts depend on annotation and have been revised since the initial genome draft. Only roughly 1–2 percent of genomic sequence directly encodes amino-acid sequences; noncoding does not mean uniformly nonfunctional.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "First, find the right file. My nuclear code was split across 23 pairs of volumes, the chromosomes. Only a small fraction of their sequence, roughly 1–2 percent, specifies the amino-acid sequences of proteins, spread across some twenty thousand genes.[^v1-i2-coding] The rest includes switches, struct"
+    },
+    {
+      "note_id": "v1-i2-splicing",
+      "access_date": "2026-10-23",
+      "evidence": "Nobel primary lecture indexed text; PubMed primary metadata https://pubmed.ncbi.nlm.nih.gov/18978789/",
+      "verification_scope": "Split-gene mechanism and alternative-splicing evidence.",
+      "limits": "Nobel PDF access varies; not recorded as full lecture read.",
+      "source_note": "Philip A. Sharp, [“Split Genes and RNA Splicing”](https://www.nobelprize.org/uploads/2018/06/sharp-lecture.pdf), Nobel lecture (1993); Qun Pan et al., [“Deep surveying of alternative splicing complexity in the human transcriptome by high-throughput sequencing”](https://doi.org/10.1038/ng.259), *Nature Genetics* 40 (2008): 1413–1415. Splicing concerns RNA processing, not cutting the corresponding introns from genomic DNA.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Second, make a working copy. For a protein-coding gene, RNA polymerase makes a preliminary RNA transcript, like an intern photocopying a memo, because nobody lets you take the original out of the vault. In my cells that copy gets processed: introns are removed and exons spliced together.[^v1-i2-spli"
+    },
+    {
+      "note_id": "v1-i2-code",
+      "access_date": "2026-10-23",
+      "evidence": "NHGRI definition and narration read; standard genetic-code table; NCBI genetic-code standard and variant tables available and checked, with general count corroborated by NHGRI.",
+      "verification_scope": "Codon count, adapter role and standard versus variant code.",
+      "limits": "Redundancy does not imply literal decoding/recovery of the pre-mutation sequence.",
+      "source_note": "National Human Genome Research Institute, [“Codon”](https://www.genome.gov/genetics-glossary/Codon) and [“Transfer RNA”](https://www.genome.gov/genetics-glossary/Transfer-RNA-tRNA); NCBI, [“The Genetic Codes”](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi), standard code, table 1. The standard code has 61 amino-acid codons and three stops; mitochondrial and other variant codes require separate treatment.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Third, read it in the right frame. The ribosome reads the message three letters at a time. In the standard genetic code, sixty-one of the sixty-four codons specify amino acids; three signal a stop. AUG usually starts translation and also specifies methionine.[^v1-i2-code] Shift the frame by a single"
+    },
+    {
+      "note_id": "v1-i2-fidelity",
+      "access_date": "2026-10-23",
+      "evidence": "https://pubmed.ncbi.nlm.nih.gov/14988392/; indexed text of Cooper, The Cell, DNA Replication, https://www.ncbi.nlm.nih.gov/books/NBK9940/",
+      "verification_scope": "Primary bibliographic record and corroborating mechanism/error-scale excerpt.",
+      "limits": "NCBI Bookshelf direct access challenged; not read in full.",
+      "source_note": "Thomas A. Kunkel, [“DNA Replication Fidelity”](https://doi.org/10.1074/jbc.R400006200), *Journal of Biological Chemistry* 279 (2004): 16895–16898. Fidelity combines nucleotide selection, proofreading and mismatch repair; rates depend on organism, polymerase and conditions. A final error rate around one per billion copied bases is an order-of-magnitude guide, not a universal constant.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "And through all of it, quality control. DNA copying combines careful base selection, proofreading and repair; together these can reduce errors to roughly one in a billion copied bases, sometimes lower.[^v1-i2-fidelity] The resemblance to debugging is excellent. The cell's actual tools are chemical r"
+    },
+    {
+      "note_id": "v1-i2-360",
+      "access_date": "2026-10-23",
+      "evidence": "IBM institutional history inspected in Stage 1",
+      "verification_scope": "Announcement and compatibility, with family chronology kept separate.",
+      "limits": "No invented exact conception date.",
+      "source_note": "IBM, [“The IBM System/360”](https://www.ibm.com/history/system-360). Announced on 7 April 1964, System/360 offered a compatible family across performance levels. Its main memory used magnetic cores; semiconductor memory’s later adoption is a separate transition. The coincidence with conception is the author’s family chronology.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Around the same time, in cleanrooms across California and New York, another kind of embryo was forming. That April, the month I was conceived, IBM announced its System/360, a family of computers designed so that programs could move from smaller machines to larger ones without being rewritten, one of"
+    },
+    {
+      "note_id": "v1-i2-shannonphd",
+      "access_date": "2026-10-23",
+      "evidence": "MIT institutional thesis record, Stage 1",
+      "verification_scope": "Thesis identity/date and corrected sequencing.",
+      "limits": "Not a full dissertation review.",
+      "source_note": "Claude E. Shannon, [“An Algebra for Theoretical Genetics”](https://dspace.mit.edu/entities/publication/9921edcd-1518-47c2-bc86-fa9005ca21b6), Ph.D. dissertation, MIT (1940). His switching-circuit work preceded this dissertation, so genetics was not the beginning of his research career.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The person who gave communication its mathematics had also studied heredity. Claude Shannon, whose switching circuits appeared in Interlude Φ, completed a doctoral dissertation on the algebra of population genetics in 1940.[^v1-i2-shannonphd] In 1948 he published “A Mathematical Theory of Communicat"
+    },
+    {
+      "note_id": "v1-i2-shannon",
+      "access_date": "2026-10-23",
+      "evidence": "Original paper PDF, selected sections inspected in Stage 1",
+      "verification_scope": "Communication/semantic distinction, information units, coding limits.",
+      "limits": "No claim that Shannon invented all compression techniques or coined bit.",
+      "source_note": "Claude E. Shannon, [“A Mathematical Theory of Communication”](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), *Bell System Technical Journal* 27 (1948): 379–423, 623–656. See the opening distinction between engineering and semantic questions, the entropy discussion and the coding theorems. Shannon credited John Tukey with “bit.”",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The person who gave communication its mathematics had also studied heredity. Claude Shannon, whose switching circuits appeared in Interlude Φ, completed a doctoral dissertation on the algebra of population genetics in 1940.[^v1-i2-shannonphd] In 1948 he published “A Mathematical Theory of Communicat"
+    },
+    {
+      "note_id": "v1-i2-lac",
+      "access_date": "2026-10-23",
+      "evidence": "Original paper metadata; indexed textbook mechanism including glucose/cAMP and CAP activation",
+      "verification_scope": "Mechanistic analogy narrowed to strong expression.",
+      "limits": "Original 1961 paper is not credited with every later regulatory detail; textbook full access unavailable.",
+      "source_note": "François Jacob and Jacques Monod, [“Genetic regulatory mechanisms in the synthesis of proteins”](https://doi.org/10.1016/S0022-2836(61)80072-7), *Journal of Molecular Biology* 3 (1961): 318–356. For the later-established combination of repression and glucose-sensitive activation, see Geoffrey M. Cooper, [*The Cell: A Molecular Approach*, “Transcription in Prokaryotes”](https://www.ncbi.nlm.nih.gov/books/NBK9850/) (2nd ed., 2000), lac-operon discussion. The AND-gate comparison describes strong expression approximately, not a perfectly digital switch.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Nature had been processing data long before either door opened. In *E. coli*, strong expression of the lactose-digesting machinery generally needs two conditions: lactose available and the preferred sugar, glucose, scarce. A lactose derivative relieves repression, while low glucose favors an activat"
+    },
+    {
+      "note_id": "v1-i2-chemotaxis",
+      "access_date": "2026-10-23",
+      "evidence": "Primary PubMed record https://pubmed.ncbi.nlm.nih.gov/4560688/; original-paper indexed results",
+      "verification_scope": "Temporal sensing and bounded ML analogy.",
+      "limits": "Direct PubMed displayed footer only; primary abstracts/indexed descriptions used.",
+      "source_note": "Robert M. Macnab and D. E. Koshland Jr., [“The gradient-sensing mechanism in bacterial chemotaxis”](https://doi.org/10.1073/pnas.69.9.2509), *PNAS* 69 (1972): 2509–2512; Howard C. Berg and Douglas A. Brown, [“Chemotaxis in Escherichia coli analysed by three-dimensional tracking”](https://doi.org/10.1038/239500a0), *Nature* 239 (1972): 500–504. Temporal comparison biases runs and tumbles; it is not backpropagation or exact gradient calculation.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Nature had been processing data long before either door opened. In *E. coli*, strong expression of the lactose-digesting machinery generally needs two conditions: lactose available and the preferred sugar, glucose, scarce. A lactose derivative relieves repression, while low glucose favors an activat"
+    },
+    {
+      "note_id": "v1-i2-fastq",
+      "access_date": "2026-10-23",
+      "evidence": "NCBI format documentation read; primary format paper and Oxford formula indexed",
+      "verification_scope": "Per-base quality, raw versus inferred information, score worked example.",
+      "limits": "Calibration explicitly qualified.",
+      "source_note": "NCBI Sequence Read Archive, [“File Format Guide”](https://www.ncbi.nlm.nih.gov/sra/docs/submitformats/), FASTQ and SAM/BAM sections; Peter J. A. Cock et al., [“The Sanger FASTQ file format for sequences with quality scores, and the Solexa/Illumina FASTQ variants”](https://doi.org/10.1093/nar/gkp1137), *Nucleic Acids Research* 38 (2010): 1767–1771. The Phred score is $Q=-10\\log_{10}P(\\mathrm{error})$; see Oxford’s [sequence-file teaching example](https://www.chg.ox.ac.uk/bioinformatics/training/msc_gm/2024/live/bioinformatics_pipelines_for_NGS_data/Inspecting_the_fastqs/). A quality score is an estimate, not a warranty.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Sequencing that DNA produces a second archive: measurements of the first. A FASTQ file holds short or long sequence reads and a quality estimate for each called base. A common score is $Q=-10\\log_{10}p$, where $p$ is the estimated probability that the letter was called incorrectly: Q30 means about o"
+    },
+    {
+      "note_id": "v1-i2-sequence-analysis",
+      "access_date": "2026-10-23",
+      "evidence": "EMBL–EBI official training summary; NCBI format sections; primary Pan paper indexed",
+      "verification_scope": "Workflow placement, not a claim of a universal pipeline.",
+      "limits": "Not all analyses align to a reference; assembly and other alternatives remain outside this survey.",
+      "source_note": "EMBL–EBI, [“NGS, raw read pre-processing, quality control, and read mapping”](https://www.ebi.ac.uk/training/materials/genome-bioinformatics-materials/raw-read-preprocessing-qc-read-mapping/); Pan et al. (2008), above, for sequencing-based analysis of splicing. SAM/BAM preserve reads and alignment information; RNA abundance and splicing estimates require further analysis, with reference and sampling limitations.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Many workflows align those reads to a reference genome, storing where they fit and how convincingly in SAM or its compressed binary counterpart, BAM. Variant calling then infers differences from the reference. Repeated coverage, uncertainty and sample records make sequencing data much larger than a "
+    },
+    {
+      "note_id": "v1-i2-entropy",
+      "access_date": "2026-10-23",
+      "evidence": "Original Shannon selected section, Stage 1; algebraic reduction checked locally",
+      "verification_scope": "Formula and correct Gibbs/Boltzmann relationship.",
+      "limits": "Removed the unverified von Neumann naming anecdote.",
+      "source_note": "Shannon (1948), “Choice, Uncertainty and Entropy.” The statistical-mechanical comparison is the Gibbs form $S=-k_B\\sum_i p_i\\ln p_i$; equal probabilities over $W$ microstates give Boltzmann’s $S=k_B\\ln W$. Shannon entropy is a property of a probability model; semantic usefulness does not follow from high entropy.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Shannon's trick was simple and rude. He didn't ask what a message meant. He asked how uncertain its arrival had been. A fair coin flip carries one bit of surprise; an outcome already certain under our model carries none. Shannon measured a source's average surprise with its entropy:[^v1-i2-entropy]"
+    },
+    {
+      "note_id": "v1-i2-hopfield",
+      "access_date": "2026-10-23",
+      "evidence": "Author-hosted 1974 PDF indexed excerpts https://www.princeton.edu/~wbialek/rome/refs/hopfield_74.pdf; 1982 primary-paper record, Stage 1",
+      "verification_scope": "Dates and the two distinct contributions.",
+      "limits": "No claim of full rereading of both papers.",
+      "source_note": "J. J. Hopfield, [“Kinetic Proofreading: A New Mechanism for Reducing Errors in Biosynthetic Processes Requiring High Specificity”](https://doi.org/10.1073/pnas.71.10.4135), *PNAS* 71 (1974): 4135–4139; [“Neural networks and physical systems with emergent collective computational abilities”](https://doi.org/10.1073/pnas.79.8.2554), *PNAS* 79 (1982): 2554–2558. Biochemical discrimination, communication coding and associative recall are distinct mechanisms.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The protection part deserves a moment. Shannon showed that, below a channel's capacity and under his model's conditions, suitable coding can make transmission errors arbitrarily rare as the code length grows. Added redundancy helps a decoder distinguish messages that noise would otherwise confuse. C"
+    },
+    {
+      "note_id": "v1-i2-kolmogorov",
+      "access_date": "2026-10-23",
+      "evidence": "Kolmogorov historical metadata; Paul Vitanyi primary research abstract https://arxiv.org/abs/2002.07674 read, defining shortest program and noncomputability.",
+      "verification_scope": "Shortest-program definition, noncomputability and interpretive boundary.",
+      "limits": "No full-paper rereading claimed; replaced uninspected book pointer with inspected primary abstract.",
+      "source_note": "A. N. Kolmogorov, “Three approaches to the quantitative definition of information,” *Problems of Information Transmission* 1 (1965): 1–7; Ray J. Solomonoff (1964), below. For the precise shortest-program definition and noncomputability, see Paul M. B. Vitányi, [“How incomputable is Kolmogorov complexity?”](https://arxiv.org/abs/2002.07674), *Entropy* 22 (2020): 408. Choice of universal machine affects description length by an additive constant; the statement is not a law selecting physically realized universes.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The *Kolmogorov complexity* of a string is the length of its shortest generating program on a specified universal computing system.[^v1-i2-kolmogorov] “Print a million digits of pi” can be a short recipe, even if executing it takes work. The shortest recipe is generally not computable, and descripti"
+    },
+    {
+      "note_id": "v1-i2-solomonoff",
+      "access_date": "2026-10-23",
+      "evidence": "Author publication list and Part I opening/method passages read in Stage 1",
+      "verification_scope": "Dates, weighting descriptions, prediction purpose.",
+      "limits": "Universal induction is an ideal, not a practical optimizer or physical law.",
+      "source_note": "Ray J. Solomonoff, [“A Formal Theory of Inductive Inference, Part I”](https://raysolomonoff.com/publications/1964pt1.pdf), *Information and Control* 7 (March 1964): 1–22; Part II, 7 (June 1964): 224–254. His [publication list](https://raysolomonoff.com/publications/pubs.html) records earlier reports in 1960. The 1964 coincidence is a publication milestone, not the first conception of the idea.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "In March 1964, just before my own data began its next cellular engagement, Ray Solomonoff published the first part of a theory of inductive inference: predict what comes next by combining computable explanations, giving shorter descriptions greater prior weight.[^v1-i2-solomonoff] It is a powerful i"
+    },
+    {
+      "note_id": "v1-i2-zador",
+      "access_date": "2026-10-23",
+      "evidence": "Author-repository paper inspected in Stage 1",
+      "verification_scope": "Genomic bottleneck and innate structure.",
+      "limits": "The genome is not a self-contained compressed file of an adult brain.",
+      "source_note": "Anthony M. Zador, [“A critique of pure learning and what artificial neural networks can learn from animal brains”](https://doi.org/10.1038/s41467-019-11786-6), *Nature Communications* 10 (2019): 3770; [author-repository copy](https://repository.cshl.edu/id/eprint/38307/1/2019.Zador.ArtificialNeuralNetworks.pdf). The genomic bottleneck limits direct specification and motivates inherited developmental rules, alongside environmental and activity-dependent development.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The genome offers a different sort of economy. Anthony Zador's *genomic bottleneck* describes how inherited information constrains a brain without specifying each of its connections individually.[^v1-i2-zador] Rules unfold through cells, surroundings and experience. Every embryo is a recipe being ma"
+    },
+    {
+      "note_id": "v1-i2-memorization",
+      "access_date": "2026-10-23",
+      "evidence": "Primary abstract inspected in Stage 1",
+      "verification_scope": "Existence of verbatim memorization/extraction.",
+      "limits": "Does not imply all data is recoverable from all models.",
+      "source_note": "Nicholas Carlini et al., [“Extracting Training Data from Large Language Models”](https://arxiv.org/abs/2012.07805), *30th USENIX Security Symposium* (2021): 2633–2650. Demonstrated extraction of verbatim training examples counters the claim that training necessarily forgets all its source sentences.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "A trained model can likewise capture regularities in fewer parameters than the raw data contains, but it is not a ZIP file of its training set. It may discard details, retain general patterns, and memorize particular passages all at once; researchers have extracted verbatim training text from langua"
+    },
+    {
+      "note_id": "v1-i2-hollerith",
+      "access_date": "2026-10-23",
+      "evidence": "IBM institutional history indexed text",
+      "verification_scope": "Historical succession; no claim that Hollerith alone founded modern IBM.",
+      "limits": "Company history used for its own corporate chronology.",
+      "source_note": "IBM, [“The punched card tabulator”](https://www.ibm.com/history/punched-card-tabulator). Hollerith’s system served the 1890 U.S. census; his firm became part of Computing-Tabulating-Recording in 1911, which took the IBM name in 1924.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The machines arrived by way of a census. To count the American population of 1890, Herman Hollerith built tabulating machines that read holes punched in cards, and his business became one of the companies combined into IBM's predecessor.[^v1-i2-hollerith] Punched cards gave way to magnetic tape and "
+    },
+    {
+      "note_id": "v1-i2-ramac",
+      "access_date": "2026-10-23",
+      "evidence": "IBM and ASME technical history indexed excerpts",
+      "verification_scope": "Capacity, physical disk count/size and year.",
+      "limits": "Removed millionfold fingernail-chip comparison and modern-byte conversion.",
+      "source_note": "IBM, [“RAMAC”](https://www.ibm.com/history/ramac); American Society of Mechanical Engineers, [“IBM 350 RAMAC Disk File”](https://www.asme.org/about-asme/engineering-history/landmarks/90-ibm-350-ramac-disk-file). The 1956 system held five million characters on fifty 24-inch disks. Its character encoding should not be silently equated with modern eight-bit bytes.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The machines arrived by way of a census. To count the American population of 1890, Herman Hollerith built tabulating machines that read holes punched in cards, and his business became one of the companies combined into IBM's predecessor.[^v1-i2-hollerith] Punched cards gave way to magnetic tape and "
+    },
+    {
+      "note_id": "v1-i2-landauer",
+      "access_date": "2026-10-23",
+      "evidence": "Previously verified Interlude 1 source record reused with a unique I2 identifier",
+      "verification_scope": "Bound conditions and separation from retention power.",
+      "limits": "No universal ongoing per-bit storage tariff claimed.",
+      "source_note": "Rolf Landauer, [“Irreversibility and Heat Generation in the Computing Process”](https://doi.org/10.1147/rd.53.0183), *IBM Journal of Research and Development* 5 (1961): 183–191; Charles H. Bennett, [“Notes on Landauer’s Principle, Reversible Computation, and Maxwell’s Demon”](https://arxiv.org/abs/physics/0210005), *Studies in History and Philosophy of Modern Physics* 34 (2003): 501–510. The usual $k_BT\\ln 2$ bound specifies an initially unknown, equally probable binary memory and a thermal reservoir. Known or correlated bits require the full entropy balance.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Underneath the hardware sits a physical bill, but we should read its line items. Landauer's bound concerns logically irreversible erasure: resetting an unknown, unbiased bit in the usual idealized thermal setting dissipates at least $k_BT\\ln 2$ of heat in the reversible limit.[^v1-i2-landauer] It is"
+    },
+    {
+      "note_id": "v1-i2-ims",
+      "access_date": "2026-10-23",
+      "evidence": "Institutional history full relevant sections read",
+      "verification_scope": "Apollo bill-of-materials origin, model and participants.",
+      "limits": "No claim that IMS was the only early DBMS.",
+      "source_note": "IBM, [“Information Management Systems”](https://www.ibm.com/history/information-management-system), especially “An urgent request to track parts.” Development involved IBM, North American Aviation/Rockwell and Caterpillar; the commercial announcement came in 1968. IMS combined hierarchical data management with transaction processing.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Databases formalized those opinions. A **database** is the organized collection; a **database management system**, or DBMS, is the software that stores it, answers queries and manages changes, permissions and concurrent users. The early systems often used hierarchies, filing cabinets nested inside f"
+    },
+    {
+      "note_id": "v1-i2-codd",
+      "access_date": "2026-10-23",
+      "evidence": "IBM original-paper abstract read; Oracle official history indexed",
+      "verification_scope": "Representation independence and commercialization.",
+      "limits": "Avoided disputed broad claim of first commercial relational DB; IBM corporate overview conflates 1977 founding with release.",
+      "source_note": "E. F. Codd, [“A Relational Model of Data for Large Shared Data Banks”](https://research.ibm.com/publications/a-relational-model-of-data-for-large-shared-data-banks), *Communications of the ACM* 13 (1970): 377–387. For SQL’s IBM origins and Oracle’s 1979 commercial implementation, see Oracle’s [“History of SQL”](https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/History-of-SQL.html). A relational model, the SQL language and a particular product are distinct.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Databases formalized those opinions. A **database** is the organized collection; a **database management system**, or DBMS, is the software that stores it, answers queries and manages changes, permissions and concurrent users. The early systems often used hierarchies, filing cabinets nested inside f"
+    },
+    {
+      "note_id": "v1-i2-dbms",
+      "access_date": "2026-10-23",
+      "evidence": "Official developer documentation, relevant pages read; Codd abstract for normal-form/redundancy motivation",
+      "verification_scope": "Keys, constraints, atomic changes, indexes; original example.",
+      "limits": "Not a product benchmark or guarantee against every configuration/hardware failure.",
+      "source_note": "PostgreSQL documentation, [“Foreign Keys”](https://www.postgresql.org/docs/18/tutorial-fk.html), [“Transactions”](https://www.postgresql.org/docs/18/tutorial-transactions.html), [“Indexes: Introduction”](https://www.postgresql.org/docs/18/indexes-intro.html), and [“Constraints”](https://www.postgresql.org/docs/18/ddl-constraints.html). The donor–sample–run example and figure are original teaching constructions. Declared integrity and successful transactions cannot establish the truth of the observations entered.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "A declared foreign-key constraint can reject a sample whose donor doesn't exist in the database. An **index** provides a shortcut to matching records, at the cost of storage and maintenance when records change. And a **transaction** groups changes so that, for example, registering a sample and recor"
+    },
+    {
+      "note_id": "v1-i2-nosql",
+      "access_date": "2026-10-23",
+      "evidence": "MongoDB official page read; Bigtable original abstract and paper model excerpt",
+      "verification_scope": "Model diversity and access patterns.",
+      "limits": "No universal claim that NoSQL chooses availability over consistency.",
+      "source_note": "MongoDB, [“Data Modeling”](https://www.mongodb.com/docs/manual/data-modeling/), for flexible documents and access-oriented schema design; Fay Chang et al., [“Bigtable: A Distributed Storage System for Structured Data”](https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/), *OSDI* (2006): 205–218, for a sparse, distributed wide-column model. NoSQL is an umbrella, not a promise of absent schema or weak consistency.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The tables aren't a cage that large data eventually outgrows. **NoSQL** gathers several alternative models useful for different questions. A **key–value** store retrieves a value directly by its key, useful for a session or cache. A **document** store groups fields and nested records, perhaps an exp"
+    },
+    {
+      "note_id": "v1-i2-graph",
+      "access_date": "2026-10-23",
+      "evidence": "Official developer documentation indexed text",
+      "verification_scope": "Nodes, edges, properties and traversal.",
+      "limits": "No universal superiority or speed claim.",
+      "source_note": "Neo4j, [“What is a graph database?”](https://neo4j.com/docs/getting-started/graph-database/) and [“Graph database concepts”](https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/). The passage uses a property-graph model: nodes and typed relationships can carry properties. The same facts can also be represented relationally.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "A **graph database** makes nodes, typed relationships and their properties directly queryable.[^v1-i2-graph] Our sample becomes a node joined to its donor and sequencing run. “Which donors' samples passed through this suspect run?” becomes a traversal along those edges. A relational database can ans"
+    },
+    {
+      "note_id": "v1-i2-cap",
+      "access_date": "2026-10-23",
+      "evidence": "Original paper definitions and theorem read in Stage 1",
+      "verification_scope": "Partition scope and definitions.",
+      "limits": "Not a general choose-two slogan or a classification of every database.",
+      "source_note": "Seth Gilbert and Nancy Lynch, [“Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services”](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf), *ACM SIGACT News* 33, no. 2 (2002): 51–59. In the theorem’s model, availability concerns every request to a non-failing node, and consistency means atomic/linearizable behavior. This is different from the integrity meaning of consistency in ACID.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "There is another choice once data lives on several machines. During a network partition, disconnected replicas cannot guarantee both that every request to a functioning replica receives a successful response and that every read behaves as though it came from one immediately up-to-date copy. This is "
+    },
+    {
+      "note_id": "v1-i2-dikw",
+      "access_date": "2026-10-23",
+      "evidence": "Two-page primary-author excerpt read; 1989 bibliographic metadata corroborated",
+      "verification_scope": "Five distinctions and their interpretive status.",
+      "limits": "Removed unsupported assertion that Ackoff drew a four-level pyramid.",
+      "source_note": "Russell L. Ackoff, “From Data to Wisdom,” *Journal of Applied Systems Analysis* 16 (1989): 3–9; see the [teaching excerpt from *Ackoff’s Best*](https://faculty.ung.edu/kmelton/Documents/DataWisdom.pdf) (Wiley, 1999), pp. 170–172. Ackoff includes understanding as a distinct level. The temperature example is the author’s illustration, not Ackoff’s definition or clinical advice.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "By now our poor bits are doing a lot of work, and it's tempting to promote them. We start talking about data, information, knowledge and sometimes even wisdom, as if we were running a spiritual retreat for spreadsheets. Russell Ackoff distinguished these levels, including understanding between knowl"
+    },
+    {
+      "note_id": "v1-i2-ml-history",
+      "access_date": "2026-10-23",
+      "evidence": "Original publication metadata/abstract checked in Stage 1",
+      "verification_scope": "1950s chronology.",
+      "limits": "No priority claim for the very first learning machine.",
+      "source_note": "Arthur L. Samuel, [“Some Studies in Machine Learning Using the Game of Checkers”](https://doi.org/10.1147/rd.33.0210), *IBM Journal of Research and Development* 3 (1959): 210–229. Machine learning predates the web-data boom; that boom enlarged its scale rather than initiating the field.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "You can't hand-write rules for every variation in a face or every way someone can phrase a sentence. Machine learning lets examples shape a model's behavior, an approach already being pursued in the 1950s.[^v1-i2-ml-history] The later abundance of data and computation greatly enlarged its reach. Mor"
+    },
+    {
+      "note_id": "v1-i2-tokens",
+      "access_date": "2026-10-23",
+      "evidence": "ACL original paper record and abstract",
+      "verification_scope": "Subword units, date, authors and pages.",
+      "limits": "No claim that every tokenizer uses BPE.",
+      "source_note": "Rico Sennrich, Barry Haddow and Alexandra Birch, [“Neural Machine Translation of Rare Words with Subword Units”](https://aclanthology.org/P16-1162/), *ACL* (2016): 1715–1725. This work adapts byte-pair encoding for subword translation. Tokenization varies by model and language; a fixed English words-per-token ratio is not a definition.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Text must first be represented. A **tokenizer** splits it into units, often words or word fragments, sometimes individual characters or bytes.[^v1-i2-tokens] Each token gets an identifier. The identifier is an address, not a quantity: token 200 isn't twice the meaning of token 100. A neural language"
+    },
+    {
+      "note_id": "v1-i2-evaluation",
+      "access_date": "2026-10-23",
+      "evidence": "Official implementation documentation, indexed passages and sections",
+      "verification_scope": "Train/test separation, preprocessing leakage, group-sensitive evaluation.",
+      "limits": "A clean split does not guarantee robustness to distribution change.",
+      "source_note": "scikit-learn, [“Common pitfalls and recommended practices”](https://scikit-learn.org/stable/common_pitfalls.html), especially data leakage, and [“Cross-validation: evaluating estimator performance”](https://scikit-learn.org/stable/modules/cross_validation.html), including grouped observations and time-dependent data. The appropriate split follows the intended generalization claim. The lab/donor example is original.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Before learning, separate training, validation and test data. Training adjusts the model. Validation helps choose its settings and when to stop. The test estimates performance on withheld examples after those choices are made. But three folders aren't enough. If samples from the same donor appear on"
+    },
+    {
+      "note_id": "v1-i2-deep-learning",
+      "access_date": "2026-10-23",
+      "evidence": "Original authors’ review abstract and figure descriptions read",
+      "verification_scope": "Multiple learned representations and backpropagation.",
+      "limits": "Subscription full text not read in this run; elementary linear-algebra statement checked independently.",
+      "source_note": "Yann LeCun, Yoshua Bengio and Geoffrey Hinton, [“Deep learning”](https://doi.org/10.1038/nature14539), *Nature* 521 (2015): 436–444, especially the opening account of representation learning and multilayer networks. Composing linear maps yields a linear map; nonlinear transformations are essential to the expressive gain described here.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Not all learned models are neural networks; some are trees or relatively simple equations. A neural network combines adjustable weights and biases with transformations called **activation functions**. A layer forms weighted combinations of its inputs, then transforms them. Nonlinear transformations "
+    },
+    {
+      "note_id": "v1-i2-backprop",
+      "access_date": "2026-10-23",
+      "evidence": "Original abstract and bibliographic record; loss calculations checked locally",
+      "verification_scope": "Sensitivity rather than causal blame; distinction from update rule.",
+      "limits": "No claim that this paper was the first discovery of reverse-mode differentiation.",
+      "source_note": "David E. Rumelhart, Geoffrey E. Hinton and Ronald J. Williams, [“Learning representations by back-propagating errors”](https://doi.org/10.1038/323533a0), *Nature* 323 (1986): 533–536. Backpropagation computes derivatives; an optimization rule uses them to change parameters. The natural-log loss example is an original calculation for an observed target with predicted probability $p$.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "**Backpropagation** applies the chain rule of calculus through the network, calculating how a small change in each parameter would change the loss.[^v1-i2-backprop] An optimizer uses these gradients to update the parameters; the **learning rate** controls the step size. In basic gradient descent the"
+    },
+    {
+      "note_id": "v1-i2-datascientist",
+      "access_date": "2026-10-23",
+      "evidence": "Publisher title/byline/issue metadata",
+      "verification_scope": "Only the title’s characterization is used.",
+      "limits": "Not credited with inventing the term data scientist.",
+      "source_note": "Thomas H. Davenport and D. J. Patil, [“Data Scientist: The Sexiest Job of the 21st Century”](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), *Harvard Business Review* (October 2012).",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "A model, in this light, can be compressed behavior: learned regularities that let it respond to situations we didn't explicitly program. Whether any particular model deserves the word *mind* requires more than its file size. The people who build and interrogate these systems acquired a now-familiar "
+    },
+    {
+      "note_id": "v1-i2-frozen",
+      "access_date": "2026-10-23",
+      "evidence": "Primary bibliographic record https://pubmed.ncbi.nlm.nih.gov/4887876/; paper text to be checked for exact quotation if later added; ScienceDirect original-paper indexed abstract on selective advantage and code fixation: https://www.sciencedirect.com/science/article/pii/0022283668903926",
+      "verification_scope": "Named hypothesis and narrow paraphrase; no quotation beyond conventional hypothesis name.",
+      "limits": "Full original paper not reread; interpretive support also checked in Koonin/Novozhilov Stage 1.",
+      "source_note": "F. H. C. Crick, [“The origin of the genetic code”](https://doi.org/10.1016/0022-2836(68)90392-6), *Journal of Molecular Biology* 38 (1968): 367–379. The frozen-accident account concerns historical fixation and the consequences of changing an established code; it is not a proof of arbitrary origin or permanent immutability.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Go back to the embryo's office job. The genetic code looks suspiciously well organized. Several codons specify the same amino acid, and some neighboring codons specify chemically similar ones, buffering certain errors. Francis Crick's “frozen accident” proposed that an early code became hard to chan"
+    },
+    {
+      "note_id": "v1-i2-freeland",
+      "access_date": "2026-10-23",
+      "evidence": "Primary abstract https://pubmed.ncbi.nlm.nih.gov/9732450/ and full supporting review, Stage 1",
+      "verification_scope": "Exceptional robustness within test; no absolute optimum.",
+      "limits": "Review is contextual interpretation; primary experiment carries comparison claim.",
+      "source_note": "Stephen J. Freeland and Laurence D. Hurst, [“The Genetic Code Is One in a Million”](https://doi.org/10.1007/PL00006381), *Journal of Molecular Evolution* 47 (1998): 238–248. The comparison is conditional on a randomized code ensemble and an error-cost model. For competing origin mechanisms and sensitivity to those assumptions, see Eugene V. Koonin and Artem S. Novozhilov, [“Origin and evolution of the genetic code: the universal enigma”](https://pmc.ncbi.nlm.nih.gov/articles/PMC3293468/), *IUBMB Life* 61 (2009): 99–111.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Stephen Freeland and Laurence Hurst found the standard code exceptionally resistant to errors among the randomized alternatives in their test.[^v1-i2-freeland] But which alternatives are allowed, how likely each error is and what counts as damage all affect the verdict. A mixture of historical const"
+    },
+    {
+      "note_id": "v1-i2-vonneumann",
+      "access_date": "2026-10-23",
+      "evidence": "Original 1951 paper relevant scanned passages inspected in Stage 1",
+      "verification_scope": "A/B/C and description roles; sufficiency boundary.",
+      "limits": "Avoided necessity theorem, infinite-regress universal claim and DNA directly translated into protein.",
+      "source_note": "John von Neumann, [“The General and Logical Theory of Automata”](https://www.cs.jhu.edu/~basu/Papers/VonNeumann1951.pdf), in L. A. Jeffress, ed., *Cerebral Mechanisms in Behavior* (Wiley, 1951): 1–41, self-reproduction discussion; later developed in *Theory of Self-Reproducing Automata*, edited by Arthur W. Burks (1966). The constructor/copier/controller account is a sufficient theoretical construction. Biological inheritance requires existing cellular machinery and is not identical to his model.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "Now the stranger part. In work developed in the late 1940s and published in 1951, John von Neumann described a route to machine self-reproduction. A constructor uses a description to build a machine; a copier duplicates the description; a controller arranges for the copy to accompany the new machine"
+    },
+    {
+      "note_id": "v1-i2-itfrombit",
+      "access_date": "2026-10-23",
+      "evidence": "Wheeler prior I1 verification; Zuse MIT translation title/metadata indexed, PhilPapers fetch 403 and nLab scan without extracted text; Bostrom original abstract/introduction read; Chalmers two-page primary excerpt read.",
+      "verification_scope": "Attributions of proposals, not empirical confirmation.",
+      "limits": "Zuse attribution is a bibliographic/established historical synopsis, not a newly inspected full argument; other inspected passages do not amount to full rereading of the works.",
+      "source_note": "Konrad Zuse, *Rechnender Raum* (1969; [English translation, *Calculating Space*](https://philpapers.org/archive/ZUSRR.pdf), MIT Technical Translation AZT-70-164-GEMIT, 1970); John Archibald Wheeler, [“Information, Physics, Quantum: The Search for Links”](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf) (1989), pp. 354–368 in the original proceedings; Nick Bostrom, [“Are You Living in a Computer Simulation?”](https://simulation-argument.com/simulation.pdf), *Philosophical Quarterly* 53 (2003): 243–255; David J. Chalmers, *Reality+: Virtual Worlds and the Problems of Philosophy* (2022), [author’s account of the reality question](https://rintintin.colorado.edu/~vancecd/phil150w/reality.pdf). These positions differ; the proposed world-within-data extension here is the author’s.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The looking-glass goes one step further. Konrad Zuse proposed a computational universe; John Wheeler explored “it from bit”; Nick Bostrom developed a simulation argument; David Chalmers argues that virtual objects can be real digital objects rather than mere illusions.[^v1-i2-itfrombit] These are di"
+    },
+    {
+      "note_id": "v1-i2-bekenstein",
+      "access_date": "2026-10-23",
+      "evidence": "Bousso abstract checked Stage 1; Bekenstein primary record",
+      "verification_scope": "Area clue and conditional extension.",
+      "limits": "1981 energy/radius paper replaced as misleading lone support for unconditional area assertion.",
+      "source_note": "Jacob D. Bekenstein, [“Black Holes and Entropy”](https://doi.org/10.1103/PhysRevD.7.2333), *Physical Review D* 7 (1973): 2333–2346; Raphael Bousso, [“The Holographic Principle”](https://arxiv.org/abs/hep-th/0203101), *Reviews of Modern Physics* 74 (2002): 825–874. Black-hole area entropy, Bekenstein’s later energy–radius bound and covariant entropy bounds are related but distinct. None establishes that an arbitrary spatial volume is literally a computer memory with a universally applicable surface-bit limit.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "The looking-glass goes one step further. Konrad Zuse proposed a computational universe; John Wheeler explored “it from bit”; Nick Bostrom developed a simulation argument; David Chalmers argues that virtual objects can be real digital objects rather than mere illusions.[^v1-i2-itfrombit] These are di"
+    },
+    {
+      "note_id": "v1-i2-world-model",
+      "access_date": "2026-10-23",
+      "evidence": "Primary abstract and publication record read",
+      "verification_scope": "Othello representation/intervention result.",
+      "limits": "Generalization to consciousness explicitly left conjectural.",
+      "source_note": "Kenneth Li et al., [“Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task”](https://arxiv.org/abs/2210.13382), *ICLR* (2023). In the Othello task, probes found board-state representations and interventions affected model output. This is evidence of task-relevant internal modeling, not of subjective experience or an inhabited world.",
+      "manuscript": "manuscripts/volume-1/02-interlude.md",
+      "claim_anchor": "I suspect something closer to home: data, arranged with enough useful relations and coupled to a process that learns from it, can become a world the process navigates from within. There is a small, concrete foothold. A model trained only on sequences of Othello moves acquired an internal representat"
+    },
+    {
+      "note_id": "v1-c2-transcription",
+      "access_date": "2026-10-23",
+      "evidence": "NHGRI relevant definitions read; Nissen primary abstract inspected; Nobel/Alberts indexed mechanism passages and Pan metadata; NCBI genetic-code standard and variant tables available and checked, with general count corroborated by NHGRI.",
+      "verification_scope": "Added gene-expression mechanism and original figure; existing Chapter 2 notes unchanged",
+      "limits": "NCBI textbook pages returned a challenge and Nobel PDF returned 403. Indexed passages plus accessible primary/official accounts used; no full-book rereading claimed.",
+      "source_note": "Bruce Alberts et al., [*Molecular Biology of the Cell*, “From DNA to RNA”](https://www.ncbi.nlm.nih.gov/books/NBK26887/) (4th ed., 2002), RNA-polymerase and transcription discussion; NHGRI, [“Transcription”](https://www.genome.gov/genetics-glossary/Transcription). Template and coding strands are defined relative to the gene being transcribed; RNA grows 5′ to 3′.",
+      "manuscript": "manuscripts/volume-1/02-chapter.md",
+      "claim_anchor": "Consider what “read a gene” actually costs the cell. Its DNA strands run in opposite chemical directions, labeled 5′ and 3′. For a particular gene, one strand serves as the template. RNA polymerase, recruited with the help of other proteins at a promoter, travels along that template and builds a com"
+    },
+    {
+      "note_id": "v1-c2-rna-processing",
+      "access_date": "2026-10-23",
+      "evidence": "NHGRI relevant definitions read; Nissen primary abstract inspected; Nobel/Alberts indexed mechanism passages and Pan metadata; NCBI genetic-code standard and variant tables available and checked, with general count corroborated by NHGRI.",
+      "verification_scope": "Added gene-expression mechanism and original figure; existing Chapter 2 notes unchanged",
+      "limits": "NCBI textbook pages returned a challenge and Nobel PDF returned 403. Indexed passages plus accessible primary/official accounts used; no full-book rereading claimed.",
+      "source_note": "Philip A. Sharp, [“Split Genes and RNA Splicing”](https://www.nobelprize.org/uploads/2018/06/sharp-lecture.pdf), Nobel lecture (1993); Qun Pan et al., [“Deep surveying of alternative splicing complexity in the human transcriptome by high-throughput sequencing”](https://doi.org/10.1038/ng.259), *Nature Genetics* 40 (2008): 1413–1415; Alberts et al., “From DNA to RNA,” above, RNA-processing sections. Exons are retained in mature RNA and may contain untranslated regions; most human protein-coding messages receive a cap and poly-A tail, with exceptions.",
+      "manuscript": "manuscripts/volume-1/02-chapter.md",
+      "claim_anchor": "In a human protein-coding gene, that first RNA is usually unfinished business. A molecular assembly called the spliceosome removes introns and joins the retained exons. A protective cap is added at one end, and most such messages acquire a poly-A tail at the other; these features help with stability"
+    },
+    {
+      "note_id": "v1-c2-ribosome",
+      "access_date": "2026-10-23",
+      "evidence": "NHGRI relevant definitions read; Nissen primary abstract inspected; Nobel/Alberts indexed mechanism passages and Pan metadata; NCBI genetic-code standard and variant tables available and checked, with general count corroborated by NHGRI.",
+      "verification_scope": "Added gene-expression mechanism and original figure; existing Chapter 2 notes unchanged",
+      "limits": "NCBI textbook pages returned a challenge and Nobel PDF returned 403. Indexed passages plus accessible primary/official accounts used; no full-book rereading claimed.",
+      "source_note": "Poul Nissen et al., [“The Structural Basis of Ribosome Activity in Peptide Bond Synthesis”](https://doi.org/10.1126/science.289.5481.920), *Science* 289 (2000): 920–930; Royal Swedish Academy of Sciences, [“Structure and function of the ribosome”](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2009.pdf) (2009); NHGRI, [“Transfer RNA”](https://www.genome.gov/genetics-glossary/Transfer-RNA-tRNA). Ribosomal RNA forms the catalytic core; aminoacyl-tRNA synthetases attach amino acids to their corresponding tRNAs.",
+      "manuscript": "manuscripts/volume-1/02-chapter.md",
+      "claim_anchor": "Once a mature messenger RNA reaches the cytoplasm, a ribosome can translate its coding sequence into a chain of amino acids. The ribosome is itself an assembly of RNA and proteins, with ribosomal RNA at the catalytic heart of peptide-bond formation. Transfer RNAs, or tRNAs, supply the adapters: each"
+    },
+    {
+      "note_id": "v1-c2-codon-reading",
+      "access_date": "2026-10-23",
+      "evidence": "NHGRI relevant definitions read; Nissen primary abstract inspected; Nobel/Alberts indexed mechanism passages and Pan metadata; NCBI genetic-code standard and variant tables available and checked, with general count corroborated by NHGRI.",
+      "verification_scope": "Added gene-expression mechanism and original figure; existing Chapter 2 notes unchanged",
+      "limits": "NCBI textbook pages returned a challenge and Nobel PDF returned 403. Indexed passages plus accessible primary/official accounts used; no full-book rereading claimed.",
+      "source_note": "NHGRI, [“Codon”](https://www.genome.gov/genetics-glossary/Codon), and NCBI, [“The Genetic Codes”](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi), standard code. Alberts et al., [“From RNA to Protein”](https://www.ncbi.nlm.nih.gov/books/NBK26829/), treats initiation, elongation, release and protein folding. The figure’s AUG–CCU–GAA–UAA sequence is an original teaching fragment, not an actual gene or functional protein. RNA processing and untranslated regions are schematized.",
+      "manuscript": "manuscripts/volume-1/02-chapter.md",
+      "claim_anchor": "The message is read in three-letter units. In the standard code, sixty-one codons specify the twenty usual amino acids; three signal termination. AUG usually establishes the start and reading frame while supplying methionine. An AUG encountered later simply supplies another methionine. At a stop cod"
+    },
+    {
+      "note_id": "v1-c2-gene-regulation",
+      "access_date": "2026-10-23",
+      "evidence": "NHGRI relevant definitions read; Nissen primary abstract inspected; Nobel/Alberts indexed mechanism passages and Pan metadata; NCBI genetic-code standard and variant tables available and checked, with general count corroborated by NHGRI.",
+      "verification_scope": "Added gene-expression mechanism and original figure; existing Chapter 2 notes unchanged",
+      "limits": "NCBI textbook pages returned a challenge and Nobel PDF returned 403. Indexed passages plus accessible primary/official accounts used; no full-book rereading claimed.",
+      "source_note": "NHGRI, [“Gene Regulation”](https://www.genome.gov/genetics-glossary/Gene-Regulation); Alberts et al., *Molecular Biology of the Cell* (4th ed., 2002), gene-expression control and RNA-processing discussions. The cell-type contrast concerns differential use of a largely shared genome, not a claim that every cell retains an identical genome.",
+      "manuscript": "manuscripts/volume-1/02-chapter.md",
+      "claim_anchor": "This gives regulation its force. Two cells can carry largely the same genome and make very different things because different genes are accessible, different regulators are present, and their signals and histories differ. Transcription, splicing, translation and the lifetimes of RNAs and proteins al"
+    }
+  ],
+  "retired_incoming_note_ids": {
+    "v1-i2-zettabytes": "Removed volatile unspecific annual-volume estimate; no need for this statistic."
+  },
+  "source_use": "Primary records/documentation where available; classic authored textbook and explanatory review support identified separately. Access limitations are not concealed."
+}

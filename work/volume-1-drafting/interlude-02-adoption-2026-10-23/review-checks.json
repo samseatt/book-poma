@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-23",
+  "chapter2_scope_check": "Removing the new marked insertion and five new source notes recovers the prior canonical chapter exactly, ignoring trailing whitespace. All 40 prior note definitions unchanged.",
+  "annotations_preserved_verbatim": true,
+  "publisher_transform_read_only": [
+    {
+      "unit_id": "v1-2-chapter",
+      "recognized": true,
+      "annotation_omissions_in_memory": 0,
+      "source_unchanged": true,
+      "output_written": false
+    },
+    {
+      "unit_id": "v1-2-interlude",
+      "recognized": true,
+      "annotation_omissions_in_memory": 1,
+      "source_unchanged": true,
+      "output_written": false
+    }
+  ],
+  "untouched_user_changes": {
+    ".gitignore": true,
+    "manuscripts/volume-1/01-interlude.md": true
+  },
+  "incoming_source_unchanged": true,
+  "worked_examples": {
+    "run_length_exact_recovery": true,
+    "lossy_tally_loses_order": true,
+    "loss_values_natural_log": [
+      0.22,
+      1.61
+    ],
+    "q30_error_probability": 0.001,
+    "codons": "AUG Met, CCU Pro, GAA Glu, UAA stop; standard code"
+  },
+  "body_word_counts": {
+    "incoming_i2": 5513,
+    "canonical_i2_after": 6065,
+    "canonical_c2_before": 7271,
+    "canonical_c2_after": 7907
+  },
+  "figure_QA": "Both original grayscale SVGs rendered through sharp to PNG and visually inspected; corrected export-label spacing and tRNA-arrow endpoint. No clipped or overlapping labels in final previews.",
+  "source_audit": "40 I2 notes and five added C2 notes each have source/claim anchors and access-depth records. Existing C2 notes refer to prior dossier.",
+  "limits": [
+    "No publication or full-book render.",
+    "No claim of complete rereading of every classic primary source.",
+    "Author conjectures remain open.",
+    "No fresh factual certification of Interludes 3–6."
+  ]
+}

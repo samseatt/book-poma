@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="727.273" viewBox="0 0 1000 727.273" font-family="Arial, Helvetica, sans-serif"><title>data models</title><desc>Original POMA teaching illustration. See manuscript caption and source notes for scope.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="black"/></marker></defs><rect width="100%" height="100%" fill="white"/><text x="500" y="36.36363636363637" font-size="23.148148148148145" font-weight="bold" text-anchor="middle" dominant-baseline="central">ONE LAB RECORD, TWO REPRESENTATIONS</text>
+<text x="500" y="94.54545454545456" font-size="21.04377104377104" font-weight="bold" text-anchor="middle" dominant-baseline="central">RELATIONAL TABLES</text>
+<text x="130.0" y="152.72727272727275" font-size="21.04377104377104" font-weight="bold" text-anchor="middle" dominant-baseline="central">Donor</text>
+<rect x="20" y="181.81818181818184" width="220" height="101.81818181818184" fill="white" stroke="black" stroke-width="2.1043771043771042"/>
+<rect x="20" y="181.81818181818184" width="220" height="50.90909090909092" fill="#ededed" stroke="black" stroke-width="1.473063973063973"/>
+<text x="130.0" y="207.2727272727273" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">donor_id</text>
+<text x="130.0" y="258.1818181818182" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">D4</text>
+<text x="540.0" y="152.72727272727275" font-size="21.04377104377104" font-weight="bold" text-anchor="middle" dominant-baseline="central">Sample</text>
+<rect x="310" y="181.81818181818184" width="460" height="101.81818181818184" fill="white" stroke="black" stroke-width="2.1043771043771042"/>
+<rect x="310" y="181.81818181818184" width="460" height="50.90909090909092" fill="#ededed" stroke="black" stroke-width="1.473063973063973"/>
+<text x="386.66666666666663" y="207.2727272727273" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">sample_id</text>
+<text x="386.66666666666663" y="258.1818181818182" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">S17</text>
+<polyline points="463.33333333333337,283.6363636363637 463.33333333333337,181.81818181818184" fill="none" stroke="black" stroke-width="1.2626262626262625"/>
+<text x="540.0" y="207.2727272727273" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">donor_id</text>
+<text x="540.0" y="258.1818181818182" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">D4</text>
+<polyline points="616.6666666666667,283.6363636363637 616.6666666666667,181.81818181818184" fill="none" stroke="black" stroke-width="1.2626262626262625"/>
+<text x="693.3333333333335" y="207.2727272727273" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">run_id</text>
+<text x="693.3333333333335" y="258.1818181818182" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">R2</text>
+<text x="910.0" y="152.72727272727275" font-size="21.04377104377104" font-weight="bold" text-anchor="middle" dominant-baseline="central">Run</text>
+<rect x="840" y="181.81818181818184" width="140" height="101.81818181818184" fill="white" stroke="black" stroke-width="2.1043771043771042"/>
+<rect x="840" y="181.81818181818184" width="140" height="50.90909090909092" fill="#ededed" stroke="black" stroke-width="1.473063973063973"/>
+<text x="910.0" y="207.2727272727273" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">run_id</text>
+<text x="910.0" y="258.1818181818182" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">R2</text>
+<polyline points="540,283.6363636363637 540,327.2727272727273 130,327.2727272727273 130,283.6363636363637" fill="none" stroke="black" stroke-width="2.1043771043771042"/>
+<polyline points="693.0,283.6363636363637 693.0,356.3636363636364 910,356.3636363636364 910,283.6363636363637" fill="none" stroke="black" stroke-width="2.1043771043771042"/>
+<text x="500" y="400.00000000000006" font-size="18.939393939393938" font-weight="normal" text-anchor="middle" dominant-baseline="central">Keys retain identity and link the records.</text>
+<polyline points="20,443.6363636363637 980,443.6363636363637" fill="none" stroke="black" stroke-width="1.473063973063973"/>
+<text x="500" y="480.00000000000006" font-size="21.04377104377104" font-weight="bold" text-anchor="middle" dominant-baseline="central">PROPERTY GRAPH</text>
+<rect x="20" y="523.6363636363636" width="220" height="87.27272727272728" fill="#ededed" stroke="black" stroke-width="2.1043771043771042"/>
+<text x="130.0" y="554.1203703703704" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">Donor</text>
+<text x="130.0" y="580.4250841750843" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">D4</text>
+<rect x="390" y="523.6363636363636" width="220" height="87.27272727272728" fill="#ededed" stroke="black" stroke-width="2.1043771043771042"/>
+<text x="500.0" y="554.1203703703704" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">Sample</text>
+<text x="500.0" y="580.4250841750843" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">S17</text>
+<rect x="760" y="523.6363636363636" width="220" height="87.27272727272728" fill="#ededed" stroke="black" stroke-width="2.1043771043771042"/>
+<text x="870.0" y="554.1203703703704" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">Run</text>
+<text x="870.0" y="580.4250841750843" font-size="21.04377104377104" font-weight="normal" text-anchor="middle" dominant-baseline="central">R2</text>
+<line x1="240" y1="567.2727272727274" x2="390" y2="567.2727272727274" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="315.0" y="516.3636363636364" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">donated</text>
+<line x1="610" y1="567.2727272727274" x2="760" y2="567.2727272727274" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="685.0" y="516.3636363636364" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">sequenced in</text>
+<text x="500" y="669.0909090909091" font-size="18.939393939393938" font-weight="normal" text-anchor="middle" dominant-baseline="central">Same facts; joins or traversals can recover the path.</text>
+<text x="500" y="709.0909090909091" font-size="17.887205387205388" font-weight="normal" text-anchor="middle" dominant-baseline="central">Simplified example: one run recorded per sample.</text></svg>
