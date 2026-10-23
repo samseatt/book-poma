@@ -292,3 +292,12 @@ The current style guide is `work/sam/The Path of Many Arrows Style Guide.md`, re
 Incoming replacements now follow two stages: present consequential choices and wait for the author, then adopt with approved recoveries, source alignment, seam/format checks, focused notes and a scoped commit. Follow `work/journal/README.md` and book B-017. Routine completion repairs do not require repeated permission; new changes to meaning, memoir facts, puns or major temporal connections return to the decision stage. Preserve AI comments and mark new AI-drafted passages.
 
 Temporal coincidences are structural. Retain their force at the strongest supported precision; distinguish observations from later announcements/publications. A chronological repair should preserve the valid confluence. Chapter 1's four recovery functions are now present; see V1-012 and its follow-up audit. Why the universe flows is held for Interlude 12.
+
+
+## Interlude 1 adoption and temporal architecture — 23 October 2026
+
+The Stage 2 adoption is complete at `manuscripts/volume-1/01-interlude.md`; evidence and remaining choices are in `work/volume-1-drafting/interlude-01-adoption-2026-10-23/`. Use the current author guide in `work/claude/` and read-only incoming revisions in `/Users/samseatt/projects/book_poma/sam/claude/`; earlier paths in dated entries are historical.
+
+The first pair's parents-to-physics openings are authorized exceptions to the later life-move calendar scaffold. Do not force a stellar scene, shift the interlude to conception, or insert a 1964 MOS anchor. Later memoir can return in technical sections. From pair 2 onward, public/personal coincidences need the strongest supported date precision. Volume II selects scenes by pathology rather than time; Volume III uses future states and historical cutoffs for provisional design foresight. Full direction is in journal B-018.
+
+The incoming prose is the substantive master. Make small evidence-based repairs and preserve working humor, texture and uncertainty. Stage 1 is read-only unless the author requests notes saved; record settled choices during Stage 2. For this interlude the cosmic reprise is reserved verbatim for the author, informational gravity remains conjectural, and the separate closing proposal is not adopted. See V1-013. This completion is a source/reference integration milestone, not a final literary or publication pass.

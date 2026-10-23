@@ -164,3 +164,14 @@ Added compact **Constants and Tightropes** paragraphs after **The Cheap Engine**
 The Hiss now opens “In the year I was conceived…” and returns with “That same year…”. The explicit temporal joint is observations beginning in 1964 and conception in 1964. It does not move the reported July observation start into spring or the 1965 publication into 1964. The former “Around the beginning of my own life” was unnecessarily muted. The CP-violation connection and the mother's later laboratory work remain intact.
 
 New AI-drafted prose is marked with HTML comments. The other three restorations were retained. The time/flow question remains for consideration in Interlude 12. No neighboring manuscript, incoming draft or author annotation was changed. Updated the active source hash and repeated note/render checks. This completes the four approved functions, not the final literary pass.
+
+
+## V1-013 — Interlude 1 incoming revision adopted
+
+**Addressed, 23 October 2026.** Adopted the author-approved incoming `sam/claude/interlude-1.md` as the substantive master at `manuscripts/volume-1/01-interlude.md`, retaining canonical identity, header, subtitle, domain and images. [Adoption notes](../volume-1-drafting/interlude-01-adoption-2026-10-23/ADOPTION_NOTES.md) distinguish completed repairs from author-reserved work; input hashes, sources and mechanical checks are beside them.
+
+Recovered the four-bond/dopant explanation and compact compositionality, added noise margins to the no-partial-credit lesson, and repaired the local semiconductor/memory/fabrication claims. Kept the family opening, Madison/Tiedemann episode, jokes, Alex/aluminum beat and conception handoff. No stellar opening or 1964 MOS milestone was imposed. Body length stays close to the incoming revision; the source notes are fuller.
+
+Informational gravity remains an ambitious author conjecture, with retention, growth and replication distinguished and Landauer's actual scope stated. The cosmic/monkey/Boltzmann-brain paragraph remains verbatim for the author's manual revision; it has not been scientifically certified. The closing sequence remains in place with local factual repairs. A [separate closing consolidation](../volume-1-drafting/interlude-01-adoption-2026-10-23/CLOSING_PROPOSAL.md) is available for literary judgment and has **not** been adopted.
+
+All 13 incoming note identities remain, with eight new notes and bounded evidence records. Some historical papers were checked through metadata and accessible supporting sources, not read in full. Private memoir remains author evidence. No neighboring manuscript, incoming draft or publishing configuration was changed; publication requires its own request. Current author context under `work/claude/` remains outside this editorial commit.

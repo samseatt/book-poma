@@ -30,11 +30,11 @@ The shared journal is the durable record; direct task messages can point to it w
 
 ## Adopting an incoming chapter or interlude — two stages
 
-Author-approved process, 23 October 2026. Applies to Claude-assisted and other author-supplied replacement drafts. Comparison alone does not authorize replacing canonical text. The old `book_poma` tree remains read-only.
+Author-approved process, 23 October 2026. Applies to Claude-assisted and other author-supplied replacement drafts. Comparison alone does not authorize replacing canonical text. Stage 1 is read-only: present the decision packet in chat, and do not edit or stage manuscript, journal or workflow files unless the author separately asks for a written record. Stage 2 records the settled decisions. The old `book_poma` tree remains read-only.
 
 ### Stage 1: compare and bring decisions to the author
 
-Read the latest canonical unit, incoming draft, journal and author context in `work/sam/`, especially the updated style guide. Capture source paths, hashes and the repository revision. Compare the actual files, not an earlier session's recollection.
+Read the latest canonical unit, incoming draft, journal and author context in `work/claude/`, especially the updated style guide. Capture source paths, hashes and the repository revision. Compare the actual files, not an earlier session's recollection.
 
 Present a short decision list with locations and a recommendation for each consequential choice:
 
@@ -42,7 +42,7 @@ Present a short decision list with locations and a recommendation for each conse
 - Substantive cuts or relocations: repetition, unnecessary diary/clerical/private detail, or an interruption that costs more than it gives. Personal detail earns its place through story, humor, thought or later payoff.
 - Strong missing ideas, separated from optional enrichment. Completeness does not require a survey of everything.
 - Factual uncertainty, unsupported memoir detail, a changed temporal coincidence, and repairs that materially change meaning. Check public facts; ask the author about private recollections.
-- Voice, puns and intentional ambiguity that a tidy edit might erase. Preserve working sentences and protect the intellectual wager while distinguishing it from established findings.
+- Voice, puns and intentional ambiguity that a tidy edit might erase. Preserve working sentences and protect the intellectual wager while distinguishing it from established findings. Ask what the passage accomplishes through meaning, rhythm, humor and roughness, then make the smallest repair that solves the actual problem. Substantial literary consolidation should be offered separately when the author reserves that judgment.
 
 Report if no consequential decisions are needed. Pause for the author's choices before adoption unless already approved in the current instruction. Record approved, declined, modified and deferred items. Do not ask again about decisions already made.
 

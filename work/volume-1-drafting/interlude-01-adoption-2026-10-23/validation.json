@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-23",
+  "canonical_sha256": "17bbd8e838f25de4b0b60586f6ad24c3a541feb77abc8f3c121f38ce5b42cc06",
+  "structural_checker": {
+    "command": "python3 work/editorial-tools/check_manuscript.py manuscripts/volume-1/01-interlude.md --pandoc /Applications/quarto/bin/tools/pandoc",
+    "defined_notes": 21,
+    "note_references": 21,
+    "parsed_notes": 21,
+    "html_note_backlinks": 21,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "additional_checks": {
+    "canonical_header_image_subtitle_domain_preserved": true,
+    "incoming_file_unchanged": true,
+    "original_incoming_note_ids_retained": [
+      "v1-i1-bardeen",
+      "v1-i1-bloch",
+      "v1-i1-dram",
+      "v1-i1-flipflop",
+      "v1-i1-ic",
+      "v1-i1-landauer",
+      "v1-i1-mbe",
+      "v1-i1-monkey",
+      "v1-i1-mosfet",
+      "v1-i1-ohl",
+      "v1-i1-transistor",
+      "v1-i1-wheeler",
+      "v1-i1-wilson"
+    ],
+    "added_note_ids": [
+      "v1-i1-cmos",
+      "v1-i1-diode",
+      "v1-i1-doping",
+      "v1-i1-fabrication",
+      "v1-i1-junction",
+      "v1-i1-material",
+      "v1-i1-noise",
+      "v1-i1-pattern-mechanisms"
+    ],
+    "cosmic_reprise_exact": true,
+    "selected_memoir_paragraphs_exact": true,
+    "maggie_alex_exchange_exact": true,
+    "only_scoped_tracked_manuscript_changed": [
+      "manuscripts/volume-1/01-interlude.md"
+    ],
+    "other_tracked_manuscript_files_unchanged": 294,
+    "inline_math_nodes": [
+      [
+        {
+          "t": "InlineMath"
+        },
+        "I=I_S\\left(e^{qV/(k_BT)}-1\\right)"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "I"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "I_S"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "V"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "q"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "T"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "k_B"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "T"
+      ],
+      [
+        {
+          "t": "InlineMath"
+        },
+        "Q\\geq k_BT\\ln 2"
+      ]
+    ],
+    "mathml_html_notes_rendered": true,
+    "unresolved_author_annotations": 0
+  },
+  "word_counts_without_comments_or_source_notes": {
+    "incoming": 4507,
+    "adopted": 4723
+  },
+  "limitations": [
+    "No publishing pipeline or live deployment run",
+    "No full visual typography review",
+    "Cosmic reprise reserved for author; conjecture not fact-certified",
+    "Source inspection scopes are in reference-audit.json"
+  ]
+}
