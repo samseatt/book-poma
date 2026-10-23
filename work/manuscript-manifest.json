@@ -300,7 +300,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-chapter.md",
-        "sha256": "5af32346468c89e41dbdd290fd634baed4df8ab83bb292eb79928d0b1248207e"
+        "sha256": "9496d1956c285a09964f8707a8a4e82f6b1d582dfd72ad870850b1e30a558d31"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 0-phi-c The Archer's Compass - The Unprovable Beginning.docx",
       "source_sha256_at_inventory": "faa400b9cc7cab47767546be32403cf6489f1fafbdf72154584182bdbe967755",
@@ -677,7 +677,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-interlude.md",
-        "sha256": "5f1776adee465f03397bd61bb1846983913389a3309e0e8976b066e8bd42fb9c"
+        "sha256": "2931834d12a2ae5b3b2ad253de34bc257cece82fc6a1d292f00858ec137be18a"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 2i - Data Fundamentals — The Language of Reality.docx",
       "source_sha256_at_inventory": "9dd6792146381cc440949a1030b28259086c73b63d8a463721ea0714ebfc2356",
@@ -851,7 +851,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md",
-        "sha256": "639b18928fa2182d9e88d70b37c0f025f0340a9d68978a049e77e3cc83632e50"
+        "sha256": "374ceb8aef90651fe2519b11afc21258fe31f93b99018a3002a3fdb18ef19296"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 4i - Soft Logic — The Art of Software.docx",
       "source_sha256_at_inventory": "35170878dae6592b508d68e3a3810282dd43d3253ffc977e41e87677135e1e03",
@@ -938,7 +938,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-interlude.md",
-        "sha256": "994adcd219fe675c825773224781ebde97b28325247e157e817c7772ef93907a"
+        "sha256": "cbd6332a20be3b0ace16fd4265184cccddd8d43cbeac3e2bf79f73e10d1e2d7d"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 5i - Connected Currents — Computer Networks and Distributed Compuring.docx",
       "source_sha256_at_inventory": "4c453fd3acd71bd64502099ff14a726b5db166e64ca55a36fe86f5a173c52bfa",

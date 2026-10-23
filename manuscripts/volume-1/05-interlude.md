@@ -329,7 +329,7 @@ Before we can understand how we design modern computing systems to coordinate ma
 
 This next chapter asks: **What does it mean to build a system strong enough to protect us, yet flexible enough to adapt when the ground itself shakes beneath our feet?**
 
-![](../assets/shared/separator.png)
+---
 
 > ***Maggie:** We've both gone social now, haven't we?*
 >

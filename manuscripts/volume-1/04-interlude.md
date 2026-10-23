@@ -16,7 +16,7 @@ That same year, in some fluorescent corner of Bell Labs, *Bjarne Stroustrup* rel
 
 For most people, these were "industry developments." For me, they were trumpets announcing my next professional reincarnation: the age of *software*, the psyche of the machine, the invisible supervisor that would one day outrank gods, parents, and academic advisors.
 
-After transferring to Madison and surviving Art Tiedemann's analog zap, I did what any ten-year old engineer would do, stick your tongue on a 12-volt battery. Against the advice of my undergrad peers I marched into Professor Kime's digital engineering lab: a room of five people, mostly terrifyingly smart grad students, and one defiant undergrad who still believed sleep was optional.
+After transferring to Madison and surviving Art Tiedemann's analog zap, I did what any ten-year old engineer would do, stick your tongue on a 12-volt battery. Against the advice of my undergrad peers I marched into Professor Kime's digital engineering lab: a room of five people, mostly terrifyingly smart grad students, one undergraduate with one of those faces that are stamped with the word genius, and this defiant undergrad who still believed sleep was optional.
 
 ### Will It Float?
 
