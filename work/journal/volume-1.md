@@ -186,3 +186,11 @@ All 13 incoming note identities remain, with eight new notes and bounded evidenc
 **Author's closing choice:** the author approves the separate shorter ending's literary quality and will merge it manually. Leave both canonical closing and proposal unchanged until that happens or further instructions arrive. The approval does not authorize automatic application in this workflow-update task.
 
 The recurring reader-value check is recorded in B-019 and the journal workflow. No manuscript changed in this assessment.
+
+## V1-015 — Interlude 1: NOT example, original figure and approved ending
+
+**Addressed, 23 October 2026.** The author's latest instruction supersedes V1-014's manual-merge plan. [Interlude 1](../../manuscripts/volume-1/01-interlude.md) now includes a worked CMOS NOT gate and an original black-and-white figure before the memory explanation, together with the exact shorter closing previously approved. Small grammatical/acronym/transition fixes complete the pass; the visible header is unchanged and its invisible provenance comment now respects the publisher's header parser.
+
+The family opening, Tiedemann/Madison narrative, Bob, cosmic reprise and Maggie/Alex exchange remain unchanged. The Bob inquiry remains open, and the cosmic paragraph stays reserved for the author rather than receiving scientific clearance. New physical exposition is sourced to the inspected MIT 6.004 inverter explanation. All 22 note links/returns, assets, manuscript hash and header transformation pass checks. Main text is slightly shorter despite the addition.
+
+See [finishing notes](../volume-1-drafting/interlude-01-finish-2026-10-23/FINISH_NOTES.md) for reader outcomes and limitations, with source evidence and validation alongside. The incoming draft and earlier closing proposal remain unchanged as provenance. Other manuscripts, author `.gitignore` work and publishing infrastructure are outside this edit. No publication was initiated.

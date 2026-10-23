@@ -1,0 +1,35 @@
+{
+  "manuscript_checker": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md",
+    "sha256": "62078ff19982d012a1c4437c3fb9af2eec08bdb2b71e494329bf54acfc196d1d",
+    "defined_notes": 22,
+    "note_references": 22,
+    "parsed_notes": 22,
+    "html_note_backlinks": 22,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "focused_checks": {
+    "only_existing_manuscript_changed": [
+      "manuscripts/volume-1/01-interlude.md"
+    ],
+    "incoming_closing_proposal_and_author_gitignore_unchanged": true,
+    "publisher_header_transformation_passed": true,
+    "figure_asset_in_existing_publisher_copy_tree": true,
+    "figure_width_and_accessibility_attributes_parsed": true,
+    "preserved_previous_note_ids": 21,
+    "new_note_id": "v1-i1-inverter",
+    "canonical_has_author_annotations": false,
+    "publication_run": false
+  },
+  "visual_review": {
+    "file": "manuscripts/volume-1/assets/01-interlude/cmos-not-gate.png",
+    "format": "grayscale PNG, 3000 x 1775 pixels, 600 DPI metadata",
+    "inspected": "900 x 533 preview",
+    "result": "Labels legible; two paths and open/closed switch states correct; no clipping or color-dependent distinctions. Simplification is stated in caption and source note.",
+    "limits": "Local figure and manuscript HTML/AST checks; no full published-edition render or deployment."
+  }
+}

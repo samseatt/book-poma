@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="355" viewBox="0 0 600 355" role="img" aria-labelledby="title desc">
+<title id="title">A CMOS NOT gate in its two settled states</title>
+<desc id="desc">Left: input zero turns the upper pMOS switch on and lower nMOS switch off; the output connects to the positive supply and becomes one. Right: input one reverses the switches; the output connects to ground and becomes zero. Each input controls both switches. This is a simplified switch model, not a physical layout.</desc>
+<rect width="600" height="355" fill="white"/>
+<text x="150" y="22" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" dominant-baseline="central">INPUT 0 (LOW)</text>
+<text x="100" y="60" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" dominant-baseline="central">+ supply</text>
+<path d="M76 80 L124 80" fill="none" stroke="rgb(0,0,0)" stroke-width="2" stroke-linecap="round"/>
+<path d="M100 80 L100 120" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<path d="M100 155 L100 120" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<circle cx="100" cy="120" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<circle cx="100" cy="155" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<path d="M100 155 L100 195" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<text x="147" y="126" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="start" dominant-baseline="central">pMOS</text>
+<text x="147" y="148" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start" dominant-baseline="central">ON</text>
+<circle cx="100" cy="195" r="3.5" fill="black" stroke="black" stroke-width="1.2"/>
+<path d="M100 195 L195 195" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<text x="203" y="186" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" text-anchor="start" dominant-baseline="central">OUT</text>
+<text x="203" y="208" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="start" dominant-baseline="central">1</text>
+<path d="M100 195 L100 235" fill="none" stroke="rgb(0,0,0)" stroke-width="1.4" stroke-linecap="round"/>
+<path d="M100 270 L122 241" fill="none" stroke="rgb(0,0,0)" stroke-width="1.4" stroke-linecap="round"/>
+<circle cx="100" cy="235" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<circle cx="100" cy="270" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<text x="147" y="241" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="start" dominant-baseline="central">nMOS</text>
+<text x="147" y="263" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start" dominant-baseline="central">OFF</text>
+<path d="M100 270 L100 305" fill="none" stroke="rgb(0,0,0)" stroke-width="1.4" stroke-linecap="round"/>
+<path d="M89.0 305 L111.0 305" fill="none" stroke="rgb(0,0,0)" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M93.0 312 L107.0 312" fill="none" stroke="rgb(0,0,0)" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M97.0 319 L103.0 319" fill="none" stroke="rgb(0,0,0)" stroke-width="1.6" stroke-linecap="round"/>
+<text x="100" y="340" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" dominant-baseline="central">ground (0 V)</text>
+<text x="450" y="22" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" dominant-baseline="central">INPUT 1 (HIGH)</text>
+<text x="400" y="60" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" dominant-baseline="central">+ supply</text>
+<path d="M376 80 L424 80" fill="none" stroke="rgb(0,0,0)" stroke-width="2" stroke-linecap="round"/>
+<path d="M400 80 L400 120" fill="none" stroke="rgb(0,0,0)" stroke-width="1.4" stroke-linecap="round"/>
+<path d="M400 155 L422 126" fill="none" stroke="rgb(0,0,0)" stroke-width="1.4" stroke-linecap="round"/>
+<circle cx="400" cy="120" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<circle cx="400" cy="155" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<path d="M400 155 L400 195" fill="none" stroke="rgb(0,0,0)" stroke-width="1.4" stroke-linecap="round"/>
+<text x="447" y="126" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="start" dominant-baseline="central">pMOS</text>
+<text x="447" y="148" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start" dominant-baseline="central">OFF</text>
+<circle cx="400" cy="195" r="3.5" fill="black" stroke="black" stroke-width="1.2"/>
+<path d="M400 195 L495 195" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<text x="503" y="186" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" text-anchor="start" dominant-baseline="central">OUT</text>
+<text x="503" y="208" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="start" dominant-baseline="central">0</text>
+<path d="M400 195 L400 235" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<path d="M400 270 L400 235" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<circle cx="400" cy="235" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<circle cx="400" cy="270" r="3" fill="white" stroke="black" stroke-width="1.2"/>
+<text x="447" y="241" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="start" dominant-baseline="central">nMOS</text>
+<text x="447" y="263" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start" dominant-baseline="central">ON</text>
+<path d="M400 270 L400 305" fill="none" stroke="rgb(0,0,0)" stroke-width="2.7" stroke-linecap="round"/>
+<path d="M389.0 305 L411.0 305" fill="none" stroke="rgb(0,0,0)" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M393.0 312 L407.0 312" fill="none" stroke="rgb(0,0,0)" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M397.0 319 L403.0 319" fill="none" stroke="rgb(0,0,0)" stroke-width="1.6" stroke-linecap="round"/>
+<text x="400" y="340" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle" dominant-baseline="central">ground (0 V)</text>
+<path d="M300 52 L300 342" fill="none" stroke="rgb(165,165,165)" stroke-width="0.7" stroke-linecap="round"/>
+</svg>

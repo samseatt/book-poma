@@ -1,7 +1,5 @@
 ![](../assets/shared/interlude-gear.png)
 
-<!-- AI-assisted: restructured from Sam's earlier draft; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
-
 INTERLUDE 1
 
 # Solid State Sparks
@@ -9,6 +7,8 @@ INTERLUDE 1
 *The Birth of Computing*
 
 *MATERIAL*
+
+<!-- AI-assisted: restructured from Sam's earlier draft; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
 
 My mother's hand once circled a faint track on photographic film: the ghost of a particle that had wandered, left its signature, and vanished. At almost the same time, in an adjacent building on the same campus, my father's hands drew loops of another kind, the tight spirals of a highway interchange. Her lines described what matter was doing. His lines planned what people would do with it once it settled down and was poured as gravel and sand.
 
@@ -29,7 +29,7 @@ Repetition has always been the universe's favorite party trick. In physics, it m
 The first miracle of the cosmos was not complexity but consistency: a handful of physical rules run on an infinite loop. The same equations kept being applied to new situations, like a cosmic bureaucrat stamping "Approved" on one region of spacetime after another, until whatever we choose to call reality on a given weekend could scaffold itself.
 
 <!-- AI-assisted factual alignment, 2026-10-23 -->
-And I suspect something else happens when a pattern holds long enough: under the right conditions, it can gather more pattern around it. A seed crystal grows a crystal; a habit grows a life. Keep that in mind; we'll come back to it at the end.
+And I suspect something else happens when a pattern holds long enough: under the right conditions, it can gather more pattern around it. A seed crystal grows a crystal; a habit grows a life.
 
 <!-- AI-assisted factual alignment, 2026-10-23 -->
 The grammar carries downward. When atoms settle into orderly arrays instead of a random scrum, they begin to sing in unison. Their quantum states overlap, forming collective harmonies (bands, gaps, currents) that no single atom could manage on its own. The universe repeats itself across scales: inflationary ripples seed later galaxy clusters, and the atomic lattice becomes the microchip, each a higher order folded out of a simpler one below.
@@ -49,7 +49,7 @@ Chapter 1 left possibilities confined into shapes: an electron held by its atom 
 At this level, symmetry is both freedom and confinement. It decides what an electron may do and what it will never do. In a disordered solid, electrons scatter like voices in a noisy bar. In a crystal, they form a choir. You're either playing with the Beatles or with the Stones; nobody performs in the gap between the bands.
 
 <!-- AI-assisted factual alignment, 2026-10-23 -->
-And which bands are full, and how big the gaps are, decides a material's whole personality.[^v1-i1-wilson] In conductors like copper, a band is only partly filled, so electrons have empty seats to move into at the slightest push: think of Leonard Bernstein mid-symphony, everyone playing at once, and somehow the lights stay on. In insulators like quartz, the bands are full and the gap above them is wide, so few electrons can carry current: more Glenn Gould, precise, contained, and not about to start improvising. And in semiconductors like silicon, heat or a sufficiently energetic photon can lift an electron across the smaller gap. Electric fields then steer the available carriers. That's Mozart at the keyboard, playing between order and mischief.
+Which bands are full, and how big the gaps are, determine a material's whole personality.[^v1-i1-wilson] In conductors like copper, a band is only partly filled, so electrons have empty seats to move into at the slightest push: think of Leonard Bernstein mid-symphony, everyone playing at once, and somehow the lights stay on. In insulators like quartz, the bands are full and the gap above them is wide, so few electrons can carry current: more Glenn Gould, precise, contained, and not about to start improvising. And in semiconductors like silicon, heat or a sufficiently energetic photon can lift an electron across the smaller gap. Electric fields then steer the available carriers. That's Mozart at the keyboard, playing between order and mischief.
 
 So the lattice does for the electron what Chapter 1's confinement did for possibility: it turns an open range into a structured set of allowed and forbidden states. And that structured set becomes, in turn, a new possibility space for something else to form in. It was in silicon's in-between region, neither conductor nor insulator but bribable, that humanity found the switch, and with it the seed of logic.
 
@@ -107,9 +107,18 @@ At the quantum level, electrons don't care about our intentions. They move accor
 The first one was not elegant. Just before Christmas in 1947, at Bell Labs, Bardeen and Walter Brattain pressed two gold contacts, a hair's breadth apart, onto a slab of germanium, with a spring fashioned from a paper clip holding the arrangement in place, and watched a tiny signal come out bigger than it went in.[^v1-i1-transistor] William Shockley, their group's leader and not a man who enjoyed being scooped by his own team, soon designed a sturdier version built from layered n-type and p-type material: an n–p–n or p–n–p sandwich in which a small current at the middle controls a much larger one passing through. It's leverage in elemental form. The three of them shared the Nobel Prize, and Bardeen, unlike the transistor, went on to do it again.
 
 <!-- AI-assisted factual alignment, 2026-10-23 -->
-The transistor inside nearly every chip today is a later cousin, the MOSFET, developed at Bell Labs in 1959 by Mohamed Atalla and Dawon Kahng.[^v1-i1-mosfet] Instead of a current controlling a current, it uses a voltage on a gate, insulated, in the classic design, by a whisker-thin layer of glass (silicon dioxide again, my father's sand making a cameo), to open or close a channel beneath it. That's the if-then in its purest form. The insulated gate takes very little steady current. Pair complementary MOS transistors into CMOS logic, and an idle gate ideally has no conducting path straight through from supply to ground. Switching still costs energy, and real devices leak; billions of them have made cooling an industry, not an afterthought.[^v1-i1-cmos]
+The transistor inside nearly every chip today is a later cousin, the metal-oxide-semiconductor field-effect transistor, or MOSFET, developed at Bell Labs in 1959 by Mohamed Atalla and Dawon Kahng.[^v1-i1-mosfet] Instead of a current controlling a current, it uses a voltage on a gate, insulated, in the classic design, by a whisker-thin layer of glass (silicon dioxide again, my father's sand making a cameo), to open or close a channel beneath it. That's the if-then in its purest form. The insulated gate takes very little steady current. Pair complementary MOS transistors into CMOS logic, and an idle gate ideally has no conducting path straight through from supply to ground. Switching still costs energy, and real devices leak; billions of them have made cooling an industry, not an afterthought.[^v1-i1-cmos]
 
 Put a few transistors together and you get logic gates (AND, OR, NOT), the toddler vocabulary of machines. With enough of them, you get adders, multiplexers, and eventually a processor that can play chess badly or optimize ad delivery frighteningly well.
+
+<!-- AI-assisted worked example and original illustration, 2026-10-23 -->
+Take NOT, the gate that disagrees for a living. In a CMOS inverter, two transistors share one input voltage. The upper one, pMOS, can connect the output to the positive supply; the lower one, nMOS, can connect it to ground, our zero-volt reference.
+
+When the input is low (0), pMOS conducts and nMOS is off, so the output rises high (1). A high input reverses their roles and pulls the output low (0). The output is taken between them. Once the voltages settle, we get NOT: 0 becomes 1, and 1 becomes 0.[^v1-i1-inverter]
+
+![A CMOS NOT gate, shown as ideal switches after the signals have settled. The input controls both switches.](assets/01-interlude/cmos-not-gate.png){width=95% fig-alt="Left: low input turns pMOS on and nMOS off, connecting the output to the positive supply: 1. Right: high input reverses the switches, connecting the output to ground: 0."}
+
+Nothing inside has learned to disagree. We assigned meaning to voltage ranges, then arranged matter so that one range reliably produces the other. A gate's output can control the next gate; the logical result arrives already in a physical form another circuit can use.
 
 ### Teaching Sand to Remember
 
@@ -190,40 +199,18 @@ Call that proposed tendency *informational gravity*: not a new force of nature, 
 <!-- AI-assisted factual alignment, 2026-10-23 -->
 If that's right, it would explain something that otherwise looks like a series of lucky accidents: the recurring passage from retained structure to further structure, across crystals, genes, brains and chips. Each finds a different way to make the past matter to what comes next. I can't prove it, and physics doesn't require it. But it's the story the looking-glass shows me, and the rest of Volume I will keep checking whether the reflection holds.
 
+<!-- AI-assisted closing consolidation, approved by the author and adopted 2026-10-23 -->
 ## The Sand That Dreamed
 
-In this precarious little corner of possibility space, we and our machines are elaborate sandbox games. My father drew channels in literal sand so cars and trucks could find their way. I later traced channels in refined sand so electrons could. Now our circuits trace channels in behavior (recommendation paths, workflow paths, social feeds) so thoughts and attention can.
+My father drew channels in sand so cars and trucks could find their way. I later traced channels in refined sand so electrons could. Now our circuits trace channels in behavior (recommendation paths, workflow paths, social feeds) so thoughts and attention can. The same element keeps finding new work: bound in stone and glass, purified into wafers, patterned into chips, helping hold the physical states we read as model weights. If matter has a secret wish, maybe it's this: start as dust under someone's shoes, end as the thing deciding which book they read next.
 
-<!-- AI-assisted factual alignment, 2026-10-23 -->
-In the end, the same element keeps finding new work: bound in stone and glass, purified into wafers, patterned into chips, helping hold the physical states we read as model weights. If matter has a secret wish, maybe it's this: start as dust under someone's shoes, end as the thing deciding which book they read next.
-
-<!-- AI-assisted factual alignment, 2026-10-23 -->
-And so the sand rests. The interplay of order and variation will soon appear in another costume: carbon chains, water films, membranes, cells.
-
-## From Sand to Clay
-
-If the universe's first trick was stretching "almost nothing" into "something," our next party trick was stretching sand into logic. The one we'll get to next is stranger: stretching cells into selves.
-
-The stretch of biology is different. Where physics expanded space, biology expanded time and number. Its growth is measured not in kilometers or parsecs but in generations and mutations, its universe in heartbeats and geological epochs. And biology's stretch lies equally in memory: the quiet inscription of life's code into the double helix, a stable data format written in the chemistry of carbon. DNA remembers, faithfully though never perfectly.
-
-<!-- AI-assisted factual alignment, 2026-10-23 -->
-It, too, has its version of doping: tiny copying errors and environmental nudges that keep the pattern from freezing. A lineage without new variation has fewer ways to meet a changing world; a chip with too many defects has no career at all. And the professor laughs.
-
-<!-- AI-assisted factual alignment, 2026-10-23 -->
-This is the family resemblance of remembrance: from the stable configurations of electrons in atoms, to the etched permanence of circuits on wafers, to the helical archives of biology, and onward to the electronic, magnetic and optical traces of our data. Each layer is a different form of memory, each the next act in matter's long rehearsal for something that can look back at itself.
-
-Thus we close the lid on the wafer and open the womb of the world.
-
-### From States to Signals
+Silicon's memory arrived late. Biology had been keeping records for billions of years, faithfully though never perfectly. It, too, has its version of doping: tiny copying errors that keep the pattern from freezing. A lineage without new variation has fewer ways to meet a changing world; a chip with too many defects has no career at all. And the professor laughs.
 
 A few years after the first integrated circuits flickered to life, I was ready to be conceived. The planet had learned to carve logic into matter. It was about to let matter carve logic into me.
 
-<!-- AI-assisted factual alignment, 2026-10-23 -->
 The next frontier wasn't electrons; it was encoding: how a physical state becomes a signal, how signals become patterns, how patterns become stories, and at what point the stories start insisting they are someone. Before the algorithm, there was the axon. Long before any circuit could calculate, living cells were sensing, responding and carrying traces of what had happened to them.
 
-Not long after those first chips started counting for other people, a cell would start counting for me. And then, with time and a lot of practice, it would call itself "I."
-
-That is where Chapter 2 picks up: in the warm, messy, error-tolerant lattice of life, the next layer in this long experiment of matter trying to remember itself.
+Not long after those first chips started counting for other people, a cell would start counting for me. And then, with time and a lot of practice, it would call itself “I.”
 
 ![](../assets/shared/separator.png)
 
@@ -237,7 +224,7 @@ That is where Chapter 2 picks up: in the warm, messy, error-tolerant lattice of 
 >
 > ***Both:** Whatever can remember itself, gathers.*
 
-<!-- SOURCE NOTES: aligned 2026-10-23; evidence scopes and remaining author decisions are recorded in work/volume-1-drafting/interlude-01-adoption-2026-10-23/. -->
+<!-- SOURCE NOTES: aligned 2026-10-23; evidence scopes and remaining author decisions are recorded in work/volume-1-drafting/interlude-01-adoption-2026-10-23/. The inverter addition and finishing pass are recorded in work/volume-1-drafting/interlude-01-finish-2026-10-23/. -->
 
 [^v1-i1-material]: The sand/wafer connection is a material lineage, not a claim that quartz already behaves like a semiconductor. Quartz is silicon dioxide; chipmaking requires reduction, purification and crystal growth to obtain electronic-grade silicon. See Intel, [*From Sand to Silicon: The Making of a Chip*](https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf) (2009), opening stages, “Sand,” “Melted Silicon” and “Monocrystalline Silicon Ingot.”
 
@@ -262,6 +249,8 @@ That is where Chapter 2 picks up: in the warm, messy, error-tolerant lattice of 
 [^v1-i1-mosfet]: The Computer History Museum's [“Metal Oxide Semiconductor (MOS) Transistor Demonstrated”](https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/) dates Atalla and Kahng's successful device to 1959 and its presentation to 1960. Its oxide-insulated gate overcame the surface-state obstacle to field control. The classic silicon-dioxide gate dielectric is described here; later devices also use other insulating materials.
 
 [^v1-i1-cmos]: MIT 6.004, [“CMOS Technology,” section 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/), and del Alamo, MIT 6.012, [lecture 13](https://web.mit.edu/6.012/www/SP07-L13.pdf) (2007), pp. 13–16. Low steady gate current alone does not make a circuit low-power. Complementary pull-up/pull-down networks suppress ideal static supply current; charging capacitances during switching and real-device leakage still dissipate power.
+
+[^v1-i1-inverter]: Chris Terman, MIT 6.004, [“3.1 Annotated Slides”](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/) (Spring 2017), CMOS inverter and propagation-delay discussions. The book's original diagram uses ideal switches in settled states; it omits switching delay, transient current and leakage.
 
 [^v1-i1-flipflop]: W. H. Eccles and F. W. Jordan, [British Patent GB148582A, “Improvements in ionic relays”](https://patents.google.com/patent/GB148582A/en), filed 21 June 1918, published 5 August 1920: mutually coupled thermionic devices retain either state. For the distinction between a bistable feedback loop, gated latch and clocked register, see MIT 6.004, [“Sequential Logic,” section 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c5/c5s1/). Terminology varies historically; two bare cross-coupled inverters are not by themselves a complete clocked flip-flop.
 

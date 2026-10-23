@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-23",
+  "base_commit": "f62e9413c6a953d2cdf3a6005b6c622982efc3ab",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md": "17bbd8e838f25de4b0b60586f6ad24c3a541feb77abc8f3c121f38ce5b42cc06",
+    "/Users/samseatt/projects/book-poma/work/volume-1-drafting/interlude-01-adoption-2026-10-23/CLOSING_PROPOSAL.md": "8df0c7882a38db38a12bab36898d70ac8f60e092b608c2fb96c30f49311731fc",
+    "/Users/samseatt/projects/book_poma/sam/claude/interlude-1.md": "16e05a9a319ebfe6dd556c27889b63f3bfae105ccaca82b4123dc8820638b2ce",
+    "/Users/samseatt/projects/book-poma/.gitignore": "4a46222675abc2b1ae26fcdf1577468af17ab3e92ee37ae24d16af3f1216e9ed"
+  },
+  "source_verification": [
+    {
+      "note_id": "v1-i1-inverter",
+      "source": "MIT 6.004 Computation Structures, Spring 2017, Chris Terman, 3.1 Annotated Slides",
+      "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/",
+      "locator": "CMOS technology and inverter explanation; propagation delay discussion",
+      "accessed": "2026-10-23",
+      "status": "Supporting instructional text inspected directly",
+      "scope": "Complementary pMOS pullup and nMOS pulldown with shared input; settled low input yields high output and vice versa. Figure is an original ideal-switch illustration, not device geometry or a timing diagram.",
+      "limits": "No new audit of the entire unit; previous adoption source audit remains applicable. Transition overlap, delay, capacitance and leakage are omitted from the simplified illustration."
+    }
+  ],
+  "preserved_exactly": [
+    "family_opening",
+    "madison_and_tiedemann",
+    "cosmic_reprise",
+    "bob",
+    "maggie_alex",
+    "all 21 previous note definitions",
+    "approved closing proposal body"
+  ],
+  "body_words_before": 4723,
+  "body_words_after": 4650,
+  "outputs": {
+    "manuscripts/volume-1/01-interlude.md": "62078ff19982d012a1c4437c3fb9af2eec08bdb2b71e494329bf54acfc196d1d",
+    "manuscripts/volume-1/assets/01-interlude/cmos-not-gate.png": "54805e7043163f7c910f6ab8c8e0068e6503a0dfbedf669dc724ab1e08d71737",
+    "work/volume-1-drafting/interlude-01-finish-2026-10-23/cmos-not-gate.svg": "30dfdfeb270867634f5bbcbc252992ceb6dcd4f666a858d8711f5bae30520c24",
+    "work/volume-1-drafting/interlude-01-finish-2026-10-23/draw_inverter.py": "95ac9f4ac8470789c1b1c9d13705aaf3aa95f7bf9fc8706d608442631e8cad3c"
+  },
+  "validation_status": "Passed; see validation.json. No publication performed.",
+  "unchanged_other_tracked_manuscripts": 294
+}
