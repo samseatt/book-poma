@@ -1,0 +1,492 @@
+{
+  "date": "2026-10-23",
+  "source": "/Users/samseatt/projects/book_poma/sam/new/chapter-1.md",
+  "source_sha256": "c39b54aee6bd8167ab09bf905c34f3ef2c0a23fd17733adb27d5f4688d71fca2",
+  "pre_adoption_manuscript_sha256": "eed7f6d6a3cb349ec3483037cd2561a1a836f242baa39775fafaf32ba2a591c9",
+  "base_commit": "3e76630efff5f6e2bb261e264b062e2a00ada350",
+  "canonical_path": "manuscripts/volume-1/01-chapter.md",
+  "adopted_sha256": "aec624a65821c7574615eebe3d71536e2702753bf383b025c68af6d214801cfb",
+  "note_count": 53,
+  "prior_evidence": [
+    "work/volume-1-drafting/chapter-01-physics/chapter-01-source-catalog.json",
+    "work/volume-1-drafting/chapter-01-physics/possibility-research-2026-10-09/SOURCE_LEDGER.md"
+  ],
+  "scope": "Reference alignment and targeted factual repair of author-authorized adoption. Access levels are per note; this is not full-text verification of every cited work or certification of private memoir.",
+  "notes": [
+    {
+      "id": "v1-c1-sagan",
+      "definition": "Carl Sagan, *Cosmos* (1980), as quoted in Kate Howells, [“We’re made of starstuff. What does that mean?”](https://www.planetary.org/articles/were-made-of-starstuff-what-does-that-mean), The Planetary Society, 9 November 2025. Capitalization follows this chapter.",
+      "evidence": "2026-10-23: institutional reproduction of the quotation inspected; wording matches apart from capitalization. Original episode/book locator not independently established; note explicitly identifies the reproduction.",
+      "urls": [
+        "https://www.planetary.org/articles/were-made-of-starstuff-what-does-that-mean"
+      ]
+    },
+    {
+      "id": "v1-c1-registration",
+      "definition": "W. H. Zurek, [“Decoherence, einselection, and the quantum origins of the classical”](https://arxiv.org/abs/quant-ph/0105127), *Reviews of Modern Physics* 75 (2003): 715–775, on environmental correlations and stable records. “Registration” here does not imply consciousness or a record that must last indefinitely.",
+      "evidence": "Prior verification: Chapter 1 catalog zurek2003decoherence and Φ records, abstract and record/pointer-state discussion. Reused 2026-10-23, not newly read cover to cover.",
+      "urls": [
+        "https://arxiv.org/abs/quant-ph/0105127"
+      ]
+    },
+    {
+      "id": "v1-c1-timeline",
+      "definition": "Particle Data Group, [“Inflation”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf), §§23.1–23.2 (2025), and [“Higgs Boson”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-higgs-boson.pdf), §§11.1–11.2; Planck Collaboration, [“Planck 2018 results. VI. Cosmological parameters”](https://arxiv.org/abs/1807.06209), *Astronomy & Astrophysics* 641 (2020): A6. Inflation and proposed earlier force-unification stages do not have the evidentiary status of the hot thermal history.",
+      "evidence": "Prior PDG passage checks (2026-10-04); Planck abstract and cosmological parameters freshly checked 2026-10-23. Approximate recombination time is the standard model timeline, not a measurement of an absolute beginning.",
+      "urls": [
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf",
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-higgs-boson.pdf",
+        "https://arxiv.org/abs/1807.06209"
+      ]
+    },
+    {
+      "id": "v1-c1-einstein",
+      "definition": "For the chronology and Grossmann’s mathematical role, see Tilman Sauer, [“‘Before Everything was Completely Clear, We Had a Few Arguments.’—Emmy Noether, David Hilbert and Felix Klein”](https://doi.org/10.1007/s44007-025-00166-w), *La Matematica* 4 (2025): 674–701, §2; and Galina Weinstein, [“Max Born, Albert Einstein and Hermann Minkowski’s Space-Time Formalism of Special Relativity”](https://arxiv.org/abs/1210.6929) (2012). Einstein’s special relativity dates to 1905, Minkowski’s spacetime presentation to 1908, and the Einstein–Grossmann collaboration to 1912–1913.",
+      "evidence": "2026-10-23: Sauer archival study introduction/section 2 inspected; Weinstein arXiv abstract, author and complete title freshly verified. No claim that Minkowski preceded Einstein’s 1905 theory.",
+      "urls": [
+        "https://doi.org/10.1007/s44007-025-00166-w",
+        "https://arxiv.org/abs/1210.6929"
+      ]
+    },
+    {
+      "id": "v1-c1-abesse",
+      "definition": "[“Modal Logic,”](https://plato.stanford.edu/entries/logic-modal/) *Stanford Encyclopedia of Philosophy*, §§2 and 7, on modal systems and reflexive accessibility. The implication $p\\to\\Diamond p$ holds in suitable systems, including those with axiom T; it is not a theorem of every modal logic. It does not establish that all consistent possibilities are instantiated.",
+      "evidence": "2026-10-23: expert-authored reference entry §§2/7 inspected. The traditional Latin maxim is used as a maxim, without attributing it to an unverified medieval author.",
+      "urls": [
+        "https://plato.stanford.edu/entries/logic-modal/"
+      ]
+    },
+    {
+      "id": "v1-c1-occam",
+      "definition": "David J. C. MacKay, [*Information Theory, Inference, and Learning Algorithms*](https://sites.stat.columbia.edu/gelman/bayescomputation/mackay.pdf) (Cambridge University Press, 2003), ch. 28, especially pp. 344–348 and eq. 28.7. The Bayesian evidence averages predictions over parameter priors; an Occam factor can arise even with equal prior probabilities for the competing models. A cosmological simplicity weighting is a further hypothesis.",
+      "evidence": "2026-10-23: downloaded published textbook, third printing of first edition; pp. 343–348 read directly using PDF text extraction, especially model-prior distinction on p.344 and evidence integral p.348.",
+      "urls": [
+        "https://sites.stat.columbia.edu/gelman/bayescomputation/mackay.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-bbrain",
+      "definition": "Sean M. Carroll, [“Why Boltzmann Brains Are Bad”](https://arxiv.org/abs/1702.00850) (2017). The problem depends on cosmological dynamics, fluctuations and how observers are counted; it is not a consequence of “chance” alone.",
+      "evidence": "Prior abstract check recorded in possibility SOURCE_LEDGER.md, poss-bb. Used for problem scope, not as proof of a solution.",
+      "urls": [
+        "https://arxiv.org/abs/1702.00850"
+      ]
+    },
+    {
+      "id": "v1-c1-simplicity",
+      "definition": "Jürgen Schmidhuber, [“Algorithmic Theories of Everything”](https://people.idsia.ch/~juergen/toesv2/), version 2 (2000), especially §6; Markus P. Müller, [“Law without law: from observer states to physics via algorithmic information theory”](https://arxiv.org/html/1712.01826v5), *Quantum* 4 (2020): 301, especially §§2–4 and 8. These offer explicit, differing algorithmic frameworks, not an established measure on all logically possible worlds. Description length, thermodynamic multiplicity and observer typicality are separate choices.",
+      "evidence": "Prior primary text checks: catalog schmidhuber2000algorithmic and possibility ledger poss-muller. Selected full sections read in earlier research; no universal minimal-complexity/anthropic conclusion credited to either.",
+      "urls": [
+        "https://people.idsia.ch/~juergen/toesv2/",
+        "https://arxiv.org/html/1712.01826v5"
+      ]
+    },
+    {
+      "id": "v1-c1-lewis",
+      "definition": "David Lewis, [“Anselm and Actuality”](https://www.andrewmbailey.com/dkl/Anselm_and_Actuality.pdf), *Noûs* 4 (1970): 175–188, especially pp. 184–185. The indexical account of “actual” is Lewis’s philosophical position, not a physical result or a derivation of the author’s conjecture.",
+      "evidence": "2026-10-23: original-text indexed excerpt pp.184–185 inspected, including comparison with here, I and present.",
+      "urls": [
+        "https://www.andrewmbailey.com/dkl/Anselm_and_Actuality.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-entropic",
+      "definition": "Gunnar Jeschke, [*Statistical Thermodynamics*, §7.2, “Entropic Elasticity”](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Statistical_Thermodynamics_%28Jeschke%29/07%3A_Macromolecules/7.02%3A_Entropic_Elasticity). For an ideal chain whose internal energy is independent of extension, $F=U-TS$. This chapter’s $f=\\partial F/\\partial L=-T(\\partial S/\\partial L)_T$ is the outward holding force; the inward restoring force has the opposite sign. Real rubber also has energetic contributions.",
+      "evidence": "2026-10-23: author teaching text, entropy/free-energy derivation and ideal-chain assumption inspected. Source writes inward restoring force; chapter explicitly adopts outward holding convention.",
+      "urls": [
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Statistical_Thermodynamics_%28Jeschke%29/07%3A_Macromolecules/7.02%3A_Entropic_Elasticity"
+      ]
+    },
+    {
+      "id": "v1-c1-boltzmann",
+      "definition": "David Tong, [*Statistical Physics*, ch. 1](https://www.damtp.cam.ac.uk/user/tong/statphys/one.pdf), §§1.2.1, 1.2.5 and 1.3: entropy, the Vienna tombstone and the canonical ensemble. The ratio shown is for individual microstates in a canonical distribution at temperature $T$; probabilities of grouped energy levels also include their degeneracies.",
+      "evidence": "2026-10-23: author lecture PDF, cited sections and canonical formula inspected. Units and ensemble assumptions corrected in body.",
+      "urls": [
+        "https://www.damtp.cam.ac.uk/user/tong/statphys/one.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-thermaltime",
+      "definition": "Alain Connes and Carlo Rovelli, [“Von Neumann algebra automorphisms and time-thermodynamics relation in general covariant quantum theories”](https://arxiv.org/abs/gr-qc/9406019), *Classical and Quantum Gravity* 11 (1994): 2899–2917. In the density-matrix setting, $K=-\\ln\\rho$ is defined on the support of $\\rho$; for a Gibbs state, $K=H/(k_B T)+\\ln Z$. Modular flow motivates their thermal-time hypothesis; it is not a demonstrated origin of physical time.",
+      "evidence": "Prior selected full-text check, possibility ledger thermal-time entry; 2026-10-23 abstract/introduction rechecked. Formula is the finite/density-matrix specialization, not a claim all operator algebras possess density matrices.",
+      "urls": [
+        "https://arxiv.org/abs/gr-qc/9406019"
+      ]
+    },
+    {
+      "id": "v1-c1-entropicgravity",
+      "definition": "Ted Jacobson, [“Thermodynamics of Spacetime: The Einstein Equation of State”](https://arxiv.org/abs/gr-qc/9504004), *Physical Review Letters* 75 (1995): 1260–1263; Erik Verlinde, [“On the Origin of Gravity and the Laws of Newton”](https://arxiv.org/abs/1001.0785), *Journal of High Energy Physics* (2011), article 029. Their assumptions and proposals differ; neither establishes that every interaction arises from bare possibility.",
+      "evidence": "Jacobson: prior abstract/derivation-scope check in possibility ledger. Verlinde: abstract and publication metadata inspected 2026-10-23. Described as proposals, not observationally established replacements.",
+      "urls": [
+        "https://arxiv.org/abs/gr-qc/9504004",
+        "https://arxiv.org/abs/1001.0785"
+      ]
+    },
+    {
+      "id": "v1-c1-bubble",
+      "definition": "Brookhaven National Laboratory, [*The Bulletin Board*, 25 February 1964](https://www.bnl.gov/bnlweb/pubaf/bulletin/files/1964/19640225.pdf), pp. 1–2, describes the 80-inch hydrogen bubble chamber, particle tracks and scanning of photographs. The Yale employment, age, plaque and family recollections are the author’s; the particular experiment his mother worked on has not been identified.",
+      "evidence": "Contemporary BNL primary account checked in prior catalog and searched freshly 2026-10-23. Public apparatus source does not verify private memoir or a specific scanning assignment.",
+      "urls": [
+        "https://www.bnl.gov/bnlweb/pubaf/bulletin/files/1964/19640225.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-omega",
+      "definition": "V. E. Barnes et al., [“Observation of a Hyperon with Strangeness Minus Three”](https://doi.org/10.1103/PhysRevLett.12.204), *Physical Review Letters* 12 (1964): 204–206; Brookhaven’s [contemporary account](https://www.bnl.gov/bnlweb/pubaf/bulletin/files/1964/19640225.pdf), pp. 1–2. The Ω⁻ completed the baryon decuplet anticipated through the symmetry work of Gell-Mann and, independently, Ne’eman. Its possible appearance in the mother’s later films remains explicitly conjectural.",
+      "evidence": "BNL primary report/prediction/apparatus verified in catalog bnl1964omega; PDG quark model corroborates decuplet. Barnes original metadata verified; not represented as independently read in full this run.",
+      "urls": [
+        "https://doi.org/10.1103/PhysRevLett.12.204",
+        "https://www.bnl.gov/bnlweb/pubaf/bulletin/files/1964/19640225.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-quarks",
+      "definition": "Murray Gell-Mann, “A Schematic Model of Baryons and Mesons” (1964), and George Zweig’s independent 1964 CERN proposals; see David Gross’s [2004 Nobel lecture](https://www.nobelprize.org/uploads/2024/10/gross-lecture-1.pdf), historical discussion of the Eightfold Way and quarks, and the PDG [“Quark Model”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-quark-model.pdf). Gell-Mann borrowed “quark” from James Joyce’s *Finnegans Wake*.",
+      "evidence": "Prior catalog gross2004qcd indexed author lecture passage and PDG quark sections checked. Original papers not newly read; note uses the author lecture and PDG as supporting access sources.",
+      "urls": [
+        "https://www.nobelprize.org/uploads/2024/10/gross-lecture-1.pdf",
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-quark-model.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-color",
+      "definition": "Particle Data Group, [“Quark Model”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-quark-model.pdf) (2025), discussion of color and baryon wavefunctions. The color part supplies the antisymmetry needed by the total state of the ground-state Ω⁻. Different color states do not turn identical strange quarks into different particle species.",
+      "evidence": "Prior primary review check, pdg2025quark; fresh Nobel 2004 technical-background excerpts support color/Pauli. Main text corrected accordingly.",
+      "urls": [
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-quark-model.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-dis",
+      "definition": "SLAC, [“Milestones”](https://ahro.slac.stanford.edu/resources/slac-history/milestones), 1968 entry; Jerome I. Friedman, [1990 Nobel lecture](https://www.nobelprize.org/prizes/physics/1990/friedman/lecture/), on the SLAC–MIT deep-inelastic scattering experiments. Pointlike constituents were inferred through scattering, not directly photographed.",
+      "evidence": "2026-10-23: official SLAC chronology excerpt inspected; Nobel lecture is the original investigator’s further-reading source, not fully read this run.",
+      "urls": [
+        "https://ahro.slac.stanford.edu/resources/slac-history/milestones",
+        "https://www.nobelprize.org/prizes/physics/1990/friedman/lecture/"
+      ]
+    },
+    {
+      "id": "v1-c1-gluon",
+      "definition": "DESY, [“40 years of gluon”](https://www.desy.de/news/backgrounders/40_years_of_gluon/DESYinform05-11-engl_Web_eng.html/?printversion=1), and Paul Söding, [“On the discovery of the gluon”](https://bib-pubdb1.desy.de/record/92607/files/EPJH35.pdf) (2010). Three-jet evidence emerged at PETRA in 1979 through TASSO, JADE, MARK-J and PLUTO.",
+      "evidence": "2026-10-23: official DESY history and indexed discoverer-historian paper passages inspected; chronology and collaborative credit checked.",
+      "urls": [
+        "https://www.desy.de/news/backgrounders/40_years_of_gluon/DESYinform05-11-engl_Web_eng.html/?printversion=1",
+        "https://bib-pubdb1.desy.de/record/92607/files/EPJH35.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-asymfree",
+      "definition": "Royal Swedish Academy of Sciences, [scientific background to the 2004 Nobel Prize in Physics](https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2004.pdf), on asymptotic freedom and QCD. At large separations, the approximately linear confining potential means increasing stored energy, not an indefinitely increasing force. This is not the entropy-driven rubber-band mechanism discussed earlier.",
+      "evidence": "2026-10-23: technical-background excerpts inspected; prior Gross/QCD catalog supports scope. Corrected force/potential distinction.",
+      "urls": [
+        "https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2004.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-qcdmass",
+      "definition": "Chris Quigg, [“Origins of Mass”](https://arxiv.org/abs/0704.2232) (2007); S. Dürr et al., [“Ab Initio Determination of Light Hadron Masses”](https://arxiv.org/abs/0906.3599), *Science* 322 (2008): 1224–1227. Most proton mass comes from QCD dynamics, rather than the small masses of its quarks; “binding energy” alone can misleadingly suggest a simple negative mass defect.",
+      "evidence": "Prior author review and lattice-paper abstract checks in chapter physics review/catalog. Quigg original publication metadata retained; no cover-to-cover claim.",
+      "urls": [
+        "https://arxiv.org/abs/0704.2232",
+        "https://arxiv.org/abs/0906.3599"
+      ]
+    },
+    {
+      "id": "v1-c1-qft",
+      "definition": "David Tong, [*Quantum Field Theory*](https://www.damtp.cam.ac.uk/user/tong/qft.htm), §§2 and 4, on quantized free fields and the Dirac field. Electrons share intrinsic particle properties; they need not occupy the same state or have the same momentum.",
+      "evidence": "Prior selected lecture-text checks, tong2006qft. Unqualified identical-state inference repaired.",
+      "urls": [
+        "https://www.damtp.cam.ac.uk/user/tong/qft.htm"
+      ]
+    },
+    {
+      "id": "v1-c1-noether",
+      "definition": "Emmy Noether, [“Invariante Variationsprobleme”](https://arxiv.org/abs/physics/0503066) (1918), Theorems I and II, English translation by M. A. Tavel (1971); Tong, [*Quantum Field Theory*](https://www.damtp.cam.ac.uk/user/tong/qft.htm), §1.3.1. The theorem concerns continuous symmetries of the action. Local conservation in general relativity does not guarantee a globally conserved total energy for an expanding universe.",
+      "evidence": "Original theorem/translation identity and Tong passage previously checked. 1918 chronology freshly corroborated through Rowe/Sauer archival research, replacing source’s unsupported 1915 proof date.",
+      "urls": [
+        "https://arxiv.org/abs/physics/0503066",
+        "https://www.damtp.cam.ac.uk/user/tong/qft.htm"
+      ]
+    },
+    {
+      "id": "v1-c1-hilbert",
+      "definition": "American Physical Society, [*APS News*, March 2013](https://print.aps.org/pdf/2013-03.pdf), “This Month in Physics History,” on Noether’s Göttingen years, reports Hilbert’s bathhouse remark. See also Tilman Sauer’s [2025 archival study](https://doi.org/10.1007/s44007-025-00166-w). “Reportedly” distinguishes the familiar recollection from a contemporaneous verbatim transcript.",
+      "evidence": "2026-10-23: APS indexed quotation and employment narrative inspected; Sauer archival discussion read. Exact wording remains a reported historical anecdote, not transcript-certified.",
+      "urls": [
+        "https://print.aps.org/pdf/2013-03.pdf",
+        "https://doi.org/10.1007/s44007-025-00166-w"
+      ]
+    },
+    {
+      "id": "v1-c1-wigner",
+      "definition": "Eugene Wigner, [“On Unitary Representations of the Inhomogeneous Lorentz Group”](https://www.math.utoronto.ca/mgualt/courses/25-QM/docs/Wigner-1939.pdf), *Annals of Mathematics* 40 (1939): 149–204. For the massive-particle case used here, irreducible Poincaré representations are classified by mass and spin; momenta and spin components can transform between observers.",
+      "evidence": "Prior original-paper scope/metadata check in wigner1939representations. General-reader summary narrowed to invariant labels, not identical appearances.",
+      "urls": [
+        "https://www.math.utoronto.ca/mgualt/courses/25-QM/docs/Wigner-1939.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-cp",
+      "definition": "J. H. Christenson, J. W. Cronin, V. L. Fitch and R. Turlay, [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138), *Physical Review Letters* 13 (1964): 138–140; Brookhaven’s [experiment history](https://www.bnl.gov/bnlweb/history/nobel/1980.php). The experiment used a spark-chamber spectrometer. A bubble-chamber photograph alone would not establish CP violation.",
+      "evidence": "Prior original-paper first-page apparatus excerpt and BNL history checked, christenson1964cp/bnl1980cp. The memoir does not identify her experiment.",
+      "urls": [
+        "https://doi.org/10.1103/PhysRevLett.13.138",
+        "https://www.bnl.gov/bnlweb/history/nobel/1980.php"
+      ]
+    },
+    {
+      "id": "v1-c1-wu",
+      "definition": "C. S. Wu et al., [“Experimental Test of Parity Conservation in Beta Decay”](https://doi.org/10.1103/PhysRev.105.1413), *Physical Review* 105 (1957): 1413–1415, reporting the directional asymmetry of beta emission from polarized cobalt-60.",
+      "evidence": "Prior original publication and experiment description inspected, wu1957parity. “A decade earlier” corrected to “a few years earlier.”",
+      "urls": [
+        "https://doi.org/10.1103/PhysRev.105.1413"
+      ]
+    },
+    {
+      "id": "v1-c1-ckm",
+      "definition": "Particle Data Group, [“CP Violation in the Quark Sector”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-cp-violation.pdf) (2025), opening sections. Kobayashi and Maskawa’s three-generation explanation dates to 1973. The single CKM phase accounts for Standard Model quark-sector CP violation, not every possible source of CP violation.",
+      "evidence": "Prior PDG review opening pp.1–2 inspected, pdg2025cp. Scope explicitly narrowed in body.",
+      "urls": [
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-cp-violation.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-asymmetry",
+      "definition": "Planck Collaboration, [“Cosmological parameters”](https://arxiv.org/abs/1807.06209) (2020), baryon density; A. Riotto and M. Trodden, [“Recent Progress in Baryogenesis”](https://arxiv.org/abs/hep-ph/9901362) (1999), Sakharov conditions; PDG [“CP Violation”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-cp-violation.pdf), on the insufficient Standard Model quark contribution. The roughly $6\\times10^{-10}$ figure is a baryon-to-photon ratio, not a direct count of annihilated pairs.",
+      "evidence": "Planck abstract/parameters freshly inspected; baryogenesis author review and PDG asymmetry scope previously checked. Conditional symmetric-start statement replaces absolute no-CP/no-matter assertion.",
+      "urls": [
+        "https://arxiv.org/abs/1807.06209",
+        "https://arxiv.org/abs/hep-ph/9901362",
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-cp-violation.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-higgs",
+      "definition": "Particle Data Group, [“Higgs Boson”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-higgs-boson.pdf) (2025), §§11.1–11.2; CERN, [“What is the Higgs boson?”](https://home.cern/science/physics/higgs-boson/what/). Mass generated through Higgs coupling is inertia, not a frictional slowing. ATLAS and CMS announced the boson’s discovery in July 2012.",
+      "evidence": "PDG cited passages previously checked; CERN explanation/discovery and teaching FAQ explicitly distinguishing friction inspected 2026-10-23.",
+      "urls": [
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-higgs-boson.pdf",
+        "https://home.cern/science/physics/higgs-boson/what/"
+      ]
+    },
+    {
+      "id": "v1-c1-gr",
+      "definition": "Sean M. Carroll, [*Lecture Notes on General Relativity*, §8](https://ned.ipac.caltech.edu/level5/March01/Carroll3/Carroll8.html), on dynamical cosmological geometry. The matter–curvature sentence adapts John Archibald Wheeler’s familiar summary. Matter and spacetime geometry are coupled in general relativity, not identical substances.",
+      "evidence": "Prior primary lecture-text inspection, carroll1997gr. Wheeler formulation retained as an attributed adaptation, not exact direct quotation.",
+      "urls": [
+        "https://ned.ipac.caltech.edu/level5/March01/Carroll3/Carroll8.html"
+      ]
+    },
+    {
+      "id": "v1-c1-eclipse",
+      "definition": "F. W. Dyson, A. S. Eddington and C. Davidson, [“A Determination of the Deflection of Light by the Sun’s Gravitational Field”](https://doi.org/10.1098/rsta.1920.0009), *Philosophical Transactions of the Royal Society A* 220 (1920): 291–333, reporting the 1919 expeditions to Príncipe and Sobral. This was not relativity’s first successful comparison with observation: Einstein had already explained Mercury’s anomalous perihelion advance.",
+      "evidence": "Original paper metadata/title checked against the cited historical record; no fresh full-text inspection claimed. Earlier Mercury result is standard 1915 chronology; main text now says famous early test.",
+      "urls": [
+        "https://doi.org/10.1098/rsta.1920.0009"
+      ]
+    },
+    {
+      "id": "v1-c1-ligo",
+      "definition": "B. P. Abbott et al., [“Observation of Gravitational Waves from a Binary Black Hole Merger”](https://arxiv.org/abs/1602.03837), *Physical Review Letters* 116 (2016): 061102; LIGO, [discovery announcement](https://www.ligo.caltech.edu/LA/news/ligo20160211), 11 February 2016. GW150914 was recorded on 14 September 2015, with peak strain of order $10^{-21}$.",
+      "evidence": "2026-10-23: collaboration announcement inspected; paper identity/abstract checked. Removed overly exact proton-width comparison, preserving scale.",
+      "urls": [
+        "https://arxiv.org/abs/1602.03837",
+        "https://www.ligo.caltech.edu/LA/news/ligo20160211"
+      ]
+    },
+    {
+      "id": "v1-c1-gravent",
+      "definition": "Roger Penrose, *The Emperor’s New Mind* (1989), ch. 7, on gravitational entropy; Sean M. Carroll and Jennifer Chen, [“Does Inflation Provide Natural Initial Conditions for the Universe?”](https://arxiv.org/abs/gr-qc/0505037), *General Relativity and Gravitation* 37 (2005): 1671–1674. Their proposed resolution is not established. Gravitational entropy is subtle: thermal uniformity of matter does not make the complete gravitating universe a maximum-entropy state.",
+      "evidence": "2026-10-23: Carroll/Chen abstract inspected, full introductory low-entropy/black-hole argument read in author HTML. Penrose is retained as a bibliographic intellectual antecedent; not newly read in this run.",
+      "urls": [
+        "https://arxiv.org/abs/gr-qc/0505037"
+      ]
+    },
+    {
+      "id": "v1-c1-inflation",
+      "definition": "Alan H. Guth, [“Inflationary universe: A possible solution to the horizon and flatness problems”](https://doi.org/10.1103/PhysRevD.23.347), *Physical Review D* 23 (1981): 347–356; PDG, [“Inflation”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf), §§23.1–23.2. Starobinsky’s 1980 model and subsequent models by Linde and by Albrecht and Steinhardt are distinct foundational contributions. Guth’s original version had an unsuccessful exit mechanism; later models changed it.",
+      "evidence": "Prior original Guth abstract and PDG §23.1–2 checks. Text’s compact historical overview does not identify all inflationary models with false-vacuum trapping.",
+      "urls": [
+        "https://doi.org/10.1103/PhysRevD.23.347",
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-inflationcritics",
+      "definition": "Particle Data Group, [“Inflation”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf) (2025), observational constraints; Alan H. Guth, [“Eternal inflation and its implications”](https://arxiv.org/abs/hep-th/0702178), *Journal of Physics A* 40 (2007): 6811–6826, on eternal inflation and its measure problem. Primordial tensor amplitudes depend on the model; a nondetection at one sensitivity does not rule out inflation as a class.",
+      "evidence": "Previously inspected PDG review/Guth author HTML. Observational baseline explicitly 2025 rather than a claim of live 2026 completeness. Stable incoming ID retained despite broader note content.",
+      "urls": [
+        "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf",
+        "https://arxiv.org/abs/hep-th/0702178"
+      ]
+    },
+    {
+      "id": "v1-c1-pauli",
+      "definition": "Wolfgang Pauli, [letter of 4 December 1930](https://cds.cern.ch/record/264021/), CERN Pauli Archive, opening “Liebe Radioaktive Damen und Herren.” The English salutation is the customary translation. The proposal addressed missing beta-decay energy and angular momentum.",
+      "evidence": "2026-10-23: original archive record and CERN biographical excerpt inspected, including salutation/date. Brief English rendering, no unidentified long translation.",
+      "urls": [
+        "https://cds.cern.ch/record/264021/"
+      ]
+    },
+    {
+      "id": "v1-c1-neutrino",
+      "definition": "Royal Swedish Academy of Sciences, [scientific background to the 2015 Nobel Prize in Physics](https://www.nobelprize.org/uploads/2017/09/advanced-physicsprize2015.pdf), on the 1956 detection and Super-Kamiokande/SNO oscillation evidence; John N. Bahcall, [“How the Sun Shines”](https://www.nobelprize.org/prizes/themes/how-the-sun-shines/), on solar neutrinos. Oscillations require differences of squared neutrino masses and thus at least two nonzero masses, extending the original minimal Standard Model.",
+      "evidence": "2026-10-23: Nobel technical-background and author essay excerpts inspected. Body uses an order-of-magnitude flux instead of claiming a detector-specific number.",
+      "urls": [
+        "https://www.nobelprize.org/uploads/2017/09/advanced-physicsprize2015.pdf",
+        "https://www.nobelprize.org/prizes/themes/how-the-sun-shines/"
+      ]
+    },
+    {
+      "id": "v1-c1-bell",
+      "definition": "John S. Bell, [“On the Einstein Podolsky Rosen Paradox”](https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195), *Physics* 1 (1964): 195–200; Royal Swedish Academy of Sciences, [scientific background to the 2022 Nobel Prize in Physics](https://www.nobelprize.org/uploads/2026/05/advanced-physicsprize-2022-5.pdf). Bell tests constrain local hidden-variable accounts under assumptions including independence of measurement settings. They neither supply faster-than-light messaging nor rule out every hidden-variable interpretation.",
+      "evidence": "2026-10-23: Nobel technical-background excerpt inspected; original Bell metadata retained. Qualification distinguishes locality from hidden variables in general; Einstein phrase is short familiar translated attribution.",
+      "urls": [
+        "https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195",
+        "https://www.nobelprize.org/uploads/2026/05/advanced-physicsprize-2022-5.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-strings",
+      "definition": "Michael R. Douglas, [“The statistics of string/M theory vacua”](https://arxiv.org/html/hep-th/0303194), *Journal of High Energy Physics* (2003), article 046, on counting candidate vacua and the vacuum-selection problem; Raphael Bousso, [“TASI Lectures on the Cosmological Constant”](https://arxiv.org/abs/0708.4231) (2007), §6.4, preprint p. 28, gives the illustrative flux-counting example. The often-quoted $10^{500}$ is an illustrative landscape scale, not an experimentally established count of universes or merely a count of geometric foldings.",
+      "evidence": "2026-10-23: original abstract/introduction and numerical estimate passage inspected. Numerical example checked in the indexed primary text of Raphael Bousso’s TASI lectures, preprint p.28, §6.4; no observed multiverse claimed.",
+      "urls": [
+        "https://arxiv.org/html/hep-th/0303194",
+        "https://arxiv.org/abs/0708.4231"
+      ]
+    },
+    {
+      "id": "v1-c1-lqg",
+      "definition": "Carlo Rovelli and Lee Smolin, [“Discreteness of area and volume in quantum gravity”](https://arxiv.org/abs/gr-qc/9411005) (1995); Abhay Ashtekar, Tomasz Pawlowski and Parampreet Singh, [“Quantum Nature of the Big Bang”](https://arxiv.org/abs/gr-qc/0604013), *Physical Review Letters* 96 (2006): 141301. The bounce result cited is for a homogeneous, isotropic model with a massless scalar field; it is not an established history of our universe or a generic conclusion of all loop quantum gravity.",
+      "evidence": "Prior primary abstracts checked, rovellismolin1995geometry/ashtekar2006bounce. Model boundary incorporated in body.",
+      "urls": [
+        "https://arxiv.org/abs/gr-qc/9411005",
+        "https://arxiv.org/abs/gr-qc/0604013"
+      ]
+    },
+    {
+      "id": "v1-c1-graphs",
+      "definition": "Luca Bombelli et al., [“Space-time as a causal set”](https://doi.org/10.1103/PhysRevLett.59.521), *Physical Review Letters* 59 (1987): 521–524; Tomasz Konopka, Fotini Markopoulou and Lee Smolin, [“Quantum Graphity”](https://arxiv.org/abs/hep-th/0611197) (2006); J. Ambjørn, J. Jurkiewicz and R. Loll, [“Emergence of a 4D World from Causal Quantum Gravity”](https://arxiv.org/abs/hep-th/0404156) (2004). These are different proposals for microscopic structure and emergent geometry.",
+      "evidence": "2026-10-23: graphity original abstract inspected. CDT abstract previously checked. Causal-set original metadata and abstract inspected: local finiteness, partial order and manifold approximation.",
+      "urls": [
+        "https://doi.org/10.1103/PhysRevLett.59.521",
+        "https://arxiv.org/abs/hep-th/0611197",
+        "https://arxiv.org/abs/hep-th/0404156"
+      ]
+    },
+    {
+      "id": "v1-c1-entspace",
+      "definition": "Mark Van Raamsdonk, [“Building up spacetime with quantum entanglement”](https://arxiv.org/abs/1005.3035), *General Relativity and Gravitation* 42 (2010): 2323–2329; Shinsei Ryu and Tadashi Takayanagi, [“Holographic Derivation of Entanglement Entropy from AdS/CFT”](https://arxiv.org/abs/hep-th/0603001) (2006). These connections apply in specific holographic settings; they do not identify unrestricted philosophical possibility with quantum entanglement.",
+      "evidence": "Prior primary abstracts/essay scope checked in chapter catalog and possibility ledger. The general philosophical inference remains the author’s.",
+      "urls": [
+        "https://arxiv.org/abs/1005.3035",
+        "https://arxiv.org/abs/hep-th/0603001"
+      ]
+    },
+    {
+      "id": "v1-c1-hoyle",
+      "definition": "Helge Kragh, [“An Anthropic Myth: Fred Hoyle’s Carbon-12 Resonance Level”](https://doi.org/10.1007/s00407-010-0068-8), *Archive for History of Exact Sciences* 64 (2010): 721–751; author preprint [“When is a prediction anthropic?”](https://philsci-archive.pitt.edu/5332/1/3alphaphil.pdf). Kragh distinguishes Hoyle’s 1953 abundance argument from later anthropic retellings. For the resonance physics, see T. A. Lähde et al., [“An update on fine-tunings in the triple-alpha process”](https://arxiv.org/abs/1906.00607) (2020).",
+      "evidence": "2026-10-23: original historical research indexed full-text passages inspected; primary physicist lecture independently corroborates abundance-based reasoning. Lähde abstract previously checked. Not crediting a historically disputed anthropic inference as established.",
+      "urls": [
+        "https://doi.org/10.1007/s00407-010-0068-8",
+        "https://philsci-archive.pitt.edu/5332/1/3alphaphil.pdf",
+        "https://arxiv.org/abs/1906.00607"
+      ]
+    },
+    {
+      "id": "v1-c1-bigbangname",
+      "definition": "Helge Kragh, [“What’s in a Name: History and Meanings of the Term ‘Big Bang’”](https://arxiv.org/abs/1301.0219) (2013), on Hoyle’s 1949 BBC broadcast and later accounts of the phrase. The label’s origin is secure; a deliberately mocking intention is not assumed here.",
+      "evidence": "2026-10-23: original historical research abstract/metadata inspected. Manuscript no longer needs to settle disputed intent; only confirmed 1949 origin remains.",
+      "urls": [
+        "https://arxiv.org/abs/1301.0219"
+      ]
+    },
+    {
+      "id": "v1-c1-b2fh",
+      "definition": "E. Margaret Burbidge, Geoffrey R. Burbidge, William A. Fowler and Fred Hoyle, [“Synthesis of the Elements in Stars”](https://doi.org/10.1103/RevModPhys.29.547), *Reviews of Modern Physics* 29 (1957): 547–650. Carbon enrichment includes material shed by lower- and intermediate-mass stars as well as massive-star contributions; a particular bodily atom’s itinerary is a literary reconstruction.",
+      "evidence": "Canonical original-paper bibliographic record checked; stellar-carbon claim corroborated through Hoyle/triple-alpha research. No identification of an actual atom’s history. Original 104-page paper not read in full this run.",
+      "urls": [
+        "https://doi.org/10.1103/RevModPhys.29.547"
+      ]
+    },
+    {
+      "id": "v1-c1-al26",
+      "definition": "NASA Astrobiology, [“Meteorite yields clues about the distribution of aluminium-26 in the early solar nebula”](https://astrobiology.nasa.gov/news/meteorite-yields-clues-about-the-distribution-of-aluminium-26-in-the-early-solar-nebula/) (2024), on radioactive heating of early planetesimals. For magnesium–ATP coordination, see Larsen et al. (1998), [structure and original abstract, PDB 1A5U](https://www.rcsb.org/structure/1A5U); for chlorophyll, Richard Willstätter’s [1915 Nobel lecture](https://www.nobelprize.org/uploads/2018/06/willstatter-lecture.pdf). The named atoms and their individual careers are personifications.",
+      "evidence": "2026-10-23: NASA institutional research account inspected. Chlorophyll central Mg supported by Willstätter Nobel lecture; ATP coordination checked in Larsen et al. (1998) original abstract/data record, RCSB PDB 1A5U. Removed unverified Urey-first-priority claim.",
+      "urls": [
+        "https://astrobiology.nasa.gov/news/meteorite-yields-clues-about-the-distribution-of-aluminium-26-in-the-early-solar-nebula/",
+        "https://www.rcsb.org/structure/1A5U",
+        "https://www.nobelprize.org/uploads/2018/06/willstatter-lecture.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-cmb",
+      "definition": "A. A. Penzias and R. W. Wilson, [“A Measurement of Excess Antenna Temperature at 4080 Mc/s”](https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..419P), *Astrophysical Journal* 142 (1965): 419–421; R. H. Dicke et al., [“Cosmic Black-Body Radiation”](https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..414D), pp. 414–419. The reported observations ran from July 1964 to April 1965; the discovery is not pinned to the author’s conception in spring 1964.",
+      "evidence": "Original articles pp.419–421/414–419 previously read; exact observing dates recorded in catalog. Pigeon-cleaning anecdote is from discovery history, not inferred from these dates. Removed false same-spring equation.",
+      "urls": [
+        "https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..419P",
+        "https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..414D"
+      ]
+    },
+    {
+      "id": "v1-c1-alpher",
+      "definition": "Ralph A. Alpher and Robert Herman, [“Evolution of the Universe”](https://doi.org/10.1038/162774b0), *Nature* 162 (1948): 774–775; Royal Swedish Academy of Sciences, [scientific background to the 2006 Nobel Prize in Physics](https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2006.pdf), historical introduction. Their relic-radiation estimate was about 5 K. Herman was Gamow’s collaborator, not his student.",
+      "evidence": "2026-10-23: Nobel technical historical account inspected. Original Nature metadata retained; historical relationship corrected without fabricating supervision.",
+      "urls": [
+        "https://doi.org/10.1038/162774b0",
+        "https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2006.pdf"
+      ]
+    },
+    {
+      "id": "v1-c1-cobe",
+      "definition": "G. F. Smoot et al., “Structure in the COBE Differential Microwave Radiometer First-Year Maps,” *Astrophysical Journal Letters* 396 (1992): L1–L5; NASA LAMBDA, [COBE overview](https://lambda.gsfc.nasa.gov/product/cobe/) and [DMR maps](https://lambda.gsfc.nasa.gov/product/cobe/dmr_image.html). The tiny primordial anisotropies are distinct from the much larger dipole due to our motion.",
+      "evidence": "2026-10-23: NASA mission account and maps explanation inspected; original paper metadata checked. No fresh reading of entire paper claimed.",
+      "urls": [
+        "https://lambda.gsfc.nasa.gov/product/cobe/",
+        "https://lambda.gsfc.nasa.gov/product/cobe/dmr_image.html"
+      ]
+    },
+    {
+      "id": "v1-c1-wmap",
+      "definition": "C. L. Bennett et al., [“Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results”](https://arxiv.org/abs/1212.5225), *Astrophysical Journal Supplement* 208 (2013): 20; Planck Collaboration, [“Planck 2018 results. VI. Cosmological parameters”](https://arxiv.org/abs/1807.06209), *Astronomy & Astrophysics* 641 (2020): A6. Ages, densities and curvature are inferred through cosmological model fits.",
+      "evidence": "2026-10-23: both collaboration abstracts/metadata inspected; Planck overview previously checked. Distinguishes observing a sky map from directly reading model-independent composition.",
+      "urls": [
+        "https://arxiv.org/abs/1212.5225",
+        "https://arxiv.org/abs/1807.06209"
+      ]
+    },
+    {
+      "id": "v1-c1-darkenergy",
+      "definition": "Planck Collaboration, [“Cosmological parameters”](https://arxiv.org/abs/1807.06209) (2020), base ΛCDM results: approximately 5% baryonic matter, 26% dark matter and 69% dark energy. These are model-dependent energy-density fractions. The accelerating expansion was established through the supernova work recognized by the [2011 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2011/summary/).",
+      "evidence": "Planck primary abstract/parameter account checked 2026-10-23; Nobel official award attribution verified. “Everything measured” changed to ordinary matter; dark matter remains gravitationally observed without identified particle.",
+      "urls": [
+        "https://arxiv.org/abs/1807.06209",
+        "https://www.nobelprize.org/prizes/physics/2011/summary/"
+      ]
+    },
+    {
+      "id": "v1-c1-tension",
+      "definition": "Adam G. Riess et al., [“A Comprehensive Measurement of the Local Value of the Hubble Constant…”](https://arxiv.org/abs/2112.04510), *Astrophysical Journal Letters* 934 (2022): L7; DESI Collaboration, M. Abdul Karim et al., [“DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints”](https://arxiv.org/abs/2503.14738) (2025), abstract and dark-energy constraints. DESI BAO alone is consistent with ΛCDM; the reported preference for evolving dark energy depends on the model and combined CMB/supernova datasets.",
+      "evidence": "2026-10-23: Riess original abstract and DESI DR2 abstract/version history inspected. Dated 2025 result used explicitly; no claim of definitive evolving energy or complete 2026 survey.",
+      "urls": [
+        "https://arxiv.org/abs/2112.04510",
+        "https://arxiv.org/abs/2503.14738"
+      ]
+    }
+  ],
+  "incoming_provenance_comment": "AI-assisted: restructured from Sam's earlier draft; Sam's own lines kept wherever they survived; awaiting Sam's pass",
+  "processed_annotation_record": "work/journal/archive/2026-10-23-chapter-01-processed-note.md",
+  "editorial_notes": "work/journal/volume-1.md#v1-011--chapter-1-adopt-the-authors-revised-draft",
+  "validation": {
+    "matched_notes": 53,
+    "bookwide_note_id_collisions": 0,
+    "display_equations": 4,
+    "pandoc_html_note_backlinks": 53,
+    "header_and_image_preserved": true,
+    "manuscript_content_hashes_unchanged_before_save_excluding_OS_editor_metadata": true,
+    "incoming_source_unchanged": true,
+    "manifest_hash_matches": true,
+    "body_words_whitespace_count": 7230,
+    "incoming_body_words_whitespace_count": 7315
+  }
+}
