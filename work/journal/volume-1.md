@@ -175,3 +175,14 @@ Recovered the four-bond/dopant explanation and compact compositionality, added n
 Informational gravity remains an ambitious author conjecture, with retention, growth and replication distinguished and Landauer's actual scope stated. The cosmic/monkey/Boltzmann-brain paragraph remains verbatim for the author's manual revision; it has not been scientifically certified. The closing sequence remains in place with local factual repairs. A [separate closing consolidation](../volume-1-drafting/interlude-01-adoption-2026-10-23/CLOSING_PROPOSAL.md) is available for literary judgment and has **not** been adopted.
 
 All 13 incoming note identities remain, with eight new notes and bounded evidence records. Some historical papers were checked through metadata and accessible supporting sources, not read in full. Private memoir remains author evidence. No neighboring manuscript, incoming draft or publishing configuration was changed; publication requires its own request. Current author context under `work/claude/` remains outside this editorial commit.
+
+
+## V1-014 — Interlude 1 reader value and author's closing choice
+
+**Assessed, 23 October 2026.** The interlude provides substantial value for a curious general reader within its MATERIAL role. Its explanatory route runs from crystal/band structure and doping to electrical control, logic and memory, then fabrication and integration. The reader can gain a physical account of why chips are possible, how memory can be embodied and why useful reliability requires tolerance. The personal/historical material supplies stakes and recall cues. Computer architecture, detailed instruction execution and AI hardware are later units' responsibilities, not missing requirements here.
+
+**Pending teaching improvement, not inserted:** the step from transistors to logic is currently more named than demonstrated; fabrication and memory receive more concrete treatment. One small worked CMOS inverter example, following an input through switching to its output, would strengthen the reader's ability to explain how physical behavior performs a logical operation. It could occupy a short paragraph or a simple figure, funded by trimming repeated interpretation rather than enlarging the technical survey. This is the strongest incremental teaching improvement, not a reason to replace the interlude or call it valueless. It remains an author decision.
+
+**Author's closing choice:** the author approves the separate shorter ending's literary quality and will merge it manually. Leave both canonical closing and proposal unchanged until that happens or further instructions arrive. The approval does not authorize automatic application in this workflow-update task.
+
+The recurring reader-value check is recorded in B-019 and the journal workflow. No manuscript changed in this assessment.

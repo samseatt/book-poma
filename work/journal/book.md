@@ -153,3 +153,10 @@ Volume III treats possible futures almost as remembered history. Velocity Gates 
 **Voice and collaboration.** The author is the final literary authority. Author/Claude incoming prose supplies the substantive revision; Codex compares, recovers essential losses, tests claims, aligns references, manages provenance and makes targeted repairs. This is a practical division based on this collaboration's outputs, not an assertion that brand labels establish a universal capability ranking. Preserve lively or rough sentences that already do their job. Offer substantial closing consolidation separately when requested, without silently replacing the author's cadence.
 
 **Current paths.** The author renamed the incoming holding pen to `/Users/samseatt/projects/book_poma/sam/claude/` and working context to `work/claude/`. These supersede live `sam/new` and `work/sam` pointers. Dated provenance records retain their historical paths. Read the current style guide and relevant companion context each time; conjectures there do not become verified science by being recorded.
+
+
+## B-019 — Reader value is an explicit adoption criterion
+
+**Standing author direction, 23 October 2026.** For every chapter and interlude, assess whether the intended reader gains sufficient, well-balanced understanding of the assigned domain for the pages invested. Accuracy, voice and reference coverage are necessary but do not by themselves establish educational value. The reader should leave with mechanisms or arguments she can explain and use, rather than names she recognizes or metaphors she cannot unpack.
+
+The two-stage process now asks for a concise reader-value verdict in Stage 1 and a recheck in Stage 2. Test the explanatory progression, missing prerequisite steps, examples, pacing and contribution to later volumes. Preserve humor, emotional experience and original thought as real benefits. Do not demand exhaustive disciplinary coverage or preempt material assigned elsewhere. Record consequential gaps and propose economical repairs; evidence of reader comprehension would require reader testing, so distinguish that from editorial judgment.
