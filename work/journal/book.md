@@ -166,3 +166,12 @@ The two-stage process now asks for a concise reader-value verdict in Stage 1 and
 **Standing author direction, 23 October 2026.** The reader should at least understand a field philosophically: what makes its objects and explanations possible, how its main mechanisms work, and where its assumptions or limits leave room for inquiry. This requires more than an inventory of terms without requiring professional proficiency. Small worked examples and useful figures may serve that aim.
 
 Alice in chapters and Bob in interludes are deliberately less settled than the surrounding factual exposition. The author will continue seeking original, potentially conjectural contributions there after other material has matured. Keep their empirical and conceptual supports accurate, distinguish the proposed step, and preserve their intellectual risk. “Final-like” does not mean closing these investigations or applying a uniform stylistic polish. Make targeted repairs and preserve working authorial prose.
+
+
+## B-021 — Narrative as memory palace; movement before upheaval
+
+**Standing author clarification, 23 October 2026.** Personal vignettes and temporal/event connections act as a memory palace and an additional visceral sense organ for the book's intellectual material. A little productive disorientation is acceptable. Preserve scenes, jokes and public-event coincidences for the recall, emotional weight and connections they provide; do not reduce them to decoration when tightening prose.
+
+In Volume I the upheaval follows the narrator's move into the next domain. Birth is the literary move from biology to brain; the later war can therefore remain biology's upheaval. Domain assignments organize the inquiry and do not deny overlapping physical, biological or neural processes. Do not advance the narrator's national identity before its assigned chapter. State public-event timing at the strongest supported precision, preserving an approximate conjunction when exact simultaneity is unsupported.
+
+The author wants adventurous Alice/Bob conjectures with reliable factual surroundings. Keep repeated motifs that advance the argument; cut genuinely repeated explanations rather than the cross-domain search-space premise itself. Gradient descent in evolution is retained as an expressly bounded analogy, with selection, inheritance, drift, development and regulation distinguished in ordinary language.

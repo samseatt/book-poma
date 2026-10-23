@@ -1,0 +1,13 @@
+{
+  "header_transformation": "passed in memory; no publisher sync or output write",
+  "annotation_blocks": 0,
+  "preserved_note_definitions": 40,
+  "other_tracked_manuscripts_and_existing_gitignore_unchanged": 296,
+  "holding_pen_unchanged": true,
+  "birth_joke_restored": true,
+  "training_and_inference_gradient_descent_retained": true,
+  "war_after_birth": true,
+  "private_geographic_and_maternal_year_constraints": "passed",
+  "reference_placeholders_removed": true,
+  "render_scope": "Pandoc HTML notes and parser checked; no deployed or print-edition visual QA"
+}

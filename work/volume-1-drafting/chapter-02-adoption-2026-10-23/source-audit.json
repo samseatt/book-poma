@@ -1,0 +1,429 @@
+{
+  "unit": "v1-2-chapter",
+  "scope": "Reference alignment for approved adoption; not complete rereading of every cited book or independent experimental replication. Primary text, abstracts, indexed passages, publisher descriptions, and carried-forward evidence are distinguished below.",
+  "records": [
+    {
+      "note_id": "v1-c2-dawkins",
+      "bibliography_and_locator": "Richard Dawkins, *Unweaving the Rainbow* (1998), chapter 1, “The Anaesthetic of Familiarity,” opening paragraph. The epigraph reproduces its first two sentences; an [academic teaching excerpt](https://home.iitk.ac.in/~dasgupta/teaching/EPSC/DawkinsPinker.pdf) preserves the wording.",
+      "urls": [
+        "https://home.iitk.ac.in/~dasgupta/teaching/EPSC/DawkinsPinker.pdf"
+      ],
+      "verification_depth": "quotation comparison",
+      "evidence_and_limit": "Opening two sentences compared with the IIT Kanpur teaching reproduction; original printed edition not inspected.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-oocyte",
+      "bibliography_and_locator": "Mary Herbert et al., [“Oocyte development, meiosis and aneuploidy”](https://doi.org/10.1016/j.semcdb.2015.10.005), *Seminars in Cell & Developmental Biology* 45 (2015): 68–76, discussion of fetal recombination and meiotic arrest. Human oocytes begin meiosis and recombination before birth, then arrest; maturation and the final chromosome segregations occur much later. The prenatal scene begins the preparation of an eventual egg, not a completed haploid gamete.",
+      "urls": [
+        "https://doi.org/10.1016/j.semcdb.2015.10.005"
+      ],
+      "verification_depth": "indexed scholarly passage and bibliographic record",
+      "evidence_and_limit": "Herbert et al. fetal recombination and arrest passages checked; direct PMC request hit a challenge page.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-trio",
+      "bibliography_and_locator": "Watson's [Nobel autobiography](https://www.nobelprize.org/prizes/medicine/1962/watson/biographical/) records his Chicago B.Sc. in 1947 and early interest in birds; Cambridge's [Crick memorial](https://www.cam.ac.uk/news/francis-crick-1916-2004) dates his move to biological research to 1947. King's College London's [2008 report](https://www.kcl.ac.uk/archive/publications/report-docs/report2008.pdf), p. 16, places Franklin's move to Paris in 1947. These public milestones are approximate companions to the family chronology, not evidence for the date of a particular oocyte's recombination.",
+      "urls": [
+        "https://www.nobelprize.org/prizes/medicine/1962/watson/biographical/",
+        "https://www.cam.ac.uk/news/francis-crick-1916-2004",
+        "https://www.kcl.ac.uk/archive/publications/report-docs/report2008.pdf"
+      ],
+      "verification_depth": "institutional biographical evidence",
+      "evidence_and_limit": "Watson Nobel biography, Cambridge Crick memorial and KCL 2008 report p.16 support 1947. NLM access was blocked and replaced with KCL.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-photo51",
+      "bibliography_and_locator": "Rosalind E. Franklin and Raymond G. Gosling, [“Molecular Configuration in Sodium Thymonucleate”](https://doi.org/10.1038/171740a0), *Nature* 171 (1953): 740–741. Their B-form diffraction photograph, Photo 51, was taken in May 1952; see the [King's College London account](https://www.kcl.ac.uk/people/rosalind-franklin). The cosmological comparison is the author's, not a claim that diffraction photographs and microwave sky maps measure the same phenomenon.",
+      "urls": [
+        "https://doi.org/10.1038/171740a0",
+        "https://www.kcl.ac.uk/people/rosalind-franklin"
+      ],
+      "verification_depth": "institutional history and original-paper record",
+      "evidence_and_limit": "KCL May 1952/Gosling evidence and Franklin/Gosling publication verified. No claim of direct insight from every feature of the photograph.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-dogma",
+      "bibliography_and_locator": "Francis Crick, “On Protein Synthesis,” *Symposia of the Society for Experimental Biology* 12 (1958): 138–163; and [“Central Dogma of Molecular Biology”](https://doi.org/10.1038/227561a0), *Nature* 227 (1970): 561–563, especially the distinction between general, special and prohibited transfers. The dogma concerns the transfer of sequence information out of protein; RNA-to-DNA transfer does not violate it. [Text of the 1970 paper](https://cs.brynmawr.edu/Courses/cs380/fall2012/CrickCentralDogma1970.pdf).",
+      "urls": [
+        "https://doi.org/10.1038/227561a0",
+        "https://cs.brynmawr.edu/Courses/cs380/fall2012/CrickCentralDogma1970.pdf"
+      ],
+      "verification_depth": "original text",
+      "evidence_and_limit": "Crick 1970 original paper inspected: sequence information out of protein is the prohibition, not reverse transcription.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-temin",
+      "bibliography_and_locator": "Howard M. Temin, [Nobel lecture](https://www.nobelprize.org/uploads/2018/06/temin-lecture.pdf), “The DNA Provirus Hypothesis,” 12 December 1975, recounts presenting the proposal in spring 1964. The enzyme evidence came in 1970: H. M. Temin and S. Mizutani, [“RNA-dependent DNA polymerase in virions of Rous sarcoma virus”](https://doi.org/10.1038/2261211a0), *Nature* 226: 1211–1213; independently, David Baltimore, [“RNA-dependent DNA polymerase in virions of RNA tumour viruses”](https://doi.org/10.1038/2261209a0), pp. 1209–1211. Proposal, demonstration and later recognition are distinct milestones.",
+      "urls": [
+        "https://www.nobelprize.org/uploads/2018/06/temin-lecture.pdf",
+        "https://doi.org/10.1038/2261211a0",
+        "https://doi.org/10.1038/2261209a0"
+      ],
+      "verification_depth": "indexed first-person lecture and primary publication records",
+      "evidence_and_limit": "Temin Nobel lecture indexed spring-1964 passage; direct Nobel PDF fetch blocked. Distinguish hypothesis from independently demonstrated 1970 enzymes.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-chronology",
+      "bibliography_and_locator": "For the Ω⁻ announcement, see Brookhaven's [25 February 1964 bulletin](https://www.bnl.gov/bnlweb/pubaf/bulletin/files/1964/19640225.pdf), pp. 1–2. A. A. Penzias and R. W. Wilson, [“A Measurement of Excess Antenna Temperature at 4080 Mc/s”](https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..419P), *Astrophysical Journal* 142 (1965): 419–421, reports observations from July 1964 to April 1965. J. H. Christenson, J. W. Cronin, V. L. Fitch and R. Turlay, [“Evidence for the 2π Decay of the K₂⁰ Meson”](https://doi.org/10.1103/PhysRevLett.13.138), *Physical Review Letters* 13 (1964): 138–140, appeared that summer. These links preserve the conception-year conjunction without assigning all the events to the same spring or week.",
+      "urls": [
+        "https://www.bnl.gov/bnlweb/pubaf/bulletin/files/1964/19640225.pdf",
+        "https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..419P",
+        "https://doi.org/10.1103/PhysRevLett.13.138"
+      ],
+      "verification_depth": "original paper and existing Chapter1 evidence",
+      "evidence_and_limit": "Penzias/Wilson original reproduced paper checked for July1964–April1965; Brookhaven/PRL chronology reuses verified Chapter1 records. Family details remain author testimony.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-nodal",
+      "bibliography_and_locator": "Shigenori Nonaka et al., [“Randomization of Left–Right Asymmetry due to Loss of Nodal Cilia Generating Leftward Flow of Extraembryonic Fluid in Mice Lacking KIF3B Motor Protein”](https://pubmed.ncbi.nlm.nih.gov/9865700/), *Cell* 95 (1998): 829–837. This experiment established the mechanism in mice; human laterality disorders associated with motile-cilia defects support its relevance to us. Directional flow depends on the cilia's geometry and coordinated rotation, not handedness alone. The comparison with broken parity in physics is literary, not an established causal connection.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/9865700/"
+      ],
+      "verification_depth": "primary abstract and scope correction",
+      "evidence_and_limit": "Nonaka mouse knockout abstract inspected; footnote distinguishes model-organism evidence, human relevance and literary weak-force comparison.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-schrodinger",
+      "bibliography_and_locator": "Erwin Schrödinger, *What Is Life? The Physical Aspect of the Living Cell* (1944), chapters 1 and 5, on the “aperiodic crystal”; based on his 1943 Dublin lectures. [Text](https://herba.msu.ru/shipunov/school/univ_110/papers/schroedinger1944_what_is_life.pdf). “Aperiodic” concerns a non-repeating arrangement capable of carrying information, not a claim that DNA is an ordinary mineral lattice.",
+      "urls": [
+        "https://herba.msu.ru/shipunov/school/univ_110/papers/schroedinger1944_what_is_life.pdf"
+      ],
+      "verification_depth": "primary-text excerpt",
+      "evidence_and_limit": "Aperiodic-crystal passage in digitized text checked; text locators use chapters instead of unverified edition page numbers.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-entropy",
+      "bibliography_and_locator": "Schrödinger, *What Is Life?*, chapter 6 and its note on free energy, explains the maintenance of living order through exchange with the surroundings. For irreversible information erasure, Rolf Landauer, [“Irreversibility and Heat Generation in the Computing Process”](https://doi.org/10.1147/rd.53.0183), *IBM Journal of Research and Development* 5 (1961): 183–191. The comparison does not make all computation intrinsically dissipative by the same amount or identify biological order with a single information measure.",
+      "urls": [
+        "https://doi.org/10.1147/rd.53.0183"
+      ],
+      "verification_depth": "prior verified interlude source and primary-text context",
+      "evidence_and_limit": "Landauer source carried from verified Interlude1; distinction restricted to irreversible erasure. Schrödinger free-energy context, not universal entropy accounting identity.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-pond",
+      "bibliography_and_locator": "Charles Darwin to Joseph Dalton Hooker, 1 February 1871, [letter 7471, Darwin Correspondence Project](https://www.darwinproject.ac.uk/view/letters/DCP-LETT-7471). Darwin's “warm little pond” was a conjecture in private correspondence, not an experimental finding.",
+      "urls": [
+        "https://www.darwinproject.ac.uk/view/letters/DCP-LETT-7471"
+      ],
+      "verification_depth": "original correspondence",
+      "evidence_and_limit": "Darwin Project letter7471 read; private speculation, not experiment.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-miller",
+      "bibliography_and_locator": "Stanley L. Miller, [“A Production of Amino Acids under Possible Primitive Earth Conditions”](https://doi.org/10.1126/science.117.3046.528), *Science* 117 (1953): 528–529. The experiment used electrical discharge through a specified reducing gas mixture; it demonstrated abiotic synthesis of organic compounds, not the creation of life or proof of the early atmosphere's composition.",
+      "urls": [
+        "https://doi.org/10.1126/science.117.3046.528"
+      ],
+      "verification_depth": "primary publication record and experimental summary",
+      "evidence_and_limit": "1953 Miller citation and experiment verified; no synthesis of life claimed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-lane",
+      "bibliography_and_locator": "Nick Lane and William F. Martin, [“The Origin of Membrane Bioenergetics”](https://doi.org/10.1016/j.cell.2012.11.050), *Cell* 151 (2012): 1406–1416, especially the proposed transition from natural proton gradients across mineral walls to cellular ion pumping. [Author-hosted paper](https://www.molevol.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Biologie/Institute/Molekulare_Evolution/Dokumente/Lane_and_Martin_2012_Cell.pdf). Their account develops Michael Russell's alkaline-vent hypothesis; it remains an origins model. Some organisms use sodium gradients, and not all ATP production is chemiosmotic.",
+      "urls": [
+        "https://doi.org/10.1016/j.cell.2012.11.050",
+        "https://www.molevol.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Biologie/Institute/Molekulare_Evolution/Dokumente/Lane_and_Martin_2012_Cell.pdf"
+      ],
+      "verification_depth": "original author-hosted article passages",
+      "evidence_and_limit": "Lane/Martin opening and geochemical model checked, with sodium/proton and hypothetical-origin boundaries.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-thermophoresis",
+      "bibliography_and_locator": "Philipp Baaske et al., [“Extreme accumulation of nucleotides in simulated hydrothermal pore systems”](https://doi.org/10.1073/pnas.0609592104), *PNAS* 104 (2007): 9346–9351. The modeled combination of thermal convection and thermophoresis concentrates molecules under specified pore conditions. This supports a possible concentrating mechanism, not a reconstruction of the actual birthplace of life.",
+      "urls": [
+        "https://doi.org/10.1073/pnas.0609592104"
+      ],
+      "verification_depth": "primary record and indexed research summary",
+      "evidence_and_limit": "Baaske simulated pores: convection plus thermophoresis; not direct observation of early Earth.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-ribozyme",
+      "bibliography_and_locator": "Thomas Cech and Sidney Altman received the [1989 chemistry Nobel](https://www.nobelprize.org/prizes/chemistry/1989/summary/) for catalytic RNA. Poul Nissen et al., [“The Structural Basis of Ribosome Activity in Peptide Bond Synthesis”](https://doi.org/10.1126/science.289.5481.920), *Science* 289 (2000): 920–930, identifies the RNA catalytic center. The whole ribosome also contains proteins. Walter Gilbert, [“Origin of life: The RNA world”](https://doi.org/10.1038/319618a0), *Nature* 319 (1986): 618, names the hypothesis; no complete ancestral RNA-only organism has been demonstrated.",
+      "urls": [
+        "https://www.nobelprize.org/prizes/chemistry/1989/summary/",
+        "https://doi.org/10.1126/science.289.5481.920",
+        "https://doi.org/10.1038/319618a0"
+      ],
+      "verification_depth": "primary abstract",
+      "evidence_and_limit": "Nissen et al. RNA active-site evidence checked. Corrected incoming conflation of Ban structural and Nissen catalytic papers; 920–930 is the relevant page range.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-rivals",
+      "bibliography_and_locator": "Bruce Damer and David Deamer, [“The Hot Spring Hypothesis for an Origin of Life”](https://doi.org/10.1089/ast.2019.2045), *Astrobiology* 20 (2020): 429–452, on wet–dry cycling in terrestrial pools; Bhavesh H. Patel et al., [“Common origins of RNA, protein and lipid precursors in a cyanosulfidic protometabolism”](https://doi.org/10.1038/nchem.2202), *Nature Chemistry* 7 (2015): 301–307, on ultraviolet-dependent prebiotic chemistry. A combined surface/deep-sea history remains a possibility, not a demonstrated reconciliation.",
+      "urls": [
+        "https://doi.org/10.1089/ast.2019.2045",
+        "https://doi.org/10.1038/nchem.2202"
+      ],
+      "verification_depth": "authors' hypothesis and research records",
+      "evidence_and_limit": "Damer/Deamer testable hot-spring scenario and Patel cyanosulfidic primary record checked; combined geography remains conjecture.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-luca",
+      "bibliography_and_locator": "Madeline C. Weiss et al., [“The physiology and habitat of the last universal common ancestor”](https://doi.org/10.1038/nmicrobiol.2016.116), *Nature Microbiology* 1 (2016): 16116, reconstructs an anaerobic, hydrogen-dependent, thermophilic LUCA. Compare Edmund R. R. Moody et al., [“The nature of the last universal common ancestor and its impact on the early Earth system”](https://doi.org/10.1038/s41559-024-02461-1), *Nature Ecology & Evolution* 8 (2024): 1654–1666, on an already complex ancestor within an ecosystem. Ancestral reconstruction depends on assumptions about gene histories and is not direct observation of first life.",
+      "urls": [
+        "https://doi.org/10.1038/nmicrobiol.2016.116",
+        "https://doi.org/10.1038/s41559-024-02461-1"
+      ],
+      "verification_depth": "primary abstract and indexed paper passage",
+      "evidence_and_limit": "Weiss 2016 reconstruction and Moody2024 ecosystem argument checked; LUCA separated from origin/first replicator.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-exaptation",
+      "bibliography_and_locator": "Stephen Jay Gould and Elisabeth S. Vrba, [“Exaptation—a Missing Term in the Science of Form”](https://doi.org/10.1017/S0094837300004310), *Paleobiology* 8 (1982): 4–15. A feature may be co-opted from a previous function or from a trait not originally selected for its present use. The ancestral functions of feathers remain a research question; the policeman and cosmic-exaptation extensions are the author's analogies.",
+      "urls": [
+        "https://doi.org/10.1017/S0094837300004310"
+      ],
+      "verification_depth": "original-paper excerpt",
+      "evidence_and_limit": "Gould/Vrba original feather discussion checked; broadened original function from certain insulation to possible non-flight functions.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-nerve",
+      "bibliography_and_locator": "The recurrent laryngeal nerve's inherited route was demonstrated in the giraffe dissection in *Inside Nature's Giants* (Channel 4, 2009), with anatomist Joy Reidenberg and Richard Dawkins. See also Dawkins, *The Greatest Show on Earth* (2009), chapter 11, “History Written All Over Us.” Its history constrains development; this does not prove that evolution could never produce any alternative route.",
+      "urls": [],
+      "verification_depth": "retained classic illustration; limited edition check",
+      "evidence_and_limit": "Dawkins book/documentary illustration retained; full documentary and printed chapter not re-viewed in this run. Anatomy is standard; no new quotation introduced.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-extended",
+      "bibliography_and_locator": "Richard Dawkins, *The Extended Phenotype* (1982), especially the discussion of animal artifacts and effects beyond an organism's body. For the explicit extension to other organisms, see the scholarly account [“Extended phenotype in evolutionary medicine”](https://academic.oup.com/emph/article/2019/1/48/5376518). The ripple metaphor here is the author's extension, not Dawkins's physical model.",
+      "urls": [
+        "https://academic.oup.com/emph/article/2019/1/48/5376518"
+      ],
+      "verification_depth": "concept cross-check and scholarly article",
+      "evidence_and_limit": "1982 concept cross-checked in scholarly extended-phenotype account; complete book not read this run.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-landscapes",
+      "bibliography_and_locator": "C. H. Waddington, [*The Strategy of the Genes*](https://www.routledge.com/The-Strategy-of-the-Genes/Waddington/p/book/9781138017313) (1957), on developmental landscapes and canalization; Sewall Wright, [“The Roles of Mutation, Inbreeding, Crossbreeding and Selection in Evolution”](https://www.pe.ska.life.tsukuba.ac.jp/~toque/POPGEN/pdfs/Wright1932.pdf), *Proceedings of the Sixth International Congress of Genetics* 1 (1932): 356–366, on adaptive landscapes. Developmental trajectories and population fitness landscapes describe different processes; neither is literal spacetime curvature.",
+      "urls": [
+        "https://www.routledge.com/The-Strategy-of-the-Genes/Waddington/p/book/9781138017313",
+        "https://www.pe.ska.life.tsukuba.ac.jp/~toque/POPGEN/pdfs/Wright1932.pdf"
+      ],
+      "verification_depth": "original paper and publisher preview/record",
+      "evidence_and_limit": "Wright1932 text and Waddington book metadata/landscape context checked. Distinct population/developmental uses preserved.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-dst",
+      "bibliography_and_locator": "Susan Oyama, [*The Ontogeny of Information: Developmental Systems and Evolution*](https://www.dukeupress.edu/the-ontogeny-of-information) (1985; revised edition 2000); Susan Oyama, Paul E. Griffiths and Russell D. Gray, eds., [*Cycles of Contingency*](https://mitpress.mit.edu/9780262650632/cycles-of-contingency/) (2001). Developmental systems theory treats genes, cellular structures and ecological resources as interacting contributors. The author's temporary separation of “writing” from “medium” is a viewing device, not an assertion of DNA's developmental independence.",
+      "urls": [
+        "https://www.dukeupress.edu/the-ontogeny-of-information",
+        "https://mitpress.mit.edu/9780262650632/cycles-of-contingency/"
+      ],
+      "verification_depth": "publisher substantive descriptions",
+      "evidence_and_limit": "Duke and MIT descriptions directly support multi-resource, reciprocal development; no book-page claim invented.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-learning",
+      "bibliography_and_locator": "Vitaly Vanchurin, Yuri I. Wolf, Mikhail I. Katsnelson and Eugene V. Koonin, [“Toward a theory of evolution as multilevel learning”](https://doi.org/10.1073/pnas.2120037119), *PNAS* 119 (2022): e2120037119; [open manuscript](https://arxiv.org/abs/2110.14602), especially principles E3–E6 on hierarchy, local optima, diversity and genotype–phenotype separation. This is a proposed theoretical framework. Its optimization analogy neither makes all biological evolution literal gradient descent nor establishes the chapter's cosmological parallels as mechanisms.",
+      "urls": [
+        "https://doi.org/10.1073/pnas.2120037119",
+        "https://arxiv.org/abs/2110.14602"
+      ],
+      "verification_depth": "original manuscript sections",
+      "evidence_and_limit": "arXiv PDF pp.9–11 (printed pagination), principles E3–E6 inspected for levels/timescales/local solutions. PNAS publication record aligned. Proposed framework, not consensus equivalence.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-cleavage",
+      "bibliography_and_locator": "For cleavage, compaction and early lineage allocation, see [“The physiological and pathological mechanisms of early embryonic development”](https://pmc.ncbi.nlm.nih.gov/articles/PMC11197659/), sections on preimplantation development. Broad early developmental potential does not mean every cell at every cleavage stage can independently form an entire organism. For human gastrulation in the third week, Richard C. V. Tyser et al., [“Single-cell transcriptomic characterization of a gastrulating human embryo”](https://doi.org/10.1038/s41586-021-04158-y), *Nature* 600 (2021): 285–289, analyzes a specimen estimated at 16–19 days after fertilization.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11197659/",
+        "https://doi.org/10.1038/s41586-021-04158-y"
+      ],
+      "verification_depth": "scholarly development review and original gastrulation study",
+      "evidence_and_limit": "Embryo-development review indexed passages; Tyser primary abstract for16–19day gastrulation. Removed blanket every-cell-is-totipotent claim.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-hox",
+      "bibliography_and_locator": "Edward B. Lewis, [“A gene complex controlling segmentation in Drosophila”](https://doi.org/10.1038/276565a0), *Nature* 276 (1978): 565–570; Christiane Nüsslein-Volhard and Eric Wieschaus, [“Mutations affecting segment number and polarity in Drosophila”](https://doi.org/10.1038/287795a0), *Nature* 287 (1980): 795–801. For comparison across animals, Sean B. Carroll, [“Hox genes and the evolution of diverse body plans”](https://pubmed.ncbi.nlm.nih.gov/8577843/), *Philosophical Transactions of the Royal Society B* 349 (1995): 313–319. Conserved patterning genes do not make human development a replay of fly development.",
+      "urls": [
+        "https://doi.org/10.1038/276565a0",
+        "https://doi.org/10.1038/287795a0",
+        "https://pubmed.ncbi.nlm.nih.gov/8577843/"
+      ],
+      "verification_depth": "classic-paper metadata and comparative scholarly abstract",
+      "evidence_and_limit": "Lewis/Nüsslein-Volhard/Wieschaus records and Carroll1995 comparison checked. Do not imply all discoveries were literally Hox genes or recapitulation.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-wolpert",
+      "bibliography_and_locator": "The famous formulation appears in J. M. W. Slack, *From Egg to Embryo* (1983), opening paragraph, attributing the insight to Lewis Wolpert. Its history is reconstructed from texts, archives and recollection in [“‘Not birth, marriage or death, but gastrulation’: the life of a quotation in biology”](https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/not-birth-marriage-or-death-but-gastrulation-the-life-of-a-quotation-in-biology/277AA3AE743772CB4335A98836564E48), *British Journal for the History of Science* (2022), sections “Specialists and dignitaries in conversation” and “Embellished in print.” The earliest recalled conversation was in 1979; 1986 is not a secure origin date.",
+      "urls": [
+        "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/not-birth-marriage-or-death-but-gastrulation-the-life-of-a-quotation-in-biology/277AA3AE743772CB4335A98836564E48"
+      ],
+      "verification_depth": "archival quotation-history article",
+      "evidence_and_limit": "Cambridge history inspected at sections on1979conversation and1983Slack publication. Replaced unsupported1986date and verify-placeholder.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-shh",
+      "bibliography_and_locator": "R. D. Riddle, R. L. Johnson, E. Laufer and C. Tabin, [“Sonic hedgehog mediates the polarizing activity of the ZPA”](https://pubmed.ncbi.nlm.nih.gov/8269518/), *Cell* 75 (1993): 1401–1416. Hedgehog signaling can act across a tissue; Notch usually requires contact between neighboring cells. These pathways are not all freely diffusing morphogens.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/8269518/"
+      ],
+      "verification_depth": "primary record and indexed manuscript",
+      "evidence_and_limit": "Riddle1993 title/authors/pages and signaling description checked. Notch separated from diffusible signals.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-polymerase",
+      "bibliography_and_locator": "Thomas A. Steitz, [“A mechanism for all polymerases”](https://pubmed.ncbi.nlm.nih.gov/9440683/), *Nature* 391 (1998): 231–232. The classic two-metal-ion account explains nucleotide addition, commonly with magnesium. Catalytic metal occupancy can vary during a reaction; the image of a permanent pair in every copying enzyme is too literal. Catalysis and proofreading are also distinct functions.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/9440683/"
+      ],
+      "verification_depth": "primary record and mechanistic qualification",
+      "evidence_and_limit": "Steitz1998 citation confirmed; generalized permanent-two-ion claim removed. No newly invented enzyme mechanism.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-shapiro",
+      "bibliography_and_locator": "Frank Ryan, *Virolution* (2009); James A. Shapiro, [*Evolution: A View from the 21st Century*](https://shapiro.bsd.uchicago.edu/evolution21.shtml) (2011), especially the molecular mechanisms of genome restructuring. Shapiro's [“Letting Escherichia coli Teach Me About Genome Engineering”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2787414/), *Genetics* 183 (2009): 1205–1214, gives a research-based account. These authors' broader interpretations are not a consensus replacement for selection, drift or population genetics. DNA rearrangement, RNA regulation and epigenetic marking are different mechanisms with different routes, or barriers, to inheritance.",
+      "urls": [
+        "https://shapiro.bsd.uchicago.edu/evolution21.shtml",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2787414/"
+      ],
+      "verification_depth": "author-hosted account and primary research memoir",
+      "evidence_and_limit": "Shapiro2009 and2011 author materials inspected. Ryan attribution retained as an author's named interpretation, not independent proof.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-te",
+      "bibliography_and_locator": "International Human Genome Sequencing Consortium, [“Initial sequencing and analysis of the human genome”](https://doi.org/10.1038/35057062), *Nature* 409 (2001): 860–921, especially the interspersed-repeat analysis. The familiar approximate fractions are about 45% recognizable transposable-element-derived sequence and about 8% endogenous-retrovirus-related sequence; the latter is included within the former. These are historical annotation-based estimates, not fractions that can be added together or exact totals of all ancient mobile DNA.",
+      "urls": [
+        "https://doi.org/10.1038/35057062"
+      ],
+      "verification_depth": "primary bibliography; established estimates retained",
+      "evidence_and_limit": "2001 consortium record verified; direct full-text fetch failed. Approximate45%/8% historical fractions retained and expressly non-additive; no claim of re-analysis of its repeat table.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-syncytin",
+      "bibliography_and_locator": "Sha Mi et al., [“Syncytin is a captive retroviral envelope protein involved in human placental morphogenesis”](https://pubmed.ncbi.nlm.nih.gov/10693809/), *Nature* 403 (2000): 785–789, describes syncytin-1. S. Blaise et al., [“Genomewide screening for fusogenic human endogenous retrovirus envelopes identifies syncytin 2, a gene conserved on primate evolution”](https://doi.org/10.1073/pnas.2132646100), *PNAS* 100 (2003): 13013–13018. Syncytins contribute to placental cell fusion; a functioning placenta requires many other genes and processes.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/10693809/",
+        "https://doi.org/10.1073/pnas.2132646100"
+      ],
+      "verification_depth": "primary abstracts and indexed original text",
+      "evidence_and_limit": "Mi2000 fusion experiment and Blaise2003 two human fusogenic genes checked. Repaired single-gene exclusivity.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-encode",
+      "bibliography_and_locator": "ENCODE Project Consortium, [“An integrated encyclopedia of DNA elements in the human genome”](https://doi.org/10.1038/nature11247), *Nature* 489 (2012): 57–74; Dan Graur et al., [“On the Immortality of Television Sets: ‘Function’ in the Human Genome According to the Evolution-Free Gospel of ENCODE”](https://doi.org/10.1093/gbe/evt028), *Genome Biology and Evolution* 5 (2013): 578–590. Detectable biochemical activity does not by itself show an evolutionarily maintained function. The onion comparison is T. Ryan Gregory's “onion test” (2007); the genome's dark-matter/dark-energy analogy is the author's, not a physical identification.",
+      "urls": [
+        "https://doi.org/10.1038/nature11247",
+        "https://doi.org/10.1093/gbe/evt028"
+      ],
+      "verification_depth": "primary indexed text and critique",
+      "evidence_and_limit": "ENCODE80.4% passage and Graur critique checked; biochemical activity distinguished from essential/evolutionary function. Gregory attribution retained; original blog not retrieved.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-cambrian",
+      "bibliography_and_locator": "Douglas H. Erwin et al., [“The Cambrian Conundrum: Early Divergence and Later Ecological Success in the Early History of Animals”](https://doi.org/10.1126/science.1206375), *Science* 334 (2011): 1091–1097; Erwin and James W. Valentine, *The Cambrian Explosion: The Construction of Animal Biodiversity* (2013). Environmental, developmental and ecological explanations interact and remain debated. Complex Ediacaran communities preceded the Cambrian; the event was neither the first multicellularity nor the sudden invention of all its genetic tools.",
+      "urls": [
+        "https://doi.org/10.1126/science.1206375"
+      ],
+      "verification_depth": "primary scholarly abstract",
+      "evidence_and_limit": "Erwin2011 developmental-toolkit/ecology lag inspected;2013book retained as longer source. Removed first-complex-ecosystem and simultaneous-toolkit claims.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-convergence",
+      "bibliography_and_locator": "Stephen Jay Gould, *Wonderful Life* (1989), on historical contingency; Simon Conway Morris, [*Life's Solution: Inevitable Humans in a Lonely Universe*](https://doi.org/10.1017/CBO9780511535499) (2003), on convergence. L. von Salvini-Plawen and Ernst Mayr, “On the Evolution of Photoreceptors and Eyes,” *Evolutionary Biology* 10 (1977): 207–263, supplies the classic estimate of many independent eye origins. Counts depend on what level of eye complexity is counted; shared ancient molecular components coexist with repeated assembly of organs.",
+      "urls": [
+        "https://doi.org/10.1017/CBO9780511535499"
+      ],
+      "verification_depth": "bibliographic and conceptual cross-check",
+      "evidence_and_limit": "Gould/ConwayMorris classical positions retained; Cambridge publication record and photoreceptor literature checked. Full classic books not reread; exact eye-origin count left unspecified in prose.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-extinctions",
+      "bibliography_and_locator": "Steven M. Stanley, [“Estimates of the magnitudes of major marine mass extinctions in earth history”](https://pmc.ncbi.nlm.nih.gov/articles/PMC5081622/), *PNAS* 113 (2016): E6325–E6334, revises end-Permian marine species loss to roughly 81%, below some older estimates. Peter Schulte et al., [“The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous–Paleogene Boundary”](https://pubmed.ncbi.nlm.nih.gov/20203042/), *Science* 327 (2010): 1214–1218. Birds survived; “dinosaurs” here excludes them. The [Smithsonian's public account](https://www.si.edu/newsdesk/releases/smithsonians-national-museum-natural-history-opens-new-exhibition-hall-butterflies-plants-p) uses the familiar 99% estimate; lifetime totals are not a complete fossil census.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5081622/",
+        "https://pubmed.ncbi.nlm.nih.gov/20203042/",
+        "https://www.si.edu/newsdesk/releases/smithsonians-national-museum-natural-history-opens-new-exhibition-hall-butterflies-plants-p"
+      ],
+      "verification_depth": "research summaries and institutional estimate",
+      "evidence_and_limit": "Stanley2016 and Schulte2010 abstracts/summary evidence; Smithsonian99%publicestimate. Range and estimation limits explicit.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-margulis",
+      "bibliography_and_locator": "Lynn Sagan (later Lynn Margulis), [“On the origin of mitosing cells”](https://pubmed.ncbi.nlm.nih.gov/11541392/), *Journal of Theoretical Biology* 14 (1967): 225–274. The bacterial origins of mitochondria and chloroplasts are strongly supported; not every proposed component of the original paper's endosymbiotic account was confirmed. Lynn and Carl Sagan were different people; their earlier marriage explains the shared name.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/11541392/"
+      ],
+      "verification_depth": "original paper abstract and historical record",
+      "evidence_and_limit": "1967 Sagan primary abstract and later historical appraisal checked. Lynn/Carl identity error corrected; not all original endosymbiotic proposals endorsed.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-microbiome",
+      "bibliography_and_locator": "Ron Sender, Shai Fuchs and Ron Milo, [“Revised Estimates for the Number of Human and Bacteria Cells in the Body”](https://doi.org/10.1371/journal.pbio.1002533), *PLOS Biology* 14 (2016): e1002533. Their reference-adult estimate is about 38 trillion bacteria and 30 trillion human cells. The ratio varies among bodies and conditions; it is not a fixed individual count, and the estimate concerns bacteria rather than every kind of microbe.",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.1002533"
+      ],
+      "verification_depth": "primary abstract",
+      "evidence_and_limit": "Sender/Fuchs/Milo reference-man cell estimates read; variable ratio and bacteria/microbe distinction noted.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-multicell",
+      "bibliography_and_locator": "Richard K. Grosberg and Richard R. Strathmann, [“The Evolution of Multicellularity: A Minor Major Transition?”](https://doi.org/10.1146/annurev.ecolsys.36.102403.114735), *Annual Review of Ecology, Evolution, and Systematics* 38 (2007): 621–654. Multiple origins include both clonal development and aggregation; origins of complex bodies with many specialized cell types are much fewer. The contracts and treaties are metaphors for evolved coordination, not conscious agreements among cells.",
+      "urls": [
+        "https://doi.org/10.1146/annurev.ecolsys.36.102403.114735"
+      ],
+      "verification_depth": "original author-hosted text",
+      "evidence_and_limit": "Grosberg/Strathmann pp.621–623 and Fig1 inspected for independent origins, coordination/conflicts, clonal/aggregative distinction.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-homeostasis",
+      "bibliography_and_locator": "George E. Billman, [“Homeostasis: The Underappreciated and Far Too Often Ignored Central Organizing Principle of Physiology”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7076167/), *Frontiers in Physiology* 11 (2020): 200, especially “Feedback Regulation.” Shaun F. Morrison and Kazuhiro Nakamura, [“Central Mechanisms for Thermoregulation”](https://pubmed.ncbi.nlm.nih.gov/30256726/), *Annual Review of Physiology* 81 (2019): 285–308, discusses thermoeffectors and fever. The thermostat is a useful simplification of distributed, interacting control circuits; regulation maintains workable ranges rather than one immutable temperature.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7076167/",
+        "https://pubmed.ncbi.nlm.nih.gov/30256726/"
+      ],
+      "verification_depth": "full review passages and thermoregulation abstract",
+      "evidence_and_limit": "Billman homeostasis/feedback passages read; Morrison/Nakamura circuitry abstract and Mitchell2025 thermal-control discussion cross-check. Distributed control, not literal solitary thermostat.",
+      "checked_on": "2026-10-23"
+    },
+    {
+      "note_id": "v1-c2-gaia",
+      "bibliography_and_locator": "Andrew J. Watson and James E. Lovelock, [“Biological homeostasis of the global environment: the parable of Daisyworld”](https://www.jameslovelock.org/biological-homeostasis-of-the-global-environment-the-parable-of-daisyworld/), *Tellus B* 35 (1983): 284–289, especially the introduction and model assumptions. Their intentionally simplified world demonstrates a possible feedback property, not that the real Earth universally regulates conditions for human benefit.",
+      "urls": [
+        "https://www.jameslovelock.org/biological-homeostasis-of-the-global-environment-the-parable-of-daisyworld/"
+      ],
+      "verification_depth": "original full article",
+      "evidence_and_limit": "Watson/Lovelock1983 author-site text read, especially introduction and intentionally fictional-model limitation.",
+      "checked_on": "2026-10-23"
+    }
+  ]
+}

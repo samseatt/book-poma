@@ -1,0 +1,15 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
+  "sha256": "26d2ba6caf2a7b190b9c2db546208296d51c126f07f69b6f7d8ced0793f0d503",
+  "defined_notes": 40,
+  "note_references": 40,
+  "parsed_notes": 40,
+  "html_note_backlinks": 40,
+  "display_equations": 0,
+  "bookwide_note_collisions": [],
+  "warnings": [],
+  "errors": [],
+  "passed": true,
+  "command": "python3 work/editorial-tools/check_manuscript.py manuscripts/volume-1/02-chapter.md --pandoc /Applications/quarto/bin/tools/pandoc",
+  "basis": "Recorded from completed checker run in this editorial turn."
+}

@@ -307,3 +307,10 @@ The incoming prose is the substantive master. Make small evidence-based repairs 
 The author approved the worked CMOS NOT example, a useful figure and incorporation of the previously proposed shorter ending. These are now in canonical Interlude 1; V1-015 and `work/volume-1-drafting/interlude-01-finish-2026-10-23/` record the changes and checks. This supersedes the earlier decision to leave the ending for a manual merge. Family opening and teaching memoir remain unchanged. The original figure uses an ideal switch model of settled states and is stored in the canonical Volume I asset tree.
 
 The minimum reader goal is philosophical understanding supported by concrete mechanisms. Alice/Bob remain ongoing spaces for the author's potentially original conjectures while their factual supports are made reliable. Do not confuse a final-like factual/literary pass with closing those investigations. Bob and the author-reserved cosmic reprise were untouched in this pass. Publication remains separate.
+
+
+## Chapter 2 adoption and memory-palace clarification — 23 October 2026
+
+Stage 2 for Chapter 2 is complete. Canonical `manuscripts/volume-1/02-chapter.md` now incorporates the approved incoming revision, homeostasis, the restored birth joke, a bounded evolution/learning analogy and Vanchurin connection, chronology and Central Dogma corrections, and 40 aligned notes. See journal V1-016 and `work/volume-1-drafting/chapter-02-adoption-2026-10-23/`. Alice's ripple/search-space conjecture remains open; its major cross-domain echoes were preserved.
+
+Personal scenes and event coincidences are the book's memory palace and visceral organ (B-021). In Volume I the upheaval follows the move: birth leads into brain, and the later unnamed war remains biology's upheaval. Domain assignments are narrative emphases, not mutually exclusive scientific categories. Preserve exact jokes and supported conjunctions; do not invent precise timing to strengthen them. The mother's private timing stays out of public birth-year disclosure. The old holding-pen file remains read-only provenance; future edits begin from canonical Markdown.

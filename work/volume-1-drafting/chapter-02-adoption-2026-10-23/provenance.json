@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-23",
+  "stage": "author-approved Stage2 adoption",
+  "unit_id": "v1-2-chapter",
+  "base_commit": "b4db1b48e3e5d02508dd87e4ed588cdd47aa6364",
+  "canonical_path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
+  "previous_canonical_sha256": "bf8bed0ffe19a1dcf8b5f93b8a58bfb36d3bbdbf3b14deabadd3c87c419e8416",
+  "incoming_path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-2.md",
+  "incoming_sha256": "9df6f9137db35ad6f8cdba57b9fe902d687692f6286a2a61691de526c3947cef",
+  "adopted_sha256": "26d2ba6caf2a7b190b9c2db546208296d51c126f07f69b6f7d8ced0793f0d503",
+  "body_words_incoming": 6551,
+  "body_words_adopted": 7351,
+  "incoming_unmodified": true,
+  "publication": false
+}
