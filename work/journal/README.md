@@ -27,3 +27,33 @@ The publisher removes annotations before Quarto formatting, joins surrounding te
 Nothing here runs automatically. Ask for a batch by scope, for example: “Process the journal for Chapter 27, historical pass.” The editor reports what was integrated, retained, deferred or needs your input. Commit coherent work with current manuscript hashes; no commit itself authorizes publication.
 
 The shared journal is the durable record; direct task messages can point to it when the author requests coordination. Only one session edits a shared file, stages or commits at a time. Read current files immediately before saving.
+
+## Adopting an incoming chapter or interlude — two stages
+
+Author-approved process, 23 October 2026. Applies to Claude-assisted and other author-supplied replacement drafts. Comparison alone does not authorize replacing canonical text. The old `book_poma` tree remains read-only.
+
+### Stage 1: compare and bring decisions to the author
+
+Read the latest canonical unit, incoming draft, journal and author context in `work/sam/`, especially the updated style guide. Capture source paths, hashes and the repository revision. Compare the actual files, not an earlier session's recollection.
+
+Present a short decision list with locations and a recommendation for each consequential choice:
+
+- Essential old material worth recovering: an argument, explanatory step, anecdote, sharper joke, emotional beat or recurring thread. Recover its function selectively; do not mechanically combine two drafts.
+- Substantive cuts or relocations: repetition, unnecessary diary/clerical/private detail, or an interruption that costs more than it gives. Personal detail earns its place through story, humor, thought or later payoff.
+- Strong missing ideas, separated from optional enrichment. Completeness does not require a survey of everything.
+- Factual uncertainty, unsupported memoir detail, a changed temporal coincidence, and repairs that materially change meaning. Check public facts; ask the author about private recollections.
+- Voice, puns and intentional ambiguity that a tidy edit might erase. Preserve working sentences and protect the intellectual wager while distinguishing it from established findings.
+
+Report if no consequential decisions are needed. Pause for the author's choices before adoption unless already approved in the current instruction. Record approved, declined, modified and deferred items. Do not ask again about decisions already made.
+
+### Stage 2: adopt, align and validate
+
+Reread both files immediately before writing and reconcile intervening author edits. Use the incoming draft as the substantive master; retain canonical identity/header/image and format conventions unless their replacement is approved. Implement the chosen recoveries and repairs. Keep the incoming original unchanged.
+
+Confirm and reconnect source bookmarks throughout the unit, adding genuinely missing sources. Preserve stable note identities; distinguish verified passages from research leads, interpretations and memoir. Check the seams after deletions and insertions. Routine reference and mechanical repairs belong to this authorized completion pass and are reported together; a new consequential change to meaning returns to Stage 1. Ambiguous puns and memoir facts are never silently regularized.
+
+Keep author annotations unless their processing is expressly included; archive exact text before clearing any. Retain existing AI-provenance comments and mark new AI-drafted passages with invisible HTML comments. These markers document assistance, not a claim that the rest is wholly unaided.
+
+Record only serious findings, recoveries and unresolved choices in the unit journal. Git preserves the complete old text; do not make the author read a deletion inventory. Save input hashes and a focused source/validation audit. Check note pairing and collisions, local assets, rendered notes/equations, the header and active manifest hash. The read-only [manuscript checker](../editorial-tools/check_manuscript.py) repeats mechanical checks; editorial and scientific judgments remain manual.
+
+Inspect the scoped diff, preserve unrelated work, and commit only the unit and its editorial records. Summarize what was adopted, materially repaired, restored and left open, with links and the commit. Publication requires its own author request.

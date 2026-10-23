@@ -7,7 +7,7 @@ This is the working repository for Sam Seatt's *The Path of Many Arrows*. The au
 - Read `work/EDITORIAL_CONTEXT.md` for the decisions established in the current editorial session.
 - At the start of each editorial run, read `work/journal/README.md`, `inbox.md`, `book.md` and the relevant unit notes (currently `volume-2.md` and `volume-3.md`). Inspect the current manuscript diff and scan scoped files for inline annotations. Read `work/journal/publisher.md` before publishing-related/shared-file work. Do not treat journal intake as completion of deferred work.
 - Consult `work/manuscript-manifest.json` for the active source of each manuscript unit. It records original chapter identities, actual source paths, design packet mappings, and the competing Volume III orders.
-- Apply the author's writing guide at `/Users/samseatt/projects/book_poma/_GPT_session_outputs/GPT_writing_and_style_guide.md`. The handoff beside it adds context but does not define this session's entire scope or lock the final order.
+- Apply the current author guide at `work/sam/The Path of Many Arrows Style Guide.md`, ahead of the older `guides/` snapshot and retired GPT-written guide. Read relevant companion context in `work/sam/` without treating research leads as verified facts. Follow the two-stage adoption process in `work/journal/README.md`: consequential choices first, approved adoption second.
 - Treat `/Users/samseatt/projects/book_poma` as read-only provenance. Do not edit, rename, delete, or save changes into it. Ignore PDF counterparts, Word lock files, and copy variants, including names ending in `copy`, `_copy`, `copy 2`, etc.
 
 ## Manuscript authority and publishing workflow

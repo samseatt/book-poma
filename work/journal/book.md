@@ -126,3 +126,13 @@ The book wraps hard disciplinary thought in a personal, lyrical and sometimes my
 ## Chapter 1 reading and physics review — 4 October 2026
 
 **B-005 / B-016 progress:** Chapter 1 has now been read in full and assessed scientifically in a [separate research dossier](../volume-1-drafting/chapter-01-physics/CHAPTER_01_PHYSICS_REVIEW.md), with 56 review bookmarks and 43 source records. This is not a full rereading of the other Volume I chapters. The author’s possibility/search conjecture and mother’s story remain protected as intent, while factual claims and unresolved assignments are distinguished. No canonical text was changed. See V1-004 in the [Volume I journal](volume-1.md).
+
+## Revision adoption and temporal confluence — 23 October 2026
+
+### B-017 — Decide first; adopt second
+
+**Standing author direction.** Use the two-stage [revision-adoption process](README.md#adopting-an-incoming-chapter-or-interlude--two-stages): first identify consequential choices, then adopt after the author responds. The incoming revision is the substantive master, with selective essential recoveries and verified references. Existing approvals carry forward.
+
+**Dates carry the narrative.** Public/cosmic events coinciding with personal milestones are a central temporal spine. Preserve and, where earned, dramatize the concurrence. A coincidence need not imply prophecy, causation or supernatural purpose. Check what actually coincides—observation, discovery, announcement or publication—and use the strongest supported precision. If a date needs correcting, retain the valid connection instead of automatically dissolving it into vague atmosphere. Bring a materially weakened or lost connection to the author.
+
+**Current context.** The updated style guide and four companion documents in `work/sam/` were read in full. Use that guide ahead of the older `guides/` snapshot. Brainstorm and proposal documents preserve intentions and research leads; “Answered” and “supportable” do not establish scientific verification. The Volume III drawer is future design material, and the physics outline allocates later treatment without authorizing changes to those units. Why the universe flows remains a candidate for Interlude 12.

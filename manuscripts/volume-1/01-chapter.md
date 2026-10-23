@@ -190,6 +190,14 @@ Ironing everything flat would be boring, though, and fortunately quantum mechani
 
 In many versions, inflation never stops everywhere at once. It flickers off in one region while raging on in others, and each region where it ends becomes a bubble with its own hot beginning: a multiverse, possibly with different constants in different bubbles. That's speculation, and it inherits the measure problem: in an infinity of bubbles it's hard to say what's "typical." The measured primordial fluctuations fit many inflationary models, but don't uniquely establish inflation. Searches for primordial gravitational waves offer another test; their predicted strength varies widely, and the 2025 Particle Data Group review reports upper limits rather than a detection.[^v1-c1-inflationcritics] It's a beautiful answer still waiting for its confirming circle.
 
+### Constants and Tightropes
+
+<!-- AI draft: author-approved selective restoration, 2026-10-23. -->
+Martin Rees chose six especially consequential numbers for *Just Six Numbers*. One is $Q$, the strength of the primordial irregularities that seeded cosmic structure, of order one part in 100,000. In models he studied with Max Tegmark, much weaker seeds make it difficult for gas to cool and form stars; much stronger ones produce dense galaxies where passing stars can disrupt planetary orbits. The acceptable range depends on what else changes with it.[^v1-c1-rees]
+
+Before I congratulate the universe on its precision engineering, there is a selection effect to account for: only a world that supports observers can receive a review. That still leaves the question of why these values. To call them improbable, we need to know what could vary, what must vary together, and how to weight the alternatives. We do not yet have an agreed cosmic lottery.
+<!-- End AI draft. -->
+
 ## Ghosts in the Gaps
 
 Some of the universe's most important particles behave the way the neutral ones did on her film: you know them only by what goes missing.
@@ -234,9 +242,11 @@ We are all born from the same stellar sermon. Some of us go on to think, others 
 
 Like all unpleasant creatures, I arrived with a hiss.
 
-Somewhere between my mother's circles at Yale and the carbon atom's long vacation through stellar bellies, two radio astronomers in New Jersey were having a bad day. Arno Penzias and Robert Wilson were just trying to measure radio signals cleanly. But their instruments kept hissing. They first scooped the pigeon crap; then they scooped Robert Dicke.[^v1-c1-cmb]
+<!-- AI-assisted revision: preserve the author's temporal coincidence at its supported, same-year precision. -->
+In the year I was conceived, Arno Penzias and Robert Wilson began the measurements that would expose the universe's infancy. The two radio astronomers in New Jersey were only trying to measure radio signals cleanly, but their instruments kept hissing. They first scooped the pigeon crap; then they scooped Robert Dicke.[^v1-c1-cmb]
+<!-- End AI-assisted revision. -->
 
-Around the beginning of my own life, I got scooped too: not from nothing to something this time, but from material to alive. I packed up physics and moved into biology. My mother's real circles were still a couple of years ahead of her, but the circle that mattered most had already been drawn around a single cell. Its story belongs to the next chapter.
+That same year, I got scooped too: not from nothing to something this time, but from material to alive. I packed up physics and moved into biology. My mother's real circles were still a couple of years ahead of her, but the circle that mattered most had already been drawn around a single cell. Its story belongs to the next chapter.
 
 One rhyme before I go. Just as the protons and neutrons in my atoms had been reduced to up and down quarks, my biological blueprint was being reduced to four letters (A, T, C and G) and its working parts to twenty amino acids. Physics and biology had each, in the same generation, found that their whole bewildering variety was spelled with a very small alphabet.
 
@@ -260,7 +270,7 @@ If the universe learned to repeat itself, what would it take for matter to repea
 
 Somewhere in that mirror, sand began to dream of permanence.
 
-<!-- SOURCE NOTES: stable native Markdown IDs; evidence and access levels recorded in the Chapter 1 adoption audit, 2026-10-23. -->
+<!-- SOURCE NOTES: stable native Markdown IDs; evidence and access levels recorded in the Chapter 1 adoption audit and restoration follow-up, 2026-10-23. -->
 
 [^v1-c1-sagan]: Carl Sagan, *Cosmos* (1980), as quoted in Kate Howells, [“We’re made of starstuff. What does that mean?”](https://www.planetary.org/articles/were-made-of-starstuff-what-does-that-mean), The Planetary Society, 9 November 2025. Capitalization follows this chapter.
 
@@ -334,6 +344,8 @@ Somewhere in that mirror, sand began to dream of permanence.
 
 [^v1-c1-inflationcritics]: Particle Data Group, [“Inflation”](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-inflation.pdf) (2025), observational constraints; Alan H. Guth, [“Eternal inflation and its implications”](https://arxiv.org/abs/hep-th/0702178), *Journal of Physics A* 40 (2007): 6811–6826, on eternal inflation and its measure problem. Primordial tensor amplitudes depend on the model; a nondetection at one sensitivity does not rule out inflation as a class.
 
+[^v1-c1-rees]: Martin Rees, *Just Six Numbers* (1999), on six selected quantities shaping cosmic structure, rather than an exhaustive list of fundamental constants. For $Q$, see Max Tegmark and Martin J. Rees, [“Why Is the Cosmic Microwave Background Fluctuation Level $10^{-5}$?”](https://arxiv.org/html/astro-ph/9709058v2), *Astrophysical Journal* 499 (1998): 526–532, §§1, 3–5. Their star-formation and orbital-disruption arguments depend on model assumptions; §5 shows why varying parameters together changes anthropic bounds.
+
 [^v1-c1-pauli]: Wolfgang Pauli, [letter of 4 December 1930](https://cds.cern.ch/record/264021/), CERN Pauli Archive, opening “Liebe Radioaktive Damen und Herren.” The English salutation is the customary translation. The proposal addressed missing beta-decay energy and angular momentum.
 
 [^v1-c1-neutrino]: Royal Swedish Academy of Sciences, [scientific background to the 2015 Nobel Prize in Physics](https://www.nobelprize.org/uploads/2017/09/advanced-physicsprize2015.pdf), on the 1956 detection and Super-Kamiokande/SNO oscillation evidence; John N. Bahcall, [“How the Sun Shines”](https://www.nobelprize.org/prizes/themes/how-the-sun-shines/), on solar neutrinos. Oscillations require differences of squared neutrino masses and thus at least two nonzero masses, extending the original minimal Standard Model.
@@ -356,7 +368,7 @@ Somewhere in that mirror, sand began to dream of permanence.
 
 [^v1-c1-al26]: NASA Astrobiology, [“Meteorite yields clues about the distribution of aluminium-26 in the early solar nebula”](https://astrobiology.nasa.gov/news/meteorite-yields-clues-about-the-distribution-of-aluminium-26-in-the-early-solar-nebula/) (2024), on radioactive heating of early planetesimals. For magnesium–ATP coordination, see Larsen et al. (1998), [structure and original abstract, PDB 1A5U](https://www.rcsb.org/structure/1A5U); for chlorophyll, Richard Willstätter’s [1915 Nobel lecture](https://www.nobelprize.org/uploads/2018/06/willstatter-lecture.pdf). The named atoms and their individual careers are personifications.
 
-[^v1-c1-cmb]: A. A. Penzias and R. W. Wilson, [“A Measurement of Excess Antenna Temperature at 4080 Mc/s”](https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..419P), *Astrophysical Journal* 142 (1965): 419–421; R. H. Dicke et al., [“Cosmic Black-Body Radiation”](https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..414D), pp. 414–419. The reported observations ran from July 1964 to April 1965; the discovery is not pinned to the author’s conception in spring 1964.
+[^v1-c1-cmb]: A. A. Penzias and R. W. Wilson, [“A Measurement of Excess Antenna Temperature at 4080 Mc/s”](https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..419P), *Astrophysical Journal* 142 (1965): 419–421; R. H. Dicke et al., [“Cosmic Black-Body Radiation”](https://articles.adsabs.harvard.edu/pdf/1965ApJ...142..414D), pp. 414–419. The reported observations ran from July 1964 to April 1965; the papers appeared in 1965. The narrative connects the start of those observations with the author’s conception in the same calendar year, 1964, without claiming the same spring or day.
 
 [^v1-c1-alpher]: Ralph A. Alpher and Robert Herman, [“Evolution of the Universe”](https://doi.org/10.1038/162774b0), *Nature* 162 (1948): 774–775; Royal Swedish Academy of Sciences, [scientific background to the 2006 Nobel Prize in Physics](https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2006.pdf), historical introduction. Their relic-radiation estimate was about 5 K. Herman was Gamow’s collaborator, not his student.
 
