@@ -1,0 +1,58 @@
+from pathlib import Path
+from html import escape
+import sys
+out=Path(sys.argv[1]) if len(sys.argv)>1 else Path(__file__).resolve().parent/'generated-figures'
+out.mkdir(parents=True,exist_ok=True)
+class Fig:
+ def __init__(self,w,h,title,desc):
+  self.s=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-labelledby="title desc">',f'<title id="title">{escape(title)}</title><desc id="desc">{escape(desc)}</desc>', '<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#222"/></marker></defs>', '<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111;font-size:25px}.head{font-size:29px;font-weight:700}.label{font-size:26px;font-weight:700}.small{font-size:23px}.tiny{font-size:21px}.box{stroke:#444;stroke-width:2;fill:white}.line{stroke:#222;stroke-width:2.5;fill:none;stroke-linejoin:round}</style>', f'<rect width="{w}" height="{h}" fill="white"/>']
+ def box(self,x,y,w,h,fill='#fff',rx=8):self.s.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{rx}" fill="{fill}" stroke="#666" stroke-width="1.8"/>')
+ def text(self,x,y,t,cls='',anchor='start'):self.s.append(f'<text x="{x}" y="{y}" class="{cls}" text-anchor="{anchor}">{escape(t)}</text>')
+ def lines(self,x,y,ts,cls='',anchor='start',dy=31):
+  for i,t in enumerate(ts):self.text(x,y+i*dy,t,cls,anchor)
+ def path(self,d,bi=False,dash=False):self.s.append(f'<path class="line" d="{d}" marker-end="url(#arr)"'+(' marker-start="url(#arr)"' if bi else '')+(' stroke-dasharray="7 6"' if dash else '')+'/>')
+ def save(self,name): (out/name).write_text('\n'.join(self.s)+ '\n</svg>\n')
+f=Fig(1100,930,'From instruction to operation','A simplified register addition shows instruction fetch and decode, operand selection, ALU addition and write-back. A separate panel locates registers, caches, RAM and persistent storage.')
+f.box(15,15,1070,520,'#fafafa');f.text(40,56,'A   Follow one register addition','head')
+for x,w,title,sub in [(55,205,'1  PC',['address of the','instruction']),(355,265,'2  Fetch',['instruction bits','from memory system']),(720,310,'3  Decode',['operation: ADD','sources: R1, R2; target: R3'])]:
+ f.box(x,95,w,115);f.text(x+w/2,128,title,'label','middle');f.lines(x+w/2,162,sub,'small','middle')
+f.path('M260 152 H345');f.text(302,137,'address','tiny','middle')
+f.path('M620 152 H710');f.text(670,137,'bits','tiny','middle')
+f.box(75,310,275,110);f.lines(212,344,['Read source registers','R1 = 7       R2 = 5'],'small','middle',38)
+f.box(475,310,195,110,'#e5e5e5');f.lines(572,344,['4  ALU','7 + 5 = 12'],'label','middle',38)
+f.box(795,310,240,110);f.lines(915,344,['5  Write result','R3 ← 12'],'label','middle',38)
+f.path('M350 367 H465');f.text(410,350,'operands','tiny','middle')
+f.path('M670 367 H785');f.text(732,350,'result','tiny','middle')
+f.path('M875 210 V260 H572 V300',dash=True);f.text(695,290,'select operation','tiny','middle')
+f.path('M745 210 V235 H212 V300',dash=True);f.text(280,267,'select registers','tiny')
+f.path('M915 420 V465 H212 V430');f.text(555,454,'write-back updates the register file','small','middle')
+f.text(45,507,'The PC advances; a branch can choose another address. Dashed arrows: control.','small')
+f.box(15,555,1070,360,'#fafafa');f.text(40,598,'B   Different stores, different jobs','head')
+for x,title,lines in [(40,'REGISTERS',['operands and results','inside the processor']),(305,'CACHES',['nearby copies','of instructions / data']),(570,'RAM',['running programs','and working data']),(835,'STORAGE',['persistent programs','and files'])]:
+ f.box(x,650,225,115);f.text(x+112,682,title,'label','middle');f.lines(x+112,716,lines,'tiny','middle',29)
+for x in [270,535,800]:f.path(f'M{x} 706 H{x+27}',bi=True)
+f.text(550,812,'Toward the left: smaller stores and lower access latency, typically.','small','middle')
+f.text(550,849,'Toward the right: more capacity; storage survives power-off.','small','middle')
+f.text(550,888,'Conceptual transfers, not a compulsory route for every instruction.','tiny','middle')
+f.save('instruction-and-memory.svg')
+g=Fig(1100,980,'A GPU keeps the arithmetic near its ingredients','A common tiled matrix computation brings input and weight tiles from HBM through cache into nearby working storage, reuses them in Tensor Core operations, and writes output tiles. Several streaming multiprocessors can do this concurrently.')
+g.text(40,45,'GPU DATA FLOW   Fetch a tile, reuse it, accumulate a result','head')
+g.box(40,75,1020,125,'#ededed');g.text(70,110,'HBM: stacked DRAM beside the compute dies','label')
+g.box(75,130,430,49);g.text(290,162,'Input values for a batch','small','middle')
+g.box(575,130,445,49);g.text(797,162,'Model weights','small','middle')
+g.path('M550 200 V243',bi=True);g.text(575,231,'many bytes in parallel','small')
+g.box(180,255,740,70);g.text(550,299,'On-chip L2 cache: shared, reusable copies','label','middle')
+g.path('M370 325 V388',bi=True);g.path('M850 325 V388',bi=True)
+g.box(40,400,665,410,'#fafafa');g.text(70,439,'One streaming multiprocessor (SM)','label')
+g.box(75,462,595,80);g.lines(372,494,['Nearby working storage','shared memory, registers, matrix storage*'],'small','middle',31)
+g.path('M372 542 V595',bi=True);g.text(400,579,'reuse tile values','small')
+g.box(75,608,595,80,'#e4e4e4');g.lines(372,640,['Tensor Core matrix operations','multiply and accumulate partial sums'],'label','middle',31)
+g.path('M372 688 V730');g.box(125,742,495,47);g.text(372,774,'Completed output tile','small','middle')
+g.path('M125 765 H58 V359 H208 V335');g.text(75,384,'write output back','tiny')
+g.box(735,400,325,185,'#fafafa');g.lines(897,440,['Another SM','another output tile','similar local reuse'],'label','middle',42)
+g.box(735,610,325,200,'#fafafa');g.lines(897,650,['Many SMs work','concurrently','when the workload','offers enough tiles.'],'small','middle',38)
+g.text(45,853,'Capacity: how much fits.    Bandwidth: how fast it moves.','small')
+g.text(45,888,'Arithmetic intensity: how much calculation each transferred byte earns.','small')
+g.text(45,932,'*Staging and matrix storage differ across GPU generations and kernels.','tiny')
+g.save('gpu-data-reuse.svg')
+print('Created two SVG teaching figures')

@@ -1,0 +1,21 @@
+{
+  "computer_school_memoir_verbatim": true,
+  "uptime_exact_recovery": true,
+  "canonical_header_retained": true,
+  "opening_two_paragraphs_verbatim": true,
+  "milwaukee_closing_verbatim": true,
+  "computor_preserved": true,
+  "all_incoming_note_ids_preserved": true,
+  "no_annotations_removed": true,
+  "figure_count": 2,
+  "publisher_header_conversion_passed": true,
+  "publication_annotation_omissions": 0,
+  "publication_figure_count": 2,
+  "unrelated_files_and_incoming_unchanged": {
+    "/Users/samseatt/projects/book_poma/sam/claude/interlude-3.md": true,
+    "/Users/samseatt/projects/book-poma/.gitignore": true,
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md": true
+  },
+  "figures_rendered_and_visually_reviewed": true,
+  "production_layout_not_run": true
+}

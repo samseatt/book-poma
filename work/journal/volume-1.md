@@ -220,3 +220,13 @@ Forty I2 notes are aligned, and five notes are added to C2. Unsupported Occam-as
 Added a neuron/chemical-synapse/recurrent-circuit figure, repaired Maggie's NMDA role, and supplied the missing consequence/reward and memory-system mechanisms. Restored compact schema/story compression. Kept biological/ANN resemblance useful without equating their implementations. Narrowed cortical repetition, evolutionary foresight, brain-region, emotion and consciousness claims; retained Alice's ambitious open conjecture. The 1965 visual-development paper supplies a precise year-level conjunction.
 
 Forty-five aligned notes preserve all incoming IDs. The epigraph is Edelman's statement quoted by Sacks, now correctly attributed. [Adoption notes](../volume-1-drafting/chapter-03-adoption-2026-10-23/ADOPTION_NOTES.md) record reader value, remaining author inquiry and evidence limits; source/provenance/check records and figure preview are alongside them. Existing Interlude 1 and .gitignore work remain untouched. No publication.
+
+## V1-019 — Interlude 3 adoption: from hardware metaphor to mechanism
+
+**Addressed, 23 October 2026.** [Interlude 3](../../manuscripts/volume-1/03-interlude.md) now adopts the approved author/Claude revision. The computer-school memoir remains verbatim, as do the first two opening paragraphs and Milwaukee closing. Restored the old uptime joke exactly. Moore/1965 and FPGA/1985 retain their year-level conjunctions; the Sord model stays uncertain.
+
+Added instruction execution, ISA/microarchitecture, clearer memory tiers and two original grayscale figures. Expanded GPU teaching around parallelism, locality and specialization, including a weighted-sum example, tiled reuse, SMs/warps, Tensor Cores, HBM, workload bottlenecks and mixed precision. B200 is a dated specimen; Rubin is an explicitly announced specification. Repaired clock/STDP, brain-efficiency and Spectre/Meltdown claims.
+
+The author authorized Bob’s substantial revision. It now explores the difference between inspecting operations and explaining learned organization, then asks whether learning can change where an architecture places its abstractions. In-memory physical computation supplies a real foothold; livewired growth and confounder-hole implications remain open conjecture. Knobs, grids, natural-computing and FPGA themes survive. No major literary idea was cut; further major cuts still require author input.
+
+Thirty-four aligned notes preserve all incoming IDs. [Adoption notes](../volume-1-drafting/interlude-03-adoption-2026-10-23/ADOPTION_NOTES.md) record decisions, reader outcomes and remaining inquiry; source/provenance/check records and figure previews are alongside. Existing Interlude 1 and .gitignore work remain untouched. No publication.

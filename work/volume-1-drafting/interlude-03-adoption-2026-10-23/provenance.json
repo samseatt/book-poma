@@ -1,0 +1,45 @@
+{
+  "head": "5ee455282438179b4cbbfb1f163d41e34e4a6364",
+  "inputs": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-interlude.md",
+      "sha256": "12ee694e53fceafd7af34179b0a201b7f5a7125beb942e3a58dff696b1ae4126"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-3.md",
+      "sha256": "1da7ddfe973e2a6f500ae1451be4e6add489f7a3a1956a8dbda3af03530d4a0b"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json",
+      "sha256": "fc516a8288e61375a54b24a0a336cfde93e171b77210c7d7fbeb7ce89d5ab315"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/volume-1.md",
+      "sha256": "cb94af02e0a44ec2e2d001c68a5b461b0a48ebd4541de6415919922e0566669f"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/EDITORIAL_CONTEXT.md",
+      "sha256": "0b38e3d8029bcbbdc436fbecc69a2a5139630a0b41ebbbd5e9023ad26cd06f44"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/.gitignore",
+      "sha256": "4a46222675abc2b1ae26fcdf1577468af17ab3e92ee37ae24d16af3f1216e9ed"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md",
+      "sha256": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e"
+    }
+  ],
+  "canonical_after_sha256": "25f0950cffaef2d90093f889336548be7bf3571411c5978552d682f64fca6cdc",
+  "authorized_scope": "Approved Interlude 3 Stage 2: adopt incoming, recover uptime and memory explanation, instruction/GPU teaching, figures, Bob revision, factual/reference repairs. No major literary cut without further author review.",
+  "installed_assets": [
+    {
+      "path": "manuscripts/volume-1/assets/03-interlude/gpu-data-reuse.svg",
+      "sha256": "89425f6fb9f2301bdde25b9b5cfd97ae841159fc9d3755c65dfae9563131f5de"
+    },
+    {
+      "path": "manuscripts/volume-1/assets/03-interlude/instruction-and-memory.svg",
+      "sha256": "627a1da620e6fa84d2cf64cc4fc3c19585e475b2a91d6a7b687f4658ebb64110"
+    }
+  ]
+}

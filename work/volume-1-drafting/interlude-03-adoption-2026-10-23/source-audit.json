@@ -1,0 +1,427 @@
+{
+  "date": "2026-10-23",
+  "scope": "Interlude3stage2; citations support specific claims, not a complete rereading of every work",
+  "notes": [
+    {
+      "note_id": "v1-i3-moore",
+      "claim": "Birth-year conjunction; annual component forecast",
+      "locator": "Original article, p. 115, complexity at minimum component cost",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://download.intel.com/newsroom/2023/manufacturing/moores-law-electronics.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Gordon E. Moore, [“Cramming More Components onto Integrated Circuits”](https://download.intel.com/newsroom/2023/manufacturing/moores-law-electronics.pdf), *Electronics* 38(8), 19 April 1965, pp. 114–117. The forecast concerns complexity at minimum component cost and projects the annual trend for another decade. It is an economic and technological projection, not a physical law."
+    },
+    {
+      "note_id": "v1-i3-sord",
+      "claim": "Sord/Mark plausibility without false identification",
+      "locator": "Collection listing: Sord M23 Mark III, 1980",
+      "verification": "Collection record checked; memoir author-supplied",
+      "limits": "Exact classroom model remains unknown; no new memoir detail inferred.",
+      "urls": [
+        "https://www.computinghistory.org.uk/det/8316/Sord-CGL/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "The maker and uncertain “Mark” designation are personal recollection. The Centre for Computing History holds a [Sord M23 Mark III](https://www.computinghistory.org.uk/det/8316/Sord-CGL/), dated 1980. That is a plausible contemporary model, not an identification of the machine in my classroom."
+    },
+    {
+      "note_id": "v1-i3-machines",
+      "claim": "Sharp equipment; Spectrum contemporary context",
+      "locator": "Sharp features p.10 and model illustration §3.1.1; Sinclair original edition",
+      "verification": "Indexed manufacturer manual passages and edition checked",
+      "limits": "Direct Sharp PDF fetch unavailable; alternative sharpmz.no redirected to unrelated content and was rejected. No private chronology inferred.",
+      "urls": [
+        "https://old.sharpmz.org/mz-700/download/mz-700_owners_manual.pdf",
+        "https://worldofspectrum.org/ZXBasicManual/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Sharp, *MZ-700 Series Owner’s Manual*, [§1.1 and §3.1.1](https://old.sharpmz.org/mz-700/download/mz-700_owners_manual.pdf), on the MZ-731’s plotter-printer and cassette equipment. Sinclair Research, [*ZX Spectrum BASIC Programming*](https://worldofspectrum.org/ZXBasicManual/) (1982). The acquisition sequence and family circumstances are recollection."
+    },
+    {
+      "note_id": "v1-i3-edvac",
+      "claim": "Stored-program subdivisions and 1945 date",
+      "locator": "§§2.2–2.6; Smithsonian copy, indexed original report subdivisions",
+      "verification": "Original-report subdivisions and archive metadata checked",
+      "limits": "No claim that von Neumann alone invented the computer or named the field.",
+      "urls": [
+        "https://library.si.edu/digital-library/book/firstdraftofrepo00vonn"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "John von Neumann, [*First Draft of a Report on the EDVAC*](https://library.si.edu/digital-library/book/firstdraftofrepo00vonn), 30 June 1945, §§2.2–2.6. The report describes central arithmetic, control, memory and input/output. The project and stored-program design were collaborative; the report’s single-author circulation should not erase J. Presper Eckert and John Mauchly."
+    },
+    {
+      "note_id": "v1-i3-execution",
+      "claim": "PC, fetch/decode, operands, ALU, write-back",
+      "locator": "Lecture13 slides5–10 and surrounding text",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c13/c13s1/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "MIT, [*Computation Structures*, lecture 13, “Building the Beta”](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c13/c13s1/) (Spring 2017), especially “Multi-ported Register File,” “ALU Instructions” and “Instruction Fetch/Decode.” The addition and figure here are original simplified examples, not a timing diagram for a particular commercial processor."
+    },
+    {
+      "note_id": "v1-i3-isa",
+      "claim": "ISA vs implementation; microcode optional",
+      "locator": "MIT lecture9; CACM pp48–51",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c9/c9s1/",
+        "https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "MIT, [*Computation Structures*, lecture 9, “Designing an Instruction Set”](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c9/c9s1/); John L. Hennessy and David A. Patterson, [“A New Golden Age for Computer Architecture”](https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf), *Communications of the ACM* 62(2) (2019), pp. 48–60, especially pp. 48–51 on ISAs, implementations and microprogramming."
+    },
+    {
+      "note_id": "v1-i3-memory",
+      "claim": "Memory tiers and locality",
+      "locator": "Lecture14 locality and hit/miss passages; lecture13 enabled registers",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c14/c14s1/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "MIT, [*Computation Structures*, lecture 14, “Caches and the Memory Hierarchy”](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c14/c14s1/), on SRAM, DRAM, locality and cache hits/misses; lecture 13 for register retention. Cache organization varies by processor; the figure presents roles, not a universal physical layout."
+    },
+    {
+      "note_id": "v1-i3-pipeline",
+      "claim": "Pipelining and branch speculation",
+      "locator": "MIT course pipeline content; Spectre intro pp1–3",
+      "verification": "Spectre primary background checked; MIT course allocation checked",
+      "limits": "",
+      "urls": [
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c15/c15s1/",
+        "https://arxiv.org/pdf/1801.01203"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "MIT, [*Computation Structures*, lecture 15, “Pipelining the Beta”](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c15/c15s1/); Paul Kocher et al., [“Spectre Attacks”](https://arxiv.org/pdf/1801.01203) (2018 preprint), introduction and processor background, for branch prediction and speculative execution. Pipelining improves throughput; misprediction penalties depend on the implementation."
+    },
+    {
+      "note_id": "v1-i3-watts",
+      "claim": "Approximate brain metabolic budget; communication costs",
+      "locator": "Energy Audit and discussion of20W vsATP costs",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8106317/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "William B. Levy and Victoria G. Calvert, [“Communication Consumes 35 Times More Energy than Computation in the Human Cortex, but Both Costs Are Needed to Predict Synapse Number”](https://pmc.ncbi.nlm.nih.gov/articles/PMC8106317/), *PNAS* 118(18) (2021), e2008173118. Their energy audit discusses the customary approximately 20-W whole-brain figure and the distinction between metabolic supply, signaling and computation. The precise partition depends on the model; no universal brain/computer efficiency ranking is inferred."
+    },
+    {
+      "note_id": "v1-i3-bitflip",
+      "claim": "4096 discrepancy; probable bit inversion distinct from cosmic cause",
+      "locator": "Official report22 §§5.3.7.1–2; IBM abstract",
+      "verification": "Indexed full official report passage and IBM primary abstract checked",
+      "limits": "",
+      "urls": [
+        "https://www.dekamer.be/FLWB/pdf/51/0001/51K0001002.pdf",
+        "https://research.ibm.com/publications/ibm-experiments-in-soft-fails-in-computer-electronics-1978-1994"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Belgian parliamentary College of Experts, [2003 election report](https://www.dekamer.be/FLWB/pdf/51/0001/51K0001002.pdf), DOC 51 0001/002, §§5.3.7.1–5.3.7.2, p. 22: the 4,096-vote discrepancy is consistent with a spontaneous inversion of the counter’s thirteenth bit. The report does not establish a cosmic-ray cause. For radiation-induced errors, J. F. Ziegler et al., [“IBM Experiments in Soft Fails in Computer Electronics (1978–1994)”](https://research.ibm.com/publications/ibm-experiments-in-soft-fails-in-computer-electronics-1978-1994), *IBM Journal of Research and Development* 40(1) (1996), pp. 3–18."
+    },
+    {
+      "note_id": "v1-i3-clock",
+      "claim": "Multiple modern clock domains",
+      "locator": "Intel §2.7 Clock Topology",
+      "verification": "Manufacturer document and indexed relevant passage checked",
+      "limits": "",
+      "urls": [
+        "https://cdrdv2-public.intel.com/743844/743844-015.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Intel, [*Processor Datasheet*, volume 1, document 743844, revision 015](https://cdrdv2-public.intel.com/743844/743844-015.pdf) (May 2025), §2.7, “Clock Topology,” describes separate clock domains. Zilog’s manual below illustrates clocked state transitions in an earlier architecture."
+    },
+    {
+      "note_id": "v1-i3-tstates",
+      "claim": "Z80 cycle counts, branches and waits",
+      "locator": "Timing section; instruction timing tables",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://www.zilog.com/docs/z80/um0080.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Zilog, [*Z80 CPU User Manual*](https://www.zilog.com/docs/z80/um0080.pdf), UM008011-0816 (2016), “Timing” and individual instruction descriptions. T-states are clock periods; conditional paths and inserted WAIT states can change elapsed execution time. The classroom Sord model remains unconfirmed, so it is not assigned a processor here."
+    },
+    {
+      "note_id": "v1-i3-rhythms",
+      "claim": "Network rhythms support temporal representation",
+      "locator": "Primary review abstract; monograph retained as further reading",
+      "verification": "Review abstract checked; not a full reread of2006book",
+      "limits": "",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/15218136/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "György Buzsáki and Andreas Draguhn, [“Neuronal Oscillations in Cortical Networks”](https://pubmed.ncbi.nlm.nih.gov/15218136/), *Science* 304 (2004), pp. 1926–1929, doi:10.1126/science.1099745. See also Buzsáki, *Rhythms of the Brain* (Oxford University Press, 2006). Frequency bands and functional associations vary across species, regions and behavioral states."
+    },
+    {
+      "note_id": "v1-i3-stdp",
+      "claim": "Bounded STDP and NMDA dependence",
+      "locator": "Abstract10464; results10466–70",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://www.gatsby.ucl.ac.uk/~pel/course_wuhan/papers/bi.poo_1998.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Guo-qiang Bi and Mu-ming Poo, [“Synaptic Modifications in Cultured Hippocampal Neurons: Dependence on Spike Timing, Synaptic Strength, and Postsynaptic Cell Type”](https://www.gatsby.ucl.ac.uk/~pel/course_wuhan/papers/bi.poo_1998.pdf), *Journal of Neuroscience* 18(24) (1998), pp. 10464–10472, doi:10.1523/JNEUROSCI.18-24-10464.1998. The experimental conditions and cell types matter; the before/after rule is not a universal law of synapses."
+    },
+    {
+      "note_id": "v1-i3-phase",
+      "claim": "Rat place-cell phase precession",
+      "locator": "Primary paper abstract and indexed discussion",
+      "verification": "Primary abstract and indexed paper passages checked",
+      "limits": "",
+      "urls": [
+        "https://doi.org/10.1002/hipo.450030307"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "John O’Keefe and Michael L. Recce, [“Phase Relationship between Hippocampal Place Units and the EEG Theta Rhythm”](https://doi.org/10.1002/hipo.450030307), *Hippocampus* 3(3) (1993), pp. 317–330. The relation is between position within a firing field and spike phase, not a single universal clock coordinate for the animal."
+    },
+    {
+      "note_id": "v1-i3-replay",
+      "claim": "Sleep sequence replay and temporal compression",
+      "locator": "1996 abstract;1999 abstract/discussion including time-compression passage",
+      "verification": "Primary indexed paper passages and metadata checked",
+      "limits": "",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/8596957/",
+        "https://www.jneurosci.org/content/jneuro/19/21/9497.full.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "William E. Skaggs and Bruce L. McNaughton, [“Replay of Neuronal Firing Sequences in Rat Hippocampus during Sleep Following Spatial Experience”](https://pubmed.ncbi.nlm.nih.gov/8596957/), *Science* 271 (1996), pp. 1870–1873; Zoltán Nádasdy et al., [“Replay and Time Compression of Recurring Spike Sequences in the Hippocampus”](https://www.jneurosci.org/content/jneuro/19/21/9497.full.pdf), *Journal of Neuroscience* 19(21) (1999), pp. 9497–9507. “Rehearsing” is an explanatory image; these observations alone do not establish every function of replay."
+    },
+    {
+      "note_id": "v1-i3-risc",
+      "claim": "RISC/CISC argument and implementation convergence",
+      "locator": "1980 original paper indexed text; CACM50–53",
+      "verification": "Indexed original argument and later author retrospective checked; direct Berkeley PDF unavailable",
+      "limits": "",
+      "urls": [
+        "https://people.eecs.berkeley.edu/~kubitron/courses/cs252-F00/handouts/papers/patterson80.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "David A. Patterson and David R. Ditzel, [“The Case for the Reduced Instruction Set Computer”](https://people.eecs.berkeley.edu/~kubitron/courses/cs252-F00/handouts/papers/patterson80.pdf), *ACM SIGARCH Computer Architecture News* 8(6) (1980), pp. 25–33. For earlier IBM work and the later convergence of implementations, see Hennessy and Patterson, “A New Golden Age,” pp. 50–53. Instruction-set labels alone do not predict energy efficiency."
+    },
+    {
+      "note_id": "v1-i3-scaling",
+      "claim": "End of easy voltage scaling and power-limited clocks",
+      "locator": "CACM53–54",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Hennessy and Patterson, [“A New Golden Age for Computer Architecture”](https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf), pp. 53–54, “End of Moore’s Law and Dennard Scaling.” Transistor count, voltage scaling, clock frequency and useful performance are distinct trends; multicore designs did not remove power or communication limits."
+    },
+    {
+      "note_id": "v1-i3-alexnet",
+      "claim": "Two-GPU AlexNet training and image-recognition advance",
+      "locator": "Paper§§3.2,6",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton, [“ImageNet Classification with Deep Convolutional Neural Networks”](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), *Advances in Neural Information Processing Systems* 25 (2012), especially §3.2, “Training on Multiple GPUs,” and §6. The two devices were NVIDIA GTX 580 GPUs."
+    },
+    {
+      "note_id": "v1-i3-gpu",
+      "claim": "SMs, threads, warps, divergence and Tensor Cores",
+      "locator": "Performanceguide2–3; CUDA1.2.2.2",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html",
+        "https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/programming-model.html#warps-and-simt"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "NVIDIA, [*GPU Performance Background User’s Guide*](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html), §§2–3, and [*CUDA Programming Guide*, “Warps and SIMT”](https://docs.nvidia.com/cuda/cuda-programming-guide/01-introduction/programming-model.html#warps-and-simt). A warp has 32 threads; divergent paths reduce active-lane utilization. Tensor Cores specialize in matrix operations, while other units perform surrounding work."
+    },
+    {
+      "note_id": "v1-i3-tiling",
+      "claim": "Weighted sums, tiled products and reuse",
+      "locator": "Matrixguide1,2.1; Blackwell1.4.2",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html",
+        "https://docs.nvidia.com/cuda/blackwell-tuning-guide/index.html"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "NVIDIA, [*Matrix Multiplication Background User’s Guide*](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html), §§1 and 2.1; [*Blackwell Tuning Guide*](https://docs.nvidia.com/cuda/blackwell-tuning-guide/index.html), memory-system discussion. The numerical example and diagram are original. Actual staging can use shared memory, registers and generation-specific matrix storage; the diagram is not a literal B200 block diagram."
+    },
+    {
+      "note_id": "v1-i3-gpu-bounds",
+      "claim": "Arithmetic intensity, compute/memory bounds",
+      "locator": "Performanceguide4–5; Matrixguide2",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html",
+        "https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "NVIDIA, [*GPU Performance Background User’s Guide*, “Understanding Performance” and “DNN Operation Categories”](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html), and [*Matrix Multiplication Background User’s Guide*, “Math and Memory Bounds”](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html). Arithmetic intensity compares operations with transferred bytes at a specified memory boundary. Batching, dimensions, kernels and hardware determine the actual bottleneck."
+    },
+    {
+      "note_id": "v1-i3-blackwell",
+      "claim": "B200: two dies, 208 billion transistors and documented 180 GB capacity",
+      "locator": "Architecture technical-breakthroughs; tuningguide1.4.2.1",
+      "verification": "Manufacturer passages checked2026-10-23",
+      "limits": "Dated B200example, not all products bearing Blackwellname; no vendor speedup generalized.",
+      "urls": [
+        "https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/",
+        "https://docs.nvidia.com/cuda/blackwell-tuning-guide/index.html"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "NVIDIA, [Blackwell architecture](https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/) and [*Blackwell Tuning Guide*, §1.4.2.1](https://docs.nvidia.com/cuda/blackwell-tuning-guide/index.html): two reticle-limited compute dies, approximately 208 billion transistors and up to 180 GB of B200 HBM capacity. The initial 2024 announcement listed 192 GB; the main text uses the documented usable capacity rather than mixing configurations."
+    },
+    {
+      "note_id": "v1-i3-precision",
+      "claim": "FP4/FP8, scaling and precision tradeoffs",
+      "locator": "Articleformat table and What isNVFP4 body, notgeneratedsummary",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Eduardo Alvarez et al., NVIDIA, [“Introducing NVFP4 for Efficient and Accurate Low-Precision Inference”](https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference/) (24 June 2025), format table and scaling discussion. Low-bit values can require additional scale metadata; not every training quantity or accumulation uses the same precision."
+    },
+    {
+      "note_id": "v1-i3-rubin",
+      "claim": "Rubin announced memory specification, not shipment date",
+      "locator": "Body memory/decode subsection",
+      "verification": "Manufacturer body specification checked2026-10-23",
+      "limits": "Announced limits, not measured application performance; avoid stale latest/workhorseclaims.",
+      "urls": [
+        "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Kyle Aubrey, NVIDIA, [“Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI Supercomputer”](https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/) (5 January 2026; subsequently updated), “Memory and Decode Efficiency”: up to 288 GB HBM4 and 22 TB/s per GPU. These are manufacturer specifications. The passage makes no claim that every announced system was shipping on that date."
+    },
+    {
+      "note_id": "v1-i3-memorywall",
+      "claim": "Memory-wall concept and traffic mismatch",
+      "locator": "UVArecord; MITlecture14 andNVIDIAperformanceguide",
+      "verification": "Bibliographicrecord checked; explanatory passages verified in citedteaching/manufacturer sources",
+      "limits": "UVAfulltext blocked; no quotations or exactperformancepredictions takenfromunreadreport.",
+      "urls": [
+        "https://libraopen.library.virginia.edu/entities/publication/a6907010-027d-405e-8f0b-4707e1263ad9"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Wm. A. Wulf and Sally A. McKee, [“Hitting the Memory Wall: Implications of the Obvious”](https://libraopen.library.virginia.edu/entities/publication/a6907010-027d-405e-8f0b-4707e1263ad9), University of Virginia report CS-94-48 (1994), later *ACM SIGARCH Computer Architecture News* 23(1) (1995), pp. 20–24. MIT’s memory-hierarchy lecture and NVIDIA’s performance guides above explain how locality and bandwidth affect present designs."
+    },
+    {
+      "note_id": "v1-i3-power",
+      "claim": "Dated 2024 data-center total",
+      "locator": "Outlooksubsection",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "International Energy Agency, [*Energy and AI*, “Energy Demand from AI”](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai) (2025), “The Outlook for Energy Demand from Data Centres”: approximately 415 TWh and 1.5% of global electricity in 2024. This is total data-center electricity, not an estimate of AI alone."
+    },
+    {
+      "note_id": "v1-i3-spectre",
+      "claim": "Speculative and faulting transient-execution differences",
+      "locator": "Spectre§§1–4;Meltdown§§2–4",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://arxiv.org/pdf/1801.01203",
+        "https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Paul Kocher et al., [“Spectre Attacks: Exploiting Speculative Execution”](https://arxiv.org/pdf/1801.01203) (2018 preprint; *IEEE Symposium on Security and Privacy*, 2019); Moritz Lipp et al., [“Meltdown: Reading Kernel Memory from User Space”](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf), *USENIX Security* (2018), pp. 973–990. Both became public in January 2018. Their transient-execution mechanisms differ, as do affected processors."
+    },
+    {
+      "note_id": "v1-i3-circuits",
+      "claim": "Curve detectors and induction heads",
+      "locator": "Distill curve-detection indexedpassages;arXivprimaryabstract",
+      "verification": "Indexed primarypassages andabstract checked; oversizedprojectpagesnotfetchedinfull",
+      "limits": "",
+      "urls": [
+        "https://distill.pub/2020/circuits/zoom-in/",
+        "https://arxiv.org/abs/2209.11895"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Chris Olah et al., [“Zoom In: An Introduction to Circuits”](https://distill.pub/2020/circuits/zoom-in/), *Distill* (2020), doi:10.23915/distill.00024.001; Catherine Olsson et al., [“In-context Learning and Induction Heads”](https://arxiv.org/abs/2209.11895) (2022). Curve detectors and induction heads are specific interpretability findings, not a complete explanation of all vision or language models."
+    },
+    {
+      "note_id": "v1-i3-fpga",
+      "claim": "1985 commercial FPGA conjunction",
+      "locator": "Manufacturerhistory milestones andXC2064passage",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://www.amd.com/en/blogs/2025/from-invention-to-ai-acceleration--celebrating-40-years-of-fpga-.html"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "AMD Adaptive Computing, [“From Invention to AI Acceleration: Celebrating 40 Years of FPGA Innovation”](https://www.amd.com/en/blogs/2025/from-invention-to-ai-acceleration--celebrating-40-years-of-fpga-.html) (2 June 2025), identifies the Xilinx XC2064, introduced in 1985, as the first commercial FPGA. Configuration changes logic and routing through manufactured resources; it does not grow new transistors."
+    },
+    {
+      "note_id": "v1-i3-natural",
+      "claim": "Field scope; distinguishes author proposal",
+      "locator": "Publisheroverview",
+      "verification": "Publisheroverview checked; fullhandbooknotreread",
+      "limits": "",
+      "urls": [
+        "https://link.springer.com/referencework/10.1007/978-3-540-92910-9"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Grzegorz Rozenberg, Thomas Bäck and Joost N. Kok, eds., [*Handbook of Natural Computing*](https://link.springer.com/referencework/10.1007/978-3-540-92910-9) (Springer, 2012), introduction and overview of the field’s strands. Nature-inspired algorithms, modeling natural processes and computing with physical/biological substrates are related but distinct projects. The proposed shifting of abstraction boundaries is my question."
+    },
+    {
+      "note_id": "v1-i3-physical",
+      "claim": "Conductance weights, current sums and total-system costs",
+      "locator": "Abstract; ExtendedDataFig2 anddeviceprogramming",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://www.nature.com/articles/s41928-023-01010-1"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Manuel Le Gallo et al., [“A 64-Core Mixed-Signal In-Memory Compute Chip Based on Phase-Change Memory for Deep Neural Network Inference”](https://www.nature.com/articles/s41928-023-01010-1), *Nature Electronics* 6 (2023), pp. 680–693, especially Extended Data Fig. 2 and the mixed-signal architecture. Conductance encoding and current summation require supporting digital operations, conversion and communication. This is a demonstrated inference chip, not a self-growing general intelligence."
+    },
+    {
+      "note_id": "v1-i3-physicsml",
+      "claim": "Quantum simulation precedent; attractors and sampling; 2024 Nobel",
+      "locator": "Feynmanquantumsimulationpassage;Hopfieldabstract/model;Nobelstatisticalphysicsaccount",
+      "verification": "Primarypaperabstract/indexedpassages, authorrepositorymetadata andofficialNobelaccount checked",
+      "limits": "NofullrereadofAckley1985 claimed; noextensiontosettlingphysicsjustifiesauthorontologicalnudge.",
+      "urls": [
+        "https://authors.library.caltech.edu/records/a1kgk-xyk45",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC346238/",
+        "https://www.nobelprize.org/prizes/physics/2024/popular-information/"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Richard P. Feynman, [“Simulating Physics with Computers”](https://authors.library.caltech.edu/records/a1kgk-xyk45), *International Journal of Theoretical Physics* 21 (1982), pp. 467–488; J. J. Hopfield, [“Neural Networks and Physical Systems with Emergent Collective Computational Abilities”](https://pmc.ncbi.nlm.nih.gov/articles/PMC346238/), *PNAS* 79 (1982), pp. 2554–2558; David H. Ackley, Geoffrey E. Hinton and Terrence J. Sejnowski, “A Learning Algorithm for Boltzmann Machines,” *Cognitive Science* 9 (1985), pp. 147–169. See the [2024 Physics Nobel’s scientific background](https://www.nobelprize.org/prizes/physics/2024/popular-information/). The mathematical energy in these models is not automatically physical energy consumption."
+    },
+    {
+      "note_id": "v1-i3-physical-training",
+      "claim": "Trainable physical systems as a foothold",
+      "locator": "Abstract andphysicalnetworks/trainingdiscussion",
+      "verification": "Supporting passage checked",
+      "limits": "",
+      "urls": [
+        "https://www.nature.com/articles/s41586-021-04223-6"
+      ],
+      "accessed": "2026-10-23",
+      "source_note": "Logan G. Wright et al., [“Deep Physical Neural Networks Trained with Backpropagation”](https://www.nature.com/articles/s41586-021-04223-6), *Nature* 601 (2022), pp. 549–555. The demonstrated physics-aware training combines physical forward operations with a differentiable model for training. Continuous physical growth and an architecture that chooses its own abstraction boundaries are further conjectures, not results of this experiment."
+    }
+  ]
+}

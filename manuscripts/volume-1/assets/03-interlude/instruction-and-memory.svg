@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="930" viewBox="0 0 1100 930" role="img" aria-labelledby="title desc">
+<title id="title">From instruction to operation</title><desc id="desc">A simplified register addition shows instruction fetch and decode, operand selection, ALU addition and write-back. A separate panel locates registers, caches, RAM and persistent storage.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#222"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111;font-size:25px}.head{font-size:29px;font-weight:700}.label{font-size:26px;font-weight:700}.small{font-size:23px}.tiny{font-size:21px}.box{stroke:#444;stroke-width:2;fill:white}.line{stroke:#222;stroke-width:2.5;fill:none;stroke-linejoin:round}</style>
+<rect width="1100" height="930" fill="white"/>
+<rect x="15" y="15" width="1070" height="520" rx="8" fill="#fafafa" stroke="#666" stroke-width="1.8"/>
+<text x="40" y="56" class="head" text-anchor="start">A   Follow one register addition</text>
+<rect x="55" y="95" width="205" height="115" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="157.5" y="128" class="label" text-anchor="middle">1  PC</text>
+<text x="157.5" y="162" class="small" text-anchor="middle">address of the</text>
+<text x="157.5" y="193" class="small" text-anchor="middle">instruction</text>
+<rect x="355" y="95" width="265" height="115" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="487.5" y="128" class="label" text-anchor="middle">2  Fetch</text>
+<text x="487.5" y="162" class="small" text-anchor="middle">instruction bits</text>
+<text x="487.5" y="193" class="small" text-anchor="middle">from memory system</text>
+<rect x="720" y="95" width="310" height="115" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="875.0" y="128" class="label" text-anchor="middle">3  Decode</text>
+<text x="875.0" y="162" class="small" text-anchor="middle">operation: ADD</text>
+<text x="875.0" y="193" class="small" text-anchor="middle">sources: R1, R2; target: R3</text>
+<path class="line" d="M260 152 H345" marker-end="url(#arr)"/>
+<text x="302" y="137" class="tiny" text-anchor="middle">address</text>
+<path class="line" d="M620 152 H710" marker-end="url(#arr)"/>
+<text x="670" y="137" class="tiny" text-anchor="middle">bits</text>
+<rect x="75" y="310" width="275" height="110" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="212" y="344" class="small" text-anchor="middle">Read source registers</text>
+<text x="212" y="382" class="small" text-anchor="middle">R1 = 7       R2 = 5</text>
+<rect x="475" y="310" width="195" height="110" rx="8" fill="#e5e5e5" stroke="#666" stroke-width="1.8"/>
+<text x="572" y="344" class="label" text-anchor="middle">4  ALU</text>
+<text x="572" y="382" class="label" text-anchor="middle">7 + 5 = 12</text>
+<rect x="795" y="310" width="240" height="110" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="915" y="344" class="label" text-anchor="middle">5  Write result</text>
+<text x="915" y="382" class="label" text-anchor="middle">R3 ← 12</text>
+<path class="line" d="M350 367 H465" marker-end="url(#arr)"/>
+<text x="410" y="350" class="tiny" text-anchor="middle">operands</text>
+<path class="line" d="M670 367 H785" marker-end="url(#arr)"/>
+<text x="732" y="350" class="tiny" text-anchor="middle">result</text>
+<path class="line" d="M875 210 V260 H572 V300" marker-end="url(#arr)" stroke-dasharray="7 6"/>
+<text x="695" y="290" class="tiny" text-anchor="middle">select operation</text>
+<path class="line" d="M745 210 V235 H212 V300" marker-end="url(#arr)" stroke-dasharray="7 6"/>
+<text x="280" y="267" class="tiny" text-anchor="start">select registers</text>
+<path class="line" d="M915 420 V465 H212 V430" marker-end="url(#arr)"/>
+<text x="555" y="454" class="small" text-anchor="middle">write-back updates the register file</text>
+<text x="45" y="507" class="small" text-anchor="start">The PC advances; a branch can choose another address. Dashed arrows: control.</text>
+<rect x="15" y="555" width="1070" height="360" rx="8" fill="#fafafa" stroke="#666" stroke-width="1.8"/>
+<text x="40" y="598" class="head" text-anchor="start">B   Different stores, different jobs</text>
+<rect x="40" y="650" width="225" height="115" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="152" y="682" class="label" text-anchor="middle">REGISTERS</text>
+<text x="152" y="716" class="tiny" text-anchor="middle">operands and results</text>
+<text x="152" y="745" class="tiny" text-anchor="middle">inside the processor</text>
+<rect x="305" y="650" width="225" height="115" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="417" y="682" class="label" text-anchor="middle">CACHES</text>
+<text x="417" y="716" class="tiny" text-anchor="middle">nearby copies</text>
+<text x="417" y="745" class="tiny" text-anchor="middle">of instructions / data</text>
+<rect x="570" y="650" width="225" height="115" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="682" y="682" class="label" text-anchor="middle">RAM</text>
+<text x="682" y="716" class="tiny" text-anchor="middle">running programs</text>
+<text x="682" y="745" class="tiny" text-anchor="middle">and working data</text>
+<rect x="835" y="650" width="225" height="115" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="947" y="682" class="label" text-anchor="middle">STORAGE</text>
+<text x="947" y="716" class="tiny" text-anchor="middle">persistent programs</text>
+<text x="947" y="745" class="tiny" text-anchor="middle">and files</text>
+<path class="line" d="M270 706 H297" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<path class="line" d="M535 706 H562" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<path class="line" d="M800 706 H827" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<text x="550" y="812" class="small" text-anchor="middle">Toward the left: smaller stores and lower access latency, typically.</text>
+<text x="550" y="849" class="small" text-anchor="middle">Toward the right: more capacity; storage survives power-off.</text>
+<text x="550" y="888" class="tiny" text-anchor="middle">Conceptual transfers, not a compulsory route for every instruction.</text>
+</svg>

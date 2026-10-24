@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="980" viewBox="0 0 1100 980" role="img" aria-labelledby="title desc">
+<title id="title">A GPU keeps the arithmetic near its ingredients</title><desc id="desc">A common tiled matrix computation brings input and weight tiles from HBM through cache into nearby working storage, reuses them in Tensor Core operations, and writes output tiles. Several streaming multiprocessors can do this concurrently.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#222"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111;font-size:25px}.head{font-size:29px;font-weight:700}.label{font-size:26px;font-weight:700}.small{font-size:23px}.tiny{font-size:21px}.box{stroke:#444;stroke-width:2;fill:white}.line{stroke:#222;stroke-width:2.5;fill:none;stroke-linejoin:round}</style>
+<rect width="1100" height="980" fill="white"/>
+<text x="40" y="45" class="head" text-anchor="start">GPU DATA FLOW   Fetch a tile, reuse it, accumulate a result</text>
+<rect x="40" y="75" width="1020" height="125" rx="8" fill="#ededed" stroke="#666" stroke-width="1.8"/>
+<text x="70" y="110" class="label" text-anchor="start">HBM: stacked DRAM beside the compute dies</text>
+<rect x="75" y="130" width="430" height="49" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="290" y="162" class="small" text-anchor="middle">Input values for a batch</text>
+<rect x="575" y="130" width="445" height="49" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="797" y="162" class="small" text-anchor="middle">Model weights</text>
+<path class="line" d="M550 200 V243" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<text x="575" y="231" class="small" text-anchor="start">many bytes in parallel</text>
+<rect x="180" y="255" width="740" height="70" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="550" y="299" class="label" text-anchor="middle">On-chip L2 cache: shared, reusable copies</text>
+<path class="line" d="M370 325 V388" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<path class="line" d="M850 325 V388" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<rect x="40" y="400" width="665" height="410" rx="8" fill="#fafafa" stroke="#666" stroke-width="1.8"/>
+<text x="70" y="439" class="label" text-anchor="start">One streaming multiprocessor (SM)</text>
+<rect x="75" y="462" width="595" height="80" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="372" y="494" class="small" text-anchor="middle">Nearby working storage</text>
+<text x="372" y="525" class="small" text-anchor="middle">shared memory, registers, matrix storage*</text>
+<path class="line" d="M372 542 V595" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<text x="400" y="579" class="small" text-anchor="start">reuse tile values</text>
+<rect x="75" y="608" width="595" height="80" rx="8" fill="#e4e4e4" stroke="#666" stroke-width="1.8"/>
+<text x="372" y="640" class="label" text-anchor="middle">Tensor Core matrix operations</text>
+<text x="372" y="671" class="label" text-anchor="middle">multiply and accumulate partial sums</text>
+<path class="line" d="M372 688 V730" marker-end="url(#arr)"/>
+<rect x="125" y="742" width="495" height="47" rx="8" fill="#fff" stroke="#666" stroke-width="1.8"/>
+<text x="372" y="774" class="small" text-anchor="middle">Completed output tile</text>
+<path class="line" d="M125 765 H58 V359 H208 V335" marker-end="url(#arr)"/>
+<text x="75" y="384" class="tiny" text-anchor="start">write output back</text>
+<rect x="735" y="400" width="325" height="185" rx="8" fill="#fafafa" stroke="#666" stroke-width="1.8"/>
+<text x="897" y="440" class="label" text-anchor="middle">Another SM</text>
+<text x="897" y="482" class="label" text-anchor="middle">another output tile</text>
+<text x="897" y="524" class="label" text-anchor="middle">similar local reuse</text>
+<rect x="735" y="610" width="325" height="200" rx="8" fill="#fafafa" stroke="#666" stroke-width="1.8"/>
+<text x="897" y="650" class="small" text-anchor="middle">Many SMs work</text>
+<text x="897" y="688" class="small" text-anchor="middle">concurrently</text>
+<text x="897" y="726" class="small" text-anchor="middle">when the workload</text>
+<text x="897" y="764" class="small" text-anchor="middle">offers enough tiles.</text>
+<text x="45" y="853" class="small" text-anchor="start">Capacity: how much fits.    Bandwidth: how fast it moves.</text>
+<text x="45" y="888" class="small" text-anchor="start">Arithmetic intensity: how much calculation each transferred byte earns.</text>
+<text x="45" y="932" class="tiny" text-anchor="start">*Staging and matrix storage differ across GPU generations and kernels.</text>
+</svg>
