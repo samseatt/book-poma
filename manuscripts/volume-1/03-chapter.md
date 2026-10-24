@@ -8,750 +8,365 @@ CHAPTER 3
 
 *BRAIN*
 
-> "Every act of perception, is to some degree an act of creation, and every act of memory is to some degree an act of imagination." --- **Oliver Sacks**
+<!-- AI-assisted: restructured from Sam's earlier draft and new vignettes; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
+<!-- AI-assisted: targeted scientific repairs and approved additions by Codex, 23 October 2026; personal scenes and jokes retained from the author-approved incoming draft. -->
 
-That first breath wasn't just air --- it was **information**. Warm, cold, bright, dim --- every molecule a messenger rushing to report that the universe existed. Before language, before memory, before "me," the brain began its apprenticeship in sensation.
+> "Every act of perception is to some degree an act of creation, and every act of memory is to some degree an act of imagination." --- **Gerald M. Edelman**, quoted by Oliver Sacks[^v1-c3-sacks]
 
-I didn't yet *think*; I only *registered*. Light met retina, retina pinged cortex, and a pattern began to form --- a ghost of an image, a rehearsal for seeing.
+That first breath wasn't just air; it was information. Warm, cold, bright, dim: every molecule a messenger rushing to report that the universe existed. Before language, before memory, before "me," the brain began its apprenticeship in sensation.
 
-Exactly when my neurons started wiring themselves to decipher the world, **David Hubel** and **Torsten Wiesel** were watching the same miracle unfold in kittens: lines of light awakening lines of neurons, a lattice of vision growing out of noise. Their lab and my crib were performing the same experiment --- the birth of perception.
+I didn't yet *think*, in any sense I could now put into words; I registered. Light met retina, retina pinged cortex, and a pattern began to form: a ghost of an image, a rehearsal for seeing. My brain had already been wiring and responding before birth; this is where I enter its domain in the story, not where it first switches on.
 
-Neurons grew; dendrites branched; synapses strengthened or gave up their leases. What chemistry had sculpted, electricity began to choreograph. Sodium and potassium slipped through ion channels to rhythms older than language.
+In the year I was born, David Hubel and Torsten Wiesel published another piece of the miracle they were watching unfold in kittens. They had already found visual-cortex neurons that prefer lines at particular angles, and shown how depriving one eye early in life could leave its cortical representation profoundly impaired. Now they showed that making the two eyes look in different directions disrupted the development of cells that normally respond to both.[^v1-c3-hubel] Their lab and my crib were exploring the same predicament: perception needs a world to practice on, and some of its lessons have deadlines.
 
-By the end of that first year, I was less a collection of cells than a network --- billions of neurons engaged in a trillion low-level arguments, gradually talking themselves into a shared story.
+Even the retina, before the cortex gets a vote, doesn't simply report light. Many of its cells compare a small spot with the ring around it and respond strongly to contrast: brighter than its neighbors, or darker.[^v1-c3-kuffler] From its very first look, the brain was riding the delta.
 
-The brain, I would later learn, is not a camera that records the world; it is a sculptor that guesses it. It hallucinates just enough structure to survive the flood of sensation and calls the remainder "reality." Every thought, every dream, every act of understanding begins as a controlled fiction, corrected only by feedback and habit.
+## The Experimental Years
 
-And so, with that first act of seeing, I entered the longest apprenticeship of all: turning perception into creation, curiosity into craft --- learning, in miniature, to do what the universe once did at scale: make something that can think back.
+Then I started crawling. By all accounts, the crawling was not accompanied by a hiss, which was good for me. But it wasn't all well and good, either. My mother said I was always reaching for her crystal, and she had to keep pace with me. Every crawler (boys perhaps more so) reaches an age in sensory-motor development when picking things up, throwing them, and seeing how far they go and what happens to them becomes a calling. Brain and hand had already started their long Promethean partnership.
 
-### **Early Childhood: Wiring Motion and Intention**
+She would, of course, put me in the crib so she could do the chores around the house. Somehow I figured out how to open the crib door. I got out and raced for a crystal ashtray in the living room. Before she could reach me, I raised the ashtray and slammed it on the floor. It broke into a million pieces, with baby me and my mother as the only spectators of this marvelous achievement in science. I had taken one thing and expanded it into hundreds, all in one smash. I had known it could be done, but I'd been kept, ironically, from the very world I was now bestowing this great gift upon. My mother said I looked up at her proudly with a vigorous laugh: *Look what I did.* Perhaps I was demanding a Nobel Prize for discovering that many parts are bigger than one part.
 
-The months after sight came rhythm. My body---still a laboratory under construction---began testing gravity's patience. Crawling, grasping, falling, recalibrating. Each tumble rewired a few thousand synapses; each success reinforced the pattern. The brain was learning what the body already suspected: that movement is thought expressed in muscle.
+She didn't know what to say. It was a monumental feat for an infant, breaking physics as we knew it, or at least as he knew it. He'd had the theory in his notebook for a while (the developing brain, among many other things, had become a notebook) and was dying to test it, and when he finally got his chance, a rigorous regime of experimental physics confirmed the prediction in spectacular fashion. Somewhere, Einstein felt palpitations again, this time in his grave.
 
-I was slow to walk, my mother said, but when I did, I ran--- as if every neuron that had waited now demanded velocity. Motor cortex and cerebellum struck their bargain: she would refine, he would dare. The basal ganglia egged on: "again." The cerebellum demanded: "better." The loop closed: intention → action → feedback → correction---a living algorithm of prediction and error long before back-propagation found a digital body.
+Luckily, I was done with these smashing urges when I started walking (at least for several years, until they came back and never left). My mother said I was hesitant to walk. Perhaps the little evolutionary biologist in that baby brain saw no advantage in it: food normally arrived while lying down. And when I finally did walk, I didn't walk; I ran, with the same laugh. *Look what I did.* Perhaps the biologist reasoned that if one must suffer bipedalism, running is at least the more survivable option. The truth is probably the same fear of falling: running got me to the other end of the room before falling could catch up.
 
-Somewhere between the cot and the crystal, curiosity became a motor act. Like any run-of-the-mill youngster, I pulled myself free, reached for glass, and watched it shatter into a thousand reflections. That was my first experiment in causality: the thrill of agency, the physics of surprise, the cognitive dawn of "I can change what I see."
+So, let's take inventory. Senses: tested. Houdini mechanics: tested. Motor function: tested. Brain-hand cooperation: tested. Mathematics: tested, with flying colors (and other flying debris). Ambulation: tested, belated and cursorial. But that's any animal. The next step was becoming a true primate. Ah, that old monkey-and-bananas problem. Could I?
 
-The human hand was quietly becoming an external cortex --- a neural extension through which ideas could poke the universe to see what poked back.
+Like any good evolutionary trait, this one had to wait until well after I'd been shipped to my grandparents' place. My grandmother tells me that before my mother came to pick me up, my cousin, a year older than me and recently graduated from toddler to, well, professional terror (Grannie said "preschooler," but that's a temporary assignment), came to visit. One key finding was that human brains engage in socialization: he and I mingled. And, momentarily, I looked up to him as a production-ready, curated training dataset, or what the uninitiated call a role model (minus the role, and minus the model).
 
-Even then, the brain's architecture was rehearsing its later themes: neocortex sketching predictions, limbic system tagging emotion to consequence, cerebellum keeping time, glia tending the unglamorous maintenance of it all. Cognition doesn't arrive as pure thought. It arrives as movement remembered.
+He showed off that he could jump, from a step or two, whatever it was. Then he pointed at me: my turn. Smaller and much more timid than him, the brain in me still wasn't going to pass up a healthy training run on something called "jump." I looked down at the floor to gauge the height. Then I walked back inside and reappeared with a cushion from the living room, placed it on the concrete, climbed back up, and jumped, landing successfully on the cushion. The monkey had moved the box.
 
-Modern neuroscience would call it *Hebbian learning*: cells that fired together while I lunged for the crystal wired together to remember the motion. Plasticity was my tutor, repetition my pedagogy. In every child's reach lies the principle of learning machines---the same feedback loops that would, decades later, govern artificial neurons across silicon plains.
+Of course, once an experiment succeeds, why not use the same setup for at least one validation run? I fine-tuned the cushion's position, climbed back up, and just as I was about to jump, my cousin pushed me forward, hard. I overshot the cushion's trajectory and landed headfirst on the concrete. Grannie said I had a big bump on my head for many, many days. Peer review can be brutal.
 
-## **The Credible Accident**
+Monkey-and-bananas problem: solved, and suffered. Social interaction: also checked, with deep regret.
 
-My arrival into the world had all the elegance of a software patch applied in midair. After nine months of aquatic training, I emerged blinking, uncredentialed, and wholly unprepared --- a neural network fresh from the factory with absolutely no documentation. The only "warranty," if you could call it that, was that the system would attempt to configure itself using whatever data happened to be lying around.
+A couple of months later, when I came back to my parents, I came back with a strange habit: finding tea cosies and wearing them on my head. Luckily, being her mother's daughter, my mother had kept the tea habit, while I had acquired the wearable edition. That meant I could keep my habit with the lone tea cosy that lived at my parents' place, which now doubled as the evening teapot's warmer and my daytime headgear. My sharp-witted mother knew the danger (and my obsession), and kept the teapot, tea cosy intact, at the dead center of a round table, beyond my sub-three-year-old reach.
 
-Brains are like that. They're **credible accidents** --- unlikely, self-repairing computation engines built by molecules that couldn't spell "purpose" if you spotted them the consonants. Evolution didn't design the brain the way we design machines; it stumbled toward it like a drunk discovering geometry: occasionally hitting on brilliant structures, occasionally walking straight into trees.
+I formulated a workaround: if I pulled the tablecloth, the tea cosy would move dynamically toward me. It worked perfectly, in a purely theoretical sense. Along with the cosy, the entire payload (teapot and freshly boiled tea) arrived as well. By the time my mother executed her emergency response, the damage was done. I carried a burn on my thigh for quite a while.
 
-Yet here we are, descendants of that long, clumsy chain of improvisations, carrying around three pounds of warm, damp, bioelectrical equipment that we treat with the same confidence we reserve for well-tested operating systems. We type, argue, plan, philosophize, and develop opinions on sourdough hydration---completely unaware that the thing producing these thoughts is governed by rules written in the biochemical equivalent of duct tape.
+Promethean bargain: gifted.
 
-The early brain---mine, yours, everyone's---begins with a kind of primordial bootloader, a set of reflex arcs and developmental heuristics honed over hundreds of millions of years. But unlike the transistorized machines of our interlude, which sit politely and wait for instructions, biology does not believe in waiting. The brain launches itself immediately, like a newborn startup with no users, no market research, and no exit strategy.
+## What the Experiments Were Wiring
 
-And then it learns.
+Behind every one of those experiments, something less visible was happening. A reach, a smash, a jump or a burn could alter the connections through which the next attempt would run. To see what changes, follow one signal.
 
-Neurons fire, connect, and prune with what would look, on a chip-design slide, like reckless enthusiasm. It's hard to imagine a modern semiconductor fab approving anything with this much stochasticity. But biology thrives in precisely the space where electronics panic---the regime of noisy signals, partial data, and unstable feedback loops. The brain is not a deterministic device but a rolling negotiation between memory, mood, body, and environment. It's a credible accident that remains credible only because it keeps revising the minutes.
+A typical cortical neuron receives inputs along branching dendrites. Excitatory inputs tend to promote firing; inhibitory ones oppose or constrain it. Their timing and location matter: a dendritic branch can do substantial local computation before the cell produces an output. If the integrated activity brings the axon's trigger zone to threshold, voltage-sensitive ion channels generate an action potential. Its amplitude is approximately all-or-none; what a population conveys depends on which cells fire, when, and how often. Sodium and potassium currents carry the spike down the axon; pumps maintain the ion gradients that make this repeatable.[^v1-c3-signaling]
 
-And yet, for all its fragility, the brain does something extraordinary: **it produces meaning.**
+At a chemical synapse, the arriving spike opens calcium channels. Calcium entering the terminal triggers vesicles to release neurotransmitter across the gap. Receptors on the receiving cell translate that chemical event back into electrical or biochemical change. The synapse's strength is how much influence the sender has, not how loudly it shouts. And the wiring loops: cortical neurons receive feedback from other regions and their own local circuits, including inhibitory cells that help keep excitation from becoming a self-congratulatory riot.
 
-Not the mechanical mapping of symbol to symbol, but a continuous weaving of sensation, value, story, and identity. Somewhere between ion channels and cortical maps, the universe grows a witness to itself. Somewhere between synapses and signals, matter discovers that it can ask questions.
+![From incoming signals to a changed connection: a cortical neuron integrates excitation and inhibition; a chemical synapse converts a spike into transmitter release; and a recurrent circuit sends activity back through the network. At the enlarged glutamatergic synapse, NMDA current requires transmitter binding and relief of the magnesium block by postsynaptic depolarization. Original schematic; not to anatomical scale.](assets/03-chapter/neuron-synapse-circuit.svg){#fig-v1-c3-neural-learning width=100% fig-alt="Three panels show a neuron integrating inputs into spikes, glutamate release and AMPA/NMDA receptors at a synapse, and two excitatory neurons coupled to an inhibitory feedback neuron. NMDA calcium entry links coincident activity to plasticity."}
 
-The irony is exquisite. After billions of years of evolution, life's flagship product---a conscious mind---is held together by processes no engineer would dare put on a slide deck. The hippocampus drops memories like a distracted intern. The visual cortex lies constantly. The prefrontal cortex attempts long-term planning despite being an evolutionary afterthought stapled to a much older emotional engine.
+Donald Hebb proposed a consequential rule in 1949: when one neuron repeatedly helps make another fire, the connection between them strengthens.[^v1-c3-hebb] *Cells that fire together wire together* is the later shorthand. It describes one family of learning rules; timing, inhibition and chemical context decide what mere togetherness leaves out.
 
-And yet this improbable contraption works better than it has any right to. It navigates the world, loves, creates, remembers, hopes. It becomes a person.
+Maggie was there for this part, as she would be for so much of what came later. At a common type of glutamate receptor, called NMDA, a magnesium ion can sit in the channel like a cork. Glutamate arriving from the sending neuron is not enough: at the receiving cell's usual resting voltage, magnesium largely blocks the current. Nearby AMPA receptors can still pass a signal, helping depolarize the membrane. With sufficient depolarization, the magnesium block eases; glutamate, together with the co-agonist glycine or D-serine, can now open a useful route for calcium to enter.[^v1-c3-nmda]
 
-In the next sections we will wander through that improbable inheritance: how a fetal tangle of cells becomes architecture; how architecture becomes thought; how thought becomes identity; and how identity becomes a Promethean bargain.
+The receptor and the membrane together detect a coincidence: *this input arrived while this cell was sufficiently active*. Calcium then engages machinery that can strengthen the synapse, including changing its complement of AMPA receptors. Other patterns can weaken it. Maggie doesn't write the whole rulebook; she checks an important condition at the door. This is one molecular foothold for Hebbian learning, not a claim that every memory passes through the same gate. Somewhere among the circuits that learned about ashtrays, cushions and tablecloths, that distinction mattered.
 
-But for now, it's enough to stand in awe of the original achievement: **a brain is what happens when matter accidentally becomes curious.**
+An artificial neural network preserves an audacious abstraction of this arrangement: inputs exert adjustable influence, a unit transforms their combined effect, and networks learn by changing those influences. A biological neuron, with active dendrites, spikes, changing receptors and chemical modulators, does considerably more than a weighted sum. Artificial networks can also have feedback and internal state. The useful resemblance is computation through learned connections; the implementation and the learning machinery need not be the same.[^v1-c3-ann]
 
-## **The Embryonic Blueprint Revisited: The Brain as a Finished Machine**
 
-By the time Hubel and Wiesel were teasing meaning out of a cat's visual cortex, the human brain had long since completed the trick the cat was performing: turning raw sensation into world, boundaries, lines, motion, hunger, hope. A million years of evolutionary carpentry had already given us the tools for thinking long before we learned to name them.
+## The Credible Accident
 
-Before we continue, here are the barebones of the carpenter's toolbox:
+Looking back, my arrival had all the elegance of a software patch applied in midair. After nine months of aquatic training, I emerged blinking, uncredentialed and wholly unprepared: a neural network fresh from the factory with absolutely no documentation. The only "warranty," if you could call it that, was that the system would attempt to configure itself using whatever data happened to be lying around (crystal ashtrays included).
 
--   **Neurons** carry the spikes and form the long-range wiring.
+Brains are like that. They're credible accidents: unlikely, self-repairing computation engines built by molecules that couldn't spell "purpose" if you spotted them the consonants. Evolution didn't design the brain the way we design machines; it stumbled toward it like a drunk discovering geometry, occasionally hitting on brilliant structures, occasionally walking straight into trees.
 
--   **Glia** are the support staff that also modulate signals, recycle neurotransmitters, and quietly influence learning.
+Yet here we are, descendants of that long, clumsy chain of improvisations, carrying around three pounds of warm, damp, bioelectrical equipment that we treat with the same confidence we reserve for well-tested operating systems. We type, argue, plan, philosophize and develop opinions on sourdough hydration, completely unaware that the thing producing these thoughts is governed by rules written in the biochemical equivalent of duct tape.
 
--   **Cortex, limbic system, cerebellum, brainstem** each specialize, but the mind is what happens when they gossip constantly.
+The early brain (mine, yours, everyone's) begins with a kind of primordial bootloader: a set of reflexes and developmental heuristics honed over hundreds of millions of years. But unlike the transistorized machines of the interludes, which sit politely and wait for instructions, biology does not believe in waiting. The brain launches itself immediately, like a newborn startup with no users, no market research and no exit strategy. And then it learns.
 
-The cortex is a sheet, but a treacherous one: six-layered, crumpled, expanded, folded like a city built in a hurry. Beneath it lie older districts---limbic circuits that remember what mattered, brainstem columns that don't care about meaning so long as you keep breathing, basal ganglia that bargain with probability and habit. These are stacked not like modules in an orderly design but like sedimentary layers of improvisation. Evolution is a hoarder. Nothing is removed; only repurposed.
+Neurons fire, connect and prune with what would look, on a chip-design slide, like reckless enthusiasm. In many regions, a young child's brain produces a surplus of connections and later prunes it; activity helps shape which connections survive, alongside developmental and cellular mechanisms.[^v1-c3-pruning] No semiconductor fab would approve anything with this much randomness. But biology thrives in precisely the regime where electronics panic: noisy signals, partial data and unstable feedback loops. The brain is not a deterministic device but a rolling negotiation between memory, mood, body and environment, a credible accident that stays credible only because it keeps revising the minutes.
 
-The miracle is that it works.
+A brain is what happens when matter accidentally becomes curious.
 
-### **A Structure That Learns Structure**
+### The Carpenter's Toolbox
 
-Every corner of the brain is a conversation between wiring and history. A column in V1 becomes an orientation detector not because the universe decreed it so, but because billions of years of neural trial and error discovered that light has edges. The hippocampus came to rehearse memory because survival in a chaotic world required a place to stash meaning. The prefrontal cortex learned to bargain with futures because the moment we became social animals, the future became a crowded place.
+By the time Hubel and Wiesel were teasing meaning out of a cat's visual cortex, evolution had long since finished the trick the cat was performing: turning raw sensation into a world of boundaries, lines, motion, hunger and hope. Hundreds of millions of years of evolutionary carpentry had given us the tools for thinking long before we learned to name them.
 
-No single part plays the whole score. The brain is a federation---local councils negotiating a shared illusion of unity. When we speak of "the mind," we are simply flattering a coalition.
+The toolbox itself is simple to list. About 86 billion neurons carry the spikes and form the long-range wiring, joined by synapses on the order of a hundred trillion.[^v1-c3-count] Glia, once dismissed as packing material, turn out to be support staff with opinions: they recycle neurotransmitters, tune signals and quietly influence learning. Regions and networks specialize, but the mind is what happens when they gossip constantly.
 
-But this coalition does something astonishing: it **models**, not just reacts.
+Most of the human cerebral cortex is neocortex, a six-layered sheet crumpled and folded like a city built in a hurry. It works with thalamic, striatal, hippocampal, cerebellar and brainstem circuits in overlapping loops of perception, memory, regulation and action. These are coevolved arrangements, not a rational new tenant perched on an unchanged reptilian basement. Evolution duplicates, repurposes and loses structures; it does not keep every receipt.
 
-### **The Brain's Cosmic Inflation**
+Every corner of it is a conversation between wiring and history. A cell in the visual cortex becomes an orientation detector partly because evolution discovered that the world has edges, and partly, as Hubel and Wiesel's kittens showed, because experience has to arrive on time to finish the job. No single part plays the whole score. The brain is a federation, local councils negotiating a shared illusion of unity. When we speak of "the mind," we are simply flattering a coalition.
 
-Somewhere along our hominin lineage, the cortex began to expand as if the cosmos had misplaced a rule. From Australopithecus to Homo sapiens, the neocortex ballooned so dramatically that childbirth became an evolutionary crisis. We grew skulls as big as narrow hips allowed, then offloaded the rest of development to the outside world. Human infancy is the tax we pay for oversized brains.
+### The Brain's Cosmic Inflation
 
-Why did this explosion happen?
+Somewhere along our lineage, the brain began to expand as if the cosmos had misplaced a rule. From the australopithecines to us, brain volume roughly tripled. A large head, a birth canal and the mother's metabolic capacity impose interacting constraints; the old story that the pelvis alone forced us out unfinished is too tidy.[^v1-c3-volume] Human infancy, long and helpless, leaves an extraordinary amount of development to the outside world.
 
-Because the world kept presenting surfaces of possibility, and the cortex found them irresistible. Stone tools sharpened thought, social complexity sharpened inference, language sharpened abstraction, fire sharpened coordination, and migration sharpened planning.
+How did evolution afford it? Chapter 1's universe didn't build its uniformity piece by piece; it found a cheap engine. The monkey didn't keep jumping; it moved the box. The brain seems to have had several boxes, none of them exclusive. Vernon Mountcastle proposed that recurring cortical circuitry might perform a common kind of operation across very different tasks. Repetition is real; one identical column running one universal algorithm remains a hypothesis. Cortical areas and species vary, sometimes sharply, in their cellular organization.[^v1-c3-mountcastle] Human-specific NOTCH2NL genes offer another clue: experiments show effects on neural progenitor proliferation and differentiation, suggesting a contribution to cortical expansion.[^v1-c3-notch2nl] Cooking may have helped finance a hungrier brain by making food easier to process; how much, and when, remains debated.[^v1-c3-wrangham] A long childhood let the world do some of the wiring. And culture let brains offload what they couldn't hold.
 
-Every niche---ecological, social, cognitive---was an invitation to expand.\
-And the cortex is incapable of refusing an invitation.
+That repetition matters for more than economy. With roughly 20,000 protein-coding genes and 86 billion neurons, the genome is not a connection-by-connection parts list; Interlude 2 called this the genomic bottleneck. Gene regulation, cellular interactions, molecular guidance and activity help build what no such list specifies. Reusable developmental rules compress well. Interlude 1's lattice is a useful mirror here, provided we don't mistake cortex for a crystal: its circuits are heterogeneous, continually altered, and chemically modulated by messengers including dopamine and serotonin. Repetition supplies a scaffold on which differences can become useful.
 
-### **The Brain as Improvised Architecture**
+### Improvised Architecture
 
-The organization looks deliberate, but it is not. The amygdala is an alarm system built on the ruins of an older alarm system. The thalamus is a relay room that never anticipated such traffic. The cerebellum is a silent mathematician whose responsibilities ballooned from balance to cognition because no one else was available.
+The organization looks deliberate, but development still hides surprises. In 2026, researchers reported two parallel progenitor populations contributing to the developing brain: anterior neural ectoderm giving rise to forebrain and midbrain, and posterior neural ectoderm to hindbrain. Their mouse lineage tracing and human stem-cell experiments led them to propose a composite developmental origin for the brain.[^v1-c3-twoorgans] That is a striking challenge to a simple one-origin account. It is not direct evidence that evolution once pushed two independent, functioning brains together.
+
+The resulting divisions do not divide neatly into jobs. Amygdalar circuits participate in learning what matters, including rewards as well as threats. The thalamus helps regulate communication rather than merely forwarding mail. Cerebellar circuitry participates in movement and in cognitive networks. A region can be indispensable to a task without owning it; the same task recruits several regions, and the same region serves several tasks.[^v1-c3-networks]
 
 Evolution never said, "Let there be a mind." It only said, "This works better than dying."
 
-And yet, from these stitched-together subroutines, something staggering emerges: the power to generate a reality rather than merely endure one.
+And yet, from these stitched-together subroutines, something staggering emerges: the power to generate a reality rather than merely endure one. The brain does not wait for the world to instruct it. It predicts, hallucinates and corrects. Vision is mostly guesswork guided by photons. Memory is half reconstruction, half rumor. Emotion is a metabolic weather report with ambitions of poetry. Attention is the fragile agreement among competing circuits on what matters right now.
 
-### **A Generator, Not a Receiver**
+Meaning is not received; it is manufactured. The brain doesn't merely survive the world. It builds internal worlds to survive by.
 
-The brain does not wait for the world to instruct it. It predicts, hallucinates, corrects. Vision is mostly guesswork guided by photons. Memory is half reconstruction, half rumor. Emotion is a metabolic weather report with ambitions of poetry. Attention is the fragile agreement between competing circuits on what matters right now.
+## Alice, Down the Rabbit Hole: The Hard Problem Is the Easy One
 
-Meaning is not received. It is manufactured.
+*The twist, in one line: once a brain is complex enough and coupled closely enough to its surroundings, feeling is simply what that coupling is like from inside; the truly hard problem is how evolution built anything that complex.*
 
-This is the first time in the book where we see **mind** more clearly than the machinery that hosts it. A brain is not a collection of parts but a style of computation: recursive, generative, model-building, world-shaping.
+In 1995 the philosopher David Chalmers split the study of consciousness in two. The "easy problems" are explaining how the brain discriminates, integrates, attends and reports. The "hard problem" is explaining why any of that should feel like something at all.[^v1-c3-chalmers] I've always suspected he had them backward. Daniel Dennett also resisted the framing: he argued that the hard problem is largely an artifact of how we pose the question, and that the real work lies in the "easy" ones.[^v1-c3-dennett] Chalmers later distinguished the *meta-problem*: why we judge consciousness to pose this difficulty. That doesn't mean he abandoned the hard problem. Illusionists such as Keith Frankish make the more radical proposal that the judgment itself needs explaining.[^v1-c3-meta]
 
-It doesn't merely survive the world. It builds internal worlds to survive by.
+My version runs on two ingredients.
 
-And once this machinery reached a certain threshold---once it could coordinate hands, tools, dreams, fears, languages, memories, abstractions---something else became possible: the next jump in the arrow of becoming.
+The first is complexity: a brain with enough possible states to hold, inside itself, a model of the larger world it sits in, a possibility space nested within a bigger one. But a headcount cannot be the explanation. The cerebellum contains most of the brain's neurons, yet rare people born without it can be awake, communicative and conscious, despite substantial developmental and motor difficulties.[^v1-c3-cerebellum] It does participate in loops with the cortex; it isn't a disconnected calculator. What matters must include how cells are organized and interact, which points toward my second ingredient.
 
-The brain could finally **teach another mind into existence.**
+The second is constant comparison with an environment. From the brain's point of view there are three environments: the world outside; the body's inner world, which the physiologist Claude Bernard called the *milieu intérieur*, the chemistry the brain must keep in balance; and the brain's own other parts. Sensing isn't the passive receipt of a stimulus. It's a longer dance of predicting, comparing and correcting, a continuous coupling between the brain and its environments. That coupling is the ripple Chapter 2 found between DNA and the biosphere, one floor up. And feeling, I suspect, is what that ripple is like from inside.
 
-## Neural Cartography and Plasticity
+A quale, the redness of red, the sting of a burn on a toddler's thigh, would then be something like a standing wave of the brain against itself and against what it has just sensed. Not a literal wave: I mean a pattern that persists through changing activity, long enough to be a coherent experience. Dehaene's global neuronal workspace offers one nearby, testable picture: recurrent activity amplifies a representation and makes it widely available, sometimes with a late cortical 'ignition' a few hundred milliseconds after a stimulus.[^v1-c3-dehaene] That timing is an experimental signature in particular tasks, not a universal clock for feeling. Other intellectual relatives differ among themselves: Stephen Grossberg's resonances, Gerald Edelman's reentrant signaling, Douglas Hofstadter's self-referential loops, and Antonio Damasio's and Anil Seth's emphasis on bodily regulation.[^v1-c3-kin] They give this conjecture company, not a certificate.
 
-Every brain is a cartographer. Sensory signals arrive as spikes and voltages, but what you experience are **maps**: of edges and colors, of touch and posture, of threat and safety. Vision, hearing, touch --- each carves its own geography into cortex. Over time, these maps stop being mere reflections and become **proposals** about what the world probably is.
+Time is the brain's extra dimension here. It doesn't only stretch across neurons; it cycles through them, reusing the same cells in different patterns from one moment to the next, which multiplies what a modest number of neurons can do. And the cortex's cheap repetition may be what keeps those cycles orderly. I am borrowing the possibility of structured dynamics from those earlier mirrors: Chapter 1's bounded possibilities, Interlude 1's bands and gaps. Repetition alone guarantees neither orderly activity nor experience; the connections and their dynamics have to do the work.
 
-The important part is that none of this is finished at birth. The wiring diagram in a newborn is more like a **draft atlas**: rough coastlines, blank interiors, a few pre-printed landmarks (faces, sounds, pain, sweetness). Experience doesn't merely decorate that atlas; it redraws it. Synapses strengthen, weaken, or vanish; dendrites branch or retract; axons get wrapped in myelin to speed the routes we use most.
+Dreams give this proposal an everyday test case. During sleep, responsiveness to the outside world changes; in ordinary REM dreaming, some executive and reality-monitoring processes are reduced, yet the brain can build an experience the dreamer takes for a world. Dreaming also occurs outside REM.[^v1-c3-dreams] The outside hasn't vanished, and the body certainly hasn't. Experience can persist while its coupling to external events is greatly altered. J. Allan Hobson described dreaming in terms of an internally generated virtual reality; Erik Hoel has proposed that its strangeness helps prevent overfitting, rather as unusual training examples can help a machine generalize.[^v1-c3-hoel] That proposed function remains a hypothesis.
 
-We call this **plasticity**, but that word sounds gentler than it is. Plasticity is not a metaphor; it is literal physical sculpting. Every repeated movement, every lullaby, every fright, every bedtime story leaves faint chisel marks in neural tissue. Experience is not something that happens *to* the brain. Experience is the brain.
+The machines offer a useful comparison. Trained image-recognition networks can develop feature hierarchies, from local edges toward more complex patterns. Google's DeepDream repeatedly adjusted an input image to amplify features that a trained network detected, producing what looked like machine hallucinations.[^v1-c3-cnn] Its intermediate representations do some of the box's job: they make features reusable. That tells us something about learned representations and nothing, by itself, about whether the machine has an experience.
 
-### Plasticity: The Quiet Superpower (and Its Price)
+So the inversion is this: why it feels like something may have a short answer, once you see feeling as the inside of a coupling between a complex model and its environments. How evolution built a brain complex enough for that coupling is the long, hard part. The unresolved test is whether this account can distinguish coupling that feels from the abundant, sophisticated coupling that appears unconscious. Until it can, 'the inside' names the proposed answer without yet explaining why there is one. None of this is proven, and the ingredients may not be complete. But it's the view from inside that Chapter Φ started with, turned on the brain itself.
 
-If evolution gave us one unfair advantage, it wasn't bipedalism, opposable thumbs, or even language. It was the permission to **re-wire**.
 
-Plasticity lets the brain trade rigidity for adaptability. Instead of shipping a finished product, biology ships a device that can keep editing its own circuit diagram while running. That's why a child can go from random flailing to walking, reading, and sarcasm in a single decade.
+## Livewired
 
-But the gift comes with a receipt.
+Every brain is a cartographer. Sensory signals arrive as spikes and voltages, but what you experience are maps: of edges and colors, of touch and posture, of threat and safety. Over time, these maps stop being mere reflections and become proposals about what the world probably is.
 
-Because plasticity is path-dependent, **whatever** we repeat becomes easier to repeat again --- skill, prejudice, coping strategy, addiction, worldview. The same mechanism that lets a violinist refine bow control also lets a phobia harden or a conspiracy theory burrow in. Plasticity optimizes for *predictable responses*, not for truth. It doesn't care about accuracy, only adaptation.
+None of this is finished at birth. A newborn's wiring is a draft atlas: rough coastlines, blank interiors, a few pre-printed landmarks (faces, voices, pain, sweetness). Experience doesn't merely decorate the atlas; it redraws it. Synapses strengthen, weaken or vanish; dendrites branch or retract; axons get wrapped in myelin to speed the routes we use most.
 
-So each brain becomes a personal compromise: a history of bets on which patterns were worth keeping.
+We call this plasticity, but the word sounds gentler, and more finished, than it is. The neuroscientist David Eagleman prefers *livewired*: the brain isn't plastic in the sense of a material molded once and then set, but a network that keeps rewiring itself for as long as it lives.[^v1-c3-eagleman] It changes on several clocks at once. Neurons fire in milliseconds; synapses strengthen or weaken over seconds to hours; new connections sprout and old ones are cut over days to weeks; myelin keeps being laid down over years. In the terms of this book's rabbit holes, the brain's possibility space isn't a fixed landscape that thoughts roll across. The landscape reshapes itself while it's being used, quickly in some places and slowly in others.
+
+That's evolution's quiet superpower. Instead of shipping a finished product, biology ships a device that can keep editing its own circuit diagram while running. That's why a child can go from random flailing to walking, reading and sarcasm in a single decade.
+
+But the gift comes with a receipt. Because the wiring is path-dependent, whatever we repeat becomes easier to repeat: skill, prejudice, coping strategy, addiction, worldview. The same mechanism that refines a violinist's bow control lets a phobia harden or a conspiracy theory burrow in. Livewiring can stabilize a familiar response whether or not the belief behind it is true. Each brain becomes a personal compromise, a history of bets on which patterns were worth keeping.
 
 ### Learning as Internal Evolution
 
-Under the hood, learning is evolution turned inward.
+Under the hood, learning can look like evolution turned inward. Gerald Edelman's neural Darwinism describes selection among neuronal groups and their responses, rather than literal reproduction of little organisms inside the skull.[^v1-c3-darwinism] It is a theoretical lens, not the name of a single universal learning mechanism. Synaptic change gives the analogy physical purchase, but coincidence alone cannot tell a circuit whether an outcome was worth repeating.
 
-Instead of populations of organisms, you have populations of **micro-circuits**. Each circuit proposes a way to respond: reach or freeze, explore or retreat, believe or doubt. Reality supplies the selection pressure. Patterns that make good predictions get their synapses strengthened; those that waste energy or get you hurt quietly lose market share.
+Over years, this becomes what we call skill. A pianist's fingers, a carpenter's eye, a surgeon's hand, a coder's debugging instinct: all are compressed experience, millions of trial-and-error episodes folded into fast, mostly unconscious routines. Expertise is simply what happens when livewiring amortizes the cost of being wrong.
 
-Over years, this becomes what we call **skill**. A pianist's fingers, a carpenter's eye, a surgeon's hand, a coder's debugging instinct --- all are compressed experience, millions of tiny trial-and-error episodes folded into fast, mostly unconscious routines. Expertise is simply what happens when plasticity amortizes the cost of being wrong.
+### When the World Marks the Exam
+
+Hebb's rule can help associate a cue with an action. It cannot, by itself, distinguish a useful association from an enthusiastically repeated mistake. Consequences bring another kind of signal. In classic experiments, many dopamine neurons responded when a reward was better than expected. After learning, their response shifted toward the cue predicting it; an expected reward that failed to arrive produced a dip in activity. The signal tracked a *reward prediction error*, not simply pleasure.[^v1-c3-reward]
+
+That difference matters. A fully expected reward may still be pleasant while teaching little that is new. An unexpected outcome creates reason to revise. Dopamine can modulate plasticity, but different cells and circuits carry different signals; there is no single chemical schoolmaster assigning the brain its final grade. Habits, useful skills and addictions can all recruit learning machinery. Being well trained is no guarantee of being well advised.
+
+The family resemblance to machine learning is valuable: connections change, errors matter, and later behavior can improve. The brain, however, has no established equivalent of one global loss function being differentiated backward through all its circuits. Biological learning combines local plasticity, neuromodulation and many feedback loops. The metaphor should make us curious about the machinery, not persuade us that we have already opened it.
+
+### Remembering Is Several Jobs
+
+Keeping a phone number available for a moment, remembering where you heard it, and knowing how to dial are different accomplishments. Working memory keeps information usable through changing neural activity and short-lived states. The hippocampus and neighboring medial temporal structures are crucial for forming many new memories of events and relationships; skills and habits depend on partly different circuits. Patients with profound amnesia can improve at certain tasks without remembering the practice.[^v1-c3-memory] The hand can learn while the autobiographer fails to file the report.
+
+An episode is not stored as a miniature film in one anatomical cupboard. Features are represented across networks; retrieval reassembles them, with opportunities for both recognition and revision. Repeated encounters also leave *schemas*: structures that help us fit a new event into what we already know. Experiments in rats show that an established schema can dramatically speed the consolidation of new, related information.[^v1-c3-schemas]
+
+Stories make a culturally elaborate use of that economy. A plot supplies a small arrangement of causes, intentions and consequences into which many events can fit. Calling it compression is an analogy, but a useful one: preserve a gist, discard detail, reconstruct when needed. It also exposes the bill. A familiar story can organize an experience before we have properly examined it. We remember the pattern we expected, and reality is left appealing the minutes.
 
 ### Prediction: The Brain's Signature Algorithm
 
 All this rewiring has a purpose: to make better guesses.
 
-The brain is not a camera. It is a **prediction engine**. At every moment, it is quietly asking: *"Given my current model of the world, what should I be sensing next?"* It then compares that guess to incoming data and uses the **error** as a teaching signal.
+The brain is not a camera; it's a prediction engine. At every moment it is quietly asking, *given my current model of the world, what should I be sensing next?* It compares that guess with the incoming data and uses the error as a teaching signal. In one influential account, higher levels of the cortex send predictions down, and lower levels send back up mainly what the prediction got wrong.[^v1-c3-predictive] The retina's center-surround comparison is a useful earlier echo, though spatial contrast is not itself proof of predictive coding throughout the brain. If the prediction is good, the model stays; if not, something has to give. Perception becomes, in Anil Seth's phrase, a controlled hallucination, one that reality is allowed to edit.[^v1-c3-seth]
 
-If the prediction is good, the model stays. If there's a mismatch, something has to give: you revise your expectations, or you reinterpret the input. Perception becomes a controlled hallucination that reality is allowed to edit.
-
-This is as true for survival as for creativity:
-
--   Catching a ball, reading a face, crossing a street --- all require timing your predictions just ahead of the world.
-
--   Writing a sentence, composing a melody, designing a circuit --- all require predictions that deviate just enough from habit to be interesting, but not so far that they collapse into noise.
-
-The same machinery that learns to reduce surprise also learns, occasionally, to **seek** it --- to climb out of stale predictions into new ones.
+That's as true for survival as for creativity. Catching a ball, reading a face and crossing a street all require timing predictions just ahead of the world. Writing a sentence, composing a melody and designing a circuit all require predictions that deviate just enough from habit to be interesting, but not so far that they collapse into noise. The same machinery that learns to reduce surprise also learns, occasionally, to seek it.
 
 ### Culture: The External Hard Drive
 
-Plasticity doesn't stop at the skull. Once brains got good at storing patterns, they invented a cheat: store them **outside**.
+Livewiring doesn't stop at the skull. Once brains got good at storing patterns, they invented a cheat: store them outside. Tools, gestures, stories, writing, diagrams and code are all ways for one nervous system to dump part of its wiring into the world so another can pick it up without repeating the entire history. Culture is what happens when livewired brains start sharing their edits.
 
-Tools, gestures, stories, writing, diagrams, code --- each is a way for one nervous system to dump part of its internal wiring into the world so another nervous system can pick it up without repeating the entire history. Culture is what happens when plastic brains start sharing their edits.
+Humanity's real brain upgrade may not have been a bigger cortex at all, but external memory. A recipe, a theorem, a myth, a circuit diagram, a Git repository: each is fossilized learning, rewiring made portable. Your neurons don't just learn from your own errors; they learn from centuries of other people's errors compressed into one sentence, one tool, one law or one line of code. (Interlude 2 followed that memory outside the skull; Chapter 4 will follow what it does to a person.)
 
-In that sense, humanity's real "brain upgrade" wasn't a bigger cortex; it was the invention of **external memory**. A recipe, a theorem, a myth, a circuit diagram, a Git repo --- these are fossilized learning, plasticity made portable. Your neurons don't just learn from your own errors; they learn from centuries of other people's errors that got compressed into one sentence, one tool, one law, one line of code.
+## The Weather Inside
 
-Plasticity built the maps inside our heads. Culture became the backup drive --- the place where those maps can be saved, shared, criticized, and rewritten at scales no single brain can reach.
+The toddler who pulled the tablecloth felt the burn before he understood it. That feeling arrived in a fraction of a second, and it carried a verdict: *bad, stop, never again*. Feelings and emotions belong to this chapter for that reason. They are among the brain's fastest work, evaluations of what's happening to the body and what to do about it, delivered before any story about them can be told.
 
-By adulthood, plasticity has done its quiet work: we can change, we can generalize, and we can pass those changes on. Everything else --- art, mathematics, engineering, morality, politics --- rides on that scaffolding. Plasticity is the bridge between what the brain is and what the mind can become.
+Much of that work starts inside. Interoception, the brain's sensing of the body from within (heartbeat, breath, gut, temperature, the chemistry of the blood), runs constantly beneath awareness, and contributes to an ancient regulatory task: keeping the inner environment within the bounds life allows. Antonio Damasio argued that feelings grew out of exactly that job, as the felt face of homeostasis, and that emotional signals he called somatic markers steer decisions long before reasoning weighs in.[^v1-c3-damasio] More recently, Lisa Feldman Barrett and Anil Seth have developed accounts in which emotion and feeling depend on the brain's *predictions* about the body: fear is the brain's best guess that the racing heart, the tight stomach and the shadow by the path add up to danger.[^v1-c3-barrett]
 
-## Hand, Tool, and the Maker's Brain
+That fits the rabbit hole neatly. If feeling is the ripple between the brain and its environments, emotions are the ripples between the brain and its innermost environment, the body it is trying to keep alive. They're also invitations: a feeling proposes an action (flee, freeze, reach, cry for your mother) and the rest of the brain decides whether to accept. My mother's emergency response that day was emotion at full speed, a body reading danger and moving before thought had finished its sentence.
 
-The mind did not evolve alone. It evolved with a co-conspirator: a five-digit experiment dangling from the ends of primate arms, attached to a nervous system that had no idea it was signing up for a career in fabrication.
+Here I am following emotion's bodily weather; the next chapter follows how feeling enters temperament, identity and life among other people. The processes overlap. A moral emotion can arrive in a flash, and a bodily state can linger all day.
 
-If the brain is the architect of human intelligence, the hand is its first and most stubborn collaborator.
 
-### The hand that taught the brain to think
+## The Maker's Brain
 
-Long before anyone argued about consciousness, before mouths carved meaning into air, our ancestors were knapping stones---flint against flint, coaxing blades out of quartz. Each strike wasn't just muscle; it was simulation.
+The mind did not evolve alone. It evolved with a co-conspirator: a five-digit experiment dangling from the ends of primate arms, attached to a nervous system that had no idea it was signing up for a career in fabrication. If the brain is the architect of human intelligence, the hand is its first and most stubborn collaborator. (The toddler with the ashtray, the cushion and the tablecloth was already deep in that partnership.)
 
-To shape a tool, the brain has to:
+Long before anyone argued about consciousness, our ancestors were knapping stone, flint against flint, coaxing edges out of rock; the oldest known stone tools are more than three million years old.[^v1-c3-tools] Skilled knapping can involve anticipating a fracture, comparing the result with an intended form and adjusting the next blow. Imagine, act, observe, update: a learning loop running on wet hardware. A stone preserves the result much better than it preserves how explicitly its maker imagined it. As stone tools grew more refined, so did the brain's control of fine movement and long sequences of action. Brain scans of modern volunteers learning to knap show the work recruiting regions also involved in language and planning.[^v1-c3-stout] Hands forced minds to become predictive; minds forced hands to reach further. Evolution is often described as tinkering, but in our lineage it looked suspiciously like prototyping.
 
--   imagine a future form,
+Hands may have helped language find its way; gesture-first accounts of language are hypotheses, not an ancestral recording we can play back. We can test the hand's contribution now. In one experiment, people explaining a mathematics problem remembered more of a separate list when they gestured than when they kept their hands still.[^v1-c3-gesture] Movement can lighten the cognitive load. The hand sketches an idea so the rest of the brain has less to carry.
 
--   predict how a fracture will travel,
+Every tool is a piece of thought that managed to escape the skull. A stone blade is frozen cutting. A spear is stored reaching. A pot is remembered containment. A written symbol is remembered attention, preserved long after the original mind has dissolved. Tools store procedures in matter, offload repetition, and free the brain for new problems, because yesterday's problems now live in wood, bone, metal and silicon. Once your ancestors leave you a toolbox, you're a fool if you insist on starting every fire by rubbing your forehead. AI is simply the latest contractor on a very old project.
 
--   compare the outcome to the imagined shape,
+Once hands and tools found each other, a loop snapped into place: better hands made better tools, better tools demanded better reasoning, better reasoning invented better tools, and brains grew up inside the reshaped world and rewired to match it. Human cognition is less a fixed trait than the product of a species that keeps redesigning the habitat that keeps redesigning the species. We are both the designers and the designed, and often not entirely sure which side of the drafting table we're on.
 
--   adjust the next blow.
+Tool use also smuggled in intention. A hand grabbing a branch is an action. A hand reshaping stone into a blade is a plan. A hand passing that blade to another is culture. Sophisticated toolmaking can require imagining a future state and steering toward it; networks for prediction and control that help test "if I throw this rock, will it hit?" now spend their days running "what if I quit my job and move to Lisbon?" Not all progress is unambiguously progress.
 
-Imagine → act → observe → update. The first learning algorithm, running on wet hardware.
+Fast-forward a few hundred millennia. The stone is now a semiconductor wafer, the campfire a power grid. Modern engineering is prediction written in steel, concrete, code and procedure. A bridge is a forecast about forces and time; a vaccine, a forecast about immune systems and epidemics; a spacecraft, a forecast about physics, politics and budgets all holding up long enough to reach orbit. No single mind designs any of it. Big systems are distributed cognition, many partial models held in many heads, embedded in tools and checklists and stitched together by habit and bureaucracy. When they succeed, we call it progress. When they fail, we call a commission.
 
-Over millions of years, as stone tools grew more refined, so did cortex: more folds, more fine motor control, more circuits dedicated to planning sequences of movement. Hands forced minds to become predictive; minds forced hands to reach further. Evolution is often described as tinkering, but in our lineage it looked suspiciously like prototyping.
+That is the maker's bargain. Fire confessed that we wanted mastery over nature; agriculture, mastery over time; writing, that our memory wasn't enough; machines, that our muscles weren't enough; computers, that our raw abstraction isn't enough. AI is the bluntest confession yet: we are trying to bottle pattern-finding itself. You get leverage over reality, and in exchange you accept that your creations will act in ways no individual creator can fully foresee. Planes fly because thousands of competent approximations align just long enough. They also sometimes fall because a few of them were wrong in exactly the same way.
 
-The hand wasn't just an output device. It was our first teacher.
+## Consciousness in the Moment
 
-### Gesture: thought in motion
+For all its evolutionary kludges, the brain hides one phenomenon that still keeps philosophers employed: it doesn't just process information; it feels like something to be that processing. A star fuses. A liver detoxifies. A brain experiences.
 
-Before mouths spoke, hands did. Gesture is older than grammar, older than vowels tuned for speech. The neural circuits that plan movements of the hand overlap heavily with the circuits that wrangle syntax and phrase structure.
+The intuitive picture, a unified 'I' directing everything from a private control room, has no matching anatomical headquarters. Networks for sensory processing, memory, bodily regulation and action overlap and interact. It's less a symphony than a set of improv troupes sharing a stage: a plan meets a learned threat, while the motor system starts doing what it practiced last week anyway. Some theories describe consciousness as a momentary settlement, a version of events available widely enough to guide flexible action. Daniel Dennett's Multiple Drafts model instead emphasizes many parallel interpretations without a final inner theater where they all appear.[^v1-c3-drafts] Freud overshot on the details, but he was directionally right: a lot of serious work happens offstage.
 
-Even today, gesturing while explaining a problem improves people's reasoning---even when no one is watching. The brain thinks in movement before it thinks in words; the hand sketches an idea so the cerebrum can understand it.
+The science has several serious accounts of that settlement. Global workspace theories, from Bernard Baars to Dehaene, treat consciousness as information that wins a competition for broadcast and becomes available to many systems at once. Predictive-processing views see conscious perception as the brain's best bets, continuously corrected. Higher-order and self-model theories say experience arises when a system models its own states (not just "there is a tree" but "I am seeing a tree"). And integrated information theory tries to measure how unified a system's internal cause-and-effect structure is.[^v1-c3-theories] None of them settles why any of it should feel like something; Alice has offered her answer. They disagree about what is necessary: widespread availability, a representation of one's own state, or a particular intrinsic causal organization. Those are competing explanations, not different names for the same mechanism. A large adversarial comparison published in 2025 challenged specific predictions of both global neuronal workspace theory and integrated information theory.[^v1-c3-consciousness-test] Even the laboratories have not reached a final settlement.
 
-In that sense, language may be less an invention than a side-effect. We moved our hands with meaning. Eventually, meaning learned to move through our mouths.
+Attention often feels like a spotlight, though attention, conscious experience and voluntary control are distinguishable processes. Items in the beam are vivid, reportable and, for a few seconds if you're lucky, under voluntary control; everything else runs in the dark, shaping behavior without a speech bubble. You steer just enough of the ship to believe you're captaining the whole fleet.
 
-### Tools as frozen movement and external memory
+And "now" is not an instant; it includes integration over different timescales, from a brief sensory event to a phrase or melody. William James discussed this felt duration as the *specious present*, borrowing the term from E. R. Clay.[^v1-c3-james] You never experience raw reality. You experience the recent past, active predictions about the near future and a cleaned-up version of the present, blended into one continuous feeling. That's why music works, why speech is intelligible, and why a small delay in a video call makes reality feel wrong. Consciousness is less a live feed than a slightly delayed highlight reel.
 
-Every tool is a piece of thought that managed to escape the skull.
+One of its most important tricks is meta-awareness: *I don't know. I might be wrong. I'm biased here.* Those thoughts rely on circuits monitoring other circuits and sometimes vetoing them. In engineering terms, consciousness comes with a built-in, semi-reliable debugger. Optimization alone will happily drive off a cliff if the reward signal points that way. Conscious minds can at least hesitate.
 
-A stone blade is frozen cutting behavior. A spear is stored reaching. A pot is remembered containment. A loom is remembered pattern. A written symbol is remembered attention, preserved long after the original mind has dissolved.
+We are now building systems that can model the world, model us and generate convincing narratives without needing a first-person point of view, or at least without our being able to tell whether they have one. The interlude that follows holds up that mirror.
 
-Tools compress and externalize solutions:
+## The Forecast Engine
 
--   They **store** motor programs and procedures in matter.
+If consciousness is the improv show, prefrontal networks help the troupe hold a plan while everyone else has already started acting. They work with memory, sensory, striatal and other systems; rehearsing a future draws heavily on hippocampal machinery also involved in remembering a past. Nor did foresight wait for us. Western scrub-jays, for example, have cached food in ways that anticipate where it will be needed later.[^v1-c3-foresight] Humans elaborate that capacity into imagined careers, institutions and catastrophes. This is either genius or pathology, depending on the day.
 
--   They **offload** repetition: you don't need to re-discover sharpness or leverage each generation.
+Together, these circuits support delaying impulses, simulating actions, predicting consequences and choosing among counterfactuals. Survival was no longer only about faster reflexes or sharper claws; it was about mental time travel. Should we hunt now or tomorrow? Settle here or move on? Trust this stranger? What happens if the fire goes out? The future had become a technology of its own, modeled internally before being risked externally. This is the true Promethean spark: not fire, not tools, not language, but simulation.
 
--   They **free** neural bandwidth for new problems because yesterday's problems live in wood, bone, metal, and silicon.
+This forecasting network is no rational oracle. Its forecasts depend on bodily needs and emotional priorities as well as reasoning. It can integrate memory, perception, social cues, rules, past mistakes and imagined outcomes and produce a prediction that changes behavior before reality forces the issue. That's why people build shelters before storms, save for retirement, launch satellites and write books about possible futures. It's also why we worry, catastrophize, procrastinate, rehearse conversations with people who aren't there, and slowly drift toward the suspicion that life has a plot. Being able to imagine the future means being unable to escape it.
 
-Anthropologists call this "cumulative culture." In less polite terms: once your ancestors leave you a toolbox, you're a fool if you insist on starting every fire by rubbing your forehead.
+Every tool in human history is a fossil of this forecasting, and every disaster is too. Somewhere along the way, our tools stopped behaving like obedient extensions of the body. A spear flies where you throw it; a pot cracks when you drop it. But a microchip doesn't feel like sand performing logic, and a spacecraft in orbit doesn't feel like anything evolution prepared us for. Our tools became smarter than our instincts. Complex systems don't fail like simple objects; they fail like ecosystems, through small misalignments that no single mind can hold, twist or lift. The more we master nature, the more fluent we become in success and the more illiterate in fragility.
 
-For hundreds of thousands of years, human progress has been a slow migration of cognition out into the world. We've been outsourcing slivers of thought to our environment for so long we no longer recognize it as outsourcing.
+The forecast engine built those systems in the first place: the bridges, the satellites, the machines that would carry people above the sky. It is the ancestor of every spreadsheet, spacecraft and constitution we've ever made. And the forecasts are only as good as the brains, and the meetings, that make them.
 
-AI is simply the latest contractor on that very old project.
 
-### The cognitive feedback loop of hands and tools
+## Leaving the Old World
 
-Once hands and tools found one another, a feedback loop snapped into place:
+I left the Old World the way most young minds leave their origins: with more momentum than clarity. The early years, that foggy continent of childhood, misfiled ambitions and adults making decisions on your behalf, had followed me right up to the airport gate. Then, in a single flight number, the trajectory bent.
 
-1.  Better hands enabled better tools.
-
-2.  Better tools demanded better reasoning.
-
-3.  Better reasoning invented even better tools.
-
-4.  Better tools reshaped the world.
-
-5.  Brains grew up inside that reshaped world and rewired to match it.
-
-This loop didn't just supercharge an existing intelligence; it *created* a new kind of intelligence. Human cognition is less a static trait and more an emergent property of a recursive design system: a species that keeps redesigning the habitat that keeps redesigning the species.
-
-We are both the designers and the designed---and often not entirely sure which side of the drafting table we're on.
-
-### From action to intention
-
-Tool use also smuggled in something deceptively simple: intention.
-
-A hand reflexively grabbing a branch is an action.\
-A hand deliberately reshaping stone into a blade is a plan.\
-A hand handing that blade to another is culture.
-
-To make a tool, you must imagine a future state of the world and steer toward it. Somewhere in that little act of time travel---"this could cut better if..."---consciousness sharpened. The brain stopped simply reacting to the world and started rehearsing alternatives.
-
-The same circuits that once tested "If I throw this rock, will it hit?" now spend their days running "What if I quit my job and move to Lisbon?" Not all progress is unambiguously progress.
-
-### Engineering as externalized prediction
-
-Fast-forward a few hundred millennia. The stone is now a semiconductor wafer. The campfire is a power grid. A "tool" is a system that stretches across continents: supply chains, software stacks, financial networks, climate models, hospitals.
-
-The Maker's Brain is the adult counterpart to the toddler who smashed crystal in the living room. It doesn't just test gravity with bare hands; it tests causality with infrastructure.
-
-Modern engineering is prediction written in steel, concrete, code, and procedure. A bridge is a forecast about forces and time. A vaccine is a forecast about immune systems and epidemics. A spacecraft is a forecast about physics, politics, and budgets all holding up long enough to reach orbit.
-
-We like to imagine that somewhere, fully in control, is a single mind "designing" all this. In reality, big systems are:
-
--   **distributed cognition** --- many partial models held in many heads,
-
--   **embedded in tools** --- CAD packages, checklists, simulations, regulations,
-
--   **stitched together by habit and bureaucracy**, which are just stories we tell about how things are "supposed" to work.
-
-When systems succeed, we call it progress. When they fail, we call a commission.
-
-### The Maker's bargain
-
-Every tool is both an extension and a confession.
-
-Fire confessed that we wanted mastery over nature.\
-Agriculture confessed that we wanted mastery over time.\
-Writing confessed that our memory wasn't enough.\
-Machines confessed that our muscles weren't enough.\
-Computers confess that our raw abstraction isn't enough.
-
-AI, in particular, is a remarkably blunt confession: we are trying to bottle pattern-finding itself.
-
-But tools don't only extend our strengths; they also magnify our blind spots. The more we offload cognition into the world, the more we depend on systems no single brain can fully understand. Planes fly because thousands of competent approximations align just long enough. They also sometimes fall because a few of those approximations were wrong in exactly the same way.
-
-That is the Maker's bargain:
-
--   You get leverage over reality.
-
--   In exchange, you accept that your creations will act in ways no individual creator can completely foresee.
-
-For most of human history, this bargain played out in stone, bronze, steel. Now it's playing out in silicon and software. We are building tools that model us, predict us, sometimes out-guess us.
-
-We once used hands to extend the brain into the world.\
-Now we use machines to fold a mirror of the brain back toward itself.
-
-Our first apprenticeship was to the hand: learning how matter behaves when pushed. Our next apprenticeship is to the systems we've built: learning how behavior behaves when scaled.
-
-And that's where we have to set the hand down for a moment and account for a few missing steps. Tools don't appear out of reflex alone. First, something in us has to *want* to make them and keep making them. Then we have to persuade other brains to join in. Only after that do people and tools harden into the systematic routines we call infrastructure and engineering. In the chapters ahead we'll follow that widening circle: from the inner weather of motive, to the social knots of many minds, to the infrastructures that quietly run beneath all of it.
-
-Before we hand more of our meaning-making over to engineered minds, it's worth understanding the animal that picked up the first stone and saw, faintly, the outline of a future hiding inside it.
-
-## The Narrative Brain: How Story Became the Operating System of *Homo sapiens*
-
-If perception draws the maps, story writes the routes. Humans didn't just evolve to sense the world; we evolved to **explain** it, and when explanation ran out, we patched the gap with narrative.
-
-### From Sensation to Story
-
-Somewhere between the first stone flake and the first myth, the brain discovered that information without narrative is just noise. Sequence mattered.
-
--   The **temporal lobes** specialize in ordering events in time.
-
--   The **hippocampus** links episodes into trajectories.
-
--   The **prefrontal cortex** runs "if--then" simulations.
-
--   The **limbic system** tags events with value: good, bad, never again.
-
-Together they let us do something unusual: bind events, emotions, and expectations into arcs.
-
-A cousin dies in the tall grass → the wind sounded a certain way → next time you hear it, you move. That isn't raw conditioning; it's the embryo of a story: *"The grass whispers before the lion comes."* Accurate or not, it's behavior-shaping.
-
-### Story as Compression
-
-Narrative is one of the brain's main compression algorithms.
-
-Instead of storing a thousand individual hunts, we store "the clever hunter," "the dangerous valley," "the broken promise." Cortical association areas bundle patterns into **schemas**: reusable, meaning-dense templates.
-
-Technically, it's lossy compression. We discard detail in favor of gist. But the trade is worth it:
-
--   Gist is cheap to store.
-
--   Gist is easy to teach.
-
--   Gist drives action fast.
-
-A story is a compressed policy: *"People like this tend to do that; places like this tend to cause this."*
-
-### The Brain That Asks "Why?"
-
-Most animals track **what** and **when**. Some track **who**. Humans are cursed with **why**.
-
-The "why" circuitry lives in a network:
-
--   medial **prefrontal cortex** (motives, self-relevance),
-
--   **temporal--parietal junction** (other minds, theory of mind),
-
--   **posterior cingulate / default mode network** (autobiography, counterfactuals).
-
-Once this loop spins up, it doesn't stop. Every answer spawns a deeper question. Religion, philosophy, and science are just different house styles built on the same cognitive foundation: "What's the hidden pattern behind all this, and what does it demand of me?"
-
-Myth is cosmology with characters.\
-Science is myth with error bars.\
-Both are narrative engines constrained by different rules.
-
-What matters is the underlying instinct: **connect dots, even if the dots complain.**
-
-### Meaning as Infrastructure
-
-Stories weren't decoration; they were operating manuals.
-
-A group without shared narratives is a crowd, not a culture. Stories:
-
--   encode norms ("what people like us do"),
-
--   encode taboos ("what people like us never do"),
-
--   compress hard-won experience into rituals, proverbs, and laws.
-
-By the fire, the hardware was wood and embers; the real upgrade was software: groups running synchronized simulations of danger, duty, and possibility.
-
-In distributed-systems language: story is how small, unreliable, emotional nodes (people) achieve **consensus** about "how we live."
-
-### The Narrative Self
-
-Eventually the storytelling apparatus turned inward.
-
-The **default mode network**, medial prefrontal cortex, and posterior cingulate started running a special kind of simulation: *me*.
-
-"I'm the kind of person who..."\
-"I want..."\
-"I regret..."
-
-Neuroscience is blunt about this: there is no single "self area." Identity is a **network effect**---a rolling narrative the brain keeps editing to maintain continuity across changing moods, bodies, and circumstances.
-
-You are less an essence than a protagonist role the brain insists on recasting in every scene.
-
-### Story as Social Glue (and Solvent)
-
-Once you can narrate yourself, you can narrate others.
-
--   **Empathy**: running a partial simulation of someone else's story.
-
--   **Gossip**: running that simulation with a laugh track.
-
--   **Politics**: rival narratives battling for control of the shared storyboard.
-
-Under every ideology lies a simple template:
-
--   what humans *are*,
-
--   what they *owe* each other,
-
--   where history *should* go.
-
-Brains don't just sort data; they sort **meaning**. And meaning is always up for renegotiation.
-
-The same circuitry that lets you understand a grieving friend can also dehumanize an out-group. Change the story frame and the same neural hardware now justifies cruelty.
-
-### Power and Fragility of the Narrative Engine
-
-Narrative let us defeat time: we could pass lessons far beyond an individual lifespan. Culture is story made durable; civilization is story wired into institutions.
-
-But the engine is brittle:
-
--   Once a story hardens into dogma, plasticity narrows.
-
--   Once a narrative center shifts, societies wobble.
-
--   When reality stops matching the official story, something eventually breaks---either the narrative or the trust.
-
-The brain invented story to manage uncertainty. It also created new kinds of uncertainty the savannah never prepared us for: existential angst, historical guilt, ideological rage.
-
-As narratives grew more complex, they stopped behaving like simple tales and started behaving like **systems**: religions, markets, nation-states, sciences. Each is a stack of stories with rules, roles, and enforcement.
-
-And now we are building machines that can generate, remix, and optimize stories without ever needing to *believe* them. Before we get to that, the brain has one more tale to tell about itself: how story acquires a witness.
-
-## Consciousness: The Improv Show That Thinks It's a Symphony
-
-For all its evolutionary kludges, the brain hides one phenomenon that still bothers philosophers for a living:
-
-it doesn't just process information; it **feels like something** to be that processing.
-
-A star fuses.\
-A liver detoxifies.\
-A brain experiences.
-
-### Many Systems, No Conductor
-
-The intuitive picture---a unified "I" directing everything---is lovely and wrong.
-
-What we actually see:
-
--   **Parietal and frontal networks** tracking body and space.
-
--   **Sensory cortices** proposing what's out there.
-
--   **Limbic circuits** broadcasting value and urgency.
-
--   **Prefrontal cortex** trying to plan three moves ahead.
-
--   **Basal ganglia** quietly running learned routines.
-
--   Subcortical systems muttering about breathing, blood pressure, hunger.
-
-It's less a symphony and more a set of improv troupes sharing a stage:
-
--   the prefrontal troupe pitches a plan,
-
--   the amygdala shouts "too risky,"
-
--   the motor system starts doing what it practiced last week anyway.
-
-Consciousness is the **momentary settlement** among these factions: the version of events that gets broadcast widely enough through the brain's networks to guide action.
-
-Dennett calls it "multiple drafts" --- many parallel interpretations, only some of which become "the story we remember." Anil Seth calls it "controlled hallucination" --- perception as the brain's best guess, continuously corrected by sensory error signals.
-
-Freud overshot on details, but he was directionally right: a lot of serious work happens offstage.
-
-Philosophy and neuroscience have taken a few stabs at formalizing this mess:
-
--   **Global workspace theories** treat consciousness as what happens when information wins a broadcasting competition and becomes globally available to many subsystems at once.
-
--   **Predictive-processing views** (where Seth's 'controlled hallucination' lives) see conscious perception as the brain's best bets about what's out there, constantly corrected by error signals.
-
--   **Higher-order and self-model theories** claim experience arises when the system starts building models of *its own* states --- not just 'there is a tree,' but 'I am seeing a tree.'
-
--   **Integrated information theorists** try to quantify how much a system's internal cause-effect structure is unified, arguing that some degree of this integration might be what 'it feels like' from the inside.
-
-None of these fully answers the deeper question of why any of this should *feel like* anything from the inside. But they share a theme: consciousness is not a light bulb, it's a regime --- a way certain patterns of activity become globally available, self-referential, and stubbornly hard to shut up.
-
-### The Spotlight and the Workspace
-
-A pragmatic model: consciousness is **what gets access to the global workspace**.
-
-Most neural processing is local and silent. When something needs coordinated handling---threat, novel problem, long-range plan---the brain:
-
--   boosts the relevant activity,
-
--   syncs it across distant regions,
-
--   and lets multiple systems read and write to the same "blackboard."
-
-Subjectively, that feels like a "spotlight of attention":
-
--   items in the beam are vivid, reportable, voluntarily controllable (for a few seconds, if you're lucky);
-
--   everything else runs in the dark, shaping behavior without a speech bubble.
-
-You steer just enough of the ship to believe you're captaining the whole fleet.
-
-### The Buffer of Now
-
-"Now" is not an instant; it's a moving window.
-
-Temporal integration in sensory cortex, working memory in prefrontal areas, and predictive loops in cerebellum and basal ganglia all conspire to produce a **temporal buffer**---roughly a few seconds' worth of stitched-together input.
-
-You never experience raw reality. You experience:
-
--   recent past,
-
--   active predictions about the near future,
-
--   and a cleaned-up version of the present
-
-all blended into one continuous feeling. That's why music works, why speech is intelligible, and why a small delay in visual feedback can make reality feel wrong.
-
-Consciousness is less a live feed and more a slightly delayed highlight reel.
-
-### The Ego: Interface, Not Essence
-
-Riding on top of all this is the feeling of a central "I."
-
-From a systems standpoint, "I" is an **interface**:
-
--   a summary of preferences, traits, and roles,
-
--   a way to keep track of commitments over time,
-
--   a schema others can predict and negotiate with.
-
-Neurally, it's a pattern distributed across medial prefrontal, posterior cingulate, temporoparietal junction, and limbic circuits. There's no homunculus chair; just a recurring configuration.
-
-You're not the CPU or the kernel. You're the desktop theme the system uses so it doesn't scare itself.
-
-Useful myth or not, this interface has survival value: it enables long-term planning, cooperation, guilt, pride, promise-keeping---all the slow-burn traits that turned a clever primate into a force of geology.
-
-### The Dreaming Brain
-
-Sleep exposes the generative side of consciousness.
-
-Turn down sensory input, loosen the prefrontal editor, and the brain keeps doing what it does best: **modeling**. Visual cortex, limbic areas, and default-mode networks light up; motor plans are drafted and then paralyzed at the spinal cord.
-
-Dreams show:
-
--   you don't need input to generate narrative;
-
--   the system insists on plot even when characters and physics fall apart;
-
--   the "I" can shift roles and bodies and still feel like "me."
-
-Waking consciousness is dream-generation with better error correction and more reliable sensory feedback.
-
-### The Hard Problem, Tilted
-
-The canonical question is: *How does subjective experience arise from matter?* An equally unsettling version is: *Why did we ever assume matter should be non-experiential?*
-
-Philosophers like David Chalmers baptized the former as the "hard problem of consciousness": explaining why brain processes come with *qualia* --- the felt redness of red, the painness of pain --- rather than running silently in the dark. Thought experiments about "philosophical zombies" --- creatures behaviorally identical to us but with the lights off inside --- were designed to make the puzzle feel inescapable, not to describe actual neighbours.
-
-Personally, I'm less haunted by this than by the so-called "easy problem": how we got from fields and particles to neurons and this improv show in the first place. From that angle, the "hard problem" looks less like a cosmic mystery and more like what happens when a system tries to model its own modeling and gets dizzy.
-
-Neural tissue is matter with embedded memory (synaptic weights), ongoing dynamics (spikes, oscillations, attractors), and self-referential loops (circuits modeling circuits). Once you allow **recursion** and **self-modeling**, the idea that some of these states come with "what it's like" may be less mysterious than the fact that we expected them not to.
-
-Life is what happens when chemistry starts running feedback loops. Consciousness is what happens when some of those loops start modeling themselves.
-
-When you remember that perception is built from layered maps, learned loops, and evolutionary priorities, qualia start to look less like ghostly paint and more like the system's own codebook. Red feels the way it does because, for our lineage, redness clustered around fruit, blood, danger, and signal. The "mysterious feel" is what it's like from the inside when a survival-critical pattern has been carved deep into the joint between sensation and action.
-
-That doesn't solve the hard problem; it just points out that the real offense may be to our intuitions about what matter is allowed to do.
-
-### Meta-Awareness: The Brain That Can Doubt Itself
-
-One of consciousness's most important tricks isn't awareness but **meta-awareness**:
-
-"I don't know."\
-"I might be wrong."\
-"I'm biased here."
-
-Those sentences rely on prefrontal and cingulate circuits monitoring other circuits and sometimes vetoing them. In engineering terms, consciousness comes with a built-in, semi-reliable **debugger**.
-
-Optimization alone will happily drive off a cliff if the reward signal points that way. Conscious minds can at least hesitate.
-
-A machine can calculate. A mind can second-guess itself.
-
-### Consciousness Meets Its Mirror
-
-All of this matters because we are now building systems that can model the world, model us, and generate convincing narratives---without ever needing a first-person point of view.
-
-Artificial systems do not need an ego to optimize a loss function. They do not need a feeling of "I" to simulate millions of futures overnight. They are, in a sense, pure instrumental reason running on someone else's electricity.
-
-We, by contrast, come with stories, guilt, pride, blind spots, and the stubborn conviction that our inner movie is the real show.
-
-In the next chapter we'll stop asking what consciousness *is* and start asking what it *does* to responsibility: if the improv show isn't fully in charge, what exactly are we blaming or praising when we say 'I chose'?
-
-And even later still, we will ask what happens when a narrative species, running on a fragile improv-show of consciousness, plugs its fate into engineered minds that can out-predict it without sharing its illusions.
-
-Before we ask those systems to help steer our economies, politics, and planet, we should be clear on what's doing the asking.
-
-## **The Improviser-in-Chief: The Prefrontal Cortex and the Birth of Futures**
-
-If consciousness is the improv show, then the **prefrontal cortex** is the troupe member who insists on writing a script in advance --- even though everyone else onstage has already started acting.
-
-This region, tucked behind the forehead like an ambitious intern, is evolution's boldest gamble: a structure dedicated not to sensing the present or recalling the past, but to **running rehearsals of futures that don't yet exist.**
-
-It is biology's first attempt at foresight, at scenario-planning, at imagining "what if?" in enough detail that the body can prepare before reality arrives.
-
-Most animals respond to threats as they occur. Humans worry about ones that haven't happened yet. This is either genius or pathology, depending on the day.
-
-### **Futures as a Cognitive Technology**
-
-When the prefrontal cortex expanded in early hominins, something radical happened: the brain acquired the ability to **delay impulses**, **simulate actions**, **predict consequences**, and **choose among counterfactuals.**
-
-Suddenly, survival was no longer about faster reflexes or sharper claws. It was about **mental time travel**.
-
-Should we hunt now or tomorrow? Settle here or migrate? Trust this stranger? What happens if the fire goes out? What if the thunder spirit is angry? (And much later: *Should we put an O-ring made of synthetic rubber between two metal joints in freezing weather?*)
-
-The brain had invented a new technology: **the future**, modeled internally before being risked externally. This is the true Promethean spark --- not fire, not tools, not language, but *simulation.*
-
-### **The Brain as a Forecast Engine**
-
-The prefrontal cortex is not a rational oracle. Far from it. It is a messy, anxious, overworked weather station glued on top of an emotional volcano. But its superpower is that it can integrate memory, perception, social cues, learned rules, abstract principles, past mistakes, imagined outcomes...and produce something astonishing: **a prediction that changes behavior before reality forces the issue.**
-
-This is why human beings build shelters before storms arrive, lie to avoid future embarrassment, save for retirement, launch satellites, and write books about possible futures. It is also why we worry, catastrophize, procrastinate, and invent entire recreational industries around escaping our own thoughts.
-
-The prefrontal cortex is a marvel --- and a menace --- because it cannot stop forecasting.
-
-### **The Architect of Our Tools**
-
-This foresight module had a side effect evolution likely never intended: It made the brain a **toolmaker of unprecedented ambition.**
-
-With time-travel on its side, the mind could imagine better spears; anticipate animal migrations; refine axes, shelters and rituals; plan agricultural cycles; invent mathematics; design bridges, rockets, and logic circuits; forecast failure modes and engineer around them; or, sometimes, fail to forecast them and learn painfully afterward
-
-Every tool in human history is a fossil of prefrontal cortex activity. Every disaster, too.
-
-This region gave us not only tools but **systems**: law, economics, medicine, algorithms. It gave us dreams and nightmares in equal measure. It let us step outside the moment --- and then build entire civilizations from that vantage point.
-
-### **The Price of the Upgrade**
-
-But foresight comes with cognitive overhead. No other organ in the body burns so much metabolic fuel for the privilege of imagining disaster.
-
-The prefrontal cortex is the reason humans lose sleep over events that never happen, write novels instead of gathering fruit, rehearse conversations with people not present, regret choices made decades ago, fear choices not yet made, and slowly drift toward the suspicion that life has a plot
-
-This upgrade made the mind powerful, but also uneasy. Being able to imagine the future means being unable to escape it. The unknown became not only a threat but a constant companion.
-
-### **A Preview of Libet**
-
-The prefrontal cortex likes to believe it is in charge. It narrates itself as the executive of the skull, the CEO of choice, the captain of volition.
-
-But just below it --- in the basal ganglia, in motor cortices, in subconscious networks --- countless micro-decisions are made before "we" know we're making them. The prefrontal cortex often signs paperwork for actions already underway.
-
-We'll return to this paradox in Chapter 4, when Libet walks onstage with a simple plot twist: "The brain decides before the mind does." For now, it is enough to note that foresight is layered, distributed, and rarely as unified as it feels.
-
-### **Toward the Maker's Horizon**
-
-The prefrontal cortex made humans into beings who not only react to reality but **pre-construct** it. It is the birthplace of engineering, planning, risk assessment, moral deliberation, storytelling about the future, and the urge to build machines in our own cognitive image
-
-It is the neural ancestor of every spreadsheet, spacecraft, constitution, and computing cluster we have ever made. And it is the quiet herald of the coming upheaval --- when our greatest tool, artificial intelligence, begins to model futures faster than we can contemplate them, and our evolutionary forecast engine meets a rival that never tires, never panics, never procrastinates.
-
-But before we hand the keys of foresight to silicon, the brain has one more gift to offer: **the power to learn across a lifetime.**
-
-That brings us to the next section --- how a brain becomes a mind not by being born brilliant but by being exquisitely teachable.
-
-## **The Edge of Mastery: When Ingenuity Outruns Intuition**
-
-For most of human history, our tools behaved like obedient extensions of the body. A spear flies where you throw it. A pot cracks when you drop it. A plow resists the soil exactly as much as your hands expect. The physics is visceral; the consequences are legible.
-
-But as our technologies matured, their behavior stopped mapping cleanly onto ancestral intuition. A microchip does not "feel" like sand performing logic. A turbine blade spinning at 10,000 RPM does not "feel" like a glorified fan. A spacecraft in low Earth orbit does not "feel" like anything evolution ever prepared us for.
-
-We crossed a threshold: **Our tools became smarter than our instincts.**
-
-### **When Complexity Becomes Opaque**
-
-Modern engineering systems --- rockets, power grids, flight computers, launch windows, weather models, supply chains --- don't fail like simple objects; they fail like ecosystems. One tiny misalignment can ripple across layers of abstraction:
-
--   A sensor misreads.
-
--   A schedule tightens.
-
--   A temperature drops five degrees.
-
--   A seal hardens.
-
-None of these individually feel catastrophic. Together, they may form the preface to disaster.
-
-Humans are excellent at understanding causes they can hold, twist, taste, or lift. We are less adept at debugging a failure that emerges only when hundreds of subsystems interact at speed. This mismatch --- between **our brain's evolutionary intuitions** and **our creations' emergent behaviors** --- is the hidden tension of every advanced technology.
-
-### **Mastery's Blind Spot**
-
-The more we master nature, the more we forget that mastery has a shadow. We become fluent in success and illiterate in fragility.
-
-A rocket launch is a symphony of precision, but it is also a confession: **we control less than we pretend.**
-
-Engineers know this. Pilots learn it. Scientists respect it. But human institutions --- political, corporate, cultural --- sometimes forget it.
-
-When ambition accelerates faster than caution, the margin between triumph and tragedy narrows to a breath.
-
-## **The Brain's Greatest Paradox**
-
-Here lies the paradox at the heart of human brilliance:
-
--   The brain makes tools to extend its reach.
-
--   Those tools create worlds the brain cannot fully intuit.
-
--   And yet the brain must steward the very systems it no longer entirely comprehends.
-
-We are Prometheus holding fire --- proud of what burns in our hands, uneasy about what burns beyond them.
-
-### **Leaving the Old World with a Brain Still Under Construction**
-
-I left the Old World the way most young minds leave their origins: with more momentum than clarity. The early years --- that foggy continent of childhood, misfiled ambitions, and adults making decisions on your behalf --- had followed me right up to the airport gate. Then, in a single flight number, the trajectory bent.
-
-My mother had crossed this same ocean nineteen years earlier, through the tattered skirts of Hurricane Faith. She landed in America soaked in aviation turbulence and theology irony --- a storm named Faith delivering her into the New World while leaving me behind with grandparents -- parameter-efficient fine-tuning to a new mother. For mom, it was an escape into possibility. For me, it was a prologue I wouldn't understand until much later.
+My mother had crossed this same ocean nineteen years earlier, through the tattered skirts of Hurricane Faith.[^v1-c3-faith] She landed in America soaked in aviation turbulence and theological irony: a storm named Faith delivering her into the New World while leaving me behind with my grandparents, a parameter-efficient fine-tuning to a new mother. For her, it was an escape into possibility. For me, it was a prologue I wouldn't understand until much later.
 
 Now it was my turn.
 
-I boarded a night flight to JFK --- a stormy one, because evidently our family's emigrations come bundled with weather metaphors --- and from New York, a morning hop to Milwaukee. The sky outside Lake Michigan was a gray so Midwestern it felt Protestant. As luck would have it, I found myself in a beer can in Brew City.
+I boarded a night flight to JFK (a stormy one, because evidently our family's emigrations come bundled with weather metaphors), and from New York a morning hop to Milwaukee. The sky over Lake Michigan was a gray so Midwestern it felt Protestant. As luck would have it, I found myself in a beer can in Brew City.
 
-I had chosen engineering as a compromise between all the futures I couldn't yet afford to pursue: neuroscience, molecular biology, artificial intelligence, physics. Engineering felt like Switzerland --- neutral ground until I figured out who I wanted to be.
+I had chosen engineering as a compromise among all the futures I couldn't yet afford to pursue: neuroscience, molecular biology, artificial intelligence, physics. Engineering felt like Switzerland, neutral ground until I figured out who I wanted to be.
 
-Beer or no beer, in Milwaukee, something subtle shifted. For the first time, **my psychology** was in the driver's seat. Not duty. Not culture. Not religion. Not inherited expectations. Just me --- my mind, wanting to become a person. I moved from brain to psychology.
+Beer or no beer, in Milwaukee something subtle shifted. For the first time, my psychology was in the driver's seat. Not duty, not culture, not religion, not inherited expectations: just a mind, wanting to become a person. I moved from brain to psychology.
 
 Only one thing remained: the same sky had to test its new passenger.
 
-### **Challenger and the Day the Sky Broke Its Promise**
+## The Upheaval: The Day the Sky Broke Its Promise
 
-I had just returned from class, trudged up through the dorm's lobby, and stepped into the common lounge. The TV was on. Nobody was changing the channel.
+I had just come back from class, trudged up through the dorm's lobby and stepped into the common lounge. The TV was on. Nobody was changing the channel.
 
-The plume was already replaying --- that catastrophic white bifurcation, looping endlessly in the room's blue glow. Challenger had broken apart 73 seconds after launch.
+The plume was already replaying, that catastrophic white bifurcation looping endlessly in the room's blue glow. Challenger had broken apart seventy-three seconds after launch, and seven people were gone.
 
-For a child whose earliest ambitions were narrated in lines like "You'll grow up and build rockets," and whose brain was wiring itself in step with the rise of the space shuttle---the tool humanity was aiming at the same skies that had tossed our own flights around---this wasn't just news. It was a rupture in the contract between wonder and the world.
+"Her whole class was watching the launch," my roommate said, worried. He didn't need to say who. Christa McAuliffe, the schoolteacher chosen to be the first teacher in space, had been meant to teach lessons from orbit, and her students were among the millions of schoolchildren watching live.[^v1-c3-mcauliffe]
 
-I didn't yet have the vocabulary --- for organizational drift, normalized deviance, design margins, cold-weather brittleness, or mismanaged risk. I didn't understand how bureaucracies can muffle warnings or how optimism can harden into blindness.
+For a child whose earliest ambitions were narrated in lines like "you'll grow up and build rockets," and whose brain had been wiring itself alongside the rise of the space shuttle, the tool humanity was aiming at the same skies that had tossed our own flights around, this wasn't just news. It was a rupture in the contract between wonder and the world.
 
-But I recognized something deeper: **the mind's greatest creation had collided with the limits of the mind that built it.**
+I didn't yet have the vocabulary for any of it: organizational drift, design margins, cold-weather brittleness, what the sociologist Diane Vaughan would later call the normalization of deviance.[^v1-c3-vaughan] I didn't know yet that on the night before the launch, engineers at the company that built the boosters had warned, in a long teleconference, that the cold could stiffen the rubber O-rings sealing the joints, and that their own managers had overruled them.[^v1-c3-rogers] The forecast engine had worked. The forecast had been made, and said aloud. The meeting decided otherwise.
 
-Engineering classes would later dissect the O-ring failure with charts and diagrams, sealing the tragedy into a tidy cautionary tale. But on that night, it wasn't tidy. It was the first time science, ambition, and mortality were braided into a single thought: *brilliance is not immunity, dreams can fail catastrophically, and* t*he very tools the brain builds can exceed its grasp.*
+But I recognized something deeper: the mind's greatest creation had collided with the limits of the minds that built it.
 
-And strangely, that recognition didn't diminish my sense of possibility. It reframed it. It told me that the next frontier wasn't rockets. It was understanding the mind that built them.
+Engineering classes would later dissect the O-ring failure with charts and diagrams, sealing the tragedy into a tidy cautionary tale. That day, it wasn't tidy. It was the first time science, ambition and mortality braided into a single thought: brilliance is not immunity, dreams can fail catastrophically, and the very tools the brain builds can exceed its grasp.
 
-### **Into Psychology's Labyrinth**
+Strangely, that recognition didn't diminish my sense of possibility. It reframed it. The next frontier, it told me, wasn't rockets. It was understanding the minds that built them.
 
-The Challenger plume eventually stopped looping on the TV, but not in my thinking. If Chapter 3 was the story of a brain learning what it could do, Chapter 4 needed to confront what the mind struggles to see in itself.
+## Into Psychology's Labyrinth
 
-Milwaukee had given me independence. Psychology would reveal the cost of it.
+The plume eventually stopped looping on the TV, but not in my head. Milwaukee had given me independence; psychology would reveal its cost.
 
-But before the brain reappears as psychology---behavior, stories, motives---it catches sight of itself in a silicon mirror. In that mirror, computer architecture, we stare so long that, like Narcissus, we forget where the reflection ends and we begin.
+But before the brain reappears as a person, with behavior, motives and stories, it catches sight of itself in a silicon mirror. In that mirror, computer architecture, we stare so long that, like Narcissus, we forget where the reflection ends and we begin.
+
+<!-- Source notes aligned and evidence limits recorded in the Chapter 3 adoption dossier, 23 October 2026. -->
+
+[^v1-c3-sacks]: Gerald M. Edelman, quoted in Oliver Sacks, *Musicophilia: Tales of Music and the Brain* (Knopf, 2007), chapter 11, “In Living Stereo: Why We Have Two Ears,” p. 148. Sacks explicitly attributes both halves of the sentence to Edelman. [Text of the cited edition](https://bpb-us-w2.wpmucdn.com/portfolio.newschool.edu/dist/2/14941/files/2017/06/musicophilia-26piysz.pdf).
+
+[^v1-c3-hubel]: David H. Hubel and Torsten N. Wiesel, “Receptive fields of single neurones in the cat’s striate cortex,” *Journal of Physiology* 148 (1959): 574–591, [doi:10.1113/jphysiol.1959.sp006308](https://doi.org/10.1113/jphysiol.1959.sp006308); Wiesel and Hubel, “Single-cell responses in striate cortex of kittens deprived of vision in one eye,” *Journal of Neurophysiology* 26 (1963): 1003–1017, [doi:10.1152/jn.1963.26.6.1003](https://doi.org/10.1152/jn.1963.26.6.1003); Hubel and Wiesel, “Binocular interaction in striate cortex of kittens reared with artificial squint,” *Journal of Neurophysiology* 28 (1965): 1041–1059, [doi:10.1152/jn.1965.28.6.1041](https://doi.org/10.1152/jn.1965.28.6.1041). The year-of-birth conjunction is with the third paper, published in November 1965; orientation selectivity and monocular deprivation were earlier results.
+
+[^v1-c3-kuffler]: Stephen W. Kuffler, “Discharge patterns and functional organization of mammalian retina,” *Journal of Neurophysiology* 16 (1953): 37–68, [doi:10.1152/jn.1953.16.1.37](https://doi.org/10.1152/jn.1953.16.1.37). Center-surround receptive fields describe spatial antagonism, not a claim that every retinal cell transmits only differences.
+
+[^v1-c3-signaling]: Alan L. Hodgkin and Andrew F. Huxley, “A quantitative description of membrane current and its application to conduction and excitation in nerve,” *Journal of Physiology* 117 (1952): 500–544, [doi:10.1113/jphysiol.1952.sp004764](https://doi.org/10.1113/jphysiol.1952.sp004764); Michael London and Michael Häusser, “Dendritic computation,” *Annual Review of Neuroscience* 28 (2005): 503–532, [doi:10.1146/annurev.neuro.28.061604.135703](https://doi.org/10.1146/annurev.neuro.28.061604.135703); Thomas C. Südhof, [“A Molecular Machine for Neurotransmitter Release,” Nobel Lecture](https://www.nobelprize.org/uploads/2018/06/sudhof-lecture.pdf), 7 December 2013. The schematic depicts a common cortical arrangement and a glutamatergic chemical synapse, not all neuronal or synaptic types.
+
+[^v1-c3-hebb]: Donald O. Hebb, *The Organization of Behavior: A Neuropsychological Theory* (Wiley, 1949), p. 62. His postulate concerns a cell repeatedly participating in another cell’s firing. “Cells that fire together wire together” is a later shorthand, not a quotation from Hebb.
+
+[^v1-c3-nmda]: L. Nowak et al., “Magnesium gates glutamate-activated channels in mouse central neurones,” *Nature* 307 (1984): 462–465, [doi:10.1038/307462a0](https://doi.org/10.1038/307462a0); M. L. Mayer, G. L. Westbrook and P. B. Guthrie, “Voltage-dependent block by Mg2+ of NMDA responses in spinal cord neurones,” *Nature* 309 (1984): 261–263, [doi:10.1038/309261a0](https://doi.org/10.1038/309261a0). For the different mechanisms and conditions of strengthening and weakening, Robert C. Malenka and Mark F. Bear, “LTP and LTD: an embarrassment of riches,” *Neuron* 44 (2004): 5–21, [doi:10.1016/j.neuron.2004.09.012](https://doi.org/10.1016/j.neuron.2004.09.012). NMDA-dependent plasticity is one important family, not the mechanism of every memory.
+
+[^v1-c3-ann]: Blake A. Richards et al., “A deep learning framework for neuroscience,” *Nature Neuroscience* 22 (2019): 1761–1770, [doi:10.1038/s41593-019-0520-2](https://doi.org/10.1038/s41593-019-0520-2). The comparison distinguishes learning objectives, architectures and learning rules; it does not establish that the brain implements ordinary artificial-network backpropagation. See also London and Häusser on dendritic computation.
+
+[^v1-c3-pruning]: Peter R. Huttenlocher, “Synaptic density in human frontal cortex: developmental changes and effects of aging,” *Brain Research* 163 (1979): 195–205, [doi:10.1016/0006-8993(79)90349-4](https://doi.org/10.1016/0006-8993(79)90349-4). This study concerns a sampled frontal cortical layer across ages; developmental schedules vary by region. Pruning is not simply the removal of every unused connection.
+
+[^v1-c3-count]: Frederico A. C. Azevedo et al., “Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain,” *Journal of Comparative Neurology* 513 (2009): 532–541, [doi:10.1002/cne.21974](https://doi.org/10.1002/cne.21974). The reported estimate is approximately 86 billion neurons. The synapse count is an order-of-magnitude estimate, not a direct census from this study.
+
+[^v1-c3-volume]: Holly M. Dunsworth et al., “Metabolic hypothesis for human altriciality,” *PNAS* 109 (2012): 15212–15216, [doi:10.1073/pnas.1205282109](https://doi.org/10.1073/pnas.1205282109). This challenges a pelvic-constraint-only account of birth timing. For the broad fossil trajectory rather than a uniform increase in every lineage, see the [Smithsonian Human Origins brain account](https://humanorigins.si.edu/human-characteristics/brains).
+
+[^v1-c3-mountcastle]: Vernon B. Mountcastle, “Modality and topographic properties of single neurons of cat’s somatic sensory cortex,” *Journal of Neurophysiology* 20 (1957): 408–434, [doi:10.1152/jn.1957.20.4.408](https://doi.org/10.1152/jn.1957.20.4.408); his later common-operation proposal appears in “An organizing principle for cerebral function,” in *The Mindful Brain* (MIT Press, 1978). For a concrete contrast in cortical organization, Kenichi Ohki et al., “Functional imaging with cellular resolution reveals precise micro-architecture in visual cortex,” *Nature* 433 (2005): 597–603, [doi:10.1038/nature03274](https://doi.org/10.1038/nature03274). Ordered orientation maps in cat cortex differ from the intermingled preferences observed in rat cortex.
+
+[^v1-c3-notch2nl]: Ian T. Fiddes et al., “Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis,” *Cell* 173 (2018): 1356–1369.e22, [doi:10.1016/j.cell.2018.03.051](https://doi.org/10.1016/j.cell.2018.03.051). Experimental effects on progenitor behavior support a proposed evolutionary contribution, not a complete explanation of human brain expansion.
+
+[^v1-c3-wrangham]: Richard Wrangham, *Catching Fire: How Cooking Made Us Human* (Basic Books, 2009); Leslie C. Aiello and Peter Wheeler, “The Expensive-Tissue Hypothesis: The Brain and the Digestive System in Human and Primate Evolution,” *Current Anthropology* 36 (1995): 199–221, [doi:10.1086/204350](https://doi.org/10.1086/204350). These are related energetic hypotheses, not identical claims or settled dates for the origin of cooking.
+
+[^v1-c3-twoorgans]: Rayyan T. Jokhai, Carolyn E. Dundes et al., “Two parallel neural ectoderm progenitors contribute to the developing brain,” *Nature Neuroscience*, published online 18 September 2026, [doi:10.1038/s41593-026-02433-7](https://doi.org/10.1038/s41593-026-02433-7). The findings concern distinct developmental progenitors; the composite-organ evolutionary interpretation is the authors’ proposal. “Hindbrain” and “brainstem” are not interchangeable anatomical categories.
+
+[^v1-c3-networks]: Luiz Pessoa, “A Network Model of the Emotional Brain,” *Trends in Cognitive Sciences* 21 (2017): 357–371, [PubMed 28363681](https://pubmed.ncbi.nlm.nih.gov/28363681/); Michael M. Halassa and Sabine Kastner, “Thalamic functions in distributed cognitive control,” *Nature Neuroscience* 20 (2017): 1669–1679, [doi:10.1038/s41593-017-0020-1](https://doi.org/10.1038/s41593-017-0020-1); Randy L. Buckner et al., “The organization of the human cerebellum estimated by intrinsic functional connectivity,” *Journal of Neurophysiology* 106 (2011): 2322–2345, [PubMed 21795627](https://pubmed.ncbi.nlm.nih.gov/21795627/). The final study maps functional coupling; correlated activity alone is not a causal map of every circuit.
+
+[^v1-c3-chalmers]: David J. Chalmers, [“Facing Up to the Problem of Consciousness”](https://consc.net/papers/facing.html), *Journal of Consciousness Studies* 2(3) (1995): 200–219. “Easy” designates functional explanation in principle, not a claim that the scientific work is easy.
+
+[^v1-c3-dennett]: Daniel C. Dennett, “Facing up to the hard question of consciousness,” *Philosophical Transactions of the Royal Society B* 373 (2018): 20170342, [doi:10.1098/rstb.2017.0342](https://doi.org/10.1098/rstb.2017.0342). Dennett’s resistance to the hard-problem framing is not an endorsement of the author’s specific coupling conjecture.
+
+[^v1-c3-meta]: David J. Chalmers, [“The Meta-Problem of Consciousness”](https://consc.net/papers/metaproblem.pdf), *Journal of Consciousness Studies* 25(9–10) (2018): 6–61; Keith Frankish, [“Illusionism as a Theory of Consciousness”](https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf), *Journal of Consciousness Studies* 23(11–12) (2016): 11–39. Chalmers distinguishes explaining judgments about consciousness from explaining consciousness itself.
+
+[^v1-c3-cerebellum]: Azevedo et al. (2009), cited above, places most brain neurons in the cerebellum. Feng Yu et al., “A new case of complete primary cerebellar agenesis: clinical and imaging findings in a living patient,” *Brain* 138 (2015): e353, first published online in 2014, [doi:10.1093/brain/awu239](https://doi.org/10.1093/brain/awu239), reports preserved conscious life with developmental and neurological impairments. This does not establish that an adult could lose the cerebellum without consequence. For cerebellar-cortical coupling, see Buckner et al. (2011), cited above.
+
+[^v1-c3-dehaene]: Stanislas Dehaene and Jean-Pierre Changeux, “Experimental and theoretical approaches to conscious processing,” *Neuron* 70 (2011): 200–227, [doi:10.1016/j.neuron.2011.03.018](https://doi.org/10.1016/j.neuron.2011.03.018). Global neuronal workspace and ignition are a theoretical account linked to experimental findings; neither the account nor a particular latency is a settled definition of experience.
+
+[^v1-c3-kin]: These are intellectual relatives, not evidence that the author’s conjecture is already established: Stephen Grossberg, *Conscious Mind, Resonant Brain* (Oxford University Press, 2021); Gerald M. Edelman and Giulio Tononi, *A Universe of Consciousness* (Basic Books, 2000); Douglas R. Hofstadter, *I Am a Strange Loop* (Basic Books, 2007); Antonio Damasio, *Self Comes to Mind* (Pantheon, 2010); Anil Seth, *Being You* (Faber & Faber, 2021). The two-ingredient framing and feeling-as-ripple formulation are the author’s. Grossberg does not identify every neural resonance with consciousness.
+
+[^v1-c3-dreams]: Eugene Aserinsky and Nathaniel Kleitman, “Regularly occurring periods of eye motility, and concomitant phenomena, during sleep,” *Science* 118 (1953): 273–274, [doi:10.1126/science.118.3062.273](https://doi.org/10.1126/science.118.3062.273); Allen R. Braun et al., “Regional cerebral blood flow throughout the sleep-wake cycle. An H2(15)O PET study,” *Brain* 120 (1997): 1173–1197, [doi:10.1093/brain/120.7.1173](https://doi.org/10.1093/brain/120.7.1173). REM is not synonymous with all dreaming, and sleep does not abolish sensory or bodily input.
+
+[^v1-c3-hoel]: J. Allan Hobson, “REM sleep and dreaming: towards a theory of protoconsciousness,” *Nature Reviews Neuroscience* 10 (2009): 803–813, [doi:10.1038/nrn2716](https://doi.org/10.1038/nrn2716); Erik Hoel, “The overfitted brain: Dreams evolved to assist generalization,” *Patterns* 2(5) (2021): 100244, [doi:10.1016/j.patter.2021.100244](https://doi.org/10.1016/j.patter.2021.100244). Both are explanatory proposals; the anti-overfitting function is not an established result about why dreams evolved.
+
+[^v1-c3-cnn]: Matthew D. Zeiler and Rob Fergus, “Visualizing and Understanding Convolutional Networks,” *ECCV* (2014), [author preprint](https://arxiv.org/abs/1311.2901); Alexander Mordvintsev, Christopher Olah and Mike Tyka, [“Inceptionism: Going Deeper into Neural Networks”](https://research.google/blog/inceptionism-going-deeper-into-neural-networks/), Google Research, 18 June 2015. DeepDream uses gradients to alter the input so selected learned features become stronger; it does not simply reverse a biological-style perceptual process.
+
+[^v1-c3-eagleman]: David Eagleman, *Livewired: The Inside Story of the Ever-Changing Brain* (Pantheon, 2020); [author’s account](https://eagleman.com/books/livewired/). Plasticity varies with age, circuit, experience and injury; continuing capacity does not mean unlimited rewiring.
+
+[^v1-c3-darwinism]: Gerald M. Edelman, *Neural Darwinism: The Theory of Neuronal Group Selection* (Basic Books, 1987); “Neural Darwinism: selection and reentrant signaling in higher brain function,” *Neuron* 10 (1993): 115–125, [PubMed 8094962](https://pubmed.ncbi.nlm.nih.gov/8094962/). This is a selectionist theory of neural organization, not literal organismal evolution occurring inside each brain.
+
+[^v1-c3-reward]: Wolfram Schultz, Peter Dayan and P. Read Montague, “A Neural Substrate of Prediction and Reward,” *Science* 275 (1997): 1593–1599, [author-hosted paper](https://www.gatsby.ucl.ac.uk/~dayan/papers/sdm97.html), [doi:10.1126/science.275.5306.1593](https://doi.org/10.1126/science.275.5306.1593). The response pattern supports reward-prediction-error accounts for the studied dopamine neurons; it is not a description of all dopamine activity or all learning. For a cellular reinforcement-learning experiment, J. N. Reynolds, B. I. Hyland and J. R. Wickens, “A cellular mechanism of reward-related learning,” *Nature* 413 (2001): 67–70, [doi:10.1038/35092560](https://doi.org/10.1038/35092560).
+
+[^v1-c3-memory]: Mark D’Esposito and Bradley R. Postle, “The Cognitive Neuroscience of Working Memory,” *Annual Review of Psychology* 66 (2015): 115–142, [doi:10.1146/annurev-psych-010814-015031](https://doi.org/10.1146/annurev-psych-010814-015031); Larry R. Squire and Adam J. O. Dede, “Conscious and Unconscious Memory Systems,” *Cold Spring Harbor Perspectives in Biology* 7 (2015): a021667, [doi:10.1101/cshperspect.a021667](https://doi.org/10.1101/cshperspect.a021667); Neal J. Cohen and Larry R. Squire, “Preserved learning and retention of pattern-analyzing skill in amnesia: dissociation of knowing how and knowing that,” *Science* 210 (1980): 207–210, [doi:10.1126/science.7414331](https://doi.org/10.1126/science.7414331). Different forms of memory can dissociate without being perfectly isolated modules.
+
+[^v1-c3-schemas]: Dorothy Tse et al., “Schemas and memory consolidation,” *Science* 316 (2007): 76–82, [doi:10.1126/science.1135935](https://doi.org/10.1126/science.1135935). Rats learned flavor-place associations within an established framework; the experiment is not a direct test of literary narrative. The compression comparison is the author’s explanatory extension. For reconstructive remembering and future simulation, Daniel L. Schacter and Donna Rose Addis, “The cognitive neuroscience of constructive memory: remembering the past and imagining the future,” *Philosophical Transactions of the Royal Society B* 362 (2007): 773–786, [doi:10.1098/rstb.2007.2087](https://doi.org/10.1098/rstb.2007.2087).
+
+[^v1-c3-predictive]: Rajesh P. N. Rao and Dana H. Ballard, “Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects,” *Nature Neuroscience* 2 (1999): 79–87, [doi:10.1038/4580](https://doi.org/10.1038/4580). This is an influential computational account, not proof that every brain operation minimizes the same prediction error.
+
+[^v1-c3-seth]: Anil Seth, *Being You: A New Science of Consciousness* (Faber & Faber, 2021). “Controlled hallucination” is used here as his explanatory phrase, not a claim that he originated every earlier use of it or that ordinary perception lacks an external cause.
+
+[^v1-c3-damasio]: Antonio R. Damasio, *Descartes’ Error* (Putnam, 1994), on the somatic-marker hypothesis; Antonio Damasio and Gil B. Carvalho, “The nature of feelings: evolutionary and neurobiological origins,” *Nature Reviews Neuroscience* 14 (2013): 143–152, [doi:10.1038/nrn3403](https://doi.org/10.1038/nrn3403); A. D. Craig, “How do you feel? Interoception: the sense of the physiological condition of the body,” *Nature Reviews Neuroscience* 3 (2002): 655–666, [doi:10.1038/nrn894](https://doi.org/10.1038/nrn894). These connect bodily regulation and feeling without making every emotion merely an automatic reflex.
+
+[^v1-c3-barrett]: Lisa Feldman Barrett, “The theory of constructed emotion: an active inference account of interoception and categorization,” *Social Cognitive and Affective Neuroscience* 12 (2017): 1–23, [doi:10.1093/scan/nsw154](https://doi.org/10.1093/scan/nsw154); Seth, *Being You* (2021). Constructed and predictive accounts are influential theories, not an uncontested definition of emotion.
+
+[^v1-c3-tools]: Sonia Harmand et al., “3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya,” *Nature* 521 (2015): 310–315, [doi:10.1038/nature14464](https://doi.org/10.1038/nature14464). The artifacts do not establish exactly what their makers consciously imagined.
+
+[^v1-c3-stout]: Dietrich Stout and Thierry Chaminade, “Stone tools, language and the brain in human evolution,” *Philosophical Transactions of the Royal Society B* 367 (2012): 75–87, [doi:10.1098/rstb.2011.0099](https://doi.org/10.1098/rstb.2011.0099). Modern experimental archaeology and imaging inform hypotheses about extinct toolmakers; they cannot directly record those makers’ mental states.
+
+[^v1-c3-gesture]: Susan Goldin-Meadow, Howard Nusbaum, Spencer D. Kelly and Susan Wagner, “Explaining math: gesturing lightens the load,” *Psychological Science* 12 (2001): 516–522, [doi:10.1111/1467-9280.00395](https://doi.org/10.1111/1467-9280.00395). Participants explained mathematics while retaining a separate memory load. This supports a cognitive role for gesture; it does not date gesture’s evolutionary priority over language.
+
+[^v1-c3-drafts]: Daniel C. Dennett, *Consciousness Explained* (Little, Brown, 1991), especially chapter 5, “Multiple Drafts versus the Cartesian Theater.” The model should not be conflated with a single final cortical broadcast or an anatomically localized inner observer.
+
+[^v1-c3-theories]: Bernard J. Baars, *A Cognitive Theory of Consciousness* (Cambridge University Press, 1988); Dehaene and Changeux (2011), cited above; David M. Rosenthal, *Consciousness and Mind* (Oxford University Press, 2005); Thomas Metzinger, *Being No One* (MIT Press, 2003); Giulio Tononi, “Consciousness as Integrated Information: a Provisional Manifesto,” *Biological Bulletin* 215 (2008): 216–242, [doi:10.2307/25470707](https://doi.org/10.2307/25470707). These accounts differ in their proposed criteria. IIT’s symbol Φ is unrelated to this book’s opening chapter.
+
+[^v1-c3-consciousness-test]: COGITATE Consortium et al., “Adversarial testing of global neuronal workspace and integrated information theories of consciousness,” *Nature* 642 (2025): 133–142, [doi:10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1). The preregistered comparison challenged selected predictions of both theories; it neither settled consciousness nor established that every version of either theory is false.
+
+[^v1-c3-james]: William James, *The Principles of Psychology*, vol. 1 (Henry Holt, 1890), [chapter XV, “The Perception of Time”](https://psychclassics.yorku.ca/James/Principles/prin15.htm). James credits E. R. Clay with “specious present.” The discussion does not establish one fixed integration window for every perceptual task.
+
+[^v1-c3-foresight]: C. R. Raby, D. M. Alexis, Anthony Dickinson and Nicola S. Clayton, “Planning for the future by western scrub-jays,” *Nature* 445 (2007): 919–921, [doi:10.1038/nature05575](https://doi.org/10.1038/nature05575). The birds anticipated future feeding conditions; this does not establish that they experience an imagined future as humans do. For shared human memory/simulation networks, see Schacter and Addis (2007), cited above.
+
+[^v1-c3-faith]: National Hurricane Center, [“The Hurricane Season of 1966,” *Monthly Weather Review*](https://www.nhc.noaa.gov/data/mwreview/1966.pdf); NOAA Atlantic Oceanographic and Meteorological Laboratory, [“50th anniversary of Hurricane Faith”](https://www.aoml.noaa.gov/hurricane_blog/50th-anniversary-of-hurricane-faith/). These establish the August–September 1966 storm, not the details of the family flight. The crossing and its weather are the author’s family account.
+
+[^v1-c3-mcauliffe]: NASA, [“35 Years Ago: Remembering Challenger and Her Crew”](https://www.nasa.gov/history/35-years-ago-remembering-challenger-and-her-crew/), 28 January 2021. Christa McAuliffe was selected for the Teacher in Space Project and planned lessons from orbit. The dorm scene and roommate’s words are the author’s recollection.
+
+[^v1-c3-vaughan]: Diane Vaughan, *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA* (University of Chicago Press, 1996), on the normalization of deviance in organizational decision-making. [Publisher’s later enlarged edition and description](https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html).
+
+[^v1-c3-rogers]: *Report of the Presidential Commission on the Space Shuttle Challenger Accident* (1986), vol. 1, [chapter 5, “The Contributing Cause of the Accident”](https://www.nasa.gov/history/rogersrep/v1ch5.htm), particularly the 27 January teleconference and Morton Thiokol management’s reversal of its initial no-launch recommendation. The launch and breakup occurred on 28 January 1986, after the author’s 1985 move; that sequence is intentional in this chapter’s upheaval.

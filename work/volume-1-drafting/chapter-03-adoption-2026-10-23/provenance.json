@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-23",
+  "stage": 2,
+  "baseline_commit": "d98da85c4cffcf1c99c46b4a2d16039fa50075ff",
+  "inputs": {
+    "canonical": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
+      "sha256": "d7e68c210cf92b1acf55db26ed6f1d36ae1c8323c34a23503254f88a1930e0b0"
+    },
+    "incoming": {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-3.md",
+      "sha256": "0ff02ec2376ada9243cc5798b2005fbe8bc8bb3d9066a538ef0367615b447d45"
+    },
+    "manifest": {
+      "path": "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json",
+      "sha256": "ad8cd61617ccd736be496af806ea55c3e760622bf05ecb6d2a0db5ce511bed58"
+    },
+    "book_journal": {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/book.md",
+      "sha256": "ba9eb30f18b1416dbc9327b1dc1972188acdb7218e72c0241825a3e1fac84968"
+    },
+    "unit_journal": {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/volume-1.md",
+      "sha256": "e4791f93dd015f45d7e52e4c11c823a4e7862e66b2928120097317fc18f650ab"
+    },
+    "context": {
+      "path": "/Users/samseatt/projects/book-poma/work/EDITORIAL_CONTEXT.md",
+      "sha256": "4288e2a5d0cfa9483fde9c760ba1d57226af717a11d8d5708891ab00468abd82"
+    },
+    "unrelated_interlude": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md",
+      "sha256": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e"
+    },
+    "unrelated_ignore": {
+      "path": "/Users/samseatt/projects/book-poma/.gitignore",
+      "sha256": "4a46222675abc2b1ae26fcdf1577468af17ab3e92ee37ae24d16af3f1216e9ed"
+    }
+  },
+  "incoming_role": "Author-approved substantive master; original holding-pen file remains untouched.",
+  "chronology": {
+    "birth_boundary": "Around 27 January 1965; poetic move from biology to brain, not first neural activity.",
+    "next_move": "Around 1 September 1985, JFK/Milwaukee; internal editorial timing.",
+    "upheaval": "Challenger, 28 January 1986, remains Chapter 3 after the move into Chapter 4."
+  },
+  "protected_verbatim": [
+    "The Experimental Years: entire section",
+    "Leaving the Old World, Challenger upheaval and Into Psychology’s Labyrinth: entire closing sequence"
+  ],
+  "final_manuscript": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
+    "sha256": "054f5191b58ae9d04ed5da74cc9244812c8b637e2982e30bab77c8e43c5367c3"
+  },
+  "figure": "Original grayscale SVG plus locally rendered review PNG; no outside artwork copied.",
+  "unrelated_changes_preserved": [
+    ".gitignore",
+    "manuscripts/volume-1/01-interlude.md"
+  ],
+  "publication": false
+}

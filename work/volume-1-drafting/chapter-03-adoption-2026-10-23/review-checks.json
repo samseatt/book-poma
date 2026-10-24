@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "protected_blocks": {
+    "## The Experimental Years": "verbatim",
+    "## Leaving the Old World": "verbatim"
+  },
+  "publisher_transform_read_only": {
+    "recognized": true,
+    "annotation_omissions": 0,
+    "output_written": false
+  },
+  "incoming_note_ids_preserved": true,
+  "body_word_counts": {
+    "incoming": 7179,
+    "adopted": 8058
+  },
+  "unchanged": {
+    "/Users/samseatt/projects/book_poma/sam/claude/chapter-3.md": true,
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md": true,
+    "/Users/samseatt/projects/book-poma/.gitignore": true
+  },
+  "figure_QA": "Original grayscale SVG rendered with sharp and visually inspected. No clipped or overlapping labels; excitation and inhibition have distinct endpoints; receptor blockade and recurrence are explicit. Print-edition pagination remains a publisher task.",
+  "reference_limit": "45 source-note records distinguish exact passages/abstracts/metadata from classic bibliographic antecedents. No full rereading of all books is claimed.",
+  "no_publication": true
+}
