@@ -1,0 +1,1793 @@
+{
+  "created_date": "2026-10-27",
+  "purpose": "Descriptive planning index with title and placement reconciliation; no manuscript edits or adoption.",
+  "repository_head": "113406b1d9d14ae62658a3140b2f771d42e7c319",
+  "source_policy": "Canonical adopted early V1 units; supplied incoming drafts for V1 4–11 and Coda I; canonical title placeholders for V2, with all numbered interlude scopes provisional; established V3 order and current design plan.",
+  "coverage": {
+    "chapters": 36,
+    "interludes": 36,
+    "framing_pieces": 6,
+    "introduction": 1,
+    "total_descriptive_entries": 79
+  },
+  "units": [
+    {
+      "key": "phi-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "Φ",
+      "titles": [
+        "The Archer's Compass",
+        "The Unprovable Beginning",
+        "ORIENTATION"
+      ],
+      "canonical_titles": [
+        "The Archer's Compass",
+        "The Unprovable Beginning",
+        "ORIENTATION"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-chapter.md",
+      "source_sha256": "9496d1956c285a09964f8707a8a4e82f6b1d582dfd72ad870850b1e30a558d31",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-chapter.md",
+      "canonical_sha256": "9496d1956c285a09964f8707a8a4e82f6b1d582dfd72ad870850b1e30a558d31",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "The Fokker memory opens an inquiry into experience, memory, language, logic and the assumptions beneath knowing. The arrow and basket establish orientation; Gödel and the ladder of nothings leave the reader with limits to certainty and an opening toward possibility."
+    },
+    {
+      "key": "phi-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "Φ",
+      "titles": [
+        "The Edges of Reason",
+        "From Gödel's Paradox to the Silicon Mind",
+        "INQUIRY"
+      ],
+      "canonical_titles": [
+        "The Edges of Reason",
+        "From Gödel's Paradox to the Silicon Mind",
+        "INQUIRY"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-interlude.md",
+      "source_sha256": "988a148ee91fc4a39e8b57afb37d93e8889dec7cac1127263bebbea80adfd9f7",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-interlude.md",
+      "canonical_sha256": "988a148ee91fc4a39e8b57afb37d93e8889dec7cac1127263bebbea80adfd9f7",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Childhood questions lead into the formal and empirical instruments of inquiry: mathematics, probability, computation, measurement and science. Establishes what models and evidence can warrant, and how the Silicon mirror begins to represent and test a world."
+    },
+    {
+      "key": "1-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "1",
+      "titles": [
+        "The First Horizon",
+        "The Monster of Existence",
+        "PHYSICS"
+      ],
+      "canonical_titles": [
+        "The First Horizon",
+        "The Monster of Existence",
+        "PHYSICS"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-chapter.md",
+      "source_sha256": "37b9b4671e342b5d6aed5b000cc3be40748944641c4fc80e8e68fdfb4fddf54e",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-chapter.md",
+      "canonical_sha256": "37b9b4671e342b5d6aed5b000cc3be40748944641c4fc80e8e68fdfb4fddf54e",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Childhood bewilderment and the mother’s particle tracks lead through fields, symmetry, physical law and the emergence of matter. A deliberately identified possibility-space conjecture asks why a coherent reality exists, while established physics supplies its tests and constraints."
+    },
+    {
+      "key": "1-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "1",
+      "titles": [
+        "Solid State Sparks",
+        "The Birth of Computing",
+        "MATERIAL"
+      ],
+      "canonical_titles": [
+        "Solid State Sparks",
+        "The Birth of Computing",
+        "MATERIAL"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md",
+      "source_sha256": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md",
+      "canonical_sha256": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "The father’s engineering and the material beneath it open the Silicon mirror: crystal lattices, semiconductor bands, transistors and logic gates. Shows how physical constraints become reliable computation, then asks what a patterned substrate could make possible."
+    },
+    {
+      "key": "2-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "2",
+      "titles": [
+        "The Inheritance of Life",
+        "The Monster of Becoming",
+        "BIOLOGY"
+      ],
+      "canonical_titles": [
+        "The Inheritance of Life",
+        "The Monster of Becoming",
+        "BIOLOGY"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
+      "source_sha256": "4dddeff4ac7334c0b0cb176d75560257d205d7ac17e3a67a53d8d7d0d1d95d8a",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
+      "canonical_sha256": "4dddeff4ac7334c0b0cb176d75560257d205d7ac17e3a67a53d8d7d0d1d95d8a",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Maternal and paternal inheritance bring the narrator into biology through conception and development. Origins, evolution, molecular machinery and homeostasis explain life’s persistence; its dependence on other life and vulnerability to violence expose the cost of becoming alive."
+    },
+    {
+      "key": "2-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "2",
+      "titles": [
+        "Data Fundamentals",
+        "The Language of Reality",
+        "DATA"
+      ],
+      "canonical_titles": [
+        "Data Fundamentals",
+        "The Language of Reality",
+        "DATA"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-interlude.md",
+      "source_sha256": "283cfa10153008dd452be140caa4816087f09b0a2c6deb4926a50f896ebf1ec6",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-interlude.md",
+      "canonical_sha256": "283cfa10153008dd452be140caa4816087f09b0a2c6deb4926a50f896ebf1ec6",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "The embryo’s copying and coding introduce representation, compression, storage, databases and the difference between a record and its meaning. Biological information becomes a bridge into digital data and the datasets, losses and learning problems that later AI will inherit."
+    },
+    {
+      "key": "3-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "3",
+      "titles": [
+        "The Promethean Bargain",
+        "The Brain as Creation's Engine",
+        "BRAIN"
+      ],
+      "canonical_titles": [
+        "The Promethean Bargain",
+        "The Brain as Creation's Engine",
+        "BRAIN"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
+      "source_sha256": "054f5191b58ae9d04ed5da74cc9244812c8b637e2982e30bab77c8e43c5367c3",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
+      "canonical_sha256": "054f5191b58ae9d04ed5da74cc9244812c8b637e2982e30bab77c8e43c5367c3",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Childhood perception and invention reveal how neural circuits build an actionable world through sensation, memory, plasticity and learning from consequences. The brain’s Promethean reach culminates in Challenger: extraordinary imagining and engineering remain vulnerable to the systems that direct them."
+    },
+    {
+      "key": "3-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "3",
+      "titles": [
+        "Silicon Minds",
+        "The Art of Computer Architecture",
+        "HARDWARE"
+      ],
+      "canonical_titles": [
+        "Silicon Minds",
+        "The Art of Computer Architecture",
+        "HARDWARE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-interlude.md",
+      "source_sha256": "25f0950cffaef2d90093f889336548be7bf3571411c5978552d682f64fca6cdc",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-interlude.md",
+      "canonical_sha256": "25f0950cffaef2d90093f889336548be7bf3571411c5978552d682f64fca6cdc",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "School and early computing turn the brain’s mirror toward processors, registers, caches, memory, instructions and parallel execution. CPU and GPU mechanisms explain how computation actually moves through hardware, and why data movement matters so much to machine intelligence."
+    },
+    {
+      "key": "4-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "4",
+      "titles": [
+        "The Monster Within",
+        "Psychology, Morality, and the Dance of Free Will",
+        "PERSON"
+      ],
+      "canonical_titles": [
+        "The Monster Within",
+        "Psychology, Morality, and the Dance of Free Will",
+        "PERSON"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-4.md",
+      "source_sha256": "2ac94c061e7a4b394d1ba587a6bb82048c714c79d9942540036544c843fa6a96",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md",
+      "canonical_sha256": "de902efe46068d155212b2306a52c61d5ef630b279fbeb4e0c2ef2b9fe872271",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "The move to Milwaukee makes personhood a lived problem of memory, identity, emotion, morality and constrained agency. Psychology becomes an inquiry into how a self is assembled, how its loops can remain open, and how cruelty can inhabit an ordinary person."
+    },
+    {
+      "key": "4-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "4",
+      "titles": [
+        "Soft Logic",
+        "The Art of Software",
+        "SOFTWARE"
+      ],
+      "canonical_titles": [
+        "Soft Logic",
+        "The Art of Software",
+        "SOFTWARE"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-4.md",
+      "source_sha256": "eaf16809853a58558d331aa0da4e071ded21be5d7090e51131c3d187abb3a5a9",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md",
+      "canonical_sha256": "374ceb8aef90651fe2519b11afc21258fe31f93b99018a3002a3fdb18ef19296",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Programming and university work introduce software as executable organization: languages, operating systems, abstraction and programs that persist through time. The progression toward learned software raises a new question about whose habits and judgments a program reproduces."
+    },
+    {
+      "key": "5-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "5",
+      "titles": [
+        "The Burning City",
+        "Injustice, Rage, and the Monster We Build Together",
+        "SOCIETY"
+      ],
+      "canonical_titles": [
+        "The Burning City",
+        "Injustice, Rage, and the Monster We Build Together",
+        "SOCIETY"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-5.md",
+      "source_sha256": "3216df14b2ee03089a1e2ca9515c3a5041cc0eb523dc6af3f37d87cadc51b04b",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-chapter.md",
+      "canonical_sha256": "2fd30237e4477d9c7ceb991e750a4e67e2dbc5cadad30bdb4350b9ec0c60a7e4",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Los Angeles becomes a study of what holds strangers together: cooperation, institutions, hierarchy, distrust and shared identity. The city’s apparent unity breaks under the riots, exposing the distance between occupying the same map and belonging to a society."
+    },
+    {
+      "key": "5-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "5",
+      "titles": [
+        "Connected Currents",
+        "Computer Networks and Distributed Computing",
+        "NETWORK"
+      ],
+      "canonical_titles": [
+        "Connected Currents",
+        "Computer Networks & Distributed Computing",
+        "NETWORK"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-5.md",
+      "source_sha256": "7b5c7a8b9d9493b30ea7a055a1a0c8432a519172d8c6a3ff9be02ede182c7a14",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-interlude.md",
+      "canonical_sha256": "cbd6332a20be3b0ace16fd4265184cccddd8d43cbeac3e2bf79f73e10d1e2d7d",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Networks turn separate machines into participants through addressing, routing, protocols and distributed coordination. The path from packets to large-scale AI infrastructure also exposes the difference between achieving technical agreement and sustaining a civic relationship."
+    },
+    {
+      "key": "6-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "6",
+      "titles": [
+        "Living on Shaking Ground",
+        "Nature's Indifference and the Illusion of Control",
+        "INDUSTRY"
+      ],
+      "canonical_titles": [
+        "Living on Shaking Ground",
+        "Nature's Indifference and the Illusion of Control",
+        "INDUSTRY"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-6.md",
+      "source_sha256": "2b58d5a6524a6d904b731e0e9c426bdfb2c3970b27a82727066700e9d4bba044",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-chapter.md",
+      "canonical_sha256": "58c2badd55f3fe92dca2189a485547a7b9f4889ac2071e3638ccd12060ee22c8",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Silicon Valley reveals industry as coordinated making: labor, tacit knowledge, standards, schedules, supply chains and quality. Engineering’s power and hidden dependencies meet the earthquake, making resilience and the limits of mastery part of the same achievement."
+    },
+    {
+      "key": "6-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "6",
+      "titles": [
+        "Systems in Concert",
+        "Applications and the Work Machines Do",
+        "APPLICATION"
+      ],
+      "canonical_titles": [
+        "Systems in Concert",
+        "Computing Systems & Enterprise Software",
+        "APP"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-6.md",
+      "source_sha256": "2088355c0284cc82b33e9068ae7c3cf6e3b6ce3bc7c8c8d97732f1af92051e6a",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-interlude.md",
+      "canonical_sha256": "a21289d440f4486a5e158dcdb4da1a7df8446c7ccd92eb2fe64b18af984334e5",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Applications assemble code, data, interfaces and services into working machines, illustrated through practical software work. Contracts, enterprise coordination, technical debt and learning applications prepare the transition from fixed programs toward agents that carry out work."
+    },
+    {
+      "key": "7-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "7",
+      "titles": [
+        "The Engine of Prosperity",
+        "Capitalism, the Dream, and the Monster at the Gates",
+        "ECONOMY"
+      ],
+      "canonical_titles": [
+        "The Engine of Prosperity",
+        "Capitalism, the Dream, and the Monster at the Gates",
+        "ECONOMY"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-7.md",
+      "source_sha256": "cc08235dc887a9b5647b5ecfb6a1a0eea54cba19f1e45d75218eb2b3bd6a3fb0",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-chapter.md",
+      "canonical_sha256": "be2f11e0413006b962c373390cacfadc8b1b8b327001d96ddff9038187b24a36",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Seattle and Bellevue frame an inquiry into money, prices, markets, growth and the stories that let strangers exchange value. The promise of prosperity is tested against market failures, unequal bargaining and the global tensions made visible in the Battle of Seattle."
+    },
+    {
+      "key": "7-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "7",
+      "titles": [
+        "The E-conomy",
+        "How the Web Turned Code into Capital",
+        "WEB"
+      ],
+      "canonical_titles": [
+        "The E-conomy",
+        "How the Web Turned Code into Capital",
+        "WEB"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-7.md",
+      "source_sha256": "dac4375b95fc57e1b3f94b3091cfda4167744c54a2f6a8f4ee406c60050a4a7e",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-interlude.md",
+      "canonical_sha256": "e071ac2f9a1907132e8d66530f7211b52807e290c1af25f96feba80998bf15f5",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "The web becomes a working economy through browsers, servers, protocols, services and platforms. Its passage from shared pages to commercial infrastructure and AI training material asks what happens when a commons becomes both marketplace and machine memory."
+    },
+    {
+      "key": "8-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "8",
+      "titles": [
+        "The Broken Banner",
+        "Borders, Betrayals, and the Monster of 9/11",
+        "NATION"
+      ],
+      "canonical_titles": [
+        "The Broken Banner",
+        "Borders, Betrayals, and the Monster of 9/11",
+        "POLITICS"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-8.md",
+      "source_sha256": "5705a5eff8f23b0c622303b30f69ca1172aba2f33868cf9dc750099539279d3f",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/08-chapter.md",
+      "canonical_sha256": "8326afeeb93f23c04973693e9bd52b0f562c43b0921758bc4c492419dcca704b",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Crossing into Canada opens questions of borders, citizenship, sovereignty, state legibility and belonging. Nations emerge as powerful arrangements for cooperation and classification, with September 11 exposing the costs and contradictions of their promises of protection."
+    },
+    {
+      "key": "8-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "8",
+      "titles": [
+        "The Borderless Machine",
+        "Frameworks, Open Source and the Constitutions of Code",
+        "FRAMEWORK"
+      ],
+      "canonical_titles": [
+        "The Borderless Machine",
+        "Decentralization, Blockchain, and Digital Borders",
+        "DECENTRALIZATION"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-8.md",
+      "source_sha256": "6ca525377c3539545d2d1af4f697304757f677b6c0c1917117d91bfa600820d3",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/08-interlude.md",
+      "canonical_sha256": "5c5aa312a49312b752a96ab60f65c72b7cc86312d4e081ee716185e7f3332283",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Frameworks, platforms, standards and open-source governance become the constitutions of software: they permit action while defining its boundaries. Decentralization and AI frameworks test who can revise those rules, who belongs, and who controls the machinery others depend on."
+    },
+    {
+      "key": "9-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "9",
+      "titles": [
+        "The Thin Ice",
+        "Guns, Civility, and the Fragile Modern Mind",
+        "IDEOLOGY"
+      ],
+      "canonical_titles": [
+        "The Thin Ice",
+        "Guns, Civility, and the Fragile Modern Mind",
+        "IDEOLOGY"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-9.md",
+      "source_sha256": "814668b4a1fd2916730c2355976b401a0ae28f15a75013850939e368b99e598e",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-chapter.md",
+      "canonical_sha256": "6e70d33efe5cb7f53c93478ee6662f077d3f139ba295d9d80463283c60dd4d65",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Toronto’s civility becomes a way into ideology, moral psychology, recognition and the beliefs that scale cooperation. The account tests how shared convictions protect or exclude, and how apparently settled civic life can still fracture into violence."
+    },
+    {
+      "key": "9-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "9",
+      "titles": [
+        "Interfaces & Experiences",
+        "Computing's Human Touch",
+        "INTERFACE"
+      ],
+      "canonical_titles": [
+        "Interfaces & Experiences",
+        "Computing's Human Touch",
+        "INTERFACE"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-9.md",
+      "source_sha256": "8344b5d390899960fc0f1e2ace00dbdc4cb18f2b79438c54971e48087dd8679f",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-interlude.md",
+      "canonical_sha256": "4b1647f1a1d53fb37f4aab44f402be63d433af8b5bfec204d61a8c3bbf642e98",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Interfaces shape what people notice, believe and can do, from screens and interaction design to spatial computing and conversation. Affective systems and increasingly invisible interfaces make accessibility, persuasion and the ownership of attention part of the technical story."
+    },
+    {
+      "key": "10-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "10",
+      "titles": [
+        "When Paradise Burns",
+        "The Anthropocene Monster",
+        "ECOSYSTEM"
+      ],
+      "canonical_titles": [
+        "When Paradise Burns",
+        "The Anthropocene Monster",
+        "ECOSYSTEM"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-10.md",
+      "source_sha256": "8f42209ec8719e34640e3d0829596a0d746f8c9f95f87574dfe1fd1d206d2fe4",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/10-chapter.md",
+      "canonical_sha256": "017b195f66f9317507ab81997f4ed120252ed6ce158dd4fc5f833a6e7824ab17",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Vancouver’s apparent paradise opens onto ecological relationships, planetary feedback, limits and the costs omitted from human accounts. Gaia and the commons are examined through living mechanisms, while fires and personal loss expose the fragility of belonging to a place."
+    },
+    {
+      "key": "10-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "10",
+      "titles": [
+        "Cloud Atlas, Rewired",
+        "Our Second Atmosphere",
+        "CLOUD"
+      ],
+      "canonical_titles": [
+        "Cloud Atlas, Rewired",
+        "Our Second Atmosphere",
+        "CLOUD"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-10.md",
+      "source_sha256": "e6c28bb91259b977cf9774e7c414313ddd21b5c47b89bdd570775ca278544fe4",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/10-interlude.md",
+      "canonical_sha256": "2ed57181712b6c873eab58f415a196d576dd2eea3d682bd930910a60826c1226",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "The cloud is made tangible as an ecosystem of servers, storage, networks, software, energy and cooling. Data placement, edge computing and AI infrastructure reveal the material metabolism and concentrated dependencies beneath apparently weightless services."
+    },
+    {
+      "key": "11-c",
+      "volume": 1,
+      "kind": "chapter",
+      "label": "11",
+      "titles": [
+        "The Final Crossing",
+        "Nomads in a Purgatory of Code",
+        "INFORMATION"
+      ],
+      "canonical_titles": [
+        "The Final Crossing",
+        "Nomads in a Purgatory of Code",
+        "INFORMATION"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/chapter-11.md",
+      "source_sha256": "cfe321de4ba199ba1eed932d04a11899e39c03abd2b50f3342c7776ee4f3cdd0",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/11-chapter.md",
+      "canonical_sha256": "5020cbf1f9093dbabc7378f8938a82625260fa9203d229719b3f9df1ee11d4d6",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "Caregiving and the move to Calgary bring the ascent to information: its physical basis, biological roles, human meanings and power to steer systems. The approach of machine intelligence turns a personal threshold into a civilizational one, without resolving whose purposes it will serve."
+    },
+    {
+      "key": "11-i",
+      "volume": 1,
+      "kind": "interlude",
+      "label": "11",
+      "titles": [
+        "Transformers",
+        "The Architectures of the Singularity",
+        "INTELLIGENCE"
+      ],
+      "canonical_titles": [
+        "Transformers",
+        "The Architectures of the Singularity",
+        "INTELLIGENCE"
+      ],
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/interlude-11.md",
+      "source_sha256": "963e0cb3eb13312b92d0a95277137cb98a0c2599a6b4d0f89d10960c7c120372",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/11-interlude.md",
+      "canonical_sha256": "9d868abf9fc4575b1eb27576afeac16a4813a5622062bdcf04796cbe91adbcd9",
+      "status": "Incoming author/Claude draft; adoption into manuscripts pending.",
+      "description": "The previous ten interludes converge in machine learning, transformers and the machinery of training and inference. Retrieval, tools, multimodality, agents and alignment show how prediction becomes useful action, while asking what kind of collective intelligence is forming."
+    },
+    {
+      "key": "delta-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "Δ",
+      "titles": [
+        "The Archer's Paradox",
+        "Gauging the Heart of the Draw",
+        "DIAGNOSIS"
+      ],
+      "canonical_titles": [
+        "The Archer's Paradox",
+        "Gauging the Heart of the Draw",
+        "DIAGNOSIS"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/delta-chapter.md",
+      "source_sha256": "3b85c3742e0d67885172262eb3cf88278dc01584db7dc678001be2ce7163d49a",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/delta-chapter.md",
+      "canonical_sha256": "3b85c3742e0d67885172262eb3cf88278dc01584db7dc678001be2ce7163d49a",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "The São Paulo episode becomes a diagnostic compass for separating symptoms, mechanisms, assumptions and causes. Establishes systems thinking across the earlier domains and the discipline of finding openings for change before prescribing a new civilization."
+    },
+    {
+      "key": "delta-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "Δ",
+      "titles": [
+        "Body, Boulevard, Ballot, Bible",
+        "The B4 Ladder",
+        "DIAGNOSTICS"
+      ],
+      "canonical_titles": [
+        "Body, Boulevard, Ballot, Bible",
+        "The B4 Ladder",
+        "DIAGNOSTICS"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/delta-interlude.md",
+      "source_sha256": "2470a4cd19989df02eaee83b035a0d85ccb43a5c8c1491f7e5092a90a3c84348",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/delta-interlude.md",
+      "canonical_sha256": "2470a4cd19989df02eaee83b035a0d85ccb43a5c8c1491f7e5092a90a3c84348",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "The father’s care anchors a Caseboard spanning body, transport, institutions and sacred story. These recurring cases let later systems lenses examine boundaries, objectives, signals and failures at different scales without pretending that every system works the same way."
+    },
+    {
+      "key": "12-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "12",
+      "titles": [
+        "The Still Arrow",
+        "The Frozen Arc of Sapiens",
+        "MACROSTATE"
+      ],
+      "canonical_titles": [
+        "The Still Arrow",
+        "The Frozen Arc of Sapiens",
+        "MACROSTATE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/12-chapter.md",
+      "source_sha256": "e6858e53428c44a58cce5dbb3c22572e66d1d4daf3387f457763a266d1a271de",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/12-chapter.md",
+      "canonical_sha256": "e6858e53428c44a58cce5dbb3c22572e66d1d4daf3387f457763a266d1a271de",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Distinguishes a changing civilization from one whose parts merely move faster within a persistent macrostate. Attractors, constraints and collective conditions explain stasis, while the opportunity is to change what reproduces the state rather than count more activity."
+    },
+    {
+      "key": "12-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "12",
+      "titles": [
+        "Clockwork and Complexity",
+        "Time, Entropy, and Coordination",
+        "CHANGE"
+      ],
+      "canonical_titles": [
+        "Clockwork and Complexity",
+        "Time, Entropy, and Coordination",
+        "CHANGE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/12-interlude.md",
+      "source_sha256": "45e91cf4082cade7010e4641da3805b95bb7a60b80b5102daaacc72d77e4edd8",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/12-interlude.md",
+      "canonical_sha256": "45e91cf4082cade7010e4641da3805b95bb7a60b80b5102daaacc72d77e4edd8",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: time, entropy, clocks and synchronization, extending into biological rhythms, social scheduling and computation. Examines how systems measure, organize and depend on change, and how coordinated activity can coexist with stasis."
+    },
+    {
+      "key": "13-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "13",
+      "titles": [
+        "The Fragile Arrow",
+        "Shards of Reality in a Collective Mirror",
+        "MICROSTATE"
+      ],
+      "canonical_titles": [
+        "The Fragile Arrow",
+        "Shards of Reality in a Collective Mirror",
+        "MICROSTATE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/13-chapter.md",
+      "source_sha256": "0111b025fcf168c65aa70f7459e1589161eee833a0daf3c194852ffef4156909",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/13-chapter.md",
+      "canonical_sha256": "0111b025fcf168c65aa70f7459e1589161eee833a0daf3c194852ffef4156909",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Examines the person as a constrained microstate within larger systems: identity, feasible choices, path dependence and fragility. Its opportunity is a wider corridor of agency, with buffers and recoverable paths when lives fail to fit imposed categories."
+    },
+    {
+      "key": "13-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "13",
+      "titles": [
+        "Identity and Boundary",
+        "Particles, Persons, and Digital Selves",
+        "IDENTITY"
+      ],
+      "canonical_titles": [
+        "Identity and Boundary",
+        "Particles, Persons, and Digital Selves",
+        "IDENTITY"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/13-interlude.md",
+      "source_sha256": "136f4a914579f8a16d01693207265805d3ef7129cff9e88e542a951646ee8f7f",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/13-interlude.md",
+      "canonical_sha256": "136f4a914579f8a16d01693207265805d3ef7129cff9e88e542a951646ee8f7f",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: particle identity, indistinguishability, emergent entities and boundaries, followed by identity representation in computing. The inquiry connects how a system recognizes a thing with what classifications, credentials and profiles permit that thing to do."
+    },
+    {
+      "key": "14-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "14",
+      "titles": [
+        "The Buried Arrowhead",
+        "The Horse, the Conqueror, and the Erased",
+        "CONFOUNDER"
+      ],
+      "canonical_titles": [
+        "The Buried Arrowhead",
+        "The Horse, the Conqueror, and the Erased",
+        "CONFOUNDER"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/14-chapter.md",
+      "source_sha256": "d3ad1ffa6c279a7602af0d60dba80360baba6b8d53f967160ebc0878b2182f8b",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/14-chapter.md",
+      "canonical_sha256": "d3ad1ffa6c279a7602af0d60dba80360baba6b8d53f967160ebc0878b2182f8b",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Erased histories and the buried world beneath official accounts expose hidden causes, missing context and misleading correlations. Recovering provenance and plural memory becomes a diagnostic task, including the cultures and knowledge that dominant stories have made difficult to see."
+    },
+    {
+      "key": "14-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "14",
+      "titles": [
+        "Hidden Structure",
+        "Quantum Reality and Computation",
+        "FOUNDATION"
+      ],
+      "canonical_titles": [
+        "Hidden Structure",
+        "Quantum Reality and Computation",
+        "FOUNDATION"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/14-interlude.md",
+      "source_sha256": "ca91dd8b238cc2197935d9b8bf48490dea46149bd1ee75442fae77734a9e5185",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/14-interlude.md",
+      "canonical_sha256": "ca91dd8b238cc2197935d9b8bf48490dea46149bd1ee75442fae77734a9e5185",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: quantum amplitudes, interference, entanglement, measurement and decoherence, leading into qubits and quantum computing. Explores hidden structure and the limits of familiar explanation without treating quantum mechanisms as explanations of social concealment."
+    },
+    {
+      "key": "15-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "15",
+      "titles": [
+        "The Unstrung Bow",
+        "The Shielded Compass of Collective Meaning",
+        "OBSERVABILITY"
+      ],
+      "canonical_titles": [
+        "The Unstrung Bow",
+        "The Shielded Compass of Collective Meaning",
+        "OBSERVABILITY"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/15-chapter.md",
+      "source_sha256": "9261c5d2193dabf7062ffacccbd81cf50e5dcfc8a5b3aa50a2ae4785e713bd46",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/15-chapter.md",
+      "canonical_sha256": "9261c5d2193dabf7062ffacccbd81cf50e5dcfc8a5b3aa50a2ae4785e713bd46",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "A misread personal signal opens the problem of systems that observe badly, punish reporting or confuse their proxies with reality. The opportunity is better sensing: safer channels, interpretable evidence and the ability to correct what a system thinks it knows."
+    },
+    {
+      "key": "15-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "15",
+      "titles": [
+        "Instrumented Worlds",
+        "Sensors, Signals, and Action",
+        "SENSING AND ACTUATION"
+      ],
+      "canonical_titles": [
+        "Instrumented Worlds",
+        "Sensors, Signals, and Action",
+        "SENSING AND ACTUATION"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/15-interlude.md",
+      "source_sha256": "33fb0feb8731e46ce4d088c5dfb9d375760cc1f8df0b15899cc2a46fcc425676",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/15-interlude.md",
+      "canonical_sha256": "33fb0feb8731e46ce4d088c5dfb9d375760cc1f8df0b15899cc2a46fcc425676",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: measurement, calibration, noise and sampling, carried into sensors, transducers, embedded systems and actuation. Makes the path from physical event to recorded signal to response visible, including the consequences of sensing the wrong thing."
+    },
+    {
+      "key": "16-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "16",
+      "titles": [
+        "The Flaming Tip",
+        "Germs, Nukes, and AI at the Edge of Erasure",
+        "DYNAMICS"
+      ],
+      "canonical_titles": [
+        "The Flaming Tip",
+        "Germs, Nukes, and AI at the Edge of Erasure",
+        "DYNAMICS"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/16-chapter.md",
+      "source_sha256": "6e0894cfdf698bcc371cfafd6f5c428c5d3da036c09f61caa81c442c97a29b2d",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/16-chapter.md",
+      "canonical_sha256": "6e0894cfdf698bcc371cfafd6f5c428c5d3da036c09f61caa81c442c97a29b2d",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Follows capability into runaway dynamics through feedback, thresholds, coupling, delay and irreversible consequences. Biological, nuclear and AI examples motivate corrective capacity that develops alongside power, rather than arriving only after the damage scales."
+    },
+    {
+      "key": "16-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "16",
+      "titles": [
+        "Adaptive Repair",
+        "CRISPR and the Code of Life",
+        "EDITING AND CONTROL"
+      ],
+      "canonical_titles": [
+        "Adaptive Repair",
+        "CRISPR and the Code of Life",
+        "EDITING AND CONTROL"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/16-interlude.md",
+      "source_sha256": "ae0cfae176bcd9f02add03e853eca036d1fc14a05d637648c1467477418bf1a8",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/16-interlude.md",
+      "canonical_sha256": "ae0cfae176bcd9f02add03e853eca036d1fc14a05d637648c1467477418bf1a8",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: biological adaptation and intervention, with CRISPR as a concrete route into programmable change. Examines targeting, repair, delivery and unintended effects as mechanisms of control; the final balance of biology and engineering remains open."
+    },
+    {
+      "key": "17-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "17",
+      "titles": [
+        "The Caged Archer",
+        "The Stasis of Civilization's Myths",
+        "MODEL"
+      ],
+      "canonical_titles": [
+        "The Caged Archer",
+        "The Stasis of Civilization's Myths",
+        "MODEL"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/17-chapter.md",
+      "source_sha256": "ad9b390a4a30879782658bed162cea0f4049d19146fd8cac20915de9a7a1be07",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/17-chapter.md",
+      "canonical_sha256": "ad9b390a4a30879782658bed162cea0f4049d19146fd8cac20915de9a7a1be07",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Examines how useful models, stories and identities become cages when contradiction threatens belonging or authority. The opportunity is to preserve shared meaning while leaving assumptions contestable and creating workable routes for revision."
+    },
+    {
+      "key": "17-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "17",
+      "titles": [
+        "Protective Boundaries",
+        "Secrecy, Trust, and Encryption",
+        "ENCAPSULATION"
+      ],
+      "canonical_titles": [
+        "Protective Boundaries",
+        "Secrecy, Trust, and Encryption",
+        "ENCAPSULATION"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/17-interlude.md",
+      "source_sha256": "7c43199706908abaffc9213c9ccca464548c12c39f158b0e5de9916834a96694",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/17-interlude.md",
+      "canonical_sha256": "7c43199706908abaffc9213c9ccca464548c12c39f158b0e5de9916834a96694",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: cryptography, privacy and encapsulation as ways to establish selective boundaries around information and action. Keys, trust and threat models make protection concrete while exposing how a boundary can also obstruct scrutiny or concentrate power."
+    },
+    {
+      "key": "18-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "18",
+      "titles": [
+        "The Splintered Basket",
+        "The Shattered Bonds of Collective Morality",
+        "OBJECTIVE"
+      ],
+      "canonical_titles": [
+        "The Splintered Basket",
+        "The Shattered Bonds of Collective Morality",
+        "OBJECTIVE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/18-chapter.md",
+      "source_sha256": "0272c3f80ca735162d4d8a32a3fe94cf656cfe779433025aca69c7f1b41dc60d",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/18-chapter.md",
+      "canonical_sha256": "0272c3f80ca735162d4d8a32a3fe94cf656cfe779433025aca69c7f1b41dc60d",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Asks how collective objectives survive conflicting incentives, fragile trust and the passage of responsibility between people. The basket becomes a problem of supported obligation: who can carry a duty, under what conditions, and with what legitimacy."
+    },
+    {
+      "key": "18-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "18",
+      "titles": [
+        "Agreement and Scarcity",
+        "Consensus, Trust, and Digital Ownership",
+        "CONSENSUS"
+      ],
+      "canonical_titles": [
+        "Agreement and Scarcity",
+        "Consensus, Trust, and Digital Ownership",
+        "CONSENSUS"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/18-interlude.md",
+      "source_sha256": "acb9fa75b41c557db066da7178ae79f10a32de7d7ca19f2266696bad0b7961b6",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/18-interlude.md",
+      "canonical_sha256": "acb9fa75b41c557db066da7178ae79f10a32de7d7ca19f2266696bad0b7961b6",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: consensus, distributed records and digitally enforced scarcity. Agreement under mistrust offers a case for examining rules, incentives and finality, while keeping technical agreement distinct from moral purpose or legitimate governance."
+    },
+    {
+      "key": "19-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "19",
+      "titles": [
+        "The Crumbling Castle",
+        "The Vanishing Commons",
+        "COMMONS"
+      ],
+      "canonical_titles": [
+        "The Crumbling Castle",
+        "The Vanishing Commons",
+        "COMMONS"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/19-chapter.md",
+      "source_sha256": "ffaa40766208226cf62d0cd8d4888bf3d2ca890ab1ae9dd82341ea74ec5b671f",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/19-chapter.md",
+      "canonical_sha256": "ffaa40766208226cf62d0cd8d4888bf3d2ca890ab1ae9dd82341ea74ec5b671f",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Examines the maintenance, replenishment and resilience of shared resources across ecological, civic and informational systems. The opportunity lies in durable stewardship suited to each commons, including the work and knowledge that ownership accounts often overlook."
+    },
+    {
+      "key": "19-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "19",
+      "titles": [
+        "Governance Within",
+        "Medicine, Mutation, and Mortality",
+        "GOVERNANCE"
+      ],
+      "canonical_titles": [
+        "Governance Within",
+        "Medicine, Mutation, and Mortality",
+        "GOVERNANCE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/19-interlude.md",
+      "source_sha256": "a35e5d7ac9fb6705ed2c4ea40a2e325b6a471d534ec5903cd0ff043040b66d2d",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/19-interlude.md",
+      "canonical_sha256": "a35e5d7ac9fb6705ed2c4ea40a2e325b6a471d534ec5903cd0ff043040b66d2d",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: the body as a cooperative system, with cellular regulation, immune responses and cancer exposing failures of internal governance. Treatment provides a concrete case of intervention within a living commons; the eventual scope remains to be designed."
+    },
+    {
+      "key": "20-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "20",
+      "titles": [
+        "The Still Machine",
+        "The Stasis of Our Tools",
+        "ARCHITECTURE"
+      ],
+      "canonical_titles": [
+        "The Still Machine",
+        "The Stasis of Our Tools",
+        "ARCHITECTURE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/20-chapter.md",
+      "source_sha256": "dbbc643eda75a51fc1454aec07dfff6d30072845223425e20252dd8d0f378f5a",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/20-chapter.md",
+      "canonical_sha256": "dbbc643eda75a51fc1454aec07dfff6d30072845223425e20252dd8d0f378f5a",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Investigates how inherited structures, dependencies and bottlenecks preserve failure through successive improvements. Its opportunity is architecture that can adapt, be repaired and serve human purposes beyond the throughput measures of the existing machine."
+    },
+    {
+      "key": "20-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "20",
+      "titles": [
+        "The Cost of Thinking",
+        "Hardware Frontiers Beyond Silicon",
+        "INFRASTRUCTURE"
+      ],
+      "canonical_titles": [
+        "The Cost of Thinking",
+        "Hardware Frontiers Beyond Silicon",
+        "INFRASTRUCTURE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/20-interlude.md",
+      "source_sha256": "768f0dcde994707ba3ddb5e03134e1950307fc8d7b2f0543db5c923ca9e48bdd",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/20-interlude.md",
+      "canonical_sha256": "768f0dcde994707ba3ddb5e03134e1950307fc8d7b2f0543db5c923ca9e48bdd",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: the physical cost and architectural limits of computation, especially energy, heat, latency and moving memory. Emerging substrates provide cases for asking when changing hardware changes the constraint, and when the same bottleneck simply moves."
+    },
+    {
+      "key": "21-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "21",
+      "titles": [
+        "The Still Mind",
+        "Humanity's Cognitive Stasis",
+        "RATIONALITY"
+      ],
+      "canonical_titles": [
+        "The Still Mind",
+        "Humanity's Cognitive Stasis",
+        "RATIONALITY"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/21-chapter.md",
+      "source_sha256": "d1ca9f23403b50b435a6b956ccc21cb8aea916ec248eeb27853360f1d22d36e2",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/21-chapter.md",
+      "canonical_sha256": "d1ca9f23403b50b435a6b956ccc21cb8aea916ec248eeb27853360f1d22d36e2",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Studies finite attention, bounded rationality, cognitive bias and the limits of people acting as controllers within larger systems. Cognitive scaffolds become an opportunity when assistance strengthens usable judgment, comprehension and authority to disagree."
+    },
+    {
+      "key": "21-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "21",
+      "titles": [
+        "Augmented Loops",
+        "Brain-Computer Interfaces, Hopes and Limits",
+        "COUPLING"
+      ],
+      "canonical_titles": [
+        "Augmented Loops",
+        "Brain-Computer Interfaces, Hopes and Limits",
+        "COUPLING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/21-interlude.md",
+      "source_sha256": "1c616f99991ccb41cdd07f0048ddd86e4a2f9f76dce5acda3e91bae37444ec43",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/21-interlude.md",
+      "canonical_sha256": "1c616f99991ccb41cdd07f0048ddd86e4a2f9f76dce5acda3e91bae37444ec43",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: neural interfaces and coupled human–machine feedback, including what can be sensed, transmitted and acted upon. The central problem is how augmentation redistributes control, uncertainty and ownership of the loop; the final technical breadth remains open."
+    },
+    {
+      "key": "22-c",
+      "volume": 2,
+      "kind": "chapter",
+      "label": "22",
+      "titles": [
+        "The Still Arrow's Pause",
+        "A Reckoning Before the Leap",
+        "ALIGNMENT"
+      ],
+      "canonical_titles": [
+        "The Still Arrow's Pause",
+        "A Reckoning Before the Leap",
+        "ALIGNMENT"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/22-chapter.md",
+      "source_sha256": "203919c21eabf9fb2ade870ccda9bd130184609c40ab593abe931557bdc493e8",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/22-chapter.md",
+      "canonical_sha256": "203919c21eabf9fb2ade870ccda9bd130184609c40ab593abe931557bdc493e8",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Makes reflection, delay, reserves and reconsideration operational parts of alignment. The pause becomes a capability for inspecting and revising a course while preserving a route back to action, preparing diagnosis to become design."
+    },
+    {
+      "key": "22-i",
+      "volume": 2,
+      "kind": "interlude",
+      "label": "22",
+      "titles": [
+        "Simulation and Reflection",
+        "Are We Already in the Machine?",
+        "SIMULATION"
+      ],
+      "canonical_titles": [
+        "Simulation and Reflection",
+        "Are We Already in the Machine?",
+        "SIMULATION"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/22-interlude.md",
+      "source_sha256": "18cf177d5ef722c69f47102c313b2c7f1ad61b1ae2adc793d0343f0b6744baf1",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/22-interlude.md",
+      "canonical_sha256": "18cf177d5ef722c69f47102c313b2c7f1ad61b1ae2adc793d0343f0b6744baf1",
+      "status": "Provisional scope; canonical titles retained as placeholders pending redesign.",
+      "description": "Candidate machinery: simulation as a way to construct model worlds, rehearse consequences and test an account against itself and evidence. The possibility-space inquiry can return here, with the philosophical simulation question kept distinct from practical testing."
+    },
+    {
+      "key": "theta-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "Θ",
+      "titles": [
+        "The Architect's Pause",
+        "Design After Diagnosis",
+        "PATTERN"
+      ],
+      "canonical_titles": [
+        "The Architect's Pause",
+        "Design After Diagnosis",
+        "PATTERN"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
+      "source_sha256": "5a48d83b6cd4871bb5eac0aedaa854af4570a9ab463f11ec80a7a961d39c9b18",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
+      "canonical_sha256": "5a48d83b6cd4871bb5eac0aedaa854af4570a9ab463f11ec80a7a961d39c9b18",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Establishes the design discipline that follows diagnosis: purpose, boundaries, alternatives, consequences and revisability. Neusphere and the design loom provide a framework for humane augmentation, supported by explicit design reasoning rather than aspiration alone."
+    },
+    {
+      "key": "theta-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "Θ",
+      "titles": [
+        "The Architect's Bench",
+        "C4A and the Three Empires",
+        "METHOD"
+      ],
+      "canonical_titles": [
+        "The Architect's Bench",
+        "C4A and the Three Empires",
+        "METHOD"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
+      "source_sha256": "ce3dbd231ad3387858203e161d70b1fb1f6872e01f734bdb35e7b2393bb605cf",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
+      "canonical_sha256": "ce3dbd231ad3387858203e161d70b1fb1f6872e01f734bdb35e7b2393bb605cf",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Astyages’ nightmare prepares the trellis metaphor, the three empire timelines and the transition from the 2026 predicament into possible futures. The Breadboard gives these ideas a place to be tried, observed and revised before their wider consequences become irreversible."
+    },
+    {
+      "key": "23-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "23",
+      "titles": [
+        "The Loom of Renewal",
+        "From Fracture to Form",
+        "DESIGNING"
+      ],
+      "canonical_titles": [
+        "The Loom of Renewal",
+        "From Fracture to Form",
+        "DESIGNING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
+      "source_sha256": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
+      "canonical_sha256": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Renewal begins with deciding what to preserve, repair, replace and reconnect after fracture. Historical beginnings and the first future gate establish a design discipline that builds replacement capacity and human continuity alongside structural change."
+    },
+    {
+      "key": "23-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "23",
+      "titles": [
+        "The Loom of Design",
+        "Ethical Systems Thinking for Builders",
+        "BUILDING"
+      ],
+      "canonical_titles": [
+        "The Loom of Design",
+        "Ethical Systems Thinking for Builders",
+        "BUILDING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
+      "source_sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
+      "canonical_sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Turns renewal into a buildable experiment through needs, roles, flows, boundaries and separable components. Modularity, functional allocation and testable interfaces let the Breadboard learn locally without making its first architecture everyone else’s permanent obligation."
+    },
+    {
+      "key": "24-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "24",
+      "titles": [
+        "The Citizen's Dilemma",
+        "Agency, Trust, and Life Inside the New Mesh",
+        "BELONGING"
+      ],
+      "canonical_titles": [
+        "The Citizen's Dilemma",
+        "Agency, Trust, and Life Inside the New Mesh",
+        "BELONGING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
+      "source_sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
+      "canonical_sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Designs agency within a civilization whose assistance is increasingly capable and pervasive. Consent, bounded delegation, plural belonging and recoverable choices make trust something a person can exercise and revise in ordinary life."
+    },
+    {
+      "key": "24-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "24",
+      "titles": [
+        "The Developer's Dilemma",
+        "Building Without Becoming the New Tyrant",
+        "> \"Every system hides a constitution.\"\\"
+      ],
+      "canonical_titles": [
+        "The Developer's Dilemma",
+        "Building Without Becoming the New Tyrant",
+        "> \"Every system hides a constitution.\"\\"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
+      "source_sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
+      "canonical_sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Builds the machinery of delegated action: permissions, identity, policy boundaries, revocation and intelligible records. The developer’s dilemma is how to provide powerful help while preventing defaults and infrastructure from quietly assuming the citizen’s authority."
+    },
+    {
+      "key": "25-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "25",
+      "titles": [
+        "Beyond the Invisible Hand",
+        "Toward a Humane Economy",
+        "VALUES"
+      ],
+      "canonical_titles": [
+        "Beyond the Invisible Hand",
+        "Toward a Humane Economy",
+        "VALUES"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
+      "source_sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
+      "canonical_sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Reconsiders value, contribution, provisioning and economic dignity when labor and price no longer adequately describe need or capacity. Allocation and mechanism design test how a humane economy could coordinate abundance and scarcity without recreating extractive power."
+    },
+    {
+      "key": "25-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "25",
+      "titles": [
+        "The Living Ledger",
+        "Dynamic Value Flows and DAG Economies",
+        "VALUE"
+      ],
+      "canonical_titles": [
+        "The Living Ledger",
+        "Dynamic Value Flows and DAG Economies",
+        "VALUE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
+      "source_sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
+      "canonical_sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Explores contribution records, matching, ledgers, settlement and audit as distinct working mechanisms. Graph and DAG approaches, transaction integrity and simulation test economic proposals against incentives, privacy, resource limits and the possibility of gaming the system."
+    },
+    {
+      "key": "26-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "26",
+      "titles": [
+        "Minds in Harmony",
+        "Learning, Meaning, and Shared Reality",
+        "LEARNING"
+      ],
+      "canonical_titles": [
+        "Minds in Harmony",
+        "Learning, Meaning, and Shared Reality",
+        "LEARNING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
+      "source_sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
+      "canonical_sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Designs conditions for learning, shared reality and intellectual independence amid abundant synthetic knowledge. Educational design, plural inquiry and contestable evidence seek collective understanding that strengthens individual judgment rather than manufacturing agreement."
+    },
+    {
+      "key": "26-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "26",
+      "titles": [
+        "Signal and Story",
+        "Cognitive Architectures for a Wise Infosphere",
+        "EDUCATION"
+      ],
+      "canonical_titles": [
+        "Signal and Story",
+        "Cognitive Architectures for a Wise Infosphere",
+        "EDUCATION"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
+      "source_sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
+      "canonical_sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Builds learning environments and evidence pipelines that preserve sources, uncertainty and routes for correction. Cognitive scaffolds, retrieval and evaluation make a wise infosphere a practical engineering problem rather than a promise attached to persuasive output."
+    },
+    {
+      "key": "27-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "27",
+      "titles": [
+        "The Reclaimed Commons",
+        "Data, Nature, and Shared Ground",
+        "SHARING"
+      ],
+      "canonical_titles": [
+        "The Reclaimed Commons",
+        "Data, Nature, and Shared Ground",
+        "SHARING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
+      "source_sha256": "f302ffa5fb8b1c7b2347068fe70755414dfbcd2d617b745df1813fd46ca3d67c",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
+      "canonical_sha256": "f302ffa5fb8b1c7b2347068fe70755414dfbcd2d617b745df1813fd46ca3d67c",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Treats ecological, informational and civic commons as systems requiring continuing care and legitimate shared authority. Resource-specific stewardship, boundaries and participation make replenishment and access design responsibilities rather than residual benefits."
+    },
+    {
+      "key": "27-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "27",
+      "titles": [
+        "Streams and Sanctuaries",
+        "Governing the Informational and Biological Commons",
+        "SUPPORTING"
+      ],
+      "canonical_titles": [
+        "Streams and Sanctuaries",
+        "Governing the Informational and Biological Commons",
+        "SUPPORTING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-interlude.md",
+      "source_sha256": "e46c917053e19b9130cb499d22a09028d22fb58738bb7d008c7cd36fd5dbde73",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-interlude.md",
+      "canonical_sha256": "e46c917053e19b9130cb499d22a09028d22fb58738bb7d008c7cd36fd5dbde73",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Builds the records, permissions, monitoring and resource-management arrangements that support stewardship. Data and biological commons make provenance, consent, capacity and community authority concrete, while resisting a universal template for very different resources."
+    },
+    {
+      "key": "28-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "28",
+      "titles": [
+        "The Reimagined Workshop",
+        "Making as Stewardship",
+        "MAKING"
+      ],
+      "canonical_titles": [
+        "The Reimagined Workshop",
+        "Making as Stewardship",
+        "MAKING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
+      "source_sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
+      "canonical_sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Reimagines production through the full lives of materials, energy, labor and products. Regenerative making combines useful capacity with repair, reuse and accountable limits, extending stewardship into what a civilization manufactures and discards."
+    },
+    {
+      "key": "28-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "28",
+      "titles": [
+        "Neufacturing",
+        "Biofabrication and Architectures of Regenerative Matter",
+        "MANUFACTURING"
+      ],
+      "canonical_titles": [
+        "Neufacturing",
+        "Biofabrication and Architectures of Regenerative Matter",
+        "MANUFACTURING"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
+      "source_sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
+      "canonical_sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Develops the architectures of fabrication, material traceability, adaptable production and circular supply chains. Biofabrication and interchangeable processes become testable possibilities, with physical tolerances, safety, resource costs and repairability kept inside the design."
+    },
+    {
+      "key": "29-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "29",
+      "titles": [
+        "The Steward's Edge",
+        "Governance as Co-Authorship",
+        "STEWARDSHIP"
+      ],
+      "canonical_titles": [
+        "The Steward's Edge",
+        "Governance as Co-Authorship",
+        "STEWARDSHIP"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
+      "source_sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
+      "canonical_sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Designs legitimate participation, distributed authority and stewardship across communities and institutions. Co-authorship requires decisions people can enter, understand and challenge, alongside workable coordination and ways to prevent capture."
+    },
+    {
+      "key": "29-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "29",
+      "titles": [
+        "Civic Meshes",
+        "Identity, Federation, and Protocol Governance",
+        "GOVERNANCE"
+      ],
+      "canonical_titles": [
+        "Civic Meshes",
+        "Identity, Federation, and Protocol Governance",
+        "GOVERNANCE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
+      "source_sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
+      "canonical_sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Builds civic identity, credentials, delegation, federation and protocol change across distinct jurisdictions. Context boundaries, migration and the limits of scalability expose what is required for meshes to cooperate without flattening their members or their differences."
+    },
+    {
+      "key": "30-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "30",
+      "titles": [
+        "Justice Before Judgment",
+        "Living Inside Fair Systems",
+        "JUSTICE"
+      ],
+      "canonical_titles": [
+        "Justice Before Judgment",
+        "Living Inside Fair Systems",
+        "JUSTICE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
+      "source_sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
+      "canonical_sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Designs fairness into the arrangements that precede judgment: rules, evidence, discretion, recourse and repair. Historical claims to rightful order lead into institutions capable of admitting error and giving affected people a meaningful way to contest decisions."
+    },
+    {
+      "key": "30-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "30",
+      "titles": [
+        "Protocols of Integrity",
+        "Designing Fairness into Systems",
+        "JURISPRUDENCE"
+      ],
+      "canonical_titles": [
+        "Protocols of Integrity",
+        "Designing Fairness into Systems",
+        "JURISPRUDENCE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
+      "source_sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
+      "canonical_sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Turns integrity into decision models, evidence provenance, audit trails, tests and remedy workflows. The builder must preserve explainable grounds and effective challenge through automated and human decisions, including the handling of failure and disagreement."
+    },
+    {
+      "key": "31-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "31",
+      "titles": [
+        "The Flow of Care",
+        "Health as Presence, Pattern, and Partnership",
+        "HEALTH"
+      ],
+      "canonical_titles": [
+        "The Flow of Care",
+        "Health as Presence, Pattern, and Partnership",
+        "HEALTH"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
+      "source_sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
+      "canonical_sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Designs care around the continuing life of a person, linking clinical skill, family knowledge, context and presence. Longitudinal attention and safe coordination challenge institutions that measure completed episodes more readily than sustained health."
+    },
+    {
+      "key": "31-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "31",
+      "titles": [
+        "From Molecule to Moment",
+        "Precision Medicine in the Age of Pattern Stewardship",
+        "MEDICINE"
+      ],
+      "canonical_titles": [
+        "From Molecule to Moment",
+        "Precision Medicine in the Age of Pattern Stewardship",
+        "MEDICINE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
+      "source_sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
+      "canonical_sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Builds clinical information and care workflows that connect molecules, measurements, symptoms and lived context. Pattern-based assistance requires uncertainty, validation, staffing, escalation and hazard analysis; collecting more signals does not itself deliver care."
+    },
+    {
+      "key": "32-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "32",
+      "titles": [
+        "Threads of Continuity",
+        "Culture, Memory, and the Long Now",
+        "LIFE"
+      ],
+      "canonical_titles": [
+        "Threads of Continuity",
+        "Culture, Memory, and the Long Now",
+        "LIFE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
+      "source_sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
+      "canonical_sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Designs cultural and personal continuity across generations of changing people and machines. Memory, ritual and inheritance become choices about what to preserve, reinterpret or release, with living cultures retaining authority over their own futures."
+    },
+    {
+      "key": "32-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "32",
+      "titles": [
+        "Encoding the Eternal",
+        "Semantic Memory and Cultural Continuity",
+        "LIFECYCLE"
+      ],
+      "canonical_titles": [
+        "Encoding the Eternal",
+        "Semantic Memory and Cultural Continuity",
+        "LIFECYCLE"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
+      "source_sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
+      "canonical_sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Builds semantic memory through archives, knowledge structures, provenance, preservation and migration. The challenge is to keep an inheritance interpretable and usable without mistaking storage, generated reconstruction or technical persistence for the life that produced it."
+    },
+    {
+      "key": "33-c",
+      "volume": 3,
+      "kind": "chapter",
+      "label": "33",
+      "titles": [
+        "The Arrow's Release",
+        "Designing Without Possessing the Future",
+        "REALITY"
+      ],
+      "canonical_titles": [
+        "The Arrow's Release",
+        "Designing Without Possessing the Future",
+        "REALITY"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
+      "source_sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
+      "canonical_sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Brings design to the problem of release: how a useful arrangement can outgrow its founders, be revised or be retired. The final gate turns historical inheritance and future responsibility into a capacity to act without claiming permanent ownership of what follows."
+    },
+    {
+      "key": "33-i",
+      "volume": 3,
+      "kind": "interlude",
+      "label": "33",
+      "titles": [
+        "Machines as Mirrors",
+        "Simulation as Sacred Act",
+        "SIMULATION"
+      ],
+      "canonical_titles": [
+        "Machines as Mirrors",
+        "Simulation as Sacred Act",
+        "SIMULATION"
+      ],
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
+      "source_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
+      "canonical_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "status": "Canonical unit titles; description reflects current plan.",
+      "description": "Simulation, rehearsal and the Mirror bring construction face to face with memory, identity and the consequences of making worlds. The builder’s final responsibilities include testing, handover and limits, while the personal experiment asks what can continue without claiming resurrection."
+    }
+  ],
+  "framing": [
+    {
+      "key": "introduction",
+      "label": "Introduction",
+      "title": "The Arrow You Hold",
+      "description": "Introduces the Still Arrow and the braided personal, civilizational and technological journeys. Establishes the passage from emergence through diagnosis to design, and the distinction between factual memories and imagined futures.",
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/introduction.md",
+      "source_sha256": "b883bc58dc84ee7147adcb8b6e6c7038984e4dd0000f428f04f038b3218fb3e9"
+    },
+    {
+      "key": "prologue",
+      "label": "Prologue and Overture I",
+      "title": "The Fokker and the Flicker",
+      "description": "A frightened child on a plane needs to see his basket before the world can feel coherent again. That first remembered rupture supplies the emotional and philosophical question the book will keep reopening.",
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/prologue.md",
+      "source_sha256": "ae6e0b022ccd21ef253401d60bfdedaf3bd40d9a6883f47af8498b7d62858201"
+    },
+    {
+      "key": "coda1",
+      "label": "Coda I",
+      "title": "The Soil and the Shadow",
+      "description": "The Carbon and Silicon ascents curl back upon one another and reveal Neusphere as a missing civic cognitive capacity. Wonder becomes a demand for diagnosis, while the companions and inherited basket prepare their passage into Volume II.",
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/coda.md",
+      "source_sha256": "eeffb833377c078fbe0abbc342182cf3d87eee580199bc34e1ca08ab8c88c9b6"
+    },
+    {
+      "key": "overture2",
+      "label": "Overture II",
+      "title": "A Nagging Stillness",
+      "description": "A depleted phone and a failed evening in São Paulo expose an old personal pattern beneath apparent forward movement. The scene turns the book from tracing emergence to examining the architecture that keeps a condition returning.",
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/overture.md",
+      "source_sha256": "9aadad71e3e3e922204b803044651af0827c9f7b992cc8d17433a10dd0edd7e5"
+    },
+    {
+      "key": "coda2",
+      "label": "Coda II",
+      "title": "The Crack and the Claw",
+      "description": "The diagnoses converge on the difference between naming damage and changing what sustains it. Personal and civilizational stasis prepare the turn toward design, with a pause that permits a better next action rather than a permanent retreat.",
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/coda.md",
+      "source_sha256": "1baea6dbe44b6151b5b0989094c6b9ffc294210bc760008141bd22bbb9524c40"
+    },
+    {
+      "key": "overture3",
+      "label": "Overture III",
+      "title": "The Basket We Carry",
+      "description": "The father’s phone and Ryan’s bow stage an intimate handoff between generations, memory and a possible Silicon inheritance. Reverence, interpretation and the responsibility of making new realities prepare the design volume.",
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/overture.md",
+      "source_sha256": "e47cc081be8286f3ea0cc2f6b578194e535c49cf039e2023d5adf9f9b9bcff46"
+    },
+    {
+      "key": "epilogue",
+      "label": "Epilogue and Coda III",
+      "title": "The Basket We Carry",
+      "description": "Returns to the basket, the released arrow and the plane, now carrying the consequences of what people build and leave behind. Continuity replaces the promise of possession: the future inherits acts, patterns and responsibilities as well as memories.",
+      "source": "/Users/samseatt/projects/book-poma/manuscripts/back-matter/epilogue.md",
+      "source_sha256": "493e84a9ae3136865641045dd6637fdac3aff7e08a6955a3e45aaa4fe5f9efe8"
+    }
+  ],
+  "context_sources": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/index.md",
+      "sha256": "45a5ec1f1ea8ce938736536ad22bfee9a6bc0721087f89dd1636506fc1a81274"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/introduction.md",
+      "sha256": "b883bc58dc84ee7147adcb8b6e6c7038984e4dd0000f428f04f038b3218fb3e9"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/EDITORIAL_CONTEXT.md",
+      "sha256": "2a95c905e603f0325c0012a9f15c939b578dfda7d2d1946912a9a99bff9bc922"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/book.md",
+      "sha256": "802e4e11e50bac090ed561c9e81ba1a801d23fd63f7e271efabeb587c91d88c2"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/volume-2.md",
+      "sha256": "156f31ad367b6762ee2bc9a9814bf79992b1b79f552ce7c4a688dd8bb4eac50c"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/volume-3.md",
+      "sha256": "e89eab39e77daad8041118baf0252c8efde7b7a3baeabb6ee5cd3f75d2f4dc7b"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_II_OPPORTUNITY_SIGNALS.md",
+      "sha256": "72371c0fa5a91ca1a9fb9dc9d1bbced34731a5f41d75071f2c83946c411f3a57"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_DESIGN_MAP.md",
+      "sha256": "81ae403c7206e0ebb13a12d2b76c0ea35ddc9854e6a72eafc84e5e4b5a9816f7"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md",
+      "sha256": "df3a0a0c74a766b347f4cacb02dfad04e83ea509bb28dd67b3dc5b526552a4ef"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/claude/Physics Interludes 12–15 Working Outline.md",
+      "sha256": "b8647d779e1e9476360ea9986aa42bd98f3d3f33b04d71cb3dd8c0be50d43c19"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/claude/The Path of Many Arrows Style Guide.md",
+      "sha256": "85e289c321bcb752a6fa262128e47d8bf96a477b6f7d2d5b64e82492e2cf8234"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/claude/Volume III Drawer.md",
+      "sha256": "78565a79ee5e4af3c3121514aa84e1e60b39b37b00129f06df2389e6534f01b9"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json",
+      "sha256": "4ab23dec2cb3601e38c9796f7006e6cb215d59399e16e1fc3b2fa7dc74f829c9"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/part-opening.md",
+      "sha256": "1dc2dd7aefcb28dafcdb4bc2aa1ae9dad7e676909942ed5c9bf969590f5d4880"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/part-opening.md",
+      "sha256": "e88a6a3e1e78f48b20837dc794016f313e49b50d14272b35707624a07db0586e"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/part-opening.md",
+      "sha256": "497550e0dfdf68c5fce85abba3b7ca92a43cd2ab3087dca10b09932ddb9aa144"
+    }
+  ],
+  "additional_incoming_title_checks": [
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-1.md",
+      "sha256": "c39b54aee6bd8167ab09bf905c34f3ef2c0a23fd17733adb27d5f4688d71fca2",
+      "titles": [
+        "The First Horizon",
+        "The Monster of Existence",
+        "PHYSICS"
+      ]
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-2.md",
+      "sha256": "9df6f9137db35ad6f8cdba57b9fe902d687692f6286a2a61691de526c3947cef",
+      "titles": [
+        "The Inheritance of Life",
+        "The Monster of Becoming",
+        "BIOLOGY"
+      ]
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-3.md",
+      "sha256": "0ff02ec2376ada9243cc5798b2005fbe8bc8bb3d9066a538ef0367615b447d45",
+      "titles": [
+        "The Promethean Bargain",
+        "The Brain as Creation's Engine",
+        "BRAIN"
+      ]
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-1.md",
+      "sha256": "16e05a9a319ebfe6dd556c27889b63f3bfae105ccaca82b4123dc8820638b2ce",
+      "titles": [
+        "Solid State Sparks",
+        "The Birth of Computing",
+        "MATERIAL"
+      ]
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-2.md",
+      "sha256": "52c6a927509244a248f9c3773251349281d3d7d8570d15913ac32058584498a0",
+      "titles": [
+        "Data Fundamentals",
+        "The Language of Reality",
+        "DATA"
+      ]
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-3-v2.md",
+      "sha256": "c6e179e8c90847d7a5efc2cdd96556f1e33669fad1d025c061c674e3cce8d6c1",
+      "titles": [
+        "Silicon Minds",
+        "The Art of Computer Architecture",
+        "HARDWARE"
+      ]
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-3.md",
+      "sha256": "1da7ddfe973e2a6f500ae1451be4e6add489f7a3a1956a8dbda3af03530d4a0b",
+      "titles": [
+        "Silicon Minds",
+        "The Art of Computer Architecture",
+        "HARDWARE"
+      ]
+    }
+  ],
+  "notes": [
+    "Prologue display title is supplied by the canonical index, not the untitled body file.",
+    "No uncertain scientific or current-affairs claims in research notes were promoted to verified facts by this index.",
+    "Descriptions are concise syntheses from current outlines and editorial plans; this task is not a new cover-to-cover review of every source."
+  ]
+}
