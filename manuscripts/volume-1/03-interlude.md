@@ -18,7 +18,8 @@ My hardware arrived fully assembled, though documentation was sparse. No one cou
 
 Most bugs were fixed through trial, error, and embarrassment. The system was stable enough for daily use, although uptime during adolescence was unreliable.
 
-In the same year I started my internship with Nature Inc., Gordon Moore delivered a proclamation grand enough for a burning bush: the economically sensible number of components on a chip would double every year for the coming decade.[^v1-i3-moore] I got a blanket and a bottle; Silicon got a mandate from heaven. While I was still figuring out why spoons existed, Silicon was doubling its transistor count like a prodigy who'd discovered compound interest.
+<!-- AI-assisted source alignment, 27 October 2026: merged the author’s Moore/Good addition; retained the prior Moore qualification and distinguished publication from the earlier drafting dates. -->
+In the same year I started my internship with Nature Inc., Gordon Moore delivered a proclamation grand enough for a burning bush: the economically sensible number of components on a chip would double every year for the coming decade.[^v1-i3-moore] I got a blanket and a bottle; Silicon got a mandate from heaven. While I was still figuring out why spoons existed, Silicon was doubling its transistor count like a prodigy who'd discovered compound interest. That same year, a British mathematician named I. J. Good, who had broken codes beside Alan Turing at Bletchley Park, published a vision of where machine intelligence might lead. Once machines could design better machines than we could, he argued, there would be an "intelligence explosion," and the first ultraintelligent machine would be "the last invention that man need ever make," provided it was docile enough to tell us how to keep it under control.[^v1-i3-good] Moore had described a runway. Good had imagined the takeoff. Between them, before I could hold a rattle, they had sketched the trajectory of my lifetime.
 
 ## The Boy Who Wanted Knobs
 
@@ -193,6 +194,8 @@ It was the perfect moment to meet psychology.
 <!-- Source notes aligned 23 October 2026. Memoir, established mechanisms and author conjecture are distinguished in the notes and accompanying source audit. -->
 
 [^v1-i3-moore]: Gordon E. Moore, [“Cramming More Components onto Integrated Circuits”](https://download.intel.com/newsroom/2023/manufacturing/moores-law-electronics.pdf), *Electronics* 38(8), 19 April 1965, pp. 114–117. The forecast concerns complexity at minimum component cost and projects the annual trend for another decade. It is an economic and technological projection, not a physical law.
+
+[^v1-i3-good]: I. J. Good, [“Speculations Concerning the First Ultraintelligent Machine”](https://vtechworks.lib.vt.edu/bitstream/handle/10919/89424/TechReport05-3.pdf), *Advances in Computers* 6 (1965), pp. 31–88, especially p. 33. The original offprint reproduced by Virginia Tech carries a 1965 copyright imprint; [Elsevier’s current metadata](https://doi.org/10.1016/S0065-2458(08)60418-0) dates the chapter 1966. The opening footnote dates the first draft to April 1963 and its revision to May 1964, so the coincidence here concerns publication, not when Good first conceived the argument. [GCHQ’s account of Good’s career](https://www.gchq.gov.uk/information/codes-chess-and-kubrick-life-jack-good) confirms his work with Turing at Bletchley Park and also identifies this as his 1965 paper.
 
 [^v1-i3-sord]: The maker and uncertain “Mark” designation are personal recollection. The Centre for Computing History holds a [Sord M23 Mark III](https://www.computinghistory.org.uk/det/8316/Sord-CGL/), dated 1980. That is a plausible contemporary model, not an identification of the machine in my classroom.
 

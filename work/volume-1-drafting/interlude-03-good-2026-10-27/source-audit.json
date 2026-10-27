@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-27",
+  "repository_head": "c64eb63c9f901e35586ea414eaca2f924c865ff0",
+  "scope": "Author-authorized merge of the new Moore/Good opening passage and reference only; preserve canonical prior adoption.",
+  "inputs": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-interlude.md",
+      "sha256": "25f0950cffaef2d90093f889336548be7bf3571411c5978552d682f64fca6cdc"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-3-v2.md",
+      "sha256": "c6e179e8c90847d7a5efc2cdd96556f1e33669fad1d025c061c674e3cce8d6c1"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-3.md",
+      "sha256": "1da7ddfe973e2a6f500ae1451be4e6add489f7a3a1956a8dbda3af03530d4a0b"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json",
+      "sha256": "4ab23dec2cb3601e38c9796f7006e6cb215d59399e16e1fc3b2fa7dc74f829c9"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/volume-1.md",
+      "sha256": "ad7c2a4ceeb337dca3923a9b4192f63e1e6bfb65862643b93c21e9f79bd2246c"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/.gitignore",
+      "sha256": "4a46222675abc2b1ae26fcdf1577468af17ab3e92ee37ae24d16af3f1216e9ed"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md",
+      "sha256": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/book.md",
+      "sha256": "802e4e11e50bac090ed561c9e81ba1a801d23fd63f7e271efabeb587c91d88c2"
+    }
+  ],
+  "incoming_delta": "Extension of the Moore paragraph and addition of v1-i3-good only.",
+  "canonical_after_sha256": "d197da5ffc6f8cd2068fb9b3c97423f07b78c8baf0ca6ba5478e391fbe1e0a17",
+  "verification": [
+    {
+      "claim": "1965 conjunction and earlier drafting chronology",
+      "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/89424/TechReport05-3.pdf",
+      "locator": "Original offprint p.31 (PDF p.1), imprint and opening footnote",
+      "finding": "1965 copyright imprint; draft April 1963 and revision May 1964. Supports the conventional 1965 citation, not a claim that the idea originated that year."
+    },
+    {
+      "claim": "Intelligence explosion, last invention and control qualification",
+      "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/89424/TechReport05-3.pdf",
+      "locator": "Original p.33 (PDF p.3), section 2 first paragraph",
+      "finding": "Quoted fragments and the conditional control concern verified in the paper."
+    },
+    {
+      "claim": "Conflicting publication metadata",
+      "url": "https://doi.org/10.1016/S0065-2458(08)60418-0",
+      "locator": "ScienceDirect chapter metadata, volume 6, pp.31–88",
+      "finding": "Publisher record lists 1966; discrepancy disclosed in manuscript note."
+    },
+    {
+      "claim": "Good worked with Turing at Bletchley Park; institutional dating of paper",
+      "url": "https://www.gchq.gov.uk/information/codes-chess-and-kubrick-life-jack-good",
+      "locator": "Hut 8 paragraphs and paragraph beginning “In his 1965 paper”",
+      "finding": "GCHQ confirms the collaboration and identifies the paper as 1965."
+    }
+  ],
+  "preservation_checks": {
+    "outside_addition_comment_and_note_identical": true,
+    "all_prior_note_definitions_unchanged": true,
+    "old_note_count": 34,
+    "new_note_count": 35,
+    "prior_body_after_opening_identical": true
+  },
+  "read_only_incoming_preserved": true,
+  "publication_authorized": false
+}

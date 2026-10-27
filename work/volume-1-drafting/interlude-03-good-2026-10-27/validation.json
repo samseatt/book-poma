@@ -1,0 +1,15 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-interlude.md",
+  "sha256": "d197da5ffc6f8cd2068fb9b3c97423f07b78c8baf0ca6ba5478e391fbe1e0a17",
+  "defined_notes": 35,
+  "note_references": 35,
+  "parsed_notes": 35,
+  "html_note_backlinks": 35,
+  "display_equations": 0,
+  "bookwide_note_collisions": [],
+  "warnings": [],
+  "errors": [],
+  "passed": true,
+  "recorded_from": "Successful check_manuscript.py run on 27 October 2026",
+  "incoming_and_unrelated_files_unchanged": true
+}
