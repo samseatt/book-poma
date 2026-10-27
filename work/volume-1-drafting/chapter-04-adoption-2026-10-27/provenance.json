@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-27",
+  "stage": "2: author-approved adoption",
+  "base_commit": "2ffe718556146c80aedb0509561768f0fce4605f",
+  "incoming": "/Users/samseatt/projects/book_poma/sam/claude/chapter-4.md",
+  "incoming_sha256": "580a0168c545a7c97c25b710228d23a3273135fc041ad2115ad63171ed772c02",
+  "canonical_before_sha256": "de902efe46068d155212b2306a52c61d5ef630b279fbeb4e0c2ef2b9fe872271",
+  "canonical_path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md",
+  "canonical_after_sha256": "bbac760de68ad16aa3b63cc12dddc9facd7c31e3972fd78e65f28f1024841008",
+  "previous_manifest_active_sha256": "556f3574105918bf49fa92a55d714be4e71987ea3bb3e7936d7b54e45b6a28b2",
+  "manifest_update": "Only v1-4-chapter active_source.sha256; preexisting stale hash repaired",
+  "source_tree_read_only": true,
+  "no_publication": true,
+  "unrelated_preexisting_hashes": {
+    "/Users/samseatt/projects/book-poma/.gitignore": "4a46222675abc2b1ae26fcdf1577468af17ab3e92ee37ae24d16af3f1216e9ed",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e",
+    "/Users/samseatt/projects/book-poma/work/journal/book.md": "802e4e11e50bac090ed561c9e81ba1a801d23fd63f7e271efabeb587c91d88c2"
+  }
+}

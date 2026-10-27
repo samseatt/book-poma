@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-27",
+  "protected_passages": {
+    "entire_leaving_the_person_verbatim": true,
+    "To me it looked like freedom": true,
+    "The place smelled": true,
+    "I dropped my suitcases": true,
+    "The days that followed": true,
+    "But in the months": true,
+    "In my case, there": true,
+    "This sudden flash": true,
+    "And the Pinocchian": true,
+    "To balance this mental ledger": true,
+    "It would be epically romantic": true,
+    "The fairy who granted": true,
+    "It was also in the shadow": true,
+    "I spent my second year": true,
+    "It was a strange season": true,
+    "It wasn't the horror that stayed": true,
+    "The same synaptic machinery": true,
+    "They said on television": true
+  },
+  "unchanged_inputs_and_unrelated_work": {
+    "/Users/samseatt/projects/book-poma/.gitignore": true,
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md": true,
+    "/Users/samseatt/projects/book-poma/work/journal/book.md": true,
+    "/Users/samseatt/projects/book_poma/sam/claude/chapter-4.md": true
+  },
+  "incoming_note_count": 35,
+  "adopted_note_count": 46,
+  "new_ids": [
+    "v1-c4-agency",
+    "v1-c4-compassion",
+    "v1-c4-completion",
+    "v1-c4-epigraph",
+    "v1-c4-gage",
+    "v1-c4-hopfield",
+    "v1-c4-inequity",
+    "v1-c4-latent",
+    "v1-c4-maintenance",
+    "v1-c4-maoz",
+    "v1-c4-reappraisal",
+    "v1-c4-source"
+  ],
+  "retired_ids": [
+    "v1-c4-dhca"
+  ],
+  "body_word_counts": {
+    "incoming": 7478,
+    "adopted": 7875
+  },
+  "figure_QA": "Original grayscale SVG rendered with sharp and visually inspected: readable labels, no clipping/overlap. Caption identifies schematic nature and interacting rather than serial stages. Print pagination remains publisher work.",
+  "no_publication": true,
+  "seam_review": "Read incoming-to-adopted changes and final middle/closing sequences; corrected a duplicated Plato phrase and made the toaster joke hypothetical rather than a trait-to-delusion assertion."
+}

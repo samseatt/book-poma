@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1040" viewBox="0 0 1120 1040" role="img" aria-labelledby="title desc">
+<title id="title">Remembering is reconstruction and source judgment</title>
+<desc id="desc">A partial cue recruits linked features from overlapping traces. Reconstructed content can be familiar while its origin remains uncertain. Source judgments use context, sensory details, and evidence of imagining or thinking. The outcome can be accurate recall, uncertainty, or misattribution. This is a conceptual illustration, not a fixed serial neural circuit.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M 0 1 L 9 5 L 0 9 Z" fill="#333"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;font-size:25px;fill:#171717}.title{font-size:30px;font-weight:bold}.head{font-size:26px;font-weight:bold}.small{font-size:23px}.line{fill:none;stroke:#333;stroke-width:2.4;stroke-linecap:round}.panel{fill:#fafafa;stroke:#888;stroke-width:1.2}.hint{fill:none;stroke:#777;stroke-width:2;stroke-dasharray:6 5}</style>
+<rect width="1120" height="1040" fill="white"/>
+
+<text x="32" y="46" class="title" text-anchor="start">A   A fragment can reinstate linked details</text>
+<rect x="32" y="68" width="1056" height="334" rx="8" fill="#fafafa" stroke="#888" stroke-width="1.5"/>
+<text x="170" y="110" class="head" text-anchor="middle">PARTIAL CUE</text>
+<circle cx="132" cy="172" r="15" fill="#444" stroke="#444" stroke-width="2.4"/>
+<circle cx="202" cy="172" r="15" fill="#444" stroke="#444" stroke-width="2.4"/>
+<circle cx="167" cy="234" r="15" fill="#444" stroke="#444" stroke-width="2.4"/>
+<path d="M 132 172 L 202 172 L 167 234 Z" class="line"/>
+<text x="170" y="293" class="small" text-anchor="middle">A smell, a word,</text>
+<text x="170" y="324" class="small" text-anchor="middle">a piece of a scene</text>
+<path d="M 278 204 L 369 204" class="line" marker-end="url(#arrow)"/>
+<text x="540" y="110" class="head" text-anchor="middle">RECONSTRUCTION</text>
+<path d="M 460 175 L 552 157" class="line"/>
+<path d="M 552 157 L 635 196" class="line"/>
+<path d="M 635 196 L 604 274" class="line"/>
+<path d="M 604 274 L 498 267" class="hint"/>
+<path d="M 498 267 L 460 175" class="line"/>
+<path d="M 460 175 L 550 218" class="line"/>
+<path d="M 552 157 L 550 218" class="line"/>
+<path d="M 635 196 L 550 218" class="line"/>
+<path d="M 604 274 L 550 218" class="hint"/>
+<path d="M 498 267 L 550 218" class="line"/>
+<circle cx="460" cy="175" r="14" fill="#444" stroke="#444" stroke-width="2.4"/>
+<circle cx="552" cy="157" r="14" fill="#444" stroke="#444" stroke-width="2.4"/>
+<circle cx="635" cy="196" r="14" fill="white" stroke="#444" stroke-width="2.4"/>
+<circle cx="604" cy="274" r="14" fill="white" stroke="#444" stroke-width="2.4" stroke-dasharray="5 4"/>
+<circle cx="498" cy="267" r="14" fill="white" stroke="#444" stroke-width="2.4"/>
+<circle cx="550" cy="218" r="14" fill="#444" stroke="#444" stroke-width="2.4"/>
+<text x="540" y="331" class="small" text-anchor="middle">Learned associations</text>
+<text x="540" y="363" class="small" text-anchor="middle">help complete the pattern.</text>
+<path d="M 692 204 L 763 204" class="line" marker-end="url(#arrow)"/>
+<text x="920" y="146" class="head" text-anchor="middle">A recovered episode?</text>
+<text x="920" y="203" class="small" text-anchor="middle">A related episode?</text>
+<text x="920" y="246" class="small" text-anchor="middle">A blend of traces?</text>
+<text x="920" y="320" class="small" text-anchor="middle">A completed pattern</text>
+<text x="920" y="352" class="small" text-anchor="middle">can still be wrong.</text>
+<text x="32" y="454" class="title" text-anchor="start">B   Familiarity does not establish origin</text>
+<rect x="32" y="476" width="1056" height="274" rx="8" fill="#fafafa" stroke="#888" stroke-width="1.5"/>
+<rect x="62" y="509" width="317" height="192" rx="8" fill="#eee" stroke="#999" stroke-width="1.5"/>
+<text x="220" y="548" class="head" text-anchor="middle">“I know this.”</text>
+<text x="220" y="598" class="" text-anchor="middle">Felt familiarity</text>
+<text x="220" y="641" class="small" text-anchor="middle">is one cue,</text>
+<text x="220" y="674" class="small" text-anchor="middle">not a source certificate.</text>
+<path d="M 402 606 L 456 606" class="line" marker-end="url(#arrow)"/>
+<text x="492" y="532" class="head" text-anchor="start">SOURCE JUDGMENT</text>
+<text x="492" y="579" class="" text-anchor="start">What context and sensory detail return?</text>
+<text x="492" y="623" class="" text-anchor="start">Do I recall seeing, reading or imagining it?</text>
+<text x="492" y="667" class="" text-anchor="start">Does that origin fit what else I know?</text>
+<text x="492" y="714" class="small" text-anchor="start">Reconstruction and checking can interact.</text>
+<path d="M 560 753 L 560 802" class="line" marker-end="url(#arrow)"/>
+<text x="32" y="803" class="title" text-anchor="start">C   Possible outcomes</text>
+<rect x="32" y="831" width="336" height="116" rx="8" fill="#fff" stroke="#777" stroke-width="1.5"/>
+<text x="200" y="874" class="head" text-anchor="middle">Placed accurately</text>
+<text x="200" y="918" class="small" text-anchor="middle">“I witnessed that.”</text>
+<rect x="392" y="831" width="336" height="116" rx="8" fill="#fff" stroke="#777" stroke-width="1.5"/>
+<text x="560" y="874" class="head" text-anchor="middle">Origin uncertain</text>
+<text x="560" y="918" class="small" text-anchor="middle">“It feels familiar.”</text>
+<rect x="752" y="831" width="336" height="116" rx="8" fill="#fff" stroke="#777" stroke-width="1.5"/>
+<text x="920" y="874" class="head" text-anchor="middle">Misattributed</text>
+<text x="920" y="918" class="small" text-anchor="middle">“I saw it”—but only read it.</text>
+<text x="560" y="993" class="head" text-anchor="middle">Confidence can accompany any of these outcomes.</text>
+</svg>

@@ -1,0 +1,475 @@
+{
+  "checked_at": "2026-10-27",
+  "policy": "Claim-level source checks; abstracts, passages, metadata and author evidence are distinguished. No blanket claim of full reading of every source.",
+  "retired_note": {
+    "id": "v1-c4-dhca",
+    "reason": "Removed surgery-based inference of intact memory and identity. No replacement claim that prolonged freezing or cessation of firing has a known identity outcome."
+  },
+  "notes": [
+    {
+      "note_id": "v1-c4-epigraph",
+      "bibliography_and_locator": "Aleksandr Solzhenitsyn, *The Gulag Archipelago*. Wording checked against the [Solzhenitsyn Center’s excerpt](https://www.solzhenitsyncenter.org/his-writings/large-work-and-novels/the-gulag-archipelago), which uses “good from evil.”",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Institutional quotation excerpt",
+      "limits": "The excerpt verifies wording and attribution, not a public-domain claim for the English translation.",
+      "urls": [
+        "https://www.solzhenitsyncenter.org/his-writings/large-work-and-novels/the-gulag-archipelago"
+      ]
+    },
+    {
+      "note_id": "v1-c4-saga",
+      "bibliography_and_locator": "Marquette University Archives, [Division of Student Affairs records, series 1](https://www.marquette.edu/library/archives/SuperA/UNIV-A-8-5-series1.php), lists Saga Food Service material in box 3. The company’s presence during my first semester is my recollection; the archive inventory does not date that particular experience.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Archive finding aid + author memoir",
+      "limits": "No access to the underlying undated Saga file; the semester is author evidence.",
+      "urls": [
+        "https://www.marquette.edu/library/archives/SuperA/UNIV-A-8-5-series1.php"
+      ]
+    },
+    {
+      "note_id": "v1-c4-libet",
+      "bibliography_and_locator": "Benjamin Libet et al., [“Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential)”](https://doi.org/10.1093/brain/106.3.623), *Brain* 106 (1983): 623–642; Libet, [“Unconscious cerebral initiative and the role of conscious will in voluntary action”](https://doi.org/10.1017/S0140525X00044903), *Behavioral and Brain Sciences* 8 (December 1985): 529–539. The college-arrival conjunction is with the 1985 article, not the first experiment. Libet himself allowed a possible role for conscious control.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original article passages and Cambridge December 1985 issue metadata",
+      "limits": "Self-reported timing and arbitrary movement do not settle general free will.",
+      "urls": [
+        "https://doi.org/10.1093/brain/106.3.623",
+        "https://doi.org/10.1017/S0140525X00044903"
+      ]
+    },
+    {
+      "note_id": "v1-c4-nisbett",
+      "bibliography_and_locator": "Richard E. Nisbett and Timothy D. Wilson, [“Telling more than we can know: Verbal reports on mental processes”](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf), *Psychological Review* 84 (1977): 231–259. The argument concerns access to higher-order causal processes, not the impossibility of all introspective knowledge.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original paper passages, abstract and discussion",
+      "limits": "Does not establish a psychological Gödel theorem.",
+      "urls": [
+        "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-c4-interpreter",
+      "bibliography_and_locator": "Michael S. Gazzaniga, [“Cerebral specialization and interhemispheric communication: Does the corpus callosum enable the human condition?”](https://people.psych.ucsb.edu/gazzaniga/PDF/cerebral%20specialization%20and%20interhemispheric%20communication.pdf), *Brain* 123 (2000): 1293–1326, especially the split-brain example in figure 19, p. 1318.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Author-hosted paper and figure 19",
+      "limits": "Specific surgical patients and tasks; not every explanation or patient is confabulating.",
+      "urls": [
+        "https://people.psych.ucsb.edu/gazzaniga/PDF/cerebral%20specialization%20and%20interhemispheric%20communication.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-c4-choiceblind",
+      "bibliography_and_locator": "Petter Johansson et al., [“Failure to detect mismatches between intention and outcome in a simple decision task”](https://doi.org/10.1126/science.1111709), *Science* 310 (2005): 116–119.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research abstract and bibliographic record",
+      "limits": "Failure occurs in experimental conditions; not evidence that all choices are invented.",
+      "urls": [
+        "https://doi.org/10.1126/science.1111709"
+      ]
+    },
+    {
+      "note_id": "v1-c4-kunda",
+      "bibliography_and_locator": "Ziva Kunda, [“The case for motivated reasoning”](https://doi.org/10.1037/0033-2909.108.3.480), *Psychological Bulletin* 108 (1990): 480–498.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Author review abstract and accessible passages",
+      "limits": "The closed-loop image is the author’s analogy.",
+      "urls": [
+        "https://doi.org/10.1037/0033-2909.108.3.480"
+      ]
+    },
+    {
+      "note_id": "v1-c4-rigid",
+      "bibliography_and_locator": "Philipp Sterzer et al., [“The Predictive Coding Account of Psychosis”](https://pubmed.ncbi.nlm.nih.gov/30007575/), *Biological Psychiatry* 84 (2018): 634–643. The account considers disturbances of precision weighting at different processing levels, not one universally overstrong prior.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Review abstract and model discussion",
+      "limits": "A theoretical framework, not a complete clinical explanation; removed unsupported depression/REBUS generalization.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/30007575/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-zmigrod",
+      "bibliography_and_locator": "Leor Zmigrod, Peter J. Rentfrow and Trevor W. Robbins, [“Cognitive Inflexibility Predicts Extremist Attitudes”](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00989/full), *Frontiers in Psychology* 10 (2019): 989. These are associations between task performance and measured attitudes, not a causal diagnosis of an ideology.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original article methods, results and abstract",
+      "limits": "Does not establish a universal association across doctrines or causation; book not relied upon.",
+      "urls": [
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00989/full"
+      ]
+    },
+    {
+      "note_id": "v1-c4-niche",
+      "bibliography_and_locator": "F. John Odling-Smee, Kevin N. Laland and Marcus W. Feldman, [*Niche Construction: The Neglected Process in Evolution*](https://www.jstor.org/stable/j.ctt24hqpd) (Princeton University Press, 2003), especially chapter 2 on organisms modifying their environments. The extension to choosing experiences that reshape a self is mine.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Publisher book description and chapter 2 excerpt",
+      "limits": "Book not read in full for this pass; conscious human choice is not a unique definition of niche construction.",
+      "urls": [
+        "https://www.jstor.org/stable/j.ctt24hqpd"
+      ]
+    },
+    {
+      "note_id": "v1-c4-pico",
+      "bibliography_and_locator": "Giovanni Pico della Mirandola, [*Oration on the Dignity of Man*](https://sourcebooks.web.fordham.edu/med/oration.asp), composed in 1486 and first published in 1496; the passage imagining God’s address to Adam. The Pinocchian connection is mine.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Primary work in English translation, opening Adam passage",
+      "limits": "Paraphrase, not a claim about biological uniqueness or scientific evidence.",
+      "urls": [
+        "https://sourcebooks.web.fordham.edu/med/oration.asp"
+      ]
+    },
+    {
+      "note_id": "v1-c4-fmri",
+      "bibliography_and_locator": "Seiji Ogawa et al., [“Brain magnetic resonance imaging with contrast dependent on blood oxygenation”](https://doi.org/10.1073/pnas.87.24.9868), *PNAS* 87 (1990): 9868–9872. BOLD contrast measures a blood-oxygenation response associated with neural activity; it does not directly read thoughts. Human functional studies followed in 1991–1992.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research abstract and mechanism",
+      "limits": "BOLD is indirect; no lie detector or one-region/one-function inference.",
+      "urls": [
+        "https://doi.org/10.1073/pnas.87.24.9868"
+      ]
+    },
+    {
+      "note_id": "v1-c4-dmn",
+      "bibliography_and_locator": "Marcus E. Raichle et al., [“A default mode of brain function”](https://doi.org/10.1073/pnas.98.2.676), *PNAS* 98 (2001): 676–682. “Default” concerns a pattern of activity relative to task conditions, not a brain doing nothing.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original paper abstract and task comparison",
+      "limits": "The manuscript avoids claiming the whole brain is busiest when idle.",
+      "urls": [
+        "https://doi.org/10.1073/pnas.98.2.676"
+      ]
+    },
+    {
+      "note_id": "v1-c4-kahneman",
+      "bibliography_and_locator": "Daniel Kahneman, *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011), introduction and part I. The System 1/System 2 terminology was used by Keith E. Stanovich and Richard F. West in [“Individual differences in reasoning: Implications for the rationality debate?”](https://doi.org/10.1017/S0140525X00003435), *Behavioral and Brain Sciences* 23 (2000). The labels distinguish families of processing, not two anatomical agents.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Bibliographic antecedents and conceptual attribution",
+      "limits": "No claim of full rereading of the book; popularization distinguished from invention.",
+      "urls": [
+        "https://doi.org/10.1017/S0140525X00003435"
+      ]
+    },
+    {
+      "note_id": "v1-c4-art",
+      "bibliography_and_locator": "Stephen Grossberg, [“Adaptive Resonance Theory: How a brain learns to consciously attend, learn, and recognize a changing world”](https://sites.bu.edu/steveg/files/2016/06/ART.pdf), *Neural Networks* 37 (2013): 1–47, especially the stability–plasticity problem and matching of bottom-up inputs with top-down expectations. The tuning fork is my introspective metaphor.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Author-hosted paper abstract and relevant theory passages",
+      "limits": "ART resonance is not simply a literal acoustic wave or a synonym for all memory.",
+      "urls": [
+        "https://sites.bu.edu/steveg/files/2016/06/ART.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-c4-hopfield",
+      "bibliography_and_locator": "John J. Hopfield, [“Neural networks and physical systems with emergent collective computational abilities”](https://doi.org/10.1073/pnas.79.8.2554), *PNAS* 79 (1982): 2554–2558. Content-addressable retrieval in a model network supplies an analogy, not a complete biological memory theory.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original paper, model description and retrieval results",
+      "limits": "Spurious or incorrect attractors are model behavior; not equated with dementia.",
+      "urls": [
+        "https://doi.org/10.1073/pnas.79.8.2554"
+      ]
+    },
+    {
+      "note_id": "v1-c4-completion",
+      "bibliography_and_locator": "Aidan J. Horner et al., [“Evidence for holistic episodic recollection via hippocampal pattern completion”](https://www.nature.com/articles/ncomms8462), *Nature Communications* 6 (2015): 7462.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research abstract and experimental summary",
+      "limits": "Evidence for linked event-component reinstatement, not a proof of the tuning-fork ontology.",
+      "urls": [
+        "https://www.nature.com/articles/ncomms8462"
+      ]
+    },
+    {
+      "note_id": "v1-c4-tulving",
+      "bibliography_and_locator": "Endel Tulving and Donald M. Thomson, [“Encoding specificity and retrieval processes in episodic memory”](https://doi.org/10.1037/h0020071), *Psychological Review* 80 (1973): 352–373. A cue’s effectiveness depends on its relation to the encoded trace, not just its general association with the target.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original article metadata and Tulving’s later author explanation of the principle",
+      "limits": "The Milwaukee cue is author memoir, not a laboratory result; original paper not read in full.",
+      "urls": [
+        "https://doi.org/10.1037/h0020071"
+      ]
+    },
+    {
+      "note_id": "v1-c4-source",
+      "bibliography_and_locator": "Marcia K. Johnson, Shahin Hashtroudi and D. Stephen Lindsay, [“Source monitoring”](https://memlab.yale.edu/sites/default/files/files/1993_Johnson_Hashtroudi_Lindsay_PsychBull.pdf), *Psychological Bulletin* 114 (1993): 3–28. Source judgments draw on characteristics of remembered information and judgment processes; they are not infallible origin tags. The figure is an original conceptual synthesis of this framework and the retrieval work cited above.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Author-hosted paper, framework and source-judgment passages",
+      "limits": "Figure is not a measured circuit, fixed serial sequence or reproduction of a source illustration.",
+      "urls": [
+        "https://memlab.yale.edu/sites/default/files/files/1993_Johnson_Hashtroudi_Lindsay_PsychBull.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-c4-maintenance",
+      "bibliography_and_locator": "Wickliffe C. Abraham, Owen D. Jones and David L. Glanzman, [“Is plasticity of synapses the mechanism of long-term memory storage?”](https://www.nature.com/articles/s41539-019-0048-y), *npj Science of Learning* 4 (2019): 9. The review examines evidence and unresolved questions about synaptic and other mechanisms. “Dynamic serialization” is my proposed framing, not the paper’s conclusion.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Review discussion of storage and maintenance",
+      "limits": "No claim that memories need continuous replay or that anatomy alone suffices for personal continuity.",
+      "urls": [
+        "https://www.nature.com/articles/s41539-019-0048-y"
+      ]
+    },
+    {
+      "note_id": "v1-c4-latent",
+      "bibliography_and_locator": "Nathan S. Rose et al., [“Reactivation of latent working memories with transcranial magnetic stimulation”](https://doi.org/10.1126/science.aah7011), *Science* 354 (2016): 1136–1139. The unattended item became decodable again after stimulation. Failure to decode a representation is not proof of zero activity everywhere.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research abstract and experiment description",
+      "limits": "Short-term working memory result, not a cryonics, death/revival or long-term identity experiment.",
+      "urls": [
+        "https://doi.org/10.1126/science.aah7011"
+      ]
+    },
+    {
+      "note_id": "v1-c4-bigfive",
+      "bibliography_and_locator": "Robert R. McCrae and Paul T. Costa Jr., [“Validation of the five-factor model of personality across instruments and observers”](https://pubmed.ncbi.nlm.nih.gov/3820081/), *Journal of Personality and Social Psychology* 52 (1987): 81–90. A descriptive trait model is not a causal explanation or a clinical diagnosis.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research abstract",
+      "limits": "No claim of supremacy over all personality models; humorous examples are not diagnostic criteria.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/3820081/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-polygenic",
+      "bibliography_and_locator": "Cross-Disorder Group of the Psychiatric Genomics Consortium, [“Genomic Relationships, Novel Loci, and Pleiotropic Mechanisms across Eight Psychiatric Disorders”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077032/), *Cell* 179 (2019). Genetic associations overlap across diagnoses; they do not determine an individual’s fate.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original study abstract and cross-disorder results",
+      "limits": "No inference that all traits have identical genetic architecture or that genes are a completed blueprint.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7077032/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-soon",
+      "bibliography_and_locator": "Chun Siong Soon et al., [“Unconscious determinants of free decisions in the human brain”](https://doi.org/10.1038/nn.2112), *Nature Neuroscience* 11 (2008): 543–545. Classification of a simple binary choice was modestly above chance, around 60 percent, not a complete prediction of a person’s decision.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original paper task and classification result",
+      "limits": "Do not extrapolate to every choice or demonstrate determinism.",
+      "urls": [
+        "https://doi.org/10.1038/nn.2112"
+      ]
+    },
+    {
+      "note_id": "v1-c4-schurger",
+      "bibliography_and_locator": "Aaron Schurger, Jacobo D. Sitt and Stanislas Dehaene, [“An accumulator model for spontaneous neural activity prior to self-initiated movement”](https://doi.org/10.1073/pnas.1210467109), *PNAS* 109 (2012): E2904–E2913. Movement-locked averaging is crucial to the proposed explanation of the readiness potential.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original article model and abstract",
+      "limits": "A model of spontaneous action timing; does not prove metaphysical indeterminism or conscious authorship.",
+      "urls": [
+        "https://doi.org/10.1073/pnas.1210467109"
+      ]
+    },
+    {
+      "note_id": "v1-c4-maoz",
+      "bibliography_and_locator": "Uri Maoz et al., [“Neural precursors of decisions that matter—an ERP study of deliberate and arbitrary choice”](https://elifesciences.org/articles/39787), *eLife* 8 (2019): e39787. The deliberate condition involved meaningful donation decisions. The result challenges straightforward generalization from arbitrary movement tasks.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Full article key methods, results and discussion",
+      "limits": "A task-dependent contrast, not proof of free will or a universal absence of unconscious preparation.",
+      "urls": [
+        "https://elifesciences.org/articles/39787"
+      ]
+    },
+    {
+      "note_id": "v1-c4-dennett",
+      "bibliography_and_locator": "Daniel C. Dennett, [*Elbow Room: The Varieties of Free Will Worth Wanting*](https://mitpress.mit.edu/9780262527798/elbow-room/) (MIT Press, 1984; new edition 2015). Compatibilism is presented here as a philosophical position; the author’s own rejection of free will is distinguished from it.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Publisher description and bibliographic attribution",
+      "limits": "No claim that this philosophical dispute is experimentally settled; book not reread in full.",
+      "urls": [
+        "https://mitpress.mit.edu/9780262527798/elbow-room/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-trolley",
+      "bibliography_and_locator": "Joshua D. Greene et al., [“An fMRI Investigation of Emotional Engagement in Moral Judgment”](https://doi.org/10.1126/science.1062872), *Science* 293 (2001): 2105–2108; Greene et al., [“Pushing moral buttons: The interaction between personal force and intention in moral judgment”](https://pubmed.ncbi.nlm.nih.gov/19375075/), *Cognition* 111 (2009): 364–371. The latter distinguishes personal force from contact or proximity alone.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original studies abstracts and 2009 experimental distinctions",
+      "limits": "Trolley judgments are hypothetical; no inference that brain imaging resolves moral philosophy.",
+      "urls": [
+        "https://doi.org/10.1126/science.1062872",
+        "https://pubmed.ncbi.nlm.nih.gov/19375075/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-gage",
+      "bibliography_and_locator": "Malcolm Macmillan and Matthew L. Lena, [“Rehabilitating Phineas Gage”](https://pubmed.ncbi.nlm.nih.gov/20480430/), *Neuropsychological Rehabilitation* 20 (2010): 641–658. Historical evidence supports substantial later psychosocial adaptation, qualifying the familiar permanent-ruin story.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Historical researchers’ abstract and argument",
+      "limits": "Evidence is historical and incomplete; no precise modern diagnosis or isolated morality module.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/20480430/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-wanting",
+      "bibliography_and_locator": "Kent C. Berridge and Terry E. Robinson, [“Liking, wanting, and the incentive-sensitization theory of addiction”](https://pubmed.ncbi.nlm.nih.gov/27977239/), *American Psychologist* 71 (2016): 670–679. “Wanting” and pleasure can dissociate; this is one influential account, not an exhaustive theory of addiction.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Author review abstract and core mechanism",
+      "limits": "Dopamine not reduced to pleasure; not every addiction has an identical subjective course.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/27977239/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-tumor",
+      "bibliography_and_locator": "Jeffrey M. Burns and Russell H. Swerdlow, [“Right orbitofrontal tumor with pedophilia symptom and constructional apraxia sign”](https://jamanetwork.com/journals/jamaneurology/fullarticle/783830), *Archives of Neurology* 60 (2003): 437–440. A case report of symptom onset, remission after resection and recurrence with tumor regrowth.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original case report",
+      "limits": "Single case; not a general explanation of sexual offending or a free-will experiment.",
+      "urls": [
+        "https://jamanetwork.com/journals/jamaneurology/fullarticle/783830"
+      ]
+    },
+    {
+      "note_id": "v1-c4-belief",
+      "bibliography_and_locator": "Kathleen D. Vohs and Jonathan W. Schooler, “The Value of Believing in Free Will” (2008), *Psychological Science* 19: 49–54; Nicholas Buttrick et al., [“Many Labs 5: Registered Replication of Vohs and Schooler (2008), Experiment 1”](https://doi.org/10.1177/2515245920917931) (2020); Thomas Nadelhoffer et al., [“Does encouraging a belief in determinism increase cheating? Reconsidering the value of believing in free will”](https://doi.org/10.1016/j.cognition.2020.104342), *Cognition* 203 (2020): 104342.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Replication study abstracts and reports",
+      "limits": "Correction restricted to cheating; no unsupported blanket claim about replication of helping studies.",
+      "urls": [
+        "https://doi.org/10.1177/2515245920917931",
+        "https://doi.org/10.1016/j.cognition.2020.104342"
+      ]
+    },
+    {
+      "note_id": "v1-c4-agency",
+      "bibliography_and_locator": "James W. Moore and Paul C. Fletcher, [“Sense of agency in health and disease: A review of cue integration approaches”](https://doi.org/10.1016/j.concog.2011.08.010), *Consciousness and Cognition* 21 (2012): 59–68. Motor prediction, observed outcomes and contextual cues contribute to agency judgments.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Review abstract and cue-integration proposal",
+      "limits": "Feeling of agency is not identical to causal control; Bayesian formulation is a framework.",
+      "urls": [
+        "https://doi.org/10.1016/j.concog.2011.08.010"
+      ]
+    },
+    {
+      "note_id": "v1-c4-reappraisal",
+      "bibliography_and_locator": "James J. Gross, [“Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology”](https://pubmed.ncbi.nlm.nih.gov/9457784/), *Journal of Personality and Social Psychology* 74 (1998): 224–237. The experimental comparison concerns reappraisal and expressive suppression during disgust-eliciting film.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original experiment abstract and author paper",
+      "limits": "Not a universal ranking of strategies or instruction to reinterpret real danger as harmless.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/9457784/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-frankl",
+      "bibliography_and_locator": "Garson O’Toole, [“Between Stimulus and Response There Is a Space”](https://quoteinvestigator.com/2018/02/18/response/), *Quote Investigator* (2018), traces the saying and its uncertain attribution. It should not be presented as a verified quotation from Viktor Frankl.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Quotation-tracing investigation",
+      "limits": "Not an exhaustive proof of absence from every Frankl document; no asserted original author.",
+      "urls": [
+        "https://quoteinvestigator.com/2018/02/18/response/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-dahmer",
+      "bibliography_and_locator": "[“Jury finds Dahmer sane”](https://www.upi.com/Archives/1992/02/15/Jury-finds-Dahmer-sane/6349698130000/), UPI, 15 February 1992, reports the verdict and disagreement among expert witnesses. Legal responsibility is not a clinical consensus about every aspect of his psychology.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Contemporary trial report",
+      "limits": "No diagnosis of remorse, empathy circuitry or a closed self-loop inferred from the verdict.",
+      "urls": [
+        "https://www.upi.com/Archives/1992/02/15/Jury-finds-Dahmer-sane/6349698130000/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-mirror",
+      "bibliography_and_locator": "Tania Singer et al., [“Empathy for pain involves the affective but not sensory components of pain”](https://doi.org/10.1126/science.1093535), *Science* 303 (2004): 1157–1162; Vittorio Gallese et al., [“Action recognition in the premotor cortex”](https://doi.org/10.1093/brain/119.2.593), *Brain* 119 (1996): 593–609. Evidence about macaque action observation does not by itself establish a human empathy mechanism.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original pain study and action-observation research passages/abstract",
+      "limits": "The two findings are kept distinct; no universal shared-experience or moral circuit.",
+      "urls": [
+        "https://doi.org/10.1126/science.1093535",
+        "https://doi.org/10.1093/brain/119.2.593"
+      ]
+    },
+    {
+      "note_id": "v1-c4-compassion",
+      "bibliography_and_locator": "Tania Singer and Olga M. Klimecki, [“Empathy and compassion”](https://doi.org/10.1016/j.cub.2014.06.054), *Current Biology* 24 (2014): R875–R878, especially the distinction between perspective taking, shared feeling, empathic distress and compassion.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Author-uploaded full paper, psychological distinctions and figure 1",
+      "limits": "Definitions vary across research traditions; distinguish capacities without rigid modular anatomy.",
+      "urls": [
+        "https://doi.org/10.1016/j.cub.2014.06.054"
+      ]
+    },
+    {
+      "note_id": "v1-c4-oxytocin",
+      "bibliography_and_locator": "Carsten K. W. De Dreu et al., [“The Neuropeptide Oxytocin Regulates Parochial Altruism in Intergroup Conflict Among Humans”](https://pubmed.ncbi.nlm.nih.gov/20538951/), *Science* 328 (2010): 1408–1411. These administration experiments concern particular social games and conditions.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research abstract",
+      "limits": "Not a general hormone-to-morality law or proof of everyday endogenous effects.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/20538951/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-serotonin",
+      "bibliography_and_locator": "Molly J. Crockett et al., [“Serotonin modulates behavioral reactions to unfairness”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2504725/), *Science* 320 (2008): 1739. Acute tryptophan depletion increased rejection of unfair offers without changing fairness judgments.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research report",
+      "limits": "Manipulation and behavior in a specific task, not a fairness chemical or general account of morality.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2504725/"
+      ]
+    },
+    {
+      "note_id": "v1-c4-capuchin",
+      "bibliography_and_locator": "Sarah F. Brosnan and Frans B. M. de Waal, [“Monkeys reject unequal pay”](https://www.nature.com/articles/nature01963), *Nature* 425 (2003): 297–299. Refusal behavior is observed; the explanation in terms of inequity aversion is an interpretation.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original experiment abstract and setup",
+      "limits": "Other mechanisms can produce refusal; no direct evidence of a human fairness concept.",
+      "urls": [
+        "https://www.nature.com/articles/nature01963"
+      ]
+    },
+    {
+      "note_id": "v1-c4-inequity",
+      "bibliography_and_locator": "Oded Ritov et al., [“No evidence for inequity aversion in non-human animals: A meta-analysis of accept/reject paradigms”](https://doi.org/10.1098/rspb.2024.1452), *Proceedings of the Royal Society B* 291 (2024): 20241452. The scope is these paradigms, not every possible form of animal social evaluation.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Meta-analysis abstract, methods scope and main result",
+      "limits": "Task-limited null result; does not prove animals incapable of fairness.",
+      "urls": [
+        "https://doi.org/10.1098/rspb.2024.1452"
+      ]
+    },
+    {
+      "note_id": "v1-c4-forest",
+      "bibliography_and_locator": "Robert M. Sapolsky and Lisa J. Share, [“A Pacific Culture among Wild Baboons: Its Emergence and Transmission”](https://doi.org/10.1371/journal.pbio.0020106), *PLOS Biology* 2 (2004): e106. The selective mortality, changed troop composition and later social pattern were observed, not experimentally assigned.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original observational study and ecological context",
+      "limits": "No isolation of one causal factor or inference of genetic change in a generation.",
+      "urls": [
+        "https://doi.org/10.1371/journal.pbio.0020106"
+      ]
+    },
+    {
+      "note_id": "v1-c4-meaney",
+      "bibliography_and_locator": "Ian C. G. Weaver et al., [“Epigenetic programming by maternal behavior”](https://www.nature.com/articles/nn1276), *Nature Neuroscience* 7 (2004): 847–854. The rat study concerns regulation of a glucocorticoid-receptor gene and stress responses; it does not establish an epigenetic destiny for human children.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Original research abstract and mechanism",
+      "limits": "Do not equate receptor gene with hormone gene, or maternal rat data with all human/transgenerational effects.",
+      "urls": [
+        "https://www.nature.com/articles/nn1276"
+      ]
+    },
+    {
+      "note_id": "v1-c4-murphy",
+      "bibliography_and_locator": "“Murphy’s Law” was a period name for the bar, not merely my private misremembering. A [local Marquette history](https://www.wiki.muscoop.com/doku.php?id=bars%3Amurphy_s) records that name before the later move and adoption of “Murphy’s Irish Pub.” The personal recollection remains mine.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "Local history corroboration, current proprietor history checked",
+      "limits": "Secondary local chronology, not a newly authenticated lease/address record. Exact addresses omitted.",
+      "urls": [
+        "https://www.wiki.muscoop.com/doku.php?id=bars%3Amurphy_s"
+      ]
+    },
+    {
+      "note_id": "v1-c4-ambassador",
+      "bibliography_and_locator": "The FBI’s [Milwaukee history](https://www.fbi.gov/history/field-office-histories/milwaukee) dates Dahmer’s arrest to 22 July 1991, after my departure from Wisconsin. Steven Tuomi’s death at the Ambassador Hotel belongs to 1987; a [contemporary retrospective](https://www.washingtonpost.com/archive/politics/1994/11/29/serial-killer-dahmer-slain-at-prison-job/7b18ac27-cd04-4482-8aac-0d8a25ddb1f7/) places it about September. Sources differ on the precise date. My residence nearby throughout that fall semester is personal recollection; the overlap does not require naming a particular night.",
+      "accessed": "2026-10-27",
+      "evidence_examined": "FBI institutional record, contemporary retrospective, author clarification",
+      "limits": "Exact homicide date not claimed; no asserted one-block distance to the Oxford Apartments. Private chronology retained in editorial records.",
+      "urls": [
+        "https://www.fbi.gov/history/field-office-histories/milwaukee",
+        "https://www.washingtonpost.com/archive/politics/1994/11/29/serial-killer-dahmer-slain-at-prison-job/7b18ac27-cd04-4482-8aac-0d8a25ddb1f7/"
+      ]
+    }
+  ]
+}

@@ -8,690 +8,354 @@ CHAPTER 4
 
 *PERSON*
 
-> "The line dividing good and evil cuts through the heart of every human being." --- **Aleksandr Solzhenitsyn**
+> "The line dividing good from evil cuts through the heart of every human being." --- **Aleksandr Solzhenitsyn**[^v1-c4-epigraph]
 
-After I registered into the psychological domain---signed papers, surrendered photos, got a key---the clerk may well have pointed toward the horizon and told me, "You'll be living and eating in the beer can." In the Beer Town --Milwaukee -- "*beer can"* was a valid address.
+<!-- AI-assisted: restored from Sam's new vignette and earlier draft; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
 
-I stepped outside and there it was: the building shaped like a beer can: a colossal cylinder of concrete with a slice missing, like some birthday cake from which civilization had already helped itself. Through that missing wedge lay the entrance to my next life.
+After I registered into the psychological domain (signed papers, surrendered photos, got a key), the clerk may well have pointed toward the horizon and told me, "You'll be living and eating in the beer can." In Beer Town (Milwaukee), "the beer can" was a valid address.
+
+I stepped outside and there it was: a building shaped like a beer can, a colossal cylinder of concrete with a slice missing, like some birthday cake from which civilization had already helped itself. Through that missing wedge lay the entrance to my next life.
 
 To me it looked like freedom; to others, perhaps, a well-funded form of academic incarceration. Either way, I marched in.
 
-The place smelled of floor wax, detergent, and brand-new independence. The hallway curved just enough that you couldn't see where it ended---a psychological trick designed to keep freshmen in a state of eternal curiosity -- or in phycology's hamster wheel, as it later turned out. I found my assigned room halfway around the arc, turned the key, and stepped into a small capsule of symmetry: two bunks, two desks, two lives yet to intersect.
+The place smelled of floor wax, detergent and brand-new independence. The hallway curved just enough that you couldn't see where it ended: a psychological trick designed to keep freshmen in a state of eternal curiosity, or, as it later turned out, in psychology's hamster wheel. I found my assigned room halfway around the arc, turned the key, and stepped into a small capsule of symmetry: two bunks, two desks, two lives yet to intersect.
 
-One half of the room was already claimed---neatly folded jeans, an electric typewriter, and two registration forms lying on the lower bunk. The first bore the name *Eric*, the second *Estrada*. I blinked. *Erik Estrada?* I chuckled: my first roommate in America, my favorite character from the television series *CHiPs.* A chip indeed, though not in silico. Something inside me laughed and then moved on.
+One half of the room was already claimed: neatly folded jeans, an electric typewriter, and two registration forms lying on the lower bunk. The first bore the name *Eric*, the second *Estrada*. I blinked. *Erik Estrada?* My first roommate in America shared a name with the actor who played my favorite character in the television series *CHiPs*. A chip indeed, though not in silico. Something inside me laughed, and then moved on.
 
-I dropped my suitcases, intending to sit, but my neurons had other plans. Somewhere between jet lag and euphoria, the *squirrel-on-espresso* circuit kicked in. I darted out to map every hallway, every vending machine, every corkboard announcing events that sounded supernatural. The carpet crackled under my sneakers like static from a Van de Graaff generator; the air itself felt ionized. Eight hundred unparented minds, all freshly formatted, booting their operating systems in parallel.
+I dropped my suitcases, intending to sit, but my neurons had other plans. Somewhere between jet lag and euphoria, the squirrel-on-espresso circuit kicked in. I darted out to map every hallway, every vending machine, every corkboard announcing events that sounded supernatural. The carpet crackled under my sneakers like static from a Van de Graaff generator; the air itself felt ionized. Eight hundred unparented minds, all freshly formatted, booting their operating systems in parallel.
 
-The days that followed are now blurred together in a single broad memory. Like many evenings, I perhaps sat that night by the window of my seventh-floor dorm room and watched people mill around between the parking lot and the bars.
+The days that followed have since blurred into a single broad memory. Like many evenings, I probably sat that first night by the window of my seventh-floor room and watched people mill around between the parking lot and the bars.
 
-Somewhere in the grand script of coincidences---the cosmic course catalogue---Benjamin Libet was putting the finishing touches on his free-will bombshells right at the same time. They show that the brain begins an action before the mind decides it. Apparently, both he and I were registering for the same course: *Introduction to Free Will 101.*
+But in the months, then years, that followed, I was unwittingly applying the same crystal-smashing method I had perfected as a toddler, except that this time the crystal was my psychology. No wonder they call this austere science experiment a crash course. I'll keep it simple and call it a smash course: learning the new domain quickly while, in tandem, erecting out of thin air the illusion that you had always been like this, ignoring the fact that only a handful of summers ago you were plainly a bumbling child. This is how manhood arrives in boys. One summer you see a kid running around the cul-de-sac; the next, a never-before-seen human trudges down the same sidewalk with an air of unearned confidence.
 
-## **The Monster of Psychology**
+In my case, there were no wild parties, no girls, modest beer consumption (modest, at least, by my later standards) and no real troublemaking (not intentionally). Even the classes weren't that interesting. (Remember: even engineers don't find engineering interesting.) Still, for me too, there was something undeniable in the air, and I also mean that literally. On cloudy days, if you stood at the correct spacetime of both physics and psychology, the heavy, sweet, molasses-like scent of brewing malt from the city's great breweries would drift over the campus. Even now, the memory of driving through Milwaukee on I-94, supercharged by the smell of that beer-in-training, triggers a deep wave of nostalgia.
 
-If Libet's stopwatch was right, then I'd spent most of my life under false management. The brain, it seemed, had been forging my signature all along.\
-Every choice I'd ever credited to "me" was just an electrical impulse arriving early to the meeting.
+Just as biology had been my DNA rippling through its environment, now my brain (a bulge in itself) was rippling through its own, and the ripples were dressed as psychology, as personality. The beer can and Beer Town became the spacetime of that ripple, even sans actual beer.
 
-For psychologists, this was a revelation. For theologians, a migraine. And for freshly-minted adults staring out dorm windows, it was liberation of a dangerous kind: if my neurons were already pulling the levers, then what exactly was I experiencing here---human psychology, or forgery?
+This sudden flash of personhood (the blue fairy granting Pinocchio-the-boy-brain his wish to become a real person) arrived with a hefty psychological weight. The particular lament that even the beer can's curved hallways couldn't hide was the sacrifice all this meant for my parents: the crazy tuition, the room-and-board fees that arrived like a forever-unfurling invoice, and their sheer generosity in letting me go despite having entirely different dreams for me.
 
-A few years earlier, physicists had given us quantum uncertainty; now psychologists were handing us **cognitive uncertainty**. Between stimulus and response, between cause and confession, lay a fog no microscope could pierce---only a scanner.
+And the Pinocchian bargain cut like a double-edged sword forged from high-carbon, weapon-grade irony. My parents were paying through their teeth for my grand pleasure of turning into a common man, while a prepackaged, fiat version of "success" had been sitting right there in their existing nest all along, requiring no additional contracts, struggle or fees. I had kicked that birthright privilege away to chase a common man's dream, and now they were funding the chase. But a person is such a beast. In the psychological phase, you no longer try to fit onto the shelves; the world begins to build shelves around you.
 
-By the mid-1980s, that scanner had arrived. **Magnetic resonance imaging**---MRI---turned the skull transparent. For the first time we could watch thought as geography: a flare in the visual cortex, a blush in the amygdala, the prefrontal cortex lighting up like a cautious lighthouse before we lied. It was as if Freud's couch had been upgraded to a control room.
+To balance this mental ledger (with all the modesty of a christening bottle taking credit for an entire voyage), I applied for a campus job as a "custodian." The title had an air of administrative authority, and I was genuinely happy when I was accepted. My excitement went through the roof when I learned that custodian was high-society campus speak for janitor.
 
-But what we saw was not the tidy hierarchy we'd imagined. The limbic system tugged against reason; the **basal ganglia** called fuzzy subroutines in the **cerebellum**, which, far from being a mere metronome for movement, turned out to moonlight as an accomplice in thought. Even the **default mode network**---that idle bum in our daydreams---proved to be the mind's backstage crew, forever rewriting the script.
+It would be epically romantic to tell the world later that my very first job was as a janitor. I was casting myself in the grand tradition of those great figures whose genius always seemed obliged to crawl out of a sanitary installation before conquering the world. But when the actual job is two four-hour shifts over a single weekend, the narrative collapses. I wasn't swinging a mop out of economic desperation; I was auditioning for a blue-collar brag while my father's wire transfers were still the strings quietly running both the cast and the play. Despite my premature enthusiasm, I can't in full honesty say, "I started my life as a janitor, and look where I am now." There are major structural holes at both ends of that sentence.
 
-Psychology, in other words, was discovering what philosophy had suspected all along: that consciousness is not the captain of the ship but the storyteller who arrived late and decided to narrate the voyage anyway.
+And because my brief tour of duty included the beer can's common bathrooms, my romantic illusions quickly met real-world physics. Cleaning up the weekend barf of your own floormates is not a grant you'd readily summon the blue fairy for.
 
-Still, that storyteller mattered. Without it, the brain's chatter would have no audience, no editor, no guilt. Morality itself depends on that illusion of agency---the faith that our intentions count, even if our neurons cheat a little on the timing.
+The fairy who granted me the beer can, and its pre-fizzled janitorial grandeur, had delivered it with an unspoken proclamation: you can live in the beer can, and you can drink from it too. It was the ultimate loophole of my new age, made better still by the architecture. Since the building looked like a massive birthday cake with a slice already eaten out of it, I figured I was officially allowed to have my cake and drink it, too.
 
-Somewhere between Libet's electrodes and the MRI's glow, the ancient battle between soul and flesh was being replayed in higher resolution. And I, one freshman among millions, was volunteering as the next test subject.
+That same fairy also seemed to possess a wicked sense of cosmic humor. The campus food service at the time was run by a company called Saga.[^v1-c4-saga] Most students agreed with that grand, exhausting taxonomy, but I simply enjoyed the sheer agency of it, however much of a Hobson's choice it actually was, curated by some faceless committee upstairs. I called the dining hall's illusion of choice free will, or perhaps free fill, and found it delicious.
 
-I wasn't studying psychology. At least, not officially. My course load said *Engineering Fundamentals*, *Intro to Circuits*, *Calculus II*. But the beer can itself was a living laboratory---its hallways a maze of case studies, its cafeteria a controlled experiment in social hierarchy. My dad built bridges; I preferred observing the ones that collapsed.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 6. -->
 
-You could learn more about the human mind from watching two roommates share a RadioShack desktop computer than from reading all of Freud. The negotiation over shelf space in a shared mini-fridge alone could similarly a textbook on moral philosophy. Who gets the milk? Who replaces the milk? Who pretends not to see the empty carton? Game theory in its purest form.
+Somewhere in the grand script of coincidences (the cosmic course catalog, or the cosmic seven-course menu, if you will), Benjamin Libet had registered too. His experiments were already in print, but that December, in my first semester, he published his argument about unconscious initiative and conscious will. The brain appeared to prepare a simple movement before its owner reported deciding to make it.[^v1-c4-libet] Apparently, he and I had enrolled in the same course: *Introduction to Free Will 101*.
 
-In lectures, I memorized Ohm's law; in life, I measured resistance of a different kind. How much pressure it took before politeness gave way to honesty, before honesty became cruelty. It was astonishing how much voltage a friendship could take before it blew a fuse.
+## The Monster of Psychology
 
-By day, I learned to trace electrons through circuits. By night, I learned to trace impulses through conversation. Both obeyed strange laws of potential and discharge, of stored energy looking for a path to ground.
+If the most alarming reading of Libet's stopwatch was right, I'd spent most of my life under false management. The brain, it seemed, had been forging my signature all along. Every choice I'd ever credited to "me" was just an electrical impulse arriving early to the meeting.
 
-What the MRI revealed in brains, I saw mirrored in the beer can: the limbic fires, the prefrontal negotiations, the delicate truce between desire and duty.\
-Except here the electrodes were replaced by cafeteria trays, and the lab rats were voluntarily caffeinated -- or default-moded.
+For psychologists, this was a revelation. For theologians, a migraine. And for freshly minted adults staring out of dorm windows, it was liberation of a dangerous kind: if my neurons were already pulling the levers, what exactly was I experiencing here, human psychology or forgery? Physicists had long since given us quantum uncertainty; now psychologists were handing us cognitive uncertainty. Between stimulus and response, between cause and confession, lay a fog no microscope could pierce.
 
-That's when I first met **the monster within**---not a creature of evil, but of *excuse.* That little negotiator inside that always arrived half a second late, rewriting history to make chaos look like choice. It wasn't malice that shaped our psychology; it was narrative. We didn't want truth; we wanted *continuity - j*ust like the eternal continuation of a software application. The most advanced neural system in the known universe, and we used it mostly to save face.
+I wasn't studying psychology, at least not officially. My course load said engineering fundamentals, circuits and calculus. But the beer can itself was a living laboratory, its hallways a maze of case studies and its cafeteria a controlled experiment in social hierarchy. My father built bridges; I preferred observing the ones that collapsed. You could learn more about the human mind from watching two roommates share a RadioShack computer than from reading all of Freud. The negotiation over shelf space in a shared mini-fridge was a textbook of moral philosophy in itself. Who gets the milk? Who replaces the milk? Who pretends not to see the empty carton? Game theory in its purest form.
 
-That realization hit me harder than any equation. Circuits I could trust; people, including the one inside me, ran on unstable voltages. Still, that unpredictability---those irrational surges of empathy, guilt, love---was the only thing that made consciousness worth debugging. The monster wasn't a villain. It was our conscience in camouflage.
+In lectures, I memorized Ohm's law; in life, I measured resistance of a different kind: how much pressure it took before politeness gave way to honesty, and honesty to cruelty. It was astonishing how much voltage a friendship could take before it blew a fuse. By day, I learned to trace electrons through circuits. By night, I learned to trace impulses through conversation. Both obeyed strange laws of potential and discharge, of stored energy looking for a path to ground. The electrodes were replaced by cafeteria trays, and the lab rats were voluntarily caffeinated.
 
-## **Minds Made of Layers -- From Introspection to MRI**
+That's when I first met the monster within: not a creature of evil, but of excuse. The little negotiator who always arrived half a second late, rewriting history to make chaos look like choice. It wasn't malice that shaped our psychology; it was narrative. We didn't want truth; we wanted continuity, like the eternal continuation of a software application. The most advanced neural system in the known universe, and we used it mostly to save face.
 
-For most of human history, psychology suffered from a technical limitation: the only available measuring instrument was the mind itself. It was like trying to weigh a scale by standing on it, or judge a mirror by staring harder. Still, early thinkers gave it their best shot. They closed their eyes, took philosophical notes, and tried to reverse-engineer themselves from the inside out.
+That realization hit me harder than any equation. Circuits I could trust; people, including the one inside me, ran on unstable voltages. Still, that unpredictability (the irrational surges of empathy, guilt and love) was the only thing that made consciousness worth debugging. The monster wasn't a villain. It was our conscience in camouflage.
 
-The results were... mixed.
+## Alice, Down the Rabbit Hole: The Loop That Must Stay Open
 
-Plato imagined the mind as a charioteer managing two unruly horses---reason and desire---without once explaining who trained the horses or why they were always on the verge of eating the chariot. Freud later replaced the whole stable with a basement full of repressed wishes, angry ghosts, and a superego that sounded suspiciously like his mother. Valuable metaphors, yes, but a bit like diagnosing a radio by studying Greek tragedy.
+*The wager, in one line: a person can become a story the brain hardens by checking it against itself; escaping the loop may require changing who, or what, is allowed to correct it.*
 
-For a while, psychology tried to clean up its act by banning introspection altogether. The behaviorists declared the mind off-limits---too messy, too subjective, too poetic. If you couldn't see it, time it, or bribe it with food pellets, it wasn't science. Pavlov's dogs salivated, Skinner's rats pressed levers, and the human psyche was temporarily demoted to a black box with a treat dispenser.
+Go back to the conjecture the earlier rabbit holes have been building. In that picture, possibility hardens into probability when something bounds it; probability hardens into near-certainty when the odds grow overwhelming; near-certainty hardens into what we call reality and fact. A self adds one more hardener: self-reference. You believe something about yourself, and every new experience gets checked against that belief, which grows firmer with every check it passes. The self is the brain's model of itself, compared against itself until it feels like a fact. Interlude 2 found DNA serving as one text used two ways, read for instructions and copied for the future. The self is the same kind of text: the brain lives by it and keeps copying it forward, day after day.
 
-Then came the cognitive revolution---the moment psychology looked at the rising world of computing and thought, *Ah yes, that's me.*\
-The mind became an information processor; attention, perception, memory, and language became modules and buffers. Psychologists built flowcharts. They debated whether thought was serial or parallel. They argued about bottlenecks and bandwidth as if the brain were an IBM mainframe with a caffeine addiction.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 10. -->
 
-But the real plot twist arrived when machines finally let us see what the mind was actually doing. EEGs, PET scans, fMRI---the alphabet soup of peering into the skull without having to open it. Suddenly, what had been metaphor became map.
+The trouble is that the brain's explanation of its work is another product of that work. Introspection can tell us what we seem to feel without reliably telling us how the feeling or decision was produced. People confidently explain choices with reasons that experiments suggest weren't their causes.[^v1-c4-nisbett] In some split-brain experiments, the speaking hemisphere supplies a plausible explanation for behavior prompted by information it did not receive.[^v1-c4-interpreter] In "choice blindness" experiments, people shown a photograph they didn't choose, by sleight of hand, will often defend the substituted choice, with reasons.[^v1-c4-choiceblind] None of this makes self-knowledge impossible. It makes the self's account evidence to examine, not a certificate it can issue to itself. In the language of our silicon mirror, training on your own answers is a poor way to build an independent test set.
 
-Layers emerged---literal ones:
+That's why the loop has to stay open. Normally, survival forces it open: the brain attends to deltas, to what the world says back, the way the retina's center-surround cells compare a spot with its neighbors. But a self has to strike a balance the retina doesn't. Accept the center too quickly, and you jump to conclusions, recognizing what you expected rather than what's there. Debate the surround forever, and you never act. Every classifier, biological or machine, lives on that threshold. And the self has a further temptation, a hardener on top of self-reference: cherry-picking. A mind that checks itself against itself can also choose which evidence gets to vote, attending to what confirms and explaining away what doesn't. Psychologists call it motivated reasoning.[^v1-c4-kunda] It feels like thinking. It's actually the loop quietly closing.
 
--   The **cortex**, folded like an overachieving accordion, hosting planning, language, introspection, and the elaborate excuses that pass for free will.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 11. -->
 
--   The **limbic system**, keeps chugging along underneath, handling emotion, threat detection, and the occasional impulsive decision we later blame on "a mood."
+When it closes, the self overfits. Interlude 2's model overfit by memorizing last year's exam; a closed self memorizes itself. Some predictive-processing accounts of psychosis examine how evidence and expectation receive the wrong relative weight, though the disturbance can differ across levels of processing; it is not simply believing everything too strongly.[^v1-c4-rigid] Research on extremist attitudes has also found associations with difficulty switching rules in laboratory tasks.[^v1-c4-zmigrod] Neither finding turns a metaphor into a diagnosis. But they give it something to work on: a person may become skilled at defending a story while losing the means to discover what the story excludes. The monster within, I've come to think, can grow in that protected space. Nothing gets in that might embarrass its landlord.
 
--   The **brainstem**, ancient, stubborn, and uninterested in our moral dilemmas---content simply to keep us breathing and upright.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 12. -->
 
-Kahneman later gave these tensions nicknames---System 1 and System 2---but the gist was already clear: the mind is not a monarchy. It's a coalition government with unreliable voting habits. Fast and slow, emotional and rational, instinctive and reflective---always negotiating, occasionally cooperating, and prone to coups.
+What keeps it open? A person can sometimes choose the world it ripples through: new cities, new friends, new teachers, even a dormitory shaped like a beer can. Other organisms also alter and select their surroundings; biologists call the feedback through environmental modification niche construction.[^v1-c4-niche] We add the unsettling possibility of doing it with an imagined future self in mind. Five centuries ago, Giovanni Pico della Mirandola imagined God telling Adam that, unlike other creatures, he had no fixed station and must shape himself.[^v1-c4-pico] That's the Pinocchian bargain: to become a real person is to have no guaranteed shelf, and to keep choosing where to stand. And Chapter 3's dream hypothesis offers an analogy. If strange dream experience helps prevent a brain from overfitting to its day, might a life of moves help prevent a person from overfitting to one place?
 
-Psychology today wanders freely across borders---into neuroscience, genetics, evolution, computation. But it keeps one allegiance no other discipline does: **it still cares about the person**. Not just the firing patterns, but the bewildered creature living inside them. The one who dreams, suffers, lies, heals, and occasionally buys self-help books at 2 a.m.
+Looking back, I can see the pattern in my own life, though I didn't plan it. The beer can let in a world no shelf had prepared me for. Madison, before long, would let me out from under a philosophy whose ceiling had been built in advance. And after that, the West. I'd like to say I knew I was keeping a loop open. Mostly, I was just moving. But the rabbit hole suggests the moves were doing something the mover didn't have to understand.
 
-And that is why this chapter matters. Psychology isn't just brain mechanics; it's the operating system of experience. The monster within isn't malicious. It's layered. A chorus of impulses, predictions, habits, and stories---most of which begin before we're aware of them.
+<!-- AI-assisted targeted addition, 2026-10-27: Alice extension; open conjecture, not a result attributed to the cited experiments; for author revision. -->
 
-By the time I walked into the beer can---freshly registered, freshly independent, neurons buzzing like a newly plugged-in appliance---psychology had already traveled from candle-lit introspection to neural cartography. What I was about to discover is what psychologists had been hinting at for decades:
+Here is the further wager. Perhaps a person changes most deeply not when a belief changes, but when the rule for admitting evidence changes: whose objection counts, what failure must be noticed, which encounter can no longer be dismissed. Could we distinguish a self that merely acquires new answers from one that changes what it permits to count as a question? And could a chosen environment help produce that second change without merely installing a different orthodoxy? Novelty alone will not do; a cult can offer an entirely new wardrobe. The test would be whether the person becomes more capable of correction, including correction of the new story. That remains a question to work on, not a theorem smuggled out of Chapter Φ.
 
-**the mind is not one thing, but many---stacked, competing, improvising.**\
-A cathedral of layers, each one convinced it's in charge.
+## Minds Made of Layers
 
-Chapter 3 stayed mostly inside the skull: how neurons, circuits, and regions give rise to prediction, story, and consciousness. Here, we shift from **brain** to **mind** --- from wiring to habits, glitches, and the strange loops of personality and morality. If neuroscience asks *how does the machinery work?*, psychology asks *what does it actually do to a person's life from the inside?* Chapter 5 will then ask what happens when thousands of those lives lock into shared rhythms.
+For most of human history, psychology suffered from a technical limitation: the only available measuring instrument was the mind itself. It was like trying to weigh a scale by standing on it, or judge a mirror by staring harder. Still, early thinkers gave it their best shot. They closed their eyes, took philosophical notes and tried to reverse-engineer themselves from the inside out. The results were... mixed.
 
-## **The Self in Splinters --- Personality, Psychopathology, and the Spectrum of Minds**
+Plato gave reason the reins of a chariot drawn by two horses, one spirited and cooperative, the other unruly and appetitive. I would still like to know who trained the second horse, and whether the chariot was insured. Freud later replaced the whole stable with a basement full of repressed wishes, angry ghosts and a superego that sounded suspiciously like his mother. Valuable metaphors, yes, but a bit like diagnosing a radio by studying Greek tragedy.
 
-Once we accept that the mind is layered---half cathedral, half committee meeting---we run into the next uncomfortable truth: no two minds assemble themselves the same way. The "self" feels like a solid object when we're living inside it, but in practice it's a probability cloud: a temporary equilibrium perched on a spectrum so wide it could double as a national park.
+For a while, influential behaviorists tried to clean up psychology by excluding introspection from its scientific method. The behaviorists declared the mind off-limits: too messy, too subjective, too poetic. If you couldn't see it, time it or bribe it with food pellets, it wasn't science. Pavlov's dogs salivated, Skinner's rats pressed levers, and the human psyche was temporarily demoted to a black box with a treat dispenser.
 
-And somewhere along that spectrum lives one of psychology's most revealing arenas: **psychopathology**---the study of what happens when the mind's layers fall out of tune.
+Then came the cognitive revolution, the moment psychology looked at the rising world of computing and thought: *Ah, yes, that's me.* The mind became an information processor; attention, perception, memory and language became modules and buffers. Psychologists built flowcharts. They argued about bottlenecks and bandwidth as if the brain were an IBM mainframe with a caffeine addiction.
 
-But before we dive into disorder, we have to at least pretend we understand order. Enter personality psychology---the scientific attempt to map what makes people reliably themselves. The Big Five---Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism---became the reigning model not because it decoded the soul, but because it outperformed everything else in predicting how humans behave in the wild.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 16. -->
 
-Still, the edges of those traits fray quickly:
+The real plot twist arrived when machines finally let us watch. Magnetic resonance imaging gave us detailed pictures of the living brain's structure by the 1980s, and early functional MRI studies used changes in blood oxygenation to infer activity during a task.[^v1-c4-fmri] Freud's couch had been upgraded to a control room, though its screens measured a vascular response, not thoughts themselves. The maps revealed interacting networks, with emotion and deliberation woven through them rather than stacked as an old beast beneath a new accountant. Even the default mode network, relatively more active during many resting conditions than during demanding external tasks, was busy with forms of internally directed thought.[^v1-c4-dmn] Doing nothing, apparently, required personnel.
 
--   High **Neuroticism** can look like sensitivity, or like doomscrolling with biological assistance.
+Daniel Kahneman later popularized the nicknames System 1 and System 2 for fast, largely automatic processing and slower, effortful processing. These are useful families of operations, not two little brains, but the gist was already clear: the mind is not a monarchy. It's a coalition government with unreliable voting habits, occasionally cooperating and prone to coups.[^v1-c4-kahneman]
 
--   High **Openness** can lead to creativity, or to believing your toaster is flirting with you.
+### Remembering: The Tuning Fork
 
--   **Agreeableness** sometimes dissolves into people-pleasing; **Conscientiousness** can ossify into obsession.
+Memory is where the person lives longest, so it's worth a closer look. When I watch myself trying to recall something, it feels less like opening a file than like striking a tuning fork. The attempt sends a pattern through the brain, and somewhere among the countless patterns already humming, one answers: it resonates, and the memory arrives. Strike the wrong fork, and its hum can drown out the right one; the name sits on the tip of your tongue, blocked, until the noise settles. That uncanny familiarity without a place to put it is also how déjà vu feels to me; the tuning fork is my description of the experience, not its established mechanism.
 
-Personality is stable, yes---but porous. A single sleepless week can turn virtue into vulnerability.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 19. -->
 
-Clinical psychology steps in when those trait patterns cross the boundary from "quirky" to "can't function." And in those extremes, we glimpse truths about the mind that normality hides.
+My amateur introspection has relatives in serious theory, though they are doing different jobs. Stephen Grossberg's adaptive resonance theory describes a match between incoming patterns and learned expectations, helping a system learn new categories without endlessly overwriting old ones.[^v1-c4-art] John Hopfield's networks offer another mechanism: learned connections make certain patterns stable, so a partial cue can lead the network back toward a stored pattern. It can also settle into the wrong pattern, or a mixture never deliberately stored.[^v1-c4-hopfield] Hippocampal pattern completion gives biological support to the idea that a fragment can bring back linked parts of an episode.[^v1-c4-completion] And Endel Tulving and Donald Thomson's encoding-specificity principle explains why a cue's usefulness depends on how it relates to the original encoding.[^v1-c4-tulving] Brewing malt on I-94 does not contain my first year in Milwaukee. It has an excellent forwarding address.
 
--   **Depression** is not sadness; it is the gravitational collapse of motivation, reward, and narrative.
+<!-- AI-assisted targeted addition, 2026-10-27: memory reconstruction, source monitoring and maintained traces; for author revision. -->
 
--   **Anxiety** is not fear; it's the mis-routing of an ancient predator-avoidance system into a modern world where the predator is the inbox.
+But an answer arriving is not the same as an answer arriving with valid papers. Memory reconstructs; it does not simply replay. A familiar image may come from something witnessed, something read or something vividly imagined. Source monitoring is the work of judging where it came from, using contextual and sensory detail, traces of the mental operations involved, and what we know about the situation.[^v1-c4-source] Familiarity can arrive before that checking succeeds. The memory feels present; its passport is missing. Confidence is not a substitute for provenance.
 
--   **Schizophrenia** is not simply hallucination; it's the erosion of the membrane between thought and world---the failure of the inner narrator to distinguish self from signal.
+![Remembering from a fragment: a cue can reinstate linked parts of an episode, but familiarity and reconstructed detail still need source checking. The same felt familiarity can accompany a correctly placed memory or a mistaken attribution. Solid circles show the cue; open and dashed circles illustrate reinstated and uncertain detail. Original conceptual schematic; the stages interact and are not a literal neural assembly line.](assets/04-chapter/memory-reconstruction.svg){#fig-v1-c4-memory-reconstruction width=100% fig-alt="A partial cue reaches overlapping memory traces. Reconstruction may recover associated details or blend them. A separate conceptual panel compares familiarity with checks on context and origin; confidence alone does not determine whether the attribution is accurate."}
 
-Yet perhaps the most revealing category is the so-called **spectrum disorders**---autism, ADHD, bipolarity, and mood variations---where the boundary between pathology and neurodiversity blurs. These aren't binary states; they're alternate configurations of cognition. What one era calls "disorder," another might call specialization. (Half the Enlightenment might qualify as "subclinical hypomania" today. Half the tech industry certainly does.)
+The tuning fork is alive, too. Synapses, cells and molecular processes must maintain the conditions under which a pattern can return; a wiring diagram alone leaves much out.[^v1-c4-maintenance] Yet a memory need not be continuously replayed to remain available. In a working-memory experiment, a temporarily unattended item became detectable again after magnetic stimulation, even when its active signature had dropped below the researchers' ability to decode it.[^v1-c4-latent] That is evidence about recoverability, not a brain switched off and restarted. Sleep is active, and surgical cooling is no proof that identity survives any interruption. I am tempted to call the living arrangement a *dynamic serialization*: the dance helps maintain the conditions for another dance. What must persist for that dance to remain mine is the harder question.
 
-Here, psychiatry meets philosophy. Diagnosis becomes cultural artifact. A mind "splintered" in one environment may be celebrated in another---as prophet, innovator, or eccentric uncle.
+Psychology today wanders freely across borders: into neuroscience, genetics, evolution and computation. But it keeps one allegiance no other discipline does. It still cares about the person: not only the firing patterns, but the bewildered creature living inside them, the one who dreams, suffers, lies, heals and occasionally buys self-help books at 2 a.m.
 
-Genetics, of course, complicates everything. Twin studies, GWAS, polygenic scores---they remind us the psychological deck is shuffled long before the first memory forms. Traits cluster. Risk factors stack. But environment still holds the pen. Epigenetics, childhood stress, prenatal chemistry, and the random roulette wheel of lived experience carve the final contours. The genome is the blueprint; the world is the construction crew; chance is the foreman with a gambling problem.
+## The Self in Splinters
 
-Add neuroplasticity to this mix and the self becomes a moving target. Trauma can rewire attention. Therapy can strengthen new circuits. Meditation alters default-mode behavior. Psychedelics can scramble and reassign meaning. The mind that wakes each morning is never the same mind that went to sleep.
+Once we accept that the mind is layered (half cathedral, half committee meeting), we run into the next uncomfortable truth: no two minds assemble themselves the same way. The self feels like a solid object when we're living inside it, but in practice it's a probability cloud, a temporary equilibrium perched on a spectrum so wide it could double as a national park.
 
-And through it all, culture shapes the outer shell:\
-what counts as distress, what counts as deviance, what counts as divine.\
-Somewhere, a monk and a clinician are disagreeing about whether a visionary is enlightened or in need of antipsychotics.
+Before we can talk about disorder, we have to at least pretend we understand order. Personality psychology is the scientific attempt to map what makes people reliably themselves, and one widely used descriptive model, the Big Five (openness, conscientiousness, extraversion, agreeableness and neuroticism), summarizes recurring patterns of variation rather than decoding their causes.[^v1-c4-bigfive] Still, the edges of those traits fray quickly. High neuroticism can look like sensitivity, or like doomscrolling with biological assistance. High openness can lead to creativity, or to entertaining the possibility that your toaster is flirting with you. Agreeableness sometimes dissolves into people-pleasing; conscientiousness can ossify into obsession. Personality is stable, yes, but porous. A single sleepless week can turn virtue into vulnerability.
 
-In the end, the self is not split---it is **pluripotent**. A flexible, fragile, adaptive system capable of fracturing, rebuilding, compensating, and occasionally transcending. Psychology's gift is not to label these splinters as aberrations, but to map their origins, reveal their patterns, and dignify the full spectrum of minds that call themselves "I."
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 23. -->
 
-## **Consciousness and Control -- Free Will, Trolleys, and the Taming of Impulse**
+Clinical psychology steps in when patterns produce substantial distress or impairment; unusual is not by itself a diagnosis. Depression can collapse motivation and reward as well as mood. Anxiety can keep threat detection on duty long after the predator has become an inbox. Psychosis can disturb perception, belief and the sense of where experiences originate, though no single broken "self versus signal" switch explains schizophrenia. Autism and ADHD are neurodevelopmental conditions; bipolar disorder concerns, among other things, episodes of altered mood and energy. They do not form one interchangeable spectrum. The environment can make a difference to disability without making every difficulty an invention of social disapproval. Armchair diagnosis would give half the Enlightenment hypomania and half the tech industry a standing appointment. Somewhere, a monk and a clinician are disagreeing about whether a visionary is enlightened or needs help. Neither should diagnose him from the jacket copy.
 
-Consciousness likes to imagine itself in charge. It pictures itself as the pilot in the cockpit, hand on the throttle, surveying the landscape with noble intention. But the more we study the mind, the more the cockpit begins to look like a movie set: impressive switches, no wiring in the back. The pilot might just be a passenger with a strong Wi-Fi signal.
+Genetics complicates everything. Large genetic studies find many contributing variants, generally with small effects, and some shared influences across psychiatric diagnoses.[^v1-c4-polygenic] Genes participate in development rather than supplying a finished blueprint. Childhood stress, prenatal conditions and lived experience interact with that inheritance. The construction crew works from instructions it keeps interpreting, while chance is the foreman with a gambling problem. Add the livewired brain of Chapter 3, and the self becomes a moving target. Trauma can rewire attention; therapy can strengthen new circuits. The mind that wakes each morning is never quite the mind that went to sleep.
 
-Gödel would approve. Any system complicated enough to describe itself ends up tangled in contradictions. Consciousness is basically the mind's attempt at proving its own theorem of control---and discovering the proof doesn't fit in the margins.
+In the end, the self isn't split; it's pluripotent: a flexible, fragile, adaptive system capable of fracturing, rebuilding, compensating and occasionally transcending. Psychology's gift is not to label the splinters as aberrations but to map their origins and dignify the full spectrum of minds that call themselves "I."
 
-The question of **free will** sits precisely at this tension point. Do we choose, or are we chosen by our neurons, hormones, and childhood mishaps? Libet's now-iconic experiments in the 1980s threw gasoline on this philosophical bonfire. His electrodes caught the brain initiating movement milliseconds before conscious intention arrived to claim credit. Neuroscience's version of: "Thanks for your service, but the paperwork has already been filed."
+## Free-ish Will
 
-Modern fMRI studies go further, predicting choices seconds before we experience them. Free will starts to look like post-production.
+Consciousness likes to imagine itself in charge, a pilot in the cockpit with a hand on the throttle. But the more we study the mind, the more the cockpit looks like a movie set: impressive switches, no wiring in the back. The pilot might just be a passenger with a strong Wi-Fi signal.
 
-And yet---we **do** experience choice. And experience matters.
+The experiment behind Libet's 1985 argument was modest in method. No one was asked to sacrifice themselves for science; they were asked to wiggle. Volunteers flexed a wrist whenever they felt like it and reported, by watching a fast clock, the moment they decided. A wave of brain activity called the readiness potential began several hundred milliseconds *before* the reported decision. The brain, it seemed, had started the action before the mind finished its speech about doing it. Later studies using fMRI found patterns that could predict a simple choice up to several seconds in advance, though only modestly better than a coin toss.[^v1-c4-soon] Consciousness, on the unsettling reading, is late to its own party and spends most of its time explaining decisions it didn't make: less a pilot than a press secretary, very busy, very articulate and mostly after the fact.
 
-Kahneman's dual-process theory gives us a practical way to understand this inner tug-of-war:
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 27. -->
 
--   **System 1**: fast, instinctive, emotional, evolution's autopilot
+The science has since added a twist worth knowing. Aaron Schurger, Jacobo Sitt and Stanislas Dehaene modeled spontaneous movement as noisy neural activity accumulating toward a threshold. Align many trials backward from the moment of movement and average them, and a readiness-like ramp appears; the ramp need not mark an earlier, completed decision.[^v1-c4-schurger] In a later experiment comparing arbitrary button choices with considered choices about donations, the familiar readiness potential appeared in the arbitrary condition but not in the same way in the deliberate one.[^v1-c4-maoz] Neither result proves free will. They do make the leap from choosing when to twitch to choosing a career look rather athletic.
 
--   **System 2**: slow, effortful, rational, evolution's optional upgrade
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 28. -->
 
-The catch is that most of what we call "will" is System 1 firing first, and System 2 writing a well-reasoned apology afterward. Free will, if it exists at all, may consist of **editing impulses**, not generating them.
+Philosophers, confronted with this mess, did not all throw up their hands and go into accounting. Many reached for compatibilism: you don't need a magical exemption from physics to be free; you need your actions to flow from your own values, memories, character and deliberation, even if those were shaped by the past.[^v1-c4-dennett] I don't believe in free will. But that does not oblige me to claim that the universe is demonstrably deterministic, or that deliberation does nothing. A reason heard, an imagined consequence or a conversation can change what the brain does next. Those causes do not become unreal because they operate through me. The person need not stand outside causation to participate in it.
 
-Nowhere does this tension reveal itself better than in morality's favorite parlor trick: **the trolley problem**.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 29. -->
 
-First version: Train heading for five people. Pull a lever, kill one instead. Most people say yes. Numbers look clean. Utilitarianism nods approvingly.
+Morality's favorite parlor trick exposes some of that participation. A runaway trolley is heading for five people; pull a lever, and it kills one instead. Many people say yes; the numbers look clean. Now you must push a large man off a footbridge to stop the trolley. Suddenly the arm gets heavy. The arithmetic survives, but the action changes: personal force, intention and using someone as a means affect judgment, not simply whether skin touches skin.[^v1-c4-trolley] The psychological machinery weighs features the head count misses. Damage can alter that weighing. Phineas Gage, the railroad foreman who survived an iron rod through his frontal lobes, became a famous case of changed behavior. His later ability to work also matters: the endlessly repeated story of a personality permanently demolished leaves out evidence of adaptation.[^v1-c4-gage] A person is injured in time, and may recover in time; neither the skull nor the anecdote should be treated as a sealed box.
 
-Second version: Same five people. But now you must push a large man off a bridge to stop the trolley. Suddenly the arm gets heavy.
+The elbow room varies. Cognitive biases tilt our decisions along grooves carved by prior information and social cues. Addiction drives a wedge between wanting and liking: the brain's dopamine circuits keep a person craving what they no longer enjoy or endorse, a compulsion that feels alien and yet inescapably theirs.[^v1-c4-wanting] Mental illness can shred the boundary between impulse and intention. And sometimes the machinery itself is bent: in one well-documented case, a man developed disturbing new urges that vanished when a tumor pressing on his frontal lobe was removed, and returned when the tumor regrew.[^v1-c4-tumor] Whatever we call these capacities for control, they are neither simple nor evenly distributed. Courts already act as if they know this, granting some defendants fewer "free-will credits" through terms like diminished capacity and insanity, though how a society should design its justice around that fact is a question for later chapters.
 
-Why? Because System 1 does not like being cast in a starring role in someone else's demise. Math hasn't changed, but **contact** has. Psychology quietly overrules philosophy.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 31. -->
 
-This is not a bug. This is the human condition. Our moral machinery is not a tidy algorithm---it's a coalition government between emotion, instinct, and logic, with nobody ever fully in charge.
+The capacity for control, then, is more like a dimmer than a light switch. Habit, attention, fatigue, practice and the situation change what a person can inhibit or reconsider. That does not settle the metaphysics; it tells us where to look for useful leverage. Early experiments suggested that undermining belief in free will increased cheating, but larger replication attempts did not reliably reproduce that result.[^v1-c4-belief] The experience of agency is itself a construction: predictions about our actions, their observed effects and the surrounding context contribute to the feeling that "I did that."[^v1-c4-agency] A feeling of control can be mistaken. Actual control can also improve. Confusing the two would be an unfortunate way to demonstrate our mastery of the subject.
 
-Modern neuroscience gives the cast list:
+<!-- AI-assisted targeted addition, 2026-10-27: appraisal and reappraisal mechanism; for author revision. -->
 
--   **Prefrontal cortex**: the thoughtful moderator, trying to stop everyone from yelling
+One way that improvement happens is through appraisal. An unanswered message can be read as rejection, distraction or a dead battery; the interpretation helps organize the emotion and the next action. Reappraisal changes the interpretation rather than merely hiding its expression. In James Gross's experiments with disturbing film, participants asked to reinterpret what they saw showed a different emotional and physiological response from those asked to suppress outward signs of feeling.[^v1-c4-reappraisal] Neither strategy is universally best. Sometimes the message really is rejection, and an endlessly charitable reinterpretation is just motivated reasoning in nicer clothes. The useful skill is to keep an interpretation revisable long enough to choose a response worth having.
 
--   **Amygdala**: the fire alarm, often miscalibrated
+A line often credited to Viktor Frankl, without a verified source in his writings, places a space between stimulus and response.[^v1-c4-frankl] It is a good image, not a measured gap in the neurons. Reflection, practice and help from outside can change the response that becomes possible. In that work lives the monster within, and some of what may tame it.
 
--   **Anterior cingulate**: the referee, noticing conflicts but not resolving any
+## The Monster as Continuum
 
-When these regions are compromised---as with Phineas Gage---the person doesn't lose their "soul," but their filters. Impulse leaks where inhibition once lived. Morality becomes ungrounded not by evil, but by electrical rerouting.
+There comes a point in many lives (not always at rock bottom, more often somewhere in the creaking floorboards of middle years) when you look inward and realize that there are parts of you that you wouldn't hire to babysit your better self: a flash of anger that comes too quickly, a petty thrill when a rival trips, the quiet talent for rationalizing what, in others, you'd call selfish. Most of us manage these impulses with a running commentary: *I shouldn't have said that; I'll do better next time*. That commentary, awkward and self-protective and often late, is the sound of a psyche trying to integrate its monster rather than outsource it. It's also the loop staying open.
 
-So what is free will? If it isn't sovereign control, perhaps it is **negotiated control**---an emergent property of competing constraints: biology, environment, history, and the thin sliver of awareness that can sometimes say, "Let's not push the large man today."
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 33. -->
 
-Viktor Frankl framed it best: between stimulus and response, there is a space. Neuroscience has shown that space to be smaller and more precarious than we'd like. But it exists. And defending that space---expanding it through reflection, practice, and compassion---may be the central moral act of being human.
+Now consider the limits of reading another person from the outside. Jeffrey Dahmer, the Milwaukee killer, did things so grotesque that our first instinct is to file him under another species and move on. In his interviews, his flat, mechanically articulate account of himself makes that filing harder. But a performance, even a confession, does not let us measure felt remorse. Experts disagreed at his trial; the jury rejected the insanity defense and found him legally responsible.[^v1-c4-dahmer] That verdict answered a legal question. It did not settle every question about his mind. Planning and concealment can coexist with appalling indifference to another person's life. Knowing how to manage people is not the same as caring what happens to them.
 
-Because in that space lives the monster within, and also the only thing that can tame it.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 34. -->
 
-## **The Moral Mind --- Empathy, Norms, and the Collective Superego**
+No single factor explains such a person: not genes, not early stress, not development, not a social world that missed warning signs. Nor does ordinary selfishness put someone on a conveyor belt toward murder. The disturbing continuity lies in shared human capacities, combined and developed in radically different ways, not a single scale with an absent-minded neighbor at one end and a serial killer at the other. Alice's sealed loop is one question to bring to the case, not its diagnosis. The worst cases still confront us with something difficult: they are human minds. Calling them another species lets our explanation leave the room before the victims do.
 
-If neuroscience is the study of the brain's wiring, and psychology the study of its glitches, then morality is what happens when the wiring and the glitches start worrying about other people.
+<!-- AI-assisted targeted addition, 2026-10-27: recovered punishment-as-pruning thread, kept at person level; for author revision. -->
 
-It's that inner voice that says, *Yes, I could... but maybe let's not do that in front of witnesses.* It's also the part of us that occasionally volunteers *even when there are no witnesses*, which is where things get interesting.
+It also changes the question we ask of punishment. If it is a kind of pruning, what are we trying to remove: a harmful action, a learned pattern, or the person who carries it? Restraint may be necessary to protect others. But suffering imposed is not, by itself, evidence that anything has been learned or repaired. The psychological question is whether the person can acquire a different response, under what conditions, and with what limits. The branch is not a bug in an otherwise innocent tree. We will come to the gardener later.
 
-### From Mirror Neurons to Moral Emotions
+## The Moral Mind
 
-At street level, the moral mind doesn't look like a halo. It looks like a handful of very mortal brain regions arguing over how strongly we should care.
+If neuroscience is the study of the brain's wiring, and psychology the study of its glitches, then morality is what happens when the wiring and the glitches start worrying about other people. It's the inner voice that says, *Yes, I could, but maybe not in front of witnesses*. It's also the part of us that occasionally behaves well even when there are no witnesses, which is where things get interesting.
 
-The **insula** and **anterior cingulate cortex** flare when we see someone else in pain, as if the brain were running a small simulation: *What if that were my toe under that table leg?* Those so-called **mirror neurons** in premotor and parietal areas join in, mapping another body's movement onto our own circuitry. Hence the involuntary wince when a stranger walks into a glass door.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 35. -->
 
-But empathy alone doesn't make a moral agent; it just gives you shared flinching. To turn *feeling with* into *acting for*, the signal has to pass through the **prefrontal cortex**---the diplomatic service of the brain. That's where "Ouch" is negotiated into "Don't do that" or "Let's intervene." Damage that region and you don't just lose restraint; you lose some of the scaffolding on which moral concern sits.
+At street level, the moral mind doesn't look like a halo. Parts of the anterior insula and cingulate cortex respond both to one's own pain and to cues that someone else is in pain, though the overlap does not mean we reproduce their whole experience. Hence the appeal of that little simulation: *what if that were my toe under the table leg?* Mirror neurons, first studied in macaque action and observation, do not by themselves explain human empathy.[^v1-c4-mirror] Feeling with someone, understanding their perspective and wanting to help them are distinguishable capacities.[^v1-c4-compassion] A skilled manipulator may understand you beautifully. A compassionate person may help without feeling your pain at full volume. No single prefrontal checkpoint stamps "ouch" into "ought."
 
-Then come the chemical lobbyists:
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 36. -->
 
--   **Oxytocin** whispers, *Trust them, they're one of us*---and quietly excludes everyone who isn't.
+Then come the chemical lobbyists, whose portfolios are less tidy than the popular press suggests. Some experiments administering oxytocin found increased favoritism toward an in-group, under particular social conditions; that is not a universal trust serum.[^v1-c4-oxytocin] In one study, lowering serotonin availability made people more likely to reject unfair offers without changing how unfair they judged them.[^v1-c4-serotonin] The reaction changed without the stated moral standard changing. Put together, we get interacting networks and bodily states influencing whose needs command attention and what we do about them. Chemistry enters the argument. It does not arrive carrying a pocket constitution.
 
--   **Cortisol** dials up moral reactivity under stress, so a traffic jam can feel like a betrayal of the social contract.
+<!-- AI-assisted targeted addition, 2026-10-27: recovered collective-superego thread, kept within personhood; for author revision. -->
 
--   **Serotonin** weighs in on fairness and impulse control, making sure you don't upend the Monopoly board every time you land on someone else's hotels.
-
-Put together, you get something less like a single "moral center" and more like a parliamentary system: regions, transmitters, and networks all lobbying over who deserves our care, when, and how much effort it's worth.
-
-### Psychology's Great Experiments in Morality
-
-If brain scans give us the geography of moral feeling, psychology's classic experiments give us the weather report---and it is changeable.
-
--   **Milgram's obedience studies** showed that ordinary people, given a lab coat and a clipboard in the room, would administer shocks they believed to be lethal. Not because they were villains, but because *"the man in charge told me to."*
-
--   **Zimbardo's Stanford prison experiment** demonstrated how quickly roles and context can warp behavior. Give one group uniforms and keys, the other group numbers and cots, and cruelty blooms in days, not generations.
-
--   The **trolley problem**, in its many variations, reveals that we are armchair utilitarians until someone asks us to push a very real (or vividly imagined) person off a bridge. The math stays the same; the body count changes by one; our gut reaction changes entirely.
-
-Taken together, these aren't just party tricks for ethics seminars. They reveal a pattern we'd rather not see:
-
-We are not consistently moral creatures. We are creatures whose moral behavior is exquisitely sensitive to **context**---to who is watching, which story is being told, what we think "people like us" are supposed to do.
-
-The monster within, it turns out, doesn't always roar. Sometimes it simply shrugs and follows instructions.
-
-### The Collective Superego
-
-Freud imagined a **superego**: a stern internal parent built out of authority figures and childhood scoldings. In the twenty-first century, that stern voice has gone cloud-based.
-
-Our moral expectations now flow through:
-
--   **Social norms**: the unwritten rules we absorb about what "people like us" applaud or shun.
-
--   **Media narratives**: the heroes and villains we're taught to cheer or boo, who quietly define what counts as admirable, shameful, or "normal enough."
-
--   **Algorithmic feeds**: moral weather systems tuned not to truth, but to attention---surfacing outrage, reinforcing in-group loyalties, and teaching us which sins get likes and which ones get buried.
-
-The result is a kind of **collective superego**: a distributed, constantly refreshing conscience that lives outside us but feels like it lives inside us. We internalize the crowd's gaze, then call it "my values."
-
-Like language, this is both a gift and a vulnerability. Shared norms let millions of strangers stand in line at airports without stabbing each other. But the same machinery can be hijacked---by propaganda, by tribalism, by engagement-hungry algorithms that discover moral panic is good for click-through rates.
-
-Scaffolding is wonderful until someone decides to hang you from it.
-
-### AI, Morality, and the Simulation of Ethics
-
-Just as psychology once borrowed metaphors from computing, computing is now borrowing problems from morality. Somewhere in a conference room, an engineer is being asked:
-
--   Who should an **autonomous vehicle** protect in a crash?
-
--   Which posts should a **content moderation system** delete, demote, or quietly ignore?
-
--   How should a **healthcare algorithm** allocate scarce treatments when you can't save everyone?
-
-These are trolley problems with legal departments.
-
-But there is a crucial asymmetry. Humans feel **guilt**, **shame**, **remorse**; we toss and turn after getting it wrong. A machine, no matter how sophisticated, doesn't wake up in the middle of the night wondering if it was fair.
-
-So any "morality" we build into AI is, at least for now, **functional rather than felt**---a set of rules, loss functions, and guardrails. That doesn't make it meaningless. It does mean the responsibility for those rules remains stubbornly human.
-
-When we later step into the informational sphere in Part III, this section will serve as a reminder: we are not just asking what machines *can* do; we are encoding what we think is acceptable for *us* to do by proxy.
-
-### So Where Does That Leave Us?
-
-If the monster within is real---a bundle of impulses, biases, and context-sensitive shortcuts---then so is whatever stands at its gate.
-
-Morality is not a static rulebook stored in some cortical filing cabinet. It's more like a **dance**: an improvisation between emotion, reason, and culture. We stumble, copy better dancers, change partners, learn new steps. What we call a "conscience" may be, in technical terms, a continually updated predictive model shaped by pain, empathy, stories, and a lifetime of negotiations over who gets the bigger slice.
-
-And yet, that model matters.
-
-Because if our moral sense is fragile and hackable, then designing families, schools, platforms, and laws is not just a matter of efficiency; it's a matter of **who we become under their influence**.
-
-The monster within is not just something to fear. It's also a mirror, showing us where our systems bend us and where we still have room to bend back.
-
-In the next section, when we turn to **free will**, we'll zoom in on that thin space between impulse and action---the place where the monster lunges, the collective superego clears its throat, and something in us decides, however briefly, which one to listen to.
-
-## **The Architecture of Free Will --- From Libet to the Legal System**
-
-Our thoughts and decisions *feel* free; but are they?
-
-Free will is the psychological equivalent of quantum mechanics: the more closely you look, the less stable your old certainties seem. Psychologists, neuroscientists, and legal systems all behave as if there's a shared understanding of what it means to "choose" --- and yet none of them agree on when, how, or even *if* choosing actually happens.
-
-### Libet and the Brain That Jumps the Gun
-
-By the time I "found myself" in the beer-can dorm, Benjamin Libet had spent a few years wiring up volunteers and timing their urges to flick a wrist. His main experiment had already hit the journal **Brain**, and now his follow-up paper was making the rounds in **Behavioral and Brain Sciences**, turning a lab curiosity into a full-blown free-will argument. In the grand catalogue of human experiments, this sounds modest. No one was asked to sacrifice themselves for science; they were asked to wiggle.
-
-Libet wired volunteers up to an EEG, pointed them at a clock, and said something like: "Flex your wrist whenever you *feel like it*, and tell me the exact moment you decided to move."
-
-What he found was the psychological equivalent of a jump scare.
-
-A predictable wave of brain activity --- the **readiness potential** --- showed up a few hundred milliseconds *before* people reported making the decision. The brain, it seemed, had already started the action before the mind had finished its speech about doing it.
-
-Later studies with fMRI pushed the insult further, showing unconscious patterns that could predict simple choices seconds in advance. Ten seconds is an eternity at neural timescales. Long enough to make you wonder whether your next "spontaneous" snack was already penciled into your brain's calendar while you were still congratulating yourself on your discipline.
-
-The unsettling reading of these results is:
-
-Consciousness is late to its own party, and spends most of its time explaining decisions it didn't make.
-
-Critics point out that deciding when to twitch a wrist is not the same as choosing a career, a partner, or whether to defect from an unjust regime. True. But the experiment hit a nerve because it cracked the story we like to tell ourselves: that somewhere in the control room, a little pilot labeled "Me" pulls levers in real time.
-
-Libet's data suggested the pilot may be more like a press secretary: very busy, very articulate, and mostly after the fact.
-
-### Free-ish Will: The Compatibilist's Compromise
-
-Philosophers, confronted with this mess, did not all throw up their hands and go into accounting. Many of them reached for **compatibilism** --- the idea that you can be both caused and free, so long as the causing runs through the right channels.
-
-The compatibilist answer goes something like this:
-
-"You don't need magical exemption from physics to have free will. You need your actions to flow from your own values, memories, character, and deliberations --- even if *those* were shaped by the past."
-
-If your decision to help a stranger is the result of a lifetime of experiences, stories, and habits that you recognize as "you," then it counts as yours, even if a physicist could, in principle, trace every ion in your neurons back to the Big Bang.
-
-This is where psychology wanders onto the stage as the slightly frazzled middle manager between metaphysics and the courts. It doesn't decide what "real" free will is. It maps the **processes** that stand between stimulus and action:
-
--   automatic vs. reflective thinking,
-
--   habits vs. deliberate plans,
-
--   impulses vs. inhibition,
-
--   moods, memories, and narratives that bias the whole game.
-
-Once you see that, the question isn't simply "Do we have free will?" but "**How much elbow room do we have in this particular situation, with this particular brain, under these particular pressures?**"
-
-### Bias, Addiction, and When Agency Frays
-
-Here is where the neat compatibilist slogan runs into the messiness of real minds.
-
--   **Cognitive biases** quietly tilt our decisions: confirmation bias, anchoring, framing. We think we are "choosing," but often we're just sliding along grooves carved by prior information and social cues.
-
--   **Addictions** hijack the brain's reward circuitry. Wanting and liking drift apart; the person finds themselves doing what they no longer endorse, driven by cravings that feel alien and yet inescapably theirs.
-
--   **Mental illnesses** such as OCD, depression, bipolar disorder, or schizophrenia can shred the boundary between impulse and intention. Was it "you" that acted, or the illness wearing your nervous system like a suit?
-
-Ask a judge, and you'll see how fast this gets practical. Are we still free when our freedom is compromised? If so, how much? Enough to punish? Enough to cage?
-
-Psychology can describe how the wires cross; it cannot, by itself, tell us how much moral weight to hang on them. But it does make one thing harder to ignore: whatever "will" is, it is neither simple nor evenly distributed.
-
-### Courtrooms and the Cult of Agency
-
-The law, meanwhile, operates on a simpler model --- because it has to.
-
-Every courtroom drama you've ever seen depends on **intent**. Murder versus manslaughter, negligence versus accident --- all turn on what was happening in someone's head.
-
-Modern legal systems are built on two big assumptions:
-
-1.  People could have done otherwise.
-
-2.  It is fair, and socially useful, to hold them responsible for not doing so.
-
-Enter neuroscience, striding into this tidy picture with scans that light up tumors, lesions, underactive amygdalae, and malformed frontal lobes. Suddenly, real cases arrive in which:
-
--   A brain tumor precedes a horrifying crime and, once removed, the offending urges vanish.
-
--   Structural or functional abnormalities correlate strongly with violent or compulsive behavior.
-
-These are not excuses in the playground sense. They are evidence that the machinery itself is bent.
-
-And so a tension grows:
-
--   If the brain causes behavior, **when do we stop blaming and start treating?**
-
--   But if we remove responsibility entirely, **what happens to deterrence, justice, and the sense that people are more than just broken machines?**
-
-Courts, being human institutions, try to split the difference with phrases like *diminished capacity* and *insanity defense*. Underneath those terms lurks an uncomfortable admission: we are already quantizing free will without saying so, granting some people fewer "free-will credits" than others.
-
-### Punishment as Pruning --- and What That Implies
-
-This is where your earlier thought about punishment as a **"pruning algorithm"** becomes useful --- and dangerous.
-
-If we quietly treat criminals as **bugs in the social system**, then punishment becomes a form of garbage collection:
-
--   Remove the harmful node,
-
--   Reduce the risk of that pattern recurring,
-
--   Send a message to the other nodes.
-
-Seen this way, prison is not about *getting back at* a person; it's about editing the system. We trim a branch from the tree, declare the trunk safer, and move on.
-
-There are two honest uses for such pruning:
-
-1.  **Deterrence** --- discouraging others from similar behavior.
-
-2.  **Reform / training** --- nudging the person back toward prosocial patterns.
-
-If those are the real goals, we ought to say so plainly. Because once you admit you're running a pruning algorithm, two design questions follow:
-
--   Could we achieve the same safety and deterrence **earlier**, with less suffering --- through education, economic design, social support, even well-governed forms of data-driven nudging?
-
--   Are there branches we keep cutting that were twisted by conditions we refuse to fix at the root?
-
-In later chapters --- especially when we talk about governance, justice, and NEURO's x-juris ideas --- this question will matter. Do we want a civilization that merely prunes after the fact, or one that **tends the tree** so fewer branches grow monstrous in the first place?
-
-For now, it's enough to notice: our current justice systems oscillate between pretending everyone has maximal free will and quietly admitting, case by case, that some don't.
-
-### The Everyday Illusion (and Why It Helps)
-
-All this might tempt you toward nihilism: *If neurons fire before I "decide," and half my choices are nudged by biases and childhood, why bother?*
-
-Because --- awkwardly --- believing you have no agency tends to make things worse.
-
-Experiments show that when people are told "free will is an illusion" in a blunt, decontextualized way, they:
-
--   cheat more on tasks,
-
--   show less willingness to help,
-
--   and report feeling less responsible for their actions.
-
-By contrast, people who maintain some belief in agency tend to show:
-
--   better self-regulation,
-
--   greater prosocial behavior,
-
--   and lower rates of anxiety and depression.
-
-It seems the **experience** of free will --- the felt sense of being the pilot --- is psychologically protective, whether or not the cosmos has signed off on it metaphysically. You might think of it as a **dashboard**: not a perfect representation of the engine, but a useful interface for steering.
-
-Under the hood, the brain is a prediction machine. It constantly forecasts what your body is about to do and how the world will respond. When those forecasts match what actually happens, you get a smooth, continuous feeling of "I meant to do that." When they don't, you feel glitches---slips of the tongue, out-of-character actions, moments when you say, *"I don't know what came over me."* What we call "free will" may partly be this predictive story, running just far enough ahead of action to make the whole performance feel authored from within.
-
-That dashboard can be distorted, of course: some people overestimate their control, others underestimate it. But ripping it out entirely doesn't make us more honest; it just leaves us staring at chaos.
-
-### Free Will as a Spectrum, Not a Switch
-
-Pulling back, one way to reconcile all this is to stop treating free will like a light switch and start treating it like a **dimmer**.
-
--   At one end, we have reflexes and ingrained habits: almost no conscious wiggle room.
-
--   At the other, slow, reflective deliberation: weighing options, imagining futures, overriding the first impulse.
-
--   In between lies the bulk of our lives: messy, biased, influenceable --- but not entirely scripted.
-
-Modern psychology maps this with ideas like:
-
--   **Fast vs. slow thinking** (the System 1 / System 2 distinction)
-
--   **Executive control** in the prefrontal cortex, modulating impulses
-
--   **Emotion-laden decisions** routed through limbic circuits that color our "rational" thought with fear, desire, or disgust
-
-Each choice we make is a **probabilistic dance** between stimulus, memory, mood, and context --- filtered through a model of "me" that the brain keeps updating.
-
-Physicists like Julian Barbour can argue that time itself may be a sequence of static snapshots rather than a flowing river. Philosophers can argue endlessly over determinism versus indeterminism. From the inside, though, what we feel is a small but real band of maneuver --- not infinite, not zero.
-
-That narrow band is where responsibility, growth, and regret live. It is also where systems do their most powerful shaping: families, schools, media, economies, and laws all reach in to widen or shrink that elbow room.
-
-Which brings us back to the monster within.
-
-If our freedom is partial, and our minds are so easily bent, then the question for the rest of this book becomes less "Do we have free will?" and more:
-
-**What are we building around people whose will was always going to be fragile, partial, and context-dependent?**
-
-In the next section, we'll leave the lab and walk into a darker room: a mind in which introspection fails almost completely, and the monster within is given free architectural license.
-
-## The Inner Monster --- Between Reflection and Regret
-
-There comes a point in many lives---not always at rock bottom, more often somewhere in the creaking floorboards of middle years---when you look inward and realize: there are parts of me I would not hire to babysit my better self.
-
-A flash of anger that comes too quickly. A petty thrill when a rival trips.\
-The quiet talent for rationalizing what, in other people, you would call selfish.
-
-Most of us manage these impulses with a running commentary: *I shouldn't have said that*, *I'll do better next time*, *I'm not proud of this, but...* That commentary---awkward, self-protective, sometimes late---is the sound of a psyche trying to integrate its monster rather than outsource it.
-
-Now consider what happens when that integration fails.
-
-### When Introspection Fails --- The Case of Jeffrey Dahmer
-
-Jeffrey Dahmer is a name that turned an entire city into a cautionary tale. He did things so grotesque that our first instinct is to file him under *other species* and move on. But the more you listen to his interviews, the stranger the picture becomes. He does not sound like a movie villain. He sounds...flat. Muted. Mechanically articulate. A man reporting on himself as if from the outside.
-
-Psychiatrists who examined him described a blend that should not coexist in one skull:
-
--   High-functioning planning and deception.
-
--   Profound deficits in empathy and emotional resonance.
-
--   Obsessive, controlling fantasies wrapped around a hollow core.
-
--   A striking lack of felt remorse, paired with a kind of intellectual recognition that what he'd done was monstrous.
-
-It's not a mind overcome by wild impulse. It is a mind that never successfully stitched together desire, consequence, and moral self-image into a single story. The "I" that plans and the "I" that cares for others never properly met.
-
-If we zoom out from his biography to the science, we find the usual suspects lined up, none of them sufficient alone:
-
--   **Genes and evolution**: evolved circuits for dominance, sexuality, fear, and attachment, tuned for survival in small bands, maladapted in a modern city.
-
--   **Epigenetics**: stress, trauma, and early environment leaving chemical marks on DNA expression---turning some genes up, others down---subtly re-weighting the psyche's sliders.
-
--   **Neural development**: possible abnormalities in frontal and limbic networks that normally integrate emotion, inhibition, and social learning.
-
--   **Culture and context**: a social world that missed, ignored, or minimized the early warning signs; a system that only noticed the monster once bodies appeared.
-
-No single factor "explains" Dahmer. But together they show a chilling possibility: the inner monster is not an alien add-on. It is what happens when ordinary psychological machinery develops under extraordinary, misaligned conditions.
-
-### The Monster as Continuum, Not Category
-
-It's tempting to breathe a sigh of relief: *Well, at least I'm not that*. But psychology is less interested in drawing a bold line between "evil people" and "the rest of us," and more interested in the gradients:
-
--   Impulses we act on vs. impulses we inhibit.
-
--   Stories we tell ourselves after we hurt someone.
-
--   How easily regret enters the room---and whether it's allowed to stay.
-
-On one end of the spectrum is the person for whom regret is a regular, if annoying, visitor. On the other end is the person for whom regret never really forms---either because the circuitry is blunted, or the self-story refuses to admit evidence.
-
-Somewhere in the middle sits most of humanity, making small bargains with itself.
-
-Seen this way, Dahmer is not a monster from another planet. He is a catastrophic data point at the far edge of distributions that live in all of us: aggression, desire, loneliness, curiosity about control. His existence does not absolve us; it indicts the whole architecture that produces minds and then pretends only some of them are "ours."
-
-### Punishment as Pruning --- and Its Moral Cost
-
-Legal systems, faced with such extremes, often default to a gardener's logic: identify the diseased branch, cut it off, and hope the tree is safer. In practice, punishment becomes a kind of **pruning algorithm**:
-
--   Remove the most dangerous nodes from the social graph.
-
--   Signal to others where the red lines are.
-
--   Reassure everyone that the monster is "out there," not woven through the roots.
-
-There *is* value in this. Deterrence matters. Incapacitation matters. Some people cannot safely be left to the honor system.
-
-But if we treat pruning as the whole story, we end up with an odd theology: individuals as bugs in an otherwise sound system. A few "bad apples" in an orchard whose soil, climate, and pesticides are beyond question.
-
-Psychology suggests the opposite. The inner monster is emergent. It arises at the intersection of biology, upbringing, culture, and chance. Which means that when we design future systems---whether NEURO's judiciaries, educational meshes, or nudging architectures---we will have to decide:
-
--   How much to invest in **early tending** rather than late pruning.
-
--   How much to focus on **reform** vs. permanent quarantine.
-
--   How honest we are willing to be about the fact that the branches and the tree share the same DNA.
-
-We will return to that in Part II and Part III, when we design institutions that do more than punish after the fact. For now, the lesson is simpler, and more uncomfortable:
-
-The inner monster is not an exception. It is a possibility in the design space of minds like ours.
-
-## The Psychic Fuel of Systems --- From Game Theory to Capitalist Myth
-
-The moment you put more than one brain in a room, psychology graduates into economics, politics, and religion. Two nervous systems plus limited resources equals a negotiation problem. Add a few more people, and you've invented markets, gossip, and war---often in the same afternoon.
-
-If you zoom out far enough, the grand machinery of civilization starts to look like an engineering diagram built out of very small, very needy primates.
-
-### Evolutionary Psychology: Apes with Ledgers
-
-Evolutionary psychology begins with an awkward confession: our minds were tuned for survival in **small bands of hominids**, not globalized nation-states with high-frequency trading. The circuits we rely on to navigate modern systems are:
-
--   Older than agriculture,
-
--   Calibrated for face-to-face reputations,
-
--   And easily hijacked by symbols that didn't exist on the savanna: money, brands, follower counts.
-
-We carry modules for **status**, **reciprocity**, **risk-avoidance**, and **coalition-building** that once decided who got food, mates, and allies. Today, those same modules decide who gets venture funding, who wins elections, and who trends on social media.
-
-Game theory later dressed this in equations---the prisoner's dilemma, tit-for-tat, the tragedy of the commons---but the emotional infrastructure was there first:
-
--   The thrill of a win.
-
--   The sting of a loss.
-
--   The fear of being the sucker in a one-sided deal.
-
-Behavioral economics simply wrote down, in a more polite font, what our limbic system has been muttering all along: we are loss-averse, short-sighted, and highly sensitive to what others seem to be getting away with.
-
-### Epigenetics and the Local Rewrite
-
-Layered on top of this ancient scaffolding sits something newer: **epigenetic tuning**. If genes are the rough draft, epigenetic marks are the margin notes written by life experience---stress hormones in childhood, malnutrition, chronic danger, sustained nurture.
-
-They don't change the letters; they change which paragraphs get read aloud.
-
--   A child raised in chaos may carry a nervous system set permanently to "amber alert," more likely to see threat everywhere, more likely to grab now and ask questions later.
-
--   A child raised in stable networks of trust may find it easier to wait, to cooperate, to believe that tomorrow will still exist.
-
-When those millions of individually tuned minds enter a marketplace or a voting booth, they don't leave their histories at the door. They bring them in as **priors**---embodied predictions about whether the world rewards patience, punishes trust, or shrugs at fairness.
-
-So when we talk about "rational actors," we are really talking about apes whose stress chemistry, childhood attachment, and cultural myths have pre-shaped what counts as "rational" in the first place.
-
-### Psychic Fuel for Larger Machines
-
-From there, systems take on a life of their own:
-
--   Markets aggregate individual hopes and fears into price signals.
-
--   Corporations turn personal ambitions into quarterly targets.
-
--   States turn tribal instincts into nationalism and ideology.
-
-But the fuel is always psychological. Capitalism, for example, runs not just on supply and demand, but on:
-
--   Status anxiety ("Where do I rank?")
-
--   Scarcity narratives ("There is not enough, so I must grab more")
-
--   Mythic promises ("Work hard and the system will eventually love you back")
-
-Seen through this lens, our grandest institutions are complicated feedback loops built on top of very old feelings. To understand the monsters they create---the injustices, rages, and burning cities of the next chapter---we have to understand the psychic fuel that keeps them humming.
-
-Psychology, in other words, is not just about people on couches. It's about the inner chemistry that powers outer castles.
-
-## The Mirror Stage of Civilizations --- Psychology at the Limits
-
-In Lacan's famous "mirror stage," an infant recognizes its reflection and misreads it as a coherent, unified self. The child is still a flailing mess of impulses, but the mirror offers a clean outline. "That," the mind decides, "is me."
-
-Civilizations have their own mirror moments.
-
-For most of history, societies explained themselves with myths: chosen peoples, manifest destinies, invisible hands. These stories were comforting reflections---simple outlines for a very messy creature.
-
-Then psychology, neuroscience, and data arrived with a less flattering mirror.
-
-We now know, with embarrassing precision, that:
-
--   Our perception is biased and reconstructive.
-
--   Our memories are edited on each recall.
-
--   Our moral judgments lean on context and framing more than we admit.
-
--   Our "rational" institutions are often emotional weather systems with letterhead.
-
-Worse, we have begun to see this *in real time*: in lab experiments, in fMRI scans, in social-media cascades, in the epidemiology of rumors. The monster within is no longer just a metaphor; it's a pattern you can sometimes plot.
-
-That's the psychological condition of the present: a species staring into a mirror it can finally instrument.
-
-### From Inner Monsters to Collective Ones
-
-This chapter began with personal monsters---those small betrayals of our better angels---and brushed against an extreme case in Jeffrey Dahmer. It unfolded into questions of free will, punishment, and the tangled origins of moral character.
-
-But none of those questions stay inside one skull for long.
-
-Once billions of such minds are networked---through families, cities, markets, algorithms---their quirks and blind spots don't cancel out. They compound. Personal shortcuts become institutional dogma. Individual fears become national security doctrines. One person's inability to feel regret becomes, at scale, a company's inability to recall a harmful product, or a government's inability to admit a mistake.
-
-If the mirror stage of the infant births an ego, the mirror stage of civilization may yet birth something stranger: a capacity for deliberate self-correction---or a talent for deeper denial.
-
-We stand inside that choice.
+And the witnesses need not be present. Parents, friends and teachers can remain as an internal audience long after we leave the room. The result is a kind of *collective superego*: a distributed conscience that feels private because we carry its voices inside us. We internalize the crowd's gaze, then call it "my values." That can help us keep a promise when nobody is watching, or keep an inherited prejudice when somebody finally is. Becoming a person includes learning which of those voices deserves to stay. The society that trained the choir will have its own chapter.
 
 ### Monkey Ethics
 
-Before we hand psychology off to sociology, it's worth glancing sideways at our cousins. Frans de Waal's chimps and bonobos already run a kind of **proto-ethics lab**: coalitions, reconciliations, sneak attacks, grooming trades, low-ranking males who rise by political cunning instead of brute force. Robert Sapolsky's baboons, meanwhile, carry their hierarchies in their hormones---dominance and defeat written in cortisol and posture.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 37. -->
 
-In other words, the "inner monster" doesn't retire at the species boundary. The same emotional circuitry for status, alliance, jealousy, and revenge that we've been tracing inside one human skull plays itself out in ape troops and baboon bands, long before anyone builds a courthouse. What we call sociology later will be built on this older primate psychology; Chapter 5 will simply zoom out far enough to watch the troop.
+Our cousins run a proto-ethics lab of their own. In a famous experiment, Sarah Brosnan and Frans de Waal trained capuchin monkeys to exchange a token for cucumber. They were more likely to refuse when a partner received a preferred grape.[^v1-c4-capuchin] The reaction was vivid; its interpretation was less settled. Was the monkey protesting unequal treatment, a disappointed expectation, or the experimenter who plainly had better produce? A later meta-analysis found no overall evidence for inequity aversion across the acceptance-and-refusal tasks it examined.[^v1-c4-inequity] That does not settle every question about animal fairness. It does warn against translating a flying cucumber straight into a declaration of rights. Chimpanzees and bonobos, meanwhile, reconcile, trade grooming and navigate alliances. The capacities from which our moral lives develop have a history longer than the courthouse.
 
-Psychology has given us a tour of the wiring: desires, fears, moral instincts, and the many ways they can misfire. The next chapters will follow what happens when these minds cluster---into neighborhoods, mobs, institutions, markets, and nations.
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 38. -->
 
--   How do individual monsters become **collective** ones?
+And the monster isn't fixed, even in primates. Robert Sapolsky and Lisa Share described a baboon troop whose aggressive males were disproportionately lost in a tuberculosis outbreak linked to contaminated food. The survivors, now with a changed sex ratio as well as fewer aggressive males, showed a more tolerant social pattern; newcomers later participated in it.[^v1-c4-forest] This was an observed upheaval, not a randomized lesson in kindness. It nevertheless gave the idea of an unalterable baboon temperament a difficult afternoon. The environment a new male entered mattered.
 
--   How does personal shame turn into public rage?
+### Apes with Ledgers
 
--   How do systems learn to hide their own shadows?
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 39. -->
 
-To answer that, we must leave the clinic and step into the crowd.
+Evolutionary psychology begins with an awkward confession: capacities with deep histories are being asked to navigate circumstances they did not evolve specifically to handle. Reputation, reciprocity, status and coalition-building matter to a primate before they matter to a stock exchange. But the mind is not a sealed Pleistocene instruction manual. Development and culture alter what those capacities attend to and how they are expressed. A follower count can recruit an old appetite without being the same thing as rank in a small band. The emotional infrastructure comes before our formal ledgers: the thrill of a win, the sting of a loss, the fear of being the sucker in a one-sided deal. What happens when markets organize those feelings is a later chapter's story.
 
-The next arrow leaves the skull and enters the street.
+### Epigenetics and the Local Rewrite
+
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 40. -->
+
+Experience also reaches into gene regulation. Epigenetic mechanisms are not a recent add-on to biology; they help regulate which genetic instructions are used without changing the underlying sequence. In rats, differences in maternal licking and grooming were linked to chemical marks at a glucocorticoid-receptor gene, its expression, and the offspring's regulation of stress responses.[^v1-c4-meaney] That is more specific than life writing a personality into DNA. Human adversity can shape development through several interacting routes; the rat result does not establish that a person's later behavior has an epigenetic explanation. A nervous system adapted to danger may keep finding danger where a safer childhood would not. The adaptation can be understandable and costly at the same time.
+
+<!-- AI-assisted targeted revision, 2026-10-27; adoption operation 41. -->
+
+The person brings that history into the next encounter as expectations: whether patience is rewarded, whether trust is dangerous, whether tomorrow can be counted on. In Alice's terms, the loop is already partly set, but not finished. Psychology isn't only about people on couches. It is about how a world gets under the skin, and how a person then meets the next piece of world.
 
 ## Out of the Beer Can and Into the Fire
 
-After a year I left the beer can and moved just across "Murphy's Law"---both the bar and the principle. Solo off-campus living felt like a promotion in freedom, though Steinbeck might've warned that "the best-laid free will of mice and men often go sideways." Murphy, for his part, would've amended: "If anything can go wrong, it will---especially after you sign a lease."
+After a year, I left the beer can and moved off campus, just across the street from Murphy's Law, both the bar and the principle.[^v1-c4-murphy] I didn't drink in the bars much. The dozens of students on my side of the beer can's floor were the first people in my life I could simply have fun with, and the first to treat me as a person without any other social baggage. But despite that, or perhaps exactly because of it (no society had hardened around us yet), they were more my psychological environment than my company: people I watched, learned from, laughed with and occasionally joined for a planned outing, but not yet a society to be carved into. They came, and then they flickered out as we each moved on. For me, it was as simple as moving from this side of the bar to the far side. Solo off-campus living felt like a promotion in freedom, though Burns (and Steinbeck after him) might forgive the amendment: the best-laid free will of mice and men often goes sideways. Murphy, for his part, would have amended: if anything can go wrong, it will, especially after you sign a lease.
 
-I spent my second year behind the bars (Murphy's Law included) then pushed a bit west. I had that one semester to spend at Marquette before transferring to UW-Madison. Rent was cheap, the walls were thin, and the view was a brick wall with delusions of grandeur. It felt quiet, more of less peaceful.
+It was also in the shadow of Murphy's Law that I met one of **my** best friends, Anees: a graduate student whose interests were a strange cocktail of industrial engineering, automobiles, philosophy and cooking brains, both figuratively and literally. I would sit at his place for hours, eating his signature brain dish (fitting fare for this chapter) while we talked about nothing, forever. On many weekends we'd take out his car and drive the longest possible distances to absolutely nowhere. To be fair to us, by "nothing" and "nowhere" I only mean that our plans had the exquisite crystal clarity of salt. He still has one of the biggest hearts I know, and the same vicious sense of humor. Or viscous: his jokes stick. I've retold them more than anyone else's.
 
-Only later did I learn what else had been breathing nearby. Something hidden. A block away. A kind of quiet no stethoscope could diagnose.
+I spent my second year behind the bars (Murphy's Law included). Then Anees helped me find a place farther west on Wells Street, sharing it with one of his fellow graduate students, for my last semester at Marquette. Rent was cheap, the walls were thin, and the view was a brick wall with delusions of grandeur. It felt quiet, more or less peaceful.
 
-## In the Shadow of a Man
+It was a strange season of departures. Theology dressed as philosophy: out of Nimrod's furnace and into the Jesuit pan. At least mine was progress, unlike the proverbial route from pan to fire. I had applied to transfer to the University of Wisconsin, and been accepted. The biggest reason was that I had fallen in love with the Madison campus, and it had, then as now, strong programs in engineering and computer science. But first I had that last semester to finish, on Wells Street, before I would move to Madison.
 
-I didn't know that, while I slept in my quiet off-campus room, someone a **single block** away was performing a different kind of nocturnal routine---one that had nothing to do with REM cycles or term papers. I thought the silence of that neighborhood was peaceful. It turns out it was just *well-insulated*.
+Only much later did I learn what else had been breathing nearby. On one side of me, a block away, stood the Ambassador Hotel. Elsewhere nearby was the apartment building the same man would move into a few years later. I had been living within walking distance of both. I thought the silence of that neighborhood was peaceful. It turns out it was just well insulated.
 
-The horror was happening right there---close enough that, had Milwaukee allowed louder screaming or thinner drywall, I might've been an accidental witness. But I remained blissfully unconscious, a nineteen-year-old sleeping one block from a crime scene that history was still trying to invent words for.
+## Leaving the Person
 
-### **The Move West**
+After that short semester, I left for Madison, where I collected a degree (a semester off schedule, thanks to prerequisites the transfer had shuffled), a few friendships that refused to decay, and a growing suspicion that consciousness was just the universe talking to itself in the first person.
 
-And after that short semester, I left.
+I also collected a broken heart. A long-distance relationship, begun at my parents' encouragement, had turned into hopeless romance. When I finished my classes, I flew back to see her, and came back without her. She was far more devout than I had understood, and the distance between us turned out to be measured in more than miles. I returned to Madison so bummed that when commencement came that spring, I didn't even go to my own graduation.
 
-First to Madison, where I collected a degree, a few friendships that refused to decay, and a growing suspicion that consciousness was just the universe talking to itself in first-person. Then---like any self-respecting pioneer with a Toyota Corolla---I pointed myself toward Los Angeles.
+That summer, my mother and my brother came to Madison. He had transferred from Norman, Oklahoma, and would start at Madison in the fall, so we had one summer together. My mother bought us better cars. I ended up with a newish Corolla, an upgrade over the old one, which had broken down about as thoroughly as I had: her ultimate gesture of sympathy for my predicament.
 
-Patrick's boombox rode shotgun. I took the scenic route: Yellowstone's mineral lungs, the carved thoughts of Jackson Hole, the private hush of Idaho, the neon geometry of Nevada. Finally: Los Angeles. A city where psychology stopped being private and became civic infrastructure.
+As the summer ended, like any self-respecting pioneer with a Toyota Corolla, I packed it with everything I owned and pointed myself toward Los Angeles, where graduate school in computer engineering would begin that fall. I had AAA plan a TripTik for the entire journey, knowing very well that plan and journey are two opposite things. It was long and flexible, guaranteeing only one thing: that the empty stretches of the American West would match the vastness of my own emptiness.
 
-### **Shadow Revealed**
+Irony, at least, had the courtesy to pull up a chair. I had entered this domain saying goodbye to my parents and my brother. Now, instead of going back to them, I was leaving, and my mother and brother were the ones seeing me off once again, this time from Wisconsin. Such is the manner in which the fragile arrow of a person moves: arrivals and departures that wait on one another, like processes sharing a resource. To explain that kind of irony, you need semaphores, and those come in the next interlude.
 
-Then came the news from Milwaukee. A name I didn't recognize at first, an address I knew too well. The man from the apartment building a block away.\
-They said what he'd done couldn't be explained by psychology, as though psychology were the problem. It wasn't. It was the mirror. And we'd all been avoiding eye contact.
+But before I could leave, I had to make room in the car for Patrick's boombox. For that, we have to go back to the start of my Madison years, where my personality found it was already fiercely competing with its own silicon mirror: a moody, bubbly and ambitious character named Software.
 
-Dahmer became an urban legend way before the actual news fully arrived and sunk in. One of my friends from Milwaukee told me, "you know that guy was right next to where you lived?" I mapped the streets in my head, re-imagining every walk home I'd ever taken. Ambassador hotel, the site of one of the most gruesome urban legend was just a block away. A building that I may have passed so many times without even flinching to notice its façade. Who knows I may have walked pass it the same day, or the morning after. Nobody knew.
+Then I drove away.
+
+## The Upheaval: Shadow Revealed
+
+Honestly, I don't remember exactly when the arrest happened, only that I had already set foot in Los Angeles and settled in. Suddenly, it was on every station. Teams of criminal profilers and forensic psychiatrists descended on the networks, dissecting the news with the frantic energy of commentators recapping Monday Night Football. The story shook the collective psyche far beyond Milwaukee. The killer's name was Jeffrey Dahmer, and his story had morphed into a modern urban legend before its reality fully sank in for me.
+
+Some time later, Anees brought it up. "You know that guy was right next to where you lived?" He was absolutely right. During that semester, while I spent my nights asleep a block away, one of those horrors happened in a room at the Ambassador Hotel.[^v1-c4-ambassador] Only a city block and a couple of thin walls separated two psychologies that night: one of them asleep, and one of them not.
 
 It wasn't the horror that stayed with me. It was the symmetry: the proximity of ordinary life to its shadow.
 
-The same synaptic machinery that builds rocket engines can also build rooms like that. The same neural pattern that composes empathy can erase it. Biology gave us hunger. Mind gave us wonder. Psychology gave us the capacity to rationalize both.
+The same synaptic machinery that builds rocket engines can also build rooms like that. The same neural patterns that compose empathy can erase it. Biology gave us hunger. Mind gave us wonder. Psychology gave us the capacity to rationalize both.
 
-When psychologists on TV say, "This can't be explained by psychology," I can see myself grin. Psychology wasn't the problem; it was the mirror. We just preferred not to look into it.
+They said on television that what he had done couldn't be explained by psychology, as though psychology were the problem. It wasn't. It was the mirror, and we had all been avoiding eye contact.
 
-### **Silicon's Shadows, and Psychology's Particle Zoo**
+<!-- SOURCE NOTES: checked 2026-10-27; evidence depth and qualifications in the Chapter 4 adoption dossier. -->
 
-As Los Angeles unfolded---sunlight, circuits, sociology---I realized I hadn't left psychology behind. I had simply zoomed out. From neurons to neighborhoods. From impulses to institutions. From moral circuitry to social code.
+[^v1-c4-epigraph]: Aleksandr Solzhenitsyn, *The Gulag Archipelago*. Wording checked against the [Solzhenitsyn Center’s excerpt](https://www.solzhenitsyncenter.org/his-writings/large-work-and-novels/the-gulag-archipelago), which uses “good from evil.”
 
-Human minds were particle zoos, and society was the collider.
+[^v1-c4-saga]: Marquette University Archives, [Division of Student Affairs records, series 1](https://www.marquette.edu/library/archives/SuperA/UNIV-A-8-5-series1.php), lists Saga Food Service material in box 3. The company’s presence during my first semester is my recollection; the archive inventory does not date that particular experience.
 
-I went back to debugging some pesky piece of code. Despite their blandness, there was something comforting about logic gates---they never justified themselves. They never rewrote the story. They simply did what they were told.
+[^v1-c4-libet]: Benjamin Libet et al., [“Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential)”](https://doi.org/10.1093/brain/106.3.623), *Brain* 106 (1983): 623–642; Libet, [“Unconscious cerebral initiative and the role of conscious will in voluntary action”](https://doi.org/10.1017/S0140525X00044903), *Behavioral and Brain Sciences* 8 (December 1985): 529–539. The college-arrival conjunction is with the 1985 article, not the first experiment. Libet himself allowed a possible role for conscious control.
 
-But software was changing too. It was getting recursive. Unpredictable. Less like math, more like mood. In teaching machines to reason, we were teaching them to err in familiar human ways.
+[^v1-c4-nisbett]: Richard E. Nisbett and Timothy D. Wilson, [“Telling more than we can know: Verbal reports on mental processes”](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf), *Psychological Review* 84 (1977): 231–259. The argument concerns access to higher-order causal processes, not the impossibility of all introspective knowledge.
+
+[^v1-c4-interpreter]: Michael S. Gazzaniga, [“Cerebral specialization and interhemispheric communication: Does the corpus callosum enable the human condition?”](https://people.psych.ucsb.edu/gazzaniga/PDF/cerebral%20specialization%20and%20interhemispheric%20communication.pdf), *Brain* 123 (2000): 1293–1326, especially the split-brain example in figure 19, p. 1318.
+
+[^v1-c4-choiceblind]: Petter Johansson et al., [“Failure to detect mismatches between intention and outcome in a simple decision task”](https://doi.org/10.1126/science.1111709), *Science* 310 (2005): 116–119.
+
+[^v1-c4-kunda]: Ziva Kunda, [“The case for motivated reasoning”](https://doi.org/10.1037/0033-2909.108.3.480), *Psychological Bulletin* 108 (1990): 480–498.
+
+[^v1-c4-rigid]: Philipp Sterzer et al., [“The Predictive Coding Account of Psychosis”](https://pubmed.ncbi.nlm.nih.gov/30007575/), *Biological Psychiatry* 84 (2018): 634–643. The account considers disturbances of precision weighting at different processing levels, not one universally overstrong prior.
+
+[^v1-c4-zmigrod]: Leor Zmigrod, Peter J. Rentfrow and Trevor W. Robbins, [“Cognitive Inflexibility Predicts Extremist Attitudes”](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00989/full), *Frontiers in Psychology* 10 (2019): 989. These are associations between task performance and measured attitudes, not a causal diagnosis of an ideology.
+
+[^v1-c4-niche]: F. John Odling-Smee, Kevin N. Laland and Marcus W. Feldman, [*Niche Construction: The Neglected Process in Evolution*](https://www.jstor.org/stable/j.ctt24hqpd) (Princeton University Press, 2003), especially chapter 2 on organisms modifying their environments. The extension to choosing experiences that reshape a self is mine.
+
+[^v1-c4-pico]: Giovanni Pico della Mirandola, [*Oration on the Dignity of Man*](https://sourcebooks.web.fordham.edu/med/oration.asp), composed in 1486 and first published in 1496; the passage imagining God’s address to Adam. The Pinocchian connection is mine.
+
+[^v1-c4-fmri]: Seiji Ogawa et al., [“Brain magnetic resonance imaging with contrast dependent on blood oxygenation”](https://doi.org/10.1073/pnas.87.24.9868), *PNAS* 87 (1990): 9868–9872. BOLD contrast measures a blood-oxygenation response associated with neural activity; it does not directly read thoughts. Human functional studies followed in 1991–1992.
+
+[^v1-c4-dmn]: Marcus E. Raichle et al., [“A default mode of brain function”](https://doi.org/10.1073/pnas.98.2.676), *PNAS* 98 (2001): 676–682. “Default” concerns a pattern of activity relative to task conditions, not a brain doing nothing.
+
+[^v1-c4-kahneman]: Daniel Kahneman, *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011), introduction and part I. The System 1/System 2 terminology was used by Keith E. Stanovich and Richard F. West in [“Individual differences in reasoning: Implications for the rationality debate?”](https://doi.org/10.1017/S0140525X00003435), *Behavioral and Brain Sciences* 23 (2000). The labels distinguish families of processing, not two anatomical agents.
+
+[^v1-c4-art]: Stephen Grossberg, [“Adaptive Resonance Theory: How a brain learns to consciously attend, learn, and recognize a changing world”](https://sites.bu.edu/steveg/files/2016/06/ART.pdf), *Neural Networks* 37 (2013): 1–47, especially the stability–plasticity problem and matching of bottom-up inputs with top-down expectations. The tuning fork is my introspective metaphor.
+
+[^v1-c4-hopfield]: John J. Hopfield, [“Neural networks and physical systems with emergent collective computational abilities”](https://doi.org/10.1073/pnas.79.8.2554), *PNAS* 79 (1982): 2554–2558. Content-addressable retrieval in a model network supplies an analogy, not a complete biological memory theory.
+
+[^v1-c4-completion]: Aidan J. Horner et al., [“Evidence for holistic episodic recollection via hippocampal pattern completion”](https://www.nature.com/articles/ncomms8462), *Nature Communications* 6 (2015): 7462.
+
+[^v1-c4-tulving]: Endel Tulving and Donald M. Thomson, [“Encoding specificity and retrieval processes in episodic memory”](https://doi.org/10.1037/h0020071), *Psychological Review* 80 (1973): 352–373. A cue’s effectiveness depends on its relation to the encoded trace, not just its general association with the target.
+
+[^v1-c4-source]: Marcia K. Johnson, Shahin Hashtroudi and D. Stephen Lindsay, [“Source monitoring”](https://memlab.yale.edu/sites/default/files/files/1993_Johnson_Hashtroudi_Lindsay_PsychBull.pdf), *Psychological Bulletin* 114 (1993): 3–28. Source judgments draw on characteristics of remembered information and judgment processes; they are not infallible origin tags. The figure is an original conceptual synthesis of this framework and the retrieval work cited above.
+
+[^v1-c4-maintenance]: Wickliffe C. Abraham, Owen D. Jones and David L. Glanzman, [“Is plasticity of synapses the mechanism of long-term memory storage?”](https://www.nature.com/articles/s41539-019-0048-y), *npj Science of Learning* 4 (2019): 9. The review examines evidence and unresolved questions about synaptic and other mechanisms. “Dynamic serialization” is my proposed framing, not the paper’s conclusion.
+
+[^v1-c4-latent]: Nathan S. Rose et al., [“Reactivation of latent working memories with transcranial magnetic stimulation”](https://doi.org/10.1126/science.aah7011), *Science* 354 (2016): 1136–1139. The unattended item became decodable again after stimulation. Failure to decode a representation is not proof of zero activity everywhere.
+
+[^v1-c4-bigfive]: Robert R. McCrae and Paul T. Costa Jr., [“Validation of the five-factor model of personality across instruments and observers”](https://pubmed.ncbi.nlm.nih.gov/3820081/), *Journal of Personality and Social Psychology* 52 (1987): 81–90. A descriptive trait model is not a causal explanation or a clinical diagnosis.
+
+[^v1-c4-polygenic]: Cross-Disorder Group of the Psychiatric Genomics Consortium, [“Genomic Relationships, Novel Loci, and Pleiotropic Mechanisms across Eight Psychiatric Disorders”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7077032/), *Cell* 179 (2019). Genetic associations overlap across diagnoses; they do not determine an individual’s fate.
+
+[^v1-c4-soon]: Chun Siong Soon et al., [“Unconscious determinants of free decisions in the human brain”](https://doi.org/10.1038/nn.2112), *Nature Neuroscience* 11 (2008): 543–545. Classification of a simple binary choice was modestly above chance, around 60 percent, not a complete prediction of a person’s decision.
+
+[^v1-c4-schurger]: Aaron Schurger, Jacobo D. Sitt and Stanislas Dehaene, [“An accumulator model for spontaneous neural activity prior to self-initiated movement”](https://doi.org/10.1073/pnas.1210467109), *PNAS* 109 (2012): E2904–E2913. Movement-locked averaging is crucial to the proposed explanation of the readiness potential.
+
+[^v1-c4-maoz]: Uri Maoz et al., [“Neural precursors of decisions that matter—an ERP study of deliberate and arbitrary choice”](https://elifesciences.org/articles/39787), *eLife* 8 (2019): e39787. The deliberate condition involved meaningful donation decisions. The result challenges straightforward generalization from arbitrary movement tasks.
+
+[^v1-c4-dennett]: Daniel C. Dennett, [*Elbow Room: The Varieties of Free Will Worth Wanting*](https://mitpress.mit.edu/9780262527798/elbow-room/) (MIT Press, 1984; new edition 2015). Compatibilism is presented here as a philosophical position; the author’s own rejection of free will is distinguished from it.
+
+[^v1-c4-trolley]: Joshua D. Greene et al., [“An fMRI Investigation of Emotional Engagement in Moral Judgment”](https://doi.org/10.1126/science.1062872), *Science* 293 (2001): 2105–2108; Greene et al., [“Pushing moral buttons: The interaction between personal force and intention in moral judgment”](https://pubmed.ncbi.nlm.nih.gov/19375075/), *Cognition* 111 (2009): 364–371. The latter distinguishes personal force from contact or proximity alone.
+
+[^v1-c4-gage]: Malcolm Macmillan and Matthew L. Lena, [“Rehabilitating Phineas Gage”](https://pubmed.ncbi.nlm.nih.gov/20480430/), *Neuropsychological Rehabilitation* 20 (2010): 641–658. Historical evidence supports substantial later psychosocial adaptation, qualifying the familiar permanent-ruin story.
+
+[^v1-c4-wanting]: Kent C. Berridge and Terry E. Robinson, [“Liking, wanting, and the incentive-sensitization theory of addiction”](https://pubmed.ncbi.nlm.nih.gov/27977239/), *American Psychologist* 71 (2016): 670–679. “Wanting” and pleasure can dissociate; this is one influential account, not an exhaustive theory of addiction.
+
+[^v1-c4-tumor]: Jeffrey M. Burns and Russell H. Swerdlow, [“Right orbitofrontal tumor with pedophilia symptom and constructional apraxia sign”](https://jamanetwork.com/journals/jamaneurology/fullarticle/783830), *Archives of Neurology* 60 (2003): 437–440. A case report of symptom onset, remission after resection and recurrence with tumor regrowth.
+
+[^v1-c4-belief]: Kathleen D. Vohs and Jonathan W. Schooler, “The Value of Believing in Free Will” (2008), *Psychological Science* 19: 49–54; Nicholas Buttrick et al., [“Many Labs 5: Registered Replication of Vohs and Schooler (2008), Experiment 1”](https://doi.org/10.1177/2515245920917931) (2020); Thomas Nadelhoffer et al., [“Does encouraging a belief in determinism increase cheating? Reconsidering the value of believing in free will”](https://doi.org/10.1016/j.cognition.2020.104342), *Cognition* 203 (2020): 104342.
+
+[^v1-c4-agency]: James W. Moore and Paul C. Fletcher, [“Sense of agency in health and disease: A review of cue integration approaches”](https://doi.org/10.1016/j.concog.2011.08.010), *Consciousness and Cognition* 21 (2012): 59–68. Motor prediction, observed outcomes and contextual cues contribute to agency judgments.
+
+[^v1-c4-reappraisal]: James J. Gross, [“Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology”](https://pubmed.ncbi.nlm.nih.gov/9457784/), *Journal of Personality and Social Psychology* 74 (1998): 224–237. The experimental comparison concerns reappraisal and expressive suppression during disgust-eliciting film.
+
+[^v1-c4-frankl]: Garson O’Toole, [“Between Stimulus and Response There Is a Space”](https://quoteinvestigator.com/2018/02/18/response/), *Quote Investigator* (2018), traces the saying and its uncertain attribution. It should not be presented as a verified quotation from Viktor Frankl.
+
+[^v1-c4-dahmer]: [“Jury finds Dahmer sane”](https://www.upi.com/Archives/1992/02/15/Jury-finds-Dahmer-sane/6349698130000/), UPI, 15 February 1992, reports the verdict and disagreement among expert witnesses. Legal responsibility is not a clinical consensus about every aspect of his psychology.
+
+[^v1-c4-mirror]: Tania Singer et al., [“Empathy for pain involves the affective but not sensory components of pain”](https://doi.org/10.1126/science.1093535), *Science* 303 (2004): 1157–1162; Vittorio Gallese et al., [“Action recognition in the premotor cortex”](https://doi.org/10.1093/brain/119.2.593), *Brain* 119 (1996): 593–609. Evidence about macaque action observation does not by itself establish a human empathy mechanism.
+
+[^v1-c4-compassion]: Tania Singer and Olga M. Klimecki, [“Empathy and compassion”](https://doi.org/10.1016/j.cub.2014.06.054), *Current Biology* 24 (2014): R875–R878, especially the distinction between perspective taking, shared feeling, empathic distress and compassion.
+
+[^v1-c4-oxytocin]: Carsten K. W. De Dreu et al., [“The Neuropeptide Oxytocin Regulates Parochial Altruism in Intergroup Conflict Among Humans”](https://pubmed.ncbi.nlm.nih.gov/20538951/), *Science* 328 (2010): 1408–1411. These administration experiments concern particular social games and conditions.
+
+[^v1-c4-serotonin]: Molly J. Crockett et al., [“Serotonin modulates behavioral reactions to unfairness”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2504725/), *Science* 320 (2008): 1739. Acute tryptophan depletion increased rejection of unfair offers without changing fairness judgments.
+
+[^v1-c4-capuchin]: Sarah F. Brosnan and Frans B. M. de Waal, [“Monkeys reject unequal pay”](https://www.nature.com/articles/nature01963), *Nature* 425 (2003): 297–299. Refusal behavior is observed; the explanation in terms of inequity aversion is an interpretation.
+
+[^v1-c4-inequity]: Oded Ritov et al., [“No evidence for inequity aversion in non-human animals: A meta-analysis of accept/reject paradigms”](https://doi.org/10.1098/rspb.2024.1452), *Proceedings of the Royal Society B* 291 (2024): 20241452. The scope is these paradigms, not every possible form of animal social evaluation.
+
+[^v1-c4-forest]: Robert M. Sapolsky and Lisa J. Share, [“A Pacific Culture among Wild Baboons: Its Emergence and Transmission”](https://doi.org/10.1371/journal.pbio.0020106), *PLOS Biology* 2 (2004): e106. The selective mortality, changed troop composition and later social pattern were observed, not experimentally assigned.
+
+[^v1-c4-meaney]: Ian C. G. Weaver et al., [“Epigenetic programming by maternal behavior”](https://www.nature.com/articles/nn1276), *Nature Neuroscience* 7 (2004): 847–854. The rat study concerns regulation of a glucocorticoid-receptor gene and stress responses; it does not establish an epigenetic destiny for human children.
+
+[^v1-c4-murphy]: “Murphy’s Law” was a period name for the bar, not merely my private misremembering. A [local Marquette history](https://www.wiki.muscoop.com/doku.php?id=bars%3Amurphy_s) records that name before the later move and adoption of “Murphy’s Irish Pub.” The personal recollection remains mine.
+
+[^v1-c4-ambassador]: The FBI’s [Milwaukee history](https://www.fbi.gov/history/field-office-histories/milwaukee) dates Dahmer’s arrest to 22 July 1991, after my departure from Wisconsin. Steven Tuomi’s death at the Ambassador Hotel belongs to 1987; a [contemporary retrospective](https://www.washingtonpost.com/archive/politics/1994/11/29/serial-killer-dahmer-slain-at-prison-job/7b18ac27-cd04-4482-8aac-0d8a25ddb1f7/) places it about September. Sources differ on the precise date. My residence nearby throughout that fall semester is personal recollection; the overlap does not require naming a particular night.

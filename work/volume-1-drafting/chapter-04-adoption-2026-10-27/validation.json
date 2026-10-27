@@ -1,0 +1,13 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md",
+  "sha256": "bbac760de68ad16aa3b63cc12dddc9facd7c31e3972fd78e65f28f1024841008",
+  "defined_notes": 46,
+  "note_references": 46,
+  "parsed_notes": 46,
+  "html_note_backlinks": 46,
+  "display_equations": 0,
+  "bookwide_note_collisions": [],
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

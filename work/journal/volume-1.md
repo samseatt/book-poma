@@ -236,3 +236,16 @@ Thirty-four aligned notes preserve all incoming IDs. [Adoption notes](../volume-
 **Addressed, 27 October 2026.** Incorporated the new passage and source note from the author’s `sam/claude/interlude-3-v2.md` into canonical Interlude 3. The “v2” suffix denotes the incoming version, not Volume II. Comparison with the earlier incoming file found only this passage extension and its note; the existing hardware teaching, diagrams, uptime recovery, Bob revision, memoir and all 34 prior notes remain intact.
 
 The original offprint reproduced by Virginia Tech carries ©1965 and contains the quoted argument on p. 33. Its opening footnote dates drafting to 1963 and revision to 1964; Elsevier’s current metadata lists 1966. The new note records this discrepancy, and the prose ties the birth-year conjunction to publication rather than first conception. GCHQ confirms Good’s Bletchley collaboration with Turing. The runway/takeoff image survives, with the claim that runway length alone suffices removed. See [update notes](../volume-1-drafting/interlude-03-good-2026-10-27/UPDATE_NOTES.md) and the accompanying audit and validation. No publication.
+
+
+## V1-021 — Chapter 4 adoption: personhood, memory and consequential agency
+
+**Addressed, 27 October 2026.** [Chapter 4](../../manuscripts/volume-1/04-chapter.md) now adopts the current author/Claude revision with the approved recoveries and factual repairs. The mice-and-men free-will joke is restored; the janitorial moral is shortened while the comic scene remains. Collective superego and punishment-as-pruning return as one paragraph each, within the personhood boundary. The entire departure section remains verbatim.
+
+Added an original grayscale reconstruction/source-monitoring figure, distinguished memory mechanisms, and replaced the cooling-based identity claim with bounded evidence about living memory maintenance. Dynamic serialization remains the author's open framing. Libet's December 1985 article preserves the college conjunction; Schurger and deliberate-choice research prevent overgeneralization. The author's rejection of free will coexists with causally effective deliberation. Appraisal, compassion and primate/epigenetic qualifications improve the teaching.
+
+Alice now asks whether a self can change its criteria for admitting correction; the research does not pre-prove that extension. Gödel is no longer borrowed as a psychological theorem. Dahmer remains the post-move upheaval; private chronology was confirmed by the author, clinical consensus is not invented, and the precise hotel homicide night is not asserted. Murphy's Law is retained as a period bar name.
+
+Forty-six aligned source notes and the figure accompany the adopted text. [Adoption notes](../volume-1-drafting/chapter-04-adoption-2026-10-27/ADOPTION_NOTES.md) record reader value and serious changes. The [research drawer](../volume-1-drafting/chapter-04-adoption-2026-10-27/RESEARCH_DRAWER.md) preserves the author's memory/sleep, causal-agency, complexity/time and Alice/Bob ideas, with constraints and development paths. The stronger Alice/Bob ambition is a standing direction for future passes, not a novelty or prize claim.
+
+Existing edits to Interlude 1, .gitignore and book.md remain untouched. No incoming file or publishing infrastructure was changed; no publication was initiated.
