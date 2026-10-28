@@ -1,0 +1,167 @@
+[
+  {
+    "reason": "Preserve the verified 1990 conjunction without asserting unverified publication seasons.",
+    "before": "In the same season I unpacked, two books arrived",
+    "after": "In the same year I unpacked, two books arrived"
+  },
+  {
+    "reason": "Distinguish interdependence from justice; remove universal consent condition.",
+    "before": "The trouble with interdependence is that it can bind people who never meet and don't trust each other, which works only as long as everyone believes the exchange is fair.",
+    "after": "The trouble with interdependence is that it can bind people who never meet and don't trust each other. Dependence can outlast any belief that the exchange is fair; needing someone is no guarantee that they will treat you well."
+  },
+  {
+    "reason": "Avoid implying that refusal alone ends structural power.",
+    "before": "Karl Marx answered that much of what looks like order is really one group's power over another, kept in place by ownership, law and force, and that it lasts only until the people at the bottom refuse it.",
+    "after": "Karl Marx answered that much of what looks like order is really one group's power over another, kept in place by ownership, law and force. The arrangement carries conflicts within it, even when the people at the bottom have little power to refuse it.[^v1-c5-marx]"
+  },
+  {
+    "reason": "Weber describes a basis of legitimacy, not proof of actual impartiality.",
+    "before": "or in rules applied impartially.",
+    "after": "or in the accepted legality of rules and the offices authorized to apply them."
+  },
+  {
+    "reason": "Avoid absolute force-alone claim.",
+    "before": "A police department that loses it has to hold the city by force alone.",
+    "after": "A police department that loses it must lean harder on coercion, and even that depends on somebody still cooperating."
+  },
+  {
+    "reason": "Restore norms through expectations, reciprocity, reputation and enforcement; retain the older soft-code conception.",
+    "before": "A fraternity is a theater with an unusually elaborate costume department. So is a corporation, a courtroom and a police station.",
+    "after": "A fraternity is a theater with an unusually elaborate costume department. So is a corporation, a courtroom and a police station.\n\nThese unwritten expectations are **norms**, the soft code that saves us from renegotiating civilization every time someone joins a queue. Cristina Bicchieri makes a useful distinction: what I expect others to do, and what I expect them to think I ought to do. The second can matter even when I privately disagree. Reputation, a favor returned, a cold shoulder or exclusion can enforce the rule without a policeman in sight.[^v1-c5-norms] This is also how a room full of reluctant people can preserve a practice none of them particularly likes: each mistakes the others' compliance for approval. Changing the rule then requires making that private disagreement visible, not merely delivering a better sermon.\n\nSanctions have their own politics. Someone has to decide which breach deserves them, whose testimony counts, and whether the accused can answer. A norm can keep promises credible or make an outsider permanently suspect. The same capacity for remembering who did what can support mutual aid, a protection racket, or both. Shame is inexpensive to administer, which may explain some of its popularity."
+  },
+  {
+    "reason": "Qualify Dunbar; distinguish information transmission from reinforced cooperation; add original network schematic.",
+    "before": "And underneath all of them runs a limit set by biology. Robin Dunbar found that the size of a primate's social group tracks the size of its neocortex, and that for humans the natural limit on stable relationships is around 150 people, arranged in layers of closeness: about 5, 15, 50 and 150.[^v1-c5-dunbar] That's roughly the size of a village, a company of soldiers, or a fraternity chapter. Past it, the glue of personal knowledge runs out. To build anything larger, humans had to invent something else, and they did: stories big enough for strangers to share. Money, nations and creeds are what I've come to call scaling stories, the means by which a species built for bands learned to live in cities of millions. After one more emergence, that of work itself, the chapters that follow are about those stories: how they're built, how well they hold, and what happens when they crack.",
+    "after": "Underneath all of them run demands on attention and time. Robin Dunbar's comparisons of primate brains and groups suggested a human network of roughly 150 stable relationships, with closer circles often clustered around 5, 15 and 50. Those are useful recurring scales, not biological turnstiles: the estimates depend on what counts as a relationship, and the primate-to-human extrapolation has been challenged.[^v1-c5-dunbar] Nobody loses a friend automatically when number 151 arrives. But keeping track of obligations and earning trust do take work.\n\nTo cooperate beyond personal acquaintance, humans developed roles, records, institutions and stories big enough for strangers to share. Money, nations and creeds are what I've come to call scaling stories, the means by which a species built for bands learned to live in cities of millions. After one more emergence, that of work itself, the chapters that follow are about those stories: how they're built, how well they hold, and what happens when they crack.\n\nEven a bridge needs a specification. A weak acquaintance can bring news from another circle; persuading people to risk their livelihood together may require reassurance from several trusted contacts. Damon Centola and Michael Macy called this distinction *complex contagion*: some behavior needs reinforcement from multiple sources, so a solitary long-distance connection may carry the news without carrying the commitment.[^v1-c5-contagion] Designing for circulation and designing for cooperation can therefore require different networks. More connections is an incomplete instruction to give an engineer, even one who means well.\n\n![Three views of the same six people. Bonds support familiarity within groups; bridges connect groups; authority gives an institution power to direct or sanction. The added links have different meanings, so counting them cannot by itself establish cooperation, legitimacy or consciousness. Original conceptual schematic, not a measured map of Los Angeles.](assets/05-chapter/social-relations.svg){#fig-v1-c5-social-relations width=100% fig-alt=\"Three panels repeat two groups of three people. The first highlights bonds within each group, the second adds dashed bridges across groups, and the third adds directed authority links from a separate institution. Questions beneath distinguish trust, cross-group access and the power to decide.\"}"
+  },
+  {
+    "reason": "Remove untested universal comparison with argument.",
+    "before": "a shared charge, felt together, that binds people into a group more powerfully than any argument could.",
+    "after": "a shared charge, felt together, through which a group experiences and renews its attachments."
+  },
+  {
+    "reason": "Give Turner’s actual mechanism without universalizing it.",
+    "before": "and that the bond formed in that in-between is uniquely strong.",
+    "after": "and that this in-between can produce *communitas*, an intense fellowship that temporarily loosens ordinary rank."
+  },
+  {
+    "reason": "Specify the initiation experiment and distinguish liking, cohesion and justification of hazing.",
+    "before": "And in a classic experiment, Elliot Aronson and Judson Mills found that people who had to endure a harder initiation to join a group valued it more afterward.[^v1-c5-aronson] It's the uncomfortable reason hazing survives. Ours, thankfully, ran on effort rather than cruelty.",
+    "after": "In a classic experiment, Elliot Aronson and Judson Mills found that women who underwent an embarrassing initiation rated a deliberately dull discussion group more favorably afterward. Effort justification offers one uncomfortable possibility: having paid dearly to enter, we improve our opinion of what we bought. It does not establish that cruelty creates lasting solidarity; later field research on fraternity hazing gives that comfortable excuse little support.[^v1-c5-aronson] Ours, thankfully, ran on effort rather than cruelty."
+  },
+  {
+    "reason": "Bound Flack finding to the studied troop and distinguish affiliation from all ties.",
+    "before": "found that in groups of macaques, a few high-ranking individuals act as impartial police, breaking up fights without taking sides; when the researchers temporarily removed them, the group's whole network of relationships frayed, with more conflict and fewer ties.",
+    "after": "found that in a captive group of pigtailed macaques, a few powerful individuals acted as impartial police, breaking up fights without taking sides; when the researchers temporarily removed them, conflict increased and the networks of affiliation became less extensive and more fragmented."
+  },
+  {
+    "reason": "Add collective efficacy as capacity for common action, distinct from density or friendship.",
+    "before": "The group simply ran better because he did it.",
+    "after": "The group simply ran better because he did it.\n\nAt neighborhood scale, sociologists call a related capacity *collective efficacy*: enough mutual trust, joined to a willingness to intervene for a shared good. Robert Sampson, Stephen Raudenbush and Felton Earls found that this combination was associated with lower violence across Chicago neighborhoods, even after accounting for several competing explanations.[^v1-c5-efficacy] The operational question is whether someone will step in, and expect support, when a child is in danger or a public space is threatened. Being close is only part of the machinery. A tightly bonded group can also organize very effectively against everyone else."
+  },
+  {
+    "reason": "Personal comparison is not a controlled experiment.",
+    "before": "made a useful control group.",
+    "after": "made a useful comparison."
+  },
+  {
+    "reason": "Do not erase Bourdieu’s material account of class.",
+    "before": "Class, in his view, shows up less in what you own than in where you feel at ease.",
+    "after": "Class, in his view, shows up not only in what you own but in where you feel at ease."
+  },
+  {
+    "reason": "Approved Venice shortening: retain subjective impression and beach/Marina memories; remove moral diagnosis by appearance and duplicate integration explanation.",
+    "before": "Venice Beach, oddly, frightened me more than the neighborhood around campus did. Things that would stay hidden even in the roughest neighborhood were allowed out in the open there, which was refreshing in its way. But once in a while you'd pass someone whose look pulled your heart into darkness, the look of someone morally dead inside. That was one bad thing about Los Angeles: most Angelenos were wonderful, but you didn't need to be good to hold the city's passport. In a neighborhood, at least, you knew your neighbors. At Venice, we were all strangers packed close together, which is exactly what a weakly integrated city looks like at ground level. For peace, I jogged the stretch between Manhattan Beach and Hermosa Beach. Santa Monica and Newport Beach pulled at me for reasons I never worked out. And in Marina del Rey, whenever I tried to explore beyond a familiar bar or two, I got extremely lost.",
+    "after": "Venice Beach, oddly, frightened me more than the neighborhood around campus did. Things that stayed hidden elsewhere were allowed out in the open, which was refreshing in its way. But once in a while a face gave me an impression of inner hollowness I couldn't shake (an impression, not an acquaintance). For peace, I jogged the stretch between Manhattan Beach and Hermosa Beach. Santa Monica and Newport Beach pulled at me for reasons I never worked out. And in Marina del Rey, whenever I tried to explore beyond a familiar bar or two, I got extremely lost."
+  },
+  {
+    "reason": "Recover structural mechanisms and add current cross-class network research; connect to the existing handshake without inventing memoir.",
+    "before": "Venice Beach, oddly, frightened me more than the neighborhood around campus did. Things that stayed hidden elsewhere were allowed out in the open, which was refreshing in its way. But once in a while a face gave me an impression of inner hollowness I couldn't shake (an impression, not an acquaintance). For peace, I jogged the stretch between Manhattan Beach and Hermosa Beach. Santa Monica and Newport Beach pulled at me for reasons I never worked out. And in Marina del Rey, whenever I tried to explore beyond a familiar bar or two, I got extremely lost.",
+    "after": "Venice Beach, oddly, frightened me more than the neighborhood around campus did. Things that stayed hidden elsewhere were allowed out in the open, which was refreshing in its way. But once in a while a face gave me an impression of inner hollowness I couldn't shake (an impression, not an acquaintance). For peace, I jogged the stretch between Manhattan Beach and Hermosa Beach. Santa Monica and Newport Beach pulled at me for reasons I never worked out. And in Marina del Rey, whenever I tried to explore beyond a familiar bar or two, I got extremely lost.\n\nThe parcels were more durable than anyone's impressions of them. Rent, lending, school boundaries, access to jobs and the time available to reach them helped decide who could live where, whom they would encounter, and what a useful encounter could become. A recommendation is worth less if you cannot reach the job, afford its unpaid apprenticeship or arrange care for your child. Personal prejudice can enter each decision; separation can also reproduce itself after a particular decision-maker has gone home. Later evidence from the randomized Moving to Opportunity housing program found better adult earnings and college attendance for children who moved to lower-poverty neighborhoods while young. Place was doing work that a lecture on personal ambition could not.[^v1-c5-neighborhood]\n\nThere is another separation inside the separation. Raj Chetty and colleagues, studying cross-class friendships, distinguish *exposure* (whether people of different incomes share a setting) from *friending bias* (how often they form friendships given that opportunity). Both contribute to who actually connects.[^v1-c5-connectedness] Opening a campus gate changes access. It does not, by itself, change who sits with whom once inside. Nor does friendship automatically redistribute the resources outside. The street I crossed to shake a hand was short; several other distances remained."
+  },
+  {
+    "reason": "Separate Harlins killing, conviction and sentencing dates.",
+    "before": "the owner was convicted and sentenced to probation, and no prison time.",
+    "after": "the owner was convicted that October and, in November, received probation with no jail time."
+  },
+  {
+    "reason": "Avoid romanticizing or denying violence; distinguish a street code from all residents.",
+    "before": "It isn't a culture of violence; it's what order looks like when the formal kind has failed.",
+    "after": "The code can make retaliation seem necessary even to people who would rather avoid it. It is one coercive way of producing order when formal protection is distrusted, and it can help reproduce the danger it is meant to answer."
+  },
+  {
+    "reason": "Recover mediated society; add empirically bounded platform and human–AI / multi-agent research for Volume III.",
+    "before": "## Ritualized Conflict",
+    "after": "## Who Arranges the Encounters?\n\nLooking back from our networked present, the social map now has another author. A platform can decide which acquaintance reappears in your day, which stranger seems representative of a whole community, and which grievance arrives with a thousand apparent witnesses. Recommendation systems arrange exposure; ranking makes some behavior conspicuous enough to look normal. Those are interventions in the conditions from which norms grow, even when nobody has issued a rule.\n\nThe effects are neither trivial nor obedient to our favorite explanations. In an experiment during the 2020 US election, replacing Facebook and Instagram's ranked feeds with chronological ones changed what users saw and reduced their time on the platforms. It did not significantly change the measured political attitudes or polarization over the three-month study.[^v1-c5-feeds] Changing the encounter and changing the person are different achievements. A platform's reach is considerable; its power is not a magic wand.\n\nSoftware can also join the encounter. In a network game studied by Hirokazu Shirado and Nicholas Christakis, people had to choose colors different from their neighbors'. A few centrally placed bots that occasionally made locally unhelpful moves helped human groups escape coordination deadlocks. The benefit reached human-to-human interactions elsewhere in the network.[^v1-c5-bots] Too much randomness was unhelpful. The point was the placement and behavior of the intervention, not a machine issuing wiser instructions to everyone.\n\nBy 2025, experiments with populations of language-model agents had shown another possibility: local exchanges in a naming game could produce a common convention without anyone instructing the population to agree. Group-level preferences could also develop where individual tests had shown no corresponding bias.[^v1-c5-llmconventions] This was a constrained experiment, not a miniature Los Angeles with opinions about parking. Still, it puts a useful crack in the assumption that inspecting every member tells us how the society will behave. We will have to examine the relationships and incentives too, especially when the members include machines.\n\nFor a future collective, the design problem reaches beyond giving everyone a better assistant. Who chooses the encounters? Who can question the recommendations? Can help circulate across groups without making one intermediary indispensable? Those questions were already present in the streets. Software gives us another place to build the streets.\n\n## Ritualized Conflict"
+  },
+  {
+    "reason": "Flag the flash-forward beyond the April upheaval without moving the game scene.",
+    "before": "One year the game was across town, at the Rose Bowl in Pasadena, and it was a wild, high-scoring one.",
+    "after": "One game takes me briefly ahead to November 1992, across town at the Rose Bowl in Pasadena. It was a wild, high-scoring one."
+  },
+  {
+    "reason": "Avoid wrong attendance and treating gathered fans as measured integration.",
+    "before": "A crowd of ninety thousand people integrating peacefully around a game with agreed rules",
+    "after": "A stadium full of people gathering peacefully around a game with agreed rules"
+  },
+  {
+    "reason": "Nov 7 to Nov 24 is seventeen days; retain the conjunction.",
+    "before": "Two weeks later came news that was mine alone",
+    "after": "A little over two weeks later came news that was mine alone"
+  },
+  {
+    "reason": "Bookmark the public dates, not the private radio recollection.",
+    "before": "Freddie Mercury had died, and then it played \"Who Wants to Live Forever.\"",
+    "after": "Freddie Mercury had died, and then it played \"Who Wants to Live Forever.\"[^v1-c5-shocks]"
+  },
+  {
+    "reason": "Remove the expendable explanatory tail after the author’s A/C line.",
+    "before": " Some things you'll never be able to tell.",
+    "after": ""
+  },
+  {
+    "reason": "Recover the author-approved music line without changing the remembered arrangement.",
+    "before": "Patrick had gone north to Silicon Valley, boombox and all, and offered me an honorary couch in his Sunnyvale apartment.",
+    "after": "Patrick had gone north to Silicon Valley, boombox and all. The music left without me. He offered me an honorary couch in his Sunnyvale apartment."
+  },
+  {
+    "reason": "State-trial verdict includes one deadlocked count; avoid claiming all four defendants appeared beating King.",
+    "before": "the jury in Simi Valley acquitted the four officers who had been filmed beating Rodney King.",
+    "after": "the jury in Simi Valley returned acquittals for the officers charged in the beating of Rodney King, leaving one count against one officer unresolved."
+  },
+  {
+    "reason": "Restore the disciplines that make the reporter/engineer transformation land.",
+    "before": "Two things were certain. Bravery was not in our course catalog,",
+    "after": "Two things were certain. We were two young grad students: one in journalism, the other engineering. Bravery was not in our course catalog,"
+  },
+  {
+    "reason": "Recover the two concrete losses from the canonical memoir.",
+    "before": "past familiar storefronts that were simply gone.",
+    "after": "past familiar storefronts that were simply gone: the place I bought my fraternity cap, the restaurant my professor loved."
+  },
+  {
+    "reason": "Avoid incompatible casualty counts and conflating damaged buildings with burned buildings.",
+    "before": "more than sixty people died, thousands were injured, and over a thousand buildings burned.",
+    "after": "dozens of people died, thousands were injured, and entire stretches of businesses were damaged or destroyed."
+  },
+  {
+    "reason": "Retain abandonment and self-defense while removing a two-community causal reduction.",
+    "before": "Koreatown's merchants, many of whom had built their stores with years of savings, stood on rooftops with rifles because the police weren't coming; the Harlins case, and a year of mistrust, had turned two of the city's parcels against each other.",
+    "after": "Some Korean American merchants defended their stores with guns as police protection failed. The Harlins case had intensified tensions, but the destruction crossed racial and neighborhood lines; neither the people suffering it nor those taking part formed two tidy camps.[^v1-c5-koreatown]"
+  },
+  {
+    "reason": "Minimal factual repair to the conclusion: shared catastrophe is not whole-city agency; full Alice argument awaits discussion.",
+    "before": "a weakly integrated city acting as one, for a few days, through fire.",
+    "after": "different parts of a weakly integrated city caught in the same catastrophe, with no single purpose or experience of it."
+  },
+  {
+    "reason": "May 8 commencement follows April 29 by nine days.",
+    "before": "A couple of weeks later, I did attend my commencement",
+    "after": "A little over a week later, I did attend my commencement"
+  },
+  {
+    "reason": "Bookmark the commencement date while leaving recollection as memoir.",
+    "before": "We had gathered to celebrate what we'd learned, and the city had just taught us what we hadn't.",
+    "after": "We had gathered to celebrate what we'd learned, and the city had just taught us what we hadn't.[^v1-c5-commencement]"
+  }
+]

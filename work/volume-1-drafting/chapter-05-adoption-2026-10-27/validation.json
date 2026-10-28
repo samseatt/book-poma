@@ -1,0 +1,21 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-chapter.md",
+  "sha256": "6353e6548881bfe7fd35941e1d0195597ebae09813f5e02318cda16dc0a4b5e9",
+  "defined_notes": 38,
+  "note_references": 38,
+  "parsed_notes": 38,
+  "html_note_backlinks": 38,
+  "display_equations": 0,
+  "bookwide_note_collisions": [],
+  "warnings": [],
+  "errors": [],
+  "passed": true,
+  "visual_review": {
+    "figure": "social-relations.svg",
+    "preview": "social-relations-preview.png",
+    "reviewed": true,
+    "findings": "Grayscale, readable labels, no clipping/overlap; three conceptual panels and accessible description.",
+    "limit": "Figure inspected; Pandoc syntax/HTML checked. Quarto book pagination and deployed output not rendered."
+  },
+  "preservation_review": "26 selected substantial narrative paragraphs preserved verbatim after trimming paragraph-boundary whitespace; Alice prose unchanged."
+}

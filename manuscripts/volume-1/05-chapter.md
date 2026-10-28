@@ -8,475 +8,270 @@ CHAPTER 5
 
 *SOCIETY*
 
-> "Those who make peaceful revolution impossible will make violent revolution inevitable." --- **John F. Kennedy**
+<!-- AI-assisted: restored from Sam's earlier draft and new recollections; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
 
-I must have crossed twenty-four hundred miles, eight state lines, and at least three existential crises before it dawned on me that Los Angeles wasn't a city at all --- it was a mood with zoning laws. Somewhere past Barstow, the air thinned into a blend of smog and ambition. Even my Corolla inhaled it, wheezed, and filed a formal complaint. Billboards got taller. The tan got louder. By the time I hit the Grapevine I half-expected a sign reading:
+<!-- AI-assisted editorial adoption, 27 October 2026: author-approved recoveries, sociology mechanisms, original grayscale schematic and source repairs. Incoming author/Claude prose remains the narrative base; blended authorship is not inferred sentence by sentence. Alice retained pending discussion; see work/volume-1-drafting/chapter-05-adoption-2026-10-27/ALICE_PROPOSAL.md. -->
 
-**ABANDON SANITY, ALL YE WHO ENTER HERE.**\
-*(Population: aspirational.)*
+> "Those who make peaceful revolution impossible will make violent revolution inevitable." --- **John F. Kennedy**[^v1-c5-jfk]
 
-USC rose out of all this like an island of red-brick respectability floating in a sea of sun-baked entropy. I arrived expecting to enroll in computer engineering; Los Angeles immediately corrected me. What I had actually signed up for was a minor in anthropology, a certificate in crowd psychology, and a casual elective in urban survival.
+By the time I hit Barstow, something in the air had shifted, from desert to desert with attitude. By that I mostly mean that the people pumping gas there wore more confident tans than any observed hitherto. Then came a stretch of mountains, and after that the traffic began to thicken, until soon it was a deluge. But fear not: I had been amply warned. The old name for the place was the town of Our Lady, Queen of the Angels. I had also read a sign that said *holy*-something, and that was ample for your regular, run-of-the-mill premonitions. I had my little Noah's ark of a Corolla, with all my stuff piled on it to the extent any self-respecting mule, or fancier ark, would allow. On account of such preparation, whatever was happening to the world below was none of my polite business anymore. I hadn't shown the quaint pastoral decency to collect a pair of each of the good Lord's livestock, but I wasn't to be outdone, either. The one thing aboard that wasn't mine was the boombox riding shotgun: a pair of speakers which, I'd been assured by some respectable sources, could in times of real need moo like a cow, neigh like a horse, squeal like a pig, bleat like a goat, and even snarl like Jagger.
 
-I moved into my apartment and discovered that LAPD helicopters are not a metaphor. They are a municipal lullaby. My roommate slept through them the way Victorian infants supposedly slept through cannon fire. Within a week I learned three things:
+God, or the manufacturer, had created the speakers in stereo pairs for good measure, in the hope that at least one voice of mine might survive the flood of humanity while the other dissolves. But even Babel had one tower. Los Angeles had none, which presented a difficulty: there was no single humanity to dissolve into. It wasn't one city; it was Southern California, a sprawl of parcels some lonely engineers had stitched together with freeways. That became evident the moment my car radio started announcing the weather in the form of roads and intersections, and of neighborhoods with names, none of which was Los Angeles. The freeways carried their own accents and dialects, and a strange notion of who belonged where. I would become a voice in it, eventually, but only in pieces: a part in this parcel, a part in that one.
 
-1.  The sound of distant gunfire travels surprisingly well.
+In the same year I unpacked, two books arrived that, between them, described the place I'd landed. James Coleman's *Foundations of Social Theory* set out to explain how social order arises from individuals pursuing their own ends: how trust, norms and what he called social capital get built, one relationship at a time.[^v1-c5-coleman] And Mike Davis's *City of Quartz* described Los Angeles itself as a fortress: gated wealth, walled-off public space, and a police force that watched the poorer neighborhoods from the air.[^v1-c5-davis] Coleman explained how a society holds together. Davis explained how this one was being held together instead. I hadn't read either. I was about to live in both.
 
-2.  LA fireworks come in two varieties: *celebratory* and *diagnostic.*
+## The Island's Edge
 
-3.  Apparently I can sleep through less than my roommate but more than I'd previously advertised.
+I found an apartment on Ellendale Place, a short walk from campus and conveniently on the route of the university's shuttle, which ferried students between the safety of the campus and the relative safety of everywhere students lived. It had the requisite open-air pool that every apartment complex in Los Angeles seems to be issued at birth, and a roommate who had freshly arrived from West Texas, and was in the habit of calling the horizon his nearest neighbor.
 
-If Milwaukee had been the beer can and Madison the boil kettle, then Los Angeles was the entire brewery --- pressurized, fermenting, occasionally exploding. Everybody was hustling something: a screenplay, a salvation, or a parking spot. Fraternity Row looked like Darwin had subcontracted to MTV. I spent my first month toggling between awe and confusion, like a misplaced academic auditing MTV Spring Break.
+The first nights were loud from above. LAPD helicopters circled low, searchlights sweeping the streets and loudspeakers addressing people below, as though someone up there were trying to arrest the whole neighborhood at once. In full honesty, I neglected to check the morning paper in case a string of alien abductions had afflicted the town. But that would at least have settled a question I'd brought with me from Madison, about how a place this big and this unruly could possibly be governed. Los Angeles, it seemed, had simply outsourced the job to aliens.
 
-### Cracks in the 'Foundation'
+I had been there only a few weeks when we heard the shots. My roommate, unbothered, said they were fireworks: some religious festival, he claimed, that fell on that very day. If that's how religion sounded here, then I thanked the heavens (or whatever it was that had been peering down from them lately) for my own apostasy. Being a skeptic also helped: I believed him for about as long as it took the sirens to arrive. You don't approach a bear while she's still angry, especially if she's the golden California kind. Then I went out. Across the street, two people were lying on the sidewalk. One was already under a sheet. The other was getting the kind of CPR you keep giving someone who has already passed.
 
-While I was unpacking, James Coleman's *Foundations of Social Theory* hit the bookstores --- an 800-page attempt to explain why humans ever manage to agree on anything. Rational Choice Theory, he called it: the notion that society is basically a spreadsheet, everyone optimizing their personal utility like well-behaved micro-economists.
+I had never seen the dead lying across the street from where I slept. Someone said later that it had been a love triangle. That may be the worst kind, because it begins to make even the killer look human.
 
-Back then, I couldn't have identified Coleman in a police lineup --- which incidentally was a non-zero probability event where I lived. But standing amid kegs, palm trees, and moral turbulence, I understood exactly what he meant. LA was running a live seminar in the calculus of incentives. Every person seemed to be a perfectly calibrated shark, measuring angles before the first bite.
+## The Monkey in the Mix
 
-And yet Coleman's model missed a crucial variable: **traffic.**
+If man is a social animal, I wasn't born one. Social life has never been my forte, least of all in my youth, which seriously tarnishes any passport issued on admission to the human race. On the other hand, I display a great many traits that would let me pass for, at the very least, an ape. And for some strange reason, despite that shortcoming, I do quite well in the company of humans, who often find me sociable and even funny. I suppose everyone likes a monkey in the mix, especially one who keeps the smashing of things and the throwing of poop to a sustainable minimum.
 
-The true social contract of Los Angeles is written not in law books, but on its freeways. Merge or die. Signal and be punished. It's the purest rational-choice laboratory ever constructed by a civilization of well-intentioned pessimists. Eight lanes wide, zero lanes rational.
+So it was perhaps inevitable that after my year on Ellendale Place, the monkey moved to Fraternity Row.
 
-But beneath that asphalt logic lay something darker: layers of inequality stacked like geologic strata --- glamour atop grief, hope atop resentment. Helicopters circled above us like anxious neurons. Radios crackled with police codes that doubled as civic diagnoses. I would look at the LA skyline and see both the dream and the shadow it cast --- and for nearly two years, I told myself this was progress. That humanity could coexist inside its own contradiction.
+The house I moved into belonged to a fraternity that had been suspended. According to the rumor mill, the suspension followed a wild party that involved throwing a burning couch off the roof, and someone discovering piranhas in the fish tank. Other offenses were mentioned too, but after the piranhas, everything else was just shreds. Suspended, the house had to rent its rooms to whoever would pay. Most of my neighbors belonged to other fraternities on the same street, whose own houses were full; a couple were leftovers of the suspended house itself; and some belonged to no fraternity at all, including one who hadn't been admitted to USC's film school and was following in the footsteps of another famous reject of that school, Steven Spielberg.[^v1-c5-spielberg] It was a kind of embassy row of the Greek system, flying everyone's flag but its own.
 
-Then one night the contradiction caught fire.
+Meanwhile, I pledged a fraternity of my own, a different and milder one down the row. Hazing there was humane, morals mattered, and law, science, respect and homework counted for as much as brotherhood. Which is to say, I joined the one fraternity on the row where a pledge could be punished for not doing his calculus.
 
-And here, finally, is the hinge of this chapter: If Dahmer was a monster born in private, the riot was a monster born in public ---**a creature built from many hands, many grievances, many histories.** A monster we build together, sometimes without meaning to, sometimes because we feel we must.
+It didn't take me long to acquire the nickname Six-Pack Sam, which had much less to do with any semblance of abdominal musculature, and everything to do with the kind of elasticity and robustness that only good engineering brings to a society. I would walk into the house with a beer in hand, and if I happened to see a brother, a hand would go into my pocket and come out with a cold one for him, then another for the next. I promise it never got as far as an even six: Southern California weather and my student wardrobe didn't allow pockets of that number or depth. But the fame stuck.
 
-I didn't know any of that as I rolled into town with my suitcases and Patrick's boombox --- the one he'd asked me to ferry for him like some suburban Christopher Walken delivering a sacred watch across enemy lines. I was just a grad student with too many hopes and too few data points, standing at the edge of a metropolis whose fault lines were already buzzing.
+When the brothers took up the annual question of who was most likely to become what, I ended up in a tie with myself: either I would move to Seattle and open a winery, or a brewery (there was some debate), or I would move to Seattle and eventually become the mayor of Redmond, Washington. This was based on solid evidence. It was widely known, and entirely true, that Sam had once decided he felt like going to Seattle, got in his car, drove there for no reason, turned around and drove all the way back. It was also known that when Hermosa Beach grew tiresome, I would drive to San Diego just to jog along its lagoon, because I could. The brothers were better forecasters than they knew. I did move to Seattle eventually, and did, in a manner of speaking, become an economy. But before any winery or mayoralty could materialize, a later chapter of my life intervened, and the brothers' prophecy remains, like most prophecies, two-thirds fulfilled.
 
-The monster was stirring long before anyone smelled smoke. But I was new, optimistic, and naive enough to mistake the tremors for background noise.
 
-It wouldn't stay background for long.
+## Alice, Down the Rabbit Hole: The City That Wasn't One
 
-## **The Rational Contract**
+*The twist, in one line: a city becomes one only when its parts are bound more tightly to each other than to their own enclaves, and when they aren't, the rare moments it acts as one may be its catastrophes.*
 
-James Coleman had the kind of faith in human rationality that only an academic with tenure and a functioning air conditioner could afford. In *Foundations of Social Theory* (1990), he proposed that society is essentially a giant spreadsheet of incentives --- an economy not of dollars but of decisions. Each person, he argued, acts like a well-behaved calculator: selecting the option that maximizes their personal utility.
+Chapter 4 ended its rabbit hole by asking what happens when a whole society's loop closes. To get there, we first need to know when a society is a "whole" at all.
 
-Back in Wisconsin, this made perfect sense to me. I had just spent years debugging circuits and optimizing state machines; the idea that society might also obey a form of logic felt comforting, even flattering. Rational Choice Theory seemed like the social-science version of Ohm's law with serial and parallel resistors: apply pressure, get current in some manner. Misbehavior? Probably a bad resistor somewhere.
+Chapter 3 suggested that a self forms where a brain is bound tightly to itself and to its environments; Chapter 4, that a person stays healthy only while that loop stays open to the world. Scale the same question up. When does a collection of people become one thing, something that acts, decides and can be held responsible? Philosophers such as Christian List and Philip Pettit argue that groups can be genuine agents, with beliefs and goals of their own: a court, a company, a committee.[^v1-c5-listpettit] Nothing about them feels like anything, but they act. The question is what binds them. My working answer is the one I keep returning to in this book: a group becomes a "center" wherever its members are linked more tightly to one another than to everyone around them. Network scientists measure exactly this when they look for communities in a web of connections: clusters with more ties inside than you'd expect, and fewer across.[^v1-c5-modularity]
 
-Los Angeles disabused me of that notion in about four days.
+By that measure, Los Angeles was spectacularly modular. Each parcel was richly bonded inside: South Central, Koreatown, the Latino neighborhoods to the east, the Westside's wealth, and, on its own little island, Fraternity Row. Coleman called the trust and obligation inside such groups social capital, and the city had plenty, just stored in separate vaults. What it lacked were the bridges. The sociologist Mark Granovetter showed that much of a society's real work, from finding jobs to spreading news, travels through weak ties between groups, not strong ties within them.[^v1-c5-granovetter] Los Angeles had freeways instead. Freeways connect cars, not people.
 
-The first time I took the 405 during rush hour, I realized rationality was not the currency of the realm. The freeway was less an optimization problem and more an emotional seismograph. Coleman's homo economicus would not last ten minutes on the 10 East. Drivers weaved, honked, tailgated, and occasionally prayed --- a kind of **emotional calculus** whose variables included anxiety, childhood grievances, and the current price of housing in Culver City.
+So what held it together? A society can be bound by shared meaning (rituals, institutions, a sense that we're in this together), or it can be held by force. Mike Davis's answer was that much of Los Angeles was being held by force: walls, gates, guards, and helicopters circling the neighborhoods that weren't invited inside. Enforcement can stand in for integration for a long time. It binds by watching, not by connecting. And it has the property Chapter 4 warned about: a system that answers every error signal with force rather than correction is a closed loop. It hears the world's complaints only as threats to be suppressed, and so it never updates.
 
-It was the purest laboratory for rational choice ever devised, except the results were consistently irrational.
+When a loop like that is finally forced open, it doesn't open gently. Crowd psychology used to describe riots as madness, individuals dissolving into a mob. The research no longer supports that. Stephen Reicher and his colleagues, studying real riots, found that crowds don't lose their minds; they shift into a shared identity, often in direct response to how they've been treated, especially by police.[^v1-c5-reicher] In those moments, a city that had never been one can suddenly integrate: people who share nothing but a grievance begin to move together. Integrated information theory, used here only as a lens, adds a troubling twist. If experience and judgment settle wherever integration peaks, then when a crowd integrates fast enough, individual judgment can dim beneath it. A modular city that rarely acts as one may do so, when it finally does, through fire.
 
-Coleman had quantified incentives, but he had underestimated the importance of things that do not fit in equations: shame, pride, belonging, resentment, envy, status, fear, the desire to look important when changing lanes, and the reflexive urge to punish anyone who signals *too* early. The city ran not on logic but on **Wertrationalität** --- Weber's value-rational action: the things we do not because they are efficient, but because they *mean* something to us.
+The newest neighborhoods have no geography at all. In my Los Angeles years, the first communities of the internet were gathering on bulletin boards and newsgroups, and I had a campus email account to join them. I have no memory of using it. Everything else from those years (the beer cans, the pitchers, the treasure hunt) is still vivid, but the email left no trace, and I think I know why. Memory keeps what is bound into the rest of a life, and those messages were bound to nothing. Communities without geography can still integrate: the layered circles Robin Dunbar found in face-to-face life seem to reappear online, much the same size.[^v1-c5-dunbaronline] But shared ideas alone gather people more easily than they hold them. The anthropologist Richard Sosis found that religious communes with costly demands on their members outlasted those with easy entry.[^v1-c5-sosis] What binds, it seems, is what costs: rituals, obligations, things done together. Whether digital neighborhoods will bridge a city's parcels or simply build new walls around them is still being settled.
 
-That was Los Angeles in a nutshell: a metropolis where meaning trumped logic, and identity routinely beat efficiency in a best-of-three.
+This is a lens, not a law, and the later sections of this chapter will test it against the places I lived. But if it holds, it gives a society the same choice Chapter 4 gave a person: keep the loop open, through bridges and correction, or wait for it to be forced open. The next interlude takes the same question into networks of machines, and Volume III will try to design for it.
 
-At USC, this became impossible to ignore. Collaboration in class would mutate into competition by the second assignment. Faculty meetings operated like politely disguised parliaments. Discussions in frat houses spiraled like recursive loops that no debugger could rescue.
+## What Holds a Society Together
 
-Even the coffee line had a governance structure. Each queue was a trust exercise: you surrendered a bit of personal freedom in exchange for caffeine, thereby reenacting civilization in miniature.
+Sociology was born asking the question this chapter keeps circling: what holds a society together? Its founders gave strikingly different answers, and each still explains part of what I saw in Los Angeles.
 
-Coleman tried to model all that with equations. Weber tried with prose. LA resisted both. It was a city where incentives clashed with identities, where rational actors negotiated with irrational histories. Where the past --- redlining, segregation, policing disparities, economic fault lines --- lived just under the asphalt, whispering into the present.
+Émile Durkheim saw two kinds of glue. In small, traditional groups, people are held together by sameness: shared beliefs, shared rituals, shared lives. He called it mechanical solidarity. In large, modern societies, sameness runs out, and people are held together instead by needing one another: the baker needs the farmer, who needs the mechanic, who needs the baker. He called that organic solidarity, the solidarity of interdependence.[^v1-c5-division] Fraternity Row ran on the first kind; Los Angeles, at its best, on the second. The trouble with interdependence is that it can bind people who never meet and don't trust each other. Dependence can outlast any belief that the exchange is fair; needing someone is no guarantee that they will treat you well.
 
-And I began to notice something unsettling: **the system itself behaved like a neural network that had been overtrained on trauma.** Inputs did not map cleanly to outputs. Patterns repeated whether useful or not. The city would "activate" in unpredictable ways --- a tension here, a spark there --- and no one could quite explain why.
+Karl Marx answered that much of what looks like order is really one group's power over another, kept in place by ownership, law and force. The arrangement carries conflicts within it, even when the people at the bottom have little power to refuse it.[^v1-c5-marx] You don't have to accept his remedies to recognize his diagnosis on the streets of a city patrolled from the air. Max Weber added the question that sits between the two: why do people accept authority at all? Not only from fear, he argued, but from belief in its legitimacy, whether rooted in tradition, in a charismatic leader, or in the accepted legality of rules and the offices authorized to apply them.[^v1-c5-weber] Legitimacy is the cheapest glue a society has, and the most expensive to lose. A police department that loses it must lean harder on coercion, and even that depends on somebody still cooperating.
 
-Even my own motives were part of this web. Why was I here? To learn? To belong? To reinvent myself? To find purpose? Or simply because Patrick needed someone to drive his boombox across the Mojave Desert?
+Erving Goffman brought the question down to the scale of an afternoon. Social life, he observed, is a set of performances: we play roles on a front stage, before audiences who expect them, and drop them backstage among people we trust.[^v1-c5-goffman] A fraternity is a theater with an unusually elaborate costume department. So is a corporation, a courtroom and a police station.
 
-The more I observed, the more LA looked like a society trying to make sense of itself in real time --- one operating system running on too many unpatched drivers. Systems theorists would call it **nonlinear dynamics**. Sociologists would call it **collective behavior**. The rest of us would call it **Tuesday**.
+These unwritten expectations are **norms**, the soft code that saves us from renegotiating civilization every time someone joins a queue. Cristina Bicchieri makes a useful distinction: what I expect others to do, and what I expect them to think I ought to do. The second can matter even when I privately disagree. Reputation, a favor returned, a cold shoulder or exclusion can enforce the rule without a policeman in sight.[^v1-c5-norms] This is also how a room full of reluctant people can preserve a practice none of them particularly likes: each mistakes the others' compliance for approval. Changing the rule then requires making that private disagreement visible, not merely delivering a better sermon.
 
-For nearly two years, I told myself that this chaotic equilibrium was sustainable. That a city founded on contradictions could balance them indefinitely. That the system's feedback loops would hold.
+Sanctions have their own politics. Someone has to decide which breach deserves them, whose testimony counts, and whether the accused can answer. A norm can keep promises credible or make an outsider permanently suspect. The same capacity for remembering who did what can support mutual aid, a protection racket, or both. Shame is inexpensive to administer, which may explain some of its popularity.
 
-I believed that --- right up until the moment the feedback loops failed.
+Underneath all of them run demands on attention and time. Robin Dunbar's comparisons of primate brains and groups suggested a human network of roughly 150 stable relationships, with closer circles often clustered around 5, 15 and 50. Those are useful recurring scales, not biological turnstiles: the estimates depend on what counts as a relationship, and the primate-to-human extrapolation has been challenged.[^v1-c5-dunbar] Nobody loses a friend automatically when number 151 arrives. But keeping track of obligations and earning trust do take work.
 
-But that part comes later. Upheavals, like monsters, deserve their own entrance.
+To cooperate beyond personal acquaintance, humans developed roles, records, institutions and stories big enough for strangers to share. Money, nations and creeds are what I've come to call scaling stories, the means by which a species built for bands learned to live in cities of millions. After one more emergence, that of work itself, the chapters that follow are about those stories: how they're built, how well they hold, and what happens when they crack.
 
-## The Architecture of Order (and Other Illusions)
+Even a bridge needs a specification. A weak acquaintance can bring news from another circle; persuading people to risk their livelihood together may require reassurance from several trusted contacts. Damon Centola and Michael Macy called this distinction *complex contagion*: some behavior needs reinforcement from multiple sources, so a solitary long-distance connection may carry the news without carrying the commitment.[^v1-c5-contagion] Designing for circulation and designing for cooperation can therefore require different networks. More connections is an incomplete instruction to give an engineer, even one who means well.
 
-Every civilization, I eventually realized, is a magician with good drywall.\
-The trick is always the same: hide the wiring, sell the view.
+![Three views of the same six people. Bonds support familiarity within groups; bridges connect groups; authority gives an institution power to direct or sanction. The added links have different meanings, so counting them cannot by itself establish cooperation, legitimacy or consciousness. Original conceptual schematic, not a measured map of Los Angeles.](assets/05-chapter/social-relations.svg){#fig-v1-c5-social-relations width=100% fig-alt="Three panels repeat two groups of three people. The first highlights bonds within each group, the second adds dashed bridges across groups, and the third adds directed authority links from a separate institution. Questions beneath distinguish trust, cross-group access and the power to decide."}
 
-In Milwaukee, the pipes were honest. You could see the steam lines sweating in winter, hear the radiators hiss like tired snakes. In Los Angeles, the infrastructure was emotional. The plumbing ran through zoning codes, credit scores, and memories of who had once been welcome where. Freeways were not just concrete; they were frozen arguments about whose time and safety mattered.
+## The Designed Tribe
 
-Coleman gave me equations for cooperation. The city gave me something messier: asymmetry. Wealth pooled here, risk pooled there. Some neighborhoods had sidewalks and shade; others had liquor stores and bulletproof glass. Sociologists had precise names for this---structural inequality, institutional racism, systemic bias. My engineer brain translated them into something simpler and less polite: design flaws.
+If Los Angeles was a city of parcels, Fraternity Row was a parcel that had been engineered. Everything a tribe usually grows over generations (rituals, kinship, songs, sacred objects, a shared enemy across town) had been deliberately built in. For a monkey in the mix, it was the best field site imaginable.
 
-From above, LA looked like a circuit board. From below, it felt like a machine that worked beautifully for a small set of users and treated everyone else as heat loss. Bus routes mapped old redlining scars. School districts traced property values more faithfully than they traced children's potential. The same exit ramp could deliver you to Beverly Hills or to a neighborhood that only appeared on the news when something burned.
+Émile Durkheim, studying religion over a century ago, noticed that rituals produce something he called collective effervescence: a shared charge, felt together, through which a group experiences and renews its attachments.[^v1-c5-durkheim] The anthropologist Victor Turner added that rites of passage work by suspending people between states, no longer what they were and not yet what they'll become, and that this in-between can produce *communitas*, an intense fellowship that temporarily loosens ordinary rank.[^v1-c5-turner] Pledging is that in-between, by design. In a classic experiment, Elliot Aronson and Judson Mills found that women who underwent an embarrassing initiation rated a deliberately dull discussion group more favorably afterward. Effort justification offers one uncomfortable possibility: having paid dearly to enter, we improve our opinion of what we bought. It does not establish that cruelty creates lasting solidarity; later field research on fraternity hazing gives that comfortable excuse little support.[^v1-c5-aronson] Ours, thankfully, ran on effort rather than cruelty.
 
-None of this required a grand conspiracy. That's the unnerving part. Like algorithms, systems don't need malice; they just need optimization targets. Give a city the wrong objective function---maximize property values, minimize "disorder," keep certain people "over there"---and it will quietly recompile itself into a hierarchy no one admits to designing.
+The effort's high point was the treasure hunt. Our pledge class piled into a car: one brother in the passenger seat with the map in hand, another in the back deciphering clues, and the rest of us shouting suggestions that were, statistically, wrong. The trail ran through the La Brea Tar Pits, Santa Monica and the Miracle Mile, and out to LAX, where I learned the airport better than its security would have liked. One clue required a stranger's signature, and an airport worker named Guillermo obliged, though only with his first name; to this day I know how to spell and pronounce it. On its face, the hunt was an exercise in bonding, a Turnerian rite of passage. But what stayed with me was the realization that three older members had probably spent days laying the trail through a city that doesn't like to be crossed, and that their effort gave the institution a legitimacy no ritual alone could have. Either way, for one night, a pledge class toured the parcels most of us would otherwise never visit, and came back a tribe.
 
-The sociologists I later read---Durkheim, Parsons, Goffman---offered different vantage points on this same machine. Durkheim talked about solidarity and anomie, about the ways we knit meaning together and then slowly pull the threads. Parsons dreamed of equilibrium and functional systems; Los Angeles responded with earthquakes. Goffman described life as theater; LA answered with casting calls and security cameras.
+Every tribe needs sacred objects, and a pledge's is his paddle. Mine was shaped like the state of Wisconsin, with a handle, cut in the house's woodshop: my previous domain, carried into the new one and sanded smooth. It has survived every move since, which is more than I can say for most of my furniture. Then there were the songs to memorize: anthems and signs, a whole ballad in honor of the fraternity's sweetheart, and a body of lore a pledge was expected to absorb faster than the beer.
 
-What I felt walking those streets was not equilibrium so much as pressure. Everyone seemed to be running hot: the cashier behind the Plexiglas, the cop in the cruiser, the professor in the faculty meeting, the student calculating rent on a teaching assistant's salary. The whole metropolis felt like a boiler room that had been rebranded as "open-plan living."
+Designed tribes also rebuild family trees. Every new member was assigned a big brother, whose own big brother made him something like a grandfather, so lineages formed, branching through the generations of pledge classes. My line descended from a founder of unusual fertility, with quite a few offspring; another, smaller line traced to someone else. We joked about the split, but there was a little more than baseline cohesion within each, the way primatologists find coalitions forming inside even the friendliest troops.
 
-We called it growth, because "increasingly unstable high-energy configuration" doesn't fit on a Chamber of Commerce brochure.
+What kept the whole thing from boiling over was leadership, of a particular kind. Some members raised the stress level on principle: we were hazed, so tradition demands it. The presidents I knew best did the opposite. One of them, Jason, was level-headed and personable; he kept the rituals, but everyone understood that the fraternity was part and parcel of a bigger life. The surround wasn't dropped; the center simply stayed meaningful within it. When a dispute arose, he listened to both sides and kept a balance. Primatologists have a precise account of why that matters. Jessica Flack, Frans de Waal and their colleagues found that in a captive group of pigtailed macaques, a few powerful individuals acted as impartial police, breaking up fights without taking sides; when the researchers temporarily removed them, conflict increased and the networks of affiliation became less extensive and more fragmented.[^v1-c5-flack] Jason was our impartial policer. Nobody told him that was his job. The group simply ran better because he did it.
 
-This chapter is my attempt to pull the drywall back. To treat social order the way we treated circuits in earlier chapters: sketch the diagram, trace the current, see where the load ends up, and ask the awkward question we avoided in psychology: **What if the monster isn't just inside people, but inside the systems we've built together?**
+At neighborhood scale, sociologists call a related capacity *collective efficacy*: enough mutual trust, joined to a willingness to intervene for a shared good. Robert Sampson, Stephen Raudenbush and Felton Earls found that this combination was associated with lower violence across Chicago neighborhoods, even after accounting for several competing explanations.[^v1-c5-efficacy] The operational question is whether someone will step in, and expect support, when a child is in danger or a public space is threatened. Being close is only part of the machinery. A tightly bonded group can also organize very effectively against everyone else.
 
-Consider what follows an introduction to the anatomy of social systems---how injustice becomes infrastructure, and how the wiring hums long before anything catches fire.
+My other house, the suspended one full of borrowed tenants, made a useful comparison. Its residents mostly belonged somewhere else, and its bonds were loose: people were friendly but coupled lightly, partitioned along the lines of their real fraternities. The two of us who shared my own fraternity hung together more than anyone. The same street, two houses, two very different amounts of glue. If Chapter 4's person was a loop that must stay open, a tribe is a set of loops deliberately tied together, and the tying is the whole art.
 
-## From Mind to Mob --- Sociology Emerges
 
-Once you've watched Dahmer on the evening news and a city flirt with combustion, you eventually realize that psychology alone is too small a lens. The question stops being, *"Why did this person do that?"* and becomes, *"How did we end up building a world where this keeps happening at scale?"*
+## The City of Parcels
 
-That pivot--- from neuron to norm, from impulse to institution---is where sociology walks in.
+From Fraternity Row, the rest of Los Angeles was a set of destinations. You either stayed in the blocks around the university, which existed largely to cater to students, or you got in a car and drove somewhere else. There was no concept, as far as I can recall, of simply spending time in the surrounding neighborhood with the people who lived there, whom students referred to, collectively, as "the locals." The mixture of fear and condescension in that word was obvious, at times disturbingly so.
 
-If psychology gives us the inner weather report ("60% chance of rumination, with scattered intrusive thoughts later in the day"), sociology gives us the climate. It asks why, across millions of people, certain storms keep forming over the same neighborhoods.
+I'd like to say I stood apart from it. The truth is more diagnostic than flattering. I grew up around private clubs and private parties, some of them very large, thrown by my parents for the elite of my old world. It left me with a peculiar set of nerves. Put me in a group of peers trading jokes and I could be anxious to the point of silence; put me across from a prime minister or a celebrity, which has happened, and I'm perfectly calm, as if we were on the same level. A customs officer or a traffic cop can set me shaking, yet I've never been afraid of being poor. The sociologist Pierre Bourdieu had a name for this: *habitus*, the instincts we absorb from the world we grew up in.[^v1-c5-bourdieu] Class, in his view, shows up not only in what you own but in where you feel at ease. That ease was one of the reasons I'd left my old world, which had shown me clearly who stood in the surround. And here I had earned it all over again, as the price of admission to an elite university. Now and then I was invited into the homes of the city's elites, friends' parents, and the ones who invited me were exceptionally kind, polished people with high ideals. I can't vouch for the ones who didn't; I never met them. I knew how to fit in. That was precisely the problem.
 
-The Greeks saw the outline. Aristotle called us *zoon politikon*---the political animal---implying that a human alone is not quite finished, like a device waiting for Wi-Fi. But it wasn't until the soot and crowding of the Industrial Revolution that the modern discipline of sociology really took shape. When you pack humans into tenements, clamp them to factory schedules, and run train tracks through their villages, new questions arise: Why does this feel wrong? Who built this? And why do they never ride the night shift?
+The locals I did meet were mostly people serving us: cashiers at the Del Taco and University Village, the drivers of the university shuttle. And there were the homeless men who gathered near the row to collect, with real dedication, the empty beer cans fraternity life generously provided. (I'd been a heavy contributor.) One of them, an African American man who often sat outside a store near the row, I came to know a little. The first time I shook his hand, I was afraid of it: there was a cut or two on it that had clearly never seen a doctor. But if a handshake could make you sick or kill you, what would be the use of living such a fragile existence, where you can't even touch a fellow human without disgust or fear? He was warm and good-natured, nothing like his look from a distance. He told me his name, which I'm ashamed to say I don't remember, and perhaps asked mine. Once or twice I sat with him on the pavement, the way a tourist in a faraway country sits closer to the ground as a gesture of respect. Except that he wasn't a foreign culture. He belonged to the same city, the same neighborhood, as I did.
 
-Auguste Comte tried to answer by treating society as an organism---messy, yes, but law-governed. He dreamed of a "social physics," where human behavior could be plotted and predicted like planets. Durkheim then gave that dream a spine. He talked about **social facts**---marriage, funerals, laws, Tuesday staff meetings---things that exist outside any one of us yet press on each of us like atmospheric pressure. You don't invent them; you merely inherit the dress code.
+I should be honest about where that came from. Left to myself, I'd have kept calcifying my privilege, or my fear: a loop closing on its center and ignoring the surround. What broke it was the example of a neighbor at the house, a journalism major and the son of a senior executive at a very large financial institution (which he mentioned to me only as a lament, never a boast). I watched him walk past the carnival of the row, cross the street, shake hands with the men gathered there and talk with them, trying to understand. Without that noise to break the cycle, I wouldn't have looked out. Chapter 4's Alice said a loop stays open when the world is let in. Sometimes the world comes in through someone else's example.
 
-Max Weber, meanwhile, looked at the growing forests of paperwork and saw something darker: rationalization turned into a cage. Bureaucracies, he warned, were not just efficient; they were soul-shaping. You organize a world around clock time, credentials, and standardized forms, and soon enough people start to think of themselves as items on a checklist.
+The parcels went on, each with its own weather. I drove through Beverly Hills simply to admire the architecture; there was nothing else there for me. Its residents seemed to be normal people with extraordinary houses, and its values neither better nor worse than anyone's. The Corolla didn't feel comfortable there, so for her sake I kept the visits brief. I was neither envious nor afraid of their wealth; my only fear was that, if anyone ever invited a stranger off the road into one of those houses (which of course would never happen), my clumsy self would break something ornate. Beverly Hills was an apple cart, and I admired it from as far away as possible, partly to avoid upsetting it, and partly to avoid upsetting my own apple cart of ideals about equality.
 
-And then Marx barged in like the relative who has no patience for small talk and immediately asks who owns the house. For him, history was not primarily about rituals or meaning; it was about **production and power**. Who controls the factory? Who owns the land? Who writes the laws that decide whose suffering is "necessary" and whose anger is "unacceptable"?
+Venice Beach, oddly, frightened me more than the neighborhood around campus did. Things that stayed hidden elsewhere were allowed out in the open, which was refreshing in its way. But once in a while a face gave me an impression of inner hollowness I couldn't shake (an impression, not an acquaintance). For peace, I jogged the stretch between Manhattan Beach and Hermosa Beach. Santa Monica and Newport Beach pulled at me for reasons I never worked out. And in Marina del Rey, whenever I tried to explore beyond a familiar bar or two, I got extremely lost.
 
-Between them, these early sociologists sketched a sobering picture: we do not float in personal freedom so much as swim in currents we did not design. Psychology can tell you why you hesitate; sociology tells you why the choice in front of you is between two bad options.
+The parcels were more durable than anyone's impressions of them. Rent, lending, school boundaries, access to jobs and the time available to reach them helped decide who could live where, whom they would encounter, and what a useful encounter could become. A recommendation is worth less if you cannot reach the job, afford its unpaid apprenticeship or arrange care for your child. Personal prejudice can enter each decision; separation can also reproduce itself after a particular decision-maker has gone home. Later evidence from the randomized Moving to Opportunity housing program found better adult earnings and college attendance for children who moved to lower-poverty neighborhoods while young. Place was doing work that a lecture on personal ambition could not.[^v1-c5-neighborhood]
 
-This chapter is the moment our narrative crosses that disciplinary border. In Part I so far, we've moved from particles to cells to minds. Now we let those minds sit together long enough to form tribes, institutions, riots, and revolutions---and we ask what kinds of monsters emerge **between** people, not just within them.
+There is another separation inside the separation. Raj Chetty and colleagues, studying cross-class friendships, distinguish *exposure* (whether people of different incomes share a setting) from *friending bias* (how often they form friendships given that opportunity). Both contribute to who actually connects.[^v1-c5-connectedness] Opening a campus gate changes access. It does not, by itself, change who sits with whom once inside. Nor does friendship automatically redistribute the resources outside. The street I crossed to shake a hand was short; several other distances remained.
 
-If psychology is the study of what happens when the brain talks to itself, sociology is what happens when brains start talking to each other and can no longer agree on who started it.
+## Codes of Distrust
 
-## Hierarchies, Tribes, and Tokens --- The Primal Blueprint
+As for the LAPD (or the Highway Patrol), my fears were limited strictly to the speeding ticket, or perhaps a parking ticket, if I'm honest about how competitive Los Angeles freeways were. Yet given what an ordinary roadside checkpoint does to my nerves, I've often wondered what it was like for whole communities to meet those same officers, not as an occasional high-speed jump-scare on the 405, but every day, on their own blocks and in their own alleys.
 
-Before there were city councils and corporate org charts, there were primates arguing with their shoulders.
+The record, it turned out, was grim. After the beating of Rodney King, an independent commission led by Warren Christopher examined the department and found a significant number of officers who repeatedly used excessive force and were seldom disciplined for it, along with racist and violent messages officers had typed to one another on their patrol-car computers.[^v1-c5-christopher] The same spring, a fifteen-year-old Black girl named Latasha Harlins was shot dead by a Korean American store owner in a dispute over a bottle of orange juice; the owner was convicted that October and, in November, received probation with no jail time.[^v1-c5-harlins] For many in South Central, the two cases together said the same thing: justice was not coming from outside.
 
-Watch a troop of baboons or chimpanzees long enough and you'll see familiar politics: dominance displays, strategic grooming, consolation hugs, side-eye. Frans de Waal has spent a career making humans uncomfortable by pointing out how much of our boardroom etiquette was beta-tested in the trees.
+The sociologist Elijah Anderson spent years studying what happens in neighborhoods where people can't count on that justice. Where trust in the police and the courts runs thin, he found, an informal "code of the street" grows up in its place, a set of rules about respect and retaliation that lets people protect themselves when no one else will.[^v1-c5-anderson] The code can make retaliation seem necessary even to people who would rather avoid it. It is one coercive way of producing order when formal protection is distrusted, and it can help reproduce the danger it is meant to answer.
 
-Hierarchies in these species aren't purely vicious. They reduce constant fighting, coordinate group defense, and organize access to resources. Dominance, in evolutionary terms, is a compression algorithm: it turns thousands of possible conflicts into a few predictable ones.
+## Who Arranges the Encounters?
 
-But evolution is indifferent to justice. A hierarchy that keeps the group alive can be brutally unfair to individuals. Low-ranking animals live with more stress, more disease, shorter lives. The system survives by burning through certain bodies faster.
+Looking back from our networked present, the social map now has another author. A platform can decide which acquaintance reappears in your day, which stranger seems representative of a whole community, and which grievance arrives with a thousand apparent witnesses. Recommendation systems arrange exposure; ranking makes some behavior conspicuous enough to look normal. Those are interventions in the conditions from which norms grow, even when nobody has issued a rule.
 
-Humans took this template and added something astonishing and slightly dangerous: **symbolic thought**. We didn't stop posturing; we just learned to outsource the posture to tokens.
+The effects are neither trivial nor obedient to our favorite explanations. In an experiment during the 2020 US election, replacing Facebook and Instagram's ranked feeds with chronological ones changed what users saw and reduced their time on the platforms. It did not significantly change the measured political attitudes or polarization over the three-month study.[^v1-c5-feeds] Changing the encounter and changing the person are different achievements. A platform's reach is considerable; its power is not a magic wand.
 
-Instead of a single alpha standing on a rock, we got crowns, uniforms, letterheads, badges, job titles, follower counts. Tokens let status travel. You don't need to see the chief if you can see the flag. You don't need the landlord in the room if the deed is in the drawer.
+Software can also join the encounter. In a network game studied by Hirokazu Shirado and Nicholas Christakis, people had to choose colors different from their neighbors'. A few centrally placed bots that occasionally made locally unhelpful moves helped human groups escape coordination deadlocks. The benefit reached human-to-human interactions elsewhere in the network.[^v1-c5-bots] Too much randomness was unhelpful. The point was the placement and behavior of the intervention, not a machine issuing wiser instructions to everyone.
 
-This is where "social constructs" enter---not as magic words that make material reality disappear, but as shared fictions that become real by collective enforcement. Money is a construct; so is race; so is law; so, often, is "merit." They're not imaginary in their effects; they're imaginary in their origins.
+By 2025, experiments with populations of language-model agents had shown another possibility: local exchanges in a naming game could produce a common convention without anyone instructing the population to agree. Group-level preferences could also develop where individual tests had shown no corresponding bias.[^v1-c5-llmconventions] This was a constrained experiment, not a miniature Los Angeles with opinions about parking. Still, it puts a useful crack in the assumption that inspecting every member tells us how the society will behave. We will have to examine the relationships and incentives too, especially when the members include machines.
 
-Tokens allow us to scale the tribe from fifty apes around a water hole to fifty million strangers under a flag. They also let us launder violence through procedure. A baboon shows teeth; a modern bureaucracy sends a letter with a 30-day notice.
+For a future collective, the design problem reaches beyond giving everyone a better assistant. Who chooses the encounters? Who can question the recommendations? Can help circulate across groups without making one intermediary indispensable? Those questions were already present in the streets. Software gives us another place to build the streets.
 
-The monsters we build together rarely look like beasts. More often they look like systems that nobody "meant" to be cruel, yet somehow always lean on the same necks.
+## Ritualized Conflict
 
-### The Primate Within
+Westwood, home of UCLA, was our rival territory. It was a nice neighborhood, and we went there occasionally for fun rather than a border skirmish, or what my inner chimp would classify as a routine boundary patrol. On one such excursion, having ordered several pitchers of beer, one of our group abruptly decided to leave. Peter looked at me, then at the two remaining, fully paid pitchers. We were not about to abandon two of our most prized companions in hostile territory. When we were safely outside, I unzipped my leather jacket to reveal both pitchers tucked neatly inside, not a drop spilled. Someone produced a pair of Solo cups. In chimpanzee terms, I had earned an exhaustive, high-status grooming session. Peter later boasted to the rest of the house: "We're not talking individual glasses here. Two full pitchers. Right from the middle of Bruin territory. And did you see the size of those bouncers?"
 
-You can take the hominin out of the savanna, but you cannot, it seems, take the savanna out of the hominin.
+The regional rivalry turned the annual USC–UCLA clash into an apex ritual of its own. Each human faction meticulously wrapped its campus statues to survive the pre-game week, defending against a long evolutionary history of territorial vandalism. The humans at USC also bred an endemic riffraff like myself who, over the generations, carried off far greater spoils than mere draft beer. I attended a couple of home games a year at the LA Coliseum, situated right next door to our campus. If we won, the troupe celebrated. If we succumbed to defeat, the student body knew exactly which campus infrastructure to kick to emit the loudest possible distress call without fracturing their own habitat.
 
-Robert Sapolsky, in *Behave*, describes us as primates with prefrontal add-ons: baboon hardware with an overclocked cortex bolted on top. The upgrade allows for ethics, spreadsheets, and PowerPoint, but the old firmware still boots.
+One game takes me briefly ahead to November 1992, across town at the Rose Bowl in Pasadena. It was a wild, high-scoring one. In the final minutes we scored a touchdown that brought us within a point, and there was no overtime in our division’s regular-season games in those days. The coach went for the two-point conversion and the win. We failed to convert, losing by one, 38 to 37.[^v1-c5-game] He too refused to leave two metaphorically full pitchers in the rival territory and walk out with just a draw. What followed, from our side of the stands, was mostly the ordinary consolation of losers: *at least we had the courage to go for it*. But that old, worn-out classist collegiate sports chant stopped me cold: "That's all right, that's okay, you're gonna work for us someday." I couldn't join in. Everything else in a rivalry seemed fair game, but that line wasn't about football. It was class contempt with a marching-band rhythm.
 
-Consider ingroup bias. You can divide people into "Team Blue" and "Team Green" with nothing at stake except a colored sticker, and within minutes they'll start favoring their own group in tiny but measurable ways---more trust, more generosity, more benefit of the doubt. No history, no grievance, just labels.
+I've never quite understood what such rivalries mean when both sides are proud of the same city. The psychologist Muzafer Sherif once divided boys at a summer camp into two groups and watched an intense rivalry form within days, out of nothing but competition, until he gave them goals they could only reach together.[^v1-c5-sherif] Rivalry, primate or otherwise, can be manufactured almost anywhere, it seems: a landscape where, at whatever scale you look, you'll find a center and a surround to set against it. A stadium full of people gathering peacefully around a game with agreed rules is a remarkable thing, a fire in a fireplace. That chant was the reminder that the same crowd mechanics can carry contempt as easily as joy.
 
-Scale that up to ethnicity, religion, class, or party, and the stakes rise fast. Old tribal instincts begin to wear modern costumes:
+## Moments the City Shared
 
--   Xenophobia and racism as misfired group-defense circuits.
+There were times, though, when the parcels felt like one city. Durkheim would have recognized them: not festivals, mostly, but shared shocks.
 
--   Corporate loyalty and sports fanaticism as respectable tribal obsessions.
+Like most of the city, I must have seen George Holliday's video of officers beating Rodney King on the evening news, though I can't say where. In the fall of 1991, Magic Johnson announced that he had HIV. I was no basketball fan, and certainly no Lakers fan, but the news was devastating to many around me. "Not him," said a housemate. "He's the nicest guy. He's the last person who deserves this. I hope it doesn't wreck his image." Under it, unspoken, was the hope that he'd somehow survive what was then considered a death sentence. He did.
 
--   Online "communities" as digital clans, complete with shibboleths, heretics, and exile.
+A little over two weeks later came news that was mine alone, though it reached me on a Los Angeles freeway. I was driving when the radio announced that Freddie Mercury had died, and then it played "Who Wants to Live Forever."[^v1-c5-shocks] Both the Corolla and I drove the rest of the way in tears. It could have been the usual condensation from the air conditioner.
 
-The result is not only cohesion but **structural violence**---harm that is slow, normalized, and baked into routines. No one has to wake up in the morning and decide, "Today I'll uphold inequality." It's enough that we follow the script.
+## Half a Foot Out the Door
 
-When you look at a city with this in mind, you see familiar primate dramas, just with better wardrobe. Alpha males and females in corner offices, coalition-building in committee meetings, grooming rituals disguised as networking events. The amygdala is never far away; it has just learned to use email.
+By the spring of my second graduate year, I had, in most of the ways that count, already left. My coursework was essentially done by the end of the previous year. Patrick had gone north to Silicon Valley, boombox and all. The music left without me. He offered me an honorary couch in his Sunnyvale apartment. All that year the Corolla shuttled between the two ends of the state, so that I lived in a kind of superposition: half in Los Angeles, half in Sunnyvale, entangled with both and fully present in neither. The plan, and the advice, was to finish the master's degree, pack the Corolla for good and join the great migration north, where engineers were building the future.
 
-## Scaling the Tribe --- From 50 to 50 Million
+I stayed for reasons too small to defend and too persuasive to ignore: an itch to try a PhD before admitting I had nothing to publish but grocery lists; a fear that once I took a real job, someone would discover I was an impostor with decent handwriting; a sentimental loyalty to the strange tribe of university life; and a commencement ceremony I fully intended to attend this time, having skipped my last one. I already had half a foot in the industry of the next chapter. The other half was still planted on Fraternity Row.
 
-Anthropologist Robin Dunbar famously suggested that there's a rough cognitive ceiling---around 150 people---for how many relationships a human brain can track with nuanced understanding. Above that, we start needing help: name tags, job titles, spreadsheets, address books, and eventually, national anthems.
+## The Upheaval: The City Burns
 
-Modern civilization is, in this sense, a giant social exoskeleton. We have extended the tribe by building supporting structures:
+On the afternoon of April 29, the jury in Simi Valley returned acquittals for the officers charged in the beating of Rodney King, leaving one count against one officer unresolved.[^v1-c5-verdict] I believe I heard the news at my fraternity house. By evening, the city was on fire.
 
--   Identity registries: birth certificates, passports, usernames, Social Insurance numbers.
+Back at the borrowed house, everyone cleared out: home, or into the secured dormitories, like sensible people with survival instincts. John and I stayed. Maybe it was bravado. Maybe it was the fine liquor from Peter's well-stocked bar across the hall, its owner having sensibly abandoned the premises. Maybe it was the feeling, inchoate but palpable, that something historic was happening and we didn't want to miss it. Two things were certain. We were two young grad students: one in journalism, the other engineering. Bravery was not in our course catalog, and we had consumed enough of Peter's liquor to start believing we were a social-justice reporter and a social engineer.
 
--   Affiliation signals: flags, jerseys, logos, profile bios, pronouns.
+Before leaving, Peter had written a note on his whiteboard: WE WANT JUSTICE. In his original context, "justice" meant *please don't drink my cognac*. We interpreted it as a call for world reform. Sometime in that philosophical fog, we began chanting it back and forth down the empty hallway, "We want justice!", not protesting, not rioting, just cheerfully reciting Peter's whiteboard. Spirits (his) had created spirits (ours).
 
--   Enforcement mechanisms: laws, HR policies, block buttons, content moderation.
+What we didn't know was that we weren't alone. The next morning, we learned that a third person had been in the house all night, in one of the few rooms downstairs, which we'd assumed were empty. He had spent the night hunkered down, holding his breath, convinced from our chanting that the rioters had breached the upstairs of the house.
 
-These tools are miracles of coordination. They allow you to drink water that strangers purified, trust food you didn't grow, and travel safely through cities where no one knows your name but everyone more or less agrees to stop at red lights.
+Three people in one building, and three entirely different nights: for us, a surreal party inside a firelit city; for him, terror; and for Peter, a later and unexplained depletion of bar stock. Each of us read the same sounds through a different center, and none of us checked the surround. It was the city in miniature.
 
-But every prosthetic comes with failure modes. When the trust scaffolding cracks---when a currency hyperinflates, an institution loses legitimacy, or a platform suddenly changes its rules---the tribe doesn't shrink back to 150; it panics at scale. Supply chains wobble, rumors spread, and suddenly millions of people discover that the shared fiction they were standing on has version-controlled itself into something they no longer recognize.
+The next day, the riot wasn't a headline anymore. It was geography. The air smelled of burning and of the kind of anger that takes decades to accumulate. In the morning, as the previous night's spirit settled, the thought struck me that if I had to escape the city for any reason, I had better have gas in my car. I drove out looking for a station that hadn't shut down, through streets lined with smoke and boarded windows, past familiar storefronts that were simply gone: the place I bought my fraternity cap, the restaurant my professor loved. At one station, I saw people streaming out of the convenience store. Excited, I pulled in for fuel, but pulled out just as quickly when I realized those were looters. The gas station wasn't open; it had been opened.
 
-In computer terms, we've built a massively distributed social system running on unreliable nodes with no global consensus algorithm. And yet, most days, it more or less works. Until, of course, it doesn't.
+The fear of getting dragged out of my car on those angry streets was very real. I stopped by an incinerated building and picked up a charred piece of tile, a doorknob, and an electrical box from the piles of warped brick and ash. Other people nearby in that gutted wreck were looking for merchandise; I was just looking for something to hold onto in the middle of what was gone. It wasn't just me: the whole city was looking for a basket, and we were all looking in the wrong places. Whatever had burned these structures, the fire and the anger alike, was still burning the not-yet-burnt on all sides: one could char me, and the other could drag me out of my car. Looking for fuel in the middle of an inferno had become hopeless. I headed back before I became the fuel myself.
 
-## Policing the Sacred --- Norms, Shame, and the Machinery of Control
+On the return, fire was burning on both sides of the road, the flames encroaching onto the asphalt. Stopping or turning around carried an even greater peril, and waiting was the worst option of all. I stepped on the gas, pushed through the wall of smoke, and eventually reached the relative clarity of the other side, still feeling the heat radiating through the closed windows.
 
-Every society has a list of things you "just don't do," even if no law mentions them. You don't cut in line at the bakery. You don't cheer at a funeral. You don't show up to a job interview in a swimsuit, unless you are auditioning for a very specific line of work.
+That afternoon I moved to the greater safety inside the campus walls, taking refuge in a residence hall, and from its upper floors I saw a bird's-eye view of the surrounding city. It was like a movie, like nothing I had seen in real life: a full panorama of large pockets of fire as far as the eye could see, with the campus at its center, or at least like home plate, with everything laid out in front of it on all sides.
 
-These unwritten expectations are **norms**---the soft code that runs in our heads and keeps us from turning every social interaction into a negotiation from first principles. They save us time, prevent constant violence, and let us live in relative peace with roommates, coworkers, and in-laws.
+It wasn't a movie. Movies require extras and permits; this needed neither. Over the next several days, dozens of people died, thousands were injured, and entire stretches of businesses were damaged or destroyed.[^v1-c5-toll] Some Korean American merchants defended their stores with guns as police protection failed. The Harlins case had intensified tensions, but the destruction crossed racial and neighborhood lines; neither the people suffering it nor those taking part formed two tidy camps.[^v1-c5-koreatown]
 
-Norms also draw lines. They mark insiders and outsiders, "people like us" and "people who should really know better." Break them, and you encounter one of the most powerful enforcement tools evolution ever invented: **shame**.
+The verdict was only the spark. The fuel was much older. Alice's rabbit hole had described a city held together by watching rather than by connecting, a loop that answered every complaint with force. This was what it looked like when that loop was forced open: different parts of a weakly integrated city caught in the same catastrophe, with no single purpose or experience of it. In Wisconsin, the monster had been born in private, inside a single sealed mind. Here, the monster had been built together, one policy, one patrol and one look away at a time, by people who mostly never met.
 
-Shame is the feeling of being seen and found wanting. Neuroscientists can point to regions lighting up on scans; most of us can point to moments in adolescence. It's not just "I did something bad" (that's guilt); it's "I am bad, at least in the eyes that matter to me."
+I thought of the child on the plane in the Prologue, clutching his basket, holding on to the last pattern in a world coming apart. Los Angeles had its baskets too: the idea that the city was stable, the assumption that injustice could stay contained, the polite fiction that progress had mended the cracks. The riot tore through all of them.
 
-The genius---and cruelty---of shame is that it travels inside the skull. You don't need a police officer on every corner if you can train people to flinch at the thought of disapproval. Families, schools, religions, and media all run sophisticated shame economies, sometimes in the name of virtue, sometimes in the name of compliance.
+A little over a week later, I did attend my commencement, the one I'd promised myself. It was a subdued ceremony, held on a campus surrounded by the city's fresh ruins, and the riots dominated the opening of the speeches. We had gathered to celebrate what we'd learned, and the city had just taught us what we hadn't.[^v1-c5-commencement]
 
-On top of this, we build machinery:\
-Graduation ceremonies to signal acceptance. Mugshots to signal expulsion. Dress codes, etiquette manuals, comment policies, ratings, and reviews. Foucault's panopticon---power that works because you *might* be watched, even when no one is looking---has happily migrated from prisons to office keycards, security cameras, and "last seen online" timestamps.
+## Toward Another Kind of Network
 
-And then we connected everything to the internet.
+When the smoke had thinned to a gray haze, I found myself split between the social jungle of Los Angeles and the industrial jungle to the north. In time, I would pack the Corolla for that northward drive. But before I left, I had already met a different kind of network in Los Angeles: a city of its own, made not of people but of machines, with its own rules for agreeing, its own failures to communicate, and, as it turned out, its own versions of the questions this chapter had been asking.
 
-Social media turned norm enforcement into a spectator sport. A misjudged tweet can trigger a global ritual of shaming in hours. Surveillance capitalism and surveillance states differ in motivation but not in method: both rely on the assumption that being watched changes behavior.
+<!-- SOURCE NOTES: verified records and bounded interpretations; Alice’s conceptual revision remains pending author discussion, as recorded in the adoption notes. -->
 
-Most days, the system holds. People keep roughly to the script. But when enough people conclude that the script itself is rigged---when they decide the watchers are corrupt, the rules unfair, the punishments one-sided---something flips.
+[^v1-c5-jfk]: John F. Kennedy, [address on the first anniversary of the Alliance for Progress](https://www.presidency.ucsb.edu/documents/address-the-first-anniversary-the-alliance-for-progress), 13 March 1962.
 
-Shame turns outward. What was unthinkable yesterday becomes, under the right spark, a righteous act today. A smashed window, a burning police car, a toppled statue---these become counter-rituals, acts meant to proclaim: *We reject your definitions of "order" and "respect."*
+[^v1-c5-coleman]: James S. Coleman, [*Foundations of Social Theory*](https://www.fulcrum.org/concern/monographs/cr56n1673) (Harvard University Press, 1990), especially the treatments of trust, social capital, and the emergence of norms. The linked digitization is the later paperback edition.
 
-That is the psychology of a riot: a sudden reboot of what counts as sacred.
+[^v1-c5-davis]: Mike Davis, [*City of Quartz: Excavating the Future in Los Angeles*](https://www.versobooks.com/products/1320-city-of-quartz) (Verso, 1990), especially “Fortress L.A.” Later editions are linked. The fortress is Davis’s critical interpretation of the city, not a claim that its inhabitants had no other relationships.
 
-## Identity and the Social Self --- Roles, Masks, and the Multiplex Human
+[^v1-c5-spielberg]: Spielberg confirmed USC’s rejection in [a contemporary interview](https://www.washingtonpost.com/archive/lifestyle/1984/11/19/uscs-new-film-factory/137949f3-4ba5-4284-be4a-670e472b3c11/).
 
-Walk into a room and watch your face change. The muscles know before you do whether this is a job interview, a birthday party, or a family argument that has been aging in the cellar for three generations.
+[^v1-c5-listpettit]: Christian List and Philip Pettit, [*Group Agency: The Possibility, Design, and Status of Corporate Agents*](https://doi.org/10.1093/acprof:oso/9780199591565.001.0001) (Oxford University Press, 2011), introduction and “The Conditions of Agency.” Their account concerns organized agency; it does not settle whether a group has phenomenal experience.
 
-Erving Goffman was right to see life as theater. We all have:
+[^v1-c5-modularity]: M. E. J. Newman, [“Modularity and community structure in networks”](https://arxiv.org/abs/physics/0602124), *PNAS* 103 (2006): 8577–8582, doi:10.1073/pnas.0601602103. Modularity compares within-group connections with a specified null model. It measures neither agency nor consciousness; the application to Los Angeles here is qualitative.
 
--   A **front stage**, where we manage impressions and speak in complete sentences.
+[^v1-c5-granovetter]: Mark S. Granovetter, [“The Strength of Weak Ties”](https://doi.org/10.1086/225469), *American Journal of Sociology* 78 (1973): 1360–1380. For the distinction between bonding and bridging social capital, see Robert D. Putnam, *Bowling Alone* (Simon & Schuster, 2000). A weak tie is not necessarily a bridge, and a bridge does not guarantee trust.
 
--   A **backstage**, where we remove shoes, filters, and certain adjectives.
+[^v1-c5-reicher]: Stephen D. Reicher, [“The St. Pauls’ riot: An explanation of the limits of crowd action in terms of a social identity model”](https://doi.org/10.1002/ejsp.2420140102), *European Journal of Social Psychology* 14 (1984): 1–21; John Drury and Stephen Reicher, [“Collective psychological empowerment as a model of social change: Researching crowds and power”](https://doi.org/10.1111/j.1540-4560.2009.01622.x), *Journal of Social Issues* 65 (2009): 707–725. These accounts explain patterned collective action through social identity, not a loss of all individual judgment. The adjacent IIT extrapolation is the author’s open question, not a finding of these studies. For IIT’s actual causal and exclusion requirements, see Larissa Albantakis et al., [“Integrated information theory (IIT) 4.0”](https://doi.org/10.1371/journal.pcbi.1011465), *PLOS Computational Biology* 19 (2023): e1011465.
 
--   An **audience**, whose anticipated reactions quietly edit our behavior.
+[^v1-c5-dunbaronline]: R. I. M. Dunbar, Valerio Arnaboldi, Marco Conti and Andrea Passarella, [“The structure of online social networks mirrors those in the offline world”](https://ora.ox.ac.uk/objects/uuid%3Abea66918-1023-4e17-88d2-b66e1ce71f24), *Social Networks* 43 (2015): 39–47. Observed interaction layers are not a fixed limit on account contacts.
 
-The "self" in this view is not a single glowing core but a repertoire of performances. Role theory pushes the idea further: you are, in practice, a bundle of roles---parent, manager, citizen, immigrant, patient, friend---each with its own script and pressure points. Role conflict is what happens when the scripts disagree.
+[^v1-c5-sosis]: Richard Sosis and Eric R. Bressler, [“Cooperation and Commune Longevity: A Test of the Costly Signaling Theory of Religion”](https://www.cognitionandculture.net/wp-content/uploads/Sosis_2003_CommuneLongevity.pdf), *Cross-Cultural Research* 37 (2003): 211–239. In their historical sample of 83 communes, more costly requirements predicted longer survival among religious communes, not secular ones. This is an association, not proof that suffering or difficult entry causes cohesion. The study extends Sosis’s 2000 preliminary comparison.
 
-Sociologist Henri Tajfel added another layer with **social identity theory**. We don't just play roles; we join teams. Some are obvious (nation, religion, party); others are subtler (profession, fandom, aesthetic, meme). Each team offers belonging and pride, and each nudges us toward distinguishing ourselves from out-groups. When personal identity feels shaky, group identity tightens its grip.
+[^v1-c5-division]: Émile Durkheim, *The Division of Labor in Society* (1893), Book I, on mechanical and organic solidarity; Book III, on abnormal forms of the division of labor. See the [primary-text excerpts](https://us.sagepub.com/sites/default/files/upm-binaries/65238_Edles_Chapter_3.pdf), translated by George Simpson.
 
-To make sense of all this, we tell stories. Psychologist Dan McAdams calls it **narrative identity**: the inner myth we formulate about who we are, what we've survived, and where we're going. Culture provides available plots---hero's journey, redemption arc, noble skeptic, misunderstood genius---and we retrofit our lives to something that roughly fits.
+[^v1-c5-marx]: Karl Marx, [preface to *A Contribution to the Critique of Political Economy*](https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm) (1859), on relations of production, property, political forms and conflict. The application to Los Angeles is the narrator’s.
 
-In the digital age, this multiplication becomes extreme. There's LinkedIn you, trying to look competent; Instagram you, trying to look interesting; group-chat you, trying to be funny; and search-history you, who we pray no one ever meets. The front stage never fully closes; the backstage is permanently at risk of screenshots.
+[^v1-c5-weber]: Max Weber, [*Economy and Society*](https://www.ucpress.edu/book/9780520280021/economy-and-society) (1922; English edition edited by Guenther Roth and Claus Wittich, 1968), Part I, chapter III, “The Types of Legitimate Domination,” especially §2. These are ideal types of claimed legitimacy, not a certification of any authority’s fairness.
 
-The costs are real: identity fatigue, impostor syndrome, moral flexibility as we slide between contexts. But there's liberation too. People who could never safely "be themselves" in their immediate surroundings can find a different stage, a different audience, a different tribe. Some forms of resistance---whistleblowing, dissidence, artistic subversion---depend on having more than one self in play.
+[^v1-c5-goffman]: Erving Goffman, [*The Presentation of Self in Everyday Life*](https://www.penguinrandomhouse.com/books/61106/the-presentation-of-self-in-everyday-life-by-erving-goffman/) (1956; revised US edition, 1959), especially “Performances” and “Regions and Region Behavior.”
 
-You could say that sociology is the study of how those masks and stories interact to keep us barely coordinated and perpetually confused.
+[^v1-c5-norms]: Cristina Bicchieri, [*The Grammar of Society: The Nature and Dynamics of Social Norms*](https://www.cambridge.org/core/books/grammar-of-society/2B063E9C9621C2340DEFB2BE15B3AEA5) (Cambridge University Press, 2006), chapter 1, on conditional preferences, empirical and normative expectations, and pluralistic ignorance. Her [diagnostic framework with Ryan Muldoon and Alessandro Sontuoso](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01418/full) distinguishes social norms from practices maintained by other incentives.
 
-## Tribal Faultlines --- Prejudice, Groupthink, and the Madness of Crowds
+[^v1-c5-dunbar]: R. I. M. Dunbar, [“Neocortex size as a constraint on group size in primates”](https://doi.org/10.1016/0047-2484(92)90081-J), *Journal of Human Evolution* 22 (1992): 469–493; for layered relationships, Dunbar, [“Structure and function in human and primate social networks”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7482201/) (2020). For the uncertainty of extrapolating a human limit, see Patrik Lindenfors, Andreas Wartel and Johan Lind, [“‘Dunbar’s number’ deconstructed”](https://pmc.ncbi.nlm.nih.gov/articles/PMC8103230/), *Biology Letters* 17 (2021): 20210158.
 
-If identity is how we costume ourselves, tribalism is what happens when the costumes start throwing punches.
+[^v1-c5-contagion]: Damon Centola and Michael Macy, [“Complex Contagions and the Weakness of Long Ties”](https://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Centola-Macy-2007-AJS.pdf), *American Journal of Sociology* 113 (2007): 702–734, doi:10.1086/521848. Their network model distinguishes transmission through one contact from adoption requiring multiple reinforcing contacts.
 
-Our brains, ever thrifty, love categories. They carve the world into buckets: safe/dangerous, us/them, smart/foolish, "people like me"/"people ruining everything." This is useful on a savanna full of predators; it is more hazardous on a planet full of nuclear weapons and comment sections.
+[^v1-c5-durkheim]: Émile Durkheim, [*The Elementary Forms of the Religious Life*](https://www.gutenberg.org/cache/epub/41360/pg41360-images.html) (1912), Book II, chapter VII; English translation by Joseph Ward Swain (1915). “Collective effervescence” is his theoretical interpretation of collective ritual.
 
-Minimal group experiments show how little it takes to light the fuse. Flip a coin, assign "Team Circle" and "Team Triangle," and you'll see favoritism and bias start to creep in. The moral here is not that humans are uniquely awful; it's that our social perception is exquisitely tuned and easily hijacked.
+[^v1-c5-turner]: Victor Turner, [*The Ritual Process: Structure and Anti-Structure*](https://www.routledge.com/The-Ritual-Process-Structure-and-Anti-Structure/Turner/p/book/9781315134666) (1969), chapter 3, “Liminality and Communitas,” building on Arnold van Gennep’s *The Rites of Passage* (1909). The fraternity comparison is the narrator’s.
 
-Inside the tribe, another phenomenon joins the party: **groupthink**. Irving Janis coined the term for situations where the desire for harmony overshadows the need for accuracy. Symptoms include self-censorship ("Maybe I won't mention that obvious flaw"), illusions of invulnerability ("We're too smart to fail"), and the slow numbing of conscience.
+[^v1-c5-aronson]: Elliot Aronson and Judson Mills, [“The effect of severity of initiation on liking for a group”](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Aronson_Mills_1959_The_effect_of_severity_of_initiation.pdf), *Journal of Abnormal and Social Psychology* 59 (1959): 177–181. The outcome was a rating of the group, not durable solidarity. For a longitudinal fraternity test, see Aldo Cimino and Benjamin J. Thomas, [“Does hazing actually increase group solidarity? Re-examining a classic theory with a modern fraternity”](https://www.sciencedirect.com/science/article/pii/S1090513822000423), *Evolution and Human Behavior* 43 (2022): 408–417.
 
-Enron had groupthink. So did the Challenger decision process. So do plenty of online communities that begin with noble intentions and end with dogmatism. The chilling part is that most individuals inside such systems are not uniquely evil; they are just slightly scared, slightly tired, and slightly dependent on each other.
+[^v1-c5-flack]: Jessica C. Flack, Michelle Girvan, Frans B. M. de Waal and David C. Krakauer, [“Policing stabilizes construction of social niches in primates”](https://doi.org/10.1038/nature04326), *Nature* 439 (2006): 426–429. Temporary removal of key conflict interveners in one captive pigtailed-macaque group changed its social networks. This supports a bounded comparison, not a biological prescription for human hierarchy.
 
-Put enough of this together and you get crowds that behave like new organisms. Gustave Le Bon's 19th-century musings about crowds surrendering individuality were overgeneralized, but he wasn't entirely wrong: anonymity and emotional synchronization can lower inhibitions. Deindividuation---being "one of many" in a sea of faces or avatars---makes it easier to do what you'd never do alone.
+[^v1-c5-efficacy]: Robert J. Sampson, Stephen W. Raudenbush and Felton Earls, [“Neighborhoods and Violent Crime: A Multilevel Study of Collective Efficacy”](https://dash.harvard.edu/entities/publication/73120378-bd4a-6bd4-e053-0100007fdf3b), *Science* 277 (1997): 918–924. The study of 343 Chicago neighborhoods reports an adjusted association; it does not randomly assign trust or intervention.
 
-The 21st century added a new amplifier: algorithms optimized for engagement. Our most influential media systems quietly discovered that outrage is more clickable than nuance. Posts that confirm tribal narratives spread; posts that challenge them languish. Falsehoods that flatter a group's sense of persecution can outperform truths that complicate the story.
+[^v1-c5-bourdieu]: Pierre Bourdieu, [*Distinction: A Social Critique of the Judgement of Taste*](https://books.google.com/books/about/Distinction.html?id=nVaS6gS9Jz4C) (1979), translated by Richard Nice (Harvard University Press, 1984), especially “The Habitus and the Space of Life-Styles.” Habitus includes learned dispositions of perception and action; the personal example is an interpretation, not a diagnosis.
 
-What you get, if you're not careful, is a global nervous system that is exquisitely tuned to detect threats and almost allergic to self-doubt. Tribal cognition, once a local survival tool, becomes a planetary liability.
+[^v1-c5-neighborhood]: Raj Chetty, Nathaniel Hendren and Lawrence F. Katz, [“The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment”](https://doi.org/10.1257/aer.20150572), *American Economic Review* 106 (2016): 855–902. Benefits depended on age at move; the findings for young children should not be generalized to every mover. The experiment does not isolate friendship as the mechanism.
 
-## Social Order and Its Discontents --- Structures, Resistance, and Evolution
+[^v1-c5-connectedness]: Raj Chetty et al., [“Social capital II: determinants of economic connectedness”](https://www.nature.com/articles/s41586-022-04997-3), *Nature* 608 (2022): 122–134. The analysis separates exposure to higher-income people from friendship formation conditional on that exposure. Its Facebook-based measures and decompositions do not make every observed association a causal effect.
 
-If crowds are how we unravel, institutions are how we pretend to stay stitched.
+[^v1-c5-christopher]: [*Report of the Independent Commission on the Los Angeles Police Department*](https://scalar.usc.edu/works/the-los-angeles-riots-christopher-and-webster-commissions-collections/media/Independent_Commission_Report.pdf) (Christopher Commission, July 1991), especially the findings on excessive force, racial bias and mobile-data-terminal messages.
 
-Institutions are the slow machines: courts, schools, police departments, churches, unions, corporations, universities. They offer coordination at scale, continuity beyond any one person's lifespan, and enough predictability that you can plan a life longer than a harvest season. Max Weber saw bureaucracy as the rational culmination of this impulse: rules instead of whims, files instead of feuds.
+[^v1-c5-harlins]: Harlins was killed on 16 March 1991; the conviction was on 11 October, and sentencing on 15 November. See [*People v. Superior Court (Du)*, 5 Cal. App. 4th 822 (1992)](https://law.justia.com/cases/california/court-of-appeal/4th/5/822.html), for the offense, voluntary-manslaughter verdict and suspended prison sentence, and contemporary reports of [the conviction](https://www.latimes.com/archives/la-xpm-1991-10-12-mn-152-story.html) and [sentencing](https://www.latimes.com/archives/la-xpm-1991-11-16-mn-1402-story.html).
 
-But every scaffold casts a shadow. The same structures that protect can also suffocate. Institutions crystallize power; they decide whose pain is noise and whose discomfort is a policy priority. Borders are lines on maps until men with guns and pens insist otherwise. Laws are ideas until prisons and paychecks enforce them.
+[^v1-c5-anderson]: Elijah Anderson, [*Code of the Street: Decency, Violence, and the Moral Life of the Inner City*](https://elijahanderson.com/code-of-the-street/) (W. W. Norton, 1999). His ethnography concerns Philadelphia; it supplies a mechanism for comparison, not a survey of the narrator’s Los Angeles neighborhood. Residents need not endorse the street code to face pressure to navigate it.
 
-From the inside, many people experience social order not as a shared achievement but as a one-sided contract. They are told they live in a meritocracy while watching connections and capital matter more than merit. They are told to trust the law while being stopped, searched, or sentenced differently than their neighbors. They are told to be patient while their lives burn at a faster rate than committee timelines.
+[^v1-c5-feeds]: Andrew M. Guess et al., [“How do social media feed algorithms affect attitudes and behavior in an election campaign?”](https://csdp.princeton.edu/publications/how-do-social-media-feed-algorithms-affect-attitudes-and-behavior-election-campaign), *Science* 381 (2023): 398–404, doi:10.1126/science.abp9364. The intervention changed feeds for consenting users during the 2020 US election. Its three-month null findings on measured attitudes are not evidence that ranking has no effects in other settings or over longer periods.
 
-When enough people feel excluded, invisible, or criminalized simply for existing where and how they do, pressure builds. Sociologist Charles Tilly talked about **repertoires of contention**---the standard toolkits of protest each era invents: pamphlets, marches, strikes, sit-ins, hashtags, blockades, riots. These are the ways people say, "Your system is not neutral; it is killing us."
+[^v1-c5-bots]: Hirokazu Shirado and Nicholas A. Christakis, [“Locally noisy autonomous agents improve global human coordination in network experiments”](https://www.nature.com/articles/nature22332), *Nature* 545 (2017): 370–374. The task was network coloring; benefits depended on bot placement and the amount of noise. These were simple software agents, not present-day language models.
 
-Durkheim, ever the optimist, hoped societies could evolve their moral "collective conscience" through such crises, painfully but constructively. Foucault, glancing at prisons and asylums, was less sanguine: he saw institutions as engines for defining and enforcing what counts as normal, sane, legal, or true. For him, resistance was not just about policy; it was about reality itself.
+[^v1-c5-llmconventions]: Ariel Flint Ashery, Luca Maria Aiello and Andrea Baronchelli, [“Emergent social conventions and collective bias in LLM populations”](https://pmc.ncbi.nlm.nih.gov/articles/PMC12077490/), *Science Advances* 11 (2025): eadu9368, doi:10.1126/sciadv.adu9368. Agents interacted through a researcher-defined naming game with specified incentives and memory. The finding concerns conventions and preferences in that task, not spontaneous humanlike consciousness or proof of human social behavior.
 
-History suggests both were partly right. Some revolutions widen the circle of dignity; others simply swap one elite for another. Today's heretic is tomorrow's hero is the day-after-tomorrow's statue, waiting for its own reckoning.
+[^v1-c5-game]: [USC’s football record against UCLA](https://usctrojans.com/sports/football/opponent-history/ucla/13) lists the 37–38 loss at Pasadena on 21 November 1992. The [USC media guide](https://usctrojans.com/documents/download/2004/7/21/04-mg-137-211.pdf) records the unsuccessful late two-point attempt. The passage deliberately flashes forward beyond the April unrest. Overtime entered Division I-A regular-season football in 1996; it had existed earlier in other college contexts.
 
-That's the paradox of progress:
+[^v1-c5-sherif]: Muzafer Sherif, O. J. Harvey, B. Jack White, William R. Hood and Carolyn W. Sherif, [*Intergroup Conflict and Cooperation: The Robbers Cave Experiment*](https://psychclassics.yorku.ca/Sherif/chap8.htm) (1961), reporting the 1954 camp study. Rivalry was deliberately cultivated; a series of goals requiring cooperation helped reduce it. This was a small, selected group of boys in a researcher-managed setting.
 
--   Every right we now treat as obvious was once someone's disruption.
+[^v1-c5-shocks]: Magic Johnson announced his HIV diagnosis on 7 November 1991; Freddie Mercury died on 24 November. See the [US government’s HIV/AIDS timeline](https://www.hiv.gov/hiv-basics/overview/history/hiv-and-aids-timeline), 1991 entries. The freeway, radio sequence and tears are personal recollection.
 
--   Every system we treat as permanent was once a messy experiment.
+[^v1-c5-verdict]: [*Koon v. United States*, 518 U.S. 81 (1996)](https://www.law.cornell.edu/supct/html/94-1664.ZO.html), part I, recounts the 29 April 1992 state acquittals and the deadlocked count against Laurence Powell. Stacey Koon and Powell were convicted in the later federal civil-rights trial.
 
--   Every order we cherish is balanced on the willingness of some people to obey rules and others to challenge them.
+[^v1-c5-toll]: The [USC Libraries’ account of its commission archives](https://libraries.usc.edu/article/usc-libraries-digitizing-150000-pages-records-related-1991-king-beating-1992-riots) reports 58 deaths, 2,383 injuries and about $1 billion in damage. Later counts differ. The text therefore uses broad casualty language and does not equate every damaged building with one burned down.
 
-We do not build social order once and file the blueprints. We debug it, over and over, while it's running in production.
+[^v1-c5-koreatown]: US Commission on Civil Rights, [*Racial and Ethnic Tensions in American Communities: Poverty, Inequality, and Discrimination, Volume V: The Los Angeles Report*](https://www.usccr.gov/files/historical/1999/99-014.pdf) (1999), on the unrest, Korean American businesses, law-enforcement failures and intercommunity relations. These experiences cannot be reduced to one uniform conflict between two populations.
 
-In Los Angeles, during those years when I thought I was just there for a degree and some sunshine, all of these forces---hierarchies, norms, identities, institutions, grievances---were humming in the background. Sociology would call it latent tension. An engineer might call it a system close to critical load.
-
-I called it "normal life" right up until the week the city decided to demonstrate what happens when the monster we build together finally steps into the street.
-
-## Augmented Crowds --- Networks, Algorithms, and the New Social Physics
-
-For most of human history, sociology could assume a simple architecture: brains in bodies, bodies in groups, groups in places. Villages, markets, armies, parliaments---different costumes, same basic ontology. Humans plus tools, but the tools didn't count as participants.
-
-We did, to be fair, make one early exception: dogs. Long before we wired ourselves into the internet, we wired wolves into us. Over a few dozen millennia, they became something uncanny---neither livestock nor wildlife, but interspecies citizens. We read their body language; they read our moods. We enforce norms on them ("no biting the neighbors"); they enforce norms on us (walk me, feed me, don't shout like that). If you squint, the human--dog relationship is our first large-scale experiment in xeno-sociology: a social contract with a non-human agent that lives in our homes, shapes our routines, and tugs on our moral intuitions. The coming world of algorithms and AI companions will be weirder, but not entirely new; we've already been practicing how to share a society with something that is smart, emotional, and definitively not us.
-
-That old architecture has quietly expired.
-
-We now live inside augmented crowds: networks where humans interact through and with non-human actors---platforms, algorithms, bots, sensors, recommendation engines, filters, feeds. The social is no longer just between people; it's braided with code.
-
-If Chapter 4 was about the brain as a prediction machine, and this chapter has been about societies as pattern machines, then this is where a third machine enters the room: the infrastructure itself.
-
-Consider a typical online "community":
-
--   Posts are written by humans, but whether you see them is decided by ranking algorithms.
-
--   Some replies are genuine; some are bots; some are humans paid to steer the conversation.
-
--   What trends is not what's true or important, but what drives engagement.
-
--   Moderation is done partly by people, partly by machine filters, partly by opaque policy.
-
-From the inside, it still feels like "a bunch of people talking." But the **topology** of those conversations---the clustering, the cascades, the sudden storms---is being shaped by systems that are not just passive channels. They're more like **active weather**.
-
-Classical sociologists didn't have to deal with this. Durkheim didn't have to ask what happens when the collective conscience is A/B tested. Weber never had to debug a bureaucracy whose rules were being updated by machine-learning models retrained every six hours. Marx didn't see surplus value extracted from attention metrics.
-
-Today, if you ignore that layer, your sociology is incomplete. You get the right questions and the wrong model.
-
-Platforms are not neutral meeting grounds; they're **partial participants** in every interaction:
-
--   A recommendation algorithm that over-amplifies outrage is not just "showing us who we really are." It is *co-producing* who we become.
-
--   A hiring system that learns from historical data and faithfully reproduces bias is not just reflecting inequality; it is operationalizing it.
-
--   A social network that rewards performative virtue and theatrical rage doesn't just host tribes; it cultivates them.
-
-This is why thinking in terms of **distributed systems** is useful. We have millions of human nodes talking to each other through technical nodes, each with its own failure modes:
-
--   Latency: rumors outrunning fact-checking, outrage outrunning reflection.
-
--   Partition: communities sealed off by language, recommendation bubbles, or firewalls.
-
--   Single points of failure: one company's outage taking down whole layers of social life.
-
-In computer networks, we've learned to design for these constraints: redundancy, graceful degradation, clear protocols. In social networks, we mostly pretend we're still in a village.
-
-If Part II will be about diagnosing systemic failure, and Part III about designing better architectures, this is the layer we'll have to grab by the scruff:
-
--   Who owns and governs the algorithms that now mediate our collective nervous system?
-
--   How do we design platforms that widen empathy instead of sorting us into angrier tribes?
-
--   Can we bring the equivalent of safety engineering and fault tolerance into the way we build publics?
-
-We can no longer afford a sociology that studies only the **human** half of a human--machine duet. The monster we build together now includes code.
-
-And the code, for the most part, was not written by sociologists.
-
-## Sandbox Societies --- Prototypes of Better Crowds
-
-If all this sounds discouraging, it's worth remembering that not every social experiment takes place at national scale with tear gas.
-
-Hidden in plain sight are thousands of **sandbox societies**: small, semi-intentional communities trying to prototype better ways of living together. Some are physical---co-ops, communes, maker spaces, community gardens, worker-owned firms. Some are digital---open-source projects, mutual-aid networks, fan communities, DAOs, guilds in online games.
-
-Most of them are messy. Many quietly fail. A few ossify into the very hierarchies they set out to escape. But taken as a whole, they're the R&D department of civilization.
-
-What makes a sandbox different is not perfection but **explicit design**:
-
--   Rules are written down and revisable, not inherited as unquestioned tradition.
-
--   Roles are more fluid; people can test different identities and forms of contribution.
-
--   Feedback loops are shorter; if something isn't working, you don't have to wait for the next election cycle---just the next meeting.
-
--   Exit is easier; if the experiment goes sour, you can often leave without renouncing your citizenship or your religion.
-
-From a diagnostic perspective, sandbox societies reveal **failure modes in miniature**:
-
--   How quickly do cliques form?
-
--   Who ends up doing the invisible labor?
-
--   How do conflicts get resolved when there's no formal monopoly on force?
-
--   Which constraints keep them just and sustainable, and which drive them to burnout or capture?
-
-From a design perspective, they're testbeds:
-
--   Can we run a governance model that isn't pure majority rule or pure shareholder rule?
-
--   Can we distribute resources without reproducing familiar patterns of exclusion?
-
--   Can we build norms that enforce accountability without sliding into punitive shaming?
-
-NEURO, later, will propose more formalized **Edges** and **Meshes** as building blocks of a redesigned civilization---health edges, education edges, governance meshes, and so on. Those are ambitious structures. But their spirit already exists in these small experiments.
-
-You could see sandbox societies as early, rough drafts of what a more intentional, AI-assisted, human-centered system might one day scale up.
-
-They remind us of two things that are easy to forget in a burning city:
-
-1.  Social order is **not** binary---"the system" vs. chaos. There is a whole spectrum of half-systems, micro-systems, parallel systems.
-
-2.  We are not condemned to only inherit structures; we can also **prototype** them.
-
-The question for the rest of this book is not just "What's wrong with the monsters we've built?" but also "Where have we already glimpsed better ones, however small, and how might we nurture them instead of leaving them as curiosities?"
-
-## To Live and Die in L.A.
-
-I was supposed to have left months earlier. I should have finished my master's degree, packed up my car, and joined the great migration north to Silicon Valley, to take my place among the engineers and programmers shaping the technological future. Like my partner in crime, Patrick did -- and later dismissed. That was the plan. That was the advice. But the getaway Corolla was slow to get there this time. The music left without me.
-
-And there I stayed. Held back by a dozen small forces, none heroic enough to defend, yet all persuasive enough to delay departure:
-
--   **A PhD itch** I wanted to scratch before admitting I wasn't ready to publish anything except grocery lists.
-
--   **A fear** that once I got a "real job," someone would discover the truth: I was an imposter with decent handwriting.
-
--   **A sentimental loyalty** to the last years of university life --- that strange tribe where we pretend to be adults by stockpiling cheap beer.
-
--   **A scheduled commencement ceremony**, which seemed too dignified to skip, given the price of the diploma.
-
--   **The general gravitational pull of USC**, which was part campus, part social experiment, and part carnival ride.
-
-And perhaps something else --- that invisible hand that seems to choreograph all meaningful upheavals. Had I left when I was *supposed* to, I would have missed what came next. Had I stayed on purpose, I might have called it fate. But I stayed for no noble reason at all, and fate used the opportunity anyway.
-
-During that holding pattern, the city cracked open.
-
-**My Burning City --- On Riot and Recognition**
-
-Some nights stay with you not because you behaved courageously but because the world tilted, and you --- for some reason --- stayed upright.
-
-The night Los Angeles burned, I didn't run.
-
-I lived in a frat house on USC's fraternity row. This one was a faux-Greek temple with white pillars and sun-bleached stucco, a place where, historically, navigating a toga party was the primary survival skill. The real unrest started right outside our immediate vicinity. Everyone else cleared out---went home or moved into the secured dorms like sensible people with survival instincts. But John and I stayed.
-
-Maybe it was bravado? Maybe it was all those fine liquors from Peter's well-stocked bar across the hall? Maybe it was the sense --- inchoate but palpable --- that something historic was happening and we didn't want to miss it. Two things were certainly true. We were two young grad students: one in journalism, the other engineering. Bravery was not in our course catalog, but we had already consumed enough of Peter's liquor to start believing we were social justice reporters and social engineers.
-
-At some point in this philosophical fog, we began chanting, "We want justice!" in that hallway back-and-forth --- not protesting, not rioting, just cheerfully reciting the note Peter had scribbled on his whiteboard before abandoning the premises. In his original context, "justice" meant "please don't drink my Cognacs." We interpreted it as a call for world reform. Spirits (his) created spirits (ours).
-
-What we didn't know was that we weren't alone. The next morning, we learned there had been a third person in the house --- huddled in a room below, convinced our drunken chanting was the arrival of a mob. He hid, breath held tight, waiting for the violence he believed had reached his door.
-
-Three people. One event. Three realities.
-
--   For us: a surreal night inside a firelit city.
-
--   For him: terror.
-
--   For the city: a wound splitting wide.
-
--   For Peter: unexplained depletion of bar stock.
-
-That is the sociology of riots. They are not a single story, but a collapse of shared meaning. One chant, a thousand interpretations. The world fragments --- and each fragment swears it is the whole.
-
-### **The Riot at My Doorstep --- The Monster Unmasked**
-
-The Rodney King riots weren't headlines to me --- they were geography. I woke the next morning to a city that no longer resembled the one I had driven into. The air carried the smell of blown transformers, fear, and the kind of anger that takes decades to accumulate.
-
-I drove through streets lined with flames, searching for a gas station that hadn't already shut down. I passed stores I knew --- the place I bought my fraternity cap, the restaurant my professor loved --- all swallowed by fire. It wasn't a movie. Movies require extras and permits; this needed neither.
-
-But the true inferno wasn't the one in front of me. It was the one behind it: the fire stoked for generations.
-
-This wasn't chaos; it was consequence. The verdict was only the spark. The monster was much older.
-
-Not a monster born of one man's cruelty --- as in Wisconsin --- but a monster built collectively:
-
--   Strips of policy layered over decades
-
--   Policing practices sharpened by fear
-
--   Neighborhoods redlined into pressure cookers
-
--   Inequities sedimented like geological strata
-
--   The quiet resignation of those who benefitted
-
--   The louder desperation of those who didn't
-
-You can call it injustice. Or systemic failure. Or history demanding attention after being ignored too long.
-
-But whatever name it takes, it is made by *all of us*, one decision at a time.
-
-### From the Child's Basket to the City's Illusion
-
-I thought again of that child on the plane --- in the prologue --- clutching the basket, clinging to the last pattern in a world unraveling.
-
-Los Angeles had its own baskets: The idea that the city was stable, the assumption that injustice could remain contained, and the polite fiction that progress had mended the cracks.
-
-The riots tore through those baskets. What we mistook for "order" was just a thin veneer stretched over unresolved pain.
-
-The city didn't burn because it was broken. It burned because it was functioning as designed.
-
-### **From Sparks to Circuits**
-
-By the time the city's smoke had thinned to a gray haze, my coursework found myself split between the social jungle of Los Angeles, and the systems jungle of Silicon Valley. From Mega-tribe to Nano-tech.
-
-In time, I finally packed the Corolla for the northward drive. But before leaving, I had encountered a different kind of network --- one built not of people but of machines.
-
-But before I did that I met a different kind of network in LA. Cities of their own, made not of people but computers. Before I move, what follows is my wanderings in that city.
+[^v1-c5-commencement]: USC’s commencement was on 8 May 1992, nine days after the verdict: [contemporary report](https://www.latimes.com/archives/la-xpm-1992-05-09-me-1626-story.html), 9 May 1992.

@@ -1,0 +1,20 @@
+{
+  "unit_id": "v1-5-chapter",
+  "date": "2026-10-27",
+  "base_commit": "111ec8b2d80c6d6976ad7507e54863bb5f86bd71",
+  "canonical_path": "manuscripts/volume-1/05-chapter.md",
+  "canonical_before_sha256": "2fd30237e4477d9c7ceb991e750a4e67e2dbc5cadad30bdb4350b9ec0c60a7e4",
+  "incoming_read_only_path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-5.md",
+  "incoming_sha256": "3216df14b2ee03089a1e2ca9515c3a5041cc0eb523dc6af3f37d87cadc51b04b",
+  "canonical_after_sha256": "6353e6548881bfe7fd35941e1d0195597ebae09813f5e02318cda16dc0a4b5e9",
+  "authorization": "Author Stage 2 decisions in seven numbered points; Alice substantive revision reserved for discussion.",
+  "open_item": "Incoming Alice prose retained; its IIT and whole-city implications are not source-certified. See ALICE_PROPOSAL.md.",
+  "excluded_existing_changes": [
+    ".gitignore",
+    "manuscripts/volume-1/01-interlude.md",
+    "work/journal/book.md"
+  ],
+  "memoir_confirmation": "Author confirms attendance at the Rose Bowl game and later knowledge that both Ellendale victims died at the scene. No new identity details added.",
+  "figure": "Original grayscale schematic; SVG and reproducible generator. No borrowed artwork.",
+  "formatting_cleanup": "Removed one inherited trailing space after the rivalry paragraph; prose unchanged."
+}
