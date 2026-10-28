@@ -271,3 +271,10 @@ Current edits to Interlude 1, .gitignore and book.md are preserved outside this 
 The beer-can callback now preserves the Chapter 4 personhood-creation metaphor. “Will It Float?” is shortened from 807 to 434 words, keeping the accomplishment, voluntary disclosure and hardware-reuse lesson while removing the deposition-like defense and repeated self-criticism. The St. Peter joke and Miller's response remain unchanged; the editorial recommendation is to keep this scene. The rejected bar-name premise stays retired.
 
 See [author corrections](../volume-1-drafting/interlude-04-adoption-2026-10-27/AUTHOR_CORRECTIONS.md) for evidence and limits. All other I4 teaching, figures and Bob remain unchanged. No incoming draft, neighboring manuscript or unrelated author edit was changed.
+
+
+## V1-024 — Restore the original FPU scene for the author
+
+**Addressed, 27 October 2026.** At the author’s explicit request, restored the complete “Will It Float?” scene verbatim from the incoming author/Claude Interlude 4. The shortened editorial version was accurate in intention but flattened the narrative. This supersedes V1-023’s FPU condensation. The author will integrate technical concerns himself.
+
+[Restoration notes](../volume-1-drafting/interlude-04-adoption-2026-10-27/FPU_RESTORATION.md) retain EPC/course identity, latency versus iteration, limits of test evidence, IEEE/memoir qualifications and the software/hardware analogy for that later pass. Removed the now-unused EPLD bookmark from the manuscript while preserving its full reference in those notes. The scene’s original two bookmarks stay connected. All other I4 content and unrelated edits remain unchanged.

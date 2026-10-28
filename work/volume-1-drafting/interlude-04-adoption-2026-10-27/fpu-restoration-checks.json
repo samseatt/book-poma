@@ -1,0 +1,22 @@
+{
+  "base_commit": "10a88244c86c62a137e37c93cab3e7f81ae7057e",
+  "before_sha256": "eda3d39d15433d3e63a9fbd61a43f481b4d61a744a0b34f030e292b92fc2d789",
+  "after_sha256": "3a2e0ecb2bdecb1b3e2118a65b085f79092c1f5df94487d7ee87e45b396d87f6",
+  "restored_from": "/Users/samseatt/projects/book_poma/sam/claude/interlude-4.md",
+  "source_sha256": "eaf16809853a58558d331aa0da4e071ded21be5d7090e51131c3d187abb3a5a9",
+  "fpu_section_verbatim": true,
+  "outside_section_unchanged_except_unused_epld_definition": true,
+  "validation": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md",
+    "sha256": "3a2e0ecb2bdecb1b3e2118a65b085f79092c1f5df94487d7ee87e45b396d87f6",
+    "defined_notes": 29,
+    "note_references": 29,
+    "parsed_notes": 29,
+    "html_note_backlinks": 29,
+    "display_equations": 1,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  }
+}

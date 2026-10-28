@@ -2,6 +2,8 @@
 
 These are development notes, not cleared claims or instructions to insert everything. Canonical Interlude 4 is the next editing source; the holding-pen draft remains provenance.
 
+**Latest handling:** the original FPU narrative is restored at the author’s request. The corrections below are inputs for his later personal rewrite, not permission to replace the scene again. See [FPU_RESTORATION.md](FPU_RESTORATION.md).
+
 ## The author's FPU memory
 
 The author recalls a one-pass combinational arithmetic path on joined breadboards, with CPU waiting of approximately four ticks, low precision, chips/EPLDs and considerable wiring. The wait was latency, not iteration. A cyclic alternative could have reused logic and reduced wiring but added registers/control and possibly latency; the author remembers timing constraints that might have forced waits into particular tick counts. Do not invent the reason for that quantization. Single pass was a chosen feature, not a mistake discovered by someone else.

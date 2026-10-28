@@ -358,3 +358,8 @@ Preserve Patrick's concise style and trust scene/context to do interpretive work
 The author corrects the project name to **Engineering Precision Computer (EPC)** and Kime's course to **Digital Design Lab**. These supersede the earlier LPU wording. Miller's fall-1989 class was introductory operating systems, probably CS 537 (number pending transcript); Advanced Operating Systems was later at USC. The cited 1988 CS736 fuzzing project is separate. The possible assignment title “Synchronizing with Threads and Shared Memory” is recorded as tentative: a 2020 Miller course page uses it, which does not establish the 1989 title.
 
 The FPU scene is substantially shorter and no longer reads as a defense of the author's competence. Preserve achievement and candid qualification together. The beer-can callback refers to the author's literary emergence as a person in Chapter 4. The Miller joke is retained, with a recommendation to keep it. See V1-023 and the adoption folder's AUTHOR_CORRECTIONS.md. The invalid bar-name anecdote stays retired; do not turn a verified recollection into a claim about how a particular model obtained its answer.
+
+
+## FPU prose restored to the author — 27 October 2026
+
+The author found the shortened FPU account bland and requested the original back so he can add the technical concerns himself. The full “Will It Float?” scene from the incoming author/Claude I4 draft is restored verbatim. This supersedes the previous FPU condensation; no other I4 scene, technical teaching, figure or Bob changed. Technical/memoir concerns remain in the adoption folder’s FPU_RESTORATION.md and research drawer. Preserve the restored narrative pending the author’s pass; do not attempt another corrective synopsis. See V1-024.
