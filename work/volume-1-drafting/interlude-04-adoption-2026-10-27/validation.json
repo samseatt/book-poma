@@ -1,0 +1,13 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md",
+  "sha256": "cd2e783fa835ae50134d9fa2d63965c1a79f56fde2eba6b8d7f33e764e9dfc3c",
+  "defined_notes": 30,
+  "note_references": 30,
+  "parsed_notes": 30,
+  "html_note_backlinks": 30,
+  "display_equations": 1,
+  "bookwide_note_collisions": [],
+  "warnings": [],
+  "errors": [],
+  "passed": true
+}

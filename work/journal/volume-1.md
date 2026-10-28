@@ -249,3 +249,16 @@ Alice now asks whether a self can change its criteria for admitting correction; 
 Forty-six aligned source notes and the figure accompany the adopted text. [Adoption notes](../volume-1-drafting/chapter-04-adoption-2026-10-27/ADOPTION_NOTES.md) record reader value and serious changes. The [research drawer](../volume-1-drafting/chapter-04-adoption-2026-10-27/RESEARCH_DRAWER.md) preserves the author's memory/sleep, causal-agency, complexity/time and Alice/Bob ideas, with constraints and development paths. The stronger Alice/Bob ambition is a standing direction for future passes, not a novelty or prize claim.
 
 Existing edits to Interlude 1, .gitignore and book.md remain untouched. No incoming file or publishing infrastructure was changed; no publication was initiated.
+
+
+## V1-022 — Interlude 4 adoption: execution, coordination and the ML prerequisite
+
+**Addressed, 27 October 2026.** [Interlude 4](../../manuscripts/volume-1/04-interlude.md) now adopts the approved author/Claude revision with **“Take the boombox”** restored. The full first lab scene, St. Peter joke, Patrick's extended correction and Beach Boys road-trip paragraph remain verbatim. The FPU account now reflects the author's latest memory: limited precision, single-pass hardware with approximately four CPU ticks of waiting, and a voluntarily disclosed rounding qualification outside the assignment's requirements. No exact missing circuit detail is invented.
+
+Added real software mechanisms from compilation through process state, abstraction, scheduling, synchronization, safety/liveness and fuzz testing. Expanded the AI prerequisite into framework execution, differentiation versus optimization, checkpoints/reproducibility, inference/serving and tool-call orchestration. A state equation and two original grayscale figures support the explanation. The October/November 1985 C++/Windows conjunction is precise; the incoming first-OOP claim is repaired.
+
+Bob's authorized replacement asks about history a machine must retain, revise and act upon. Landauer/Bennett establish bounded physical facts; they do not prove psychology, consciousness or the author's managed-continuity conjecture. The bar-search anecdote is removed; sycophancy remains a short evidence-based training/evaluation issue. I11's corresponding false bar-name callback is flagged for later adoption, not silently edited in the holding pen.
+
+Thirty notes are aligned; source evidence, limitations, the reader-value assessment and unresolved FPU report are recorded in [adoption notes](../volume-1-drafting/interlude-04-adoption-2026-10-27/ADOPTION_NOTES.md) and the accompanying audits. The [research drawer](../volume-1-drafting/interlude-04-adoption-2026-10-27/RESEARCH_DRAWER.md) retains temporal coordination, possible silicon psychology, entropy/complexity and the author's flexible Alice/Bob direction. Mechanism teaching is deliberately fuller; final print length remains a later check.
+
+Current edits to Interlude 1, .gitignore and book.md are preserved outside this commit. Incoming files and publishing infrastructure are unchanged. No publication.

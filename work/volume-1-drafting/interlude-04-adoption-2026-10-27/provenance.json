@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27",
+  "stage": "2: author-approved adoption",
+  "base_commit": "0c752bb5c391b086fe32e000ebd841411f9728ce",
+  "incoming": "/Users/samseatt/projects/book_poma/sam/claude/interlude-4.md",
+  "incoming_sha256": "eaf16809853a58558d331aa0da4e071ded21be5d7090e51131c3d187abb3a5a9",
+  "canonical_path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md",
+  "canonical_before_sha256": "374ceb8aef90651fe2519b11afc21258fe31f93b99018a3002a3fdb18ef19296",
+  "canonical_after_sha256": "cd2e783fa835ae50134d9fa2d63965c1a79f56fde2eba6b8d7f33e764e9dfc3c",
+  "lookahead": "/Users/samseatt/projects/book_poma/sam/claude/interlude-11.md",
+  "lookahead_sha256": "963e0cb3eb13312b92d0a95277137cb98a0c2599a6b4d0f89d10960c7c120372",
+  "lookahead_scope": "Full prerequisite/allocation read; not adoption or factual clearance.",
+  "manifest_update": "Only v1-4-interlude active_source.sha256.",
+  "unrelated_work_preserved": {
+    "/Users/samseatt/projects/book-poma/work/journal/book.md": "802e4e11e50bac090ed561c9e81ba1a801d23fd63f7e271efabeb587c91d88c2",
+    "/Users/samseatt/projects/book-poma/.gitignore": "4a46222675abc2b1ae26fcdf1577468af17ab3e92ee37ae24d16af3f1216e9ed",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md": "c73b29df9f843da67328be0628b927a1809c46cf9cf6e79854b23b38efb7251e"
+  },
+  "figures": [
+    {
+      "path": "manuscripts/volume-1/assets/04-interlude/semaphore-progress.svg",
+      "sha256": "b3de1d999e8c8bf29eccc07356737a96b834ac522158b88c805b8484f83b775c",
+      "origin": "Original grayscale SVG; conceptual process diagram."
+    },
+    {
+      "path": "manuscripts/volume-1/assets/04-interlude/training-serving.svg",
+      "sha256": "68bdc5c6d896525d67ecec34c63b97b7149040004195a8183ec5aaaa5e40102c",
+      "origin": "Original grayscale SVG; conceptual process diagram."
+    }
+  ],
+  "source_notes": 30,
+  "publication": "Not requested or performed."
+}

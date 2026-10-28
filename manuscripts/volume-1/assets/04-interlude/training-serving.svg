@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="960" viewBox="0 0 1040 960" role="img" aria-labelledby="title desc"><title id="title">Training updates parameters; serving manages executions</title><desc id="desc">Training loops from batches through forward calculation, loss, gradients and optimizer updates to weights. Validation selects a checkpoint. A separate serving path loads a deployed model and processes requests with fixed parameters and changing activations and cache. Conventional software handles data, checkpoints, scheduling and permissions.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 1 L 9 5 L 0 9 Z" fill="#333"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;font-size:25px;fill:#171717}.title{font-size:31px;font-weight:bold}.head{font-size:26px;font-weight:bold}.small{font-size:23px}.mono{font-family:monospace;font-size:24px}</style><rect width="1040" height="960" fill="white"/>
+<text x="30" y="46" class="title" text-anchor="start">A   Training: change the parameters</text>
+<rect x="30" y="72" width="980" height="429" rx="7" fill="#fafafa" stroke="#666" stroke-width="1.7"/>
+<rect x="55" y="120" width="275" height="90" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="192.5" y="158" class="head" text-anchor="middle">Batch of data</text>
+<rect x="365" y="120" width="275" height="90" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="502.5" y="158" class="head" text-anchor="middle">Forward pass</text>
+<rect x="675" y="120" width="275" height="90" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="812.5" y="158" class="head" text-anchor="middle">Loss</text>
+<text x="192" y="190" class="small" text-anchor="middle">inputs + targets</text>
+<text x="502" y="190" class="small" text-anchor="middle">activations</text>
+<text x="812" y="190" class="small" text-anchor="middle">task error</text>
+<path d="M 330 165 L 365 165" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<path d="M 640 165 L 675 165" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="365" y="284" width="275" height="92" rx="7" fill="#e4e4e4" stroke="#666" stroke-width="1.7"/>
+<text x="502" y="320" class="head" text-anchor="middle">Weights</text>
+<text x="502" y="353" class="small" text-anchor="middle">learned parameters</text>
+<path d="M 502 284 L 502 210" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="675" y="284" width="275" height="92" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="812" y="320" class="head" text-anchor="middle">Backward pass</text>
+<text x="812" y="353" class="small" text-anchor="middle">gradients via chain rule</text>
+<path d="M 812 210 L 812 284" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<path d="M 812 376 L 812 434 L 502 434 L 502 376" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<text x="657" y="471" class="small" text-anchor="middle">Optimizer uses gradients to update weights.</text>
+<text x="57" y="315" class="small" text-anchor="start">Repeat over batches.</text>
+<text x="57" y="353" class="small" text-anchor="start">Save resumable state.</text>
+<path d="M 166 284 L 166 210" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)" stroke-dasharray="7 5"/>
+<text x="30" y="551" class="small" text-anchor="start">Validation helps select a checkpoint; deployment is a separate step.</text>
+<path d="M 980 501 L 980 585" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)" stroke-dasharray="7 5"/>
+<text x="30" y="627" class="title" text-anchor="start">B   Serving: execute with deployed parameters</text>
+<rect x="30" y="649" width="980" height="226" rx="7" fill="#fafafa" stroke="#666" stroke-width="1.7"/>
+<rect x="55" y="689" width="275" height="84" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="192.5" y="724" class="head" text-anchor="middle">Request</text>
+<rect x="365" y="689" width="275" height="84" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="502.5" y="724" class="head" text-anchor="middle">Deployed model</text>
+<rect x="675" y="689" width="275" height="84" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="812.5" y="724" class="head" text-anchor="middle">Output</text>
+<text x="192" y="754" class="small" text-anchor="middle">prepare / tokenize</text>
+<text x="502" y="754" class="small" text-anchor="middle">forward computation</text>
+<text x="812" y="754" class="small" text-anchor="middle">tokens or prediction</text>
+<path d="M 330 733 L 365 733" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<path d="M 640 733 L 675 733" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<text x="520" y="814" class="small" text-anchor="middle">Weights stay fixed in ordinary inference.</text>
+<text x="520" y="847" class="small" text-anchor="middle">Activations and request state (including an LLM’s KV cache) change.</text>
+<text x="520" y="918" class="small" text-anchor="middle">Conventional software manages data, checkpoints, scheduling and permissions.</text>
+</svg>

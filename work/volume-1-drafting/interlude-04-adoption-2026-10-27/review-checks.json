@@ -1,0 +1,50 @@
+{
+  "canonical_first_five_nonempty_lines_preserved": true,
+  "incoming_one_night_verbatim": true,
+  "incoming_st_peter_verbatim": true,
+  "incoming_patrick_quote_verbatim": true,
+  "incoming_roadtrip_verbatim": true,
+  "boombox_recovered": true,
+  "compiler_joke_recovered": true,
+  "no_author_annotations_removed": true,
+  "no_bar_search_story": true,
+  "current_inputs_unchanged": true,
+  "retired_incoming_notes": [
+    "v1-i4-cobol"
+  ],
+  "new_notes": [
+    "v1-i4-autograd",
+    "v1-i4-bennett",
+    "v1-i4-checkpoint",
+    "v1-i4-cpp",
+    "v1-i4-epld",
+    "v1-i4-execution",
+    "v1-i4-fuzz-results",
+    "v1-i4-inference",
+    "v1-i4-landauer",
+    "v1-i4-modules",
+    "v1-i4-optimizer",
+    "v1-i4-order",
+    "v1-i4-os",
+    "v1-i4-process",
+    "v1-i4-races",
+    "v1-i4-reproducibility",
+    "v1-i4-semaphore",
+    "v1-i4-serving",
+    "v1-i4-testing",
+    "v1-i4-thermo",
+    "v1-i4-toolchain",
+    "v1-i4-tools"
+  ],
+  "publisher_header_transform_ok": true,
+  "publisher_preserves_all_note_ids": true,
+  "figure_visual_review": {
+    "semaphore-progress": "Final SVG rendered to PNG with Sharp and visually inspected; legible labels and correct sequence.",
+    "training-serving": "Final SVG rendered to PNG with Sharp and visually inspected after moving the deployment arrow away from text."
+  },
+  "html_preview": {
+    "pandoc": "HTML and MathML generated successfully; notes and image paths structurally validated.",
+    "browser_screenshot": "Optional full-HTML screenshot not completed: Playwright bundled browser absent; installed Chrome failed to launch within sandbox. No browser download or publishing run attempted.",
+    "scope": "SVG pixels inspected; print pagination and complete Quarto page appearance remain publisher checks."
+  }
+}

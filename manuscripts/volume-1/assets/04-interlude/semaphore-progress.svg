@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="820" viewBox="0 0 1040 820" role="img" aria-labelledby="title desc"><title id="title">A token can protect work without guaranteeing progress</title><desc id="desc">Two threads share a semaphore initialized to one. A takes the token and B waits. A signals and finishes. B proceeds, but an extra wait blocks forever because nobody can signal. The example illustrates a failure of progress, not the exact historical assignment.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 1 L 9 5 L 0 9 Z" fill="#333"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;font-size:25px;fill:#171717}.title{font-size:31px;font-weight:bold}.head{font-size:26px;font-weight:bold}.small{font-size:23px}.mono{font-family:monospace;font-size:24px}</style><rect width="1040" height="820" fill="white"/>
+<text x="30" y="45" class="title" text-anchor="start">A token protects access; ordering must preserve progress.</text>
+<text x="30" y="87" class="small" text-anchor="start">Semaphore starts with one available token. Time proceeds downward.</text>
+<text x="280" y="140" class="head" text-anchor="middle">THREAD A</text>
+<text x="755" y="140" class="head" text-anchor="middle">THREAD B</text>
+<path d="M 280 165 L 280 555" fill="none" stroke="#333" stroke-width="2.4"/>
+<path d="M 755 165 L 755 715" fill="none" stroke="#333" stroke-width="2.4"/>
+<rect x="85" y="175" width="390" height="82" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="280" y="208" class="head" text-anchor="middle">wait() succeeds</text>
+<text x="280" y="241" class="small" text-anchor="middle">A takes the token.</text>
+<rect x="560" y="285" width="390" height="82" rx="7" fill="#eee" stroke="#666" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="755" y="318" class="head" text-anchor="middle">wait() blocks</text>
+<text x="755" y="351" class="small" text-anchor="middle">No token is available.</text>
+<rect x="85" y="385" width="390" height="82" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="280" y="418" class="head" text-anchor="middle">signal(), then finish</text>
+<text x="280" y="451" class="small" text-anchor="middle">A releases the token.</text>
+<path d="M 475 426 L 520 426 L 520 500 L 560 500" fill="none" stroke="#333" stroke-width="2.4" marker-end="url(#a)"/>
+<text x="515" y="395" class="small" text-anchor="middle">wake</text>
+<rect x="560" y="460" width="390" height="82" rx="7" fill="#fff" stroke="#666" stroke-width="1.7"/>
+<text x="755" y="493" class="head" text-anchor="middle">B resumes</text>
+<text x="755" y="526" class="small" text-anchor="middle">B now has the token.</text>
+<rect x="560" y="610" width="390" height="82" rx="7" fill="#e0e0e0" stroke="#666" stroke-width="1.7" stroke-dasharray="7 5"/>
+<text x="755" y="643" class="head" text-anchor="middle">Extra wait(): blocked</text>
+<text x="755" y="676" class="small" text-anchor="middle">Nobody remains to signal.</text>
+<text x="85" y="565" class="small" text-anchor="start">A has finished.</text>
+<text x="85" y="600" class="small" text-anchor="start">The scheduler cannot supply</text>
+<text x="85" y="633" class="small" text-anchor="start">the missing signal.</text>
+<path d="M 755 692 L 755 728" fill="none" stroke="#333" stroke-width="2.4" stroke-dasharray="7 5"/>
+<text x="520" y="783" class="small" text-anchor="middle">Safety against interference is different from liveness: eventual progress.</text>
+</svg>
