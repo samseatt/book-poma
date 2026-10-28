@@ -368,3 +368,9 @@ The author found the shortened FPU account bland and requested the original back
 ## Factual repairs must preserve the author's narrative — 27 October 2026
 
 The author clarified the desired method after the FPU restoration: use the original author prose as the base and apply factual corrections locally; a few supporting lines are welcome, a wholesale rewrite into precise technical-document prose is not. Material in the `claude` directory includes substantial author writing and must not be casually attributed to that model. The FPU comparison demonstrates the difference between preserving a scene and summarizing its lesson. Current I4 has local factual repairs over the restored original; see V1-025 and FPU_VOICE_COMPARISON.md. The author's question about confirmation bias calls for concrete comparative evidence and independent judgment, not automatic praise or defense of the editor's draft.
+
+## FPU finishing and blended authorship — 27 October 2026
+
+The author approved a light syntactic repair to the FPU opening and the addition “Four months of wiring, and I led with the asterisk.” The observed-test wording remains; tests do not establish universal correctness. Omit the course title and machine name from the published personal reflection, including its footnotes: the extra identification does not serve the lesson and could expose collaborators. The faculty-report memoir note has been removed; technical references remain for technical claims. Historical working records retain the earlier details for provenance, not for reintroduction into the manuscript.
+
+Authorship is blended and varies by passage, with substantial diffusion between the author's and Claude's contributions. A source folder or a prose style does not establish who wrote a particular sentence. Preserve the working voice and the author's decisions without assigning individual phrases to a person or model unless the author identifies them. See V1-026.

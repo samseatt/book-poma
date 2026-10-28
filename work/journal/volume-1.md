@@ -287,3 +287,9 @@ See [author corrections](../volume-1-drafting/interlude-04-adoption-2026-10-27/A
 Applied seven bounded substitutions to the original: course/project identity, four-tick waiting, compliance as an aim outside the assignment, observed test outputs, the professor's serious interest, and one explanatory source-note anchor for the software/hardware metaphor. Kept every paragraph in place, the comic demonstration speech, rounding joke, public-speaking conjecture, lawyers, cosmic expansion, basket and ending. All other interlude prose remains unchanged.
 
 [Full comparison and editorial assessment](../volume-1-drafting/interlude-04-adoption-2026-10-27/FPU_VOICE_COMPARISON.md) includes both original and condensed passages for direct inspection. “Claude folder” denotes provenance, not authorship: much of that text is the author's. This local-correction method supersedes the instruction to leave all FPU concerns outside the text; it does not authorize another wholesale rewrite.
+
+## V1-026 — Finish the FPU scene without identifying the project
+
+**Addressed, 27 October 2026.** Untangled the opening's double-colon construction while retaining the battery image and five-person contrast. Added the approved “Four months of wiring, and I led with the asterisk” immediately after the demo quote. Kept the limited test-result claim unchanged. Removed the formal course title and machine name from body and notes, and deleted the faculty-report citation attached to the personal recollection. The IEEE and hardware/software references remain focused on technical claims. No other scene or technical teaching was rewritten.
+
+The author clarified that his and Claude's writing are diffused through the source material; individual wording cannot be attributed from the folder name. Recorded this as standing editorial guidance. Earlier working records are historical provenance; their project identifiers are not instructions to restore them to publication.
