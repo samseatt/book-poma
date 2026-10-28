@@ -363,3 +363,8 @@ The FPU scene is substantially shorter and no longer reads as a defense of the a
 ## FPU prose restored to the author — 27 October 2026
 
 The author found the shortened FPU account bland and requested the original back so he can add the technical concerns himself. The full “Will It Float?” scene from the incoming author/Claude I4 draft is restored verbatim. This supersedes the previous FPU condensation; no other I4 scene, technical teaching, figure or Bob changed. Technical/memoir concerns remain in the adoption folder’s FPU_RESTORATION.md and research drawer. Preserve the restored narrative pending the author’s pass; do not attempt another corrective synopsis. See V1-024.
+
+
+## Factual repairs must preserve the author's narrative — 27 October 2026
+
+The author clarified the desired method after the FPU restoration: use the original author prose as the base and apply factual corrections locally; a few supporting lines are welcome, a wholesale rewrite into precise technical-document prose is not. Material in the `claude` directory includes substantial author writing and must not be casually attributed to that model. The FPU comparison demonstrates the difference between preserving a scene and summarizing its lesson. Current I4 has local factual repairs over the restored original; see V1-025 and FPU_VOICE_COMPARISON.md. The author's question about confirmation bias calls for concrete comparative evidence and independent judgment, not automatic praise or defense of the editor's draft.

@@ -278,3 +278,12 @@ See [author corrections](../volume-1-drafting/interlude-04-adoption-2026-10-27/A
 **Addressed, 27 October 2026.** At the author’s explicit request, restored the complete “Will It Float?” scene verbatim from the incoming author/Claude Interlude 4. The shortened editorial version was accurate in intention but flattened the narrative. This supersedes V1-023’s FPU condensation. The author will integrate technical concerns himself.
 
 [Restoration notes](../volume-1-drafting/interlude-04-adoption-2026-10-27/FPU_RESTORATION.md) retain EPC/course identity, latency versus iteration, limits of test evidence, IEEE/memoir qualifications and the software/hardware analogy for that later pass. Removed the now-unused EPLD bookmark from the manuscript while preserving its full reference in those notes. The scene’s original two bookmarks stay connected. All other I4 content and unrelated edits remain unchanged.
+
+
+## V1-025 — Original FPU voice with local factual repairs
+
+**Addressed, 27 October 2026.** Compared the actual author-source FPU scene with the editorial condensation in 10a8824. The original's scene, narrator and technical wordplay are materially stronger for this role; the condensation explains the conclusions and loses the encounter. The original still has limited factual/syntactic repair needs, so the judgment is not that every old sentence is preferable.
+
+Applied seven bounded substitutions to the original: course/project identity, four-tick waiting, compliance as an aim outside the assignment, observed test outputs, the professor's serious interest, and one explanatory source-note anchor for the software/hardware metaphor. Kept every paragraph in place, the comic demonstration speech, rounding joke, public-speaking conjecture, lawyers, cosmic expansion, basket and ending. All other interlude prose remains unchanged.
+
+[Full comparison and editorial assessment](../volume-1-drafting/interlude-04-adoption-2026-10-27/FPU_VOICE_COMPARISON.md) includes both original and condensed passages for direct inspection. “Claude folder” denotes provenance, not authorship: much of that text is the author's. This local-correction method supersedes the instruction to leave all FPU concerns outside the text; it does not authorize another wholesale rewrite.

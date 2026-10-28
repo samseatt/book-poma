@@ -2,6 +2,8 @@
 
 27 October 2026. The author found the latest rewrite bland and explicitly asked to restore the original, with technical concerns left for a later personal pass.
 
+**Subsequent author direction:** the original is the base, with factual corrections applied locally. [FPU_VOICE_COMPARISON.md](FPU_VOICE_COMPARISON.md) records the bounded changes now made and includes both full versions. This supersedes the earlier instruction below to leave every concern outside the scene.
+
 **Restored:** the complete “Will It Float?” section from `/Users/samseatt/projects/book_poma/sam/claude/interlude-4.md`, verbatim, including its jokes, direct speech, psychological interpretation and closing. No further literary repair has been imposed. This supersedes the shortened FPU scene in 10a8824, not the rest of the adopted interlude. Other course corrections, the beer-can callback, technical teaching, figures and Bob remain unchanged.
 
 **Still available for the author to incorporate:**

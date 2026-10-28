@@ -6,6 +6,8 @@ Stage 2 adopts the author/Claude revision as the substantive master of **Soft Lo
 
 **Latest author decision:** the original FPU scene has been restored verbatim for his own revision. [FPU_RESTORATION.md](FPU_RESTORATION.md) supersedes the shortened-scene decision while retaining its technical concerns outside the narrative.
 
+**Current treatment:** [FPU_VOICE_COMPARISON.md](FPU_VOICE_COMPARISON.md) compares the full original with the editorial condensation. The original now carries only bounded factual repairs; its narrative and humor are preserved.
+
 ## What changed
 
 - Restored **“Take the boombox.”** Patrick's terse instruction is presented as remembered speech, with the shared context supplied by the scene. Restored the older compiler/error-message joke. The full **One Night per Day** scene, the St. Peter joke, Patrick's long correction and the Beach Boys road-trip paragraph remain verbatim from the incoming revision. Repeated interpretations were compressed without removing those incidents.

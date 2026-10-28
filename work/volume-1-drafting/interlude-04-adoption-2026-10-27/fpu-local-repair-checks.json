@@ -1,0 +1,39 @@
+{
+  "base_commit": "d31484bbb5e30b237b34213a7ace4e126e9b1ed6",
+  "source_sha256": "eaf16809853a58558d331aa0da4e071ded21be5d7090e51131c3d187abb3a5a9",
+  "canonical_before_sha256": "3a2e0ecb2bdecb1b3e2118a65b085f79092c1f5df94487d7ee87e45b396d87f6",
+  "canonical_after_sha256": "5bf3aedc7feb3dc7e705391c30f9b11a0254da35a89dc2bebe37f8cc4a075211",
+  "comparison_revision": "10a8824",
+  "replacements": [
+    {
+      "before": "Professor Kime's digital engineering lab",
+      "after": "Professor Kime's Digital Design Lab"
+    },
+    {
+      "before": "the five of us spent four months building a processor on a huge breadboard.",
+      "after": "the five of us spent four months building a processor on a huge breadboard. We called it the Engineering Precision Computer (EPC)."
+    },
+    {
+      "before": "The design ran in a single pass: no multi-step routines, just four lightning-fast ticks for even the worst-case operation.",
+      "after": "The design ran in a single pass: no multi-step routines, with the CPU waiting about four ticks for even the worst-case operation to settle."
+    },
+    {
+      "before": "It was even compliant with the standard for floating-point arithmetic, IEEE 754, except for one microscopic rounding detail I implemented \"differently,\" because I stubbornly wanted it to fit in that single pass.[^v1-i4-ieee]",
+      "after": "I had even aimed at compliance with the standard for floating-point arithmetic, IEEE 754, except for one microscopic rounding detail I implemented \"differently,\" because I stubbornly wanted it to fit in that single pass.[^v1-i4-ieee] (Compliance wasn't part of the assignment; that ambition was mine.)"
+    },
+    {
+      "before": "I had the test cases to prove the output was correct.",
+      "after": "The test cases I ran gave the correct output."
+    },
+    {
+      "before": "I was genuinely surprised by the professor's interest in that single, trivial issue.",
+      "after": "The professor was interested in my FPU, and I owed him the qualification."
+    },
+    {
+      "before": "the same circuit, with little symmetry breakings the size of an instruction set.",
+      "after": "the same circuit, with little symmetry breakings the size of an instruction set.[^v1-i4-reuse]"
+    }
+  ],
+  "paragraph_order_preserved": true,
+  "outside_scene_prose_unchanged": true
+}
