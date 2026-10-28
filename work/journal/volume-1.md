@@ -262,3 +262,12 @@ Bob's authorized replacement asks about history a machine must retain, revise an
 Thirty notes are aligned; source evidence, limitations, the reader-value assessment and unresolved FPU report are recorded in [adoption notes](../volume-1-drafting/interlude-04-adoption-2026-10-27/ADOPTION_NOTES.md) and the accompanying audits. The [research drawer](../volume-1-drafting/interlude-04-adoption-2026-10-27/RESEARCH_DRAWER.md) retains temporal coordination, possible silicon psychology, entropy/complexity and the author's flexible Alice/Bob direction. Mechanism teaching is deliberately fuller; final print length remains a later check.
 
 Current edits to Interlude 1, .gitignore and book.md are preserved outside this commit. Incoming files and publishing infrastructure are unchanged. No publication.
+
+
+## V1-023 — Interlude 4 memoir corrections and a shorter FPU scene
+
+**Addressed, 27 October 2026.** The author restores **EPC — Engineering Precision Computer** and **Digital Design Lab**, and identifies Miller's fall-1989 course as introductory operating systems. Probable CS 537 and the tentative synchronization-assignment title stay in the research drawer pending personal records; the 1988 CS736 fuzzing-source citation is explicitly a different course. The available 2020 assignment page is a lead, not a substitute for the old course record.
+
+The beer-can callback now preserves the Chapter 4 personhood-creation metaphor. “Will It Float?” is shortened from 807 to 434 words, keeping the accomplishment, voluntary disclosure and hardware-reuse lesson while removing the deposition-like defense and repeated self-criticism. The St. Peter joke and Miller's response remain unchanged; the editorial recommendation is to keep this scene. The rejected bar-name premise stays retired.
+
+See [author corrections](../volume-1-drafting/interlude-04-adoption-2026-10-27/AUTHOR_CORRECTIONS.md) for evidence and limits. All other I4 teaching, figures and Bob remain unchanged. No incoming draft, neighboring manuscript or unrelated author edit was changed.

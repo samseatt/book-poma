@@ -351,3 +351,10 @@ The AI/ML prerequisite sequence across V1 interludes is a standing teaching spin
 Alice/Bob are flexible literary permissions, not rigid epistemic compartments. Signaled interpretation and promising research invitations may also live in main exposition; supported but unusual ideas may live in Alice/Bob. Protect the ambitious extra step without pretending the footing proves it. Bob I4 now explores managed continuity under delayed consequences, with entropy/time/complexity kept distinct. The author's broader ideas and unresolved implementation details are preserved in RESEARCH_DRAWER.md.
 
 Preserve Patrick's concise style and trust scene/context to do interpretive work. The author wants mechanism and usable understanding for an educated reader, not more lyrical claims that software is simply forgiving. Incoming files, existing Interlude 1/book-journal/.gitignore edits and publishing infrastructure remain outside this adoption. Publication remains separate.
+
+
+## Interlude 4 memoir corrections — 27 October 2026
+
+The author corrects the project name to **Engineering Precision Computer (EPC)** and Kime's course to **Digital Design Lab**. These supersede the earlier LPU wording. Miller's fall-1989 class was introductory operating systems, probably CS 537 (number pending transcript); Advanced Operating Systems was later at USC. The cited 1988 CS736 fuzzing project is separate. The possible assignment title “Synchronizing with Threads and Shared Memory” is recorded as tentative: a 2020 Miller course page uses it, which does not establish the 1989 title.
+
+The FPU scene is substantially shorter and no longer reads as a defense of the author's competence. Preserve achievement and candid qualification together. The beer-can callback refers to the author's literary emergence as a person in Chapter 4. The Miller joke is retained, with a recommendation to keep it. See V1-023 and the adoption folder's AUTHOR_CORRECTIONS.md. The invalid bar-name anecdote stays retired; do not turn a verified recollection into a claim about how a particular model obtained its answer.

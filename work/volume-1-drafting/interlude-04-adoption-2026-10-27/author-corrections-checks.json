@@ -1,0 +1,15 @@
+{
+  "first_five_nonempty_lines_unchanged": true,
+  "technical_middle_bob_and_closing_unchanged": true,
+  "miller_joke_and_response_unchanged": true,
+  "no_annotations_removed": true,
+  "note_identities_unchanged": true,
+  "fpu_word_count": {
+    "before": 807,
+    "after": 434,
+    "reduction_percent": 46.2
+  },
+  "base_commit": "d0399a06ba94f3ca5a76fa41c83756519d1416ec",
+  "before_sha256": "cd2e783fa835ae50134d9fa2d63965c1a79f56fde2eba6b8d7f33e764e9dfc3c",
+  "after_sha256": "eda3d39d15433d3e63a9fbd61a43f481b4d61a744a0b34f030e292b92fc2d789"
+}

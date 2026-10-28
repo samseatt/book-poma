@@ -2,6 +2,8 @@
 
 Stage 2 adopts the author/Claude revision as the substantive master of **Soft Logic — The Art of Software — SOFTWARE**. The canonical identity, header and shared images are retained. The incoming source remains untouched. This is an editorial adoption, not publication or closure of Bob's inquiry.
 
+**Subsequent author corrections:** [AUTHOR_CORRECTIONS.md](AUTHOR_CORRECTIONS.md) records the corrected **EPC** name and Digital Design Lab, the introductory OS course, the restored beer-can/personhood connection and a shorter FPU scene. The earlier LPU name below describes the superseded adoption input, not the current manuscript.
+
 ## What changed
 
 - Restored **“Take the boombox.”** Patrick's terse instruction is presented as remembered speech, with the shared context supplied by the scene. Restored the older compiler/error-message joke. The full **One Night per Day** scene, the St. Peter joke, Patrick's long correction and the Beach Boys road-trip paragraph remain verbatim from the incoming revision. Repeated interpretations were compressed without removing those incidents.
