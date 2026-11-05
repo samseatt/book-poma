@@ -295,6 +295,32 @@ If it cannot hold plurality, it is not wise.\
 If it cannot hold error, it is not honest.\
 If it cannot hold the future, it is not design.
 
+<!-- AI draft: 2026-11-05, common design method; substantive Θ foundations pass. -->
+## From a Principle to a Design
+
+The loom tells us what we want to preserve. It does not yet tell us how to make anything. “Preserve agency” is a worthy instruction to a designer, rather like “remain airborne” is to an aeroplane. Some intermediate work would be appreciated.
+
+Consider a person who keeps missing an appointment because three organizations each supply one part of the journey and none owns the connection. The diagnosis may be sound: fragmented responsibility, incompatible records, a timetable designed around the provider. Announcing a coordinating agent does not finish the design. Perhaps the appointment should move. Perhaps the journey needs funding. Perhaps an existing dispatcher needs authority to complete the job. We have not yet earned a new platform.
+
+Start with the change in the person's life: reaching the appointment without spending the previous day negotiating passage. Then describe the present arrangement, including the people who carry its unrecorded work. A daughter making six calls is part of the operating model even if the institution's diagram has omitted her. Name the affected parties, the limits of the proposed intervention, and who may decide to change those limits. Business analysis gives this work a useful discipline: elicit the need, examine current and desired conditions, develop options, and evaluate the value actually delivered. These activities inform one another; the paperwork need not march in single file.[^v3-theta-c-analysis]
+
+Next, separate the function from the institution currently performing it. Someone must receive the request, establish what is needed, find capacity, obtain acceptance, arrange the resources, deliver the service and discover whether it helped. This is **functional decomposition**: breaking an intended result into the work required to produce it. **Allocation** then assigns that work to people, organizations and tools. The separation matters. We can change who handles a task without pretending that the task has disappeared. We must also specify what passes between the parts, and who still carries the obligation while the next part is deciding whether to accept it.[^v3-theta-c-decomposition]
+
+There should now be alternatives worth arguing about. Improve the existing service. Join services through a small coordinating layer. Build something new. Compare them on the consequences that matter: useful capacity, access, waiting, operating cost, maintenance, privacy, recovery and the burden placed on participants. Include the cost of transition. A replacement can be superior when finished and disastrous on the way there.
+
+Some conditions are boundaries, others are tradeoffs. A proposal that exceeds its legitimate authority does not become acceptable by being very inexpensive. Among acceptable proposals, speed may cost resilience; a richer account may cost privacy; a convenient default may make refusal harder. Record the conflict, the assumptions and whose judgment settled it. Where a small change in an assumption reverses the preference, the choice is fragile. That is a reason to investigate or try a limited experiment, not to print the winning score in a larger font.[^v3-theta-c-alternatives]
+
+This is also how a principle becomes concrete. “Keep assistance revocable” becomes a requirement about what a withdrawal must stop, where it must take effect and what happens to work already under way. A useful scenario gives that requirement a body: during an interrupted connection, a participant withdraws permission; what can still act, who is informed, and how soon? The expected response must fit both the consequences and what the system can actually guarantee. Quality-attribute scenarios put such questions in view before architecture makes them expensive to answer.[^v3-theta-c-scenarios]
+
+Implementation now has something to be faithful to. A modest record can connect the original need to a requirement, a design choice, its responsible owner and the evidence expected from a trial. This **traceability** is useful when something changes: it tells us which promises the change touches. It also exposes an immaculate feature with no discernible human reason for existing.
+
+Chapter 22 gave us the distinction between verification and validation. Here it earns its keep. Did the coordinating service follow the specified rules? Did the person actually reach the appointment, with less burden and without a new dependency she could not refuse? Those are different questions. A correct notification can arrive beside an empty driveway.
+
+Finally, let the result change the design, and sometimes the question. If the trials reveal that every provider is full, better matching cannot manufacture a vehicle or another hour of someone's day. The problem has moved from coordination to provision. That discovery is useful even if it ruins the demonstration.
+
+The chapters ahead will exercise different parts of this discipline. Their design principles offer reasons for choosing an arrangement; the interludes build enough of its machinery to expose what those reasons cost. Neither an engineering method nor a ledger can settle the purposes of a civilization for its inhabitants. They can make the choice harder to hide.
+<!-- End AI draft: common design method. -->
+
 ## The Missing Organ
 
 In the first volume, the ladder began to curl.
@@ -739,3 +765,11 @@ The crack has been seen.
 The basket is in our hands.
 
 Now, before we weave, we inspect the loom.
+
+[^v3-theta-c-analysis]: International Institute of Business Analysis, *The Business Analysis Standard*, “Introducing Business Analysis Tasks,” especially “Task Cards” and “The Six Knowledge Areas.” The public account covers elicitation, current/future-state analysis, requirements, design options and solution evaluation; its knowledge areas do not prescribe a sequence. The civic exercise here is this book's application, not a formal BABOK procedure. [IIBA](https://www.iiba.org/knowledgehub/business-analysis-standard/4-tasks-and-knowledge-areas/introducing-business-analysis-tasks/). Accessed 5 November 2026.
+
+[^v3-theta-c-decomposition]: NASA, *Systems Engineering Handbook*, §4.3, “Logical Decomposition,” particularly §4.3.1.2.1–2: functions, allocation, interfaces, alternative architectures and iterative revision. The allocation of civic responsibilities here is an analogy and proposed application, not NASA guidance on political authority. [NASA](https://www.nasa.gov/reference/4-3-logical-decomposition/). Accessed 5 November 2026.
+
+[^v3-theta-c-alternatives]: NASA, *Systems Engineering Handbook*, §6.8, “Decision Analysis,” especially §6.8.1.2.1–5 on criteria, alternatives, evaluation, uncertainty and sensitivity of recommendations. The book adds its own distinction between legitimate authority and compensable tradeoffs. [NASA](https://www.nasa.gov/reference/6-8-decision-analysis/). Accessed 5 November 2026.
+
+[^v3-theta-c-scenarios]: Software Engineering Institute, “Quality Attribute Workshop Collection,” 1 September 2016, description of stakeholder-generated and refined scenarios before architecture selection. The short example here borrows that discipline; it is not a completed Quality Attribute Workshop or architecture evaluation. [SEI](https://www.sei.cmu.edu/library/quality-attribute-workshop-collection/). Accessed 5 November 2026.

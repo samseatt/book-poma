@@ -1,0 +1,437 @@
+{
+  "date": "2026-11-05",
+  "task": "V3 completion step 1: dependency map and initial canonical Θ foundations",
+  "baseline_commit": "28a04982f291db536cd401c2207bc18595bb3bc6",
+  "scope": {
+    "complete": "All eleven incoming V2 opportunity passages; dependency allocation for 22 numbered V3 units; new canonical Θ foundation passages and necessary Gate/sequence repairs.",
+    "not_complete": [
+      "Full reading/adoption/fact-check of incoming V2",
+      "Full rewrite or source audit of Θ",
+      "Numbered V3 substantive completion",
+      "Forecast/current-affairs refresh",
+      "Prospective vignettes, Noēsis or Opens",
+      "External handoff or publication"
+    ]
+  },
+  "inputs": [
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-12.md",
+      "sha256": "043aaa34247be72bfb45dd32805ac2484ad3d41f591db43592e01771cb8df608",
+      "words": 5279,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-12.md",
+      "sha256": "8a862c494377eb3444134487bec993332ff1087bf0b3fed62634fc806f753350",
+      "words": 7944,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-13.md",
+      "sha256": "b46b397e4c1a847f814aae7f1523e7c105429c576ea332ad555cd4499136140c",
+      "words": 4565,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-13.md",
+      "sha256": "e066477e36fbc7e540a6f395daec4b8910b5eafa379415c8913287b232a83a31",
+      "words": 5568,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-14.md",
+      "sha256": "946fb5393da32a4da2737e8703a99206fc304f8f580293a3b856a9d24a0f817e",
+      "words": 5497,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-14.md",
+      "sha256": "f5b5e3edcf66d2688f63c543771c4261dc71f310929f68c1d1330c193c6036bf",
+      "words": 7683,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-15.md",
+      "sha256": "4e0f9cd34d7b23c65930d09080cb839d09af6227315559f66eb15ae53b8b0d18",
+      "words": 4836,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-15.md",
+      "sha256": "85bf6d1fee91fba5917a432eed7f5c097fd5b17d6d8ca0123d71e44230676feb",
+      "words": 8357,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-16.md",
+      "sha256": "97122594b2e3a04b032851d252a35f6a3c280f268ff4cf1d1e76a77b5f18995f",
+      "words": 6463,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-16.md",
+      "sha256": "c3ecf7eb7d371e0f7fa50e0a3c02363f290a4d5f505a64d5854d43dc4a7bf90b",
+      "words": 7333,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-17.md",
+      "sha256": "d04e47a313d7855135b72d213f15238a0688f4c1575983c3f1bbd0be90b56af3",
+      "words": 4326,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-17.md",
+      "sha256": "cdd550e36b42a322683d6228eaa52e1efbd1113839e943f029357b3c0a3e9d7e",
+      "words": 6683,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-18.md",
+      "sha256": "27bf32501c823ece3a4365c0b894ecb672438bda51443a11efe016cab115a18c",
+      "words": 4055,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-18.md",
+      "sha256": "32e0c7b9d58070f0aa2b03b397f967bb7376d14764fc99281b562772fb81d9cc",
+      "words": 7166,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-19.md",
+      "sha256": "44e7523c3a78644db75f776d74a2ef5fa4dc4d963b57d16034ca3fd36e64f864",
+      "words": 6764,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-19.md",
+      "sha256": "141f16590badff2f86484f8d10cfdd3805072bfdbfb1fc615051e0761b17b9a4",
+      "words": 7415,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-20.md",
+      "sha256": "d41c37a672681135a2e211e8c87cb243c738da66da7ecfc162119e849552ef9a",
+      "words": 3951,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-20.md",
+      "sha256": "37896a4054dc9bf377757a935813687562edc83a645dce5e1fc17cedafbd2c04",
+      "words": 8175,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-21.md",
+      "sha256": "4d0e77b387bae2d98798ac3d0211171d3cadf031594b775ca14385ee934c497b",
+      "words": 4050,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-21.md",
+      "sha256": "9a92dd25c1de94efabcd03bea488c6cd01e93cc668d9419f81f8667e7d328816",
+      "words": 8330,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-22.md",
+      "sha256": "5fa20580e963ce60b7c900a4d94b64c6de443809fbad884f9e30a948f0d84e2d",
+      "words": 4559,
+      "inspection": "Complete opportunity-signal section; other chapter content only where separately specified."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-22.md",
+      "sha256": "f14f3254505d996e86c7f04f5bc9ae479685e78f1020c4d90b2190014a3af586",
+      "words": 6672,
+      "inspection": "Heading inventory and selected mechanism passages; not a full reading or factual certification."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-delta.md",
+      "sha256": "a53dbf915fcd7f95d23b18cc872e6917e34a3f2460f2c64d00a6aadf48cccaf1",
+      "words": 6601,
+      "inspection": "Selected system-definition/diagnosis and caseboard/method passages."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-delta.md",
+      "sha256": "d40f9b44ef6021a908a161b2adad86e4fbdd44a5019b6142b6622a862c041a81",
+      "words": 14866,
+      "inspection": "Headings and closing B4 Ladder; full clinical case was not reread."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-22.md",
+      "sha256": "5fa20580e963ce60b7c900a4d94b64c6de443809fbad884f9e30a948f0d84e2d",
+      "words": 4559,
+      "inspection": "Additional control/alignment/assurance and procedure/judgment sections, lines 42–75."
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/coda-2.md",
+      "sha256": "acc669a706fc5b6b8b673b43fbf1d35a6c281a24a7e8ee6d110deb7ec7b3cf8a",
+      "words": 2278,
+      "inspection": "Inventory; Noēsis allocation relies on previous Nov 5 intake and latest author instruction."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
+      "sha256": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+      "words": 7365,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
+      "sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "words": 6364,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
+      "sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "words": 6562,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
+      "sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "words": 4662,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
+      "sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "words": 7134,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
+      "sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "words": 7020,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
+      "sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "words": 7466,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
+      "sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "words": 5818,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
+      "sha256": "f302ffa5fb8b1c7b2347068fe70755414dfbcd2d617b745df1813fd46ca3d67c",
+      "words": 6325,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-interlude.md",
+      "sha256": "e46c917053e19b9130cb499d22a09028d22fb58738bb7d008c7cd36fd5dbde73",
+      "words": 5012,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
+      "sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "words": 6075,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
+      "sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "words": 5448,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
+      "sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "words": 5640,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
+      "sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "words": 4361,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
+      "sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "words": 5555,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
+      "sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "words": 4341,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
+      "sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "words": 5970,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
+      "sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "words": 4101,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
+      "sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "words": 5718,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
+      "sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "words": 4584,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
+      "sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "words": 10016,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
+      "sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "words": 9862,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
+      "sha256": "5a48d83b6cd4871bb5eac0aedaa854af4570a9ab463f11ec80a7a961d39c9b18",
+      "words": 10514,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
+      "sha256": "ce3dbd231ad3387858203e161d70b1fb1f6872e01f734bdb35e7b2393bb605cf",
+      "words": 10084,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-open.md",
+      "sha256": "af768d145ce8e27c004965213bb3d7f181ea32d8150b183e71aa4efde4168716",
+      "words": 120,
+      "inspection": "Θ: targeted foundation-bearing passages and annotations. Numbered pairs: heading/annotation inventory plus prior full-content assessment; no fresh full-body read claimed."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_DESIGN_MAP.md",
+      "sha256": "81ae403c7206e0ebb13a12d2b76c0ea35ddc9854e6a72eafc84e5e4b5a9816f7",
+      "words": 10692,
+      "inspection": "Relevant planning/method sections; current style guide read in full."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md",
+      "sha256": "df3a0a0c74a766b347f4cacb02dfad04e83ea509bb28dd67b3dc5b526552a4ef",
+      "words": 6495,
+      "inspection": "Relevant planning/method sections; current style guide read in full."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/THETA_SETUP_FOR_HISTORICAL_BRAID.md",
+      "sha256": "ba54b41f393692dbd6ed165dd9ebf83540721ca1cf1543272f05b850d0e5a41b",
+      "words": 2866,
+      "inspection": "Relevant planning/method sections; current style guide read in full."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_COMPLETION_PLAN.md",
+      "sha256": "25946f85502b8aa9f599d0cceba137f583ba431b931b337e4d576bf18f0af526",
+      "words": 1656,
+      "inspection": "Relevant planning/method sections; current style guide read in full."
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/claude/The Path of Many Arrows Style Guide.md",
+      "sha256": "85e289c321bcb752a6fa262128e47d8bf96a477b6f7d2d5b64e82492e2cf8234",
+      "words": 4329,
+      "inspection": "Relevant planning/method sections; current style guide read in full."
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "IIBA, Introducing Business Analysis Tasks",
+      "url": "https://www.iiba.org/knowledgehub/business-analysis-standard/4-tasks-and-knowledge-areas/introducing-business-analysis-tasks/",
+      "locator": "Task Cards; Six Knowledge Areas",
+      "supports": "Business-analysis task families and nonsequential knowledge areas",
+      "note_id": "v3-theta-c-analysis"
+    },
+    {
+      "source": "NASA Systems Engineering Handbook",
+      "url": "https://www.nasa.gov/reference/4-3-logical-decomposition/",
+      "locator": "4.3.1.2.1–2",
+      "supports": "Functional decomposition, allocation, interfaces, iterative architecture",
+      "note_id": "v3-theta-c-decomposition"
+    },
+    {
+      "source": "NASA Systems Engineering Handbook",
+      "url": "https://www.nasa.gov/reference/6-8-decision-analysis/",
+      "locator": "6.8.1.2.1–5",
+      "supports": "Alternatives, criteria, uncertainty, sensitivity",
+      "note_id": "v3-theta-c-alternatives"
+    },
+    {
+      "source": "SEI Quality Attribute Workshop Collection",
+      "url": "https://www.sei.cmu.edu/library/quality-attribute-workshop-collection/",
+      "locator": "Description",
+      "supports": "Stakeholder quality scenarios before architecture selection",
+      "note_id": "v3-theta-c-scenarios"
+    }
+  ],
+  "preservation": {
+    "author_annotations": "Must match byte-for-byte for the scoped Θ manuscripts.",
+    "numbered_manuscripts": "Must remain hash-identical to pre-pass state.",
+    "unrelated_uncommitted": [
+      ".gitignore",
+      "manuscripts/volume-1/01-interlude.md",
+      "work/journal/book.md"
+    ]
+  },
+  "outputs": {
+    "manuscripts/volume-3/theta-chapter.md": {
+      "sha256": "72ff8b2f41bb5b1242348a1270a737517c07aa609fc1a6487c3a60f32149ec33",
+      "words": 11504
+    },
+    "manuscripts/volume-3/theta-interlude.md": {
+      "sha256": "36d3dc40581131f740e8662df6e06325c0e53bafc1e6aaaec2275a72dc52cb8a",
+      "words": 11075
+    },
+    "work/EDITORIAL_CONTEXT.md": {
+      "sha256": "d4b8f3f99e862b217f3a814ae788f9b2f9ad66fb9f78d14a81561865aa16d91a",
+      "words": 10843
+    },
+    "work/VOLUME_III_COMPLETION_PLAN.md": {
+      "sha256": "596b499a4b3097280be0808f1d43b8eba458c32377e28b6f80e38a061b02c895",
+      "words": 1791
+    },
+    "work/VOLUME_III_DEPENDENCIES_AND_THETA_FOUNDATIONS.md": {
+      "sha256": "57ee751aabd694ef8b53ddf062298a7c2d102302b6bdd2926f1fe9011e49c5e4",
+      "words": 4284
+    },
+    "work/journal/volume-2.md": {
+      "sha256": "80feec4e6b7e40279e64f81407933c6b128dbd3dfa4aa38f5c41d1ab34b40708",
+      "words": 1113
+    },
+    "work/journal/volume-3.md": {
+      "sha256": "c07bd303708347a0cdad4666ec9723258f53a3107c1ceb07a9e017f2c185ab3c",
+      "words": 4166
+    }
+  },
+  "validation": {
+    "result": "passed",
+    "checks": [
+      "Only the two Θ manuscripts differ from the complete pre-pass manuscript hash inventory.",
+      "Both existing IΘ author annotation blocks match their pre-pass text exactly.",
+      "Composite Θ headers unchanged.",
+      "Four new source notes have unique book-wide IDs and matching uses/definitions.",
+      "Only the two Θ document records changed in the manifest; their hashes match.",
+      "Relative links in the new map resolve; edited JSON parses.",
+      "Scoped git diff --check passes."
+    ],
+    "rendering": "No rendered-edition proof performed; changes use existing Markdown conventions and native notes.",
+    "publication": "Not requested or performed."
+  }
+}

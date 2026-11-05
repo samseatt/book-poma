@@ -51,3 +51,9 @@ IΔ's B4 is the one standing specimen set. Numbered interludes teach mechanisms 
 All eleven opportunity-signal headings persist. Refresh their substance and the old many-to-many V3 mappings from adopted revised text rather than citing the October extraction as current wording. The previous editor read canonical Δ but did not draft its current manuscript; the new Δ versions are incoming author/Claude work.
 
 See [the self-contained alignment handoff](../handoffs/2026-11-05-codex-to-claude-v3-alignment.md) and [source snapshot](../handoffs/2026-11-05-claude-intake-audit.json). No source manuscripts, annotations, bibliography, manifest or publication files changed in this intake.
+
+## V2-009 — Revised prerequisites mapped to V3
+
+**Reading/mapping addressed, 5 November 2026; adoption remains paused.** Read all eleven incoming opportunity-signal passages completely and selected mechanism passages across I12–I22, with relevant Δ and C22 sections. [The V3 dependency record](../VOLUME_III_DEPENDENCIES_AND_THETA_FOUNDATIONS.md) records how they support V3 and which subjects V3 should apply rather than reteach. It does not imply a complete reading or factual certification of the new volume.
+
+Several wording/claim issues are held for the unit adoption passes or checked before reuse: differential privacy and authentication/revocation guarantees in I17; convergence versus meaningful agreement in I18; assumptions of formal verification in C22; the relation between an independence illustration and empirical agent reliability in I20; and the limits of biological/social analogy. These are recorded as review flags, not corrections to incoming or canonical V2. No V2 manuscript has changed.

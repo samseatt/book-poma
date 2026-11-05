@@ -2582,7 +2582,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
-        "sha256": "ea10d9013869a22e3b9ede6e49ce64b694bc0c76ba115889edd2790bb80c0dfb"
+        "sha256": "72ff8b2f41bb5b1242348a1270a737517c07aa609fc1a6487c3a60f32149ec33"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-c - The Design Horizon - Principles for Re-weaving Civilization.docx",
       "source_sha256_at_inventory": "51d986de7746048d5d439cfa298e3faa63b8cbaa7eaea03362096b322cdbac85",
@@ -2611,6 +2611,11 @@
       "current_header": {
         "title": "The Architect's Pause",
         "subtitle": "Design After Diagnosis"
+      },
+      "substantive_foundations_review": {
+        "date": "2026-11-05",
+        "status": "foundations-added-full-revision-pending",
+        "record": "work/VOLUME_III_DEPENDENCIES_AND_THETA_FOUNDATIONS.md"
       }
     },
     {
@@ -2622,7 +2627,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
-        "sha256": "220309b1a809360bbcbdf6e86cf7f59ad20420dabdbb21003868b6dc03c138d4"
+        "sha256": "36d3dc40581131f740e8662df6e06325c0e53bafc1e6aaaec2275a72dc52cb8a"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-i - The Architect’s Pause - Before We Build the Future.docx",
       "source_sha256_at_inventory": "8983adc5f712a2ec57c1ef5911983623595d3de816fd8085df631ca0d5f0bf80",
@@ -2656,6 +2661,11 @@
       "current_header": {
         "title": "The Architect's Bench",
         "subtitle": "C4A and the Three Empires"
+      },
+      "substantive_foundations_review": {
+        "date": "2026-11-05",
+        "status": "foundations-added-full-revision-pending",
+        "record": "work/VOLUME_III_DEPENDENCIES_AND_THETA_FOUNDATIONS.md"
       }
     },
     {

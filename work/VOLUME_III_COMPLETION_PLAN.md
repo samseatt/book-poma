@@ -1,6 +1,6 @@
 # Volume III substantive completion and later Claude handoff
 
-5 November 2026 · Active editorial workflow · Manuscript work has not begun under this plan
+5 November 2026 · Active editorial workflow · Step 1 complete: dependency map and initial canonical Θ foundations
 
 ## Author decision and division of work
 
@@ -10,7 +10,7 @@ Codex owns the substantive design/builder completion: integrate approved plannin
 
 Sam supplies personal particulars and retains authorship decisions. Sam and Claude handle the subsequent literary pass, final prospective vignettes and their narrative realization, Noēsis meditations for the interludes, and Opens after the paired texts are ready. Codex supplies useful vignette briefs: the intellectual question, Gate conditions, possible situation, protected factual memory and bridge requirements. These are options and constraints, not scripts that decide personal experiences for Sam.
 
-The author's isolated phrase “Then Codex will do the final drafting run” is read in the context of the repeated explicit allocation to Claude: Codex completes the substantive source first; Sam/Claude performs the subsequent literary pass; Codex later compares and merges the returned revisions. If the author intended a different final writer, correct this allocation before that later handoff. This interpretation does not authorize sending files to another session now.
+The author explicitly confirmed on 5 November that “Codex” in the final-drafting sentence was a typo for **Claude**. Codex completes the substantive source first; Sam/Claude performs the subsequent literary pass; Codex later compares and merges the returned revisions. No ambiguity remains about that allocation, and it does not authorize sending files to another session now.
 
 ## Recommended unit of execution
 
@@ -72,3 +72,9 @@ The 5 November alignment document stays internal and withheld. At the end of thi
 Completion means that the substantive argument is coherent across the volume, important mechanisms are taught rather than promised, the accepted timeline framework is consistent, and every deliberate literary reservation is identifiable. It does not mean final vignettes, Noēsis, Opens or all emotional endings have already been written. A commit is not authorization to publish; no file is sent to Claude or Publisher in this preparatory task.
 
 Source snapshot: SHA-256 `e46a9b71ce003e781342663a8ae40bd79ebc86d598b808c56997e6878c683d41`. Repository baseline at this workflow decision: `fffb02065614dbfde44c5b4f2b98a29881be3c14`. The older summary was read as provenance; no new external fact-check was performed for this workflow decision.
+
+## Step 1 completed — 5 November 2026
+
+The [dependency and Θ foundations map](VOLUME_III_DEPENDENCIES_AND_THETA_FOUNDATIONS.md) refreshes all eleven opportunity-signal connections, assigns principal teaching homes across the 22 numbered units, and distinguishes available incoming V2 prerequisites from adopted/verified content. The author explicitly confirms that **the Θ pair starts Volume III**: Chapter Θ supplies theme, bootstrap and common design instruction; Interlude Θ establishes the experimental and historical/future setting. Pair 23 is the first numbered application, not the actual beginning of the volume.
+
+Canonical CΘ now contains the common design-method passage with four verified source notes. Canonical IΘ contains the bounded Breadboard example and the necessary Gate/sequence/timing corrections. Existing annotations and narrative are preserved. These are initial foundations; the complete Θ revision, current-affairs source pass and final promise reconciliation remain pending. The next execution unit is pair 23. No numbered pair, V2 adoption or external handoff has been completed by this step.
