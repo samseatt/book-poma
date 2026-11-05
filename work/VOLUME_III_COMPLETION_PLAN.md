@@ -1,6 +1,6 @@
 # Volume III substantive completion and later Claude handoff
 
-5 November 2026 · Active editorial workflow · Steps 1–2 complete: initial Θ foundations and substantive pair 23 calibration
+5 November 2026 · Active editorial workflow · Steps 1–2 complete; pair 23 substantive content and vignette directions accepted by the author
 
 ## Author decision and division of work
 
@@ -91,4 +91,9 @@ Canonical C23/I23 now develop the first numbered design and builder application.
 
 [The pair brief](volume-3-drafting/23-substantive-completion-2026-11-05.md) records reader outcomes, signal inheritance, preserved writing, the future-vignette/Noēsis/Open reservations and the unresolved primary attribution of the retained Sweet epigraph. Existing author annotations, opening/bridge passages and closing scenes are preserved; retained future scenes are not thereby approved as final memoir. Gate 1 is corrected to the first progress checkpoint after the September 2026 launch. No actual pilot result is claimed.
 
-This completes the calibration's substantive remit, not its final literary edition or the volume. Sam can assess this pair before the repeated treatment of 24–33. Pair 24 is next. The final Claude handoff remains withheld; no publishing or incoming V2 adoption is performed.
+This completes the calibration's substantive remit, not its final literary edition or the volume. Sam has now accepted this pair and both complementary thought-vignette directions. Pair 24 is next, to start on his subsequent request. The final Claude handoff remains withheld; no publishing or incoming V2 adoption is performed.
+
+
+### Pair 23 author sign-off
+
+The calibration is accepted for the later Claude literary pass. C23's fractured care arrangement supplies the design motive; I23's deliberately disrupted integration rehearsal applies the same scrutiny to the builder's own system so it does not reproduce the failures it seeks to repair. The updated pair brief and V3-VIGNETTES-006 record the rationale. Final prose for the openings, their callbacks, Noēsis and Open remain assigned to Sam/Claude; the flagged epigraph-source question remains open. No new canonical edits or external handoff accompany this acceptance. Await Sam's next prompt for pair 24.
