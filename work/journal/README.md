@@ -28,6 +28,10 @@ Nothing here runs automatically. Ask for a batch by scope, for example: “Proce
 
 The shared journal is the durable record; direct task messages can point to it when the author requests coordination. Only one session edits a shared file, stages or commits at a time. Read current files immediately before saving.
 
+## Current queue status — 5 November 2026
+
+**Incoming-draft adoption is paused at the author's request while Codex completes V3's substantive content.** The two-stage process below remains the required return workflow. Canonical adoption has reached Chapter 5; its Alice remains open, and Interlude 5 is the next unadopted numbered unit. Resume from that checkpoint without automatically redoing C5. See [the active V3 completion and handoff plan](../VOLUME_III_COMPLETION_PLAN.md). After the V3 content pass, Sam will give a fixed manuscript snapshot and refreshed handoff to Claude; returned literary revisions will re-enter the same two-stage process. This pause does not pause the newly authorized V3 editorial work.
+
 ## Adopting an incoming chapter or interlude — two stages
 
 Author-approved process, 23 October 2026. Applies to Claude-assisted and other author-supplied replacement drafts. Comparison alone does not authorize replacing canonical text. Stage 1 is read-only: present the decision packet in chat, and do not edit or stage manuscript, journal or workflow files unless the author separately asks for a written record. Stage 2 records the settled decisions. The old `book_poma` tree remains read-only.

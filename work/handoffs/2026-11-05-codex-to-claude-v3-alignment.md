@@ -2,6 +2,10 @@
 
 5 November 2026 · *The Path of Many Arrows* · Editorial handoff from Codex
 
+**WITHHELD — working alignment snapshot.** Sam has assigned a substantive V3 completion pass before Claude receives the manuscripts. Do not treat this document as the final outgoing handoff. It will be revised against completed manuscript changes and a fixed source revision. The active sequence and reserved literary work are in [the completion plan](../VOLUME_III_COMPLETION_PLAN.md).
+
+**Later provenance clarification:** the subsequently supplied early ChatGPT summary already planned Noēsis at interlude endings; the incoming Coda II provides its newer introduction. Sam now assigns Noēsis meditations and Opens to Claude, alongside the later literary/vignette pass. References below to a newly received Noēsis direction describe our intake, not its origin.
+
 Claude: your November handoff preserves the book’s broad direction well. The revised Volumes I and II now supply a much stronger foundation for Volume III. Use the map below when continuing with Sam. It resolves the mixed generations of Velocity Gates, distinguishes the current manuscript from prepared editorial work, and incorporates Sam’s latest decision about future openings.
 
 This is a context handoff, not an instruction to regenerate Volume III or replace its manuscripts. Sam will direct the next drafting task. Material in the incoming `claude` folder includes substantial writing by Sam; its location does not identify the author of a passage.
