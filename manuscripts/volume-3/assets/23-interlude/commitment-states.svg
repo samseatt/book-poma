@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="940" viewBox="0 0 1000 940" role="img" aria-labelledby="title desc"><title id="title">From request to reviewed outcome</title><desc id="desc">A proposed service needs acceptance and provider-confirmed capacity before commitment. Expired proposals leave the request unresolved. Failed commitments enter recovery. Missing replies require reconciliation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L10,4 L0,8 Z" fill="#222"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#111" stroke-linejoin="round">
+<rect x="45" y="30" width="510" height="120" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="300.0" y="69" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="300.0" dy="0">REQUESTED</tspan>
+</text>
+<text x="300.0" y="108" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="300.0" dy="0">Purpose and constraints confirmed</tspan>
+</text>
+<rect x="45" y="200" width="510" height="120" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="300.0" y="239" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="300.0" dy="0">PROPOSED</tspan>
+</text>
+<text x="300.0" y="278" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="300.0" dy="0">Feasible terms offered</tspan>
+</text>
+<rect x="45" y="370" width="510" height="120" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="300.0" y="409" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="300.0" dy="0">COMMITTED</tspan>
+</text>
+<text x="300.0" y="448" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="300.0" dy="0">Accepted; capacity confirmed</tspan>
+</text>
+<rect x="45" y="540" width="510" height="120" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="300.0" y="579" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="300.0" dy="0">DELIVERY REPORTED</tspan>
+</text>
+<text x="300.0" y="618" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="300.0" dy="0">Provider reports what happened</tspan>
+</text>
+<rect x="45" y="710" width="510" height="120" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="300.0" y="749" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="300.0" dy="0">REVIEWED</tspan>
+</text>
+<text x="300.0" y="788" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="300.0" dy="0">Adequacy, dispute or unknown</tspan>
+</text>
+<path d="M300,150 L300,200" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M300,320 L300,370" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M300,490 L300,540" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M300,660 L300,710" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="645" y="130" width="310" height="145" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="800.0" y="169" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="800.0" dy="0">NOT ACCEPTED</tspan>
+</text>
+<text x="800.0" y="208" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="800.0" dy="0">Declined or expired</tspan>
+<tspan x="800.0" dy="32">Need still unresolved</tspan>
+</text>
+<path d="M555,245 L605,245 L605,205 L645,205" fill="none" stroke="#222" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<path d="M800,130 L800,90 L555,90" fill="none" stroke="#222" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<rect x="645" y="390" width="310" height="145" rx="9" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="800.0" y="429" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="800.0" dy="0">RECOVERY</tspan>
+</text>
+<text x="800.0" y="468" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="800.0" dy="0">Keep an owner</tspan>
+<tspan x="800.0" dy="32">Contact; revise; retry</tspan>
+</text>
+<path d="M555,430 L645,430" fill="none" stroke="#222" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<path d="M645,490 L605,490 L605,315 L555,315" fill="none" stroke="#222" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+<text x="800" y="605" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="800" dy="0">No reply?</tspan>
+</text>
+<text x="800" y="645" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="800" dy="0">Reconcile status.</tspan>
+<tspan x="800" dy="36">Do not assume</tspan>
+<tspan x="800" dy="36">success or failure.</tspan>
+</text>
+<text x="500" y="889" text-anchor="middle" font-size="28" font-weight="normal">
+<tspan x="500" dy="0">A closed record is not proof that a need was met.</tspan>
+</text>
+</g></svg>

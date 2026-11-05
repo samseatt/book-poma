@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-05",
+  "baseline_commit": "1170646f208e40031e0334a81012c5855f441e3e",
+  "scope": "Canonical V3 pair 23 substantive completion; separate from paused incoming adoption. No external handoff or publication.",
+  "inputs_sha256": {
+    "manuscripts/volume-3/23-chapter.md": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+    "manuscripts/volume-3/23-interlude.md": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+    "work/manuscript-manifest.json": "2a1fc12b44a7f54f46a9a307cedba655f869dd2e09da6f2f634a12b4527e80a0",
+    "work/VOLUME_III_COMPLETION_PLAN.md": "472035cb07f1053d2e04d0a6ca521f5ce111e007903bdba94526c96dcf5a96ab",
+    "work/EDITORIAL_CONTEXT.md": "4b4867e86bd98c7ccf75d5f95ea98473e6de72a6834b6a935cfacdb30a97fe22",
+    "work/journal/volume-3.md": "0d9bc36c97c32b1c024a8af78c9ebe696177c7a1757033efdaeeda0357c20c3b",
+    "work/VELOCITY_GATES_PROPOSAL.md": "c7f9d261e237c0a8c59699013da19cdce07bd03f58d0809f7b8a45bd99720b87",
+    "work/VOLUME_III_DEPENDENCIES_AND_THETA_FOUNDATIONS.md": "b28a63d94f17cd53e88a5a2974ada13b98b25e5b72515293fd53f538c80e4f08",
+    "work/handoffs/2026-11-05-codex-to-claude-v3-alignment.md": "3ebef2c741081965f41852eeba637bb81ea9bbc045a93ff4d40153404b122cf1"
+  },
+  "sources": [
+    {
+      "note_or_use": "v3-23-functions",
+      "source": "NASA, 4.3 Logical Decomposition",
+      "url": "https://www.nasa.gov/reference/4-3-logical-decomposition/",
+      "locator": "4.3.1.2.1–4.3.1.2.2",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Functional decomposition/allocation, interfaces and alternative architectures. Civic journey is an original application."
+    },
+    {
+      "note_or_use": "v3-23-options",
+      "source": "IIBA, Requirements Analysis and Design Definition task cards (2022)",
+      "url": "https://www.iiba.org/contentassets/134acd0f148b4c51a7225c72bd17db0a/all-task-cards-req-analysis-and-design-def.pdf",
+      "locator": "PDF pages 1, 5–6",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Model requirements, define options, assess value/tradeoffs and acceptance/evaluation criteria. Task cards consulted, not a claimed full BABOK reading."
+    },
+    {
+      "note_or_use": "v3-23-modules",
+      "source": "D. L. Parnas (1972), On the Criteria To Be Used in Decomposing Systems into Modules",
+      "url": "https://www.cs.lafayette.edu/~gexia/cs301/resources/parnas.html",
+      "locator": "Comparison of the Two Modularizations; Conclusions",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Information hiding around changeable design decisions; educational transcription, no direct quote. Civic interpretation explicitly an analogy."
+    },
+    {
+      "note_or_use": "v3-i23-log",
+      "source": "Gerd Graßhoff (2012), Globalization of Ancient Knowledge",
+      "url": "https://www.mprl-series.mpg.de/studies/1/11/index.html",
+      "locator": "7.2–7.3",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Organized astronomical observations/records; mostly Seleucid surviving diaries, not invention in 750 BCE."
+    },
+    {
+      "note_or_use": "v3-i23-ports",
+      "source": "Alistair Cockburn (2005), Hexagonal Architecture",
+      "url": "https://alistair.cockburn.us/hexagonal-architecture/",
+      "locator": "Intent; Motivation; adapter/test examples",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Application boundaries and adapters separate external mechanisms. Service illustration is our application."
+    },
+    {
+      "note_or_use": "v3-i23-agents / existing v3-23-agents",
+      "source": "NIST (5 February 2026), New Concept Paper on Identity and Authority of Software Agents",
+      "url": "https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents",
+      "locator": "News article and proposed-project scope",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Identity, authorization and audit are live engineering issues, not a final standard or prediction of 2029."
+    },
+    {
+      "note_or_use": "v3-i23-idempotence",
+      "source": "Hohpe and Woolf (2003), Idempotent Receiver",
+      "url": "https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html",
+      "locator": "Pattern problem/solution and implementation alternatives",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Duplicate detection and idempotent semantics; no exactly-once physical effects guarantee."
+    },
+    {
+      "note_or_use": "v3-i23-retries",
+      "source": "Malcolm Featonby, Making Retries Safe with Idempotent APIs",
+      "url": "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/",
+      "locator": "Caller-provided identifiers; atomicity; late arriving requests; same identifier/different intent",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Atomic recording of token/mutation and bounded token semantics. No claim about Tiers implementation or external provider guarantees."
+    },
+    {
+      "note_or_use": "v3-i23-access",
+      "source": "Hu et al., NIST SP 800-162 (2014, updated 2019)",
+      "url": "https://csrc.nist.gov/pubs/sp/800/162/upd2/final",
+      "locator": "Abstract and ABAC definition",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Subject/object/action/environment attributes with policy evaluation. Concrete service permissions are proposed, not compliance certification."
+    },
+    {
+      "note_or_use": "v3-i23-commons",
+      "source": "Elinor Ostrom, Nobel Prize Lecture (8 December 2009)",
+      "url": "https://www.canr.msu.edu/fsp/outreach/presentations/Ostrom_Nobel_Lecture_27_October_2016.pdf",
+      "locator": "Printed pp. 421–423; principle list p. 422 (PDF page 15)",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Primary lecture reprint; design principles concern common-pool institutions, extension to civic platform is conditional."
+    },
+    {
+      "note_or_use": "vignette brief only",
+      "source": "METR, Frontier Risk Report (19 May 2026; assessment February–March)",
+      "url": "https://metr.org/blog/2026-05-19-frontier-risk-report/",
+      "locator": "Coding agents did real projects; time-horizon section and measurement limitations",
+      "verified_on": "2026-11-05",
+      "support_and_limits": "Evidence of substantial software capability, task/scaffold dependence and saturation limits. No numerical trend projected into 2029."
+    }
+  ],
+  "unresolved": [
+    {
+      "item": "Existing Leonard Sweet epigraph",
+      "status": "Exact primary source not established. Preserved; secondary published attribution is not treated as primary verification.",
+      "lead": "https://api.pageplace.de/preview/DT0400.9780736943550_A26057897/preview-9780736943550_A26057897.pdf"
+    },
+    {
+      "item": "Reserved future scenes/annotations",
+      "status": "Preserved, not approved as final; see pair brief for privacy, capability, perspective and personal-memory issues."
+    }
+  ],
+  "historical_source_scope": "Original three historical notes and historical paragraphs retained; no claim of fresh exhaustive historical re-verification. Agent-authority note rechecked.",
+  "validation": {
+    "status": "Passed scoped structural checks, protected-text comparisons, source/claim review, SVG inspection and git diff --check.",
+    "diagrams": "Both SVGs rendered to PNG with Sharp and visually inspected. No clipped labels or illegible overlaps observed. Full edition/print rendering not performed.",
+    "chapter": {
+      "word_count_before": 7365,
+      "word_count_after": 8247,
+      "protected_opening_annotations_and_closing": "Exact text preserved; additional provenance comments outside protected text.",
+      "source_notes": 7
+    },
+    "interlude": {
+      "word_count_before": 6364,
+      "word_count_after": 6517,
+      "protected_opening_annotations_and_closing": "Exact text preserved; additional provenance comments outside protected text.",
+      "source_notes": 7
+    },
+    "manuscript_checker": {
+      "chapter": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
+        "sha256": "0c4d206eff0b5834e1de6e45de348c55134eb3fb945f0332d682e6e8f0fff789",
+        "defined_notes": 7,
+        "note_references": 7,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [
+          "Author annotations are present and untouched; this is not the publication annotation guard."
+        ],
+        "errors": [],
+        "passed": true
+      },
+      "interlude": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
+        "sha256": "6f56e39f524185c2efc806097af7c71d8a02738bc5508e7e5a129a5934718ea7",
+        "defined_notes": 7,
+        "note_references": 7,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    "scope_guard": "Exactly the thirteen intended paths changed. Only pair 23 active-source hashes updated; other manuscript hash drift left untouched.",
+    "limits": "No full Quarto/print proof, production software test, user trial, new clinical/legal claim validation or exhaustive recheck of retained historical paragraphs. Existing author annotations are deliberately unresolved."
+  },
+  "outputs_sha256": {
+    "work/VOLUME_III_DEPENDENCIES_AND_THETA_FOUNDATIONS.md": "de60a36075c0222f789cd87733b9f59b7acce3a1b9469e79c298348922519256",
+    "work/VOLUME_III_COMPLETION_PLAN.md": "7572d408d86aef7d87b3eca897ee207be0d301958a5fd332f52ebfd5dd4c3d95",
+    "work/manuscript-manifest.json": "3059fbb6fbb330869a59c42eb024d4c9dee85ea45d9c85ed4ff78a1309627a5e",
+    "work/VELOCITY_GATES_PROPOSAL.md": "7a3356303345cc0a0da89f57781a5eec6d19d5c07ea9feea603d2da760013656",
+    "work/EDITORIAL_CONTEXT.md": "233325f776aca352727302b44452a110e14c7c72fa1aac2d426062bfbabbdbce",
+    "manuscripts/volume-3/23-interlude.md": "6f56e39f524185c2efc806097af7c71d8a02738bc5508e7e5a129a5934718ea7",
+    "manuscripts/volume-3/23-chapter.md": "0c4d206eff0b5834e1de6e45de348c55134eb3fb945f0332d682e6e8f0fff789",
+    "manuscripts/volume-3/assets/23-interlude/commitment-states.svg": "0f0100e3f691ed76d23197b9e2e8794e4f89597878a88848a11b5da06c5551b8",
+    "manuscripts/volume-3/assets/23-interlude/ports-and-adapters.svg": "44e829dc9cbcba236db87429678522a676766255ab71d8ce8141edf017928c36",
+    "work/journal/volume-3.md": "6ecc61b64f5e545e2ebd285d1c89ce49500b15e1ff895fc226d21d57233450d7",
+    "work/volume-3-drafting/23-substantive-completion-2026-11-05.md": "c2faa1d43fd5b36cdac2ee4ca0681f43b10db84e9938ab2773204808c7f7e463",
+    "work/handoffs/2026-11-05-codex-to-claude-v3-alignment.md": "d1ecef2ff99c973c551424d160f8aa501605e664233c2ba30ec3ad4636a18366"
+  }
+}

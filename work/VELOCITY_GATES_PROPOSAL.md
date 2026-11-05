@@ -62,7 +62,7 @@ No gate depends on a stipulated AGI arrival year, universal humanoid ownership, 
 
 **Interlude vignette.** In the school-library builder room, you follow one request from consent through a real offer, acceptance and fulfilled help. Test a provider outage or a withdrawn offer. The board is a shared view and fallback, while the meaningful innovation lies in the commitments behind it.
 
-**Neuverse check.** Can a need become completed help without exposing unnecessary personal information or coercing volunteers? Measure completion, elapsed time, staff and contributor burden, and whether service continues during an outage. Pilot the smallest useful civic connection before the September launch; do not imply nationwide maturity in March.
+**Neuverse check.** Can a need become completed help without exposing unnecessary personal information or coercing volunteers? Measure completion, elapsed time, staff and contributor burden, and whether service continues during an outage. Use the smallest useful civic connection as a progress test thirty months after the September 2026 launch; do not imply nationwide maturity at the March 2029 checkpoint.
 
 ## Gate 2 — The Delegated Life
 

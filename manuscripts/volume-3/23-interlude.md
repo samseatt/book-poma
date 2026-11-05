@@ -136,6 +136,8 @@ You underline it.
 
 Welcome to the loom.
 
+<!-- AI-assisted source clarification: Codex, 2026-11-05; earlier prose retained. -->
+
 ## Iron, Lens, Log
 
 Builders like to imagine they begin with ideas.
@@ -178,7 +180,7 @@ A humane renewal system needs better sight: where need is emerging, where capaci
 
 The third lesson is the log.
 
-Babylonian astronomers did not learn the sky by glancing upward between errands and declaring themselves aligned with the cosmos. They watched. Recorded. Compared. Waited. Kept memory longer than mood. The pattern emerged because attention endured.
+Babylonian astronomers did not learn the sky by glancing upward between errands and declaring themselves aligned with the cosmos. Across a long tradition of observation, they recorded and compared, keeping memory longer than mood. Their surviving astronomical diaries show the value of sustained, organized records.[^v3-i23-log] This is a lesson drawn from that broader tradition, not an invention assigned to the chapter’s opening year.
 
 Renewal needs logs too.
 
@@ -202,845 +204,194 @@ If Chapter 23 asked how a society begins to reweave after fracture, this interlu
 
 What must be implemented so that the weave does not betray the people it claims to hold?
 
+<!-- End source clarification. -->
+
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. Retained sentences have mixed earlier provenance. Worked mechanisms and wagers are proposals, not project results. -->
+
 ## Goodwill Is Not Architecture
-
-Goodwill is necessary.
-
-It is also dangerously overrated.
 
 Goodwill says: someone should help.
 
 Architecture asks: who, how, under what authority, with what information, what consent, what limits, what memory, what appeal, what failure mode, and who cleans up when the beautiful impulse becomes a new mess with better intentions?
 
-Goodwill is the warm hand reaching out.
+Goodwill is the warm hand reaching out. Architecture is making sure the hand does not accidentally grab the throat.
 
-Architecture is making sure the hand does not accidentally grab the throat.
+A crisis produces people who want to help, people who want to lead, people who want to be seen helping, people who genuinely know what to do, people who know what not to do but say it too late, and one person who will suggest blockchain because every age has its wandering minstrels. The builder's task is to give the useful impulses bones.
 
-The room in Chapter 23 had goodwill. It also had confusion. That is normal. A crisis produces people who want to help, people who want to lead, people who want to be seen helping, people who genuinely know what to do, people who know what not to do but say it too late, and one person who will suggest blockchain because every age has its wandering minstrels.
+We can begin with the ordinary journey proposed on Θ's bench and examined in the chapter. Someone wants to reach a community centre and return home. A provider can supply transport. Someone must establish a workable arrangement between them. This is a proposed Breadboard exercise for Neuverse, with Tiers supplying infrastructure; it is not a report of a completed project or a claim that one journey tests a civilization.
 
-The builder's task is not to mock the goodwill.
+Build one narrow path through the whole service before building a magnificent catalogue of features. A request arrives by phone or through an interface. A suitable provider accepts a defined job. The participant accepts the arrangement. The journey occurs—or fails—and someone learns what actually happened. This *thin working slice* must cross the real boundaries, including the human ones. Twenty completed screens on the front of an unconnected service are still twenty screens.
 
-The builder's task is to give goodwill bones.
+## Three Records, Three Different Claims
 
-A humane system cannot be woven from sentiment alone. Sentiment frays under load. It forgets boundaries. It burns out the generous. It lets the loud define the urgent. It confuses visibility with care. It lets the person most comfortable with tools shape the needs of people least comfortable refusing them.
+The first primitives are a **need**, an **offer of capacity**, and a **commitment**. They should not be three names for one row in a database.
 
-So the first move from mood to architecture is the primitive.
+A need describes something wanted. An offer describes something potentially available. A commitment records what particular parties have agreed to do. Conflating them makes a recommendation look like a reservation and an available name look like a person on the way.
 
-A primitive is a small repeatable form.
+| Record | Minimum useful contents in this trial | What it does not establish |
+| --- | --- | --- |
+| Need | A request identifier; purpose and necessary service constraints; useful time window; a private way to reach the requester or authorized representative; source and last confirmation of the information | Eligibility for every service, consent to public exposure, or agreement to the first proposed match |
+| Capacity offer | Provider identity; service and equipment available; time and workload limits; cost or funding terms; conditions and expiry; who may confirm availability | A reservation, a duty to accept every request, or permission to disclose the provider's entire schedule |
+| Commitment | References to the request and accepted offer; agreed scope and times; the parties' acceptances; reserved capacity confirmed by its owner; payment responsibility; change and recovery contacts | Proof that delivery happened or that the person's purpose was served |
 
-Not a platform.
+These are example fields, not a universal form to impose on every act of kindness. A request for a shovel should not require a database migration. The records become valuable where an obligation must survive a change of person, interface or institution.
 
-Not a doctrine.
+Keep identifying details separate from a shared board of needs. A coordinator might see that accessible transport is required in a particular area; the assigned provider receives the pickup details when entitled to act. The public board needs neither the person's diagnosis nor the fact that her home will be empty. Hashing a name or replacing it with initials does not make a recognizable combination of place, time and circumstances anonymous.
 
-Not the whole loom.
+Allow a person to correct the request, use an interpreter or authorized representative, and decline an unsuitable offer. An observed need—a missed visit, for example—is a reason to ask, not automatic consent to open a case. Record whether a fact was supplied, inferred or confirmed. “The model thinks” and “the participant agreed” should never occupy the same field with different levels of confidence.
 
-A form modest enough to test and precise enough to govern.
+An offer also needs limits. The person with a car is not a vehicle owned by the mesh. Availability can change. Before acceptance, an expired offer simply stops being offered. After a commitment, withdrawal starts a recovery process. A driver's right to stop does not entitle the software to leave the passenger believing a car is still coming.
 
-A need.
+## A Promise Has States
 
-A capacity.
+A workflow state machine defines the states a request can occupy, the events that permit a change, and the conditions that must hold. The benefit is not the diagram's tidiness. It is the refusal to let a reassuring sentence skip a necessary event.
 
-A role.
+For this journey, the useful spine is **requested → proposed → committed → delivery reported → reviewed**. A proposal can be refused or expire while the need remains unresolved. A commitment can fail and enter recovery. A reported delivery may be disputed or inadequate. “Reviewed” means the outcome has been examined or the lack of confirmation recorded; it does not mean success by definition.
 
-A trust relation.
+![A request becomes a promise only after the relevant parties accept and the provider confirms capacity. Failure retains an owner; an unanswered message leaves an uncertainty to resolve.](assets/23-interlude/commitment-states.svg){#fig-v3-i23-commitment width=100% fig-alt="A five-state workflow from requested to proposed to committed to delivery reported to reviewed. A declined or expired proposal returns to the unresolved request. A failed commitment enters recovery, which retains responsibility. Missing acknowledgments require status reconciliation rather than an assumed success or failure."}
 
-A boundary.
+The transition to *committed* requires agreement to the same terms. The requester accepts this arrangement; the provider confirms that this capacity has been reserved; the funding responsibility is settled where payment is involved. A free-text model response saying “all set” supplies none of those facts by itself.
 
-A match.
+The coordinator remains responsible for resolving an open request until a provider accepts the delivery obligation. That handoff does not erase the coordinator's separate responsibility for monitoring and recovery. Name both roles. “Everyone can see the status” is not an allocation of either one.
 
-A feedback loop.
+Within a provider's booking system, capacity should be checked and reserved as one protected operation. Two coordinators reading the same available slot must not both be able to promise it. A version number can help detect that the offer changed while the decision was being made; the reservation authority must still enforce the limit. Across organizations, our local database cannot impose atomicity on someone else's resources. We need the provider's confirmation or an authorized person establishing it through another channel.
 
-A record.
+Where a short hold is available, reserve the slot provisionally while the participant considers the offer, then confirm or release it under explicit terms. Where holds are unavailable, explain that the proposal remains subject to availability. Do not represent a possibility as a guarantee because the interface would look indecisive.
 
-A sunset.
+Cancellation deserves its own acknowledgments. If the provider withdraws, the coordinator contacts the participant and seeks an acceptable alternative. If the participant cancels, the provider must receive the cancellation and release the reservation as appropriate. Costs already incurred may need settlement. This is compensation for an interrupted arrangement, not a magical undo of the world.
 
-If you cannot define the primitive, you cannot govern the system.
+The crucial invariant—a condition the system must preserve—is that every unresolved or failed request has a responsible next action, or an explicit admission that no provision is available. The latter is painful. A silently optimistic status is worse.
 
-This sounds technical because it is. It also sounds moral because it is that too. The technical and the moral are not separate here. They are two views of the same seam: what counts, who sees, who acts, who can refuse, and what happens after the system believes itself.
+## Keep the Promise Apart from the Machinery
 
-A civilization that cannot define its primitives becomes a civilization governed by accidents of interface.
+A humane interface says what may be asked, what may be answered, what requires permission, and how an error can be corrected. The clinic should not have to become the school. The neighbourhood should not have to become an app. The app should not have to become government, though some apps have attempted this career path with alarming enthusiasm.
 
-That may be the most boring sentence in this book.
+The *Ports and Adapters* pattern gives the builder a way to preserve that distinction in software. Alistair Cockburn proposed separating application logic from the technologies that let users and other systems interact with it. A port expresses an interaction the application supports; an adapter translates between that interaction and a particular outside mechanism. Tests can exercise the application without having to impersonate its production screen or database.[^v3-i23-ports]
 
-It is also among the most dangerous.
+Here the core decides whether a request can change state and whether a proposed action is permitted. A phone-entry screen, a web form and an authorized agent can all ask it to submit a request. Provider adapters can seek a reservation through an API or record a confirmation obtained by an authorized coordinator. A different adapter stores the records. None gets to change the meaning of *committed* to accommodate a convenient response from its vendor.
 
-## Need: The Dangerous Visibility
+![Keep service rules in a small core. Different channels and providers meet it through defined interactions; replacing a tool should not silently replace the promise.](assets/23-interlude/ports-and-adapters.svg){#fig-v3-i23-ports width=100% fig-alt="Phone entry, a web form and an authorized agent connect through input adapters to a service core containing commitment states, permission rules and capacity checks. Output adapters connect the core to provider APIs, manual provider confirmation and a private record store. The core requests provider confirmation; it does not invent external capacity."}
 
-Need sounds obvious until it enters a system.
+This need not begin as a constellation of microservices. One maintainable application with explicit internal boundaries may serve the first experiment better. Separate responsibilities before multiplying deployments. The test is whether a provider or interface can be replaced without rewriting the civic rules, not how many boxes the architect can persuade the cloud to rent.
 
-Then it immediately becomes a philosophical crisis wearing practical shoes.
+By the first Gate, an agent may build much of this plumbing, draft an integration, translate a conversation and investigate a failed handoff. Give it a well-defined action interface rather than unrestricted access to the tables and the hope that it remembers the oath. Permission checks and state transitions must be enforced by the service it calls, not merely described in the prompt. A more capable model makes that boundary more valuable: it can do more useful work within it, and more damage if authority is inferred from fluency.[^v3-i23-agents]
 
-What counts as need? Hunger? Medication? A ride? Heat? Translation? Loneliness? An unfiled appeal? A flooded basement? A caregiver about to break? A child needing quiet? A worker needing two hours away from work to help a parent? A community needing a river not to be treated as an empty pipe with scenery attached?
+Test replacement early. Substitute a simple test provider that accepts or refuses reservations under controlled conditions. Exercise the same service rules through the phone and agent channels. Later test the real provider's interface too; a test substitute can faithfully confirm our own misunderstanding. This distinction is the beginning of *contract testing*: each side must agree on the meaning and shape of their exchanges, including rejection, expiry and uncertainty.
 
-Need can be urgent or chronic.
+If the seams are not designed, people become the seams. And people used as seams fray quickly.
 
-Private or public.
+## When the Message Comes Twice
 
-Material or relational.
+Suppose the provider accepts a booking, but its reply disappears on the way back. The agent sees a timeout. It tries again. Two cars arrive, one passenger is charged twice, and the software explains that it was being helpful.
 
-Self-declared or observed.
+An **idempotent operation** can be repeated without repeating its intended effect. The Idempotent Receiver pattern addresses duplicate messages through explicit duplicate detection or operations whose meaning already tolerates repetition.[^v3-i23-idempotence] For booking, use a caller-supplied operation identifier representing this one attempt to make this one commitment. Retrying the same intent carries the same identifier. A separate journey gets a new one even if its details look identical.
 
-Individual or collective.
+The receiving service records the identifier and the effect together, then returns the recorded result on a repeat. Saving the identifier and making the booking in unrelated steps leaves a crash-shaped gap between them. AWS's engineering account also distinguishes a late retry from a new intention and rejects reuse of an identifier with different parameters.[^v3-i23-retries] The practical discipline is to define the scope and retention of duplicate protection, rather than decorate the request with a token and declare victory.
 
-Safe to share or dangerous to expose.
+Our own service can enforce that discipline for its own mutations. It cannot guarantee that an unrelated dispatcher will deduplicate a call, or that a physical action has happened exactly once. For a provider without that support, preserve its booking reference, query status after uncertainty, and escalate ambiguous cases to a person before issuing a fresh booking. If the reply is lost, the truth is **unknown**, not “failed.”
 
-Temporary or recurring.
+The same discipline applies to cancellation. A repeated cancellation must not repeatedly refund money or notify successive strangers. A late acceptance arriving after a cancellation needs reconciliation against the current agreement. Chronology is part of the contract, not a decorative timestamp.
 
-Easily verified or real in a way verification humiliates.
+Software coordination has a peculiar moral burden: the system must sometimes admit that it does not know whether its own request succeeded. That admission is much cheaper than a confident duplicate.
 
-This matters because the first civic sin of many systems is demanding that people become legible in the system's preferred dialect before they may be helped.
+## Roles Are Not Crowns
 
-The form asks for a category.
+“User” is a poor description of a person to whom something consequential may be done. The same person can be requester, contributor, coordinator and reviewer in different situations. Those roles confer different permissions, and none is a permanent rank of human worth.
 
-The person offers a life.
+Attribute-based access control supplies a useful vocabulary: evaluate the actor, the object, the requested action and relevant conditions against policy.[^v3-i23-access] In this example, being a driver does not entitle someone to browse every journey. Being the assigned driver, during the agreed service window, may justify access to that journey's pickup details. Being the software administrator gives technical duties; it should not quietly grant an unrestricted civic mandate.
 
-The form frowns.
+Model contextual trust as evidence for a particular action. A verified driving qualification, current availability, the participant's acceptance and a known service relationship answer different questions. Do not compress them into a universal citizen score. Someone trustworthy with a database may still reverse badly in a parking lot; the reverse is also possible. Competence has neglected to arrange itself in a single convenient column.
 
-A humane need primitive should begin with humility. It must allow people to declare need without requiring theatrical suffering. It must allow trusted others to flag concern without turning family, neighbors, teachers, or clinicians into informants. It must distinguish between proof that protects the system from fraud and proof that merely protects the system from generosity.
+An agent needs its own identity and a record of whose authority it is using. A participant's representative must not be mistaken for the participant; a provider's scheduling tool must not be mistaken for a clinician. Delegation should specify the permitted action and limits. The next pair will examine that personal agency in depth. This pair already needs enough of it to avoid building a hole in the floor and leaving the railing for Chapter 24.
 
-Some needs should be anonymous.
+The service should evaluate permission when the action occurs, not only when someone logs in. Revocation stops subsequent authorized access; it cannot make a person or an external system unsee information already disclosed. That is one reason to disclose narrowly in the first place.
 
-Some cannot be.
+A sunset clause is humility with a calendar. An offer expires unless renewed. Emergency access closes unless an accountable review extends it. Volunteer availability resets. An access deadline, however, is not the same as a record-deletion deadline. A minimal record of a disputed commitment may need to survive after the address is no longer needed for routing. Set the purpose, access and retention of each category deliberately; include correction, backups and required records in that account. “We forget everything” can be as irresponsible as “we keep everything.”
 
-Some should be visible to everyone.
+The log should distinguish what a participant reported, what a provider confirmed, what an agent inferred and what an observer checked. Record when an event reportedly occurred as well as when its message arrived if the difference matters. A durable trail preserves the provenance of a claim. It does not turn the claim into truth.
 
-Some should be visible only to a steward.
+## Routing the Afternoon
 
-Some should be visible to an algorithm only as a constraint, never as a story.
+Three helpers. Twelve requests. An optimization problem, says the screen.
 
-Some should expire within hours.
+Not yet. We have not decided what may count as a solution.
 
-Some should remain as part of a larger pattern because if the same food request appears every week, the system should not congratulate itself on routing groceries efficiently while ignoring the economic hole underneath.
+First eliminate infeasible assignments: incompatible equipment, unavailable time, unaccepted cost, missing authorization, unsafe workload. Then examine the values governing the feasible ones. Earliest request, greatest urgency, continuity, fairness of burden and preservation of capacity for later needs can pull in different directions. A numerical objective makes those choices explicit only if its definitions are visible; otherwise it merely gives a preference the posture of arithmetic.
 
-A need is not a ticket.
+For the trial, publish a small priority rule that participants can understand and challenge. Record the reason for an exception. Do not let chronic need disappear forever behind new emergencies, or assume that a quiet request has less urgency than a fluent one. The person with an agent should not acquire first place simply because the agent asks every seventeen seconds.
 
-A ticket wants closure.
+Keep a capacity budget. If one helper has two hours, include travel, preparation, waiting and any return trip in those two hours. Protect a buffer appropriate to uncertainty instead of booking every apparent minute. As requests approach the practical limit, either obtain more provision, negotiate a different time or admit the unmet need. The algorithm may find a better route. It cannot turn the helper's evening into an unreported subsidy.
 
-A need wants understanding.
+A recommendation can be generated automatically. A low-risk action can also be executed automatically when its authority, conditions and consequences are settled. Higher stakes require appropriate professional or human judgment, not the ritual insertion of a tired person who will approve whatever appears. If the need is a shovel and the capacity is a shovel, civilization may proceed without appointing a commission. Transport requiring specialized support is a different assignment.
 
-This is the difference between a help desk and a civic system. A help desk closes issues. A humane renewal mesh asks why the same issue keeps reappearing with different names and similar bruises.
+The requester can reject a proposed match without having the underlying need marked resolved. The provider can refuse work outside its limits. Record an unsuccessful search as unsuccessful. A platform that counts suggestions as help has discovered the easiest form of abundance: changing the noun.
 
-Need visibility must therefore carry protections:
+## Local Enough to Answer
 
-Consent where possible.
+Start close enough to the work to discover what the shared model misses. That need not mean every neighbourhood runs its own server or every decision stays within walking distance.
 
-Minimal exposure.
+Local can become captured, parochial and under-resourced, occasionally under the direction of someone who has attended every meeting since 1987 and considers this a constitutional mandate. Central provision can supply resources, standards and protection against that capture. It can also become blind to the consequences of its own categories. Allocate each function at a workable level, then make the interfaces between levels answerable.
 
-Contextual access.
+A common dispatcher may be sensible for scarce vehicles. Participants may retain control of their own contact details. A wider institution may supply an appeal path or additional capacity. Technical concentration, decision authority and ownership need not share the same boundary. Chapter 29 will examine federation; we need not pretend to have implemented it by drawing a network here.
 
-Expiration.
+We do need a way to operate when the network fails. In the first trial, a designated dispatcher can take requests by phone and use a controlled paper list if necessary. Give each entry a temporary identifier and preserve the terms actually agreed. If capacity cannot be confirmed, accept the *request* without inventing a *booking*.
 
-Correction.
+Do not allow disconnected copies to promise the same scarce resources independently. Either use preallocated capacity under clear limits or designate the party that remains authoritative for reservations. When connection returns, reconcile temporary entries, provider references and cancellations before replaying queued actions. An offline mode that simply sends everything later may turn yesterday's uncertainty into today's double booking.
 
-Withdrawal.
+This is graceful degradation: fewer capabilities, still intelligible obligations. It is not merely a cached screen continuing to smile.
 
-Escalation when the need reveals structural failure.
+## The Coordination Fabric Is Shared Work
 
-And, because humans remain human even under elegant architectures, safeguards against scams, manipulation, favoritism, and the person who believes their neighbor's leaf blower qualifies as a public-health emergency.
+A renewal mesh is itself a shared dependency. People maintain it, trust it and can be harmed by its failure. Calling it a commons should make those obligations more visible, not exempt it from a budget.
 
-The aim is not naïveté.
+Elinor Ostrom's work on durable common-pool resource institutions offers relevant questions: do boundaries and rules fit the setting; can affected people help revise them; are monitors accountable; can disputes be resolved affordably; do responsibilities nest where larger systems are involved? These are findings from particular kinds of shared-resource arrangements, not a guarantee that any digital platform will flourish after adopting a list.[^v3-i23-commons]
 
-The aim is dignity with defenses.
+For this trial, name who maintains the service rules, who approves access, who handles complaints and who pays for continuity. “The community” is insufficient. Community can mean the people affected. It can also mean the five people with time, confidence and chairs at the front.
 
-To make need visible without making the person prey.
+Keep stewardship bounded and reviewable, with a credible replacement path. A provider can operate useful infrastructure without owning the participants' future. Record formats, access to necessary exports, documentation and a rehearsed operator handover make that more than a sentiment. Privacy limits still apply to exports; portability is not permission to hand everyone a copy of everyone else.
 
-## Capacity: Help Without Conscription
+Use tools. Do not become food for them.
 
-Capacity is not "resource."
+## A Test That Can Disappoint Us
 
-The word resource has done useful work, but it has also encouraged a kind of managerial cannibalism. Forests become timber resources. Rivers become water resources. People become human resources, which is a phrase that should have been stopped at the door by someone's grandmother.
+Test the whole slice with consenting participants and appropriate providers only after its basic behavior has been checked safely. Use invented records and a test provider for failures that should not be inflicted on people. The point of a rehearsal is to discover a missing obligation while it is still possible to repair the design without stranding someone.
 
-Capacity is more humane.
+| Case to exercise | What the working system must demonstrate |
+| --- | --- |
+| Ordinary accepted journey | Both sides receive the same terms; capacity is confirmed; delivery and adequacy can be recorded separately. |
+| Repeated booking message | One intended booking within the agreed duplicate-protection scope; a repeated response does not consume capacity again. |
+| Provider accepts, reply is lost | Status remains uncertain until reconciled; no blind fresh booking. |
+| Offer changes during acceptance | An outdated proposal cannot take capacity already withdrawn or committed elsewhere. |
+| Provider cancels after commitment | The participant is informed; a named coordinator owns recovery; cancellation is not recorded as fulfilled need. |
+| No suitable provider exists | The unmet request remains visible to responsible people, with an honest next step; no invented match. |
+| Agent supplies unsupported availability | Unverified information cannot satisfy the commitment conditions. |
+| Connection fails and returns | Requests can be received through the fallback; reservations remain controlled; recovery does not replay completed actions as new ones. |
+| Passenger contests the reported outcome | The record can be corrected or disputed and the failure reviewed without destroying necessary evidence. |
+| Operator is unavailable or replaced | Another authorized person can find the current obligations and continue them without receiving unrelated private information. |
 
-Capacity means a power to help under conditions.
+These cases can become executable workflow tests, including assertions that forbidden transitions fail. Contract tests check the behavior expected at a provider boundary; integration tests check the actual connected systems. Neither replaces an observed service trial. A fake provider can test our handling of refusal. Only the real working arrangement can show whether the refusal reaches the passenger in time to matter.
 
-A person has two hours.
+Measure unresolved requests, completed commitments, elapsed time, failed handoffs, repeated needs and the work spent on each outcome. Keep the denominator: five completed trips out of five feasible requests mean something different from five out of fifty, with the other forty-five filtered out of view. Separate insufficient capacity, participant refusal, provider failure and lack of contact instead of putting all inconvenient endings in “closed.”
 
-A nurse has a license.
+Good records help an investigation; safe reporting makes the investigation possible. Feedback should be private and proportionate, with a route to correction and review. Honest error must not automatically become permanent reputational damage. That does not mean tolerating abuse: deliberate misconduct and recurring dangerous failures need protective action as well as learning.
 
-A school has a gym.
-
-A mechanic has tools.
-
-A retired engineer has knowledge, patience, and possibly an alarming collection of cables organized by a system known only to him and one shelf.
-
-A teenager has interface fluency.
-
-A grandmother has local memory.
-
-A community association has trust.
-
-A restaurant kitchen has idle capacity.
-
-A mosque basement has space.
-
-A neighbor has winter tires.
-
-A small business has inventory.
-
-An AI tool has routing capability, perhaps, provided it is not allowed to become the mayor.
-
-Capacity is not obligation.
-
-That sentence must be built into the primitive.
-
-Once a capacity is listed, systems have a habit of treating it as available until exhausted. The generous become default infrastructure. The competent become trapped. The person who once offered to drive becomes the transportation department. The nurse who volunteered on Tuesday becomes expected on Thursday. The community kitchen becomes a permanent meal program without staffing, funding, rest, or acknowledgment that soup does not ladle itself no matter how sincere the mission statement.
-
-Capacity must be consented.
-
-Bounded.
-
-Revocable.
-
-Protected.
-
-Scheduled with rest.
-
-Matched to risk.
-
-Recognized without becoming captured.
-
-A capacity card should therefore ask:
-
-What is offered?\
-For how long?\
-By whom?\
-With what limits?\
-What verification applies?\
-What support does the contributor need?\
-What would make this unsafe?\
-Can the offer be paused?\
-Can it be withdrawn without guilt?\
-How does the system prevent burnout?\
-How does it know when repeated volunteer capacity should become funded infrastructure?
-
-That last question matters.
-
-A society that endlessly celebrates unpaid service may be hiding a budgeting failure inside applause.
-
-Service is another old word needing refactor.
-
-Service once meant duty, charity, religious calling, military obligation, public work, customer support, employment, and occasionally the experience of waiting forty minutes on a phone tree while a recorded voice expresses how important your call is to no one in particular.
-
-In the renewal mesh, service should mean:
-
-**capacity offered through dignified, bounded participation.**
-
-Not extraction wearing gratitude.
-
-Not conscription wearing community.
-
-Not charity wearing superiority.
-
-Service as a thread freely offered, properly protected, and not mistaken for infinite cloth.
-
-## Roles, Not Users
-
-A system that has only "users" has already flattened the civic world.
-
-This is forgivable in a simple tool. A hammer does not need many roles unless one is operating at the level of myth. But a civic renewal mesh is not a hammer. It is a coordination field in which different persons hold different kinds of authority, risk, knowledge, obligation, and vulnerability.
-
-The word user is too thin.
-
-It tells us someone touches the system.
-
-It does not tell us whether they are asking for help, offering help, verifying trust, protecting a boundary, mediating conflict, maintaining records, auditing abuse, escalating risk, translating language, bearing legal responsibility, or quietly noticing that everyone in the room has forgotten the person who does not use the interface.
-
-A mesh needs roles.
-
-Requester.
-
-Contributor.
-
-Steward.
-
-Verifier.
-
-Dispatcher.
-
-Mediator.
-
-Auditor.
-
-Maintainer.
-
-Boundary-keeper.
-
-Escalation officer.
-
-Community witness.
-
-Technical custodian.
-
-Affected person.
-
-Advocate.
-
-Institutional liaison.
-
-These roles should not become castes. The minute a role acquires robes, jargon, and the ability to prevent others from entering, check the exits. The old priesthoods are very good at reincarnation. Sometimes they return as certification layers.
-
-Roles must be plural, bounded, accountable, and context-specific.
-
-A person may be requester in one moment and contributor in another. A retired nurse may verify some medical tasks but not decide transport priority for a neighborhood she does not know. A teenager may maintain the interface but should not see every private need because he can center a div faster than the adults. A local elder may serve as witness for trust, but not as unelected ruler of all ambiguous cases. A municipal official may escalate to public systems, but not quietly absorb the mesh into bureaucratic appetite.
-
-The design must ask:
-
-Who may act?
-
-Who may see?
-
-Who may decide?
-
-Who may challenge?
-
-Who may maintain?
-
-Who may stop the system when helpfulness begins to overreach?
-
-If these are not roles, they become power shadows. And power shadows, given time, become architecture with plausible deniability.
-
-Name the roles.
-
-Limit them.
-
-Rotate them.
-
-Review them.
-
-Give them ways to fail without becoming dynasties.
-
-This is not procedural fussiness. It is how dignity survives scale.
-
-## Trust Gradients
-
-Trust is not a mood.
-
-Trust is a design problem, a memory problem, a governance problem, and, on difficult days, a plumbing problem with feelings.
-
-The renewal mesh cannot function without trust. But trust is not one substance poured equally over all actions like syrup on institutional pancakes. Different actions require different trust.
-
-Delivering a sealed grocery bag requires one level.
-
-Entering a home requires another.
-
-Carrying medication requires another.
-
-Triaging a medical concern requires another.
-
-Handling a child's information requires another.
-
-Coordinating emergency shelter requires another.
-
-Making decisions on behalf of someone vulnerable requires another, and if the system treats that as merely an elevated permission setting, someone should take away its marker.
-
-Trust is gradient.
-
-How much trust is enough for the action at hand?
-
-That question can save lives and prevent overreach.
-
-Trust may come from credentials, but credentials are not the whole story. A license matters. So does local witness. So does prior successful interaction. So does institutional affiliation. So does shared membership. So does verifiable record. So does reputation, though reputation systems have a long history of punishing people whose main crime was being less legible to the respectable.
-
-Trust can include:
-
-credentials,
-
-local witness,
-
-role history,
-
-bounded verification,
-
-privacy-preserving proof,
-
-human mediation,
-
-institutional backup,
-
-shared context,
-
-and temporary authority.
-
-But trust can also exclude.
-
-The "trusted" can become a clique. The uncredentialed can become invisible. Marginalized people may lack the official marks of reliability while possessing the knowledge the system most needs. Reputation can become a caste score with better typography. Fraud prevention can become gatekeeping. Safety can become a reason to let only the already-approved help and the already-legible receive help.
-
-So the builder must design trust carefully.
-
-Enough to protect.
-
-Not so much that the system freezes.
-
-Enough to act.
-
-Not so little that the vulnerable become experimental material.
-
-A trust gradient says:
-
-This person can see public needs.
-
-This steward can see protected needs.
-
-This verified driver can receive pickup and drop-off information, but not medical context.
-
-This clinician can access medical context, but not unrelated household details.
-
-This community witness can verify local legitimacy, but not decide clinical priority.
-
-This AI tool can suggest matches, but cannot finalize high-risk actions without human review.
-
-Trust is scoped.
-
-Trust is contextual.
-
-Trust expires.
-
-Trust can be appealed.
-
-Trust can be lost.
-
-Trust can also be restored, or else mistakes become life sentences and renewal becomes merely another prison designed by cautious people.
-
-## Boundaries and Sunsets
-
-Every humane system begins by deciding what it will not do.
-
-This is deeply disappointing to ambitious builders, who prefer the intoxicating part where the system does many things, preferably with a launch video and a logo that suggests both compassion and venture liquidity.
-
-But boundaries are where care becomes trustworthy.
-
-A renewal mesh must define boundaries of place, data, role, time, consent, authority, and emergency.
-
-Where does this mesh operate?
-
-Who is inside its field?
-
-What data may it hold?
-
-What must it never collect?
-
-Who may see protected information?
-
-Which roles can act on behalf of others?
-
-When does a need expire?
-
-When does a capacity offer expire?
-
-When does emergency access close?
-
-Who can extend it?
-
-Who reviews that extension?
-
-What happens when the crisis ends but the system enjoys its new powers?
-
-This last question should be asked with suspicion.
-
-Emergency systems have a bad habit of surviving the emergency. Adrenaline learns to write policy. Temporary measures discover permanent furniture. Dashboards built for crisis become managerial toys. Access granted under pressure becomes normal because revoking it would require a meeting, and meetings are where moral clarity goes to develop a rash.
-
-So build sunsets early.
-
-A sunset clause is humility with a calendar.
-
-It says: this access expires unless renewed under review. This data disappears unless structural learning requires anonymized retention. This emergency authority closes unless justified. This volunteer expectation resets. This routing priority must be revisited. This map will not become the new normal simply because it was useful during the rupture.
-
-Boundaries also protect against the opposite failure: chaos.
-
-A mesh with no boundaries becomes a rumor with features. Everyone shares too much. No one knows who may act. Sensitive needs leak. Volunteers self-assign to tasks requiring training. AI tools route help across risk levels as if dignity were a pathfinding problem. People mean well and harm efficiently.
-
-Boundaries are not bureaucracy.
-
-They are the vessel that lets generosity travel without spilling into domination.
-
-## The Ethics of Routing
-
-Once need, capacity, role, trust, and boundary exist, the system can match.
-
-This is where many builders relax.
-
-They should not.
-
-Routing is where moral philosophy hides inside logistics.
-
-Who gets matched first?
-
-The nearest need?
-
-The most urgent?
-
-The easiest?
-
-The most visible?
-
-The person with the best advocate?
-
-The person whose need was phrased in the system's preferred grammar?
-
-The action with highest success probability?
-
-The action that protects the most vulnerable?
-
-The action that preserves contributor capacity?
-
-The action most aligned with institutional reporting?
-
-The fastest match is not always the right match.
-
-The most efficient route may overuse the same helper. The most urgent request may crowd out chronic need until chronic need becomes emergency. The most visible need may not be the deepest. The simplest match may be less fair than a slower one that preserves trust or continuity. The AI's "optimal" route may optimize the thing easiest to measure because moral difficulty was not in the training set.
-
-Routing must therefore be designed as a decision with values, not a calculation with manners.
-
-A routing system should ask:
-
-Can the requester refuse this match?
-
-Can the contributor refuse?
-
-Is the match safe?
-
-Is the match dignified?
-
-Is the match overloading someone?
-
-Is there a protected preference?
-
-Is continuity more important than speed?
-
-Is this a one-time need or a recurring pattern?
-
-Should this be escalated to structural repair?
-
-What is the cost of being wrong?
-
-Human review does not mean every match requires a tribunal. If the need is a shovel and the capacity is a shovel, civilization may proceed without appointing a commission.
-
-But risk should shape oversight.
-
-Low-risk routing can be simple. High-risk routing needs trust, role clarity, and review. Medical, legal, child-related, safety-related, and home-entry actions require stronger safeguards. Emergency routing requires speed, but speed must leave an audit trail behind it, like footprints in snow.
-
-The goal is not perfect fairness.
-
-Perfect fairness in routing is where practical systems go to die in a philosopher's driveway.
-
-The goal is visible values, contestable decisions, proportional oversight, and learning from mistakes before they become institutions.
-
-Routing is where renewal either becomes care --- or becomes a machine for distributing neglect more efficiently.
-
-## Feedback Without Punishment
-
-The system must learn.
-
-This is another sentence that sounds harmless until it acquires instrumentation.
-
-Learn what?
-
-From whom?
-
-At whose expense?
-
-With what memory?
-
-Learning can improve care, reduce duplication, reveal structural need, detect abuse, protect contributors, and show when the same ticket is actually a policy failure wearing a different hat.
-
-Learning can also become surveillance, blame, scorekeeping, and bureaucratic self-congratulation.
-
-A renewal mesh should ask after each match:
-
-Did help arrive?
-
-Was it adequate?
-
-Was dignity preserved?
-
-Did the contributor feel safe?
-
-Did harm occur?
-
-Was the request misread?
-
-Did the need recur?
-
-Did a temporary fix reveal a structural gap?
-
-Did the process exclude someone?
-
-Should the record disappear, remain, or become anonymized learning?
-
-This is feedback as care.
-
-Not punishment.
-
-Feedback must not become a little courthouse attached to every interaction. If asking for help results in being rated, scored, flagged, and archived, many people will do the rational thing and suffer privately. If volunteering results in public performance metrics, good people will either burn out or become actors in a civic theater. If every mistake becomes reputational damage, no one will report small failures until they become large ones.
-
-The system must learn from failure without making honesty dangerous.
-
-That requires careful feedback design:
-
-private first,
-
-proportional,
-
-appealable,
-
-contextual,
-
-oriented toward repair,
-
-not permanent unless necessary,
-
-and never used as a substitute for listening.
-
-A renewal mesh should not merely close tickets.
-
-It should learn why tickets keep appearing.
-
-If five elders in the same area need medication rides every week, the success is not five completed rides. The success is noticing that the clinic, pharmacy, transit, family support, and care mesh are misaligned. If the same families request food repeatedly, the success is not a heroic delivery rhythm. The success is asking why provisioning requires heroism. If translators are repeatedly needed for the same systems, the success is not finding translators faster. The success is redesigning the interface so language is not treated as an exception with a phone number.
-
-Feedback should point upstream.
+Then ask why the same work keeps returning. If five elders need medication rides every week, quicker booking may help. A different pharmacy arrangement or a changed service route may help more. If every delivery succeeds only because someone quietly covers the cost, the system has found a benefactor, not a viable budget.
 
 Otherwise the renewal mesh becomes a beautiful bucket brigade carrying water to a house that keeps being set on fire by policy.
 
-## Local First, Federated Later
+## Bob: Can the Coordinator Learn to Step Aside?
 
-Start local enough to be accountable.
+Alice asked whether cooperation could become stronger while its dependence on the original centre declined. The builder's corresponding wager is whether our tools can help discover the arrangements that would make that possible.
 
-Federate only what must travel.
+An agent watching repeated handoffs might propose a standing agreement, a shared interface or a direct relationship that removes an unnecessary intermediary. Existing automation can already simplify tasks; that alone is no new frontier. The harder question is whether a learning coordinator can help redesign the *distribution of coordination itself*, under constraints the participants can inspect and revise, without making its own convenience the objective.
 
-This principle will save the builder from two opposite stupidities, both well-funded.
+A candidate change would have to carry its explanation: which dependency disappears, who inherits the work, which permission changes, which failure becomes harder to see. Try it in a bounded rehearsal against the existing arrangement. Preserve an easy return. The agent proposes; the affected parties authorize. Some services should remain mediated, particularly where newcomers, confidentiality or unequal bargaining power make direct access less humane.
 
-The first says everything should be local. Local knowledge, local trust, local control, local resilience, local cabbage, local everything. This instinct has truth in it. Context matters. People near the need often understand it best. Local systems can see nuance that distant systems flatten. Local accountability is harder to fake when the person harmed knows where the meeting is held.
+A useful research test would measure service and recourse alongside the concentration of indispensable knowledge, privileges and unpaid effort. If the coordinator becomes optional only because one exhausted volunteer now holds the whole design in her head, it has merely emigrated into a person. If people can change operators and continue cooperating under understood terms, something more interesting may have been built.
 
-But local can also become captured, parochial, exclusionary, under-resourced, inconsistent, and occasionally run by the person who has attended every meeting since 1987 and considers this a constitutional mandate.
+The wager is not that a clever program will voluntarily surrender power. It is that we might design and evaluate it for increasing the participants' capacity to reorganize, including the capacity to dismiss it. A system that learns to be useful without becoming unavoidable would deserve a better success metric than engagement.
 
-The second stupidity says everything should be centralized. Standardize, integrate, harmonize, scale, consolidate, unify, optimize. This also has truth in it. Some problems cross boundaries. Standards enable interoperability. Shared protocols prevent duplication. Higher-level systems can provide resources, rights protection, and escalation when local structures fail or become unjust.
-
-But central systems can become blind, slow, arrogant, extractive, and fond of dashboards that make life look smoother from far away than it feels underfoot.
-
-So: local first, federated later.
-
-A local mesh should hold context, trust, immediate need, and lived nuance.
-
-A federated layer should provide standards, translation, backup, escalation, shared learning, rights protection, and cross-boundary coordination.
-
-The local should not be swallowed.
-
-The federated should not be ornamental.
-
-Think of it as nested breathing.
-
-The neighborhood can coordinate medication pickups, warming rooms, local translation, and trusted volunteers.
-
-The city can support infrastructure, public safety, emergency services, and cross-neighborhood coordination.
-
-The province can ensure health systems, legal protections, data safeguards, and resource allocation.
-
-National and wider layers can support standards, resilience, large-scale logistics, and rights floors.
-
-Each layer should know what it is for.
-
-Each should know what it must not become.
-
-A humane federation is not one center pretending to be many.
-
-Nor is it many fragments pretending coordination will emerge from vibes.
-
-It is structured plurality.
-
-A loom, not a ladder.
-
-## The Renewal Mesh as Commons
-
-A renewal mesh is itself a commons.
-
-This is easy to miss because the mesh may begin as a response to other needs: medication, heat, food, repair, transport, translation. But the coordination fabric becomes a shared resource. People depend on it. Trust accumulates in it. Knowledge moves through it. Vulnerability enters it. Power gathers near it.
-
-Anything that gathers trust needs governance.
-
-Commons do not survive because people are nice.
-
-People can be nice. Many are. Some are nice until parking is involved. But niceness is not a governance model. Commons survive when rules fit local conditions, when boundaries are clear enough, when participants help shape rules, when monitoring is legitimate, when sanctions are proportional, when conflicts can be resolved without requiring exile or litigation, when rights to self-organize are recognized, and when local systems nest inside wider protections.
-
-This is old commons wisdom.
-
-Do not turn it into a textbook in the middle of a crisis. But do not forget it either.
-
-A renewal mesh must ask:
-
-Who maintains the map?
-
-Who decides role eligibility?
-
-Who handles disputes?
-
-Who prevents capture?
-
-Who audits access?
-
-Who protects vulnerable people?
-
-Who can change the rules?
-
-Who can appeal the rule-makers?
-
-Who watches the watchers when the watchers have not slept?
-
-The answer cannot simply be "the community," because community is both beautiful and vague. Community can mean the people affected. It can also mean the five people with time, confidence, and chairs at the front.
-
-A commons needs named stewardship.
-
-Rotating stewardship, where possible.
-
-Transparent stewardship, where necessary.
-
-Bounded stewardship, always.
-
-The mesh must also resist vendor capture. This is not because vendors are evil, though history suggests they should be kept where the light is good. A tool provider may help enormously. But if the renewal mesh depends on a private platform whose incentives drift toward data capture, lock-in, pricing, or influence over governance, the community has traded one fragility for another with nicer icons.
-
-Use tools.
-
-Do not become food for them.
-
-The renewal mesh as commons must belong, in some meaningful and governable way, to the people whose lives it coordinates.
-
-Otherwise renewal becomes enclosure with a volunteer onboarding flow.
-
-## Interfaces Between Worlds
-
-At some point, the room will need interfaces.
-
-A person must ask the mesh for help.
-
-The mesh must ask the clinic.
-
-The clinic must respond without exposing what it should not.
-
-The school must offer space.
-
-The municipality must confirm status.
-
-The pharmacy must share inventory or pickup constraints.
-
-The volunteer network must receive requests.
-
-The AI assistant, if used, must suggest routes without quietly becoming judge, manager, or priest.
-
-In computing, an API is a promise about how one system may ask another for help without having to swallow it whole.
-
-That is a lovely civic idea if handled carefully.
-
-Civilization needs civic APIs.
-
-Not only software interfaces, though those matter. It needs social, legal, institutional, and human interfaces by which systems can cooperate without merging, support without dominating, and share enough state to act without exposing everything.
-
-The clinic should not have to become the school.
-
-The school should not have to become the municipality.
-
-The municipality should not have to become the neighborhood.
-
-The neighborhood should not have to become an app.
-
-The app should not have to become government, though some apps have attempted this career path with alarming enthusiasm.
-
-Interfaces preserve difference while enabling coordination.
-
-A humane interface says:
-
-Here is what may be asked.
-
-Here is what may be answered.
-
-Here is what cannot be requested.
-
-Here is who must consent.
-
-Here is what gets logged.
-
-Here is when the state expires.
-
-Here is how errors are corrected.
-
-Here is how humans intervene when the interface meets reality and reality, as usual, has comments.
-
-Bad interfaces create scavenger hunts with paperwork.
-
-Good interfaces let help cross boundaries without dissolving them.
-
-This is one of the first builder lessons of renewal: if the seams are not designed, people become the seams.
-
-And people used as seams fray quickly.
-
-## Failure Modes
-
-Every humane system should have a wall where its possible failures are named before the launch party.
-
-This wall should be visible, unglamorous, and preferably located somewhere the founders must pass on the way to coffee.
-
-For the renewal mesh, the failure modes are many.
-
-Volunteer burnout.
-
-Fraud.
-
-Scams.
-
-Surveillance creep.
-
-Emergency powers that linger.
-
-Inequitable access.
-
-Over-centralization.
-
-Local clique capture.
-
-AI misrouting.
-
-False needs crowding out hidden real needs.
-
-Privacy breaches.
-
-Dependency without structural repair.
-
-Metrics replacing care.
-
-The helpful becoming coercive.
-
-The visible becoming prey.
-
-The generous becoming infrastructure.
-
-The steward becoming gatekeeper.
-
-The map becoming sovereign.
-
-The platform becoming landlord.
-
-The dashboard becoming reality.
-
-Naming these is not pessimism. It is maintenance performed before the machine is turned on.
-
-Builders who refuse failure modes are not hopeful.
-
-They are leaving landmines for the optimistic.
-
-Take volunteer burnout. If the same ten people carry every crisis, the system has not discovered community. It has discovered ten people and begun consuming them. Design rotation, rest, support, recognition, and escalation to funded capacity.
-
-Take fraud. If the system ignores abuse, trust collapses. If it overreacts, need becomes a courtroom. Design proportional verification and review.
-
-Take privacy. If need visibility exposes vulnerable people, they will hide. Design minimal disclosure, role-based access, expiration, and correction.
-
-Take AI misrouting. If the model suggests unsafe matches, the system must catch them before harm. Design human review where stakes rise, and log model errors as learning, not embarrassment to be hidden in a folder named "miscellaneous."
-
-Take dependency. If the mesh repeatedly delivers food but never asks why food access failed, it becomes a compassionate treadmill. Design feedback that points upstream.
-
-Take metrics. If the system rewards closed requests, people will close requests. If it rewards speed, it will outrun care. If it rewards visibility, hidden need will remain hidden. Choose measures as if they might become gods, because in institutions they often apply for the position.
-
-Failure modes are not reasons to stop.
-
-They are reasons to build with doors, drains, brakes, fuses, appeal paths, and adults in the room.
+<!-- End 2026-11-05 substantive revision. -->
 
 ## The First Oath
 
@@ -1138,6 +489,19 @@ Every helpful system eventually meets the person it hopes to help.
 
 That is where Chapter 24 begins.
 
-The first loom of renewal can bring help to the door.
-
 The Citizen's Dilemma begins when opening that door may cost agency.
+
+
+[^v3-i23-log]: Gerd Graßhoff, [“Globalization of Ancient Knowledge: From Babylonian Observations to Scientific Regularities”](https://www.mprl-series.mpg.de/studies/1/11/index.html), in Jürgen Renn, ed., *The Globalization of Knowledge in History* (2012), §§7.2–7.3. The surviving diary corpus discussed there is mostly from the Seleucid period; it does not establish a scientific invention in 750 BCE. The substrate/lens/log triad is this book's interpretive device.
+
+[^v3-i23-ports]: Alistair Cockburn, [“Hexagonal Architecture”](https://alistair.cockburn.us/hexagonal-architecture/), HaT Technical Report 2005.02 (2005). Also called Ports and Adapters: application behavior is separated from particular external technologies through ports and adapters. The civic service and component boundaries shown here are proposed applications.
+
+[^v3-i23-agents]: NIST, [“New Concept Paper on Identity and Authority of Software Agents”](https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents), February 5, 2026. The proposed research addresses identification, authorization and auditing of agents; it neither certifies the architecture described here nor guarantees a particular 2029 capability.
+
+[^v3-i23-idempotence]: Gregor Hohpe and Bobby Woolf, [“Idempotent Receiver”](https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html), *Enterprise Integration Patterns* (2003), authors' online pattern catalogue. Duplicate detection and idempotent semantics address repeated messages; they do not establish exactly-once physical service delivery.
+
+[^v3-i23-retries]: Malcolm Featonby, [“Making Retries Safe with Idempotent APIs”](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/), *Amazon Builders' Library*, especially the sections on caller-provided request identifiers, atomic recording of an identifier and mutation, late requests, and the same identifier with different intent. Provider-specific guarantees must be checked rather than assumed from a local implementation.
+
+[^v3-i23-access]: Vincent C. Hu et al., [*Guide to Attribute Based Access Control (ABAC) Definition and Considerations*](https://csrc.nist.gov/pubs/sp/800/162/upd2/final), NIST SP 800-162 (2014; updated 2019), doi:10.6028/NIST.SP.800-162. The service-specific permission examples, retention choices and division of responsibilities are design proposals here, not a claim of NIST compliance.
+
+[^v3-i23-commons]: Elinor Ostrom, [“Beyond Markets and States: Polycentric Governance of Complex Economic Systems”](https://www.canr.msu.edu/fsp/outreach/presentations/Ostrom_Nobel_Lecture_27_October_2016.pdf), Nobel Prize Lecture, December 8, 2009, pp. 421–23, especially the revised design-principle list on p. 422. The link hosts a reprint of the lecture. Applying these questions to civic coordination requires attention to the different resource, participants and institutional setting; it is not a universal platform recipe.

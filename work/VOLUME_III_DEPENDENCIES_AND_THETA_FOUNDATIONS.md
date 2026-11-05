@@ -198,3 +198,7 @@ Four stable native notes accompany the chapter insertion. The Breadboard is an e
 ## Ceremonial clock: later author clarification, 5 November
 
 The detailed frame is recorded in [the book journal, B-025/B-026](journal/book.md). V2 holds its reflections at 9 AM on 11 March 2026 without announcing that device. IΘ moves from that moment to the 9 AM, 11 September 2026 launch threshold; the first Gate follows thirty months later. Every accepted Gate is at 9 AM. The eleven dates and order are unchanged. This corrects the prelaunch language in the first foundation pass. The mythic temporal architecture should survive precise content work; it does not require publishing this map or explaining the clock repeatedly.
+
+## Implementation update — pair 23, 5 November 2026
+
+The planned teaching homes for C23/I23 are now implemented substantively. C23 develops functions, alternative allocations, interfaces and modular change; I23 develops commitment states, Ports/Adapters, duplicate-safe requests and contract/failure testing. The proposed ordinary journey follows the Θ bench without claiming an actual result. S12/15/18/20 and S22 supply the principal applied inheritance; supporting signals remain integrated rather than separately recited. [The pair brief](volume-3-drafting/23-substantive-completion-2026-11-05.md) records the trace and remaining literary work. Other rows remain planned; full Θ reconciliation and later pairs are pending.

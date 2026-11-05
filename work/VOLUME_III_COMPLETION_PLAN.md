@@ -1,6 +1,6 @@
 # Volume III substantive completion and later Claude handoff
 
-5 November 2026 · Active editorial workflow · Step 1 complete: dependency map and initial canonical Θ foundations
+5 November 2026 · Active editorial workflow · Steps 1–2 complete: initial Θ foundations and substantive pair 23 calibration
 
 ## Author decision and division of work
 
@@ -84,3 +84,11 @@ Canonical CΘ now contains the common design-method passage with four verified s
 The ceremonial chronology and Breadboard roles in [B-025/B-026](journal/book.md) govern subsequent work. V2 is silently frozen at 9 AM on 11 March 2026; IΘ restarts time and reaches the 9 AM, 11 September 2026 launch threshold. The unchanged Gate grid begins thirty months later, at 9 AM on 11 March 2029. The former September 2029 baseline and prelaunch-Gate language are superseded. Preserve this internal precision without mechanically making the dates or the explanation explicit throughout the book.
 
 Neuverse and Tiers are the civic and infrastructure sides of the Breadboard; C4A is its civics, Neusphere its hoped-for emergence. The historical apertures and Gates remain independent framing instruments, available to inform the experiment. The operational test remains applicable within that grounded project. Full literary realization stays with Sam/Claude.
+
+## Step 2 completed — pair 23 calibration, 5 November 2026
+
+Canonical C23/I23 now develop the first numbered design and builder application. The chapter teaches functional allocation, service/interface reasoning, alternatives, modular change, capacity and evaluation; the interlude carries a journey through need/offer/commitment records, states, Ports/Adapters, retry safety, authority, fallback and tests. Two grayscale diagrams, ten new source notes, a concrete Next Move and explicit working Alice/Bob wagers support the argument.
+
+[The pair brief](volume-3-drafting/23-substantive-completion-2026-11-05.md) records reader outcomes, signal inheritance, preserved writing, the future-vignette/Noēsis/Open reservations and the unresolved primary attribution of the retained Sweet epigraph. Existing author annotations, opening/bridge passages and closing scenes are preserved; retained future scenes are not thereby approved as final memoir. Gate 1 is corrected to the first progress checkpoint after the September 2026 launch. No actual pilot result is claimed.
+
+This completes the calibration's substantive remit, not its final literary edition or the volume. Sam can assess this pair before the repeated treatment of 24–33. Pair 24 is next. The final Claude handoff remains withheld; no publishing or incoming V2 adoption is performed.

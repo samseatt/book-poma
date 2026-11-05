@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="790" viewBox="0 0 1120 790" role="img" aria-labelledby="title desc"><title id="title">Service rules, ports and adapters</title><desc id="desc">Input adapters translate phone entry, web forms and authorized agent actions into requests to the service core. Provider and storage adapters implement defined outward interactions. External resource commitments still need provider confirmation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L10,4 L0,8 Z" fill="#222"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#111" stroke-linejoin="round">
+<text x="155" y="47" text-anchor="middle" font-size="27" font-weight="bold">
+<tspan x="155" dy="0">CHANNELS</tspan>
+</text>
+<text x="560" y="47" text-anchor="middle" font-size="27" font-weight="bold">
+<tspan x="560" dy="0">SERVICE CORE</tspan>
+</text>
+<text x="970" y="47" text-anchor="middle" font-size="27" font-weight="bold">
+<tspan x="970" dy="0">CONNECTIONS</tspan>
+</text>
+<rect x="25" y="105" width="245" height="115" rx="8" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="147" y="170" text-anchor="middle" font-size="28" font-weight="normal">
+<tspan x="147" dy="0">Phone entry</tspan>
+</text>
+<path d="M270,163 L365,163" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="25" y="280" width="245" height="115" rx="8" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="147" y="345" text-anchor="middle" font-size="28" font-weight="normal">
+<tspan x="147" dy="0">Web form</tspan>
+</text>
+<path d="M270,338 L365,338" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="25" y="455" width="245" height="115" rx="8" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="147" y="501" text-anchor="middle" font-size="28" font-weight="normal">
+<tspan x="147" dy="0">Authorized</tspan>
+<tspan x="147" dy="35">agent</tspan>
+</text>
+<path d="M270,513 L365,513" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="365" y="95" width="390" height="490" rx="12" fill="white" stroke="#222" stroke-width="3"/>
+<text x="560" y="147" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="560" dy="0">Commitment states</tspan>
+</text>
+<text x="560" y="205" text-anchor="middle" font-size="28" font-weight="normal">
+<tspan x="560" dy="0">Allowed transitions</tspan>
+<tspan x="560" dy="47">Permission rules</tspan>
+<tspan x="560" dy="47">Capacity conditions</tspan>
+</text>
+<path d="M400,340 H720" stroke="#777" stroke-width="2"/>
+<text x="560" y="388" text-anchor="middle" font-size="28" font-weight="bold">
+<tspan x="560" dy="0">Defined interactions</tspan>
+</text>
+<text x="560" y="436" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="560" dy="0">Submit · accept · cancel</tspan>
+<tspan x="560" dy="42">Reserve · check status</tspan>
+<tspan x="560" dy="42">Report · review</tspan>
+</text>
+<rect x="855" y="105" width="245" height="115" rx="8" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="977" y="170" text-anchor="middle" font-size="27" font-weight="normal">
+<tspan x="977" dy="0">Provider API</tspan>
+</text>
+<path d="M755,163 L855,163" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="855" y="280" width="245" height="115" rx="8" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="977" y="326" text-anchor="middle" font-size="27" font-weight="normal">
+<tspan x="977" dy="0">Manual provider</tspan>
+<tspan x="977" dy="35">confirmation</tspan>
+</text>
+<path d="M755,338 L855,338" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="855" y="455" width="245" height="115" rx="8" fill="#f4f4f4" stroke="#222" stroke-width="2.5"/>
+<text x="977" y="520" text-anchor="middle" font-size="27" font-weight="normal">
+<tspan x="977" dy="0">Private records</tspan>
+</text>
+<path d="M755,513 L855,513" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="315" y="628" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="315" dy="0">Input</tspan>
+<tspan x="315" dy="31">adapters</tspan>
+</text>
+<text x="805" y="628" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="805" dy="0">Output</tspan>
+<tspan x="805" dy="31">adapters</tspan>
+</text>
+<text x="560" y="720" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="560" dy="0">Arrows show calls; replies return through the same boundaries.</tspan>
+</text>
+<text x="560" y="759" text-anchor="middle" font-size="26" font-weight="normal">
+<tspan x="560" dy="0">The core requires confirmation. It cannot create external capacity.</tspan>
+</text>
+</g></svg>
