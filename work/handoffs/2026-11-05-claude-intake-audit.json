@@ -1,0 +1,722 @@
+{
+  "date": "2026-11-05",
+  "task": "Claude V1/V2 intake and self-contained Volume III alignment",
+  "repository_revision": "62ddf4bc87142462b0214486092c26934353673c",
+  "canonical_adoption_performed": false,
+  "fresh_external_research_performed": false,
+  "incoming_chapter_18": "Author added during intake; header and full opportunity signal inspected",
+  "coverage_note": "Handoff and plan read in full; new manuscript inventory and selected passages inspected. This is not a full reading or fact-check of revised V1/V2. Old source reviews remain dated research baselines.",
+  "sources": [
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/handoff-for-codex-v1-v2-v3.md",
+      "sha256": "2a4c6367ab3f77db59a57009b201c5df92c6fc68fde134fea99cd858a2ca105c",
+      "bytes": 17257,
+      "scope": "read in full this turn"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/v2-interludes-plan.md",
+      "sha256": "8693ff1c7cf83d5c43ca767759a26b7370d51bcb6c7703bef6b6f56332efba28",
+      "bytes": 12781,
+      "scope": "read in full this turn"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/claude/The Path of Many Arrows Style Guide.md",
+      "sha256": "85e289c321bcb752a6fa262128e47d8bf96a477b6f7d2d5b64e82492e2cf8234",
+      "bytes": 25825,
+      "scope": "read in full this turn"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/claude/Volume III Drawer.md",
+      "sha256": "78565a79ee5e4af3c3121514aa84e1e60b39b37b00129f06df2389e6534f01b9",
+      "bytes": 20676,
+      "scope": "read in full this turn"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/EDITORIAL_CONTEXT.md",
+      "sha256": "b80ff6160601ab8e77cf6791fa43f8056963b4738dc8b6f2b297863c2579b2be",
+      "bytes": 71732,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/README.md",
+      "sha256": "d514c42ef8fb9998d7df898955f2a65ee6dde852955109a4d976a7b20c52e358",
+      "bytes": 11194,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/inbox.md",
+      "sha256": "51881675663a18dbcde7f7b79d89d6f6fa55133e594b7ec83f2f7dc59fb4fea4",
+      "bytes": 271,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/book.md",
+      "sha256": "802e4e11e50bac090ed561c9e81ba1a801d23fd63f7e271efabeb587c91d88c2",
+      "bytes": 30078,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/volume-2.md",
+      "sha256": "156f31ad367b6762ee2bc9a9814bf79992b1b79f552ce7c4a688dd8bb4eac50c",
+      "bytes": 5290,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/journal/volume-3.md",
+      "sha256": "e89eab39e77daad8041118baf0252c8efde7b7a3baeabb6ee5cd3f75d2f4dc7b",
+      "bytes": 24331,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VELOCITY_GATES_PROPOSAL.md",
+      "sha256": "868e3f0a1cf99d50c90cce8eb254a833fe17f340b66579d2cdb1a03db8474e2d",
+      "bytes": 44851,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_HISTORICAL_BRAID_REVIEW.md",
+      "sha256": "cad8a594351db838662bda92db4e9eb2a981f13bcb25762379d5a024a1f15b04",
+      "bytes": 10679,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/THETA_SETUP_FOR_HISTORICAL_BRAID.md",
+      "sha256": "ba54b41f393692dbd6ed165dd9ebf83540721ca1cf1543272f05b850d0e5a41b",
+      "bytes": 19512,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_DESIGN_MAP.md",
+      "sha256": "81ae403c7206e0ebb13a12d2b76c0ea35ddc9854e6a72eafc84e5e4b5a9816f7",
+      "bytes": 81017,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md",
+      "sha256": "df3a0a0c74a766b347f4cacb02dfad04e83ea509bb28dd67b3dc5b526552a4ef",
+      "bytes": 49398,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/DESCRIPTIVE_BOOK_INDEX.md",
+      "sha256": "f6d46fdcf2706968b8daebea61af85a74411bd7ee06fb05ef3e9d5495c041a89",
+      "bytes": 41229,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/work/claude/Sam's Brainstorm Notes.md",
+      "sha256": "94530416477d7aa1f94557eb64e64484d031bcee49c69d88d0f84ae4b77c224b",
+      "bytes": 47645,
+      "scope": "consulted current record; some long records inspected in relevant sections"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
+      "sha256": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+      "bytes": 46667,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
+      "sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "bytes": 41031,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-open.md",
+      "sha256": "2679939442c56c78571fd81123c04c999dce17feb4f69195368621c6078a8d2b",
+      "bytes": 980,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
+      "sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "bytes": 42723,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
+      "sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "bytes": 30635,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-open.md",
+      "sha256": "dc2bb05d3d915dd2bdf8a615fa89410615219618fb111222ec45d3e4662b3eca",
+      "bytes": 638,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
+      "sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "bytes": 47341,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
+      "sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "bytes": 45443,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-open.md",
+      "sha256": "7e35747178ca022c03a57656013fa3b1d1cf76794d6f8ee8b3fc37cd6807ed12",
+      "bytes": 813,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
+      "sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "bytes": 48158,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
+      "sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "bytes": 39732,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-open.md",
+      "sha256": "29a5e1c19405cc7d873552b11713cce31e8c9a424b21adce5f3381172f473f07",
+      "bytes": 988,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
+      "sha256": "f302ffa5fb8b1c7b2347068fe70755414dfbcd2d617b745df1813fd46ca3d67c",
+      "bytes": 43080,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-interlude.md",
+      "sha256": "e46c917053e19b9130cb499d22a09028d22fb58738bb7d008c7cd36fd5dbde73",
+      "bytes": 34349,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-open.md",
+      "sha256": "a4250e494ed720fa01893164044012a6eb0ffc726140e74a2f3d6c3580941171",
+      "bytes": 976,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
+      "sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "bytes": 40839,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
+      "sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "bytes": 37031,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-open.md",
+      "sha256": "ea6ef4dd1161e0aee68be024365e31290b08e6ab8917d164b6de8e910e56e8c7",
+      "bytes": 795,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
+      "sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "bytes": 39155,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
+      "sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "bytes": 30436,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-open.md",
+      "sha256": "0b198f4e22070ea06118ef4743181299a2de35645af9446bc916641505f8990a",
+      "bytes": 833,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
+      "sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "bytes": 37667,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
+      "sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "bytes": 30268,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-open.md",
+      "sha256": "48eebd075dfbefa084a2fe96c9de7822291b359b401bca928be3929184fa0e01",
+      "bytes": 1031,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
+      "sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "bytes": 38674,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
+      "sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "bytes": 28367,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-open.md",
+      "sha256": "8e09d210b2567eaefd958cb739c928e3fb66bfc0d1cd548db02ed63ecdb41235",
+      "bytes": 1057,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
+      "sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "bytes": 37875,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
+      "sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "bytes": 31038,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-open.md",
+      "sha256": "47f2cfc3e48448a889d320396f0f911aa1cd0f1aa1f3603d705a1a77571385cb",
+      "bytes": 903,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
+      "sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "bytes": 63005,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
+      "sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "bytes": 60224,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-open.md",
+      "sha256": "f1d84ae73bae9430be8f1c0f2537a14e22aaa030c9d50b532b83d16d494c72dc",
+      "bytes": 1017,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/overture.md",
+      "sha256": "e47cc081be8286f3ea0cc2f6b578194e535c49cf039e2023d5adf9f9b9bcff46",
+      "bytes": 7859,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/part-opening.md",
+      "sha256": "497550e0dfdf68c5fce85abba3b7ca92a43cd2ab3087dca10b09932ddb9aa144",
+      "bytes": 743,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
+      "sha256": "5a48d83b6cd4871bb5eac0aedaa854af4570a9ab463f11ec80a7a961d39c9b18",
+      "bytes": 66463,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
+      "sha256": "ce3dbd231ad3387858203e161d70b1fb1f6872e01f734bdb35e7b2393bb605cf",
+      "bytes": 62170,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-open.md",
+      "sha256": "af768d145ce8e27c004965213bb3d7f181ea32d8150b183e71aa4efde4168716",
+      "bytes": 770,
+      "scope": "snapshot; chapter/interlude headers and targeted terminology/content searches, not full reread"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-1.md",
+      "sha256": "c39b54aee6bd8167ab09bf905c34f3ef2c0a23fd17733adb27d5f4688d71fca2",
+      "bytes": 58289,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-10.md",
+      "sha256": "8f42209ec8719e34640e3d0829596a0d746f8c9f95f87574dfe1fd1d206d2fe4",
+      "bytes": 43957,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-11.md",
+      "sha256": "cfe321de4ba199ba1eed932d04a11899e39c03abd2b50f3342c7776ee4f3cdd0",
+      "bytes": 40372,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-12.md",
+      "sha256": "043aaa34247be72bfb45dd32805ac2484ad3d41f591db43592e01771cb8df608",
+      "bytes": 32979,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-13.md",
+      "sha256": "b46b397e4c1a847f814aae7f1523e7c105429c576ea332ad555cd4499136140c",
+      "bytes": 28581,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-14.md",
+      "sha256": "946fb5393da32a4da2737e8703a99206fc304f8f580293a3b856a9d24a0f817e",
+      "bytes": 34304,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-15-before-cases.md",
+      "sha256": "6313877a9af7b7def9570bb94eb9aaa853fb941008a12f3afae8c870a44b7c54",
+      "bytes": 23808,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-15.md",
+      "sha256": "4e0f9cd34d7b23c65930d09080cb839d09af6227315559f66eb15ae53b8b0d18",
+      "bytes": 30294,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-16-before-dynamics-additions.md",
+      "sha256": "2e6ab296b550870bc600982d04a8c89c3d883a37f92be2bcce0520df7a3807bb",
+      "bytes": 26376,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-16.md",
+      "sha256": "97122594b2e3a04b032851d252a35f6a3c280f268ff4cf1d1e76a77b5f18995f",
+      "bytes": 40491,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-17-before-anatomy.md",
+      "sha256": "b49843e83d11d972ce5c59c8ae1c493addb0151ba77708e52b9bb174433ce18a",
+      "bytes": 21256,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-17.md",
+      "sha256": "d04e47a313d7855135b72d213f15238a0688f4c1575983c3f1bbd0be90b56af3",
+      "bytes": 26546,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-18.md",
+      "sha256": "27bf32501c823ece3a4365c0b894ecb672438bda51443a11efe016cab115a18c",
+      "bytes": 25468,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-19-before-halloween.md",
+      "sha256": "3168c5b7076105d982cd729503dfb53241e5a69d8dc89f1072f2e74c9eb6b679",
+      "bytes": 23355,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-19.md",
+      "sha256": "44e7523c3a78644db75f776d74a2ef5fa4dc4d963b57d16034ca3fd36e64f864",
+      "bytes": 42191,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-2.md",
+      "sha256": "9df6f9137db35ad6f8cdba57b9fe902d687692f6286a2a61691de526c3947cef",
+      "bytes": 48155,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-20.md",
+      "sha256": "d41c37a672681135a2e211e8c87cb243c738da66da7ecfc162119e849552ef9a",
+      "bytes": 24715,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-21.md",
+      "sha256": "4d0e77b387bae2d98798ac3d0211171d3cadf031594b775ca14385ee934c497b",
+      "bytes": 25394,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-22-before-folding.md",
+      "sha256": "c59c994fcf8e76ccbf7dc1d4d04c728314756e66b879249e3fe349bc263e56f1",
+      "bytes": 24695,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-22-folding-v1.md",
+      "sha256": "5694eefb4b7b4dab2d1b21ca13b7f5eabcf35a45e8dde6b201312671feb62d4e",
+      "bytes": 28984,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-22.md",
+      "sha256": "5fa20580e963ce60b7c900a4d94b64c6de443809fbad884f9e30a948f0d84e2d",
+      "bytes": 28237,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-3.md",
+      "sha256": "0ff02ec2376ada9243cc5798b2005fbe8bc8bb3d9066a538ef0367615b447d45",
+      "bytes": 53428,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-4.md",
+      "sha256": "580a0168c545a7c97c25b710228d23a3273135fc041ad2115ad63171ed772c02",
+      "bytes": 53165,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-5.md",
+      "sha256": "3216df14b2ee03089a1e2ca9515c3a5041cc0eb523dc6af3f37d87cadc51b04b",
+      "bytes": 45024,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-6.md",
+      "sha256": "2b58d5a6524a6d904b731e0e9c426bdfb2c3970b27a82727066700e9d4bba044",
+      "bytes": 38764,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-7.md",
+      "sha256": "cc08235dc887a9b5647b5ecfb6a1a0eea54cba19f1e45d75218eb2b3bd6a3fb0",
+      "bytes": 43522,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-8.md",
+      "sha256": "5705a5eff8f23b0c622303b30f69ca1172aba2f33868cf9dc750099539279d3f",
+      "bytes": 39768,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-9.md",
+      "sha256": "814668b4a1fd2916730c2355976b401a0ae28f15a75013850939e368b99e598e",
+      "bytes": 35143,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-delta.md",
+      "sha256": "a53dbf915fcd7f95d23b18cc872e6917e34a3f2460f2c64d00a6aadf48cccaf1",
+      "bytes": 41372,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-phi.md",
+      "sha256": "e8c1c29cdd595a7567e4bfb91b4cb26f73945780c6ff24fd9d7d81348290ddb0",
+      "bytes": 50149,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/coda-2-before-wrapup.md",
+      "sha256": "d4b057df580661f60fa32e36ed006c81d0cd2b2b08956db1671bba5003b617f1",
+      "bytes": 11282,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/coda-2.md",
+      "sha256": "acc669a706fc5b6b8b673b43fbf1d35a6c281a24a7e8ee6d110deb7ec7b3cf8a",
+      "bytes": 13482,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-1.md",
+      "sha256": "16e05a9a319ebfe6dd556c27889b63f3bfae105ccaca82b4123dc8820638b2ce",
+      "bytes": 30508,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-10.md",
+      "sha256": "e6c28bb91259b977cf9774e7c414313ddd21b5c47b89bdd570775ca278544fe4",
+      "bytes": 22351,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-11.md",
+      "sha256": "963e0cb3eb13312b92d0a95277137cb98a0c2599a6b4d0f89d10960c7c120372",
+      "bytes": 48551,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-12.md",
+      "sha256": "8a862c494377eb3444134487bec993332ff1087bf0b3fed62634fc806f753350",
+      "bytes": 49875,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-13.md",
+      "sha256": "e066477e36fbc7e540a6f395daec4b8910b5eafa379415c8913287b232a83a31",
+      "bytes": 34996,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-14.md",
+      "sha256": "f5b5e3edcf66d2688f63c543771c4261dc71f310929f68c1d1330c193c6036bf",
+      "bytes": 48729,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-15.md",
+      "sha256": "85bf6d1fee91fba5917a432eed7f5c097fd5b17d6d8ca0123d71e44230676feb",
+      "bytes": 52244,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-16.md",
+      "sha256": "c3ecf7eb7d371e0f7fa50e0a3c02363f290a4d5f505a64d5854d43dc4a7bf90b",
+      "bytes": 46079,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-17.md",
+      "sha256": "cdd550e36b42a322683d6228eaa52e1efbd1113839e943f029357b3c0a3e9d7e",
+      "bytes": 43390,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-18-before-bridge.md",
+      "sha256": "e369c9c78cfb736e7067623647c0ff84d586ff17781dae1353a41c0eccf2c1be",
+      "bytes": 12440,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-18.md",
+      "sha256": "32e0c7b9d58070f0aa2b03b397f967bb7376d14764fc99281b562772fb81d9cc",
+      "bytes": 44838,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-19.md",
+      "sha256": "141f16590badff2f86484f8d10cfdd3805072bfdbfb1fc615051e0761b17b9a4",
+      "bytes": 46217,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-2.md",
+      "sha256": "52c6a927509244a248f9c3773251349281d3d7d8570d15913ac32058584498a0",
+      "bytes": 40475,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-20.md",
+      "sha256": "37896a4054dc9bf377757a935813687562edc83a645dce5e1fc17cedafbd2c04",
+      "bytes": 48698,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-21.md",
+      "sha256": "9a92dd25c1de94efabcd03bea488c6cd01e93cc668d9419f81f8667e7d328816",
+      "bytes": 53949,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-22-vignette-v1.md",
+      "sha256": "1ab25beacab93755507baed192e7be0a40847e7675368e1a17e600957b8af055",
+      "bytes": 5911,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-22.md",
+      "sha256": "f14f3254505d996e86c7f04f5bc9ae479685e78f1020c4d90b2190014a3af586",
+      "bytes": 40381,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-3-v2.md",
+      "sha256": "c6e179e8c90847d7a5efc2cdd96556f1e33669fad1d025c061c674e3cce8d6c1",
+      "bytes": 36557,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-4.md",
+      "sha256": "eaf16809853a58558d331aa0da4e071ded21be5d7090e51131c3d187abb3a5a9",
+      "bytes": 28158,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-5.md",
+      "sha256": "7b5c7a8b9d9493b30ea7a055a1a0c8432a519172d8c6a3ff9be02ede182c7a14",
+      "bytes": 38383,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-6.md",
+      "sha256": "2088355c0284cc82b33e9068ae7c3cf6e3b6ce3bc7c8c8d97732f1af92051e6a",
+      "bytes": 23676,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-7.md",
+      "sha256": "dac4375b95fc57e1b3f94b3091cfda4167744c54a2f6a8f4ee406c60050a4a7e",
+      "bytes": 24207,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-8.md",
+      "sha256": "612a03fea82a97f46b979360fee605f435e58f55073733e2821b757704a6f013",
+      "bytes": 24206,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-9.md",
+      "sha256": "8344b5d390899960fc0f1e2ace00dbdc4cb18f2b79438c54971e48087dd8679f",
+      "bytes": 27510,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-delta-before-boulevard-tech.md",
+      "sha256": "d72a794aa42f0d3bf50edde5d4dc0c8f7c6547504f8caa0b5cd3853ccf6a6e1d",
+      "bytes": 59418,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-delta.md",
+      "sha256": "d40f9b44ef6021a908a161b2adad86e4fbdd44a5019b6142b6622a862c041a81",
+      "bytes": 93638,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/overture-3-before-v2-check.md",
+      "sha256": "41dd4bc646da850ec715887a88ea519e8f8d53201109238656309b1db2fd7afe",
+      "bytes": 7946,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/overture-3.md",
+      "sha256": "3f0348c0ae8b812bc8075b62dcd22f16217433451abd127ba551824f3f602bf4",
+      "bytes": 8124,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/theta-open.md",
+      "sha256": "1aaf7c6ad60580d8c1daca517fbb4ad7f9656dd8b90b91c5eaa2810f1bb052d0",
+      "bytes": 1213,
+      "scope": "incoming inventory; V2 headers/opportunity sections and Coda II Noesis passage selectively inspected; not full adoption review"
+    }
+  ],
+  "expected_numbered_v2": {
+    "chapters_present": true,
+    "interludes_present": true
+  },
+  "outputs": [
+    "work/handoffs/2026-11-05-codex-to-claude-v3-alignment.md",
+    "work/EDITORIAL_CONTEXT.md",
+    "work/journal/volume-2.md",
+    "work/journal/volume-3.md"
+  ],
+  "pre_existing_edits_preserved": [
+    ".gitignore",
+    "manuscripts/volume-1/01-interlude.md",
+    "work/journal/book.md"
+  ]
+}

@@ -39,3 +39,15 @@ Delta remains the meta-level systems-thinking/caseboard setup. The author intend
 ## New author notes
 
 <!-- Add notes here. -->
+
+## V2-008 — Revised incoming volume received, 5 November 2026
+
+**Context intake complete; adoption and full review pending.** The author/Claude handoff reports revision through the end of V2, including largely new numbered interludes. All eleven numbered chapter files and eleven numbered interlude files are now present; the author supplied the initially absent `chapter-18.md` during this run. Read the handoff and consolidated interlude plan fully, inspected all incoming V2 headings and the opportunity-signal sections selectively (C18's in full), and checked the incoming Coda II's Noēsis passage. This is not a complete reading or fact-check of the new manuscripts.
+
+The incoming domain map is: 12 Macrostate/Time; 13 Microstate/Identity; 14 Confounder/Quantum; 15 Observability/Measurement; 16 Dynamics/Expression; 17 Model/Encapsulation; 18 Objective/Agreement; 19 Commons/Governance; 20 Architecture/Agency; 21 Rationality/Cognition; 22 Alignment/Immersion. This supersedes V2-007's status as merely an open eleven-topic plan. Canonical old drafts remain unchanged pending unit-by-unit comparison/adoption. Notes about their residue or old vignettes above remain historical findings, not claims that the incoming replacements retain those defects.
+
+IΔ's B4 is the one standing specimen set. Numbered interludes teach mechanisms and machines and supply V3 prerequisites; they do not need their own Systems Lens or opportunity signal. The incoming C22 now develops assurance; I22 develops immersion and leads toward I33's simulation. Mneme/Logos closes the numbered interludes, and the incoming Coda II names Noēsis for V3. Exact factual/clinical claims, personal placeholders and source notes remain for scoped review.
+
+All eleven opportunity-signal headings persist. Refresh their substance and the old many-to-many V3 mappings from adopted revised text rather than citing the October extraction as current wording. The previous editor read canonical Δ but did not draft its current manuscript; the new Δ versions are incoming author/Claude work.
+
+See [the self-contained alignment handoff](../handoffs/2026-11-05-codex-to-claude-v3-alignment.md) and [source snapshot](../handoffs/2026-11-05-claude-intake-audit.json). No source manuscripts, annotations, bibliography, manifest or publication files changed in this intake.
