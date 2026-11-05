@@ -212,7 +212,7 @@ The next frontier wasn't electrons; it was encoding: how a physical state become
 
 Not long after those first chips started counting for other people, a cell would start counting for me. And then, with time and a lot of practice, it would call itself “I.”
 
-![](../assets/shared/separator.png)
+---
 
 > ***Maggie:** The universe began as possibility, and settled into rules.*
 >
