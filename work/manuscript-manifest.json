@@ -2582,7 +2582,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
-        "sha256": "72ff8b2f41bb5b1242348a1270a737517c07aa609fc1a6487c3a60f32149ec33"
+        "sha256": "1f80d50f196976b9736e51b19884e711639cc2d8822811d91aa4b410cd96a7a0"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-c - The Design Horizon - Principles for Re-weaving Civilization.docx",
       "source_sha256_at_inventory": "51d986de7746048d5d439cfa298e3faa63b8cbaa7eaea03362096b322cdbac85",
@@ -2627,7 +2627,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
-        "sha256": "36d3dc40581131f740e8662df6e06325c0e53bafc1e6aaaec2275a72dc52cb8a"
+        "sha256": "9b4a67511a2e3a23f04109c8d899ef85171e5c9b4837798b537666848a2c8022"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-i - The Architect’s Pause - Before We Build the Future.docx",
       "source_sha256_at_inventory": "8983adc5f712a2ec57c1ef5911983623595d3de816fd8085df631ca0d5f0bf80",
@@ -4192,7 +4192,18 @@
   },
   "velocity_gate_structure": {
     "proposal": "work/VELOCITY_GATES_PROPOSAL.md",
-    "status": "structure-accepted-by-author; detailed-reading-and-feedback-pending"
+    "status": "structure-accepted-by-author; detailed-reading-and-feedback-pending",
+    "ceremonial_clock": {
+      "author_updated": "2026-11-05",
+      "volume_ii_suspension": "2026-03-11 09:00",
+      "volume_iii_launch_threshold": "2026-09-11 09:00",
+      "first_gate": "2029-03-11 09:00",
+      "last_gate": "2054-03-11 09:00",
+      "interval_months": 30,
+      "time_basis": "Book ceremonial/local hour; not a UTC scheduling specification.",
+      "supersedes": "Earlier September 2029 baseline launch and March 2029 prelaunch assumption.",
+      "record": "work/journal/book.md#b-025--silent-clock-and-domain-geography"
+    }
   },
   "supplemental_canonical_units": [
     {

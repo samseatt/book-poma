@@ -142,7 +142,7 @@ Canada, cold and resource-heavy and not nearly as innocent as it sometimes imagi
 
 So there I was in Calgary, writing toward Volume III, carrying a dead father, a bowed child, a Persian nightmare, an American anniversary, a Canadian wager, and a future machine-vine that no bronze blade was going to stop.
 
-On September 11, 2026, I marked my own small counter-gesture. Not a revolution. Not an empire. Not even, if one wishes to be stern about it, an event of public consequence. But I set down the development kickoff for the work gathering around Tiers, Neuverse, and xMed --- especially xMed, which carried in its small technical name the stubborn wish to rectify for others what the medical machine had failed to hold for my father exactly six months earlier.
+At 9 AM on September 11, 2026, I marked my own small counter-gesture. Not a revolution. Not an empire. Not even, if one wishes to be stern about it, an event of public consequence. But I set down the development kickoff for the work gathering around Tiers, Neuverse, and xMed --- especially xMed, which carried in its small technical name the stubborn wish to rectify for others what the medical machine had failed to hold for my father exactly six months earlier.
 
 That was the private hinge.
 
@@ -555,12 +555,16 @@ The old B4 board taught us how to diagnose the still arrow.
 
 The C4A breadboard asks how to weave while the arrow is already moving.
 
-<!-- AI draft: 2026-11-05, operational Breadboard foundation; an illustrative test, not a report of an existing project. -->
+<!-- AI draft: 2026-11-05, operational Breadboard foundation; a proposed test within the author’s prototype project, with no claimed test results. -->
 ## One Promise on the Bench
 
-For the Breadboard to become useful, we need to be able to say what is on it. A community is not an experimental subject simply because I have given it a pleasant name.
+The civic side of this Breadboard is Neuverse: the roadmap and intended early-adopter community through which I want to try these arrangements at a small but socially meaningful scale. C4A names its civics in practice. Tiers is the enabling infrastructure, currently a prototype on AWS. Together they give the experiment people, purposes and machinery; Neusphere names what might emerge through their relations, not another component to install.
 
-I would begin with one bounded service: arranging an ordinary journey that requires cooperation between a requester, a coordinator and a provider. This is a proposed exercise, not a report of a trip already taken. Its first version can use invented requests and simulated providers. A later pilot would involve willing participants, providers entitled to perform the work, an agreed budget and an existing route to help when the experiment fails. An operating community would carry a further burden: keeping the service alive after the demonstration team has gone home. Those are three different claims about what has been learned.
+The early adopters need enough of a shared life to show how the arrangements function, beyond a demonstration in which the founder plays every part. A meal delivered, a contribution recognized, a disagreement resolved: small transactions can expose whether the proposed values survive contact with someone else's afternoon. The familiar pizza has a useful advantage here. Eventually somebody has to eat it.
+
+For the Breadboard to become useful, we need to be able to say what is being tried within it. A community is not an experimental subject simply because I have given it a pleasant name.
+
+For one bounded test within it, take an ordinary journey that requires cooperation between a requester, a coordinator and a provider. This is a proposed exercise, not a report of a trip already taken. Its first version can use invented requests and simulated providers. A later pilot would involve willing participants, providers entitled to perform the work, an agreed budget and an existing route to help when the experiment fails. An operating community would carry a further burden: keeping the service alive after the demonstration team has gone home. Those are three different claims about what has been learned.
 
 The request needs only enough information to arrange the journey. It need not become a biography. The provider offers a limited capacity and accepts a specific commitment; an optimistic match on a screen has not yet reserved anything. A named coordinator retains responsibility for the handoff until it is accepted. After the journey, the participant can report what actually happened, including a trip completed so inconveniently that she would rather have stayed home.
 
@@ -580,7 +584,7 @@ The Breadboard will grow by adding responsibilities, not by declaring itself sov
 
 There is a positive test too. Did the arrangement give someone a usable option she lacked before? Did it free time, restore a connection, make contribution easier, or relieve work that had been imposed without being acknowledged? An immaculate experiment that helps nobody has mainly demonstrated its taste in paperwork.
 
-The Gates will let us return to this kind of question as capabilities and dependencies grow. They need not all return to this journey, or even to this particular Breadboard. The point is to give an ambitious proposal somewhere small enough for a person to contradict it.
+The historical timelines and Velocity Gates give us other instruments: the past offers encounters to learn from, and the future checkpoints let us think toward changing capabilities and dependencies. They can illuminate the Breadboard without becoming its project schedule or its test results. Some chapters will return to the experiment; others will need a wider world. The point here is to give an ambitious proposal somewhere small enough for a person to contradict it.
 <!-- End AI draft: operational Breadboard foundation. -->
 
 [[NOTE: _We have reached the end of the boulevard. For generations, human progress traveled at a pace our eyes and brains could naturally track—a street with clear views and time to react. But the road has changed. It has morphed into a hyper-accelerated, autonomous 'free'way moving faster than human biology can process. The sections ahead map out Steps 26 through 50. Do not read these numbers as calendar years; time no longer dictates the traffic. Read them as velocity gates._
@@ -782,7 +786,7 @@ The three empires will arrive in every numbered chapter as a triple slice. They 
 <!-- AI draft: 2026-11-05, timeline and Gate conventions. -->
 These are lenses, not exclusive properties of countries. Persia had institutions; America has ideologies; Canada has no monopoly on speed. I sample the first history around cutoffs 250 years apart, the second at 25-year intervals, and the possible future at thirty-month intervals. The shrinking grid is a compositional choice, not a discovered law. The two seasonal dates give it a familiar pulse without requiring an invention every time the calendar turns.
 
-The first future checkpoint is March 11, 2029, before the intended September 11 baseline launch. The last is March 11, 2054. At each, the question concerns the state of capability, dependence and human life: does the trellis still serve what has grown? The date does not certify a breakthrough. Faster progress may bring a responsibility forward; slower adoption may leave it unmet longer.
+The work starts here, at 9 AM on September 11, 2026. Thirty months later comes the first Velocity Gate, March 11, 2029; the last is March 11, 2054, each returning to that same morning hour. At each, the question concerns the state of capability, dependence and human life: does the trellis still serve what has grown? The date does not certify a breakthrough. Faster progress may bring a responsibility forward; slower adoption may leave it unmet longer.
 <!-- End AI draft: timeline and Gate conventions. -->
 
 One vine descends from ancient ideology.

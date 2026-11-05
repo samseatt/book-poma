@@ -8,7 +8,7 @@
 
 The canonical chapter now contains **“From a Principle to a Design”** after “The Design Loom.” It supplies the missing passage from values to needs, functional decomposition, allocation, alternatives, tradeoffs, scenarios, traceability and evaluation. The canonical interlude now contains **“One Promise on the Bench”** after the B4/C4A introduction, before the existing author annotations. It distinguishes simulation, a bounded pilot and continuing operation, and follows a complete service loop. Both are substantive working prose, marked as AI-drafted; neither reports an actual project result.
 
-Related setup repairs distinguish the thirty-month Gates from the optional half-year rhythm, place the first Gate before the intended September 2029 launch, adopt the Coordination Gap, explain the three empires as comparative lenses, and remove the implication that chapter order postpones basic duties. The September 2026 account now places the US anniversary in the preceding July. No other current-affairs claim has been certified by this pass.
+Related setup repairs distinguish the thirty-month Gates from the optional half-year rhythm, place the first Gate thirty months after the author’s September 2026 launch threshold (updated by the author later on 5 November), adopt the Coordination Gap, explain the three empires as comparative lenses, and remove the implication that chapter order postpones basic duties. The September 2026 account now places the US anniversary in the preceding July. No other current-affairs claim has been certified by this pass.
 
 The map below refreshes the October design inventory against all eleven incoming V2 opportunity sections and selected mechanism passages. It assigns principal teaching homes, supplies a meaningful demonstration for every pair and establishes minimum obligations before any specialized chapter. It does not claim that those eleven demonstrations have already been written or run.
 
@@ -151,7 +151,7 @@ The newly inserted prose establishes this contract. The fuller record is for edi
 
 **A meaningful failure:** the experiment can reveal that the bottleneck is lack of staff, money, vehicles or legitimate authority, rather than poor coordination. That finding must be allowed to change the proposal. Demonstrate successful assistance too; beneficial AI speed is part of the design, not a danger admitted only reluctantly.
 
-**Vocabulary:** Neusphere names the aspiration; Neuverse is the author's proposed means of helping realize it; the Breadboard is a way to test arrangements. Tierra Ora may remain the economy interlude's bounded example. Its “dark energy” cannot stand in for an account of contributions, costs, recruitment and subsidy. Neither C4A's proposed expansion nor Speed/Light naming is globally settled here.
+**Vocabulary, clarified by the author on 5 November:** Neuverse is the civilizational roadmap and small early-adopter society; C4A is its civics in practice. Tiers is the infrastructure side, currently a prototype on AWS according to the author. This is the actual project setting of the Breadboard, whose relations may help a Neusphere emerge. The bounded service test operates inside it. The histories and Gates are separate framing devices that may illuminate the experiment, not its mandatory release schedule. Tierra Ora may remain the economy interlude's bounded example. Its “dark energy” cannot stand in for an account of contributions, costs, recruitment and subsidy. Neither C4A's proposed expansion nor Speed/Light naming is globally settled here.
 
 ## Remaining Θ work after this foundation pass
 
@@ -194,3 +194,7 @@ The four primary sources checked on 5 November support the specific method eleme
 - [SEI, Quality Attribute Workshop Collection](https://www.sei.cmu.edu/library/quality-attribute-workshop-collection/): eliciting and refining quality scenarios before choosing architecture.
 
 Four stable native notes accompany the chapter insertion. The Breadboard is an explicitly proposed example, not an externally validated experiment. Existing epigraphs and other source gaps are not certified by this scoped reference work.
+
+## Ceremonial clock: later author clarification, 5 November
+
+The detailed frame is recorded in [the book journal, B-025/B-026](journal/book.md). V2 holds its reflections at 9 AM on 11 March 2026 without announcing that device. IΘ moves from that moment to the 9 AM, 11 September 2026 launch threshold; the first Gate follows thirty months later. Every accepted Gate is at 9 AM. The eleven dates and order are unchanged. This corrects the prelaunch language in the first foundation pass. The mythic temporal architecture should survive precise content work; it does not require publishing this map or explaining the clock repeatedly.

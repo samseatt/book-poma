@@ -8,7 +8,7 @@ The chapter sequence is retained: original identities **23, 24, 25, 31, 27, 29, 
 
 A Velocity Gate is a dated examination of the relationship between what civilization can do and how well people can live with, benefit from and revise that capacity. Its practical purpose is to identify the next changes the trellis needs to support beneficial acceleration. It asks both what has become possible and what prevents that possibility from becoming a durable public benefit.
 
-The gate dates are editorial checkpoints. Evidence does not establish that civilization changes phase every thirty months, or that one problem will become the world’s dominant problem at its assigned date. All eleven concerns coexist from the beginning. Governance, justice and care must be present in the 2029 baseline; their later chapters examine what prolonged deployment and greater capability have made of them.
+The gate dates are editorial checkpoints. Evidence does not establish that civilization changes phase every thirty months, or that one problem will become the world’s dominant problem at its assigned date. All eleven concerns coexist from the beginning. Governance, justice and care must be present from the September 2026 launch threshold; their later chapters examine what prolonged deployment and greater capability have made of them.
 
 Keep three kinds of statement distinct:
 
@@ -34,7 +34,7 @@ The scenes below are proposed future fiction. They preserve useful premises from
 | 10 | 11 September 2051 | 32 — Continuity | **The Living Inheritance** | Records, models and delegated systems can keep interpreting and acting after their creators leave. |
 | 11 | 11 March 2054 | 33 — Release | **The Successor’s World** | A generation inherits powerful systems it must be able to revise, replace and outgrow. |
 
-March 2029 is a **prelaunch readiness gate**, six months before the author’s intended 11 September 2029 baseline launch. The subsequent checkpoints assess development after that launch. Preserve this distinction in Chapter 23 and the Theta framing.
+**Author update, 5 November 2026:** the launch threshold is **9 AM, 11 September 2026**. March 2029 is the **first thirty-month checkpoint**, at 9 AM on 11 March, rather than a prelaunch gate. All eleven Gate dates remain unchanged through 11 March 2054, each at 9 AM. This supersedes the earlier 11 September 2029 baseline-launch assumption. It does not establish any particular level of project maturity at a later Gate.
 
 ## The future assumed here
 

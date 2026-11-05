@@ -592,6 +592,10 @@ A place where old systems still have roots and new systems must earn permission 
 
 In the interlude that follows, we will set such a small breadboard on the table: a place I will call the C4A Breadboard.
 
+<!-- AI draft: 2026-11-05, author clarification of Breadboard roles. -->
+This has a practical home in the work I call Neuverse: a civilizational roadmap to try at the scale of a small community of early adopters. Tiers supplies the infrastructure side. C4A is the civics exercised between them: how people contribute, receive help, make decisions and live with their consequences. The hope is that something of a Neusphere can light up through those relationships. Naming the parts will not make that happen; putting them to work gives us somewhere to find out.
+<!-- End AI draft: Breadboard roles. -->
+
 Our breadboard will be a testing ground for seams: where assistance becomes agency or control, where value flows or congeals, where care becomes presence or protocol, where governance becomes stewardship or costume, where memory becomes continuity or museum dust.
 
 The point is not that every major change must start with a test first. We cannot afford what we have been doing so far for our civilization: skip the unit tests, skip the integration, skip the UAT, just throw it out there and let it grow its own legs. Well it worked for the fish, when the tech was bones. Today we cannot afford that, and perhaps that limitation is what stalls our arrow, or when it finally moves, to lose its direction.
