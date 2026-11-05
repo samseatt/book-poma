@@ -61,3 +61,7 @@ Several wording/claim issues are held for the unit adoption passes or checked be
 ## V2-010 — Frozen diagnostic moment
 
 **Standing author direction, 5 November 2026.** V2 is silently frozen at 9 AM on March 11, 2026. Vignettes from earlier periods are recollections; diagnosis is reflection from that suspended moment. The date need not be announced in prose. The event-horizon image is part of the book's mythic architecture. Preserve it during the later unit passes and flag a genuine conflicting chronology rather than treating this as a literal physics claim or retrospectively rewriting memories. No V2 manuscript is changed here. See B-025.
+
+## V2-011 — Existing agency and folding threads for the V3 handoff
+
+**Reading/continuity note, 5 November 2026; adoption still paused.** The incoming I20 opening places the father's partly folded Paris map inside a recovery of agency through clues, collaboration and replanning. I22's “Rehearsal: folding before unfolding” explicitly carries C22's learning-to-structure/action distinction into simulation and rehearsal. These supply established incoming callbacks for V3's participant-design and Noēsis movement. See book-journal B-027 for the author's clarification that the ceremony enriches deliberate design rather than requiring the withdrawal of designers or builders. The source drafts and canonical V2 remain unchanged; their substantive fact-check and adoption are still separate work.
