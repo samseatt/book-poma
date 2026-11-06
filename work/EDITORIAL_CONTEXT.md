@@ -471,3 +471,8 @@ Sam's further clarification (5 November 2026) leaves the commercial/fiat deliver
 ### Pair 23 accepted for the Claude literary pass — 5 November 2026
 
 Sam confirms Chapter 23 and Interlude 23 are complete for this substantive preparation stage, including their accepted opening directions. The father's experience supplies the chapter's fracture-to-form motivation; the interlude turns that scrutiny on Sam's own developing arrangement, testing that it does not reproduce the failures, assumptions, rigid protocols and narrow expectations it seeks to repair. Final vignette prose, specific scene details, callbacks, Noēsis and Open remain Sam/Claude's work. The separate pair brief carries this direction and the remaining epigraph-source issue. No canonical prose changes accompany this sign-off. Keep the full V3 handoff withheld; await Sam's next prompt before starting pair 24.
+
+
+### Opening ceremony: personal milestone stories — 5 November 2026
+
+B-029 governs the latest framing: V1 experiencing, V2 remembering/reflecting and critiquing, V3 doing as intended contribution. V3 openings can use a project-progress structure, told as personal milestone stories that lead from Sam's small contribution into the chapter/interlude's wider collective design/build. Preserve humour, flashbacks, variation and optional scenes; do not insist on elaborate fictional encounters. The earlier caution against “progress reports” was too broad and is superseded. Chapter openings lean toward civilization/Neusphere; interludes toward Tiers/technology. Pair 23 remains accepted. Encounters / Reflections / Projections is an editorial naming recommendation only, not a finalized title scheme.
