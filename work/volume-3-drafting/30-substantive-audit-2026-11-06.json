@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-06",
+  "baseline_commit": "452d1ab8babbed7ef94158fd2f24ab33ef399a72",
+  "scope": "Pair30 substantive completion, with B035 norm-breaking justice direction",
+  "no_publication_or_external_handoff": true,
+  "source_inputs": [
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/5 Justice and Governance Design Charter.md",
+      "sha256": "4034478a9a0302fef682d88ff83dbf6c80e672751e43531fae4ab09c9c7c654a",
+      "read_scope": "Full charter, including C8 and Juris/XJuris read this turn; §§18,25–30 also refreshed while drafting.",
+      "authority": "Author design intention, not proof of implementation or public jurisdiction"
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/8 Neufacture, Industry, Material Lifecycle Charter.md",
+      "sha256": "22bc7951c6a3d10e44e3efda588c18b85fd9679307e38491878d5b51a77dfd47",
+      "read_scope": "Full TACK§§15.1–15.9, lines5012–5367; not whole Neufacture charter again this turn.",
+      "authority": "Author design intention, not proof of implementation or public jurisdiction"
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/6 MOxAIC Charter.md",
+      "sha256": "7e7cf07cd5bb48dfa60bd85ea8753f3b960e63b3a1dcb974b053430981c3cfc5",
+      "read_scope": "Selected substantive §§1.3–1.4,4.1–4.8,10.1–10.8,16.1–16.8; not whole charter this turn.",
+      "authority": "Author design intention, not proof of implementation or public jurisdiction"
+    }
+  ],
+  "preservation_checks": {
+    "chapter_historical_braid_verbatim": true,
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "chapter_closing_verbatim": true,
+    "interlude_closing_verbatim": true,
+    "old_technical_mirror_preserved_verbatim": true,
+    "no_author_annotations_removed": true,
+    "source_snapshot_matches": true,
+    "only_two_manuscripts_prepared": true
+  },
+  "preflight": {
+    "manuscripts/volume-3/30-chapter.md": {
+      "defined_notes": 11,
+      "note_references": 11,
+      "bookwide_collisions": [],
+      "math_nodes": 0,
+      "image_paths": [
+        "../assets/shared/chapter-arrow.png"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 11
+    },
+    "manuscripts/volume-3/30-interlude.md": {
+      "defined_notes": 10,
+      "note_references": 10,
+      "bookwide_collisions": [],
+      "math_nodes": 1,
+      "image_paths": [
+        "../assets/shared/interlude-gear.png",
+        "../assets/v3-30-interlude/justice-through-the-lifecycle.svg"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 10
+    }
+  },
+  "manifest_changes": "Only v3-30-chapter and v3-30-interlude active_source.sha256",
+  "title_change": "Interlude30 tertiary JURISPRUDENCE -> INTEGRITY; main title/subtitle and unit identities preserved",
+  "manuscripts": [
+    {
+      "path": "manuscripts/volume-3/30-chapter.md",
+      "before_sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "after_sha256": "20250e2be2915ff9e492838b7bcd076418f00a2aff6c5b90f3ba0f439497616a",
+      "before_whitespace_words": 5555,
+      "after_whitespace_words": 5338
+    },
+    {
+      "path": "manuscripts/volume-3/30-interlude.md",
+      "before_sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "after_sha256": "5066ddf587e102b3a54b88f197267e99e9f1b776a4e8492b6ac162d62026c478",
+      "before_whitespace_words": 4341,
+      "after_whitespace_words": 4599
+    }
+  ],
+  "sources": [
+    {
+      "note": "v3-30c-magnacarta",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartaclauses/",
+      "verification_scope": "Official parliamentary reproduction of clause40 and historical caveat read; exact20-word excerpt checked",
+      "limits": "No claim of universal original rights; replaces uncertain Gladstone attribution.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30c-sen",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/1998/sen/biographical/",
+      "verification_scope": "Relevant primary autobiographical discussion of capabilities and substantive freedom returned in search; direct subsequent open403",
+      "limits": "Conceptual foundation only; staircase and civic-design examples are ours. No full publication review claimed.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30c-dmn",
+      "url": "https://www.omg.org/dmn/",
+      "verification_scope": "Official overview, decision requirements and tables read",
+      "limits": "No claim of newest standard version; representation does not grant normative legitimacy.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30c-fairness",
+      "url": "https://arxiv.org/abs/1703.00056",
+      "verification_scope": "Extended2017primary abstract read; shorter2016abstract also checked; publisher DOI10.1089/big.2016.0047 metadata verifies BigData5(2),153–163",
+      "limits": "Qualified conflict among specified criteria under assumptions, not impossibility of all fairness. Full derivation not re-read in this pass.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-fairness",
+      "url": "https://arxiv.org/abs/1703.00056",
+      "verification_scope": "Extended2017primary abstract read; shorter2016abstract also checked; publisher DOI10.1089/big.2016.0047 metadata verifies BigData5(2),153–163",
+      "limits": "Qualified conflict among specified criteria under assumptions, not impossibility of all fairness. Full derivation not re-read in this pass.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30c-stpa",
+      "url": "https://psas.scripts.mit.edu/home/books-and-handbooks/",
+      "verification_scope": "Official handbook listing and indexed handbook p19 discussion of unsafe interactions, flawed requirements and hazards without failures; primary MIT-hosted STPA workshop materials corroborate unsafe control-action categories",
+      "limits": "Direct handbook fetch timed out. No full-handbook reading claimed. Civic application is original design illustration, not an STPA proof of justice.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-stpa",
+      "url": "https://psas.scripts.mit.edu/home/books-and-handbooks/",
+      "verification_scope": "Official handbook listing and indexed handbook p19 discussion of unsafe interactions, flawed requirements and hazards without failures; primary MIT-hosted STPA workshop materials corroborate unsafe control-action categories",
+      "limits": "Direct handbook fetch timed out. No full-handbook reading claimed. Civic application is original design illustration, not an STPA proof of justice.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30c-remedy",
+      "url": "https://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf",
+      "verification_scope": "Official principles22,25,31 and relevant commentary indexed passages checked",
+      "limits": "General institutional foundation, not Canadian legal advice or a claim of enacted future jurisdiction.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-juran",
+      "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000006236427",
+      "verification_scope": "National Diet Library first-edition metadata:NewYork,McGraw-Hill,1951,800pp; ASQ institutional history independently confirms first publication1951",
+      "limits": "No invented exact publication day, no claim that quality control began1951. Book not read in full.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-fitness",
+      "url": "https://www.juran.com/blog/features-of-quality-definition-of-quality-excellence/",
+      "verification_scope": "Juran Institute indexed primary institutional explanation of fitnessforuse checked",
+      "limits": "Does not establish exact wording in1951edition; broader civic interpretation identified as ours.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-assurance",
+      "url": "https://ntrs.nasa.gov/citations/20160000772",
+      "verification_scope": "NASA primary abstract, author list, reportnumber and September2015 publication metadata read",
+      "limits": "Claims/argument/evidence and less-than-proof status supported; detailed civic case is original. Full report not read.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-contract",
+      "url": "https://www.eiffel.com/values/design-by-contract/",
+      "verification_scope": "Official developer explanation of preconditions, postconditions and invariants read",
+      "limits": "No adoption of marketing claims that contracts prove all correctness; requirements and civic obligations remain contestable.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-quickcheck",
+      "url": "https://research.chalmers.se/en/publication/237427",
+      "verification_scope": "Authors institution metadata/abstract and ACM publisher indexed metadata; ICFP2000,268–279,DOI10.1145/351240.351266 checked",
+      "limits": "Generated testing checks stated properties, not their moral sufficiency or universal correctness.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-metamorphic",
+      "url": "https://arxiv.org/abs/1807.10453",
+      "verification_scope": "Authors, abstract, version dates and published DOI10.1109/TR.2020.2972266 read",
+      "limits": "Original experiments concern unsupervised clustering; civic invariance examples are our extensions, not reported experiments.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-events",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing",
+      "verification_scope": "Official pattern relevant reconstruction, versioning, ordering, idempotency and privacy/retention sections read",
+      "limits": "Selective architecture choice; no perfect erasure plus exact replay promise. Neo4j is author-established implementation direction, not an EventSourcing requirement.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30i-compensation",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction",
+      "verification_scope": "Official pattern solution, concurrent-state limits, idempotency, retries and irreversible effects read",
+      "limits": "Technical compensation does not establish adequate moral/legal remedy.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-30-kaveh",
+      "verification_scope": "Inherited historical source note and associated braid preserved verbatim; not independently re-verified this pass",
+      "limits": "Original dating and literary/jurisdictional/evidentiary qualifications retained."
+    },
+    {
+      "note": "v3-30-ferdowsi",
+      "verification_scope": "Inherited historical source note and associated braid preserved verbatim; not independently re-verified this pass",
+      "limits": "Original dating and literary/jurisdictional/evidentiary qualifications retained."
+    },
+    {
+      "note": "v3-30-oil",
+      "verification_scope": "Inherited historical source note and associated braid preserved verbatim; not independently re-verified this pass",
+      "limits": "Original dating and literary/jurisdictional/evidentiary qualifications retained."
+    },
+    {
+      "note": "v3-30-icj",
+      "verification_scope": "Inherited historical source note and associated braid preserved verbatim; not independently re-verified this pass",
+      "limits": "Original dating and literary/jurisdictional/evidentiary qualifications retained."
+    },
+    {
+      "note": "v3-30-rosenberg",
+      "verification_scope": "Inherited historical source note and associated braid preserved verbatim; not independently re-verified this pass",
+      "limits": "Original dating and literary/jurisdictional/evidentiary qualifications retained."
+    }
+  ],
+  "future_assessment": {
+    "gate": "Justice Across the Chain — 9 AM, 11 September 2046",
+    "status": "Ambitious conditional planning state, not externally validated prediction or first-invention date",
+    "assumptions": "Mature agentic participation, stronger consequence analysis and authorized correction across systems; resources, adoption, governance and legitimate jurisdiction remain material; Neuverse/Tiers success not assumed",
+    "baseline": "Current established assurance, systems-safety, testing, distributed-correction methods and author charters. No speculative capability is presented as currently implemented."
+  },
+  "figure": {
+    "path": "manuscripts/assets/v3-30-interlude/justice-through-the-lifecycle.svg",
+    "authorship": "Original code-native grayscale vector",
+    "visual_check": "Final1100x840PNG rendered and inspected: labels, arrows and feedback readable, no overlap; bottom note states protection can begin before investigation concludes. Original grayscale vector, no third-party image."
+  },
+  "reserved": [
+    "Actual projection prose and personal detail",
+    "Closing reconciliation and final cadence",
+    "Noesis and Open30",
+    "Further author Alice/Bob development",
+    "Whole-volume consistency and handoff"
+  ],
+  "post_install_checks": {
+    "canonical_validation": [
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
+        "sha256": "20250e2be2915ff9e492838b7bcd076418f00a2aff6c5b90f3ba0f439497616a",
+        "defined_notes": 11,
+        "note_references": 11,
+        "parsed_notes": 11,
+        "html_note_backlinks": 11,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
+        "sha256": "5066ddf587e102b3a54b88f197267e99e9f1b776a4e8492b6ac162d62026c478",
+        "defined_notes": 10,
+        "note_references": 10,
+        "parsed_notes": 10,
+        "html_note_backlinks": 10,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    ],
+    "git_diff_check": "passed",
+    "publication": "Not run; no deployment or external message"
+  }
+}

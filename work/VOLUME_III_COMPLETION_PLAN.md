@@ -129,3 +129,9 @@ Substantive completion now covers Θ foundations and numbered pairs **23–28**.
 [Brief](volume-3-drafting/29-substantive-completion-2026-11-06.md) and [2044 projections](volume-3-drafting/29-vignette-constructions-2044.md). C29/I29 now teach authority placement, participation and delegation, followed by mandates and interoperable civic execution. Charter responsibilities, fiscal measures and political versus technical agreement are kept distinct. The 751/1926/2044 braid is preserved; I29's technical mirror is explicitly 26 January 1926. Original openings/closings remain reserved, with concrete replacement ideation supplied.
 
 Substantive completion now covers Θ foundations and numbered pairs **23–29**. Final projection prose, closing reconciliation, Noēsis, Opens and whole-volume consistency remain pending for Sam/Claude. The full handoff remains withheld. Pair30 is next when the author requests it.
+
+## Pair 30 substantive pass completed — 6 November 2026
+
+[Brief](volume-3-drafting/30-substantive-completion-2026-11-06.md) and [2046 projections](volume-3-drafting/30-vignette-constructions-2046.md). The expanded scope is justice as civilizational quality, flourishing, prevention and repair, with norms themselves open to redesign. The chapter carries actual design methods; the interlude teaches action-specific assurance and operational correction, including TACK, contracts, testing, CI/CD, causal traces and class-wide remedy. The 1001/1951/2046 braid is untouched; I30's technical mirror is explicitly 1951. Reserved openings/closings have concrete replacement ideation. I30 tertiary becomes INTEGRITY.
+
+Substantive completion covers Θ foundations and numbered pairs 23–30. Final projection prose, closing reconciliation, Noēsis, Opens and whole-volume consistency remain for Sam/Claude. The full handoff remains withheld. Pair 31 is next when requested.

@@ -6,7 +6,9 @@ INTERLUDE 30
 
 *Designing Fairness into Systems*
 
-*JURISPRUDENCE*
+*INTEGRITY*
+
+<!-- Legacy opening retained verbatim as a prose bank, not the approved 2046 projection. Reconstruct as a prospective builder reflection at 9 AM, 11 September 2046; see work/volume-3-drafting/30-vignette-constructions-2046.md. Its existing fictional review remains available to Sam/Claude. -->
 
 Nothing had broken.
 
@@ -114,717 +116,154 @@ That is why integrity cannot be a virtue painted onto the wall.
 
 It must be built into the architecture.
 
-## Optics, Compass, Clinic
+<!-- End of reserved opening. AI-assisted substantive completion, 6 November 2026. Earlier undated technical mirror retained separately. -->
 
-Justice needs optics, compass, and clinic.
+## 1951: Quality Acquires a Handbook
 
-First, optics.
+In **1951**, the same year as Iran's oil nationalization and the Rosenbergs' trial, McGraw-Hill published the first *Quality-Control Handbook*, edited by Joseph M. Juran. The date belongs exactly to our institutional marker. The book did not invent quality control; it assembled a substantial engineering discipline into a working reference.[^v3-30i-juran]
 
-Ibn al-Haytham helped teach civilization that vision is not a magical emission from the eye but a path of light entering it. Seeing had structure. Evidence had a route. Perception could be studied, distorted, corrected, and disciplined.
+Juran's formulation of quality as *fitness for use* offers a useful entrance.[^v3-30i-fitness] A component can conform to its specification while the assembled service fails the person using it. Our further question is what that use ought to be. A wonderfully reliable machine for manufacturing dependency still requires a design review (possibly with fewer congratulations).
 
-Justice needs the same lesson.
+The **1001** chapter marker found Ferdowsi composing a poem in which a ruler's certificate could be torn apart by the person it purported to vindicate. By **1951**, our parallel history supplies a handbook for examining whether production fulfils its promises. At the **2046** gate, the proposed task is to carry that scrutiny through institutions, agents and their material consequences, while keeping the promises themselves open to challenge. The passage from quality control to civilizational integrity is our design argument; it is not something we are attributing to Juran.
 
-Evidence is not a surface. It is a path.
+## Build an Argument That Can Lose
 
-A record reaches a decision through capture, storage, transformation, interpretation, classification, presentation, and judgment. At every step, it may bend. A video may be authentic but misleading. A model output may be precise but misapplied. A witness may be truthful but incomplete. A sensor may be calibrated yesterday and wrong today. A log may be complete but stripped of context.
+A test suite begins with expectations. If those expectations encode an injustice, passing the tests will reproduce it efficiently. The builder needs an explicit account of why the expected behavior deserves confidence.
 
-Without optics, justice trusts appearances.
+An *assurance case* connects a claim to supporting evidence through a reasoned argument. It states the context and assumptions under which the claim holds. It can include test results, analysis, operational observations and independent review. It is not an unequivocal proof; a well-structured case should make its weaknesses easier to find.[^v3-30i-assurance]
 
-Second, compass.
+For our temporary-address example, a useful top-level claim is narrow: *this service can handle a disputed address without an unjustified interruption of essential provision*. Supporting claims concern authority, contextual accuracy, continuity capacity, usable review and downstream correction. Evidence might include generated edge cases, simulated outages, actual continuity performance and testimony from people who encountered the process. An impressive model benchmark addresses only a small part of that claim.
 
-The discovery that magnetic north differs from true north is a beautiful humiliation. A compass can point reliably and still mislead if the navigator forgets declination. Orientation requires calibration.
+Keep a counterargument alongside the evidence. The fallback provider may have no spare capacity. A temporary flag may be discarded by a downstream service. People who cannot obtain the required credential may never appear in the success statistics. These are reasons to revise the design, not defects in the report's tone.
 
-So do justice systems.
+An assurance case also expires in parts. A policy change can invalidate a test's assumptions without changing a line of code. A model update can alter behavior while preserving the interface. A depleted reserve can make a once-valid continuity claim false. Link each material change to the claims that must be reconsidered. The certificate should know what would make it stop certifying.
 
-A risk score may point consistently.
+## TACK at the Point of Action
 
-A model may classify reliably.
+Neuverse's proposed **TACK** discipline asks whether a capability is **Tactical, Aligned, Constrained and Knowable**. It applies to an action or capability in context, including the introduction of a sensor, a service or a decision rule. A sensor changes who can know and act; installing one is already an intervention.
 
-A workflow may route predictably.
+| TACK question | Obligation in the temporary-address service | Evidence that could defeat the claim |
+| --- | --- | --- |
+| **Tactical:** what legitimate purpose does this action serve here? | Resolve the relevant eligibility uncertainty while preserving essential continuity. | The requested domestic history does not affect the decision. |
+| **Aligned:** which values and affected interests must survive? | Respect care, privacy, accountable provision and the resources supporting it. | Cost savings depend on leaving affected people without an alternative. |
+| **Constrained:** what bounds the action and its consequences? | Limit data access, delegated powers and the duration of provisional restrictions; provide review. | A temporary classification becomes a permanent cross-service exclusion. |
+| **Knowable:** what can someone inspect and contest? | Record material evidence, rule versions, authority, uncertainty and actual effects. | The operator can explain the intended workflow but cannot establish what happened. |
 
-A tax formula may calculate perfectly.
+These are design obligations for this example, not a universal certification recipe. C8 supplies values; MOxAIC exposes the orders and burdens crossing here; TACK asks whether the proposed operation respects them in practice. If the conflict is unresolved, a green badge cannot resolve it.
 
-But if the whole instrument is offset by history, missing data, proxy bias, bad objectives, or unexamined assumptions, then the system follows its compass into the swamp and congratulates itself on consistency.
+In Tiers, several layers participate: relations describe relevant dependencies, orchestration carries obligations across work, and organs supply purpose and legitimate service. An organ includes people and accountability as well as software. TACK is not merely an external connector check, and the intrinsic *x* of MOxAIC is not an API we can install to make values agree.
 
-Integrity requires calibration.
+## The Failure Is Between the Green Checks
 
-Third, clinic.
+Use *Systems-Theoretic Process Analysis* to examine the control arrangement. Identify the losses to prevent, the hazardous conditions, the controllers and their feedback. Then examine control actions that are missing, unsafe in context, mistimed or sustained for the wrong duration.[^v3-30i-stpa]
 
-Avicenna's medical canon helped organize clinical observation, standards, trials, quarantine, and disciplined care. Medicine became more systematic because human suffering deserved more than improvisation. But canon can also harden. Standards can preserve knowledge and block correction. Procedure can heal and ossify.
+Here, an eligibility service issues a withdrawal, a provision service executes it, and a review service receives the complaint. The hazardous condition is an interruption of essential provision without a timely legitimate alternative. It may occur even if every local component follows its instructions.
 
-Justice needs the clinic's discipline without the canon's arrogance.
+The control model is wrong if an address change is assumed permanent. Feedback is inadequate if the withdrawal is acknowledged by the software but nobody checks whether replacement provision exists. Timing is unsafe if review finishes after the need becomes acute. Authority is incomplete if the person observing the danger cannot authorize continuity. These are different defects; replacing the classifier addresses only one of them.
 
-Observe carefully.
+The resulting constraint should reach the whole path: no interruption solely on that unresolved inference, unless an authorized alternative preserves the relevant protection or a separately justified action requires it. The rule needs explicit exceptions and a means of resolving them. It also needs resources. An invariant that requires an unavailable provider is an unfunded wish in mathematical clothing.
 
-Classify humbly.
+![A justice feedback loop connects purpose and constraints, release evidence, authorized operation and observed effects. A detected hazard or challenge starts protection and investigation in parallel; repair reaches all affected cases, verification checks actual outcomes, and the findings return to the original purpose and rules.](../assets/v3-30-interlude/justice-through-the-lifecycle.svg){#fig-v3-30-integrity width=95% fig-alt="A two-way justice lifecycle: purpose and constraints lead through evidence and authorized operation to observed effects. Hazards or challenges open parallel protection and investigation, followed by class-wide repair and independent verification. Verified findings revise purposes, rules and operating constraints. Contested matters remain open."}
 
-Treat proportionally.
+The return path matters as much as the release path. An observation that disproves the design's purpose must be able to change that purpose. Otherwise we have built an excellent maintenance department for the wrong machine.
 
-Track outcomes.
+## Contracts Across the Handoff
 
-Revise when evidence changes.
+*Design by Contract* specifies preconditions, postconditions and invariants: what must hold before an operation, what it promises afterward, and what must remain true.[^v3-30i-contract] For a consequential action, these need to cover authority and meaning as well as data types.
 
-Know when isolation protects and when it imprisons.
+Before withdrawing a service, the executor must have the applicable mandate, the current rule version and evidence meeting the declared standard. Afterward, it must record what actually changed and which parties received notice. Across the workflow, unresolved temporary context must not silently become a final adverse fact.
 
-Justice needs optics, compass, and clinic: correct seeing, calibrated orientation, disciplined care.
+A decision table can make the combinations explicit. In a simplified design, confirmed eligibility continues provision; material uncertainty opens review with authorized continuity; a justified restriction follows its own proportionate, reviewable route. A missing field takes the uncertainty route. It must not acquire the meaning of false merely because the programming language finds that convenient.
 
-Without optics, evidence becomes theater.
+These contracts belong to the services and institutions exercising power. They do not become extra forms that an injured person must complete. Nor do assertions in code prove the complete arrangement safe. A precondition can be wrong, a necessary condition omitted, and a downstream system outside the tested boundary.
 
-Without compass, systems drift while pointing confidently.
+Test the handoff itself. Drop the temporary-context marker. Deliver an old decision after its correction. Duplicate a notice. Lose the receiving service's acknowledgement. Check that the system preserves continuity, rejects stale authority where appropriate and exposes unresolved work. The test passes when the intended protection survives, not when all processes exit successfully.
 
-Without clinic, harm is diagnosed too late and treated as paperwork.
+## Tests That Ask Better Questions
 
-## Compliance Is Not Integrity
+*Property-based testing* generates many cases against a declared property.[^v3-30i-quickcheck] Here, a correction to an adverse inference should not leave a dependent service executing the superseded decision. Generate changes of address, conflicting evidence, reordered messages and service interruptions. Record the cases that falsify the claim and make them reproducible regression tests.
 
-Compliance asks whether the procedure was followed.
+*Metamorphic testing* checks relations between related inputs and outputs when a complete answer oracle is unavailable.[^v3-30i-metamorphic] If a presentation detail is declared irrelevant, changing only that detail should not change the applicable decision. If two records contain the same material evidence in different orders, ordering alone should not alter the result. These relations must be justified for the task. Treating every contextual difference as irrelevant would manufacture a new unfairness.
 
-Integrity asks whether the procedure deserved to be followed.
+Keep outcome tests separate from label imitation. Historical decisions can contain the very inequity the redesign aims to remove. Include affected people's counterexamples, cases outside the training distribution, resource shortages and interactions with other services. For AI-generated tests, inspect whether the generator merely shares the builder's assumptions. More tests with the same blind spot give it better company.
 
-This distinction is not decorative. It is the hinge of the interlude.
+Statistical fairness measures need a declared purpose and denominator. Report serious errors, their distribution and the availability of remedy, alongside aggregate performance. Some fairness criteria are incompatible under specified conditions; a test suite cannot make that political and ethical choice disappear.[^v3-30i-fairness] Examine whether changing the service can reduce the conflict before optimizing the score.
 
-Compliance asks:
+## Release the Change, Keep the Obligation
 
-Were fields completed?
+Continuous integration and delivery can carry this discipline into ordinary work. A consequential change has a bundle of versions: code, model, data transformation, decision policy, delegated authority and dependencies. The release must identify which bundle the evidence supports. Changing the policy through a configuration screen is still a release of power.
 
-Was policy obeyed?
+Run the candidate against recorded or carefully constructed cases without repeating real actions. Where lawful and appropriate, *shadow operation* compares proposed decisions with the live arrangement while withholding the candidate's actuations. Simulation can expose failures; it cannot establish that unmodelled harms do not exist. A limited rollout likewise needs an adequate basis for use, monitoring, exit and remedy. Calling it a canary does not exempt the people in it from having lungs.
 
-Did the model meet threshold?
+At runtime, an independently maintained control can enforce a bounded action envelope: permissions, resource ceilings, required evidence, prohibited transitions and conditions requiring escalation. Independence here needs attention to ownership, failure modes and common assumptions; running the same model twice is not automatically a second opinion.
 
-Was the rule applied consistently?
+The fallback depends on the consequence. A potentially dangerous machine may need to stop. An essential support service may need to continue provision under a bounded, funded authorization while the dispute is resolved. “Fail closed” and “fail open” are incomplete instructions until we name what closes, who loses access and what remains available.
 
-Was the signature valid?
+This can permit more useful autonomy. Within a justified envelope, agents can identify errors, supply authorized continuity and carry corrections without waiting for a committee to bless every obvious repair. Actions outside that mandate need another route. Speed is valuable where it shortens harm; legitimacy determines which work may be accelerated.
 
-Was the appeal path assigned?
+## Keep the Evidence Typed
 
-Integrity asks:
+A usable trace distinguishes an observation from an inference, a proposal from an authorization, and a command from a completed effect. Record when the underlying event occurred as well as when the system received it. A fresh timestamp on an old fact is a remarkably portable mistake.
 
-Was the person treated fairly?
+For a material decision, preserve the relevant rule and model versions, evidence references, mandate, uncertainty, effective period, downstream dependencies and available correction route. This is selective evidence, with purpose, access and retention limits. A universal biography is neither necessary nor innocent.
 
-Was the evidence valid?
+Event sourcing can reconstruct state from recorded events, although a well-designed state store with an adequate audit trail may be simpler. Sensitive payloads need not live forever in an append-only log; protected references and explicit retention decisions can limit exposure.[^v3-30i-events] Where deletion prevents exact reconstruction, acknowledge that limit. Do not promise both perfect historical replay and complete erasure of the same information.
 
-Were the categories just?
+Neo4j, the current Neuverse implementation direction, can help traverse dependencies: this classification influenced these decisions, which triggered these actions. That makes a correction search possible. The graph records asserted or observed relationships; it does not establish causation by drawing an edge. Feedback loops are allowed in the broader model. A particular event history may impose ordering constraints without making civilization a directed acyclic graph.
 
-Did handoffs preserve context?
+Evidence of behavior also differs from a model's account of its reasoning. A fluent explanation cannot establish which tool ran, what information was supplied or whether a service arrived. Keep externally checkable action records and outcome evidence. Confidence should have something outside its own voice to lean on.
 
-Could the person contest?
+## Two Tracks After a Warning
 
-Was harm limited?
+A report of credible harm should start two connected tracks: **protection and continuity**, and **investigation and accountability**. The first cannot always wait for the second to finish. Neither should silently close the other.
 
-Did the system learn?
+Before operation, assign the receiving duty, interim powers, funding and escalation paths. A person can challenge the outcome without identifying the defective component. The case acquires an accountable route; the institutions resolve their internal routing problem. A correction should not expire because the complaint was initially addressed to the wrong department.
 
-Was repair made?
+For a specified hazard, a useful engineering requirement is:
 
-Compliance is what a system says to avoid shame.
+$$
+T_{\mathrm{detect}}+T_{\mathrm{protect}}<T_{\mathrm{harm}}.
+$$
 
-Integrity is what remains after the harmed person is allowed to speak.
+Here, detection time is measured from the start of the hazardous condition; protection time is the additional time after detection until protection becomes effective. The harm interval runs from that same hazardous condition to the earliest credible occurrence of the specified serious harm. This is a design constraint for a bounded case, not a universal law of justice. If the bound is too uncertain or the inequality cannot be supported, redesign the exposure or establish protection before entering it. Averaging fast and slow responses will not protect the person in the slow tail.
 
-The green checkmarks in Mara's case were compliance artifacts. They were not lies. That was the unsettling part. Each component had done what it was designed to do. The identity system did not maliciously erase context. The eligibility engine did not wake in the night and scheme against bathing assistance. The care mesh did not hate Mara's mother.
+Review then needs evidence, independence, competence and power to act. A reviewer who can only repeat the original model's result is a latency device. State what the institution must demonstrate, what the claimant is not required to prove and how unresolved facts affect provisional measures. Serious restrictions require their own justification and review; predicted wrongdoing alone is not a finding of guilt.
 
-The system failed with clean hands.
+## A Patch Has to Reach a Life
 
-Integrity begins when clean hands are no longer a defense.
+After an error is established, correction has a scope. Find decisions dependent on the faulty rule or evidence, identify affected cases through authorized queries, and distinguish clear corrections from cases needing individual review. The search includes people who never complained. It must also acknowledge the people missing from the available records.
 
-A locally compliant system can produce global injustice. A locally accurate model can contribute to an unfair outcome. A locally valid rule can be harmful in a context it was not built to see.
+Send versioned correction instructions to dependent services. Each reports whether it applied the correction and which effects remain unresolved. Retries need idempotent handling so a repeated instruction does not create duplicate compensation or contradictory state. An unreachable service enters a tracked escalation path. Silence cannot count as acceptance.
 
-So integrity protocols must evaluate not only nodes, but interfaces.
+A *compensating transaction* helps undo or offset completed steps across distributed services, and may itself require retries or intervention.[^v3-30i-compensation] Its name does not settle what a person is owed. Reversing a ledger entry cannot undo an injury, and restoring yesterday's database may destroy legitimate changes made since then. Identify reversible state, compensable effects and irreparable losses separately.
 
-Not only rules, but handoffs.
+Verify outcomes at the appropriate boundary. A corrected eligibility record is one result; resumed provision is another. Receiving the ordered service is another again. Verification should use proportionate evidence and accessible confirmation without burdening people with repeated proof of their own lives. Outstanding consequences remain open even after the software defect is fixed.
 
-Not only outputs, but human consequences.
+This gives a civic postmortem something concrete to produce: an account of contributing conditions, duties and choices; funded remedies; changes to the recurring cause; and a date to verify the effect. A no-blame learning process can coexist with a separate accountable investigation. Neither “everyone followed procedure” nor “one person failed” is an adequate endpoint by itself.
 
-Not only compliance, but wholeness between purpose, process, and outcome.
+## Observe the Observer
 
-## Decision Traceability
+The integrity machinery can cause harm too. It can overcollect, harass people with verification requests, normalize a majority's values or suppress reports to improve its own metrics. Give it the same obligations it imposes elsewhere: scoped purpose, contestable authority, retention limits and independent review.
 
-Every consequential decision needs a trace.
+Measure unresolved serious harms and time to effective protection, not merely ticket closure. Examine repeated burdens, missing populations and whether repairs survive beyond the first successful case. Low complaint rates can mean little harm, little access or little faith in the process. The number needs an explanation.
 
-Not a decorative explanation.
+Reliability targets can allocate engineering effort, but an error budget is not a licence to injure a proportion of the population. Some constraints prohibit an action; some risks need reduction and informed, legitimate acceptance; some losses call for immediate protection regardless of whether the quarterly average looks excellent. Keep those categories distinct.
 
-A trace.
+By **2046**, capable agents could maintain much of the evidence, search dependencies, generate adversarial cases and carry authorized repairs across services. The design achievement would be a network able to improve its own operation while remaining answerable to those living with it. No dashboard gets to declare that achievement on its own behalf.
 
-A decision trace records the path by which a system touched a life: decision point, responsible system or actor, evidence used, model version, policy rule, confidence level, uncertainty, alternatives considered, human review status, override options, appeal path, and remedy route.
+## Bob at the Crossing: Can Repair Travel as Well as Failure?
 
-If a system cannot explain the path by which it touched a life, it has no business touching one.
+Failures propagate through dependencies with little ceremony. A bad category can become a denied service, a missed obligation, a new risk flag and another denied service. Correction usually travels with less enthusiasm.
 
-This is more than explainability. Explainability often means a model producing a polite paragraph after the fact, like a student explaining why the vase broke while hiding the ball. Traceability is institutional memory of action. It tells us what happened, where, under whose authority, and with what assumptions.
+I would like to explore a **repair protocol** that carries more than a revised value. It would carry the reason for correction, the affected scope, the authority to act, required continuity, outstanding consequences and the evidence needed to close each obligation. Receiving systems would translate that obligation into their own context while preserving what matters. Where translation fails, they would expose the conflict instead of quietly acknowledging receipt.
 
-A trace should answer:
+Distributed transactions, assurance cases and existing remediation practices provide pieces. The open wager is whether we can compose those pieces across institutions whose meanings, duties and capabilities differ, without installing a central interpreter entitled to settle every conflict. An AI might generate a proposed repair plan and its testable obligations. Affected people and authorized bodies would retain ways to challenge both the plan and the assumptions beneath it.
 
-What decision was made?
+Test it on one recurring failure with several downstream effects. Compare it with ordinary case-by-case correction. Does it reduce repeat harm, reach silent cases and preserve legitimate differences? Does it disclose uncertainty and resist capture? Does a later review find that the remedy itself created a new dependency? These outcomes would determine whether the idea deserves expansion.
 
-What triggered it?
+The ambitious part is not automatic absolution. It is making a civilization's capacity to correct itself propagate with something approaching the speed of its mistakes.
 
-Which evidence entered?
-
-Which evidence was ignored?
-
-Which model or rule applied?
-
-What version?
-
-What confidence?
-
-What uncertainty?
-
-Was there a human review?
-
-Was the human allowed to change the outcome?
-
-What recourse was offered?
-
-What happened during appeal?
-
-Without traceability, injustice dissolves into fog.
-
-With traceability, the system can be challenged, corrected, audited, and improved.
-
-Traceability does not solve justice.
-
-It gives justice something to hold.
-
-## Evidence Is a Journey
-
-Evidence is not a thing.
-
-It is a journey.
-
-This is why evidence provenance belongs at the heart of integrity. The system must know source, timestamp, custody, transformations, synthetic or altered status, uncertainty, witness context, sensor reliability, model-generated influence, adversarial manipulation, and audit logs.
-
-A piece of evidence may begin as a sensor reading, become a data point, enter a model, inform a score, become a recommendation, trigger a denial, and appear to a human reviewer as a fact. By then, it has changed clothes several times. The reviewer must know whether it is still evidence or merely evidence-flavored bureaucracy.
-
-In the Hall of Mirrors, forged media and synthetic records deepen the problem. But the issue is older than deepfakes. Courts have always wrestled with hearsay, chain of custody, unreliable witnesses, coerced statements, corrupted records, planted evidence, and interpretations pretending to be facts. Machine systems do not create the problem. They accelerate and disguise it.
-
-Evidence provenance should distinguish:
-
-Raw observation.
-
-Processed data.
-
-Inferred data.
-
-Model output.
-
-Human interpretation.
-
-Contested record.
-
-Synthetic reconstruction.
-
-Corroborated claim.
-
-Unverified claim.
-
-A justice system that cannot distinguish these will eventually punish someone for a shadow with metadata.
-
-Evidence without provenance is rumor wearing a suit.
-
-And rumor, once dressed, tends to receive invitations.
-
-## Fairness Is Not One Knob
-
-Fairness is not a single knob.
-
-It is a board of tensions pretending to be a virtue.
-
-Equal access. Equal error rates. Proportional burden. Protection of vulnerable groups. Individual fairness. Group fairness. Procedural fairness. Outcome fairness. Historical repair. Geographic fairness. Intergenerational fairness. Each matters. Each can conflict with another.
-
-Fair to whom, under what history, for what decision, at what cost?
-
-A system may equalize average outcomes while hiding unequal burdens. It may treat everyone the same and thereby reproduce past harm. It may correct for historical bias and generate new resentment if the rationale is hidden. It may optimize individual consistency while harming a group. It may protect a group while misreading an individual. It may maximize access but reduce safety. It may reduce false positives by increasing false negatives. It may protect privacy and reduce accountability.
-
-No fairness metric solves justice.
-
-Metrics are instruments.
-
-Not judges.
-
-The integrity protocol must force builders to specify fairness claims.
-
-What fairness dimension applies here?
-
-Why this one?
-
-What tradeoff does it create?
-
-Who bears the cost?
-
-Who was consulted?
-
-How will we know if the fairness rule itself becomes unfair?
-
-Fairness that cannot state its own tension is probably hiding one.
-
-## Edge Cases Are Where People Live
-
-Edge cases are often where real people live.
-
-This line should be painted above every model evaluation console, ideally in a color that offends overconfidence.
-
-Systems should be tested against protected classes, rare cases, ambiguous identities, jurisdictional overlaps, language differences, disability, poverty, digital exclusion, Indigenous and community-specific contexts, data gaps, adversarial conditions, forged evidence, crisis mode, and people whose lives refuse the standard dropdown.
-
-An edge case is not always rare.
-
-It is sometimes only rare in the dataset.
-
-Or rare to the designers.
-
-Or rare in the lives of those whose lives the system recognizes.
-
-Mara was an edge case because her temporary post-surgery stay crossed residency signals, care eligibility, and jurisdictional rules. But temporary care situations are not exotic. Families do this constantly. Bodies fail on inconvenient schedules. People move to sisters, sons, daughters, friends, spare rooms, couches, and places where help exists. The system called it edge because its categories were dull.
-
-Bias testing must include such reality.
-
-Test the elderly person with two addresses.
-
-The child under informal guardianship.
-
-The rural resident with unstable connectivity.
-
-The person whose name appears differently across records.
-
-The Indigenous community whose standing does not fit municipal categories.
-
-The disabled person whose mobility signal looks anomalous.
-
-The immigrant whose documents lag reality.
-
-The caregiver whose contribution is invisible.
-
-The person harmed by forged evidence.
-
-The one whose life is statistically inconvenient.
-
-If the system fails only at the edges, then the edges are where justice must begin.
-
-## Contestable Automation
-
-A decision that cannot be contested is not automation.
-
-It is a verdict in disguise.
-
-Any automated decision with significant impact must be contestable. This includes benefit denial, care routing, risk classification, employment filtering, education placement, tax assessment, machine-burden allocation, public safety restriction, identity rejection, and civic-role exclusion.
-
-Contestability requires:
-
-Human-readable reason.
-
-Access to evidence.
-
-Appeal interface.
-
-Pause or hold during appeal when stakes are high.
-
-Human review.
-
-Correction pathway.
-
-External escalation.
-
-Time limits.
-
-Remedy if the system caused harm.
-
-A contestable system should not require the person to prove the machine is wrong while the harm proceeds. That is like asking a drowning person to file a hydrological objection before being rescued.
-
-Contestability also requires the system to know what part can be contested.
-
-Data.
-
-Category.
-
-Rule.
-
-Model inference.
-
-Jurisdiction.
-
-Identity credential.
-
-Risk threshold.
-
-Evidence provenance.
-
-Human override.
-
-Remedy.
-
-A person saying "this is wrong" should not have to guess which layer of the machine made the wrongness official.
-
-The appeal path should find the layer.
-
-That is what the system is for.
-
-## Due Process as Workflow
-
-Due process must become workflow architecture.
-
-Notice.
-
-Reason.
-
-Evidence.
-
-Response opportunity.
-
-Neutral review.
-
-Timely decision.
-
-Appeal.
-
-Remedy.
-
-Record correction.
-
-Learning loop.
-
-This is the civic equivalent of a good interface. Not because justice should be reduced to software, but because interfaces determine whether rights can be used.
-
-Due process should be as carefully designed as payment flow. Civilization has somehow managed to make buying shoes easier than appealing a decision about one's life.
-
-Notice means the person knows a decision was made or is pending.
-
-Reason means the system explains why in human language.
-
-Evidence means the person can see what was used.
-
-Response means the person can answer before harm becomes fixed where possible.
-
-Neutral review means the appeal is not judged by the same mechanism defending itself.
-
-Timeliness means justice understands the human unit of time.
-
-Appeal means higher or external review exists.
-
-Remedy means reversal is not the only repair.
-
-Record correction means the error does not keep walking.
-
-Learning loop means the system changes when patterns emerge.
-
-Due process is not paperwork.
-
-It is dignity structured into time.
-
-## Proportionality Protocols
-
-The less certain the system is, the more reversible its action should be.
-
-That rule belongs near the core of integrity architecture.
-
-Proportionality protocols ask: severity of potential harm, certainty of evidence, reversibility of action, impact on rights, vulnerability of affected person, historical bias risk, availability of less restrictive alternatives, time sensitivity, and whether the action is preventive or punitive.
-
-A high-certainty, high-harm situation may justify strong intervention.
-
-A low-certainty, high-rights-impact situation demands caution.
-
-A moderate risk may justify support, monitoring, or human review, not exclusion.
-
-A temporary uncertainty should not trigger permanent penalty.
-
-A reversible hold may be appropriate where irreversible denial is not.
-
-Proportionality prevents systems from escalating uncertainty into punishment.
-
-It also protects victims and communities from underreaction where harm is real. Proportionality is not softness. It is scale discipline.
-
-The fly does not require artillery.
-
-The bridge crack does not require a shrug.
-
-Justice needs a sense of size.
-
-## Prevention Without Punishment
-
-Prevention should first modify environments, not condemn persons.
-
-This is how justice avoids pre-crime tyranny.
-
-Systems can prevent harm by changing conditions, offering support, mediating conflict, adding friction to dangerous processes, increasing human review, improving infrastructure, reducing incentives for harm, and detecting unsafe systemic patterns.
-
-Systems should not prevent harm by punishing probability, restricting rights without evidence, converting risk into guilt, assigning permanent suspicion, or quietly narrowing life chances.
-
-A fraud-risk signal may justify human review, not denial.
-
-A violence-risk signal may justify support and de-escalation, not secret punishment.
-
-A care-risk signal may justify outreach, not surveillance.
-
-A school-risk signal may justify resources, not tracking a child into diminished expectation.
-
-A civic-risk signal may justify review of conditions, not branding a community.
-
-The integrity protocol must ask:
-
-Is the intervention aimed at a person or a condition?
-
-Is it reversible?
-
-Is it supportive before punitive?
-
-Is evidence sufficient?
-
-Does it preserve dignity?
-
-Can the person contest?
-
-Could the same goal be achieved with less restriction?
-
-Prevention is care when it changes dangerous conditions.
-
-It becomes domination when it treats people as crimes waiting for scheduling.
-
-## Civic Postmortems
-
-When a justice-relevant failure occurs, conduct a postmortem.
-
-Not a blame bonfire.
-
-Not a liability fog machine.
-
-A blame-aware, learning-first review.
-
-What happened?
-
-What signals were missed?
-
-What assumptions failed?
-
-What handoff broke?
-
-Who was harmed?
-
-What repair is owed?
-
-What rule, model, interface, or incentive must change?
-
-What should be disclosed publicly?
-
-What should be monitored?
-
-Borrow from aviation, medicine, and software, but do not borrow their evasions. "Blameless postmortem" can be useful when honest error needs reporting. It can also become a velvet blanket over negligence. Some failures require accountability. Some require discipline. Some require compensation. Some require redesign. Some require all of the above.
-
-The key is that blame alone is not learning.
-
-And learning without accountability is institutional self-care.
-
-A civic postmortem should identify human errors, system errors, design errors, governance errors, and incentive errors. It should produce action, not catharsis. It should close with review dates, responsible parties, and public summary where appropriate.
-
-If the same failure repeats, the postmortem becomes evidence.
-
-The system has been warned.
-
-## Restorative Pathways
-
-Integrity systems must support repair.
-
-The question is not merely "Was the decision wrong?"
-
-It is:
-
-What would make the harmed person whole enough, and what would make recurrence less likely?
-
-Restorative pathways may include mediated repair, restitution, community restoration, apology protocols, institutional correction, record repair, compensation, reintegration, treatment pathways, non-punitive compliance correction, and public truth processes.
-
-Repair must be appropriate to harm.
-
-A record error may require correction and apology.
-
-A benefits denial may require back payment, emergency bridge, and process change.
-
-A machine-caused injury may require compensation, technical recall, public warning, and accountability chain.
-
-A forged evidence event may require takedown, correction propagation, reputation repair, and legal protection.
-
-A discriminatory model may require affected-person remedy, model rollback, retraining, public report, and external audit.
-
-Restoration is not always reconciliation. Sometimes safety requires separation. Sometimes a harmed person does not owe participation. Sometimes punishment remains necessary. The integrity protocol must not turn restorative language into pressure on victims to absorb harm beautifully.
-
-Repair is owed.
-
-Forgiveness is not a workflow requirement.
-
-## Reliability Engineering for Justice
-
-If we engineer bridges to survive load, we should engineer justice systems to survive power.
-
-Justice systems are critical infrastructure.
-
-They need redundancy, fail-safe modes, human fallback, error budgets, stress testing, adversarial testing, drift monitoring, incident response, rollback, graceful degradation, independent review, and safety cases.
-
-A benefits system should fail open in certain care-critical contexts, offering temporary support while resolving records.
-
-A public-risk system should degrade to human review when evidence provenance is weak.
-
-A cross-jurisdiction workflow should have fallback ombuds when routing fails.
-
-A machine actor registry should trigger incident response when logs disappear.
-
-A model used in high-stakes decisions should be monitored for drift and disparities.
-
-A justice interface should remain accessible during outages.
-
-Reliability engineering asks: what happens when components fail?
-
-Integrity engineering asks: what happens when components succeed locally and fail morally together?
-
-Both are needed.
-
-The justice system should be load-tested against power, uncertainty, bias, overload, crisis, malicious actors, and ordinary human exhaustion.
-
-Because systems rarely fail only during training demos.
-
-They fail on Friday afternoon, during storms, under budget pressure, with one key person away, while the person harmed has no spare patience left.
-
-Design for that.
-
-## Metrics Under Suspicion
-
-A justice metric is guilty until proven humane.
-
-Metrics are useful. Appeal rates, reversal rates, time to resolution, disparities, error clusters, unreviewed automated decisions, harms reported, remedy completion, model drift, ignored evidence --- all can reveal system health.
-
-Metrics also lie by invitation.
-
-Optimize for low appeals and the system may make appeals harder.
-
-Optimize for quick closure and truth gets trampled by throughput.
-
-Optimize for low reversal rates and reviewers become defensive.
-
-Hide disparities in aggregate and injustice becomes statistically polite.
-
-Punish honest error reporting and errors become shy.
-
-Reward "resolved" cases and the system may resolve the ticket while leaving the person unresolved.
-
-Every integrity dashboard should include a warning label:
-
-**This dashboard is an instrument, not a conscience.**
-
-Metrics must be paired with stories, audits, affected-person testimony, external review, and attention to what the metric makes invisible.
-
-If a justice metric improves while harmed people grow quieter, assume the metric has learned to frighten them.
-
-## Human Review That Actually Reviews
-
-"Human in the loop" is often decorative.
-
-A human who can only bless the machine is not in the loop.
-
-He is part of the user interface.
-
-Real human review requires authority to change the decision, time and information to review, independence from the automated recommendation, training, accountability, ability to request more evidence, and protection from rubber-stamping pressure.
-
-Too often, human review becomes theater:
-
-The machine recommends.
-
-The human sees the recommendation.
-
-The human has thirty seconds.
-
-The human fears deviating.
-
-The system records human approval.
-
-Responsibility moves from machine to person with the elegance of a shell game.
-
-That is not review.
-
-That is laundering.
-
-A reviewing human must be able to say:
-
-I disagree.
-
-I need more evidence.
-
-This case does not fit the category.
-
-This action is disproportionate.
-
-Pause harm.
-
-Escalate.
-
-Reverse.
-
-Compensate.
-
-Audit the pattern.
-
-Human review should add judgment, context, and moral responsibility.
-
-If it merely adds a signature, spare the human and indict the design.
-
-## Cross-Jurisdiction Integrity
-
-When authority crosses borders, recourse must cross with it.
-
-The Erased Perimeter makes this essential.
-
-Systems now act across municipal, provincial, federal, Indigenous, private, platform, ecological, and international boundaries. Harm can originate in one layer, manifest in another, and be denied by a third because none sees itself as the whole cause.
-
-Integrity architecture needs interoperable due-process standards, rights floors, mutual audit agreements, dispute routing, shared evidence formats, jurisdiction tagging, conflict-of-law protocols, portable appeals, international/provincial/local coordination, and recognition of Indigenous and treaty jurisdiction.
-
-Otherwise, harmed people become messengers between systems that refuse to meet.
-
-This is not a technical inconvenience.
-
-It is injustice by routing failure.
-
-A portable appeal should travel with the person and the case. A rights floor should prevent a system from escaping obligations by shifting jurisdiction. Mutual audit agreements should let one system inspect the handoff from another. Jurisdiction tags should show what law or covenant applies at each decision point.
-
-The person should not need a master's degree in federalism to receive fairness.
-
-## Integrity Meshes
-
-Oversight cannot be a single office at the end of the hall.
-
-The systems are too distributed.
-
-Integrity meshes are oversight architectures made from auditors, ombuds, community representatives, technical evaluators, legal mediators, affected-person advocates, data stewards, model reviewers, ecological or future-generation proxies where relevant, and independent reviewers.
-
-Their functions:
-
-Review high-stakes systems.
-
-Monitor fairness.
-
-Investigate incidents.
-
-Certify protocols.
-
-Receive appeals.
-
-Publish reports.
-
-Recommend repairs.
-
-Trigger audits.
-
-Escalate patterns.
-
-But integrity meshes carry their own dangers.
-
-Elite priesthood.
-
-Capture.
-
-Procedural bloat.
-
-False legitimacy.
-
-The oversight body that cannot be questioned becomes another power center, this time with nicer language and possibly better snacks.
-
-Safeguards: rotation, transparency, public reports, conflict disclosure, plural representation, appeal against the mesh itself, independent funding, and external review.
-
-An integrity mesh must be strong enough to challenge systems and humble enough to be challenged by those it claims to protect.
-
-Oversight without humility becomes priesthood.
-
-Humility without power becomes decoration.
+<!-- Legacy closing retained verbatim for Sam/Claude; reconcile the Mara callback with the new projection and broaden beyond a one-case fix. Noēsis remains reserved for the literary pass. -->
 
 ## All Green Checks, One Wrong Life
 
@@ -861,3 +300,23 @@ But not every wound begins as injustice.
 Some begin as weakness, age, pain, fear, chemistry, loneliness, inflammation, memory, and the body's quiet failure to keep negotiating with time.
 
 After justice comes care --- not because care is softer, but because bodies are where every system eventually presents its bill.
+
+[^v3-30i-juran]: Joseph M. Juran, ed., *Quality-Control Handbook*, first edition (New York: McGraw-Hill, **1951**), 800 pp.; [National Diet Library catalogue](https://ndlsearch.ndl.go.jp/books/R100000002-I000006236427), bibliographic ID 000006236427, and [American Society for Quality, “Joseph M. Juran”](https://asq.org/about-asq/honorary-members/juran). The date is the first edition's publication year, not the invention of quality control.
+
+[^v3-30i-fitness]: Juran Institute, [“Features of Quality & Definition of Quality Excellence”](https://www.juran.com/blog/features-of-quality-definition-of-quality-excellence/) (2019), on Juran's “fitness for use” formulation and its relationship to other quality definitions. The further question about legitimate civilizational purposes is this book's extension, not a quotation from the 1951 edition.
+
+[^v3-30i-assurance]: John Rushby, Xidong Xu, Murali Rangarajan and Thomas L. Weaver, [*Understanding and Evaluating Assurance Cases*](https://ntrs.nasa.gov/citations/20160000772), NASA/CR-2015-218802 (2015). Claims, argument and evidence support a context-dependent case rather than unequivocal proof. The civic-service case and its counterarguments here are proposed applications.
+
+[^v3-30i-stpa]: Nancy G. Leveson and John P. Thomas, *STPA Handbook* (2018), chapter 2, [MIT PSASS books and handbooks](https://psas.scripts.mit.edu/home/books-and-handbooks/). See the identification of unsafe control actions and causal scenarios. The address, continuity and review example is hypothetical and is not an actual agency's policy.
+
+[^v3-30i-contract]: Bertrand Meyer's *Design by Contract*, described by [Eiffel Software](https://www.eiffel.com/values/design-by-contract/), especially preconditions, postconditions and invariants. Software contracts do not replace legal rights, civic mandates or the evaluation of the specification itself.
+
+[^v3-30i-quickcheck]: Koen Claessen and John Hughes, [“QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs”](https://research.chalmers.se/en/publication/237427), *Proceedings of ICFP 2000*, pp. 268–279, DOI [10.1145/351240.351266](https://doi.org/10.1145/351240.351266). Generated tests exercise specified properties; they do not prove the completeness or justice of the specification.
+
+[^v3-30i-metamorphic]: Xiaoyuan Xie et al., [“METTLE: a METamorphic testing approach to assessing and validating unsupervised machine LEarning systems”](https://arxiv.org/abs/1807.10453), preprint 2018, revised 2019; published in *IEEE Transactions on Reliability*, DOI [10.1109/TR.2020.2972266](https://doi.org/10.1109/TR.2020.2972266). Its clustering experiments illustrate testing through justified relations when a direct oracle is unavailable. The civic decision examples are our extensions.
+
+[^v3-30i-fairness]: Alexandra Chouldechova, [“Fair prediction with disparate impact: A study of bias in recidivism prediction instruments”](https://arxiv.org/abs/1703.00056), *Big Data* 5(2), 2017, pp. 153–163. Statistical criteria, assumptions and the relevant populations must be specified; no single score establishes that a service is just.
+
+[^v3-30i-events]: Microsoft Azure Architecture Center, [“Event Sourcing pattern”](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing). Event histories support reconstruction but introduce complexity and retention/privacy concerns. This book does not prescribe Event Sourcing for every civic service.
+
+[^v3-30i-compensation]: Microsoft Azure Architecture Center, [“Compensating Transaction pattern”](https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction). Compensation may require context-dependent operations, idempotent retries and manual intervention; it need not restore the original state. The distinction between technical compensation and adequate civic remedy is developed here.

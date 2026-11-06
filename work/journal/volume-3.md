@@ -459,3 +459,11 @@ C29 now teaches institution design and usable co-authorship. “Silicon tonnage�
 The 751/1926/2044 historical braid is unchanged. I29 names Baird's exact **26 January 1926** demonstration. The undated technical mirror and selected replaced rhetoric are retained. Original openings/closings remain verbatim as a prose bank; separate concrete projection proposals prevent that reservation from becoming missing ideation.
 
 [Brief](../volume-3-drafting/29-substantive-completion-2026-11-06.md) · [2044 projection constructions](../volume-3-drafting/29-vignette-constructions-2044.md) · [Retained fragments](../volume-3-drafting/29-retained-fragments-2026-11-06.md) · [Audit](../volume-3-drafting/29-substantive-audit-2026-11-06.json). Final literary work, Noēsis, Open and full handoff remain pending. No publication or incoming-draft adoption.
+
+## V3-PAIR30-001 — Justice before the injury, repair across the chain
+
+**6 November 2026 — substantive source completed for author review.** Read the full Justice/Governance charter, TACK §§15.1–15.9 and selected MOxAIC foundations/crossing/justice sections. Sam's broadened justice and norm-breaking direction is recorded as B-035. C30 now treats justice as a capacity to sustain decent conditions and improve the arrangements; I30 builds the assurance, testing, operation and repair mechanisms. Tertiary I30 label becomes INTEGRITY. No existing legal powers or project functionality is invented.
+
+The 1001/1951/2046 braid and both old openings/closings are preserved. I30's undated technical mirror is replaced by Juran's first Quality-Control Handbook, **1951**, with attribution and the civic extension separated. New methods, original grayscale figure, timing constraint, source notes, Alice/Bob wagers and **The Next Move—Repair One Recurring Cause** are in canonical source.
+
+[Brief](../volume-3-drafting/30-substantive-completion-2026-11-06.md) · [Concrete 2046 projections](../volume-3-drafting/30-vignette-constructions-2046.md) · [Retained fragments](../volume-3-drafting/30-retained-fragments-2026-11-06.md) · [Audit](../volume-3-drafting/30-substantive-audit-2026-11-06.json). Future prose, closures, Noēsis, Open 30 and whole-volume consistency remain for Sam/Claude. Handoff withheld; no publication or incoming-draft adoption. Pair 31 remains untouched.
