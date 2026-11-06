@@ -2978,7 +2978,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
-        "sha256": "1fc94ee0a6ccbd2a2287f63857c6a035e4dd48980d8079667be571904aa6a86c"
+        "sha256": "bdfdb65fa27a6f4e6b890574f0d6ad5bf9d300fe751fee8edd91428a3e9f511b"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 25c - Beyond the Invisible Hand - Toward a Humane Economy.docx",
       "source_sha256_at_inventory": "375f39e68cd45bb7bda31d6460a86f51c3df97602bf0aec781ed0c012e232e9d",
@@ -3024,7 +3024,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
-        "sha256": "b5bf9abe832c360794f8c42dd03fa94ecf2492b14d0c53d070df4c7ccd80b38e"
+        "sha256": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 25i - The Living Ledger - Dynamic Value Flows and DAG Economies.docx",
       "source_sha256_at_inventory": "c9e750c7e4e8f4ce1a614f95ad4bcdc5277a5545f363bbadb2dcc278a87946f5",
@@ -3058,7 +3058,7 @@
       "current_chapter_number": 25,
       "current_header": {
         "title": "The Living Ledger",
-        "subtitle": "Dynamic Value Flows and DAG Economies"
+        "subtitle": "Dynamic Value Flows and Graph Economies"
       }
     },
     {

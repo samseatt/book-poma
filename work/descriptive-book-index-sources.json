@@ -1228,20 +1228,21 @@
       "label": "25",
       "titles": [
         "The Living Ledger",
-        "Dynamic Value Flows and DAG Economies",
+        "Dynamic Value Flows and Graph Economies",
         "VALUE"
       ],
       "canonical_titles": [
         "The Living Ledger",
-        "Dynamic Value Flows and DAG Economies",
+        "Dynamic Value Flows and Graph Economies",
         "VALUE"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
-      "source_sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "source_sha256": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
-      "canonical_sha256": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+      "canonical_sha256": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267",
       "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Explores contribution records, matching, ledgers, settlement and audit as distinct working mechanisms. Graph and DAG approaches, transaction integrity and simulation test economic proposals against incentives, privacy, resource limits and the possibility of gaming the system."
+      "description": "Explores contribution records, matching, ledgers, settlement and audit as distinct working mechanisms. Graph and DAG approaches, transaction integrity and simulation test economic proposals against incentives, privacy, resource limits and the possibility of gaming the system.",
+      "pair25_title_alignment": "2026-11-05: Neo4j property-graph direction; DAGs remain a local history representation."
     },
     {
       "key": "26-c",

@@ -378,7 +378,7 @@ Reconsiders value, contribution, provisioning and economic dignity when labor an
 
 ### Interlude 25 — The Living Ledger
 
-*Dynamic Value Flows and DAG Economies* · **VALUE**
+*Dynamic Value Flows and Graph Economies* · **VALUE**
 
 Explores contribution records, matching, ledgers, settlement and audit as distinct working mechanisms. Graph and DAG approaches, transaction integrity and simulation test economic proposals against incentives, privacy, resource limits and the possibility of gaming the system.
 
@@ -571,3 +571,6 @@ This is a planning index, not a fresh factual certification of every manuscript 
 - [Source snapshot](descriptive-book-index-sources.json) records the exact title triples, source paths, hashes and adoption status used here so a later revision can identify what changed.
 
 **Coverage:** 36 chapters, 36 interludes, six framing pieces and the Introduction: 79 descriptive entries. No cold Opens or internal sections are indexed separately.
+
+
+**5 November 2026, pair-25 title alignment:** I25 uses *Graph Economies* following the Neo4j/property-graph direction; DAGs remain a specific dependency-history technique. This is a title correction in the working index, not a new adoption of unrelated incoming drafts.

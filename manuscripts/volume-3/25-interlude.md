@@ -4,7 +4,7 @@ INTERLUDE 25
 
 # The Living Ledger
 
-*Dynamic Value Flows and DAG Economies*
+*Dynamic Value Flows and Graph Economies*
 
 *VALUE*
 
@@ -220,163 +220,31 @@ Oh well.
 
 Some mysteries should be left to later audits.
 
+<!-- Opening above preserved for Sam/Claude, not adopted as future memoir or approved settlement design. Use work/volume-3-drafting/25-vignette-constructions-2034.md. xFin, medical reciprocity and personal details in this legacy scene require replacement/review. -->
+
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
 ## The Invisible Custodian
 
-Tierra Ora was not the future.
+The pizza I want this experiment eventually to deliver is an absurdly small trophy for a large ambition. Its significance would lie in the activity beneath it: enough participation, useful work and accepted obligations to connect an internal economy with an ordinary commercial provision. A founder's credit card hidden behind a handsome interface would buy dinner, but would not earn this particular hurrah.
 
-That is the first thing to say before the reader sensibly reaches for a helmet.
+March 11, 2034 is the checkpoint for that hope, not a prediction of its fulfillment. By then, I expect capable agents to do much of the matching, negotiation, verification and accounting that currently makes small, diverse arrangements expensive. They can help people find useful combinations of needs and capacities. Whether those combinations support durable provision is an economic question, not a benchmark score.
 
-It was a breadboard-world: a bounded civic test surface where systems could be wired together, strained, offended, revised, and occasionally unplugged before anyone mistook prototype behavior for destiny. It borrowed the fiction of a rebuilding region, but its real value was methodological. A place with roads and memory. Institutions cracked but not vaporized. People who needed food, care, law, learning, work, repair, and trust before the diagrams had finished admiring themselves.
+The Breadboard gives us a place to try. Tierra Ora can remain a bounded test world within it; simulated participants and flows must remain distinguishable from people supplying things. A simulation can test a routing rule. It cannot pay an outside delivery worker.
 
-The living ledger first appeared there because an economy cannot be tested only in a spreadsheet.
+A connector is a treaty between arrangements that recognize different claims. For the intended pizza milestone, the restaurant and delivery obligations must be met through a defined route that the internal activity can sustain. Who pays, with what accepted instrument, and where the purchasing capacity originates are still design questions. No graph traversal answers them by itself. xFin's capacity-development role, Neurocoin's proposed boundary role and Neubank's provisioning role must not collapse into one magical conversion box.
 
-It must meet the outside world.
+The rest of the machinery can be made quite concrete without pretending that unresolved bargain has already been struck. The ledger needs to distinguish an observation from a valuation, a valuation from an entitlement, and an entitlement from what somebody actually delivered. That is how an invisible custodian becomes visible enough to question.
 
-The restaurant must be paid.
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
-The delivery worker must be tipped.
+## A Circuit in 1826
 
-The physician must receive value that matters in his world.
+In **1826**, the year New Harmony tried to give cooperation a workable constitution, Georg Simon Ohm published his determination of the law governing conduction through metals. His fuller mathematical treatment of the circuit followed in **1827**. The first paper belongs to our institutional marker itself, not to a vaguely adjacent age of electrical invention.[^v3-i25-ohm]
 
-The school must receive the promised talk.
+In modern notation, the familiar relation is $V=IR$ for an ohmic element under the relevant conditions. A potential difference, a current and a resistance describe different aspects of the circuit. Naming a potential does not establish the flow it can sustain.
 
-The ecological contribution must not become green confetti sprinkled over an extractive transaction.
-
-The connectors must hold.
-
-That is the crucial distinction.
-
-Inside the breadboard, Neuro could run a value metabolism not governed primarily by fiat money: contribution, need, care, ecological stewardship, professional reciprocity, learning obligations, service credits, access rights, and commons maintenance could all move as first-class economic realities.
-
-But outside the breadboard, the old world remained.
-
-Dollars. Taxes. Insurance. Invoices. Licenses. Menus. Payroll. Rent. Jurisdictions. Legal risk. Professional accreditation. Fiat rails. National currencies sitting there with the grave expression of old monarchs whose portraits no one has yet removed from the room.
-
-The question was never whether Neuro could pretend that world did not exist.
-
-The question was whether it could connect to it without becoming it.
-
-That is what connectors are for.
-
-xFin connects the internal value metabolism to external finance.
-
-xMed connects health-pattern work to real clinical systems and professional boundaries.
-
-xGaia connects economic flows to ecological reality, not as a decorative carbon score, but as an adaptive axis to land, water, energy, soil, biodiversity, waste, extraction, and regeneration.
-
-Other connectors would do the same for law, knowledge, manufacture, physics, identity, and whatever else civilization insists on fragmenting before rediscovering as a system.
-
-A connector is not a pipe only.
-
-It is a treaty between realities.
-
-It says: this inner system has its own grammar, but it must still touch the world in the world's terms.
-
-And the world, in turn, must learn that its terms are not the only possible language of value.
-
-This is why the dinner mattered.
-
-It proved almost nothing at grand scale. One successful settlement does not remake economics any more than one polite driver proves humanity has overcome empire. But it showed the essential possibility:
-
-A value event can originate inside a post-fiat, values-based economy and still settle real obligations outside it.
-
-The invisible hand did not vanish.
-
-It was instrumented.
-
-The dashboard was not talking about some invisible hand. It was showing its actual motions --- not as natural law, not as magic, not as a deity hiding in price signals, but as flows: fiat settlement here, service credit there, ecological acknowledgment there, professional reciprocity there, learning obligation there, care-pattern improvement there.
-
-It was good.
-
-Well, at least on the breadboard.
-
-"The invisible custodian," I muttered.
-
-Then immediately disliked the phrase.
-
-A custodian cleans, preserves, opens rooms, closes rooms, remembers where the keys are, and prevents small neglect from becoming large decay. That part I liked. But invisible custodians are dangerous. Too easily they become invisible governors. Too easily the system that routes value begins to decide value. Too easily a ledger that helps life move becomes a quiet authority over life.
-
-So the phrase stayed provisional.
-
-Like everything else on the bench.
-
-Chapter 25 refactored value from the lived side: money as signal, price as narrow conscience, work beyond wage, wealth as flow rather than accumulation, banks as possible stewards rather than temples of surrogate value.
-
-This interlude asks the builder-side question:
-
-What kind of ledger can remember value, need, contribution, and flow without becoming a new god?
-
-That is the difficulty.
-
-A ledger can liberate value from the tyranny of price.
-
-It can also become social credit with better metaphors.
-
-It can reveal unseen contribution.
-
-It can also brand need permanently into a person's record.
-
-It can discourage hoarding.
-
-It can also punish saving.
-
-It can connect the fiat world to a more humane value metabolism.
-
-It can also become a priesthood of interpreters, validators, connectors, and dashboards that speak in flow diagrams while ordinary people wonder whether lunch has become a theology.
-
-So we begin carefully.
-
-The ledger is not value.
-
-The ledger is memory of value's movement.
-
-And memory, as every family knows, must be governed before it starts rewriting the past in its own favor.
-
-## Lever, Flow, Chain, Measure
-
-Long before value became numbers on screens, civilization learned to think with machines.
-
-A lever taught us that small forces can move large weights if placed at the right point.
-
-A screw taught us that flow can be lifted through patient geometry.
-
-A chain drive taught us that motion can be transmitted through linked parts.
-
-A battery, or something like one, hinted that stored potential may become current.
-
-Geometry let Eratosthenes measure the Earth from shadows, proving that large realities can be known through modest signals if the relation is right.
-
-These are not economic metaphors by accident.
-
-They are the hidden mechanics of value.
-
-A value system is a lever. It amplifies some forces and not others. If ownership is the lever point, owners move worlds. If need is the lever point, the hungry move attention. If contribution is the lever point, care and repair become visible. If speculation is the lever point, the clever learn to move symbols while the world waits for bread.
-
-A value system is a flow channel. It moves resources upward, outward, inward, or around in circles until everyone has a title and no one has lunch. The channel matters. A river, an irrigation ditch, a pipeline, and a blocked drain are all "flows" in the abstract. Only one helps the field.
-
-A value system is a chain. Every act depends on prior acts: soil, seed, labor, transport, cooking, care, cleaning, repair, learning, trust. Traditional ledgers often record only the final sale, like praising the last link for inventing the chain.
-
-A value system is stored potential. Wealth can protect winter or become a weapon. Credit can enable life or bind it. Surplus can nourish the commons or sit in a closet until the apples begin their counterargument.
-
-A value system is measurement. But measurement depends on geometry. Measure the wrong shadow and you will calculate the wrong Earth.
-
-The living ledger therefore begins from an older engineering lesson:
-
-Before ledgers became financial, civilization had to learn leverage, flow, displacement, chain, charge, and measure.
-
-A humane economic ledger must ask all six.
-
-What does this amplify?
-
-Where does this flow?
-
-What does this displace?
-
-What chain made it possible?
-
-What potential is stored?
-
-What are we measuring --- and what shadow are we mistaking for the world?
+An economy is not an electrical circuit; people alter the connections and argue about the purpose of the load. But the distinction is productive. Recognized value, usable claim and delivered provision are different quantities. If we confuse them, the dashboard can glow while the kitchen remains cold. The bridge from a promise to its performance needs an account of the path.
 
 ## Ledger as Memory, Not Master
 
@@ -434,389 +302,134 @@ Remember enough to move value.
 
 Forget enough to preserve freedom.
 
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
 ## From Balance Sheet to Flow Graph
 
-The old economy loved the balance sheet.
+A balance sheet records assets, liabilities and equity at a point in time. Flow accounts describe movement over an interval. Both remain useful: a living economy needs to know what it holds and owes as well as what is moving. The graph adds relationships that neither one alone fully expresses.
 
-Assets. Liabilities. Equity. Net position. Clean columns. Serious numbers. The comforting illusion that if the boxes align, reality has been consulted.
+A building can be linked to its owner, occupants, maintenance obligation, energy demand and access rules. A repair can connect an object, a provider, parts, a reservation, evidence of completion and an outstanding warranty. These connections make some questions easier to ask: what will fail if this supplier leaves, who is waiting on the same part, and which apparent surplus is already committed?
 
-Balance sheets are useful.
+The current implementation direction for Neuverse uses **Neo4j**, a property-graph database. Nodes and typed, directed relationships can both carry properties. That lets a relation carry its own terms rather than merely connect two labels. The design still has to decide what those terms mean.[^v3-i25-property]
 
-They tell a household, firm, or institution what it holds, owes, and claims. They can prevent fraud, clarify solvency, and reveal that someone has been spending as if optimism were legal tender.
+For a small worked model, imagine a repair workshop with ten usable service hours next week, two protected for urgent breakdowns. This is a teaching example, not a report from an operating Neuconomy. A participant has been granted access to a repair. Her earlier contribution may be relevant to some optional benefit; it must not silently become the reason she deserves an essential one.
 
-But balance sheets freeze value.
+| Record | What it says | What it does not establish |
+| --- | --- | --- |
+| Evidence | A named source reports a repair or a contribution, with time and context | That the report is true or its claimed impact proven |
+| Assessment | A rule or model interprets the evidence, with version and uncertainty | A universal measure of the person's worth |
+| Entitlement | An identified party owes a specified benefit under stated terms | That a suitable provider has available capacity |
+| Reservation | Particular capacity is temporarily assigned to this request | That the work has been completed |
+| Delivery record | Work was performed, accepted, rejected or remains disputed | That every related payment has settled |
+| Settlement record | A particular obligation was discharged, partly discharged or remains open | That all social or ecological consequences are favorable |
 
-They ask: what is yours?
+Store the request, claim, reservation and delivery as distinct objects when their histories, parties or permissions differ. The relations can say who issued the claim, which slot fulfills it and which evidence supports acceptance. A participant's Neumm can present the relevant reflection without turning this structure into a public biography.
 
-A flow graph asks: what is moving?
+Glia supplies the resource side of this proposal. Neubank assembles a temporary route through available resources and willing providers. After fulfillment, the live route can retire; Neuconomy retains the consequences needed for obligations, learning and repair. Some records must persist, others should expire. Retiring a workflow is not permission to erase the unpaid invoice.
 
-Where is value blocked?
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
-Where is need unmet?
+![A provisioning request joins an entitlement, a resource reservation and a provider commitment. Accepted delivery updates durable consequences; a separate branch reconciles external settlement. The routing workflow and the participant's private view remain distinct.](assets/25-interlude/provision-and-consequence.svg){#fig-provision-consequence width=95%}
 
-Where is capacity idle?
+*One route, several kinds of truth. The graph relates them; no arrow turns recognition into money by itself.*
 
-Where is decay occurring?
+## Graphs, Cycles and the Shape of Contribution
 
-Where is the commons being drawn down?
+Economic relationships readily form cycles. I repair your tool; you transport my materials; both of us support the workshop that enables the next repair. A graph database can represent that circulation. Requiring the whole economy to be a directed acyclic graph would confuse a useful mathematical restriction with an economic ideal.
 
-Where is contribution unseen?
+A **DAG** is useful for a more specific question: which prior events or versions did this event depend on? A part was ordered, delivered, installed and inspected. If each dependency points strictly toward an earlier event, that selected history is acyclic. The same people and resources may reappear across many such histories. Direction alone does not make a graph a DAG, and Neo4j does not impose acyclicity on every relationship.
 
-Where is surplus protecting resilience?
+A material lineage is also different from a claim about benefit. Flour entering a kitchen can be traced; a later reduction in hospital admissions cannot be credited to that flour merely because a path connects them. Evidence of causation needs another argument. W3C's PROV model usefully separates entities, activities and responsible agents when recording provenance; it supplies a vocabulary for tracing claims, not a guarantee that they are true.[^v3-i25-prov]
 
-Where has surplus become a bottleneck?
+Even attribution can overlap. A delivery may depend on a cook, a driver, a maintained road and years of accumulated knowledge. Assigning each the full value of the meal would multiply recognition into imaginary purchasing power if every acknowledgment were made redeemable. The graph can preserve several contributions while a separate agreement specifies any claims they create.
 
-A balance sheet may say a building is an asset.
+DAGs remain instruments within the ledger. The economy keeps its loops, including the troublesome human habit of coming back tomorrow.
 
-A flow graph asks whether it is housing people, storing speculation, consuming energy, anchoring a neighborhood, blocking land use, or waiting for a tax strategy to mature.
-
-A balance sheet may say a patent is an asset.
-
-A flow graph asks whether it enables care, blocks treatment, rewards discovery, or converts suffering into rent.
-
-A balance sheet may say a person has low income.
-
-A flow graph asks what they contribute, what they need, what capacity surrounds them, what barriers trap them, and what provision would let value move through them and from them again.
-
-A balance sheet asks where value rests.
-
-A flow graph asks whether value is alive.
-
-In the living ledger, nodes are persons, households, clinics, schools, workshops, farms, care networks, commons, energy systems, material stores, local businesses, and civic institutions.
-
-Edges are flows: food, care, repair, energy, teaching, transport, contribution, credit, trust, materials, waste recovery, information, risk.
-
-This does not abolish balances. A society still needs to know what it holds and owes. But the balance becomes one view inside a richer metabolism.
-
-The old question was:
-
-What is your balance?
-
-The new question must include:
-
-What is blocked, what is decaying, what is needed, what can move, and what must be protected from movement?
-
-A stagnant pond has a balance.
-
-A living river has flow.
-
-The ledger should know the difference.
-
-## DAGs and the Shape of Contribution
-
-A transaction is tidy.
-
-Two parties. One exchange. A price. A date. An entry.
-
-Life is rude enough to be more complicated.
-
-Consider bread.
-
-A farmer grew grain. Soil held roots. Rain fell. A machine harvested. Someone repaired the machine. Fuel moved. A mill processed grain. A driver transported flour. A baker woke early. A kitchen used heat. A delivery worker crossed town. A child ate. A caregiver rested because the meal arrived. A clinic later saw fewer stress-related complications because meals had stabilized the household.
-
-Where is the transaction?
-
-There are many.
-
-Where is the value?
-
-Everywhere in the chain.
-
-A directed acyclic graph --- DAG, if one wants the shorter word and the mild thrill of sounding as if one brought a technical instrument to dinner --- is one way to remember value paths without pretending every exchange is a simple two-party event. It is a graph of directed relations that do not loop back into circular confusion. One contribution leads to another, transforms, branches, supports, and moves on.
-
-Food grown → processed → transported → cooked → served.
-
-Elder-care support → respite hours → family stability → reduced hospital burden.
-
-Repair part fabricated → appliance saved → waste avoided → household cost reduced.
-
-Open-source contribution → local system improvement → service capacity increased.
-
-A DAG economy need not mean every human kindness becomes a tracked micro-transaction. That way lies madness, gamification, and neighbors bringing soup only after scanning a code on the bowl.
-
-The point is not to record everything.
-
-The point is to remember enough of the chain that value does not disappear at the moment money fails to capture it.
-
-DAGs help because value often moves through chains, not isolated trades.
-
-They can show provenance.
-
-Dependencies.
-
-Transformations.
-
-Ripples.
-
-Bottlenecks.
-
-They can support plural value records without collapsing everything into a universal price.
-
-But the danger is equally clear:
-
-How do we remember the chain without letting the chain become a shackle?
-
-The answer is not in the graph alone.
-
-It is in boundaries, consent, expiration, aggregation, selective visibility, and recourse.
-
-A graph can reveal living value.
-
-It can also become a net.
-
-The builder's task is to keep it from tightening.
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
 ## Contribution Without Scoring the Soul
 
-The living ledger should remember contribution.
+The living ledger should remember contribution. That does not mean it should rank souls. This distinction should be engraved on every economic dashboard, preferably somewhere near the export button.
 
-That does not mean it should rank souls.
+A caregiver may want relief, a repairer access to tools, a musician acknowledgment, and a neighbor no record at all. Supporting these different returns begins with asking what would be useful. It does not begin by selecting a common unit in which to express the four people.
 
-This distinction should be engraved on every economic dashboard, preferably somewhere near the export button.
+Keep the source report and its interpretation separate. “Two hours of support reported by the recipient” is a different record from “estimated downstream benefit.” Name the basis for any recognized claim and the party authorized to create it. If an inference is later withdrawn, identify which decisions depended on it rather than rewriting every piece of original evidence to make the database look prescient.
 
-Contribution is plural.
+A useful record can carry a dispute and a correction. It should not require the contributor to disclose an intimate act of care publicly in order to receive support. Some contribution deserves payment; some deserves a surrounding system that stops making it harder. The retired accountant may want the software to stop congratulating her and send someone else next week.
 
-Care. Teaching. Repair. Open-source work. Local stewardship. Emergency response. Mentoring. Artistic creation. Infrastructure maintenance. Data stewardship. Conflict mediation. Ecological restoration. Cooking. Translating. Listening. Holding a family together through a month no labor statistic will ever understand.
+That is a perfectly respectable specification.
 
-Some contribution should be paid.
-
-Some credited.
-
-Some witnessed.
-
-Some supported.
-
-Some protected from quantification because quantification would change the thing into a performance for the ledger.
-
-The breadboard taught this quickly.
-
-A contributor who repaired mobility devices wanted credits usable for workshop time.
-
-A caregiver wanted relief, not points.
-
-A teacher wanted materials and quiet space.
-
-A musician wanted acknowledgment but not conversion of songs into civic utility.
-
-A neighbor wanted anonymity after helping a family through a private crisis.
-
-A retired accountant wanted the system to stop congratulating her and send someone else next week.
-
-The ledger may remember that bread was baked.
-
-It should be careful about declaring the baker morally superior.
-
-Contribution memory should be contextual, plural, and corrigible. Categories must be open enough to recognize unexpected value and careful enough to avoid virtue markets. Records should decay where they should not follow a person forever. People must be able to contest records, decline recognition, or ask that contribution remain private.
-
-This may sound fussy.
-
-It is.
-
-Dignity often is.
-
-The alternative is a gamified civic virtue system in which the most visible helpers become the most rewarded, the quietest work disappears again, and every act of care develops a faint odor of self-advertisement.
-
-A humane ledger recognizes contribution without turning life into a leaderboard.
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
 ## Need Without Stigma
 
-Need also requires memory.
+Need memory can prevent repeated humiliation. It can also turn a temporary circumstance into a permanent administrative name: *high-utilization household*, *low-resilience node*, the sort of phrase that should lose its funding on contact with a human being.
 
-More dangerous memory.
+Separate a person's support record from the aggregate question the system needs to learn. The provider may need a destination and access instructions. The allocator may need eligibility and urgency. A planning view may need counts of unmet requests, waiting time and the kind of capacity missing. None automatically needs the whole biography.
 
-A system that remembers need can coordinate care, prevent repeated humiliation, and reveal structural failure. It can notice that the same household needs food every Thursday, that a care network collapses every winter, that a neighborhood's medication delays are not personal disorganization but transport failure, that a school's learning gaps map to housing instability, that a clinic's emergency burden is downstream of loneliness, poverty, language barriers, and bad interfaces.
+Make the distinction operative through scoped permissions, retention periods and purpose-specific views. A correction must reach decisions and derived profiles that rely on the error. Erasing a screen label while retaining the same exclusion in a hidden feature is cosmetic surgery on the interface.
 
-Need memory can save lives.
+The economy needs to learn why rides to clinics fail in a district. It need not teach every future system to regard the person who needed one as a transportation burden.
 
-Need memory can also brand people.
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
-The poor.
+## A Promise Is Not a Reservation
 
-The risky.
+A service credit should describe something its holder can use. Specify the issuer, benefit, provider obligations, eligibility, transfer rules, expiry and remedy. “Ten points” is an excellent way to postpone all six questions.
 
-The dependent.
+For our workshop, ten hours exist, two are protected and three have already been reserved. Five remain available for ordinary new reservations:
 
-The high-utilization household.
+$$
+10\ \text{hours}-2\ \text{hours}-3\ \text{hours}=5\ \text{hours}.
+$$
 
-The noncompliant patient.
+Two requests for four hours each cannot both acquire those five hours. The rule is an **invariant**: after each accepted change, active ordinary reservations plus the protected reserve cannot exceed the committed capacity for that time window. A claim may wait for a slot; the system must not describe that wait as a completed provision. If a technician becomes unavailable, future capacity changes and some existing promises require reassignment or a remedy. Reclassifying them as “community resilience opportunities” will not mend the appliance.
 
-The low-resilience node.
+Neo4j supports transactions and constraints, but the application still has to enforce this resource rule. Its default read-committed isolation permits concurrent operations that need careful coordination. Competing reservations can serialize on a shared capacity record through an explicit locking design, with the capacity read and decision made under that protection. A transaction label alone does not make a check-then-book sequence safe.[^v3-i25-concurrency]
 
-The economically inactive person.
+Give every command a stable identity and make a retry refer to the same intended booking. A uniqueness constraint can prevent duplicate identifiers within its defined scope; it does not by itself require an identifier to exist, prevent overlapping reservations or stop double-spending across different issuers. Required fields and business invariants need their own enforcement.[^v3-i25-constraints]
 
-The person whose need becomes their administrative name.
+Where a credit creates a financial liability, the corresponding accounts must balance in the specified unit. Where it creates a claim on service time, its supply and terms must be tracked separately. Double-entry can expose an inconsistent financial posting. Two perfectly balanced entries can still describe a promise made by an insolvent issuer.
 
-This is why need records must be handled with a kind of civic tenderness.
+Essential provision needs its separately funded floor. Optional contribution credits can support reciprocity without making every meal a verdict on the eater's past productivity.
 
-Consented where possible.
+## When the Booking Arrives Twice
 
-Time-limited.
+A successful local reservation must reach the provider. If the system saves the booking and then crashes before sending the message, the ledger and the workshop can disagree about tomorrow.
 
-Access-controlled.
+The **Transactional Outbox** pattern addresses that gap: commit the reservation change and a record of the message to send in the same database transaction. A dispatcher delivers pending messages afterward. Delivery may repeat, so the receiving operation must recognize the stable command identifier and avoid making another booking. Relevant ordering and failed deliveries also need handling. This is a local reliability pattern, not a transaction enclosing the outside world.[^v3-i25-outbox]
 
-Context-rich.
+Now the workshop reserves a technician, a separate supplier holds a part, and a payer authorizes the expense. These parties do not necessarily share one database. A **Saga** can coordinate a sequence of local transactions with explicit compensations: release the part, cancel the slot, reverse an unused authorization. Compensation creates a new action; it cannot always restore the original world. Once the part is fitted or the meal eaten, the remedy may be repair, replacement or refund rather than rollback.[^v3-i25-saga]
 
-Revocable or sealed where appropriate.
+An ambiguous payment response is especially awkward. A timeout means the result is unknown, not necessarily that no payment occurred. Keep the pending obligation, reconcile with the external party and retry under agreed duplicate protection. Issuing a second payment under a fresh identity because the first response was inconvenient is a surprisingly efficient way to fund somebody else's experiment.
 
-Used for provisioning, not profiling.
+These boundaries let agents do substantial work without treating uncertain messages as settled facts. They can find substitute providers, rearrange a route or identify a recurring capacity gap. Their plans become commitments only through the authority and resource checks attached to each action.
 
-Separated from moral judgment.
-
-The ledger should know that help was needed without branding the person as needy.
-
-This requires a design separation between individual support and structural learning.
-
-The system may need to remember that I needed a ride today.
-
-It may also need to learn, in aggregate, that rides to clinics are failing in this district.
-
-It does not follow that every future system should treat me as a transportation burden.
-
-This is the difference between memory and stigma.
-
-If the ledger cannot learn without marking the vulnerable, it has failed at civilization in the very room it claimed to serve.
-
-## Service Credits and Their Temptations
-
-Service credits are attractive.
-
-This alone should make us cautious.
-
-They promise a bridge between contribution and access. A person gives care hours, repair work, teaching, translation, transport, community mediation, or ecological stewardship. The system recognizes it. Credits allow access to shared services, workshop time, transit, learning resources, care support, local food, or other forms of provision. Contribution becomes more visible than under wage-only systems. Reciprocity can be coordinated without converting everything into dollars.
-
-This can be humane.
-
-It can also go bad faster than milk in August.
-
-A service credit can become a second-class currency for the poor.
-
-A virtue token.
-
-A gamified morality point.
-
-A tool for coercing unpaid labor.
-
-A way of telling people that essential care must be earned.
-
-A speculative instrument if transferable.
-
-A new priesthood if only experts can interpret it.
-
-A bureaucratic nightmare if every act of help requires documentation, validation, dispute resolution, and a small sacrifice to the god of forms.
-
-The design principle must be clear:
-
-A service credit should open a door, not price a soul.
-
-Credits should be contextual. Some transferable, some not. Some expiring, some durable. Some individual, some household, some community-level. Some redeemable for specific services. Some usable only inside certain meshes. Some not called credits at all because certain human goods should not be forced to wear the costume of transaction.
-
-Essential care should never become conditional on credit balance.
-
-No child should be hungry because a caregiver's contributions were insufficiently validated by the soup oracle.
-
-Credits should help recognize and route value, not recreate deservingness tests in digital clothing.
-
-Where service credits work best, they do not replace money everywhere. They complement, translate, buffer, and redirect. They help local economies recognize flows that money misses. They create gentle circulation where the old currency would either ignore the work or commodify it badly.
-
-The moment credits become more profitable than the service they were meant to support, they will eat the service.
-
-This is not a risk.
-
-This is a law of hungry symbols.
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
 ## The Pantry and the Dragon's Cave
 
-Anti-hoarding is easy to praise and hard to implement.
+An anti-hoarding rule must inspect why a resource is unavailable. A reserve, a repair closure and a speculative hold have different purposes. A timestamp saying “unused” does not choose among them.
 
-The living ledger must know the difference between a pantry and a dragon's cave.
+Represent the protected quantity, justification, accountable steward and review date. For a workshop reserve, test the rule against ordinary and emergency demand. Too small a reserve leaves urgent failures stranded; too large a reserve leaves useful equipment idle while people wait. Revision should change the future allocation rule explicitly, with existing obligations treated according to their terms.
 
-A pantry stores for future use. It protects winter. It honors uncertainty. It lets a household avoid humiliation, a community survive disruption, a region withstand supply shocks. Reserves are not only rational; they are humane. A person with no buffer is forced to accept bad terms from reality and worse ones from people.
+Expiry and demurrage are possible policies, not properties bestowed by graph storage. A credit can expire while its issuer still owes a remedy for having made redemption impossible. A circulation incentive can reward unnecessary transactions. Test the behavior the rule invites, including the people who cannot continually rearrange their lives to remain eligible.
 
-A dragon's cave is different.
+A pantry protects. The software must not become another dragon, this time sleeping on everyone's pantry in the name of fairness.
 
-A dragon's cave blocks value from life. It stores beyond use in order to control access. It creates scarcity where circulation would relieve need. It turns waiting into power and calls the smoke "market discipline."
-
-In implementation, the difference depends on context.
-
-Stored medicine in a clinic reserve may be resilience.
-
-Stored medicine withheld for price increase may be predation.
-
-Vacant housing during repair may be normal.
-
-Vacant housing held for speculative gain during a housing crisis may be hoarding.
-
-Savings for a family may be security.
-
-Financial accumulation large enough to buy policy may be political weather disguised as wealth.
-
-Compute reserved for emergency modeling may be commons protection.
-
-Compute hoarded for speculative advantage while public systems starve may be bottleneck.
-
-The mechanisms are delicate.
-
-Expiry on some credits.
-
-Demurrage or decay on idle surplus in specific contexts.
-
-Circulation incentives.
-
-Idle capacity prompts.
-
-Commons contribution requirements.
-
-Progressive obligations for unused housing, land, compute, data, or material stockpiles.
-
-Local resilience reserves.
-
-No-speculation constraints.
-
-Caps on extractive accumulation loops.
-
-All must be designed with care. Anti-hoarding should not punish prudence. It should not make ordinary people feel hunted for having savings. It should not become a new excuse for authorities to seize what they failed to provide. It must protect buffers and discourage bottlenecks.
-
-The living ledger can help because it sees context.
-
-But context must be governed.
-
-Otherwise the anti-hoarding system becomes another dragon, this time sleeping on everyone's pantry in the name of fairness.
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
 ## Audit Without Exposure
 
-A humane ledger must be auditable.
+Audit asks whether records, obligations and outcomes agree, and whether the rule was properly applied. It cannot prove a whole society just by displaying a green light.
 
-It must not be naked.
+A public view might report unmet requests, service delays, refusals, successful appeals and the distribution of benefits. Independent reviewers may need deeper, controlled access to investigate specific claims. The requester needs an intelligible account of her own case. These are different views, not one database with the names blurred.
 
-The public should be able to see whether value flows are fair without being able to inspect every wound that required them.
+Aggregation still leaks when a group is small or when repeated queries reveal a change. Restrict detail, query combinations and access according to the exposure at stake. Selective disclosure or cryptographic proofs can establish a bounded property of supplied data; they do not establish that the source measured the world honestly. A certificate that an eligible request passed an agreed rule is not proof that the delivery was edible.
 
-This is not merely a technical problem. It is a moral geometry problem: how to let enough light into the room without turning the person into glass.
+Reconcile records against the material and financial world: supplier statements, inspected inventory, accepted work and unresolved disputes. Sample what the automation cannot directly observe. Include rejected and abandoned requests; a ledger of successful transactions alone can make systematic exclusion disappear into excellent performance.
 
-Aggregate transparency can show whether food, care, housing, repair, energy, and credits are moving fairly across neighborhoods, classes, language groups, ages, abilities, and communities.
-
-Individual privacy can protect the person whose need created part of that flow.
-
-Selective disclosure can allow a contributor to prove what is necessary without revealing the whole biography.
-
-Role-based access can distinguish steward, auditor, provider, requester, and public view.
-
-Anonymized reporting can reveal structural patterns.
-
-Fraud detection can work without universal surveillance.
-
-Cryptographic proofs may help in some contexts. The reader need not be dragged through zero-knowledge machinery here unless the machinery behaves itself and brings snacks. The principle is enough for now:
-
-Show that the system is just.
-
-Do not expose everyone in order to prove it.
-
-Old financial systems often hid too much. New value systems may expose too much out of fear of repeating the old secrecy. Both are failures.
-
-Transparency without privacy becomes domination.
-
-Privacy without audit becomes corruption.
-
-A living ledger needs both: public accountability and protected personhood.
+The honest account includes what the system did not provide.
 
 ## Local and Global Value
 
@@ -850,7 +463,7 @@ If everything remains local, the system becomes parochial, unequal, brittle, and
 
 If everything federates, the system becomes abstract, extractive, and too easily captured by those who operate at scale.
 
-So the living ledger must be polycentric.
+So the living ledger should distribute responsibility across appropriate centers.
 
 Local ledgers for context.
 
@@ -870,77 +483,21 @@ Value pluralism is not inefficiency.
 
 It is reality refusing to become one spreadsheet.
 
-## Non-Speculative Value Media
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
-If a token can become more profitable than the thing it was meant to move, the token will eventually eat the thing.
+## Value at the Boundary
 
-This is one of the bitter lessons of digital finance.
+A contribution record, a service entitlement and a liquid instrument serve different purposes. Some should remain nontransferable, some may travel within agreed arrangements, and some must be accepted by outside parties. Forcing everything into one liquid unit makes translation easy by discarding the distinctions we built the graph to preserve.
 
-A tool meant to coordinate trust becomes an asset.
+In the Neuconomy proposal, Neurocoin concerns the boundary portion of value. Neumm is the participant's situated reflection, not simply a wallet; Glia concerns resources; Neubank organizes provision; xFin develops capacity. These responsibilities can cooperate without every organ becoming a currency issuer.
 
-The asset becomes a market.
+The outside supplier's terms remain real. If a claim can be redeemed for money, state whose obligation that is, how redemption is funded, when it is available and what happens under stress. Restricting conversion may protect a pool from a sudden run; it may also trap a participant who needs to leave. Calling the restriction “damping” does not settle that tradeoff.
 
-The market attracts speculation.
+Likewise, record investment and operational support honestly. Seed capital can build something valuable. It is not evidence that the resulting everyday economy already sustains itself. A claimed automation dividend must be calculated after the costs and renewal commitments relevant to that claim, including the costs displaced onto participants or suppliers.
 
-Speculation attracts cleverness.
+The pizza milestone asks whether enough internally generated activity has made an ordinary external provision possible through a legitimate, repeatable route. Its eventual payment mechanism remains to be specified. This interlude does not choose a peg, minting rule, reserve arrangement or exchange guarantee on the strength of a delivery bell.
 
-Cleverness attracts leverage.
-
-Leverage attracts collapse.
-
-Collapse attracts regulation.
-
-Regulation attracts complaints from the people who described collapse as innovation until it became subpoena-shaped.
-
-The living ledger must resist this cycle.
-
-Not every value record should be transferable.
-
-Not every contribution should become a tradable claim.
-
-Not every credit should appreciate.
-
-Not every token should have a secondary market.
-
-A humane value substrate may need non-transferable contribution records, local-use credits, expiry, anti-concentration rules, governance limits, no-speculation constraints, and credits tied to real service capacity rather than abstract demand.
-
-This is not a rejection of all markets.
-
-It is a refusal to let every coordination tool become casino architecture.
-
-Some media of value should circulate like money.
-
-Some should behave like tickets.
-
-Some like permissions.
-
-Some like acknowledgments.
-
-Some like vouchers.
-
-Some like mutual obligations.
-
-Some like gratitude that would be cheapened by transfer.
-
-The mistake is believing every value must become liquid.
-
-Liquidity is useful in finance.
-
-In human life, too much liquidity dissolves form.
-
-A relationship should not be liquid.
-
-A forest should not be liquid.
-
-A promise should not be liquid.
-
-A child's care should not be liquid.
-
-A community's trust should not be liquid.
-
-Value media must match value type.
-
-Otherwise the most liquid form devours the most meaningful one.
+If the intended threshold is reached, the small celebration is earned. The restaurant need not serve a civilization-sized pizza.
 
 ## Plural Value Registers
 
@@ -994,89 +551,29 @@ A humane economy needs that honesty.
 
 Otherwise it will keep selling the forest because lumber is easier to count than shade.
 
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
 ## Recourse in the Ledger
 
-Every ledger will be wrong.
+Every ledger will be wrong. This should be printed in the source code, in the documentation, and perhaps on mugs.
 
-This should be printed in the source code, in the documentation, and perhaps on mugs.
+Keep a dispute distinct from a correction, and both distinct from a new allocation decision. A corrected delivery quantity may change an invoice. A contested assessment may suspend an optional reward while leaving essential support intact. Forgiving an obligation is an authorized policy action, not a quiet deletion of the record that someone once owed it.
 
-Records will misattribute contribution.
+Preserve the reason, authority and affected relationships for a consequential change. Where sensitive content should expire, retain only what is justified for the remaining obligation or audit; an append-only habit does not confer an eternal right to someone's private information. Propagate correction to derived views and active decisions. Keep the superseded claim legible as superseded to those entitled to inspect it.
 
-Miss need.
+Then test the machinery where the story becomes inconvenient.
 
-Overstate impact.
+| Disturbance | What must remain true |
+| --- | --- |
+| The same command arrives twice | One intended booking, not two benefits or two charges |
+| Two agents request the last capacity together | Accepted reservations respect the resource limit |
+| The provider fails after accepting | The obligation has an owner, a status and a route to repair |
+| A supplier reports delivery but the recipient disputes it | The dispute stays visible; “reported” is not silently promoted to “accepted” |
+| External payment times out | Settlement remains uncertain until reconciled; no blind second payment |
+| Capacity falls or redemption demand surges | Shortfall and loss allocation follow stated terms rather than invisible rationing |
+| A participant leaves | Export, privacy, remaining claims and obligations are handled explicitly |
 
-Understate care.
-
-Misclassify hoarding.
-
-Reward the visible.
-
-Forget the quiet.
-
-Encode bias.
-
-Lose context.
-
-Confuse correlation with obligation.
-
-Let a category outlive the reality it described.
-
-A living ledger must therefore be contestable.
-
-Dispute resolution.
-
-Annotation.
-
-Correction.
-
-Appeal.
-
-Record sealing.
-
-Expiry.
-
-Forgiveness.
-
-Human mediation.
-
-Audit trails that do not become punishment trails.
-
-A person must be able to say:
-
-That contribution was collective.
-
-That need was temporary.
-
-That credit was misapplied.
-
-That record lacks context.
-
-That obligation has been fulfilled.
-
-That debt should be released.
-
-That flow harmed a commons.
-
-That value was extracted, not created.
-
-That category does not fit.
-
-This is tedious.
-
-So is justice.
-
-A ledger without recourse becomes fate. A ledger with recourse becomes civic memory capable of humility.
-
-The design must also prevent recourse from becoming accessible only to the skilled, wealthy, or stubborn. If correction requires expertise, the ledger will reproduce the old economy's bias: those with time and confidence edit reality; others live inside its errors.
-
-Recourse must be visible, local where possible, supported, and proportional to stakes.
-
-A misspelled contribution note does not require a tribunal.
-
-A value-flow decision that affects housing, care, livelihood, credit, or community resources may.
-
-The ledger should know the difference.
+These are tests of an arrangement, not evidence that Neuverse already passes them. Passing a transaction test would still leave the larger question: did the person receive something useful without an unreasonable new burden?
 
 ## Who Governs the Ledger?
 
@@ -1148,6 +645,20 @@ A ledger too rigid becomes law without mercy.
 
 A ledger too fluid becomes politics with a calculator.
 
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
+## Bob: Can the Ledger Find Its Missing Edges?
+
+The most damaging omission may be a relation the schema never asked for. A repair network appears efficient because someone repeatedly sorts the parts in her own time. The ledger records the repaired objects and the technician's hours. The arrangement works until the invisible work stops.
+
+I wonder whether a learning ledger could propose missing dependencies from discrepancies between expected and actual provision, then ask the affected people whether those dependencies are real. A Neusphere could help connect patterns that no single organ owns. The ambition would be to discover new forms of support or capacity, not merely accuse the existing graph of imperfect bookkeeping.
+
+The difficult step is causal. A shared pattern may reflect an omitted task, a common shortage, a mistaken model or an accident. An agent can propose a link; it cannot certify the value of that link by drawing it. Any new acknowledgment, obligation or reward would need a separate decision. Otherwise the economy would mint claims from its own explanatory enthusiasm.
+
+A useful experiment could introduce a known missing dependency into a bounded simulation, then test whether the machinery detects it without inventing relations everywhere else. In a real pilot, people could identify unrecorded burdens voluntarily and judge whether the resulting changes actually relieve them. The harder test is whether the discovery works without requiring those people to become permanent sensors for the institution that missed them.
+
+The wager is an economy that can revise what it knows how to recognize. Existing graphs and learning tools are ingredients; that humane capacity to revise its own categories remains the work.
+
 ## The Civic Metabolism
 
 A living economy is not a pile of coins.
@@ -1194,31 +705,13 @@ It is not even the hand.
 
 It is a sensing and memory layer --- powerful, dangerous, necessary if governed, poisonous if worshipped.
 
-In Tierra Ora, the lunch arrived. The bracket printed. The doctor consulted. The tree entered the graph. The school talk appeared. The old fiat connectors settled quietly in the background, grumbling like retired monarchs.
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
 
-It worked.
+If the Breadboard reaches the intended economic threshold in 2034, the small meal would be a suitable measure of my grandiosity. Not because food is trivial, but because a useful civilization should eventually be able to feed its founder without requiring him to deliver the keynote first.
 
-On the breadboard.
+The claim would concern the activity underneath: accepted contributions, actual provision, honored external obligations and a route that can continue beyond the demonstration. A tree acknowledged, a care burden relieved and an invoice settled would remain different achievements. They would not need to become identical in order to belong to one account of how life is being supported.
 
-That qualifier matters.
-
-Breadboards are not buildings. A breadboard allows wires to meet before the walls are poured around them. It is supposed to spark occasionally. It is supposed to embarrass the theory. It is supposed to show which connection heats before the house burns down.
-
-The living ledger worked that day because the system remained small enough to see, bounded enough to govern, humble enough to show uncertainty, and connected enough to matter.
-
-Scaling it would be harder.
-
-Keeping it humane would be harder still.
-
-But for one afternoon, I held a meal that no one had bought for me and no one had given me as charity. I held a part made by a fabrication cell whose value was not fully captured by price. I spoke to a doctor whose time had settled through a web of contribution I could inspect but not fully own. I agreed to speak to a school because somehow a tree, a doctor, and a civic graph had conspired to make that reasonable.
-
-Money had not vanished.
-
-But it had stepped aside long enough for value to show some of its other faces.
-
-That was enough for the interlude's claim.
-
-A living ledger should track the movement of value without mistaking the ledger for value, or the person for an account.
+The living ledger should make those relations usable without mistaking the record for the life. It can reveal a shortage that invites new capacity, a promise that needs repair, or a gain that has finally become someone else's room to move.
 
 And now the next danger appears.
 
@@ -1229,3 +722,17 @@ The living ledger can remember the loaf, the hand, the hunger, and the field.
 But if a civilization no longer knows what is real --- if every signal can be forged and every story weaponized --- then even the best ledger becomes an accounting system for ghosts.
 
 Before governance, before justice, before care, the next gate asks whether a people can still share a world.
+
+[^v3-i25-ohm]: Georg Simon Ohm, “Bestimmung des Gesetzes, nach welchem Metalle die Contaktelektricität leiten, nebst einem Entwurfe zu einer Theorie des Voltaischen Apparates und des Schweiggerschen Multiplicators,” *Journal für Chemie und Physik* 46 (1826), pp. 137–166. The [Technische Hochschule Nürnberg historical-source catalogue](https://www.th-nuernberg.de/einrichtungen-gesamt/administration-und-service/bibliothek/elektronische-angebote/historische-quellen-am-ohm/) lists this paper separately from *Die galvanische Kette, mathematisch bearbeitet* (1827). The modern equation is a restatement, and the economic comparison is an analogy.
+
+[^v3-i25-property]: Neo4j, [“Graph Database Concepts”](https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/), “Introduction,” “Node,” “Relationship” and “Property.” Documents the property-graph model, not Neuverse's implementation status. Neo4j as the current implementation direction is the author's project statement; the worked schema here is illustrative.
+
+[^v3-i25-prov]: Luc Moreau and Paolo Missier, eds., [*PROV-DM: The PROV Data Model*](https://www.w3.org/TR/prov-dm/), W3C Recommendation, 30 April 2013, especially §§2 and 5. The selected acyclic dependency history discussed here is an application-specific view, not a claim that every PROV or economic graph must be a DAG.
+
+[^v3-i25-concurrency]: Neo4j, [“Concurrent Data Access”](https://neo4j.com/docs/operations-manual/current/database-internals/concurrent-data-access/), “Isolation levels” and “Lost updates,” consulted 5 November 2026. Describes read-committed behavior and explicit locking. The workshop's capacity invariant is the responsibility of the application's validated transaction design.
+
+[^v3-i25-constraints]: Neo4j, [“Create Constraints”](https://neo4j.com/docs/cypher-manual/current/schema/constraints/create-constraints/), “Create property uniqueness constraints” and “Create property existence constraints,” consulted 5 November 2026. Uniqueness alone does not require the property to exist. Available constraint types depend on version and edition; no particular deployment is certified here.
+
+[^v3-i25-outbox]: AWS, [“Transactional Outbox Pattern”](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/transactional-outbox.html), *Prescriptive Guidance*, “Intent,” “Issues and considerations,” and “Using an outbox table with a relational database.” The chapter applies the same local atomic-write principle to a graph-backed design; AWS's example is not a ready-made Neuverse/Neo4j implementation.
+
+[^v3-i25-saga]: Microsoft, [“Saga Distributed Transactions Pattern”](https://learn.microsoft.com/en-us/azure/architecture/patterns/saga), *Azure Architecture Center*, “Solution,” “Key concepts” and “Issues and considerations.” Compensating, irreversible and retryable steps require different treatment. A Saga does not provide one globally isolated transaction or reverse physical consequences.

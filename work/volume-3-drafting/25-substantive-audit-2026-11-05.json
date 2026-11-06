@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-05",
+  "baseline": "be6ff46fbc6de554e9456a4d1b37d448e739d8b5",
+  "scope": [
+    "C25 substantive design completion",
+    "I25 substantive builder completion",
+    "Pair25 projection companion",
+    "Pair24 sign-off and updated project grounding"
+  ],
+  "inputs": {
+    "manuscripts/volume-3/25-chapter.md": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+    "manuscripts/volume-3/25-interlude.md": "94e89663ef68a6c9041ab30b20fa8e8a0cb6badc3525fca648f49981a40a178f",
+    "work/manuscript-manifest.json": "1f180dea950a819f16a0668c2cc6dbdee43e415af4ebc9412f158937d8416cab",
+    "work/EDITORIAL_CONTEXT.md": "3063d0ddf963d70ca5c8762545ce2ff8dcea469b5d589032fe6a27b8822c2205",
+    "work/journal/book.md": "5f6a9a59e70cc696fbd322af5684c95b10758717a920dbaeda4353d2d51ea699",
+    "work/journal/volume-3.md": "3a5396bf5dfd0c1a9b58fc3d4847fd75d1c5c1a2b1f8000463c2d7ff00196a01",
+    "work/VOLUME_III_COMPLETION_PLAN.md": "362a4b0fddd9a6d8954d82c18068656732d066862b71936402a6808b9f3ffc98",
+    "work/handoffs/2026-11-05-codex-to-claude-v3-alignment.md": "e2c769db7966fdb785a8148b40cf1df4f32253f44ab6f14811a273c25dd8aab8",
+    "work/handoffs/2026-11-05-neuverse-tiers-grounding.md": "eac94d11e6d3ab1828080a8e0eba1b3a16feb1bcbc20916a8134155d092bafee",
+    "work/volume-3-drafting/24-substantive-completion-2026-11-05.md": "3380e463d04ed2f56a890676eaad33dffcddfb5ede224ce69c9b9b1baf307f43",
+    "work/DESCRIPTIVE_BOOK_INDEX.md": "f6d46fdcf2706968b8daebea61af85a74411bd7ee06fb05ef3e9d5495c041a89",
+    "work/descriptive-book-index-sources.json": "3f92d0584bc0a202745269f9cd806ebf639c088cfce6efadada1ca7775f18d28"
+  },
+  "outputs": {
+    "work/VOLUME_III_COMPLETION_PLAN.md": "2014b6fd26c297186d5a9ad625164b45467a6f47a5ca815412d59aa677f8f6f3",
+    "work/manuscript-manifest.json": "96073c07c93873151b029d59b387d3ae76922a10ed482d055711eaa4573b5c96",
+    "work/descriptive-book-index-sources.json": "ab8b43589aaf98d04b276c2e08e1175816c4f9e4b480a1123b1c1212bf9c1d6b",
+    "work/DESCRIPTIVE_BOOK_INDEX.md": "b9a3e63e5c0dd5b3e4436fa109554b816a32af5c98b94b3518ed457e7dfa93dd",
+    "work/EDITORIAL_CONTEXT.md": "c8ba4abb4785c5bec663ec11ba26aab76b4c58cc41bea26e14d19f6107fe0f2f",
+    "manuscripts/volume-3/25-interlude.md": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267",
+    "manuscripts/volume-3/25-chapter.md": "bdfdb65fa27a6f4e6b890574f0d6ad5bf9d300fe751fee8edd91428a3e9f511b",
+    "manuscripts/volume-3/assets/25-interlude/provision-and-consequence.svg": "9d9a81a482988b76af098be8215a1b6e656554850b76879f3a51ecdb5ec5723a",
+    "work/journal/book.md": "128a4c1b8e87fbf49dc4a43d09f7928734649e02f24a326742171a6ed614484e",
+    "work/journal/volume-3.md": "82551e62163747058117ba267e896934bc8751be096cfd5cd78128ce030f675c",
+    "work/volume-3-drafting/25-vignette-constructions-2034.md": "be78722b9cfcfd1bc9bf32fc1f95a3c963a33088c00a7cf3e7b24c6c72583841",
+    "work/volume-3-drafting/25-substantive-completion-2026-11-05.md": "1e60d3f36ac62b9de6a6d64e2c169428053309f09268553ed0660c326bc8260f",
+    "work/volume-3-drafting/24-substantive-completion-2026-11-05.md": "32936e09ff38024c8d2103ab7f6d8c8e08662d8787184d1180d2008b2b80eea6",
+    "work/handoffs/2026-11-05-neuverse-tiers-grounding.md": "31840f18f49c04f518ef159ecf8c5dd97619cc19e390966b3c8cedcadb16f373",
+    "work/handoffs/2026-11-05-codex-to-claude-v3-alignment.md": "b9bc13442b36816dad2098f7720b2b36eddcf78c6c573e875dc36ed7ce92e282"
+  },
+  "sources": [
+    {
+      "id": "sen",
+      "url": "https://www.wider.unu.edu/publication/food-economics-and-entitlements",
+      "locator": "Author/publisher record and detailed abstract, Working Paper 1/1986",
+      "verified": "Availability distinct from command over food; author, title, working-paper identity. Full paper not represented as read.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "mechanism",
+      "url": "https://home.uchicago.edu/rmyerson/research/nobel.pdf",
+      "locator": "Sections 1–2, especially printed pp. 3–5",
+      "verified": "Private information, incentive compatibility and coordination mechanisms. Workshop application is original teaching example.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "banking",
+      "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+      "locator": "Article summary, 14 March 2014",
+      "verified": "Banks create deposits through lending, not simply intermediation of preexisting deposits.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "ohm",
+      "url": "https://www.th-nuernberg.de/einrichtungen-gesamt/administration-und-service/bibliothek/elektronische-angebote/historische-quellen-am-ohm/",
+      "locator": "1826 and 1827 catalogue entries",
+      "verified": "1826 Bestimmung paper in volume 46, pp.137–166; full circuit book 1827. Primary bibliographic listing checked; original experiment not reproduced.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "neo4j-property",
+      "url": "https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/",
+      "locator": "Introduction; Node; Relationship; Property",
+      "verified": "Labeled nodes and typed directed relationships carrying properties. Does not require whole graph to be acyclic.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "neo4j-concurrency",
+      "url": "https://neo4j.com/docs/operations-manual/current/database-internals/concurrent-data-access/",
+      "locator": "Isolation levels; Lost updates",
+      "verified": "Default read-committed; explicit locking to serialize access. Application-specific capacity invariant requires validated implementation.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "neo4j-constraints",
+      "url": "https://neo4j.com/docs/cypher-manual/current/schema/constraints/create-constraints/",
+      "locator": "Property uniqueness and property existence",
+      "verified": "Uniqueness scopes, missing-property caveat, edition-specific availability of existence constraints.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "provenance",
+      "url": "https://www.w3.org/TR/prov-dm/",
+      "locator": "Abstract; sections 2 and 5",
+      "verified": "Entities, activities and responsible agents; no truth, causality or spendability guarantee.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "outbox",
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/transactional-outbox.html",
+      "locator": "Intent; Issues and considerations; Using an outbox table",
+      "verified": "Local atomic record/message write with subsequent dispatch; duplicates and order matter. Source implementation is relational, not a Neuverse graph implementation.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "saga",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/saga",
+      "locator": "Solution; Key concepts",
+      "verified": "Local transactions, compensation, irreversible/pivot and retryable steps. Not global ACID or reversal of physical acts.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "ilo",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+      "locator": "2025 report page and findings summary",
+      "verified": "Clerical and digitized task exposure; transformation distinguished from universal job loss. Retained note rechecked; no 2034 forecast established.",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "project_sources": [
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/7 Neuconomy and Provisioning Charter.md",
+      "sha256": "98e911e0be1a6f4cd37f816114c8c0c66452f621335b2dc93731ca6aae826856",
+      "reading_scope": "Full charter",
+      "authority": "Author project intentions, not independent implementation evidence"
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/3 Neusphere and iNeural Charter.md",
+      "sha256": "99fd1cdd2c7f7c00fba35104584dfc3b21c56487ef34f9a359a53d6267e11435",
+      "reading_scope": "Neusphere-focused sections 1.1–1.3,3–4,6.4,11.1–11.3,12.1–12.3,16,17.3. iNeural excluded as roadmap premise",
+      "authority": "Author project intentions, not independent implementation evidence"
+    }
+  ],
+  "author_input": "Neo4j is current Neuverse implementation direction; no implementation repository or deployment inspected.",
+  "preservation": {
+    "chapter_opening_verbatim_excluding_subtitle": true,
+    "chapter_historical_braid_verbatim": true,
+    "apple_joke_opening_verbatim": true,
+    "interlude_opening_verbatim_excluding_subtitle": true
+  },
+  "historical_sources_retained_without_fresh_full_review": [
+    "v3-25-arsacids",
+    "v3-25-bison",
+    "v3-25-harmony",
+    "v3-25-treaty"
+  ],
+  "validation": {
+    "chapter": {
+      "defined_notes": 8,
+      "note_references": 8,
+      "parsed_notes": 8,
+      "html_note_backlinks": 8,
+      "display_equations": 1,
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    "interlude": {
+      "defined_notes": 7,
+      "note_references": 7,
+      "parsed_notes": 7,
+      "html_note_backlinks": 7,
+      "display_equations": 1,
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    "bookwide_note_collisions": [],
+    "manifest_hashes_match": true,
+    "local_image_targets_resolve": true,
+    "new_editorial_links_resolve": true,
+    "equation_tex_checked": true,
+    "diagram": "Original grayscale SVG rendered with sharp and visually inspected; crossing caption removed and final preview checked.",
+    "git_diff_check": "passed before audit installation",
+    "limits": "Editorial and document checks, not execution of a Neo4j prototype, proof of financial feasibility, human reader testing, or a publisher render/deployment."
+  },
+  "pending": [
+    "Final vignette prose and callbacks by Sam/Claude",
+    "Pizza external payment and acceptance mechanism",
+    "Noesis and Open25",
+    "C25 placeholder epigraph",
+    "Remaining pairs and whole-volume handoff"
+  ],
+  "not_done": [
+    "No external handoff",
+    "No publication",
+    "No changes to old book_poma or project charters",
+    "No incoming Claude adoption resumed"
+  ]
+}

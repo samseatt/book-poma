@@ -114,58 +114,21 @@ The old economy wanted a category.
 
 The new one needed a circulation.
 
+<!-- Opening above retained for Sam/Claude. Use work/volume-3-drafting/25-vignette-constructions-2034.md; future scene is not reported memoir. -->
+
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
 ## When the Desks Go Dark
 
-The first shock of automation was measured in jobs.
+What interests me about that possible tower is the change in its directory. An organization can remain busy after its purpose has moved out. The stationery is usually the last to know.
 
-That was understandable. Jobs are how most people meet rent, food, medicine, status, routine, social contact, and the fragile dignity of being able to answer a child's question about what one does all day. When jobs vanish or mutate too quickly, the harm is not only economic. It is ontological. People do not merely lose income. They lose the daily theater in which society tells them they are needed.
+Looking toward March 2034, I expect increasingly capable agents to perform substantial stretches of analysis, design, administration and coordination. Some occupations will be reorganized, some displaced, others enlarged by work that previously cost too much to attempt. The question does not require every desk to empty. It begins wherever useful output grows while the people who helped sustain the system lose their claim on its benefits.
 
-So when the desks began to empty, everyone counted the jobs.
+Employment has bundled income, identity, training, companionship and a tolerable answer to the question, “What do you do?” Unbundle it carelessly and cheaper intelligence can make a society both more productive and less secure. Reconstitute the bargain well and people may gain time, useful provision and room for contributions that payroll never learned to recognize.
 
-How many lost?\
-How many displaced?\
-How many retrained?\
-How many new roles created?\
-How many transitioned?\
-How many "liberated from drudgery," as one report put it, with the cheerful cruelty of a sentence written by someone whose own role was not yet liberated?
+I want the latter. Wanting it supplies neither the ownership arrangement nor the groceries.
 
-These were reasonable questions.
-
-They were also incomplete.
-
-The deeper fracture was not employment alone. It was the exposure of an old confusion:
-
-We had mistaken paid work for contribution.
-
-Money for value.
-
-Price for truth.
-
-Accumulation for health.
-
-The desk had hidden this confusion because it translated cognition into salary efficiently enough. A person wrote reports, managed processes, reviewed contracts, handled accounts, attended meetings, analyzed data, designed interfaces, coordinated teams, generated slides, endured jargon, received payment, and called it work. Much of it was work. Some of it was necessary. Some of it was performance. Some of it was bureaucracy eating its own tail with catering.
-
-But all of it passed through the wage signal.
-
-The wage signal said: this counts.
-
-Meanwhile, outside the signal, people cooked, cleaned, mentored, cared, repaired, mediated, listened, taught, translated, hosted, comforted, preserved, planted, watched children, watched elders, watched one another, remembered birthdays, noticed decline, held families together, and prevented countless small collapses from becoming public expenses.
-
-Much of that did not count.
-
-Or counted only when it failed.
-
-The desk exodus did not create that contradiction.
-
-It stripped away the furniture hiding it.
-
-When the old desks went dark, the question became unavoidable:
-
-What still needs doing?
-
-Who can do it?
-
-How should value move toward it?
+The invisible hand is good at some kinds of coordination. It cannot be expected to write a distributional constitution while pretending it has no fingers in the matter. Those arrangements are already designed: through property, contracts, inheritance, public provision and the terms on which people can participate. A humane economy begins by making that design available for revision.
 
 ## Who Gets the Harvest?
 
@@ -279,7 +242,9 @@ That hat has been useful. Money lets value travel across distance, time, and str
 
 Money is one of humanity's greatest compression technologies.
 
-But every compression loses information.
+<!-- AI-assisted factual repair: compression can be lossless; the issue here is what a monetary representation omits. -->
+
+But a price does not preserve every dimension of what it represents.
 
 Money compresses labor, time, trust, scarcity, risk, social permission, state backing, legal enforceability, narrative confidence, and future claim into a number. That compression makes coordination possible. It also strips away the story.
 
@@ -325,6 +290,43 @@ Money is a receipt from a much larger reality.
 
 A humane economy must keep the receipt from becoming the religion.
 
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
+<!-- AI-assisted substantive clarification: the charter distinguishes price, value and values. -->
+
+In the Neuconomy vocabulary, *price* is a monetary signal, *value* concerns what a relation contributes or enables, and *values* constrain which outcomes and means we are willing to accept. They inform one another without becoming interchangeable. A cheap route can violate a value; a valuable contribution can remain expensive to support.
+
+## A Claim on the Harvest
+
+A machine can make more bread without changing who may eat it. Amartya Sen's entitlement approach made the distinction severe: food availability and people's ability to command food are different questions. Production, exchange and institutional claims connect them; aggregate supply alone does not describe who can obtain a meal.[^v3-c25-sen]
+
+The same distinction matters before any imagined abundance. A contribution can be recognized without being rewarded. A reward can be promised without a supplier willing or able to honor it. A booked service can fail to arrive. Recognition, claim, capacity and delivery are separate design objects. Calling all four “value” saves vocabulary at the cost of lunch.
+
+An automation dividend therefore needs a route from productive gain to lived benefit. Lower prices are one route, if competition and access make them reach the intended people. Negotiated shorter hours at maintained pay are another, provided the gains cover the arrangement rather than being quietly extracted from coworkers. Shared ownership can distribute returns, but ownership also distributes losses and may concentrate risk in the same enterprise that supplies one's livelihood. Public revenue can fund services or cash support, subject to a real tax base, administrative capacity and political durability. A contribution credit offers a narrower claim on specified provision. It does not acquire purchasing power merely by being beautifully named.
+
+| Arrangement | What reaches the participant | What the design must establish |
+| --- | --- | --- |
+| Cash or a cash dividend | Choice among willing sellers | Funding, distribution rule and whether scarce supply absorbs the gain in higher prices |
+| Shared service provision | Access to an actual good or service | Capacity, quality, user choice, maintenance and a remedy when the service fails |
+| Shared ownership | A claim on returns and some defined authority | Acquisition terms, risk, governance and protection against concentrated dependence |
+| Contribution-linked access | A specified benefit under agreed rules | Who owes what, available supply, expiry and treatment of people unable to contribute |
+
+These can coexist. The comparison is between arrangements that could serve the same people under the same resource conditions, not between a flawed market and a community whose volunteers, electricity and patience are all free.
+
+For a concrete design problem, suppose a repair workshop gains capacity through AI-assisted diagnosis and scheduling. It can use that capacity to serve more households, reduce charges, shorten working hours, maintain tools properly, or accumulate a reserve. Each option changes a different claim. The gain has not become a civic dividend until someone can actually exercise the resulting access or freedom. A dashboard announcing “twenty hours saved” while everyone works twenty hours harder has discovered a new unit of managerial optimism.
+
+## Rules That Survive Their Participants
+
+Mechanism design examines how rules coordinate action when people hold different information and respond to incentives. Its question is whether the desired outcome can arise through the participants' actual choices, rather than through a planner's assumption that everyone will report honestly and obey. Incentive compatibility concerns the advantage of following the intended reporting or action rule under specified assumptions; it does not certify the justice of the outcome.[^v3-c25-mechanism]
+
+Apply that question to the workshop. Reward the number of completed repairs and easy jobs become attractive. Reward time spent and delay may become valuable. Give priority solely to declared urgency and everyone acquires an emergency. These are possible responses to our proposed rules, not evidence that every participant is a swindler. Goodwill also changes under a system that treats it as a billable input.
+
+We can separate an essential repair allowance from optional contribution rewards, publish the priority rule, reserve some capacity for urgent failures, and assess a repair by whether the object works after an appropriate interval. That combination still needs trial. A delayed reliability measure may disadvantage difficult repairs; a reserve may sit unused while people wait. Compare it with a simpler cash allowance or ordinary service contract before adding another organ to the diagram.
+
+This is also where *multi-objective design* becomes practical. Cost, delay, environmental burden and user choice need not collapse into one goodness score. First identify binding constraints: safe work, a funded provision floor, genuine consent. Then compare feasible alternatives on the remaining dimensions. An option is Pareto-dominated if another improves at least one chosen dimension without worsening any of the others; eliminating it can narrow the choice. The surviving options may still express a real disagreement about values. No weight slider can settle that disagreement by arithmetic alone.
+
+Now vary the assumptions. Halve the productivity gain. Let the main provider leave. Increase demand, material costs or administration. Ask whether the floor survives and who loses an optional benefit first. The result is a design with stated operating conditions, not a prophecy with a spreadsheet attached.
+
 ## The Apples in the Closet
 
 Here is a simple economic experiment.
@@ -363,7 +365,9 @@ Food destroyed to protect price.
 
 Trust accumulated by an institution that refuses to spend any of it on accountability.
 
-These are apples in closets.
+<!-- AI-assisted qualification: preserve the apple conceit without equating financial balances with physical stocks. -->
+
+These are different ways of keeping the closet shut. They do not share one economic mechanism. A bank deposit does not rot like an apple; a financial claim may fund productive activity, and selling an existing asset may merely change its owner. The useful question is which access, capacity or decision is being blocked, by whom, and at whose expense. The smell is an invitation to investigate, not a complete theory of banking.
 
 The old economy often treated stored value as inherently virtuous. Savings, reserves, capital, investment, assets --- all important, all real. A person without a buffer is not free; he is one surprise away from obedience. A family needs reserves. A community needs stores. A region needs emergency capacity. A civilization that does not store for winter has mistaken spontaneity for wisdom.
 
@@ -499,7 +503,7 @@ A civilization that cannot see unpaid care is not economically sophisticated.
 
 It is blind in the room where it was raised.
 
-The desk exodus makes this blindness harder to defend because it fractures the old identity bargain. If fewer people can claim usefulness through wage labor, usefulness must either be rediscovered more honestly or withheld as a weapon.
+Widespread restructuring of paid work would make this blindness harder to defend because it fractures the old identity bargain. If fewer people can claim usefulness through wage labor, usefulness must either be rediscovered more honestly or withheld as a weapon.
 
 Contribution is broader than employment.
 
@@ -583,145 +587,49 @@ The humane economy does not abolish transactions.
 
 It makes them answer to flows.
 
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
 ## The Bank Refactored
 
-The bank is an old temple of surrogate value.
+The bank is an old temple of surrogate value. Not always a wicked temple. Banks have financed homes, farms and useful enterprises whose future could not wait for someone to fill a jar. Modern commercial banks also create deposits when they lend; they are not simply custodians handing one saver's stored money to another customer. Credit brings its own obligations and constraints. It does not create the workers, materials or energy that a loan seeks to command.[^v3-c25-banking]
 
-Not always a wicked temple. Let us be fair. Banks have funded homes, businesses, farms, education, cities, trade, and many reasonable things that required more money than anyone had in a jar. Credit is powerful because the future sometimes needs to arrive before the cash does.
+That distinction survives every refactoring. We can redesign a claim more quickly than we can grow an orchard.
 
-But the old bank also trained civilization to look at value through a narrow window.
+In my proposed Neuconomy, the work is divided. **Neubank** would organize provision: what is needed, which resources can meet it, whose authority allows the route, and whether it arrived. **xFin** would help develop capacity where repeated shortages reveal something that matching alone cannot fix. **Glia** would represent resources and their condition. **Neumm** would let a participant understand her situated contributions, needs and claims. The names describe intended responsibilities; they do not establish a functioning bank, guaranteed return or completed economy.
 
-How much do you hold?
+The economy's richer memory should connect a contribution to its consequences without pretending every consequence is a cash balance. Price remains useful, especially at the boundary with outside suppliers. Neurocoin is intended as a boundary value medium within this proposal, not as the measure of a person's worth. Its issuance, acceptance and redemption arrangements must earn their credibility separately.
 
-What collateral secures you?
+A recurring inability to repair mobility aids, for example, may reveal a shortage of parts, workspace or trained capacity. Neubank can expose that pattern. xFin can help compare investments that address it. Neusphere, as a developing collective capacity to interpret these signals, could connect it with transport and care burdens that each organ sees only partly. Intelligence becomes useful when it discovers a better question than “Which waiting person can we reject most efficiently?”
 
-What is your creditworthiness?
+Someone must still supply the investment, bear the risk and replenish what wears out. Contributions, earned revenue, public funding and outside capital have different conditions; none becomes invisible because it enters through a connector. A prototype can legitimately depend on seed funding. The later claim that its ordinary activity sustains provision needs a different account.
 
-What return can be extracted from your need?
-
-How safely can your future be converted into someone else's yield?
-
-The old bank's genius was trust made transferable.
-
-Its sin was often forgetting what the trust was for.
-
-A refactored bank would not ask only how much value you hold.
-
-It would ask:
-
-What value is stuck?
-
-What value is needed?
-
-What value can safely move?
-
-What contribution has occurred but remains unsupported?
-
-What capacity lies idle?
-
-What needs are recurring because no structural flow exists?
-
-What surplus can circulate without destroying buffers?
-
-What commons require maintenance?
-
-What obligations are becoming permanent traps?
-
-What hoards are distorting life?
-
-This is the intuition behind a value-flow bank, whether or not we name it yet.
-
-A bank as steward of circulation.
-
-A bank as memory of contribution and need.
-
-A bank as translator between old money and living value.
-
-A bank that helps prevent bottlenecks rather than profiting from them.
-
-A bank that supports provisioning, stabilizes local resilience, converts contribution into usable access, discourages speculative hoarding, and makes value visible without reducing worth to a score.
-
-This is not a small shift.
-
-It asks banking to move from vault to vascular system.
-
-From guarding stored claim to stewarding flow health.
-
-From asking, "How much can be extracted from this future?" to "What must move now so this future remains livable?"
+The task is to move finance closer to the life it makes possible. A bank as steward of circulation, a provision network able to reveal its own limits, and investment that enlarges useful capacity rather than merely raising the price of entry.
 
 Naturally, such a bank would be accused of not being a real bank.
 
 This might be praise.
 
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
 ## Anti-Hoarding by Design
 
-The old economy treated accumulation as proof of success.
+A pantry protects winter. A dragon's cave blocks the valley. The distinction is useful precisely because both contain stored things.
 
-More assets.
+Deciding which we are looking at requires a resource model. Medicine held against a supply interruption, a machine awaiting repair, a household's savings and a speculative restriction on essential access cannot sensibly share one expiry rule. Some reserves must remain unused to do their job. Their protection is the service.
 
-More market share.
+For a store of usable goods, measured in one consistent unit, the basic account is plain:
 
-More data.
+$$
+S_{t+1}=S_t+\text{receipts}_t-\text{deliveries}_t-\text{losses}_t.
+$$
 
-More land.
+A reservation earmarks part of the stock; it is not another physical departure. Before promising new deliveries, subtract existing reservations and the justified protective reserve from usable stock. Confirmed future supply can support future commitments, but should carry its own arrival risk. Dollars, apples and hours cannot be added because a dashboard has placed them in adjacent columns.
 
-More patents.
+With that account in view, ask why resources are idle. Is storage protecting a future need, or preserving a bottleneck? Would circulation require transport, repair, permission or new capacity? Charging for idle use might help in one case and destroy resilience in another. Expiring a workshop voucher may release an abandoned booking; expiring a vulnerable person's savings because her life is insufficiently liquid would be a different achievement.
 
-More influence.
+Anti-hoarding options include stewardship obligations, circulation incentives, targeted use charges and limits on concentrated control. Each needs a stated purpose, exceptions and a way to contest misclassification. An efficient computer is quite capable of emptying everybody's pantry at once.
 
-More yield.
-
-More ability to wait while others cannot.
-
-Accumulation is not always wrong. Reserves matter. Savings matter. Working capital matters. Community buffers matter. Seed banks, grain stores, emergency stockpiles, pension funds, medical supplies, rainy-day funds --- these are civilization remembering that tomorrow exists and sometimes arrives with teeth.
-
-But hoarding is different.
-
-Hoarding blocks flow.
-
-Hoarding converts scarcity into leverage.
-
-Hoarding weaponizes waiting.
-
-Hoarding makes others rent access to what life already needs.
-
-Anti-hoarding design must therefore be careful. If done crudely, it becomes confiscatory fantasy or moral theater. If ignored, it allows value to pool into private gravity wells strong enough to bend law, labor, land, attention, and truth.
-
-Design possibilities exist.
-
-Decay on some idle surplus in certain contexts.
-
-Expiration on contribution credits meant for circulation.
-
-Incentives for local reinvestment.
-
-Stewardship obligations tied to ownership of essential assets.
-
-Use-it-or-share-it signals for idle capacity.
-
-Commons contributions attached to extraction rights.
-
-Progressive obligations on unused housing, land, data, compute, or material stockpiles.
-
-No-speculation rules around certain life-critical flows.
-
-But every mechanism must distinguish buffers from bottlenecks.
-
-A family's savings are not the same as a speculative empty tower.
-
-A community reserve is not the same as hoarded medicine.
-
-A farmer's stored seed is not the same as intellectual-property fencing around survival.
-
-A pantry protects.
-
-A dragon's cave blocks the valley.
-
-A humane economy protects pantries and discourages dragon caves.
-
-This is an old moral distinction in new clothes. Nearly every tradition has known, in some form, that surplus carries obligation. The question is how to encode that obligation without building a new priesthood of allocation.
-
-That is why the next interlude will matter. Anti-hoarding cannot rest on sermon. It needs substrate: ledgers, expiry, governance, auditability, and recourse designed carefully enough not to become social credit wearing a halo.
+The apples keep their lesson. Stored claims and stored life must eventually meet. Where that meeting is blocked, investigate the obstruction before writing a sermon about the person holding the key.
 
 ## Value Memory, Not Human Scoring
 
@@ -817,6 +725,10 @@ An economy that maximizes liquidity while children are hungry has confused motio
 
 An economy that lets elders become logistical burdens inside systems that cannot see them has mistaken age for inefficiency and forgotten who built the room.
 
+<!-- AI-assisted substantive addition: a provision floor needs funding and a shortage rule. -->
+
+A protected provision floor needs an accountable provider and a budget. During a transition it might rest on public services, pooled revenue or a specified share of productive returns; the institution must identify which. Its promise must extend to people unable to contribute and must say what happens when demand exceeds capacity. Urgency, temporary substitution, waiting and appeal are different responses. A floor written as a right and supplied only when donors feel generous remains a fragile floor.
+
 Provision does not mean every need is centrally assigned. It does not mean bureaucracy becomes the parent of all. It does not mean markets vanish, enterprise dies, or everyone lines up for identical shoes in a color called Civic Grey.
 
 It means the economy remembers its first responsibility: life must be provisioned before surplus becomes a game.
@@ -883,7 +795,7 @@ To the real flow of value, not only the private capture of its symbols.
 
 ## Livelihood After Jobs
 
-If the desk exodus taught one thing, it was that people need livelihood, not merely income.
+If the desk exodus in my projection has a useful lesson, it is that people need livelihood, not merely income.
 
 Income matters. Let no writer, theorist, policy designer, or well-fed futurist pretend otherwise. Rent does not accept philosophical nuance. Groceries have limited patience for civilizational reframing. Medicine is rarely moved by poetic arguments about contribution.
 
@@ -901,7 +813,7 @@ When jobs fracture, the bundle comes apart.
 
 Basic income may address part of the income problem. It may be necessary in some form. But money alone cannot replace the lost weave of usefulness. A person given purchasing power but no contribution pathway may survive and still feel exiled from meaning.
 
-The post-desk economy must therefore build livelihood pathways.
+An economy less able to distribute livelihood through jobs must therefore build other pathways.
 
 Care roles.
 
@@ -1001,13 +913,35 @@ A society entertained, fed, monitored, managed, nudged, and unnecessary to itsel
 
 The humane economy must avoid both.
 
+<!-- AI-assisted substantive draft: Codex, 2026-11-05. -->
+
+## Alice: The Dividend That Leaves Us Alone
+
+I wonder whether an economy can become more attentive to need while asking less of a person in exchange for being seen. Our usual bargains travel in the other direction: more support, more disclosure; more contribution, more proof; more efficiency, another use for the hour just released.
+
+Suppose some of the automation dividend were deliberately realized as freedom from compulsory legibility. A dependable provision floor could let a person step away from the contribution graph for a time, care for someone privately, change direction, or simply have a life for which the system has not yet invented a category. The proposal is not merely to pay for privacy. It is to ask whether reducing the need to advertise useful behavior could improve the quality of the contribution that remains.
+
+There is an awkward test for my own hopes here. The arrangement might encourage unrecorded care and experimentation; it might also concentrate the work among people least able to refuse it. I would want to compare both possibilities, including what happens to quiet contributors, before declaring an emancipated afternoon a civilizational discovery. Privacy makes the measurement harder. Good. If the only way to prove the freedom is to watch everyone using it, the experiment has lost its subject.
+
+The open question is whether a richer economic memory can support a larger unmeasured life. That would be an interesting kind of abundance to build.
+
+## The Next Move — Give Abundance Somewhere to Go
+
+Follow one real gain in productive capacity. It might be time recovered in a clinic, a repair made cheaper, or an agent doing work that once consumed a team. Find where the benefit goes and which person can actually claim some of it. Then help make that claim dependable: a service place, lower cost, released time, shared return or a reserve that will be there when needed.
+
+Name the resource, the obligation and the party carrying it. Compare what was promised with what someone could use. Keep essential support outside the contest for contribution points. Participation in a Neuconomy would be worthwhile if it helps establish such a route; membership alone is not the result.
+
+I would rather begin with one ordinary benefit someone can rely on than a spectacular total no one can spend.
+
 ## Economies That See
 
-The tower I entered in 2034 was not the future.
+<!-- AI-assisted prospective framing repair; final opening and callbacks remain for Sam/Claude. -->
+
+The tower I picture for 2034 would be one possibility, not the future.
 
 That would be too neat, and the future has never been considerate enough to fit inside one building, even a building with excellent ventilation and a repentant bank branch.
 
-But the tower showed a possibility.
+In that projection, the tower shows a possibility.
 
 A former office economy had become a flow economy. Not perfectly. Not purely. Not without politics, fraud, confusion, status games, weird interface decisions, and people who still wanted to know whether their contribution came with dental coverage. The old world had not vanished. Fiat still translated. Markets still operated. Wages still existed. Businesses still formed. Rent still collected itself with traditional enthusiasm.
 
@@ -1079,7 +1013,7 @@ It needs ledgers.
 
 But living ones.
 
-The next interlude goes there: into the old trading floor, the flow graph, the service credit, the DAG, the dangerous memory of value --- and the question that must sit above every economic instrument we build:
+The next interlude goes there: into the flow graph, the service credit, the settlement, the dangerous memory of value --- and the question that must sit above every economic instrument we build:
 
 Does this ledger help life move, or does it teach life to kneel before the ledger?
 
@@ -1092,3 +1026,9 @@ Does this ledger help life move, or does it teach life to kneel before the ledge
 [^v3-25-treaty]: [Treaty with the Creeks, January 24, 1826](https://treaties.okstate.edu/treaties/treaty-with-the-creeks-1826-0264), preamble and Articles 1–2, *Tribal Treaties Database*, Oklahoma State University. Annulment of the earlier instrument did not eliminate land cession.
 
 [^v3-25-ilo]: Paweł Gmyrek and colleagues, [*Generative AI and Jobs: A Refined Global Index of Occupational Exposure*](https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure), ILO Working Paper 140 (2025). Its task-exposure estimates are not forecasts of unemployment in 2034.
+
+[^v3-c25-sen]: Amartya Sen, [*Food, Economics and Entitlements*](https://www.wider.unu.edu/publication/food-economics-and-entitlements), WIDER Working Paper 1 (1986), especially the distinction between food availability and command over food. This design application does not claim that every shortage is solely a distribution problem.
+
+[^v3-c25-mechanism]: Roger B. Myerson, [“Perspectives on Mechanism Design in Economic Theory”](https://home.uchicago.edu/rmyerson/research/nobel.pdf), Nobel Prize Lecture, 8 December 2007, §2, “Elements of Mechanism Design Theory.” The workshop and comparison of allocation choices are applications developed here, not results demonstrated by Myerson's lecture.
+
+[^v3-c25-banking]: Michael McLeay, Amar Radia and Ryland Thomas, [“Money Creation in the Modern Economy”](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy), *Bank of England Quarterly Bulletin* (2014 Q1). Explains loan-created deposits and the constraints on bank lending; it does not establish the feasibility of Neuconomy's proposed instruments.

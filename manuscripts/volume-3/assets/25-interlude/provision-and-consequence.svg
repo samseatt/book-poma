@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<title id="title">Provision, settlement and consequence</title><desc id="desc">An illustrative provisioning workflow: an entitlement and resource offer feed a route from request through reservation to delivery. Delivery updates consequence records and an independent settlement account. Reconciliation, corrections and privacy are explicit. This is a logical view, not a deployed Neuverse architecture.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#333"/></marker></defs>
+<rect width="1000" height="760" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#171717}.title{font-size:27px;font-weight:bold}.head{font-size:21px;font-weight:bold}.body{font-size:18px}.small{font-size:16px}.box{fill:#fafafa;stroke:#333;stroke-width:2}.line{fill:none;stroke:#333;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="40" y="43" class="title">One provision, several kinds of truth</text>
+<text x="40" y="73" class="body">Illustrative logical model • property graph, not a compulsory DAG</text>
+<rect x="40" y="104" width="430" height="109" rx="6" class="box"/>
+<text x="56" y="134" class="head">Entitlement</text>
+<text x="56" y="162" class="body">Issuer • benefit • terms • authority</text>
+<text x="56" y="186" class="body">A claim does not guarantee an available slot.</text>
+<rect x="530" y="104" width="430" height="109" rx="6" class="box"/>
+<text x="546" y="134" class="head">Resource offer / Glia</text>
+<text x="546" y="162" class="body">Usable capacity • reserve • provider</text>
+<text x="546" y="186" class="body">Capacity is not money or human worth.</text>
+<rect x="24" y="248" width="952" height="188" rx="8" fill="#efefef" stroke="#777" stroke-dasharray="7 5"/>
+<text x="42" y="276" class="small">NEUBANK: LIVE ROUTING WORKFLOW</text>
+<rect x="42" y="294" width="250" height="118" rx="6" class="box"/>
+<text x="58" y="324" class="head">Request</text>
+<text x="58" y="352" class="body">Need and preferences</text>
+<text x="58" y="376" class="body">Permitted context</text>
+<rect x="375" y="294" width="250" height="118" rx="6" class="box"/>
+<text x="391" y="324" class="head">Reservation</text>
+<text x="391" y="352" class="body">Checked capacity</text>
+<text x="391" y="376" class="body">Provider commitment</text>
+<rect x="708" y="294" width="250" height="118" rx="6" class="box"/>
+<text x="724" y="324" class="head">Delivery</text>
+<text x="724" y="352" class="body">Performed / accepted</text>
+<text x="724" y="376" class="body">Or disputed / failed</text>
+<path d="M292 350 H375" class="line"/>
+<path d="M625 350 H708" class="line"/>
+<path d="M255 213 V231 H457 V294" class="line"/>
+<path d="M745 213 V231 H543 V294" class="line"/>
+<rect x="40" y="497" width="430" height="124" rx="6" class="box"/>
+<text x="56" y="527" class="head">Durable consequences / Neuconomy</text>
+<text x="56" y="555" class="body">Evidence • obligations • resource changes</text>
+<text x="56" y="579" class="body">Assessments retain their basis and version.</text>
+<text x="56" y="603" class="body">Corrections reach affected decisions.</text>
+<rect x="530" y="497" width="430" height="124" rx="6" class="box"/>
+<text x="546" y="527" class="head">External settlement, if required</text>
+<text x="546" y="555" class="body">Named payer • instrument • counterparty</text>
+<text x="546" y="579" class="body">Pending and unknown remain visible.</text>
+<text x="546" y="603" class="body">Reconcile against external records.</text>
+<path d="M833 412 V460 H255 V497" class="line"/>
+<path d="M833 460 H745 V497" class="line"/>
+
+<path d="M470 560 H530" fill="none" stroke="#555" stroke-width="2" stroke-dasharray="5 5"/>
+<text x="40" y="663" class="head">Views are purpose-specific</text>
+<text x="40" y="693" class="body">Neumm: participant reflection   •   Audit: scoped evidence   •   Public: protected aggregates</text>
+<text x="40" y="730" class="small">Linking a contribution to a benefit does not itself create a redeemable claim or a funded payment.</text></svg>

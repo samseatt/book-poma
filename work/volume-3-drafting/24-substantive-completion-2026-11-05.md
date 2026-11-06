@@ -1,6 +1,6 @@
 # Pair 24 — Agency and the machinery of delegation
 
-5 November 2026 · Substantive source completed for author review · Later literary pass reserved
+5 November 2026 · Substantive preparation accepted by Sam · Later literary pass reserved
 
 ## What the reader gains
 
@@ -62,3 +62,6 @@ These are intellectual fits, not author-approved final vignettes. Apply the late
 Ten notes in C24 (seven retained historical/agent notes plus three method sources), nine in I24, and the revised I23 astronomy note. The adjacent audit records checked sources, exact input/output hashes, preserved passages and validation. Historical sources other than Hamilton and the new technical mirrors are retained from the preceding researched braid, not represented as exhaustively rechecked in this pass.
 
 No pilot, security certification or exact future capability is established by these sources. Native Markdown/footnote/asset/manifest checks and the diagram preview are editorial verification, not production validation of Tiers. The whole-volume Claude handoff remains withheld. Pair 25 follows after Sam's review opportunity; no external message or publishing action is part of this change.
+
+
+**Author sign-off:** Sam subsequently called pair 24 strong and final for this preparation stage. The latest Neuverse/Tiers-grounded directions govern; the superseded general-mentoring companion remains withdrawn. Final literary realization is still reserved.

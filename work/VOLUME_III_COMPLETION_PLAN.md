@@ -1,6 +1,6 @@
 # Volume III substantive completion and later Claude handoff
 
-5 November 2026 · Active editorial workflow · Steps 1–2 complete; pair 23 accepted; pair 24 substantive source completed for review
+5 November 2026 · Active editorial workflow · Steps 1–2 complete; pairs 23–24 accepted; pair 25 substantive source completed for review
 
 ## Author decision and division of work
 
@@ -102,3 +102,8 @@ The calibration is accepted for the later Claude literary pass. C23's fractured 
 ## Pair 24 substantive completion — 5 November 2026
 
 C24/I24 now specialize the accepted design/build division in personal agency and enforceable delegation. The pair brief records methods, mechanisms, sources, illustration, preserved narrative and prospective milestone-story candidates. Author review and Sam/Claude's literary realization remain; pair 25 is the next substantive unit. I23's Babylonian observation passage was also repaired with its nearby 747 BCE footing. No later pair has been changed, no incoming adoption resumed, and the complete outgoing handoff remains withheld.
+
+
+## Pair 25 substantive completion — 5 November 2026
+
+Sam has accepted pair 24. C25/I25 now teach allocation and actual fulfillment rather than relying on value-flow rhetoric: mechanism design, alternative benefit arrangements, resource accounts, graph modelling, local transaction invariants and reconciliation. The [pair brief](volume-3-drafting/25-substantive-completion-2026-11-05.md) and [concrete opening constructions](volume-3-drafting/25-vignette-constructions-2034.md) record the result and its literary reservations. The Neuconomy charter and Sam's Neo4j implementation direction ground the work; Neusphere remains a broader cognitive aspiration and iNeural is excluded as a dependency. The pizza remains the 2034 economic milestone with its exact payment path unresolved. Final whole-volume handoff remains withheld. Pair 26 is next after author review opportunity.

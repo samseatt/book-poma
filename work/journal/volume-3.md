@@ -407,3 +407,17 @@ The companion uses checked METR/NIST baselines without representing benchmarks o
 Read all three requested documents: the parent Neuro ecosystem charter, Tiers living vision v0.8 and first-sowing direction v0.3. Created [a source-grounded editorial note](../handoffs/2026-11-05-neuverse-tiers-grounding.md). It corrects the narrower view of Tiers as infrastructure, preserves the organ-level ambition and the distinction between a design target and achieved scale, and proposes more appropriate pair-24 directions: a person joining on meaningful civic terms; other developers and agents extending the technological undertaking without inheriting unchecked authority. The exact story remains open.
 
 Marked the prior companion as superseded on its personal premise, corrected the brief and idea-catalogue pointers, and updated the withheld handoff and standing context. The rejected story remains visible as provenance, not active instruction. No canonical manuscript, charter, Tiers document, source footnote, historical date, figure or publishing file was altered. This intake does not claim completion of all later Gate alignment or approval of a new scene.
+
+## V3-PAIR24-004 — Author acceptance and broader future options
+
+**Accepted, 5 November 2026.** Sam calls pair 24 strong and final for the current preparation stage. This accepts the latest project-grounded direction, not the superseded generic mentoring story. Final opening realization remains with Sam/Claude. Subsequent projections may include intellectual inquiry and ordinary life in the era as well as named-project activity; see B-032.
+
+## V3-PAIR25-001 — Economy and ledger substantive completion
+
+**Completed for review, 5 November 2026.** Canonical C25/I25 now contain allocation/entitlement and incentive design, alternatives, stock/flow and resource constraints, the funded provision floor, graph/event distinctions, reservations, transactions, outbox/Saga/reconciliation, a worked workshop case and a grayscale figure. New Alice/Bob drafts and C25's *Give Abundance Somewhere to Go* supply the exploratory and Next Move material.
+
+Read the Neuconomy charter; incorporated Sam's subsequent Neo4j direction. Corrected I25's subtitle from *DAG Economies* to *Graph Economies*. The complete historical braid in C25 stays verbatim. I25 replaces undated mechanical allusions with **Ohm's 1826 paper**, explicitly distinguishing the **1827** book. New sources are bookmarked; prior historical notes remain stable.
+
+The [pair brief](../volume-3-drafting/25-substantive-completion-2026-11-05.md) and [concrete projection construction](../volume-3-drafting/25-vignette-constructions-2034.md) contain reader outcomes, intellectual fit, 2034 capability assumptions and precise literary reservations. The 2034 pizza remains an economic threshold, not an integration demo or disguised founder payment. Its settlement mechanism remains open; the old xFin/doctor/tree/school construction is not adopted as that mechanism. Legacy openings are preserved for comparison, with unconfirmed private and invented future details flagged. The middle and ending now use prospective rather than accomplished-project claims.
+
+The audit records input/output hashes, preservation checks, checked source scope and native Markdown/asset validation. Final literary vignette realization, callbacks, Noēsis, Open and C25's placeholder epigraph remain deferred. The full Claude handoff is still withheld; incoming V1/V2 adoption and publishing remain untouched.
