@@ -265,3 +265,11 @@ Read the **Neuconomy and Provisioning Charter** in full and selected **Neusphere
 Sam specifies **Neo4j as the current Neuverse implementation direction**. This supports a property-graph treatment, with cycles allowed and selected DAG histories where useful. It does not certify a particular release, schema or deployment. I25's subtitle is accordingly corrected to *Dynamic Value Flows and Graph Economies*, without changing its identity or archived provenance. The economic promise and pizza's unresolved external-settlement mechanism do not follow from the database choice.
 
 Pair 24 is now accepted for this substantive stage. Pair 25 receives the same substantive completion and concrete projection companion; final vignette prose, personal details, Noēsis and Opens remain Sam/Claude's work. No handoff is released or publication authorized by this update.
+
+## B-033 — Seven Tiers and the distinction between learning, public memory and Neusphere
+
+**Author sources incorporated, 5 November 2026.** Sam identifies the current seven-tier architecture and first-sowing route. Neuconomy is Layer/Tier 2, the third conceptual tier. Read the current architectural direction rather than inferring a generic application stack: 0 Physical, 1 Relation, 2 Orchestration, 3 Pattern, 4 System, 5 Organ, 6 Connector. Higher organs include people, roles, purpose and governance as well as technical systems. Early sowing is deliberately uneven; registration capacity is not active participation. Neo4j remains an implementation direction, not a guarantee of behavior.
+
+For pair 26, the learning charter distinguishes Nudge, Nudger, Guten, BIG/BigJ, INK and PRO. MOxAIC preserves orders and meaningful nonconvergence; it does not require every fact claim to have equal support. As Sam emphasizes, Neusphere is relevant to the informational commons but is not identical to it. Preserve private learning, shared knowledge and contribution records as distinct domains. iNeural remains outside the adopted roadmap.
+
+These distinctions are carried into canonical C26/I26 and the project-grounding supplement. The concrete projection companion supplies a personal purpose and a plausible 2036 condition for each opening. The old narrative remains for later Sam/Claude work; the companion is not a declaration of an achieved future or a request to teach as a new profession.

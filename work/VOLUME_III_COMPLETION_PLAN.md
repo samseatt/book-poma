@@ -1,6 +1,6 @@
 # Volume III substantive completion and later Claude handoff
 
-5 November 2026 · Active editorial workflow · Steps 1–2 complete; pairs 23–24 accepted; pair 25 substantive source completed for review
+5 November 2026 · Active editorial workflow · Steps 1–2 complete; pairs 23–26 substantively prepared; pair 26 ready for author review
 
 ## Author decision and division of work
 
@@ -107,3 +107,7 @@ C24/I24 now specialize the accepted design/build division in personal agency and
 ## Pair 25 substantive completion — 5 November 2026
 
 Sam has accepted pair 24. C25/I25 now teach allocation and actual fulfillment rather than relying on value-flow rhetoric: mechanism design, alternative benefit arrangements, resource accounts, graph modelling, local transaction invariants and reconciliation. The [pair brief](volume-3-drafting/25-substantive-completion-2026-11-05.md) and [concrete opening constructions](volume-3-drafting/25-vignette-constructions-2034.md) record the result and its literary reservations. The Neuconomy charter and Sam's Neo4j implementation direction ground the work; Neusphere remains a broader cognitive aspiration and iNeural is excluded as a dependency. The pizza remains the 2034 economic milestone with its exact payment path unresolved. Final whole-volume handoff remains withheld. Pair 26 is next after author review opportunity.
+
+## Pair 26 substantive completion — 5 November 2026
+
+The author requested pair 26 after reviewing pair 25. C26/I26 now supply the learning and public-memory design/build chain, grounded in the newly supplied seven-tier architecture, learning charter and selected MOxAIC material. The [pair brief](volume-3-drafting/26-substantive-completion-2026-11-05.md) records methods, dates, source checks, reader value and preservation; the [projection companion](volume-3-drafting/26-vignette-constructions-2036.md) supplies actual proposed openings and 2036 footing. Legacy openings remain available for the later literary pass. Pair 27 is next on the author's request. The full handoff remains withheld.

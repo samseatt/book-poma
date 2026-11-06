@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-05",
+  "scope": "Volume III canonical pair 26 substantive completion for later Sam/Claude literary pass",
+  "baseline_commit": "b71d84c",
+  "no_publication_or_external_handoff": true,
+  "source_inputs": [
+    {
+      "path": "/Users/samseatt/projects/tiers/tiers/docs/architecture/tiers-and-neuverse-layers.md",
+      "sha256": "f11c69cba71e8bcaabd256e068de7710489b407996712806e1f630e82208dfef",
+      "read_scope": "Current architecture read",
+      "authority": "Internal design intent; not implementation evidence"
+    },
+    {
+      "path": "/Users/samseatt/projects/tiers/tiers/docs/vision/first-sowing-and-design-route.md",
+      "sha256": "eccdd69748fc24f341447e4e6d5079ea0b274e72b05ad1de2d25675fab21c285",
+      "read_scope": "Current sowing direction read",
+      "authority": "Internal design intent; not implementation evidence"
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/11 Learning, Knowledge, and Public Memory.md",
+      "sha256": "bdd77752c5d25770b547c454dd43bfde87ba3fbc1aad77fea39ddad7cfad6ac6",
+      "read_scope": "Substantive functions, pedagogy, organs, memory and cross-relations reviewed",
+      "authority": "Internal design intent; not implementation evidence"
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/6 MOxAIC Charter.md",
+      "sha256": "7e7cf07cd5bb48dfa60bd85ea8753f3b960e63b3a1dcb974b053430981c3cfc5",
+      "read_scope": "Selected §§3–8,14–16,17.7,19",
+      "authority": "Internal design intent; not implementation evidence"
+    }
+  ],
+  "preservation_checks": {
+    "chapter_historical_braid_verbatim": true,
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "interlude_art_section_verbatim": true,
+    "no_author_annotations_removed": true,
+    "only_scoped_canonical_manuscripts_prepared": true,
+    "source_snapshot_still_matches": true,
+    "old_fragments_saved_exactly": true
+  },
+  "manuscripts": [
+    {
+      "path": "manuscripts/volume-3/26-chapter.md",
+      "before_sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "after_sha256": "ec4c4fa1f9ed08406cabf593738a12046e32776a887c3ebcb6a710dabd6a43cf",
+      "before_whitespace_words": 7466,
+      "after_whitespace_words": 9483
+    },
+    {
+      "path": "manuscripts/volume-3/26-interlude.md",
+      "before_sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "after_sha256": "ed93f075b199f135df78352b9ada44cada072476a6d80c15b81e5e95186ccd19",
+      "before_whitespace_words": 5818,
+      "after_whitespace_words": 5755
+    }
+  ],
+  "preflight": {
+    "manuscripts/volume-3/26-chapter.md": {
+      "defined_notes": 10,
+      "references": 10,
+      "bookwide_collisions": [],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 10
+    },
+    "manuscripts/volume-3/26-interlude.md": {
+      "defined_notes": 6,
+      "references": 6,
+      "bookwide_collisions": [],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 6
+    }
+  },
+  "figure": {
+    "path": "manuscripts/volume-3/assets/26-interlude/evidence-to-learning.svg",
+    "authorship": "Original vector diagram, generated from the worked case; no third-party art",
+    "visual_check": "Rendered at 1040px and inspected: text readable, boxes/arrows clear, privacy boundary visible"
+  },
+  "sources": [
+    {
+      "note": "v3-26-parthia",
+      "url": "https://www.iranicaonline.org/articles/phraates-v/",
+      "locator": "correspondence and Gaius meeting",
+      "verification": "Retained checked scholarly account; correspondence date rechecked in this pass",
+      "claim_and_limits": "1 CE exchange / subsequent 2 CE meeting; ancient transmitted accounts, not surviving letters.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26-truth",
+      "url": "https://www.nps.gov/teachers/classrooms/aint-i-a-woman.htm",
+      "locator": "Robinson June 21, 1851 report / Gage 1863",
+      "verification": "Institutional paired transcriptions checked",
+      "claim_and_limits": "Early and late versions differ; no claim exact speech can now be fully recovered.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26-provenance / v3-26i-c2pa",
+      "url": "https://spec.c2pa.org/specifications/specifications/1.2/explainer/Explainer.html",
+      "locator": "§2; §§3.1–3.2",
+      "verification": "Official text checked, alongside technical-specification 1.2 page",
+      "claim_and_limits": "Integrity and provenance assertions do not certify truth; historical baseline, not latest specification.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-plutarch",
+      "url": "https://www.gutenberg.org/files/62618/62618-h/62618-h.htm",
+      "locator": "Tucker 1913, pp.178–179, Moralia 48C–D",
+      "verification": "Public-domain edition passage and metadata checked",
+      "claim_and_limits": "Familiar epigraph labelled paraphrase, not a quotation from this translation.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-alignment",
+      "url": "https://teaching.helsinki.fi/system/files/inline-files/Biggs1996_Article_EnhancingTeachingThroughConstr.pdf",
+      "locator": "Biggs 1996, abstract and objectives/activities/assessment account",
+      "verification": "Original paper checked selectively",
+      "claim_and_limits": "Constructive alignment; river task is our application.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-tutor-trials / Kestin",
+      "url": "https://www.nature.com/articles/s41598-025-97652-6",
+      "locator": "2025 abstract/results and bibliographic record",
+      "verification": "Primary indexed abstract/results and PubMed metadata checked; not a full methods audit",
+      "claim_and_limits": "Bounded college-physics intervention with immediate assessments, not general transfer or a 2036 forecast.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-tutor-trials / Bastani",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40560616/",
+      "locator": "2025 abstract/results; PNAS e2422633122",
+      "verification": "Primary abstract/results checked; PMC page access limited",
+      "claim_and_limits": "Assisted practice differs from unassisted learning; guardrailed tutor did not establish universal harm or benefit.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-apprenticeship",
+      "url": "https://www.aft.org/ae/winter1991/collins_brown_holum",
+      "locator": "framework of teaching methods",
+      "verification": "Original authors’ account checked",
+      "claim_and_limits": "Modelling, coaching, scaffolding, articulation, reflection, exploration; not a guarantee that AI rationales are faithful.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-retrieval",
+      "url": "https://www.psychologicalscience.org/observer/test-enhanced-learning-2",
+      "locator": "authors’ account of experiments; linked 2006 publication",
+      "verification": "Author account and original paper metadata checked",
+      "claim_and_limits": "Delayed retention; do not equate with all forms of transfer.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-vsd",
+      "url": "https://old.vsdesign.org/publications/pdf/non-scan-vsd-and-information-systems.pdf",
+      "locator": "§3; Springer 2013 record https://link.springer.com/chapter/10.1007/978-94-007-7844-3_4",
+      "verification": "Original authors’ manuscript and later publication metadata checked",
+      "claim_and_limits": "Tripartite method; 2013 reprint includes commentary and fourth named contributor Huldtgren; MOxAIC is not attributed to VSD.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26c-crowds",
+      "url": "https://www.sg.ethz.ch/publications/2011/lorenz2011how-social-influence/PNAS-2011-Lorenz-9020-5.pdf",
+      "locator": "2011 abstract/results, N=144 estimation experiment",
+      "verification": "Primary experiment checked selectively",
+      "claim_and_limits": "Social information can reduce diversity without accuracy gains in this setting; not all cooperation is harmful.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26i-foucault",
+      "url": "https://fr.wikisource.org/wiki/D%C3%A9monstration_physique_du_mouvement_de_rotation_de_la_Terre_au_moyen_du_pendule",
+      "locator": "CR32 (1851), pp.135–138; Arago Astronomie populaire XX.6",
+      "verification": "Original text transcription and contemporary Arago account checked",
+      "claim_and_limits": "Arago explicitly supplies 3 February 1851 Academy date; later Panthéon remains year-specific only.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26i-prov",
+      "url": "https://www.w3.org/TR/prov-primer/",
+      "locator": "§§2–3, especially §3.6",
+      "verification": "Official specification primer checked",
+      "claim_and_limits": "Entity/activity/agent and revision/derivation; not a truth-classification ontology.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26i-brier",
+      "url": "https://doi.org/10.1175/1520-0493%281950%29078%3C0001%3AVOFEIT%3E2.0.CO%3B2",
+      "locator": "Brier 1950 metadata; USGS tm4a3 (2020) §15.1.6 eq15.8 p405",
+      "verification": "Brier bibliographic record confirmed; original PDF inaccessible. Binary equation checked in search-indexed official USGS text at https://pubs.usgs.gov/tm/04/a03/tm4a3.pdf",
+      "claim_and_limits": "Do not claim original full text read. Formula cross-checked algebraically; calibration distinct from total squared error. Both-outcome doubling is arithmetic, not an uninspected quotation.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26i-rag",
+      "url": "https://papers.nips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html",
+      "locator": "Lewis et al. 2020 abstract and architecture overview",
+      "verification": "Original proceedings abstract/record checked",
+      "claim_and_limits": "Parametric plus retrieved memory; broader governance/correction workflow is proposed design.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-26i-explanation",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf",
+      "locator": "§§2.1–2.4 and 7",
+      "verification": "Official report relevant passages checked",
+      "claim_and_limits": "Meaningfulness and fidelity differ; fluent self-explanation is not proof of causal faithfulness.",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "reserved": [
+    "Final projections and callbacks",
+    "Noēsis",
+    "Open26",
+    "Final literary density pass",
+    "Further author Alice/Bob development",
+    "Whole-volume handoff"
+  ],
+  "post_install_checks": {
+    "reports": [
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
+        "sha256": "ec4c4fa1f9ed08406cabf593738a12046e32776a887c3ebcb6a710dabd6a43cf",
+        "defined_notes": 10,
+        "note_references": 10,
+        "parsed_notes": 10,
+        "html_note_backlinks": 10,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
+        "sha256": "ed93f075b199f135df78352b9ada44cada072476a6d80c15b81e5e95186ccd19",
+        "defined_notes": 6,
+        "note_references": 6,
+        "parsed_notes": 6,
+        "html_note_backlinks": 6,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    ],
+    "git_diff_check": "passed",
+    "figure_visual_check": "passed",
+    "definition_order": "Reconciled to first use; stable note identities retained",
+    "scope": "Canonical Markdown/Pandoc and asset validation; not a publication build"
+  }
+}

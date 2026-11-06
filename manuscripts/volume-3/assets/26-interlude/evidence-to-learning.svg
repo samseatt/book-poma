@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 820" role="img" aria-labelledby="title desc"><title id="title">A correction must reach its uses</title><desc id="desc">Source evidence supports assessment A1, used by briefing B1 and lesson L1. New evidence produces A2, prompting dependency review, revised artifacts and delivery tracking. Consequences need separate reconsideration. A learner's private record remains outside the public evidence graph.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#161616} .title{font-size:25px;font-weight:bold} .head{font-size:20px;font-weight:bold} .body{font-size:18px} .small{font-size:16px} .box{fill:#f5f5f5;stroke:#333;stroke-width:1.6} .edge{fill:none;stroke:#333;stroke-width:2;marker-end:url(#arrow)} .soft{stroke-dasharray:6 5}</style><rect width="1040" height="820" fill="white"/>
+<text x="35" y="36" class="title">A correction must reach its uses</text>
+<text x="35" y="65" class="small">Versioned evidence → published artifacts → learning and consequences</text>
+<rect x="35" y="125" width="250" height="112" rx="7" class="box"/>
+<text x="53" y="156" class="head">Source evidence</text>
+<text x="53" y="187" class="body">Record and context</text>
+<text x="53" y="212" class="body">Access / custody limits</text>
+<rect x="355" y="125" width="290" height="112" rx="7" class="box"/>
+<text x="373" y="156" class="head">Assessment A1</text>
+<text x="373" y="187" class="body">Claim, support, uncertainty</text>
+<text x="373" y="212" class="body">Method and reviewer</text>
+<rect x="715" y="100" width="290" height="85" rx="7" class="box"/>
+<text x="733" y="131" class="head">Briefing B1</text>
+<text x="733" y="162" class="body">Cites assessment A1</text>
+<rect x="715" y="205" width="290" height="85" rx="7" class="box"/>
+<text x="733" y="236" class="head">Lesson L1</text>
+<text x="733" y="267" class="body">Uses A1 in a learning task</text>
+<path d="M 285 180 L 355 180" class="edge"/>
+<path d="M 645 180 H 680 V 143 H 715" class="edge"/>
+<path d="M 680 180 V 248 H 715" class="edge"/>
+<line x1="35" y1="325" x2="1005" y2="325" stroke="#aaa"/>
+<text x="35" y="356" class="small">NEW EVIDENCE CHANGES THE ASSESSMENT</text>
+<rect x="35" y="390" width="250" height="140" rx="7" class="box"/>
+<text x="53" y="421" class="head">Assessment A2</text>
+<text x="53" y="452" class="body">New evidence and reasons</text>
+<text x="53" y="477" class="body">Link to A1; state scope</text>
+<text x="53" y="502" class="body">of the correction</text>
+<rect x="355" y="390" width="290" height="140" rx="7" class="box"/>
+<text x="373" y="421" class="head">Review known uses</text>
+<text x="373" y="452" class="body">Find dependent versions</text>
+<text x="373" y="477" class="body">Record each disposition</text>
+<text x="373" y="502" class="body">Revise, retain or withdraw</text>
+<rect x="715" y="390" width="290" height="140" rx="7" class="box"/>
+<text x="733" y="421" class="head">Deliver and check</text>
+<text x="733" y="452" class="body">Publish revised artifacts</text>
+<text x="733" y="477" class="body">Notify connected consumers</text>
+<text x="733" y="502" class="body">Track unresolved delivery</text>
+<path d="M 285 460 H 355" class="edge"/>
+<path d="M 645 460 H 715" class="edge"/>
+<path d="M 500 237 V 390" class="edge soft"/>
+<text x="514" y="309" class="small">Recorded dependencies</text>
+<rect x="355" y="600" width="290" height="140" rx="7" class="box"/>
+<text x="373" y="631" class="head">Reconsider consequences</text>
+<text x="373" y="662" class="body">Notify decision owner</text>
+<text x="373" y="687" class="body">Review exclusion or harm</text>
+<text x="373" y="712" class="body">Record any remedy</text>
+<rect x="715" y="600" width="290" height="140" rx="7" class="box" stroke-dasharray="6 5"/>
+<text x="733" y="631" class="head">Private learning record</text>
+<text x="733" y="662" class="body">Can the learner explain</text>
+<text x="733" y="687" class="body">the correction and transfer</text>
+<text x="733" y="712" class="body">the method to a new case?</text>
+<path d="M 500 530 V 600" class="edge"/>
+<path d="M 860 530 V 600" class="edge soft"/>
+<text x="35" y="612" class="small">Review is not rejection.</text>
+<text x="35" y="639" class="small">Delivery is not repair.</text>
+<text x="35" y="666" class="small">A correct answer is not</text>
+<text x="35" y="690" class="small">proof of learning.</text>
+<text x="35" y="783" class="small">Dashed links / border: bounded follow-up and private learning; no automatic exposure of personal records.</text>
+</svg>

@@ -8,6 +8,8 @@ INTERLUDE 26
 
 *EDUCATION*
 
+<!-- Reserved opening: legacy projected scene retained for Sam/Claude, not an achieved pilot or factual recollection. Detector scores, dialogue and the later verdict are not validated. See work/volume-3-drafting/26-vignette-constructions-2036.md for the replacement construction and 2036 rationale. -->
+
 The first rule of the lab was that nothing entered the public record wearing only one face.
 
 This was written on the wall in three languages, two scripts, and one diagram that looked suspiciously like a nervous octopus trying to get tenure.
@@ -122,969 +124,196 @@ We were here to build the filters, pipes, reservoirs, warning labels, public wel
 
 Welcome to the epistemic waterworks.
 
-## Hero's Theater and the Antikythera Sky
+## The Floor Moves: 1851
 
-Long before the algorithmic feed, humans built machines that made reality perform.
+<!-- AI substantive draft, 5 November 2026. -->
 
-Hero of Alexandria described automated theaters, pneumatic devices, temple doors that opened as if gods approved of pressure differentials, and mechanisms that turned air, steam, water, and weight into wonder. The public saw motion and meaning. The machine supplied both.
+On **3 February 1851**, Léon Foucault communicated his pendulum experiment to the French Academy of Sciences. Its slowly changing plane of oscillation, measured relative to the room, made Earth's rotation locally detectable. The account appeared in that day's *Comptes rendus*. Later that year the demonstration reached the Panthéon.[^v3-26i-foucault]
 
-This is not a digression.
+The earthbound observer had acquired a way to detect the motion of his own apparently stationary platform. The room had been supplying the default frame with excellent manners and no disclosure.
 
-Media has always been engineered experience.
+The pendulum did not remove interpretation. Suspension, release, latitude and other disturbances mattered. Foucault connected a visible effect to a mechanical account that other investigators could inspect and reproduce. For public understanding, the important move was from being told a conclusion to being given a disciplined way of encountering its evidence.
 
-The machine moves; the crowd interprets. The statue opens its hands; the worshipper feels presence. The screen shows a face; the public feels evidence. The feed repeats a story; the story begins to feel like weather.
+That is the technical mirror to our **1851** account of Sojourner Truth. A later narrator could make a voice easier to hear while making its source harder to recover. A scientific apparatus could make an unseen motion observable while still requiring an account of how it worked. Both leave the builder a question: what must remain inspectable between the event and the understanding we offer?
 
-The ancient device did not need to be malicious to shape belief. It only needed to stage appearance in a way the viewer could not fully inspect.
-
-Then there was the Antikythera mechanism: gears turning to predict celestial cycles, a little bronze argument that the heavens could be modeled. It did not merely produce spectacle. It calibrated expectation. The sky became, in part, computational.
-
-Prediction requires mechanism.
-
-Mechanism requires trust.
-
-Trust requires some relationship between the model and the world.
-
-And then there were mathematical procedures: methods for solving structured problems, abstracting relationships, carrying steps forward so one mind could check another. Procedure is humility made repeatable. It says: do not trust my authority only; follow the path.
-
-Public knowledge needs all three lessons.
-
-It must understand spectacle, because engineered appearance changes belief.
-
-It must understand prediction, because models now mediate reality.
-
-It must preserve procedure, because trust without inspectable method becomes priesthood.
-
-And it must build durable substrate. Roman hydraulic concrete held harbors and public works together under pressure for centuries. The infosphere needs its own hydraulic concrete: not flashy content, not daily outrage, not clever dashboards that impress visiting ministers, but durable civic substrates that keep public meaning from washing out under pressure.
-
-The forged clip in the verification room was not new in spirit.
-
-Only in speed, fidelity, and scale.
-
-Humanity had always built theaters.
-
-Now the theater could build itself, personalize the play, forge the actor, alter the archive, write the review, and sell tickets to the riot.
-
-So the builder's task changes.
-
-We are not merely building media tools.
-
-We are building the conditions under which signal can survive story.
+By **September 11, 2036**, the machinery between those points may translate, retrieve, infer, simulate and teach continuously. Its competence will make the connections useful enough to disappear from ordinary attention. We need to be able to find them again when a source changes, an interpretation is challenged, or a person discovers that her private lesson has become somebody else's public record.
 
 ## Signal Before Story
 
-Signal is a trace from reality.
+<!-- AI substantive draft, 5 November 2026. -->
 
-Story is an interpretation of traces.
+Data mumbles. Data coughs. Data arrives with missing context, hidden assumptions, bad formatting, and occasionally a column labelled “final_final2_corrected_use_this.csv.” Anyone who says it speaks for itself has not spent enough time with data, people or speech.
 
-Both are necessary.
+A witness report is evidence that somebody reports an event. A recording may provide another kind of evidence. A model's reconstruction is an inference from inputs and learned structure, not a fresh witness. Keep those distinctions when all three can be rendered as equally convincing speech.
 
-Signal without story is noise. Story without signal is mythology with a microphone.
+For a worked example, use a **synthetic exercise**, not a fabricated allegation about a real person. A community-organizer clip has entered a public briefing and an educational lesson. The briefing supplies a summary to several personal agents. The lesson becomes a translated worksheet. New evidence then changes what can responsibly be said about the clip. Can we find the dependent accounts, update them, and preserve the disagreement the evidence has not resolved?
 
-A sensor reading. A video capture. A witness report. A lab result. A geolocation record. A public document. A physical trace. A model output. A budget line. A river measurement. A patient symptom. A mother's testimony. A timestamp. A scar.
+The difficult part is not asking an AI to generate a better paragraph. It is knowing which paragraph belongs to which claim, which source it relied on, where it went, and what action someone took because of it. An elegant correction in an unused database has performed approximately the same public service as a fire alarm in a drawer.
 
-These are signals.
+## Give Claims, Evidence and Interpretations Different Addresses
 
-They do not speak for themselves. Anyone who says "the data speaks for itself" has not spent enough time with data, people, or speech. Data mumbles. Data coughs. Data arrives with missing context, hidden assumptions, power relations, bad formatting, and occasionally a column labeled "final_final2_corrected_use_this.csv."
+<!-- AI substantive draft, 5 November 2026. -->
 
-Story organizes signal into meaning.
+A **typed provenance graph** records kinds of entities and kinds of relationships. W3C PROV supplies a useful common model: entities such as source files or document versions; activities such as capture, translation or revision; and responsible agents, which can be people, organizations or software.[^v3-26i-prov] “Agent” here names responsibility or participation in a process, not necessarily an autonomous AI.
 
-This happened because of that.
+In the exercise, the captured event file is one entity. The circulating clip is another. A transcription activity produces a transcript; a translation activity produces a translated version. A review activity uses these and other evidence to produce an assessment. The assessment's author, software and reviewer have different responsibilities. A publication cites a claim and uses a particular assessment version.
 
-This matters because of this.
+Do not make the speaker's identity the identity of the claim. One person can make several claims; several people can repeat one claim; one recording can contain several propositions with different support. Give the substantive claim a stable identifier and give each assessment a version. Then a correction can revise the evidence about that claim without pretending that a new person or an entirely new event has appeared.
 
-These people are responsible.
+| Record | Minimum useful content | Distinction it protects |
+|---|---|---|
+| Source entity | Identifier, version or digest, origin, accessible location, rights and custody limits. | The source object versus a description of it. |
+| Claim | Precisely scoped proposition, subject, place and time where relevant. | “This person said these words here” versus “this policy is harmful.” |
+| Assessment | Evidence used, method, reviewer, status, reasons and unresolved alternatives. | A judgment about a claim versus the claim itself. |
+| Derivative artifact | Exact source/assessment versions used, transformations, published version. | A summary or lesson versus an independent source. |
+| Consequential use | Authorized record of where the claim informed a decision or commitment. | Updating information versus repairing what followed from it. |
 
-This trend signals danger.
+Timestamps need more than one meaning. When did the event occur? When did the system receive the record? When did the assessment change? A late-arriving original can revise our current understanding of an old event without making the old report dishonest by hindsight. Store those distinctions rather than replacing yesterday's uncertainty with today's confidence.
 
-This event proves our fear.
+A graph is useful because these dependencies cross institutions and formats. The current Neuverse implementation direction is Neo4j, but the claim model is not a database vendor's ontology. Claim and evidence nodes are application records, not new kinds of human participant. Tier 1's human relations and Tier 2's resource/collective orchestration retain their own meanings. A person's learning profile, a confidential source and a public article should not become mutually visible merely because they can all be represented as nodes.
 
-This data supports our plan.
+Nor does an arrow mean support unless we say so. “Derived from,” “quotes,” “disputes,” “reviews” and “supersedes” are different relations. Five apparent sources can lead back to one initial upload. The graph can reveal that dependence; it cannot certify the truth of the upload. Unknown lineage must remain unknown rather than receive independence by default.
 
-Story is how human beings think at civic scale. A society cannot act on raw signal alone. It needs interpretation, priority, causality, value, memory, and consequence.
+## Authentic Is Not the Same as Established
 
-The danger is severance.
+<!-- AI substantive draft, 5 November 2026. -->
 
-When story escapes signal, propaganda begins.
+Keep separate the integrity of an artifact, the history of its production, the support for its claims, and the context of its use. A camera can faithfully record a staged event. A signed statement can be a lie. A truthful witness may have no signed capture device.
 
-When signal is hoarded without story, technocracy begins.
+C2PA's provenance model helps establish verifiable parts of a content history; it expressly avoids treating that history as a verdict on the truth or value of the content.[^v3-26i-c2pa] A missing manifest is not evidence of forgery. A valid signature establishes a relationship to a signing credential under the relevant trust assumptions, not the honesty of everyone in the room.
 
-When signal is forged and story weaponized, the Hall of Mirrors opens.
+Detector outputs require a similar restraint. A score of 0.78 is not automatically a 78 percent probability that a particular allegation is false. What event was the detector trained to classify? On what population was its score calibrated? How do compression, translation and new generators alter performance? A technical signal about an audio track cannot silently become a verdict about the speaker's intent.
 
-The builder's first job is not to suppress stories.
+The public assessment can be firm within its evidence: this clip is not adequate support for this quotation; this edit omits a qualifying sentence; this original remains unavailable. Preserve the distinction between **unsupported**, **contradicted**, **contextually misleading** and **unresolved**. Do not call everything “disputed,” which allows an unsupported objection to acquire the same standing as a well-supported correction.
 
-That would be impossible and inhuman. People live by stories. Communities carry grief, courage, identity, warning, and hope through narrative. Even science tells disciplined stories: hypotheses, models, explanations, revisions, histories of error corrected by method.
+For forecasts or classifications with sufficiently clear outcomes, one useful evaluation is the **Brier score**:
 
-The builder's first job is to keep story answerable to signal.
+$$
+\operatorname{BS}=\frac{1}{N}\sum_{i=1}^{N}(p_i-y_i)^2.
+$$
 
-That means preserving traces.
+Here $p_i$ is the forecast probability of a defined binary event and $y_i$ is 1 if it occurs, 0 otherwise. Lower is better. This evaluates probability forecasts across cases; calibration needs additional inspection, such as whether events assigned similar probabilities occur at comparable frequencies.[^v3-26i-brier] Compare against meaningful baselines, especially for rare events. A system can score well by predicting the common outcome while missing the cases that make it necessary.
 
-Marking uncertainty.
+Do not assign a Brier score to the sacredness of a river or the fairness of a policy and congratulate the spreadsheet on its philosophical maturity. Some disagreements concern values, interpretation or admissible authority, not a binary event waiting to resolve.
 
-Showing lineage.
+## Build Stages That Can Be Examined Separately
 
-Protecting witnesses.
+<!-- AI substantive draft, 5 November 2026. -->
 
-Distinguishing record from interpretation.
+Separate **retrieval, evidence assessment, inference, rendering and publication** behind explicit contracts. They may share models or run within one deployment. The separation is about finding and replacing a responsibility, not ordering five cloud subscriptions.
 
-Building paths from public meaning back to evidence.
+Retrieval returns source versions and access conditions. Assessment records what those sources support. Inference proposes an answer or identifies what is missing. Rendering adapts that answer for a reader, language or medium. Publication gives the artifact an accountable version and a correction route. The system must retain enough of the actual path to inspect an important omission.
 
-Allowing story to breathe, but not letting it float free of the ground and return armed.
+Retrieval-augmented generation supplies a precedent for combining a model's learned capabilities with retrieved material.[^v3-26i-rag] Retrieval gives the model something to consult; it does not ensure that the material is current, relevant or accurately used. A fluent paragraph with a real citation can still misrepresent the cited passage. Test the support relationship, not merely whether the URL exists.
 
-The forged clip did not matter because pixels had changed.
+The classic **Ports and Adapters** approach from our earlier workshop helps here. A source provider, translation engine or model can change behind a stable contract. Compare two renderers with the same accepted evidence bundle; compare retrieval methods with the same query; inspect what a summarizer omitted. If everything changes together, a better output tells us little about which change helped.
 
-It mattered because a story wanted to use altered pixels as a weapon.
+NIST's explainability principles distinguish an explanation's existence, its meaningfulness to the recipient, its fidelity to the actual process, and the system's knowledge limits.[^v3-26i-explanation] A model's convincing account of why it answered is not, by itself, a faithful record of what caused the answer. Preserve the source bundle and observed processing steps; describe any further rationale as a rationale. Do not label invented introspection an audit trail.
 
-## Provenance as Civic Infrastructure
+For our exercise, a useful explanation might say: “This summary used assessment version 3 and these two source passages; the disputed witness report was excluded for this stated reason.” A reviewer can inspect that. A learner may receive a shorter account with an available route to the same evidence. Different explanations need not imply different hidden records.
 
-Provenance is the birth certificate of public evidence.
+## From Systems to Knowledge Organs
 
-Where did this come from?
+<!-- AI substantive draft, 5 November 2026. -->
 
-Who captured it?
+Tiers's seven conceptual tiers describe levels of meaning and composition, not seven compulsory network hops. The physical substrate supports relations; relational and resource orchestration support larger arrangements. Patterns specify operating forms, systems realize them, and organs combine systems with people, purpose and governance. Connectors carry governed relationships beyond Neuverse.
 
-When?
+| Architectural home | Application to this learning cluster |
+|---|---|
+| Relation and Orchestration, Tiers 1–2 | Human relationships, collective participation, resources and consequences, with appropriate references to learning or publication work. Neuconomy sits here in its orchestration sense and extends into organ policy. |
+| Pattern, Tier 3 | Node, Edge and Mesh responsibilities and contracts. These do not prescribe one mandatory triplet per organ. |
+| System, Tier 4 | Concrete person-serving, publication, learning and collaboration systems and their operating instances. Guten can name a technical realization as well as the broader publishing undertaking. |
+| Organ, Tier 5 | The lived learning and publishing institution: participants, roles, funding, review obligations and suitable systems. |
+| Connector, Tier 6 | Defined relations with outside archives, publishers, educational institutions or participants. A routine internal API call is not automatically this kind of connector. |
 
-With what device?
+Guten can render a reviewed knowledge object as a public explainer. Nudge can place a permitted version into a learning path. A Nudger Mesh can help assess whether the activity develops the intended capability. BIG/BigJ maintain the relevant public claim history. Their responsibilities cooperate without giving the publisher control of a learner's private history or giving a tutor authority to amend an official record.
 
-Under what conditions?
+The charter's **INK** names structured, connected knowledge; **PRO**, Pedagogical Resource Orchestration, arranges knowledge, practice, people and encounters around a learner's path. These are purposes to realize through contracts and working systems. They do not require every conceptual noun to have a separately deployed service.
 
-Who handled it?
+The first sowing is intentionally uneven: a small real core, broad skeletons, selected deeper capabilities and a sparse registration envelope. That is an early build direction, not the definition of the 2036 Gate. By then the hoped-for progress is sustained movement between learning, publication and public memory, across more than the founder's demonstration. If the named projects take another course, the design question remains useful to anyone building such systems.
 
-Was it altered?
+## Corrections Have to Travel
 
-Who verified it?
+<!-- AI substantive draft, 5 November 2026. -->
 
-What parts are uncertain?
+![A source assessment feeds a briefing and a lesson. A correction creates a new assessment version, finds dependent artifacts, queues revision and records delivery or unresolved consequences; learner records remain private.](assets/26-interlude/evidence-to-learning.svg){#fig-v3-26-correction width=92%}
 
-What privacy constraints apply?
+*Dependency does not mean guilt: a changed source triggers review of dependent uses, not automatic rejection of everything derived from it.*
 
-What challenge path exists?
+Suppose assessment A1 supported a quotation in briefing B1 and lesson L1. A newly obtained original establishes that the quotation was clipped before a qualification. Create A2, linked to A1, with the new evidence and an explicit account of what changed. Preserve lawful access to the earlier record so a later reader can understand why the old briefing existed.
 
-In the old infosphere, provenance was often treated as garnish. Something for archivists, journalists, lawyers, scientists, and the kind of person who reads footnotes with emotional commitment. For everyone else, content arrived as an object detached from origin. A clip. A quote. A chart. A claim. A screenshot. A forwarded message from an uncle whose confidence remained unrelated to his accuracy.
+The dependency index identifies B1 and L1, plus their known summaries and translations. A **publish–subscribe** mechanism distributes a correction event containing the claim identifier, old and new assessment versions, scope of the correction and evidence location. An **idempotent** consumer can receive that event twice without issuing two contradictory revisions or repeatedly penalizing a contributor. Where updates cross services, the transactional-outbox and reconciliation principles from the ledger still apply.
 
-That model is no longer survivable.
+The state of each downstream use should progress visibly:
 
-A society cannot verify every claim after the fact. It must preserve traces at the moment reality enters record.
+**identified → review needed → disposition recorded → updated or withdrawn → notification acknowledged, unavailable or pending**.
 
-This does not mean recording everything.
+Some uses will remain valid. A lesson about misleading edits may already have treated the quotation as contested. Others need a revised answer, an added qualification or removal. Record that disposition instead of assuming every descendant inherits the same truth status.
 
-That way lies surveillance, paranoia, and a public life so over-documented that spontaneity needs a permit. Provenance must be bounded. The public record should not become a glass coffin for ordinary living. A child's mistake, a patient's vulnerable moment, a private conversation, a political dissident's location --- not every signal deserves public anchoring.
+A changed database does not automatically change a search index, cached summary, local agent memory or model's trained parameters. Invalidate or rebuild the retrievable projections you control; notify connected consumers; test subsequent outputs. Retraining or model editing is a separate operation with its own evaluation. An offline copy or screenshot may remain outside reach. Record that limit; do not claim a civilization-wide undo button.
 
-But when evidence enters civic consequence, provenance matters.
+The correction must also cross into consequences. If the old account caused a participant's exclusion, updating the lesson does not restore her access. A permitted consequential-use record can notify the responsible decision process for reconsideration. That process retains its authority and any independent reasons. Reassessment, remedy and notification are distinct acts.
 
-Signed media capture.
+In a toy acceptance test, twelve dependent artifacts are known; ten acknowledge review, one is unavailable and one is still pending. That is ten of twelve known dependencies reached, not 83 percent of everyone misled. And acknowledgment is not repair. Check what each artifact now says and whether the affected decision was reconsidered. A denominator is often where a dashboard hides its optimism.
 
-Device-level attestations.
+## Teach the Person, Test the System
 
-Chain-of-custody.
+<!-- AI substantive draft, 5 November 2026. -->
 
-Tamper-evident records.
+The learning objective in this exercise is to distinguish an independent source from a repeated account, identify what evidence could change a conclusion, and revise a claim without inventing certainty. The system's objective is to make that learning possible while maintaining the evidence and its corrections. They require different tests.
 
-Institutional certification.
+An **INK knowledge object** needs its concept, prerequisites, intended learning outcome, source versions, example, practice activity, assessment method, accessibility alternatives and revision status. A lesson that merely wraps the briefing in cheerful questions is still a briefing in a school uniform.
 
-Witness anchoring.
+The learning path can begin with a worked example, then a partially supported task, then a new case with a different kind of dependence. The learner explains why two apparently independent accounts count as one source. Later, with a different topic and after an interval, can she recognize the same problem? Preserve necessary translation and accessibility support. Vary pedagogical hints separately from those supports; removing a communication aid would test a barrier rather than understanding.
 
-Public provenance registries.
+A learner model should hold observations with scope and uncertainty: “recognized copied sourcing in these cases with these supports.” It should not leap to “poor critical thinker.” A private recommendation can invite another attempt without broadcasting a deficit to a contribution ledger, an employer or a public reputation system. Learning state, publication quality and economic contribution are different records with different access rules.
 
-Privacy-preserving proof.
+For engineering evaluation, keep a versioned test collection with cases the developers did not use to tune the system. Include authentic but misleading clips, unsupported accusations, legitimate unsourced testimony, satire, corrected claims, translated material and missing context. Evaluate the stages separately: relevant evidence retrieved, claims actually supported, qualification preserved in rendering, correction delivered and consequential use reviewed.
 
-Synthetic-media disclosure.
+Record model and software versions, permitted source snapshots or identifiers, prompts/configuration, tool outputs, assessment rubric and the time at which the case was judged. Repeat variable runs and report uncertainty. A hosted model may not reproduce exactly, even with nominally identical settings; an unavailable or confidential source may prevent full public replay. Reproducibility means making the claim inspectable to the extent actually achieved, not promising a frozen universe.
 
-Uncertainty markings.
+Then evaluate learning with an appropriate comparison and delayed or transfer tasks. A benchmark answered perfectly by the tutor is evidence about the tutor. A satisfied learner is evidence about experience. Neither alone establishes durable understanding. Conversely, good assisted work can have real value even when unaided mastery is not the goal. Declare which benefit the system is claiming.
 
-Provenance decay.
+## Plural Views, Shared Dependencies
 
-That last one matters. A signal can grow weaker as it travels. Compression, reposting, editing, missing metadata, broken witness chains --- the record should show not only origin but erosion. Some evidence arrives strong. Some arrives limping. Some arrives wearing a costume and asking for immediate outrage.
+<!-- AI substantive draft, 5 November 2026. -->
 
-A wise infosphere does not ask the public to believe all signals equally.
+The chapter's river can pass through the same machinery. A common evidence bundle supplies measurements and source trails. Separate interpretive views show ecological consequences, residents' access, cultural meaning, cost and future obligations. MOxAIC's contribution is to keep these orders legible, including what cannot be collapsed into one score.
 
-It asks signals to show their papers.
+An **argument map** can distinguish a premise, the inference made from it, supporting evidence, an objection and an unresolved question. An **order map** holds what each proposal asks people or ecosystems to absorb. The first tests the reasoning; the second exposes the scope of the decision. Neither authorizes action by itself.
 
-## Beyond True and False
+Keep the community's own terms beside a proposed translation. Ask affected participants whether the translation preserves the concern, not merely whether its prose sounds respectful. A retrieval system that always reaches the institution's polished report before the local account can erase a perspective without deleting a single file. Test representation in what gets retrieved, summarized and acted on.
 
-Binary truth labels are too crude for a civilization living in the Hall of Mirrors.
+This does not require every interpretation to receive equal evidential standing. A claim about toxin concentration has an appropriate measurement test. A dispute about access may require records and testimony. A judgment about what should be sacrificed needs legitimate deliberation. If the systems flatten all three into “sentiment,” the model has not become neutral. It has become incurious.
 
-True.
+Neusphere could draw on these learning loops as part of collective cognition across domains. The informational commons supplies maintained knowledge and access arrangements. The connection is important; the identities remain different. None of this requires a literal collective consciousness or a central machine licensed to think for everyone.
 
-False.
+## Protect Attention without Owning It
 
-Those words matter, and we must not abandon them. Some things happened. Some did not. Some claims correspond to reality. Some do not. If we lose that distinction, we do not become pluralistic. We become edible.
+<!-- AI substantive draft, 5 November 2026. -->
 
-But many civic claims arrive in less convenient states.
+A feed is a curriculum whether or not it admits it. Every ranking chooses what comes next; every interruption spends somebody else's attention. Public-interest recommendations need explicit objectives just as commercial ones do.
 
-Verified.
+Separate ranking from the underlying record. Offer ways to inspect recent changes, original sources or an alternative ordering without losing the user's place. A **Strategy** interface can make different recommendation policies replaceable and comparable under the same access contract. The comparison should include comprehension, correction uptake and useful discovery, alongside time spent. Shorter engagement can be success when the person has learned what she needed and gone to do something with it.
 
-Likely authentic.
+For high-consequence sharing, a context prompt or a temporary distribution limit may be justified. Show its reason, scope and expiry, provide review, and distinguish a platform's decision to limit amplification from a factual conclusion about the claim. “This is sanitation” does not make an editorial choice apolitical. Water does not have a right of reply; citizens do.
 
-Altered.
+Private learning data should not become a targeting resource because another organ would find it useful. Keep purpose-specific permissions and limited retention. Derived embeddings and aggregates can still disclose personal information; their mathematical appearance is not an anonymity certificate. A provenance trail can use restricted source references and public summaries rather than exposing a vulnerable witness.
 
-Synthetic.
+Public correction and private protection can coexist. Preserve the accountable act and its reasons where appropriate, while sealing, redacting or deleting sensitive payloads under the applicable rules. Append-only is a useful integrity property for selected records. It is a poor universal philosophy of human forgiveness.
 
-Unverified.
+## Warnings, Challenges and Responsible Action
 
-Context missing.
+<!-- AI substantive draft, 5 November 2026. -->
 
-Disputed.
+A practical prophet needs a path from warning to consideration, not a crown. Give the warning an identifier, a defined event or concern, an evidence trail, horizon, suggested response, accountable recipient and review point. The recipient can acknowledge, investigate, act provisionally or decline with reasons. Silence should not masquerade as successful delivery.
 
-Satire.
+Urgency and certainty belong in different fields. A low-confidence warning of severe, imminent harm may justify a reversible precaution. A confident observation may justify no intervention at all. Keep the evidence judgment separate from the authorized action and make the accepted tradeoff inspectable afterward.
 
-Maliciously manipulated.
+The same separation supports **epistemic recourse**. A person challenging a synthetic likeness, wrong profile or misattributed statement needs a usable route to a case owner, protected evidence submission, an interim response proportionate to the harm and a reasoned disposition. Correct the record and examine the consequences; do not require public exposure of private evidence as the price of being heard.
 
-Partly true.
+Counterfeit consensus deserves particular attention. A thousand synthetic neighbors can make a community feel surrounded. Detecting coordinated behavior may justify investigation; it does not prove that every participant's grievance is false. Identity evidence, behavior evidence and the substantive claim retain different jobs. Otherwise a system built to resist manipulation acquires an excellent mechanism for dismissing inconvenient people.
 
-True record, false interpretation.
-
-False record, real underlying grievance.
-
-Authentic clip, misleading edit.
-
-Accurate quote, missing prior sentence.
-
-Outdated guidance.
-
-Preliminary finding.
-
-Contested witness.
-
-Statistically valid, morally abused.
-
-The layered truth interface should show the state of a claim without pretending all uncertainty is the same.
-
-It should include evidence chain, confidence, counterclaims, known uncertainty, review status, date of verification, who verified, and an appeal or challenge path.
-
-This sounds technical.
-
-It is also social etiquette for reality.
-
-A public that receives only "true" or "false" is being trained to think like a switch. But civic judgment often requires a dimmer: how strong is the evidence, what kind of evidence, who is accountable for it, what remains unknown, and what should we do in the meantime?
-
-The danger is that nuance becomes fog.
-
-Bad actors love complexity when it helps them avoid accountability. "We cannot know anything perfectly" is the favorite perfume of people standing near smoke with matches in their pockets.
-
-So layered truth must remain actionable.
-
-If a bridge inspection is uncertain, restrict the bridge.
-
-If a viral clip is probably altered, warn the public clearly.
-
-If a medical advisory changes, state what changed and why.
-
-If evidence is incomplete but risk is high, issue provisional guidance.
-
-The goal is not paralysis by nuance.
-
-The goal is proportionate confidence.
-
-Say what is known.
-
-Say how.
-
-Say what is not.
-
-Say what must not yet be claimed.
-
-## The Public Record as Civic Skeleton
-
-A civilization whose records can be silently edited has no skeleton.
-
-It has posture.
-
-The public record holds the structure of common life: laws, court proceedings, scientific findings, budgets, environmental measurements, election records, public-health advisories, land titles, institutional decisions, corrections, retractions, public evidence archives.
-
-If these can be altered without trace, public reality becomes a costume closet.
-
-Power may change the past.
-
-Markets may hide the harm.
-
-Institutions may remove embarrassment.
-
-Movements may canonize convenient memory.
-
-Machines may generate competing archives until record and rumor stand shoulder to shoulder wearing the same suit.
-
-Public records require versioning.
-
-Append-only logs for official acts.
-
-Correction without erasure.
-
-Audit trails.
-
-Archival redundancy.
-
-Tamper-evident structures.
-
-Public explanations.
-
-Accessible summaries.
-
-Rights to challenge.
-
-Privacy protections.
-
-A record must be able to change honestly. Correction is not corruption. A scientific finding may be revised. A court may overturn. A public budget may amend. A land title may correct error. A health advisory may update. The danger is not change.
-
-The danger is invisible change.
-
-A corrected record should tell the story of its correction: what changed, who changed it, why, based on what evidence, with what authority, and how affected parties were notified.
-
-The public record is not a museum of final truth.
-
-It is civic memory with version control.
-
-That phrase may not stir the poet's blood, but it should comfort the citizen.
-
-## Media as Civic Interface
-
-Media systems are civic interfaces.
-
-They do not merely carry information. They shape the public's access to reality, each other, fear, urgency, memory, and meaning. A feed is a curriculum whether or not it admits it.
-
-Every feed teaches.
-
-What deserves attention.
-
-What counts as important.
-
-What kind of emotion should accompany public life.
-
-How quickly one should react.
-
-What enemies look like.
-
-Whether uncertainty is tolerable.
-
-Whether correction matters.
-
-Whether complexity is a meal or a nuisance.
-
-The old feeds were optimized for engagement, which is to say they treated the nervous system as rented farmland. Content grew where reaction fertilized it. Outrage proved especially hearty. It required little water, survived poor soil, and spread across property lines.
-
-A humane media architecture must choose different defaults.
-
-Verified record layers separated from commentary.
-
-Transparent editorial decisions.
-
-Community moderation with accountability.
-
-Slow-news modes.
-
-Public-interest recommendation.
-
-Correction trails.
-
-Local civic media.
-
-Anti-outrage defaults.
-
-Source diversity.
-
-Deliberation spaces.
-
-Provenance labels.
-
-Clear AI-generated content marking.
-
-Context-before-share prompts.
-
-Some will call this paternalistic.
-
-It can become so. Every protective system carries a small badge and a large temptation. But the alternative is not freedom. It is unaccountable influence by systems whose main civic theory is that a mind disturbed is a mind retained.
-
-A media system should not decide what everyone must think.
-
-It should improve the conditions under which thinking remains possible.
-
-A good civic interface does not say, "Here is the story you must believe."
-
-It says:
-
-Here is the record.
-
-Here is the interpretation.
-
-Here is the uncertainty.
-
-Here is the source.
-
-Here is the counterclaim.
-
-Here is what changed.
-
-Here is the correction.
-
-Here is where your attention is being pulled.
-
-Now, proceed as a citizen rather than prey.
-
-## Attention Protection Protocols
-
-Attention is the scarce substrate of the infosphere.
-
-Not bandwidth.
-
-Not storage.
-
-Not content.
-
-Attention.
-
-A society cannot reason when attention is continuously extracted, fragmented, agitated, and resold. It cannot educate when the learner's mind is trained to expect novelty every six seconds. It cannot govern when public emotion is manipulated before public facts are established. It cannot maintain shared reality when everyone is exhausted from living inside an auction house of stimuli.
-
-If attention is harvested like a crop, eventually the soil of judgment is gone.
-
-Attention protection protocols are not moral scolding. They are cognitive infrastructure.
-
-Rate limits on outrage content.
-
-Context-before-share prompts.
-
-Friction for unverified high-impact claims.
-
-Notification ethics.
-
-Scheduled civic quiet periods.
-
-Attention budgets for children.
-
-Anti-addiction design.
-
-Transparency around emotional targeting.
-
-Public-interest defaults.
-
-A platform that knows a claim is unverified and emotionally explosive should not make sharing frictionless. A civic channel should be able to slow viral material pending provenance review. A learning system should protect depth from interruption. Children's cognitive environments should not be designed by those who profit from compulsion. Political persuasion systems should disclose targeting logic. Emotional manipulation should not hide behind personalization.
-
-This is not censorship.
-
-It is sanitation.
-
-A city does not allow sewage in drinking water and then congratulate residents for choosing hydration freely. It builds treatment systems, monitors quality, publishes warnings, and punishes contamination. The infosphere deserves similar seriousness.
-
-A city that would never drink from an untested reservoir should not swallow stories from broken pipes.
-
-## Cognitive Scaffolds
-
-A cognitive scaffold should make a person's judgment stronger when the scaffold is removed.
-
-That is the test.
-
-Not whether the tool answers quickly.
-
-Not whether it feels intelligent.
-
-Not whether the interface sparkles with adaptive empathy.
-
-Does the citizen become more capable of judgment?
-
-Or more dependent on the system's voice?
-
-Cognitive scaffolds can include claim tracing, argument maps, uncertainty displays, source comparison, bias prompts, context summaries, counterargument generation, slow deliberation rooms, expert-lay translation, and the simple but devastating question:
-
-**What would change your mind?**
-
-This question should appear more often in public systems and perhaps on several household appliances.
-
-A claim-tracing tool can show how a story moved from original evidence to commentary to distortion.
-
-An argument map can separate premises, evidence, values, and conclusions.
-
-An uncertainty display can prevent confidence theater.
-
-A source comparison can show whether disagreement lies in facts, interpretation, values, or incentives.
-
-A bias prompt can ask whether the user would accept the same evidence if it harmed their preferred side.
-
-A slow deliberation room can give communities a place to think before performing certainty.
-
-The scaffold must be humble.
-
-It should not tell citizens what to think.
-
-It should help them see how thinking is being shaped.
-
-That difference is the line between education and manipulation.
-
-A tool that improves judgment leaves behind stronger citizens.
-
-A tool that replaces judgment leaves behind obedient ones.
-
-Obedience may look peaceful on a dashboard.
-
-So does a coma.
-
-## AI Tutors and Epistemic Apprenticeships
-
-The tutor must not become an answer vending machine with a personality.
-
-This is harder than it sounds, because answer vending machines are extremely seductive. They are patient, available, flattering, tireless, and rarely require that the learner sit with productive confusion. They can produce explanations at any level, generate practice, translate contexts, simulate history, coach writing, and make even calculus sound, for a moment, like a reasonable human activity.
-
-AI tutors will be powerful.
-
-They should be.
-
-Used well, they can democratize access to explanation, adapt learning to the learner's pace, support disabilities, translate languages, surface gaps, offer simulations, coach argument, and help adults return to learning without shame. A good tutor can save a mind from concluding that difficulty means incapacity.
-
-But if designed badly, AI tutors can weaken judgment.
-
-They can over-answer.
-
-Homogenize explanation.
-
-Hide ideology.
-
-Hallucinate calmly.
-
-Monitor too much.
-
-Create permanent learning stigma.
-
-Replace struggle with dependency.
-
-Flatten local knowledge.
-
-Turn education into compliance with a model's preferred path.
-
-So the tutor must teach evaluation, not merely answer.
-
-It should show uncertainty.
-
-Cite provenance.
-
-Distinguish fact, interpretation, and speculation.
-
-Encourage productive struggle.
-
-Ask learners to explain back.
-
-Offer counterexamples.
-
-Allow human teacher override.
-
-Protect privacy.
-
-Avoid ideological monoculture.
-
-Preserve local curriculum while maintaining reality-contact.
-
-Let learners be confused without branding them.
-
-A humane tutor should sometimes refuse to answer immediately.
-
-"Try first."
-
-"What do you notice?"
-
-"What would make this claim stronger?"
-
-"Can you find a counterexample?"
-
-"Do you want a hint or an answer?"
-
-This is not inefficiency.
-
-It is pedagogy.
-
-A child who never wrestles with confusion becomes an adult easily managed by fluent systems.
-
-The point is not to remove difficulty.
-
-The point is to make difficulty livable and fruitful.
-
-## Narrative Environments
-
-People do not live in facts.
-
-They live in stories made from facts, memories, values, fears, hopes, injuries, loyalties, jokes, and the family habit of explaining disaster through one uncle.
-
-The goal is not to abolish story.
-
-A storyless society would not be rational. It would be brain-damaged.
-
-The goal is to stop story from escaping evidence and returning with weapons.
-
-Narrative environments are the systems through which communities encounter, contest, and revise meaning. A good narrative environment helps people see how one signal becomes many stories. It maps interpretation without declaring interpretation illegitimate. It makes conflict visible without feeding it raw meat.
-
-Builder tools might include story maps, narrative conflict visualization, myth-aware civic dialogue, community memory layers, trauma-sensitive interpretation, plural narrative spaces, and careful separation of evidence from meaning.
-
-Imagine a contested river project.
-
-The engineer sees flood mitigation.
-
-The farmer sees irrigation risk.
-
-The elder sees ancestral place.
-
-The city sees housing.
-
-The ecologist sees habitat.
-
-The developer sees opportunity.
-
-The child sees where frogs used to be.
-
-A bad system forces these into one metric or lets them fight as mutually incomprehensible claims.
-
-A better system shows the evidence, the values, the memories, the fears, the interests, and the stories. Not to erase conflict, but to make conflict more truthful.
-
-Narrative environments should not manipulate citizens into harmony.
-
-They should help citizens disagree at the right layer.
-
-Are we disputing the measurement?
-
-The model?
-
-The projected consequence?
-
-The value priority?
-
-The historical memory?
-
-The legitimacy of the decision process?
-
-Too many public conflicts fail because every layer fights at once. Evidence, identity, power, memory, fear, and interest become one knot, and then everyone pulls.
-
-A wise infosphere does not cut the knot with a slogan.
-
-It loosens the threads.
-
-## Practical Prophecy Systems
-
-Every society needs early warning.
-
-Every society also needs protection from false alarms, cults, panic, expert arrogance, and people who discover that prophecy is a splendid career if one is vague enough.
-
-The old prophet warned from the edge of the city.
-
-The new prophet may be a climate model, a whistleblower, a nurse, an engineer, a local witness, an artist, an epidemiological signal, an infrastructure sensor, a financial anomaly, or a simulation showing where the bridge between intention and reality is about to fail.
-
-Practical prophecy systems are architectures for receiving warning without surrendering judgment.
-
-They handle scientific alerts, infrastructure risk, epidemiological signals, climate thresholds, financial anomalies, social unrest indicators, whistleblower claims, local witness networks, artistic foresight, and model-based scenario warnings.
-
-The risks are obvious.
-
-False alarms.
-
-Alarm fatigue.
-
-Prophet capture.
-
-Expert arrogance.
-
-Silenced minority signals.
-
-Conspiracy imitation.
-
-The person who was right once and now expects reality to subscribe.
-
-Design requirements follow:
-
-Graded warning levels.
-
-Track records.
-
-Dissent channels.
-
-Uncertainty disclosure.
-
-Independent review.
-
-Whistleblower protection.
-
-Red-team interpretation.
-
-Post-event learning.
-
-Pathways for action.
-
-A prophet without accountability becomes a cult.
-
-A warning without a pathway becomes theater.
-
-The system should ask:
-
-What is the signal?
-
-What is the evidence?
-
-What is the uncertainty?
-
-Who is warning?
-
-What is their track record?
-
-Who disagrees?
-
-What action is proportionate?
-
-What happens if we are wrong?
-
-What happens if we wait?
-
-What will we review later?
-
-Prophecy becomes civic when warning enters a disciplined pathway between signal and action.
-
-Otherwise, it remains thunder.
-
-Thunder is impressive.
-
-It is not a plan.
-
-## Correction Architecture
-
-If falsehood travels faster than correction by design, the system has chosen falsehood.
-
-The old correction model was absurd.
-
-A claim goes viral. Millions see it. Outrage hardens. Identities recruit around it. Screenshots circulate. Commentary accretes. Careers pivot. Families argue. Local meetings collapse. A week later, a correction appears under a headline nobody reads, written in a tone suggesting the error committed itself while the newsroom was elsewhere.
-
-This is not correction.
-
-It is a priest whispering after the stampede.
-
-A wise infosphere needs correction architecture.
-
-Correction propagation.
-
-Linked retractions.
-
-Version history.
-
-Update trails.
-
-Reputation repair after honest correction.
-
-Institutional humility protocols.
-
-"What we got wrong" media spaces.
-
-Public explanations of changed evidence.
-
-Correction dashboards.
-
-Civic update rituals.
-
-A correction should travel through the same pathways as the error. If a platform amplified the claim, it must amplify the correction. If a public official cited the falsehood, the correction must attach to the citation. If a clip is debunked, reposts should carry the updated state. If a model used the old claim, its downstream outputs should be flagged where possible.
-
-Correction must also preserve dignity.
-
-If changing one's mind becomes humiliation, people will choose falsehood for self-defense. Institutions especially will do this. Institutions have enormous immune systems protecting their dignity; some can reject evidence for decades if the evidence sounds rude.
-
-So correction should be treated as maintenance, not defeat.
-
-We inspected.
-
-We found an error.
-
-We updated.
-
-Here is the record.
-
-Here is what changed.
-
-Here is what follows.
-
-A civilization that can correct publicly without theatrical collapse becomes harder to manipulate.
-
-It also becomes more adult, which is rare and should be encouraged.
-
-## Epistemic Recourse
-
-People need recourse against false claims.
-
-Not only famous people. Not only institutions. Ordinary people too.
-
-A forged video can ruin a teacher.
-
-A synthetic voice can implicate a teenager.
-
-A manipulated image can endanger a local organizer.
-
-A false public record can block housing.
-
-A misattributed quote can follow a person into work, school, court, or care.
-
-A deepfake can become trauma.
-
-A rumor can become bureaucracy.
-
-Epistemic harm is not merely reputational. It can alter access, safety, belonging, livelihood, and sanity.
-
-So the wise infosphere must provide recourse:
-
-Deepfake takedown paths.
-
-Forged-evidence challenges.
-
-Public correction requests.
-
-Identity protection.
-
-Rights around synthetic likeness.
-
-Institutional appeal when records are wrong.
-
-Arbitration for contested provenance.
-
-Emergency response for reputational harm.
-
-Record sealing where appropriate.
-
-Context restoration.
-
-Compensation where harm was amplified by negligence.
-
-This links forward to justice, but it belongs here first because falsehood must be contestable before it becomes adjudicated fate.
-
-A person should not need heroic resources to say:
-
-That is not me.
-
-That did not happen.
-
-That happened, but not like that.
-
-This record is wrong.
-
-This clip is forged.
-
-This model has misrecognized me.
-
-This story has severed from signal.
-
-The right to epistemic recourse may become as important as the right to legal appeal.
-
-Because in the Hall of Mirrors, a false image can arrive before the police, the court, the employer, the neighbor, the school, or the self.
-
-The record must be challengeable.
-
-Otherwise reality becomes something done to people.
-
-## Anti-Manipulation Design
-
-Persuasion at machine scale is not just speech.
-
-It is environmental engineering of belief.
-
-This does not mean all persuasion is illegitimate. Human beings persuade one another constantly: in politics, teaching, art, love, parenting, science, friendship, and the ancient civic ritual of telling someone they are wrong over dinner. Persuasion belongs to public life.
-
-But adaptive persuasion systems change the scale and intimacy.
-
-Emotional targeting.
-
-Micro-propaganda.
-
-Synthetic persona swarms.
-
-Botnets.
-
-Personalized ideological funnels.
-
-Political dark patterns.
-
-Reputation attacks.
-
-Forged community consensus.
-
-Content tuned not merely to convince people like you, but to move you specifically, through your fears, loyalties, habits, and unresolved injuries.
-
-At that point, persuasion becomes architecture.
-
-It builds a world around the mind and calls the resulting choice "free."
-
-Anti-manipulation design must therefore include bot labeling, coordinated inauthentic behavior detection, persuasion transparency, limits on sensitive targeting, public-interest audits, provenance for political content, rights against synthetic impersonation, and strong constraints on adaptive persuasion in civic contexts.
-
-A society need not ban advocacy to regulate manipulation.
-
-It can distinguish a public argument from a personalized psychological funnel.
-
-It can distinguish a campaign from a synthetic crowd.
-
-It can distinguish satire from forgery.
-
-It can distinguish a citizen speaking from a model-generated persona swarm wearing borrowed grief.
-
-The line will not always be clear.
-
-The existence of hard cases is not an excuse to ignore the easy ones.
-
-When a thousand synthetic neighbors appear overnight to tell a community what it already fears, the issue is not speech alone.
-
-It is counterfeit society.
-
-A democracy cannot function if the public itself can be forged.
-
-## The Epistemic Commons
-
-Who governs the infosphere?
-
-Not one ministry.
-
-That is the first answer.
-
-A ministry of truth is a contradiction with furniture. It may begin nobly, under crisis, with charts and sincere people. Then it will discover exceptions, enemies, classified reasons, national interest, administrative convenience, and the intoxicating fact that truth becomes easier to manage when fewer people may touch it.
-
-But the opposite answer --- no governance --- is equally naïve. Ungoverned infospheres do not remain free meadows. They become hunting grounds for those with better automation, deeper pockets, less shame, and more experience turning grievance into motion.
-
-The epistemic commons needs stewards, not popes.
-
-Possible stewards include public media trusts, independent verification councils, academic-public consortia, community review bodies, open standards groups, local knowledge councils, library and archive networks, platform accountability rules, and plural oversight institutions.
-
-The governance tensions are real:
-
-Too centralized, and priesthood forms.
-
-Too decentralized, and chaos wins.
-
-Too corporate, and capture follows.
-
-Too state-run, and propaganda risk grows.
-
-Too expert-only, and legitimacy fails.
-
-Too populist, and expertise is burned for heat.
-
-So the architecture must be polycentric.
-
-Many institutions.
-
-Shared standards.
-
-Transparent procedures.
-
-Public challenge paths.
-
-Independent audits.
-
-Community participation.
-
-Rights protections.
-
-Slow layers for record integrity.
-
-Fast layers for urgent warnings.
-
-Local knowledge respected.
-
-Scientific evidence defended.
-
-Correction rituals normalized.
-
-No single hand on the whole loom.
-
-An epistemic commons must be governed like other commons: clear boundaries where needed, rules fitted to context, participation in rule-making, monitoring, conflict resolution, nested governance, and the recognized right to self-organize.
-
-Knowledge is not a private luxury.
-
-Shared reality is infrastructure.
-
-The commons must be protected accordingly.
 
 ## Machine-Generated Story and Art
 
@@ -1126,88 +355,44 @@ Machine-generated story must remain accountable to signal, consent, provenance, 
 
 Otherwise the dream factory becomes an epistemic weapons plant with better lighting.
 
+
+## Bob, Through the Looking-Glass
+
+<!-- AI substantive draft, 5 November 2026; exploratory builder wager, not an implemented feature. -->
+
+*Could a knowledge system detect when its apparent breadth is mostly one voice returning through different doors?*
+
+A provenance graph already finds copied material when the links are recorded. The harder case is **shared dependence that has lost its labels**. Several agents use different summaries, publications and languages, yet their accounts descend from the same disputed source, model-generated reconstruction or institutional assumption. They can agree without having checked one another at all.
+
+I would like to explore a dependency-aware mediator. Before calling an answer corroborated, it estimates which evidence routes are genuinely distinct and which probably share an ancestor. Then it asks what new observation would most usefully separate the competing explanations. The proposed innovation would be in combining uncertain lineage inference with the selection of further inquiry, not in renaming a citation graph.
+
+The Breadboard can hide some known dependencies in a synthetic corpus, vary wording and language, and see whether the system detects them without falsely merging genuinely independent testimony. Compare it with ordinary retrieval and with exact-link provenance alone. Then test whether its proposed next observation actually helps resolve the disagreement. A clever map of suspicion that never improves inquiry has only automated an unpleasant personality.
+
+Shared vocabulary does not prove shared origin. Two observers can independently report the same event; two models can independently infer the same valid result. The mediator needs uncertainty about its own dependency estimates and a way for contributors to correct them. It should seek missing evidence without building a surveillance graph of everyone who ever spoke to a witness.
+
+If this works, the system could help a community discover where to look next rather than simply voting among its existing accounts. If it fails, it may still reveal how often our notion of “many sources” counts windows instead of views. That is worth finding out before the windows learn to praise one another.
+
 ## The Signal Table
 
-By late afternoon, the verification room had issued its public statement.
+<!-- AI substantive closing bridge, 5 November 2026. The old enacted closing is preserved in work/volume-3-drafting/26-retained-fragments-2026-11-05.md; Sam/Claude will supply the final prospective return and Noēsis. -->
 
-Not a verdict.
+The useful milestone is larger than a debunk and smaller than a machine that certifies reality. One disputed account has been traced through its known uses. The new evidence has changed the relevant outputs. The person affected has a route to repair. A learner can explain what changed and apply the method elsewhere. The disagreement that remains has not been tidied out of existence.
 
-A bounded claim.
+No one wins the infosphere. The work is to make it capable of learning.
 
-The clip could not be treated as reliable evidence. The location was authentic. The audio likely altered. Witnesses did not support the alleged phrase. A full provenance review remained open. Original captures were requested. Next update at 16:00.
+The signal table can show what we may responsibly claim. It also points beyond itself: to the sources, people, languages, energy and material infrastructure on which the account depends. Those conditions do not become common simply because information about them is shared. A knowledge service can explain an enclosure with impeccable citations while remaining unable to open its gate.
 
-That was all.
+That is where the next chapter begins: the ground, living and informational, that a shared world requires, and the power to admit or exclude people from it.
 
-It did not satisfy everyone.
 
-Nothing honest does.
+[^v3-26i-foucault]: Léon Foucault, [“Démonstration physique du mouvement de rotation de la Terre au moyen du pendule”](https://fr.wikisource.org/wiki/D%C3%A9monstration_physique_du_mouvement_de_rotation_de_la_Terre_au_moyen_du_pendule), *Comptes rendus hebdomadaires des séances de l'Académie des sciences* 32 (1851), 135–138. The date is confirmed in François Arago's [*Astronomie populaire*, XX.6](https://fr.wikisource.org/wiki/Astronomie_populaire_%28Arago%29/XX/06), which identifies the Academy session of 3 February 1851. The later Panthéon demonstration belongs to the same year; this passage does not claim the experiment occurred at the 1 CE Persian cutoff.
 
-Some accused the lab of protecting the organizer. Others accused it of legitimizing the smear by investigating at all. One channel clipped the statement into a new claim. Another said the uncertainty itself proved conspiracy. The public mood moved, buckled, recovered, and moved again.
+[^v3-26i-prov]: W3C, [*PROV Model Primer*](https://www.w3.org/TR/prov-primer/) (2013), §§2–3, especially entities, activities, agents, derivation and revision (§3.6). The proposed claim/assessment records and correction workflow specialize those concepts; they are not a W3C truth-classification standard.
 
-But something held.
+[^v3-26i-c2pa]: C2PA, [*Technical Specification*, version 1.2](https://spec.c2pa.org/specifications/specifications/1.2/specs/C2PA_Specification.html), and the accompanying [*Explainer*, §2 and §§3.1–3.2](https://spec.c2pa.org/specifications/specifications/1.2/explainer/Explainer.html), on goals, provenance assertions and trust. Used for the distinction between verifiable provenance and content truth, not as the latest specification or a guarantee of comprehensive media coverage.
 
-Not perfectly.
+[^v3-26i-brier]: Glenn W. Brier, [“Verification of Forecasts Expressed in Terms of Probability”](https://doi.org/10.1175/1520-0493%281950%29078%3C0001%3AVOFEIT%3E2.0.CO%3B2), *Monthly Weather Review* 78 (1950), 1–3. For the conventional single-event binary form used here, see also USGS, [*Statistical Methods in Water Resources*](https://pubs.usgs.gov/tm/04/a03/tm4a3.pdf) (2020), §15.1.6, equation 15.8, p. 405. Summing the squared errors over both complementary outcomes would double this value. Brier score measures squared probability error, not calibration alone or the moral quality of an action.
 
-Enough.
+[^v3-26i-rag]: Patrick Lewis et al., [“Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks”](https://papers.nips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html), *NeurIPS* 33 (2020), 9459–9474. The original architecture combines parametric and retrieved non-parametric memory. The wider source-versioning and publication workflow proposed here goes beyond that paper.
 
-A few community leaders waited before speaking. The local school paused a discussion until the update. The housing decision meeting was delayed, not derailed. The organizer issued a short statement without counterattacking. The journalist published the signal table in simplified form. The teacher used the event as a lesson in evidence. The teenager who had asked "So is it fake?" posted a calmer explanation than half the adults managed.
-
-No one won the infosphere.
-
-That is not the goal.
-
-The goal is to keep reality from being taken hostage before judgment can arrive.
-
-A wise infosphere is not built by flooding people with facts. It is built by designing trustworthy signal paths, accountable stories, protected attention, cognitive scaffolds, correction systems, and public institutions humble enough to update without collapsing.
-
-The task is not to automate truth.
-
-It is to build conditions under which humans and machines can keep truth answerable.
-
-Signal is what travels from reality.
-
-Story is what humans make so reality can matter.
-
-Wisdom is the discipline of keeping the story answerable to the signal, the signal interpreted with humility, and both corrected by consequence.
-
-The signal table can tell us what is real, or at least what may be responsibly claimed.
-
-But it also reveals what reality rests upon.
-
-Data.
-
-Land.
-
-Water.
-
-Bodies.
-
-Language.
-
-Attention.
-
-Memory.
-
-Trust.
-
-The fragile public substrates that make any shared world possible.
-
-The next chapter widens the frame.
-
-Once we learn to protect shared reality as a commons, we must ask what other commons have been treated as background while becoming the true prize.
-
-Nature.
-
-Data.
-
-Attention.
-
-Knowledge.
-
-Infrastructure.
-
-Biological ground.
-
-The living world beneath the record.
-
-The next gate asks what happens when those substrates themselves are enclosed, extracted, or reclaimed.
+[^v3-26i-explanation]: P. Jonathon Phillips et al., [*Four Principles of Explainable Artificial Intelligence*](https://doi.org/10.6028/NIST.IR.8312), NISTIR 8312 (2021), §§2.1–2.4 and 7. Meaningfulness and explanation accuracy are separate requirements; evaluation must concern the actual system and audience.

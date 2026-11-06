@@ -8,7 +8,9 @@ CHAPTER 26
 
 *LEARNING*
 
-> "Education is the kindling of a flame, not the filling of a vessel." --- **Plutarch**
+> "Education is the kindling of a flame, not the filling of a vessel." --- **After Plutarch** (paraphrase)[^v3-26c-plutarch]
+
+<!-- Reserved opening: original future scene retained as literary material, not verified memoir. See work/volume-3-drafting/26-vignette-constructions-2036.md for the prospective framing, protected São Paulo recollections, and Gate-specific construction. -->
 
 The Uber driver called before I found the curb.
 
@@ -186,7 +188,7 @@ It is a lovely dream.
 
 It is also not true.
 
-By 2036, language barriers had thinned dramatically. Translation had become fast enough to keep the face in the conversation. A driver and a traveler could speak without one burying his eyes in a screen. A vendor could explain inventory. A doctor could cross borders. A student could learn from a teacher half a world away. A joke could survive customs.
+By our September 2036 gate, I expect translation to be an ordinary companion, fast enough in many conversations to keep the face in view. Its arrival will be old news; the habits built around it will matter more. A driver and a traveler could speak without one burying his eyes in a screen. A vendor could explain inventory. A doctor could cross borders. A student could learn from a teacher half a world away. A joke could survive customs.
 
 This mattered.
 
@@ -362,119 +364,63 @@ A civilization cannot remain free if it cannot know together.
 
 ## From Information to Interpretation
 
-The old digital dream confused access with wisdom.
+<!-- AI substantive draft, 5 November 2026; author/Claude literary pass pending. -->
 
-Put the world's knowledge online, and human beings will become enlightened. Give everyone the facts, and falsehood will retreat. Connect all minds, and understanding will emerge like mist from a lake at dawn, preferably with a keynote address and a logo.
+The old digital dream confused access with wisdom. Put the world's knowledge online, and human beings will become enlightened. Connect all minds, and understanding will emerge like mist from a lake at dawn, preferably with a keynote address and a logo.
 
-This was optimistic.
+Abundance was a gift. But we built highways for signals and footpaths for meaning. Then we acted surprised when meaning was run over.
 
-It was also the sort of optimism that comes from underestimating both information and human beings.
+A designer can begin with **concept modelling**: decide what kinds of things the system is handling, and which relationships between them are legitimate. A report, an observation and a recommendation may all arrive as sentences. They do different work. Consider a hypothetical riverside learning project.
 
-Information is not knowledge.
+| Kind of statement | Example | What would support or challenge it? |
+|---|---|---|
+| Observation | A sample taken here, at this time, yielded this reading. | Instrument, method, units, location, calibration and sampling conditions. |
+| Attributed claim | The operator says its discharge stayed within the permitted limit. | The actual statement and the records relevant to its scope. |
+| Inference | The discharge probably contributed to the observed change. | A causal argument, rival explanations and additional observations. |
+| Prediction | Under these assumptions, the proposed change should reduce exposure. | A model, its range of applicability and subsequent outcomes. |
+| Value judgment | A particular burden is unacceptable even if the average improves. | The affected lives, commitments and legitimate deliberation. |
+| Decision | Adopt this option with these conditions. | Authority, reasons, alternatives, limits and review. |
 
-Knowledge is not judgment.
+The table does not turn knowledge into six filing cabinets. It prevents one kind of statement from acquiring the authority of another during transit. A recommendation cannot become a measurement by losing its introductory phrase. Five reports copying the operator's statement are still one source of that statement. And a model predicting less harm has not yet observed the harm decline.
 
-Judgment is not wisdom.
+This carries the earlier systems distinction between sensing and interpretation into a design decision. Preserve the observation; expose the inference; leave the value choice visible. An AI can help with all three. A very capable AI may reason better than its operator. Neither fact gives it evidence it did not receive, or makes a disputed public purpose a technical parameter that nobody needs to discuss.
 
-And wisdom, if it arrives at all, usually does so late, unfashionably dressed, and after the damage has already ordered dessert.
+The design test is a change of mind with an address. If a measurement changes, which inference needs reconsideration? If a community rejects the chosen tradeoff, which decision needs review? Without those connections, the system can produce a beautifully revised paragraph while leaving the original consequence standing.
 
-A flood of information is not a mind.
 
-It is weather.
+## Give Knowledge a Working Life
 
-To survive weather, a civilization needs more than access. It needs interpretation: context, provenance, uncertainty, counterargument, memory, cognitive pacing, trusted mediation, and rituals that let people update without humiliation.
+<!-- AI substantive draft, 5 November 2026. -->
 
-The tragedy of the information age was not that information became abundant. Abundance can be a gift. The tragedy was that interpretation remained underdeveloped while distribution became industrial. We built highways for signals and footpaths for meaning. Then we acted surprised when meaning was run over.
+A shared archive, a school and a newsroom can each work well while knowledge still falls between them. A correction reaches the article but not the textbook. A learner finds an error that never returns to the public record. A community contributes knowledge and later discovers that the contribution has been stripped of both attribution and restrictions.
 
-A person can be informed and still foolish.
+The learning charter gives these functions different homes. **BIG**, the Baseline Information Ground, maintains claims, evidence and their changing status. **BigJ** journals the public account: what happened, what is disputed and what changed. **Guten** renders authored, versioned knowledge into useful forms. **Nudge** places those forms in a learning path; **Nudger** stewards the learning relation. These are proposed responsibilities, not declarations that a named institution has solved truth.
 
-A society can be data-rich and wisdom-poor.
+For the river project, a reviewed measurement can inform a public report, an accessible explainer and a lesson. The lesson can invite a better measurement. A correction then has a return route through each use. Funding must cover that continuing work: investigation, translation, editorial review, maintenance and response. Paying only for fresh output rewards the people making new doors while nobody repairs the hinges.
 
-A feed can show a thousand true facts in an order that makes the viewer less capable of truth.
+The **informational commons** consists of the knowledge, access arrangements and institutions maintained for shared use. **Neusphere** names the broader hoped-for capacity for collective cognition: sensing across domains, relating what is learned, deliberating, revising and coordinating action. An archive can support that capacity without becoming it. A well-stocked library is valuable even before it begins thinking about the drainage.
 
-The question, then, is not "How do we give people more information?"
-
-It is:
-
-How do we help people metabolize reality?
-
-What context must accompany the claim?
-
-What uncertainty must be visible?
-
-What source trail matters?
-
-What counterclaim deserves attention?
-
-What emotional hook is being used?
-
-What would change our mind?
-
-What would remain true even if our preferred side were wrong?
-
-What does this fact ask us to do, and what does it not justify?
-
-Without interpretation, information becomes ammunition.
-
-With interpretation, information can become judgment.
-
-And with enough humility, memory, and proportion, judgment may occasionally become wisdom.
-
-We should encourage that rare creature when it appears. It is easily frightened by certainty.
+This distinction also keeps the learning cluster open. People may use its publications or contribute an observation without surrendering every other part of life to one platform. Personal learning records need not become public memory. A public claim need not carry its witness's home address. Shared understanding requires usable connections, not universal exposure.
 
 ## Education as Civic Attunement
 
-Education has carried too many burdens under too little name.
+<!-- AI substantive draft, 5 November 2026; author/Claude literary pass pending. -->
 
-It has been asked to prepare workers, civilize children, transmit culture, sort social rank, credential compliance, babysit the economy, advance science, train citizens, soothe parents, discipline bodies, serve industry, resist industry, produce innovation, preserve heritage, and explain algebra to adolescents whose main interest in variables is whether any of them can get them out of class early.
+Education has been asked to prepare workers, transmit culture, sort social rank, babysit the economy, advance science, resist industry, serve industry, and explain algebra to adolescents whose main interest in variables is whether any of them can get them out of class early. No system emerges from that assignment unwrinkled.
 
-No system emerges from that assignment unwrinkled.
+An excellent tutor changes the economics of explanation. It does not settle the purpose of education. By 2036, I expect substantial instructional work to be available on demand: explanations across languages, interactive demonstrations, carefully sequenced practice, feedback on a learner's attempted reasoning. The larger design question is what the learner becomes able to do, and what kinds of life the learning opens.
 
-The old school was built for scarcity of knowledge and abundance of social confidence. The teacher had the book. The student needed the book. The curriculum carried an authorized version of the world. The classroom arranged bodies around transmission.
+**Constructive alignment**, developed by John Biggs, gives that question a practical structure. Specify the intended capability, arrange activities that exercise it, and assess that capability rather than a convenient substitute.[^v3-26c-alignment] If the objective is to evaluate an environmental claim, watching a compelling animation and repeating its conclusion does not demonstrate it. Nor does submitting the tutor's immaculate report. We have tested the wrong student.
 
-But in the Hall of Mirrors, transmission is not enough.
+In the riverside project, the intended outcome might be: distinguish a measured change from an explanation of its cause, then recommend what evidence should be gathered next. Learners inspect sampling methods, compare upstream and downstream records, and consider an alternative explanation. Assessment presents a different site, a new confounder or an incomplete record. Can they transfer the reasoning? A small public exhibit may give the work a real audience, but the exhibit's polish is not the assessment.
 
-A child can ask a machine for an answer and receive ten, all eloquent, two wrong, three incomplete, one dangerous, one brilliant, one hallucinated, and two written with the moral tone of a pamphlet left in a bus station. The problem is not access. The problem is discernment.
+Alignment also reveals a political choice hiding inside curriculum. Preparing someone to operate existing machinery is one objective; preparing her to question why that machinery organizes her life is another. Both can require deep technical knowledge. Teaching discernment without teaching anything worth discerning merely gives ignorance a more skeptical expression.
 
-Education must therefore be refactored from content delivery into civic attunement.
+Nudge is the learning organ I propose for Neuverse. Its inversion begins with the learning field around a life. A person may move from a question about a river to statistics, local history, a measuring instrument, public writing and a contribution others can use. The path can change as curiosity, competence and circumstance change. It need not end at a credential or begin with enrollment.
 
-To attune is to learn how to listen for signal.
+Nudger is the accompanying Mesh of educators, practitioners and knowledge stewards. Its job is to arrange good encounters, maintain standards, provide belonging and help judge what a demonstration actually establishes. This is not a reservation of instructional work for humans who happen to have been doing it first. AI can carry much of that work. Human relationships, embodied practice, shared undertakings and accountable stewardship still belong to the field being designed.
 
-How to notice.
-
-How to doubt without collapsing into cynicism.
-
-How to update without feeling erased.
-
-How to trace a claim.
-
-How to recognize manipulation.
-
-How to hold uncertainty.
-
-How to disagree without turning reality into spoils.
-
-How to learn with machines without handing them the steering wheel of judgment.
-
-The student of the future does not merely ask, "What is the answer?"
-
-She asks, "What kind of evidence would make this answer worthy of trust?"
-
-That is a different kind of mind.
-
-Not a suspicious mind only. Suspicion alone is cheap and eventually corrosive. The paranoid also seek evidence; they simply accept evidence that flatters the wound. Civic attunement requires something subtler: curiosity disciplined by method, humility strengthened by courage, imagination tethered to reality, and the ability to say both "I do not know" and "this is known enough to act."
-
-The teacher remains central.
-
-Perhaps more central than before.
-
-Not as content owner. Machines will own too much content, or seem to. The teacher becomes guide of judgment, steward of attention, witness to struggle, designer of context, guardian of the learner's relation to reality.
-
-A good teacher does not merely deliver knowledge.
-
-A good teacher helps the student develop a truthful posture toward the world.
-
-That posture is now a civic survival skill.
+A useful learning record therefore holds evidence of specific capacities, the conditions under which they were demonstrated, and questions still open. It should not sentence a child to her first unsuccessful attempt. A learner must be able to correct the model, decline a suggested path and begin something the system had not predicted. Otherwise we have replaced the pinball machine's fixed pins with pins that pursue the ball.
 
 ## Media as Epistemic Infrastructure
 
@@ -596,6 +542,10 @@ Red-team interpretation.
 
 Post-event learning.
 
+<!-- AI substantive addition, 5 November 2026. -->
+
+Give a warning a defined question, horizon and condition for checking it. Record both missed events and false alarms; compare performance against a relevant baseline. Ten accurate warnings about an almost certain event are less informative than they look. For rare, severe risks, the appropriate action can be precautionary even when probability is uncertain. The cost of waiting and the cost of acting belong beside the forecast, not inside a single confidence badge. Review those choices after the outcome without pretending that the outcome alone tells us what was reasonable beforehand.
+
 The prophet should not rule.
 
 But neither should the city require disaster before admitting she had seen smoke.
@@ -660,59 +610,23 @@ But it will not call the water an opinion.
 
 ## Machine Tutors and Cognitive Scaffolds
 
-AI tutors will be among the most intimate educational technologies ever built.
+<!-- AI substantive draft, 5 November 2026; author/Claude literary pass pending. -->
 
-This should make us hopeful and nervous in equal measure, which is often the correct emotional stance toward powerful tools.
+A good AI tutor can save a learner from deciding that difficulty means incapacity. It can explain the same thing eleven ways without sighing on the sixth. It can also keep producing answers while the learner gets better mainly at asking for them.
 
-A good AI tutor can translate, adapt, simulate, diagnose misunderstanding, generate practice, explain patiently, offer examples, adjust difficulty, recover gaps, support disabled learners, coach argument, and bring expertise to places where no expert can live full-time. For the lonely learner, the late learner, the embarrassed learner, the remote learner, the learner who needs the same thing explained eleven ways without a human sighing on the sixth, this is no small gift.
+Early controlled studies already show why the design matters. A 2025 college-physics trial found stronger immediate learning with a purpose-built AI tutor than with its active-learning classroom comparison. A separate high-school mathematics experiment found that unrestricted assistance improved practice performance but could worsen subsequent unassisted performance; a more carefully structured tutor avoided that observed harm without establishing an unassisted advantage over the control group. Different learners, tasks and interventions: neither result licenses a verdict on all teaching.[^v3-26c-tutor-trials] They establish a useful demand on our 2036 ambitions. Measure the learner, the tool and their partnership separately.
 
-But a tutor can also deform the mind.
+**Cognitive apprenticeship** supplies a design vocabulary: modelling, coaching, scaffolding, articulation, reflection and exploration. Make a method visible, support the learner's attempt, then reduce the help that the learner no longer needs.[^v3-26c-apprenticeship] In our river project, a tutor can demonstrate why one sample cannot establish a trend. Next it asks the learner to choose another sampling location and defend the choice. Later it offers a new dataset without flagging the misleading comparison in advance. The movement is from observing a method to choosing and using it.
 
-It can homogenize explanation.
+Retrieval practice gives another useful distinction. Recognizing a familiar explanation and reconstructing it from memory are different activities. Experiments by Roediger and Karpicke found benefits of retrieval for delayed retention of studied prose compared with repeated study.[^v3-26c-retrieval] That supports asking someone to explain back, revisit and apply; it does not turn every learning encounter into an exam. The point is to make knowledge available when it is needed, including when the familiar cue has disappeared.
 
-Hide ideology inside helpfulness.
+A scaffold can remain valuable after learning. We do not confiscate a scientist's instruments to prove she is educated. A translator, communication aid or accessible interface may be a lasting part of someone's agency. Evaluate both **independent understanding** and **effective assisted practice**, keeping necessary accommodations in place. A person should know enough to question the assistance, recognize its relevant limits and choose another route. She need not recreate every capability unaided.
 
-Hallucinate authority.
-
-Monitor learning too closely.
-
-Optimize compliance.
-
-Replace productive struggle with premature rescue.
-
-Turn curiosity into prompt management.
-
-Shape a curriculum according to invisible incentives.
-
-Make the learner dependent on a voice that always answers and never needs the learner to become stronger.
-
-A tutor should strengthen the learner's judgment, not become the place judgment goes to sleep.
-
-This is the design standard.
-
-A humane machine tutor should show uncertainty, cite provenance, distinguish fact from interpretation and speculation, encourage productive struggle, ask the learner to explain back, surface counterarguments, adapt to context without trapping identity, preserve privacy, avoid permanent learning stigma, and welcome human teacher override.
-
-It should teach the student how to evaluate, not merely what to answer.
-
-The best scaffold is designed to leave strength behind when it is removed.
-
-A crutch that helps a bone heal is good.
-
-A crutch that prevents the leg from ever bearing weight becomes a soft captivity.
-
-The future learner will live with many cognitive scaffolds: tutors, translators, memory aids, attention guides, argument maps, simulation rooms, deliberation assistants, personal knowledge companions. These can extend mind, preserve agency, and support lifelong learning.
-
-Or they can become little bureaucrats of thought.
-
-The line lies in design.
-
-Does the tool make the mind more capable in its absence?
-
-Or does it make absence unthinkable?
+The tutor's learner model must remain a hypothesis. A hesitation may signal confusion, fatigue, translation or simply a ringing doorbell. More observation is not automatically more understanding. Collect the evidence needed to improve the learning path; do not infer a permanent personality from a difficult afternoon.
 
 ## Provenance and Public Record
 
-In the Hall of Mirrors, provenance becomes infrastructure.
+In the Mediated World, provenance becomes infrastructure.
 
 Not decoration.
 
@@ -761,6 +675,10 @@ That requires versioning, append-only records for official acts, correction with
 It also requires privacy.
 
 Not every public record should expose private life. Not every verification chain should reveal a vulnerable witness. Not every medical or civic claim should become searchable by curiosity, malice, or future employers with too much time.
+
+<!-- AI substantive addition, 5 November 2026. -->
+
+Here traceability needs a boundary. Preserve the existence and reasons for an official correction where appropriate, but do not promise an indestructible public copy of every harmful attachment. Controlled evidence custody, access restrictions and redacted public accounts serve different purposes. Deletion or sealing may leave a permitted record that something was withdrawn, without retaining the exposed content in every replica.
 
 Provenance must balance traceability with dignity.
 
@@ -880,6 +798,17 @@ And if the river is sacred, chemistry alone cannot tell us what has been violate
 
 Wisdom lives in that tension.
 
+<!-- AI substantive addition, 5 November 2026. -->
+
+MOxAIC gives this tension a discipline. Its *orders* include evidence, cultural meaning, civic rights, ecological conditions and consequences that arrive after today's participants have gone home. They are not all stakeholder preferences to be averaged. A future generation cannot register its dissatisfaction in the survey.
+
+Return to the river. One option meets a chemical standard but disrupts access to a place of cultural importance. Another preserves access but shifts cost onto residents with the least spare income. A third changes the project itself. **Value-sensitive design** asks us to investigate who is affected, what they value, and how technical choices support or undermine those values; conceptual, empirical and technical investigations inform one another.[^v3-26c-vsd] The designer must allow the affected people to correct the initial framing, including the assumption that these are the only three options.
+
+Keep an order map beside the evidence map. The evidence map asks whether the measurement and causal account hold. The order map asks what a proposed action crosses, who must adapt, what burden is displaced, and which limits cannot fairly be traded away. The same person can occupy several positions. A community does not have one voice merely because an interface has room for one representative.
+
+Sometimes the result is coordination without shared belief; sometimes coexistence; sometimes a reason not to proceed. MOxAIC should preserve that unresolved difference rather than manufacture a consensus paragraph. A better explanation can resolve a factual misunderstanding. It cannot, by itself, authorize the sacrifice of someone else's place.
+
+
 ## Attention as Civic Resource
 
 Attention is not merely personal.
@@ -923,6 +852,10 @@ Transparency around emotional targeting.
 Civic design that respects the need to think.
 
 This will be unpopular with anyone whose business model depends on turning nervous systems into revenue streams, but the future cannot be governed by companies that profit when we lose the ability to govern ourselves.
+
+<!-- AI substantive addition, 5 November 2026. -->
+
+Protection itself needs a test. Compare the intervention against ordinary presentation: does it improve comprehension or merely lower activity? Does a sharing pause help people inspect evidence, or preferentially silence those who need assistance to participate? Let people choose quieter modes and inspect recommendation purposes. A public-interest feed still has editors, selection criteria and blind spots; its title does not exempt it from scrutiny.
 
 Attention protection is not puritanism.
 
@@ -974,7 +907,34 @@ Civic simulation is not prophecy.
 
 It is rehearsal for wiser disagreement.
 
+
+## Alice, Down the Rabbit Hole
+
+<!-- AI substantive draft, 5 November 2026; working author wager, open to revision. -->
+
+*Could better translation preserve productive difference instead of steadily eliminating it?*
+
+I wonder whether the ideal shared mind is less synchronized than we assume. Personal mediation can make everyone easier to understand while quietly giving everyone the same explanatory reflexes. The vocabulary remains diverse; the errors acquire a common ancestor.
+
+Laboratory work has shown that social influence can reduce the diversity of estimates without improving their collective accuracy, even as confidence grows. That finding concerns particular estimation tasks, not a theorem that collaboration makes us stupid.[^v3-26c-crowds] It does give a more ambitious question some footing: can we design mediation to distinguish disagreement that conceals an error from disagreement that preserves an unexamined possibility?
+
+The experiment I would like to see begins with people forming accounts from different relevant evidence, before a common synthesis arrives. Mediation then helps them understand the rival accounts and identify the observation that could separate them. It should reduce preventable misunderstanding while leaving genuine differences visible. Compare this with a single excellent summary and with unstructured discussion. Look for better subsequent decisions, better discovery of omitted consequences, and correction when new evidence arrives. Merely increasing disagreement would be a thoroughly achievable failure.
+
+The additional wager is that the system might learn when to reconnect these partial views and when to leave them partly separate. Could the timing of integration become a design variable in collective intelligence, rather than an accidental consequence of who speaks first? That is a research question, not a claim that MOxAIC has solved it. If common understanding improves while inquiry remains capable of surprising the group, we may have found a useful meaning for minds in harmony. An orchestra needs timing. It does not need all the instruments replaced by a larger flute.
+
+## The Next Move: Make Changing Your Mind Easier
+
+<!-- AI substantive draft, 5 November 2026. -->
+
+Choose one consequential claim that your group uses. Trace it to its evidence, record a genuine disagreement and name what would alter the conclusion. Then put an improved account to work: in a decision, a public explanation or a learning activity. Agree who maintains it and how the people affected by an error will hear about a correction.
+
+Afterward, test two things separately. Did the corrected account reach the places where the old one mattered? Can someone apply the reasoning to a new case? The first tests public memory; the second tests learning. Counting revised pages will tell us neither.
+
+This is a contribution a participant, educator, journalist or builder could make to a Neuverse-like undertaking without first signing up to a theory of everything. Keep the surviving disagreement in the record. A shared world should have room for a person who helped improve the evidence and still voted against the proposal.
+
 ## Build Minds That Can Update
+
+<!-- Reserved closing callback to the legacy projected opening; Sam/Claude will reconcile it with the prospective version. -->
 
 The São Paulo driver and I did not become philosophers of language on the ride from the airport.
 
@@ -1040,7 +1000,7 @@ What must we not yet claim?
 
 What is the cost of being wrong?
 
-These questions are not academic. They are survival tools for the Hall of Mirrors.
+These questions are not academic. They are survival tools for the Mediated World.
 
 A civilization cannot be built from people who never err. That species has not applied for existence. It must be built from people and systems that can correct.
 
@@ -1060,8 +1020,22 @@ If we cannot hold them together, every later design in this volume becomes decor
 
 And fog, as history has shown, is where monsters prefer to move.
 
+[^v3-26c-plutarch]: Paraphrase of Plutarch, *On Listening to Lectures*, §18, *Moralia* 48C–D. Compare T. G. Tucker's 1913 translation in [*Selected Essays of Plutarch*, volume I](https://www.gutenberg.org/files/62618/62618-h/62618-h.htm), pp. 178–179. The familiar epigraph is not presented as Tucker's verbatim translation.
+
 [^v3-26-parthia]: Marek Jan Olbrycht, [“Phraates V,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/phraates-v/), discussing Cassius Dio's account of the 1 CE correspondence and Velleius Paterculus's eyewitness account of the subsequent meeting in 2 CE. These are ancient transmitted accounts, not surviving copies of the exchanged letters.
 
 [^v3-26-truth]: National Park Service, [“Ain't I a Woman?”](https://www.nps.gov/teachers/classrooms/aint-i-a-woman.htm), presents Robinson's June 21, 1851 report and Gage's 1863 account.
 
-[^v3-26-provenance]: Coalition for Content Provenance and Authenticity, [C2PA Technical Specification, version 1.2](https://spec.c2pa.org/specifications/specifications/1.2/specs/C2PA_Specification.html), especially the separation of verifiable provenance from judgments about the truth or value of content. Cited for this foundational distinction, not as the latest version or a prediction of the 2036 media environment.
+[^v3-26-provenance]: Coalition for Content Provenance and Authenticity, [C2PA Technical Specification, version 1.2](https://spec.c2pa.org/specifications/specifications/1.2/specs/C2PA_Specification.html), and its accompanying [*Explainer*, §2](https://spec.c2pa.org/specifications/specifications/1.2/explainer/Explainer.html), which separates verifiable provenance from judgments about its truth. Cited for this foundational distinction, not as the latest version or a prediction of the 2036 media environment.
+
+[^v3-26c-alignment]: John Biggs, [“Enhancing Teaching through Constructive Alignment”](https://doi.org/10.1007/BF00138871), *Higher Education* 32 (1996), 347–364, especially the abstract and the alignment of objectives, learning activities and assessment. The river example is a proposed application, not Biggs's case study.
+
+[^v3-26c-tutor-trials]: Greg Kestin et al., [“AI Tutoring Outperforms In-Class Active Learning”](https://doi.org/10.1038/s41598-025-97652-6), *Scientific Reports* 15 (2025), 17458; Hamsa Bastani et al., [“Generative AI without Guardrails Can Harm Learning: Evidence from High School Mathematics”](https://doi.org/10.1073/pnas.2422633122), *PNAS* 122 (2025), e2422633122. The former compares two college-physics lessons and immediate assessments; the latter distinguishes assisted practice from subsequent unassisted performance. These are bounded interventions, not forecasts of the capabilities or educational outcomes of 2036 systems.
+
+[^v3-26c-apprenticeship]: Allan Collins, John Seely Brown and Ann Holum, [“Cognitive Apprenticeship: Making Thinking Visible”](https://www.aft.org/ae/winter1991/collins_brown_holum), *American Educator*, Winter 1991, especially the framework's teaching methods. The account develops the earlier Collins–Brown–Newman framework; making a method explicit does not guarantee access to every mental process that produced it.
+
+[^v3-26c-retrieval]: Henry L. Roediger III and Jeffrey D. Karpicke, [“Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention”](https://doi.org/10.1111/j.1467-9280.2006.01693.x), *Psychological Science* 17 (2006), 249–255. The authors also discuss the result in [“Test Enhanced Learning”](https://www.psychologicalscience.org/observer/test-enhanced-learning-2). Retention of studied material and transfer to a new problem are distinct outcomes.
+
+[^v3-26c-vsd]: Batya Friedman, Peter H. Kahn Jr., Alan Borning and Alina Huldtgren, [“Value Sensitive Design and Information Systems”](https://doi.org/10.1007/978-94-007-7844-3_4), in *Early Engagement and New Technologies: Opening Up the Laboratory* (2013), 55–95, reprinting the 2006 account with additional commentary. See also the [original authors’ manuscript](https://old.vsdesign.org/publications/pdf/non-scan-vsd-and-information-systems.pdf), §3, for conceptual, empirical and technical investigations. MOxAIC's orders and the river application are the author's proposed use of a related design concern, not terms or results attributed to this paper.
+
+[^v3-26c-crowds]: Jan Lorenz et al., [“How Social Influence Can Undermine the Wisdom of Crowd Effect”](https://doi.org/10.1073/pnas.1008636108), *PNAS* 108 (2011), 9020–9025. In an experiment with 144 participants, social information could narrow estimate diversity without corresponding accuracy gains. The proposed timing of mediation is a further design wager; this study neither establishes its novelty nor proves its success.
