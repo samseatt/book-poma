@@ -1,6 +1,6 @@
 # Volume III substantive completion and later Claude handoff
 
-5 November 2026 · Active editorial workflow · Steps 1–2 complete; pairs 23–26 substantively prepared; pair 26 ready for author review
+6 November 2026 · Active editorial workflow · Θ and pairs 23–33 substantively prepared; whole-volume review and final handoff pending
 
 ## Author decision and division of work
 
@@ -147,3 +147,9 @@ Substantive completion covers Θ foundations and numbered pairs 23–30. Final p
 [Brief](volume-3-drafting/32-substantive-completion-2026-11-06.md) · [2051 projection constructions](volume-3-drafting/32-vignette-constructions-2051.md). Living inheritance now includes renewed religions/cultures, substantive plural integration, reciprocal agent commitments, representation and preservation methods, and actual future-facing inquiry. Personal passages and the 1501/2001 history are protected. The interlude's technical anchors explicitly match 1501/2001; the gate remains 11 September 2051.
 
 Θ foundations and numbered pairs 23–32 have substantive source passes. Pair33 remains before whole-volume reconciliation and the [creative-frontier second look](volume-3-drafting/creative-frontier-second-look-2026-11-06.md). Final future prose, Noēsis, Opens and closing integration remain for Sam/Claude. The whole-volume handoff is still withheld.
+
+## Pair 33 completion and closing clarification — 6 November 2026
+
+The final numbered pair is substantively prepared. [Pair 33 brief](volume-3-drafting/33-substantive-completion-2026-11-06.md) and [actual projection ideas](volume-3-drafting/33-vignette-constructions-2054.md) govern over the old dramatized scenes. Both original closing banks remain available, with their placement explicitly unlocked by the author's optional Coda III. Epilogue unchanged.
+
+**Remaining before release to Claude:** reconcile Θ promises with all eleven pairs; perform the already-recorded creative-frontier second look for 23–30; check duplicated mechanisms, current histories/gates, tertiary labels, source status and closing handoffs; refresh the descriptive index and final outgoing brief; identify a fixed source revision. Do not mistake completing the eleven pair passes for having completed these remaining tasks. Final projections, Noēsis, Opens and literary integration belong to Sam/Claude. The incoming-draft queue remains paused.

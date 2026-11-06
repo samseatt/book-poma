@@ -275,24 +275,30 @@ The following are candidates for the working lists, not a requirement to insert 
 
 <a id="pair-33"></a>
 
-## 33 — Release: experiments that can survive their inventor
+## 33 — Release: reality, experiments and a useful successor
 
 ### Chapter design spine
 
-- **M — Hypothesis-driven design and alternatives.** State what a proposed change is expected to improve, why, compared with what, and what observation would require revision. Preserve room for exploratory learning instead of giving every valuable outcome a premature metric.
-- **M — Verification, validation, and uncertainty analysis.** Distinguish a model implemented correctly from a model adequate for its proposed use, and both from a beneficial intervention in the world. Examine sensitivity to assumptions and cases outside the model's useful scope.
-- **P — Design for replacement and retirement.** Keep responsibilities and essential knowledge independent of one maker or supplier; plan data migration, service transition, and end-of-life obligations while the design is still being chosen.
-- **M — Decision-making under uncertainty.** Compare plausible conditions, choose useful experiments, and preserve options where premature commitment is costly. A gate can be a decision about adaptation, not a calendar-based approval ritual.
+- **M — Hypothesis-driven design and alternatives.** State what should improve, compared with what, and which observations would change the decision. Exploratory inquiry retains room for unanticipated value.
+- **M — Constraint modelling.** Distinguish physical relationships, chosen obligations and negotiable preferences; changes to each require different kinds of evidence or authority. Avoid collapsing everything into an optimization score.
+- **M — Robust decision-making and value of information.** Examine strategies across plausible conditions, locate vulnerabilities and spend inquiry where it could alter action. The shared-facility example carries these methods into civic design.
+- **P — Design for replacement and retirement.** Make assets, operating knowledge and authority transferable; preserve essential services and unfinished obligations through a change. Release includes continuing responsibility.
+- **Author's frontier — Feasible forms of life.** Alice asks whether designs can change the institutional categories being optimized and make new sustainable capabilities possible. This is a research direction, not an established method or a verified novelty claim.
 
 ### Interlude builder spine
 
-- **A — A testable core with replaceable environments.** Reuse the ports/adapters treatment from 23 to run selected components against simulation, recorded inputs, shadow operation, and controlled real use. Distinguish the interfaces that are shared from assumptions that differ between environments.
-- **E — Reproducible experiment packages.** Preserve the model/data versions, configuration, execution environment, experiment protocol, and evaluation criteria. Record randomness and tolerances; an uncontrolled external model or service may prevent exact replay. Define the achievable claim rather than promising identical futures.
-- **E — Model verification and empirical validation.** Test logic and declared invariants; compare model behavior with observed cases; investigate discrepancies. Repeating the same experiment is not independent confirmation of its premises.
-- **E — Staged release, observability, and rollback/repair.** Decide what evidence warrants wider use and what triggers a halt, revision, or withdrawal. A rollback restores some software states; its real-world consequences may require compensation or other repair.
-- **E — Succession exercise.** Have another team operate, modify, restore, and ultimately retire an instance using the available artifacts and authority. The founder's absence becomes a practical test, not an elegiac metaphor.
+- **M — Separate substrate, model and consequence.** A simulated conservation rule, its physical implementation and the effect on a user are different things. Meaningful virtual experience does not establish model accuracy.
+- **E — Model verification, empirical validation and uncertainty analysis.** Check implementation, compare against suitable observations, estimate parameters without circular validation, examine sensitivity and state the intended use. The worked thermal example exposes assumptions and units.
+- **E — Reproducible experiment packages.** Preserve model/data versions, configuration, conditions, execution environment and criteria. Specify achievable tolerances or statistical behavior where exact replay is unavailable. Repetition is not independent confirmation.
+- **A — Replaceable environments and explicit action boundaries.** Ports/adapters support simulation, replay, shadow operation and authorized real use. Shared interfaces do not imply shared permissions or equal evidential standing.
+- **E — Staged exposure, observation and repair.** Expand through meaningful field evidence. Shadow runs do not establish every causal effect; software rollback does not undo physical or social consequences.
+- **A — Mental-exoskeleton components.** Separate evidence storage, retrieval, personal inference, rendering and delegation. Distinguish quotation from generated proposal and remembered preference from authorization. This is a proposed composition, not a formally named universal pattern.
+- **E — Succession exercise.** Another group operates, changes and retires an instance without a founder's private intervention. The useful inheritance includes means of inquiry, not only code.
+- **Author's frontier — Continuing inquiry beyond impersonation.** Bob asks whether reciprocal coupling develops a practice that can survive component change and become useful to successors. Extended cognition is an antecedent, not proof of consciousness or personal survival.
 
-**Worked demonstration:** the Breadboard produces a promising result; an independent team repeats the defined test, tries a conflicting scenario, runs a bounded field trial, and changes the design. **Tradeoff:** excessive standardization can make experiments repeatable by eliminating the variation the civilization needs. Protect exploratory work and human consequences that the initial measure missed.
+**Worked demonstrations:** thermal model → measured comparison → authorized experiment; a long-term personal Mirror → corrected assumption → new inquiry; a Breadboard → independent operation and consequential change. **Tradeoffs:** greater detail is not always better information; immersive persuasion can outstrip evidence; excessive standardization can suppress discovery. Art and speculative inquiry need explicit room without being misrepresented as empirical proof.
+
+**Applied status, 6 November 2026:** incorporated into the canonical pair's substantive middle. Final projections and closing prose remain reserved. [Completion brief](volume-3-drafting/33-substantive-completion-2026-11-06.md) records the evidence and limits. Pair 33 leaves room for an optional Coda III before the Epilogue.
 
 ## Where the author's examples belong
 

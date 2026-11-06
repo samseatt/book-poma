@@ -472,46 +472,41 @@ Sources: [chapter](../manuscripts/volume-3/32-chapter.md), “What Should Surviv
 
 ### 33 — The Arrow's Release / Machines as Mirrors
 
-**Distinct tension:** the founder must transfer authority without dropping responsibility for consequences. **Gate:** Successor's World, 11 March 2054. The final test is whether the work can be corrected, continued, or replaced by people who owe its maker no obedience.
+**Distinct tension:** a constructed world must remain answerable to what it represents and affects; a founder must make its revision possible without abandoning responsibility. **Gate:** Successor's World, 9 AM, 11 March 2054. Capable agents, automated inquiry, responsive environments and personal models form a demanding inherited infrastructure. The date schedules no death, upload or compulsory singularity.
 
-Sources: [chapter](../manuscripts/volume-3/33-chapter.md), “The End of Certainty” onward; [interlude](../manuscripts/volume-3/33-interlude.md), “Not Resurrection” through “Before the Epilogue.”
+Sources: [chapter](../manuscripts/volume-3/33-chapter.md), “A Floor Beneath Our Worlds” onward; [interlude](../manuscripts/volume-3/33-interlude.md), “The World Outside the Frame” onward. [Completion brief](volume-3-drafting/33-substantive-completion-2026-11-06.md) and [concrete projections](volume-3-drafting/33-vignette-constructions-2054.md) govern the final literary pass.
 
 **Technical companion:** [Pair 33: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-33).
 
-**Signal inheritance.** D: **S12** asks whether the Still Arrow's underlying direction changed; **S16** carries responsibility through powerful deployment; **S17** leaves even Neuverse's models and purposes revisable; **S22** turns rehearsal and review into better action. S: **S13** preserves successors' feasible freedom to refuse or depart; **S18** prepares a supported handoff; **S19** leaves maintained commons; **S20** makes the design amendable, repairable, and capable of surviving its founder.
+**Signal inheritance.** D: **S12** asks whether the Still Arrow's underlying direction changed; **S16** carries responsibility through powerful deployment; **S17** leaves models and purposes revisable; **S22** turns rehearsal and review into better action. S: **S13** preserves successors' feasible freedom; **S18** supports the handoff; **S19** maintains physical/ecological commons; **S20** makes designs amendable, repairable and capable of outliving the founder's control.
 
-**Existing chapter topics, values, requirements, and principles**
+**Chapter design content now present**
 
-- **Keep — Orientation without certainty.** Designs are revisable proposals; the future can change conditions and expose the author's assumptions.
-- **Keep — Prepared release.** Leave recourse, memory, tools, maintenance capacity, and usable instructions; neither domination nor neglected obligations is a gift.
-- **Keep — Care with boundaries.** Powerful protection must preserve refusal, appeal, correction, and room for unplanned life.
-- **Qualify — The humane singularity.** Retain the question of accountable civilizational capability as the author's philosophical proposal; it is not a technically established threshold or forecast.
-- **Qualify — Simulation before consequential scale.** Rehearse failures and include affected people; passing a model cannot certify the real world.
-- **Keep — Rooms and future co-authorship.** Preserve embodied encounter, plural deliberation, and the successor's right to become different.
-- **Develop — Founder independence and failure pathways.** Amendment, repair, exit, fork, oversight, and responsibility must work without the original designer's favor.
-- **Keep — Grief, basket, workbench, and release.** These carry motivation and inheritance; the personal loss may generate a useful tool without becoming a demand that successors preserve the wound or its vocabulary.
+- **Physical constraints, revisable accounts, institutional rules and meaning.** Connect these different realities without letting a convincing representation substitute for a functioning world. Virtual experience can have real significance while depending on material infrastructure.
+- **PhysX and xMOS as open inquiry.** The former includes experiments, instruments and physical research; the latter connects origins and cosmic orientation to changing knowledge. Neither is merely a renderer or an approved creed. The author's possibility-space conjecture remains open, not a derived physics.
+- **Hypothesis-driven design and alternatives.** Ask what improves, against which alternative and through what evidence. Preserve exploration whose value is not yet known.
+- **Constraint modelling, robust decisions and value of information.** Distinguish physical limits from chosen obligations; compare plausible conditions; investigate uncertainties that can change decisions. The shared-facility case demonstrates the methods.
+- **Positive capability and new forms of life.** Constructed worlds can enable inquiry, art, relationships and freely chosen activity. Alice asks whether a civilization can change its categories and enlarge feasible ways of living, rather than optimize inherited compartments.
+- **Prepared release.** Successors receive usable knowledge, resources and actual authority to change or retire a design. The founder retains obligations for consequences; release need not mean death or withdrawal from useful work.
+- **Grief and mortality.** Preserve the personal wound and basket without requiring others to preserve them in the tools they inherit. Continuity is not proof of a continuing first-person self.
 
-**Existing interlude principles and primitive candidates**
+**Interlude builder content now present**
 
-- **Keep — Reconstruction distinct from survival.** A responsive likeness does not establish the continuation of a person; separate trace, inference, performance, and unknown experience.
-- **Keep — A model's frame must be inspectable.** Disclose assumptions, excluded people and variables, objectives, funding, uncertainty, and whose interests shape the representation.
-- **Develop — Civic rehearsal environments.** Use alternative scenarios, edge cases, adversarial conditions, and affected people to challenge policy and system designs before wider deployment.
-- **Qualify — “Do not test civilization in production.”** Retain the warning against reckless scale; translate it into proportionate evidence, bounded field trials, monitoring, and remedies. Some knowledge only comes from accountable real use.
-- **Develop — Protected boundaries for intimate simulation.** Consent, source limits, posthumous instructions, labeling, restricted persuasion, child safeguards, silence, and exit should shape grief-facing personas.
-- **Qualify — Proportionate concern under uncertainty about experience.** Possible synthetic welfare is a serious design question; fluency, self-reports, memory, or complexity do not constitute a settled consciousness test.
-- **Keep — Simulation returns to the world.** Models inform witness, touch, politics, consent, and grief; they must not claim jurisdiction over all their purposes.
-- **Keep — Collective continuity and Carbon/Silicon reflection.** The philosophical ending belongs. It is not an implementation primitive and need not be converted into one.
+- **Substrate / represented world / consequences.** Physical implementation, model rules and effects on people require distinct claims. Landauer's erasure bound is narrowly qualified.
+- **Modelling, simulation and twins.** A worked thermal equation and grayscale figure distinguish measured counterpart, execution, representation, authorization and physical support.
+- **Verification, validation, calibration, uncertainty and sensitivity.** A model must be adequate for its intended use; combined components can fail at their interfaces. Photorealism supplies no validation.
+- **Reproducible experiment packages and staged exposure.** Preserve versions, conditions, assumptions and comparison criteria. Connect simulation, replay, shadow operation and bounded real trials through replaceable adapters with different permissions.
+- **Living mental exoskeleton.** Neuma/KAUSAR provide context for source records, retrieval, inference, interface and delegation. iNeural remains optional and speculative. The useful Mirror can help develop a new thought, not merely repeat the author's voice.
+- **Separate resemblance, authority, experience and identity.** Neither fluent performance nor a mandate establishes subjective survival. Possible synthetic experience merits proportionate inquiry; no categorical dismissal or promised upload.
+- **Art and continuing inquiry.** Art has positive purposes beyond empirical fidelity. Bob extends coupled cognition into a research question about an inquiry that can develop beyond impersonation.
+- **Founder-absence exercise.** Another group operates, repairs, changes or retires a service, carrying obligations across transitions. Rollback does not erase every consequence.
 
-**Add / extend**
+**Historical/technical hinges.** C33 retains 1751 Karim Khan, the 2026 American institutional marker and qualified 1752 Mi'kmaq counterpoint. I33 uses June 1751 Encyclopédie (28 June in ARTFL's chronology) and the 19 January 2026 A-Lab correction. Dates are explicit; no causal chain or Persian location is fabricated for the technical mirror.
 
-- **A deployment evidence package:** intended use, benefit over the present arrangement, assumptions, limits, field evidence, protected participants, staged exposure, stop/expand criteria, incident owner, and resources for remedy. Simulation is one component.
-- **A working Breadboard-to-world loop:** distinguish synthetic simulation, replay or shadow operation, consenting limited use, and wider adoption. Compare predicted and observed effects and change the design when they diverge. Test beneficial performance as seriously as containment.
-- **A founder-independent handover:** demonstrate transfer of credentials, operational knowledge, assets, maintenance funds, amendment power, and responsibility for unresolved harms. Let successors make a consequential change the founder would not choose.
-- **A persona use-and-welfare review:** separate duties to the represented person, living users, other people in the source material, and any plausibly experiencing system. Deletion, indefinite operation, replication, and shutdown cannot all be treated as ethically automatic.
+**Placement and remaining work.** Pair 32 owns preservation and living inheritance; 33 asks whether successors can actually change it and what makes contact with reality credible. Detailed justice machinery stays in 30. The original openings/closings remain reserved banks, with actual projection ideas in the companion. Pair 33 completes the main argument; an optional Coda III may precede the Epilogue. The proposed Erlking inversion remains open, not added to the manuscripts. Noēsis, Opens and final cadence remain for Sam/Claude.
 
-**Placement / qualification.** Preserve the author's Mirror and emotional close. Move detailed archive storage/permissions to 32 and generic justice machinery to 30; keep their consequences here. Broader Breadboard architecture can be seeded in Theta and demonstrated across interludes, then brought together here. A far-future persona may call for new protections, but [Butlin and colleagues' indicator-based research](https://arxiv.org/abs/2308.08708) supports inquiry under uncertainty, not a declaration that the imagined Mirror is conscious. The current categorical claim that simulated beings do not experience harm conflicts with the interlude's later uncertainty: distinguish ordinary simplified representations from systems that plausibly warrant welfare concern.
+**The Next Move — Hand Over the Keys.** Give a willing successor the knowledge, authority and resources to make one consequential improvement without the founder's permission. Repair the dependencies this reveals and retain the obligations still yours. A future that uses or replaces the work well matters more than its obedience to the maker.
 
-**The Next Move — Hand over the keys.** Choose something you have helped build and prepare it to continue without your permission. Leave knowledge, resources, repair paths, and responsibility clearly assigned; then let others make a real decision you would not have made. Retain the obligations that are still yours while releasing authorship as a claim to rule. The last invitation is to become a useful ancestor.
 
 ## 3. The eleven Next Moves at a glance
 

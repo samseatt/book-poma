@@ -4022,7 +4022,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
-        "sha256": "db986de1aca0d3219004ef04e489834d5c1b4b686244fd503752ec838134e433"
+        "sha256": "fb16a895889b785eb586519f798d7499104656bc9130621c86fa820e14c0da6e"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 33c - The Arrow’s Release - Weavers of the Singular Thread.docx",
       "source_sha256_at_inventory": "bcd2d763abaaadb1f517509587d90d9993a6e67a6149ab1736ff3f3c2dbc001d",
@@ -4073,7 +4073,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
-        "sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31"
+        "sha256": "85d63ff4d4879156e3b220dc88a5d6005d4b3cd64cabcd1388e487c09b9714d2"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 33i - Machines as Mirrors — Simulation as Sacred Act.docx",
       "source_sha256_at_inventory": "8ee79f15ce105ac6766a411ba53d4c76f5f52d6b8f2070266952b8a1d7af19d7",

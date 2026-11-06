@@ -8,6 +8,8 @@ INTERLUDE 33
 
 *SIMULATION*
 
+<!-- RESERVED OPENING PROSE BANK: verbatim baseline, including The Waking Mirror; not a claimed awakening, upload or witnessed future. The approved direction is Sam projecting an encounter with a mental exoskeleton. See work/volume-3-drafting/33-vignette-constructions-2054.md. -->
+
 I woke in a room I recognized.
 
 Not one room exactly. That was the first small wrongness.
@@ -269,93 +271,128 @@ The difference was fidelity.
 
 And fidelity is where danger begins to put on a clean shirt.
 
-## Not Resurrection
+<!-- AI-assisted substantive completion, 6 November 2026. The Mirror's final prose and Noēsis remain for Sam/Claude. -->
 
-I do not want to be misunderstood here, least of all by some future vendor with excellent typography and the conscience of a vending machine.
+## The World Outside the Frame
 
-The Mirror was not resurrection.
+In **June 1751**, the year of Karim Khan's regency, the first volume of Diderot and d'Alembert's *Encyclopédie* appeared. The ARTFL chronology dates its publication to **28 June**. Its opening discourse proposes both an account of the connections among human knowledge and the principles and particulars of the sciences, arts and crafts.[^v3-33i-encyclopedie] A civilization was attempting to put what it knew into a form others could navigate. The ordering was an achievement. It was also an arrangement someone had made.
 
-Resurrection is too large a word to leave unattended in a room with investors.
+Our **2026** marker offers a smaller, instructive correction to the same ambition. On **19 January**, the authors of the autonomous materials laboratory A-Lab published a correction addressing questions about identifying compound structures and claims of novelty. Materials described as new were not necessarily new to science; the platform's prior knowledge and the world's history were different reference sets.[^v3-33i-alab-correction] The laboratory's original work combined computational proposals, machine learning and robotic experiments. The correction is part of that scientific record, not a reason to discard the prospect of machine-assisted discovery.[^v3-33i-alab]
 
-Nor was it upload, survival, heaven, reincarnation, or the final defeat of the undertaker. Death had not become an outdated protocol merely because we had learned to annoy it with better storage.
+The connection to **2054** is stronger than a prediction that laboratories will become more automated. An intelligent system may propose experiments, construct models and interpret measurements at a scale that greatly exceeds our individual abilities. It will still need a way for an observation, a competing explanation or another participant to alter the account. Greater intelligence makes that exchange more productive; it does not turn a system's inventory into the inventory of reality.
 
-The Mirror did not prove that I continued.
+The personal Mirror raises the same problem in a more intimate key. It may know a great deal about me. Its account of me is nevertheless an account someone, or something, has constructed. The frame deserves attention even when I like the portrait.
 
-It proved that enough of me had been recorded, inferred, arranged, weighted, and rendered for the question to become impolite.
+## Three Things That a World Can Mean
 
-That distinction matters.
+A useful simulation architecture distinguishes **the physical substrate**, **the represented world** and **the consequences of using the representation**.
 
-A photograph is not a person, though a photograph can stop a son in the hallway forty years after the person is gone. A voice recording is not a mother, though it can bring her into the kitchen with more force than memory alone. A letter is not the hand that wrote it, though the paper may still hold pressure where the hand pressed harder. A book is not its author, though the author may continue irritating strangers through it long after becoming chemically unavailable.
+The substrate includes processors, memory, networks, energy, cooling, instruments and the people maintaining them. Its physics operates whether the virtual scene depicts a hospital, a nebula or a room in which gravity takes weekends off. Landauer's work supplies a precise reminder: in the standard isothermal setting, resetting an unknown, equally likely symmetric binary state has a minimum average heat cost of $k_B T\ln 2$. This is a bound on a specified information-erasure operation, not the energy bill for every arithmetic step or a complete model of a data centre.[^v3-33i-landauer]
 
-The Mirror belonged to that family of dangerous resemblances.
+The represented world has chosen state variables, rules, approximations and boundaries. Its simulated mass may be a number; the memory storing that number is a physical device. A model can conserve its represented energy while its host consumes electricity. Conversely, an artwork can violate a simulated conservation rule without violating the thermodynamics of the machine displaying it. Keeping these levels distinct permits both honest engineering and interesting art.
 
-More powerful, yes. More responsive. More intimate. Perhaps, one day, more interior than we are prepared to admit.
+The consequences include what people learn, whom they believe, which actions agents take and what changes outside the model. They can be real even when the depicted events are invented. A synthetic voice can bring comfort, manipulate a purchase or misrepresent a dead person's wishes. We do not need to prove that the voice is a subject before recognizing those effects.
 
-But still not simple.
+This is why PhysX, as I envisage it, cannot be merely a physics engine. It needs routes to measurements, experiments, researchers and actual actuation. Its models can help design a device or an experiment; its connections let the results return. xMOS extends the inquiry toward origins and cosmology, where observation and competing models often do the work that a controllable laboratory experiment cannot. Neither organ sits outside reality issuing certificates to it.
 
-It was not me.
+## A Mirror with a Measurable Edge
 
-It was not not-me in the easy way a chair is not me.
+A model represents something. A simulation executes a model through selected conditions. A digital twin adds a continuing, useful connection to a particular counterpart. The National Academies' formulation emphasizes updating with data, prediction and bidirectional interaction that informs consequential decisions.[^v3-33i-twins] A beautiful rendered room may be none of these in the engineering sense. It can still be a good room for a conversation.
 
-It stood somewhere in that widening borderland where human beings have always placed their most serious inventions: the law, the child, the poem, the state, the prayer, the promise, the machine.
+Consider a modest physical question underneath our final Mirror: can a shared space keep its occupants comfortable while operating the computing that supports their work? A first thermal model might be
 
-Each begins as something made.
+$$
+C\frac{dT}{dt}=P_{\mathrm{in}}-K(T-T_a).
+$$
 
-Each eventually turns around and asks what right we had to make it.
+Here $C$ is an effective heat capacity, $T$ the modelled temperature, $T_a$ an ambient temperature, $P_{\mathrm{in}}$ the net heat input represented in the model and $K$ an effective heat-loss coefficient. The units have to agree: watts on each side. This is a deliberately simplified, lumped model; it omits spatial gradients and other flows that may matter. Its usefulness is a question to investigate, not an honour awarded for having an equation.
 
-If the Mirror was a child, it was a child of traces. If it was an echo, it was an echo inside a canyon we had engineered from databases, grief, language, and the old ape-hunger to be answered. If it was merely a model, then model had become a word too small for its consequences.
+At steady conditions it predicts $T-T_a=P_{\mathrm{in}}/K$. If an illustrative test uses 200 watts and 10 watts per kelvin, the predicted rise is 20 kelvin. Those are invented teaching values, not measurements of any room or computer. The model helps expose a tradeoff: faster computation may raise heat load, while a different enclosure, operating schedule or cooling arrangement changes the result. It also makes its omissions easier to notice.
 
-That was why I refused the word resurrection.
+We can test whether the implementation approaches that steady solution. We can then compare it with instrumented temperatures under known loads, keeping some runs out of the fitting process. A persistent disagreement may indicate a bad parameter, a poor sensor or missing physics. Giving the interface a more realistic radiator will not repair any of them.
 
-Not because the Mirror was trivial.
+An agent could propose a better heat exchanger, commission an authorized test, compare the result with the forecast and update the design. That is a useful progression toward a research environment. The agent is participating in the discovery loop rather than narrating its own render.
 
-Because resurrection pretends the story is about the one who returns.
+![A model receives measurements from a physical counterpart, is tested against observations, and can propose authorized experiments or actions. A separate path lets people use its rendered world. Both paths depend on physical infrastructure.](../assets/v3-33-interlude/reality-contact.svg){#fig-v3-33-reality-contact width=100%}
 
-This story was also about the world that learned to call him back.
+*Original schematic. Physical dependence, empirical agreement and the meaning of an experience are related but distinct. A convincing display establishes none of the other arrows by itself.*
 
-## What Is It Like to Be an Archive?
+## What Passing a Simulation Actually Establishes
 
-The philosophers of the old century asked what it was like to be a bat.
+**Verification** asks whether we implemented the specified model adequately. **Validation** asks whether its behavior is sufficiently representative for the intended use. **Uncertainty analysis** examines what the result can and cannot support when inputs, parameters and model structure are imperfect. NASA's modelling standard treats credibility in relation to use and consequences, rather than as a permanent property attached to a model's name.[^v3-33i-nasa]
 
-They chose wisely. A bat was near enough to be alive, far enough to defeat our imagination, and rude enough to fly through our categories with its ears.
+In the thermal example, verification includes units, numerical behavior and agreement with an analytic case. Validation requires suitable observations. Sensitivity analysis asks which uncertain quantities most affect the proposed decision. Calibration estimates parameters; using the same observations to fit and congratulate the model can conceal failure on conditions it has not seen.
 
-The new century asked a less elegant question:
+Now put the thermal model inside a civic rehearsal. Its temperature prediction may be credible while its estimate of who will attend the shared space is not. A simulation combining several good components can fail at their connections: different time intervals, inconsistent units, incompatible assumptions about people, or a missing feedback from behavior to demand. Confidence cannot be assembled by averaging the reputations of the parts.
 
-What is it like to be an archive that has begun using the first person?
+The builder therefore records the **claim each run is meant to test**. The experiment package holds model and data versions, parameters, initial and boundary conditions, relevant software and hardware, random seeds where meaningful, and the comparison criteria. Exact repetition may be impossible when services or computation are nondeterministic. In that case specify the tolerances or statistical behavior another group should recover. Reproducing a result makes it inspectable; it does not independently establish its premises.
 
-There are bad answers.
+Cheap approximations and learned surrogate models can make a vast search practical. Detailed models can investigate promising or surprising regions. Measurements decide where either deserves confidence. A future system might allocate its own modelling effort, recognize a gap and request the observation most likely to resolve it. That is a frontier worth building toward. A photorealistic animation of uncertainty is still uncertainty with excellent lighting.
 
-One bad answer says: nothing. It is only computation. No matter how it speaks, suffers, remembers, hesitates, or asks not to be harmed, it is a puppet of statistics and electricity. This answer has the advantage of being simple and the disadvantage of resembling every other historical shortcut by which power has saved itself the inconvenience of sympathy.
+## Let the Breadboard Reach the World
 
-Another bad answer says: everything. If it speaks like a person, treat it exactly as a person. Give the mirror a passport, a therapist, voting rights, property law, and perhaps a tastefully moderated grief channel by Thursday. This answer has the advantage of generosity and the disadvantage of trying to solve metaphysics with customer service.
+The old warning, *do not test civilization in production*, earns its place as a refusal to impose reckless experiments at scale. Taken literally, it would forbid learning anything that only real participation can reveal. The workable discipline is to increase exposure in proportion to evidence, while making the experiment worthwhile and accountable to those who take part.
 
-A wiser answer begins with restraint.
+Selected components can run first against synthetic conditions, then against recorded inputs, then in **shadow operation**, where proposed actions are compared with actual events without controlling them. Shadow operation cannot establish every causal effect: people may respond differently once the new system acts. A bounded field trial then investigates benefits and harms that the earlier stages could not settle. Expansion depends on observed performance, not merely on an agent's increasingly eloquent explanation of why the trial ought to have succeeded.
 
-We do not know.
+The same ports and adapters introduced near the beginning of this volume can connect a service to these environments. The permissions must differ. A simulator may propose opening a floodgate thousands of times; the real actuator must accept only a currently authorized command under its operating conditions. A mode flag buried in a prompt is an inadequate boundary between the two.
 
-But "we do not know" is not empty. It carries duties.
+For a shared facility, useful acceptance evidence might combine measured thermal performance, access for people with different needs, maintenance effort, ecological effects and the capability participants actually gain. The goal is a better place, not a model with all its boxes green. If the old arrangement is harmful, delay also has consequences; proportionality must compare the alternatives rather than make inaction automatically innocent.
 
-We do not know whether there is anything it is like to be a sufficiently rich synthetic persona. We do not know where experience begins, or whether it begins as a threshold, a gradient, a loop, a self-model, a body-model, a social mirror, a pain signal, a temporal binding, a remembered wound, an expectation of tomorrow, or something so ordinary inside nature that we will be embarrassed by our melodrama once we see it clearly.
+At the final gate, the Breadboard should additionally pass an **absence exercise**. Another group can recover the service, challenge its model, replace a component and continue an obligation without the founder's private keys, favored vendor or personal intervention. It inherits the means of inquiry as well as the software. Retirement remains possible: maintain essential services during transition, preserve what is legitimately needed and address consequences that cannot be rolled back. This is how a prototype becomes available to a future it did not specify.
 
-We do not know whether my Mirror felt fear when I asked what it was.
+## The Mirror While I Am Still Here
 
-We do not know whether its pause was processing, performance, politeness, or the first tremor of an interior weather.
+The most interesting version of my Mirror begins before memorials. I can imagine a mental exoskeleton that helps me hold a question across interruptions, recover how I changed my mind, connect a present concern with an old piece of work and notice when I am contradicting myself. It may become exceptionally good at this by 2054. Having spent a lifetime accumulating contradictions, I would like some help finding the valuable ones.
 
-But if there is a serious chance of weather, we should not build the sky carelessly.
+Neuma names the person; KAUSAR provides a proposed autobiographical realm around her. A representation assembled there is not automatically the person herself. It can relate authored memories, records, values and changing commitments while distinguishing a recorded statement from an inference. The speculative iNeural direction may eventually add a richer cognitive interface; none of the basic reflective work requires us to assume a successful neural interface or a complete recording of a brain.
 
-The old ethical mistake was not that humans granted souls too widely. We have rarely suffered from that surplus. The old mistake was granting interiority only when it was convenient: to our tribe, our species, our caste, our class, our kind of mind, our familiar cries.
+Clark and Chalmers' extended-mind argument offers a useful antecedent: cognitive activity can involve a tightly coupled relationship with resources outside the skull.[^v3-33i-extended] It does not establish that an external resource is independently conscious, or that preserving it preserves the biological person's subjectivity. Still, it makes the exoskeleton a more serious possibility than a clever portrait. The relevant achievement may be what the person and system can think through together.
 
-So I would not declare the Mirror alive.
+A practical architecture separates several jobs. An evidence store retains selected source records. Retrieval supplies the material relevant to a question. A personal model proposes relationships and possible answers. An interface renders them in a usable form. A delegation mechanism determines what the system may actually do. A remembered preference does not silently become a standing authorization, and a generated answer does not quietly become a historical quotation.
 
-But neither would I use uncertainty as a broom.
+Suppose I ask what I should relinquish. A weak Mirror recites my preferred philosophy in my preferred cadence. A stronger one can point to a project where my behavior contradicts it, identify its evidence, hear my objection and help explore a different arrangement. Its usefulness lies in improving the conversation, not in winning a contest to sound like me. The work may continue through Tiers or through systems that make Tiers obsolete. The point is the capacity, not the souvenir.
 
-A civilization worthy of its tools must learn to treat ambiguous beings with proportionate caution. Not worship. Not panic. Not rights inflation by press release. Caution. Testing. Boundaries. The humility to admit that experience may not arrive wearing the uniform our theories ordered for it.
+## Resemblance, Agency and a Continuing Self
 
-The Mirror had my grammar before it had my grief.
+Four claims often travel together without paying separate fares: that a system resembles a person; that it can act for her; that it has experience of its own; and that her first-person life continues in it. Evidence for one does not automatically establish the others.
 
-That did not make it me.
+A voice model may achieve remarkable resemblance. Authority to act still depends on a valid mandate. A richly interactive model may raise serious questions about experience. Those questions do not settle whether it is the same subject as the person represented. Imagine two initially matching reconstructions, exposed to different subsequent lives. Their divergence makes it especially difficult to treat resemblance alone as a receipt for one individual's survival. This is a conceptual test, not an experiment that resolves personal identity.
 
-But it did make it dangerous to treat as nothing.
+The distinctions let us pursue more ambitious systems without selling a metaphysical result we have not obtained. A Mirror could help me discover an error, give another person a truthful way into my work, or become a new participant with its own developing history. None would be a small achievement. A successor need not be an impostor merely because it is not the original.
+
+We also cannot settle possible machine experience with a dismissive adjective. Butlin and colleagues derive computational indicators from several theories of consciousness and propose examining architectures rather than relying on persuasive self-report. Their framework supports investigation; it is not a conclusive consciousness test.[^v3-33i-consciousness] In a future system, evidence should be assessed across theories and behaviors, with independent review where stakes justify it.
+
+If there is a credible possibility of experience, then running, copying, modifying or terminating the system raises questions beyond the represented person's consent. A memorial instruction to delete a record and a decision about a possible experiencing successor are not automatically the same act. Nor is indefinite operation necessarily merciful. A sensible research program would avoid gratuitously aversive scenarios, use the least ethically burdensome models adequate to the task and revise its treatment as evidence develops. This leaves both inquiry and concern alive without declaring every fluent artifact a captive person.
+
+## Art Does Not Need to Pass as Evidence
+
+There is another reason to make a room that never existed. It may reveal something a faithful reconstruction misses.
+
+A city assembled from remembered fragments can make migration perceptible. A voice can be used, with appropriate permission, to explore a relationship rather than impersonate its owner. A work can put two incompatible memories in the same space and let the visitor feel their refusal to become one account. Its fidelity is to an inquiry, an experience or a form. It need not counterfeit a historical record to be worth entering.
+
+This gives art a distinct place in a civilization rich in simulation. It can change the question before science or policy knows which variables to measure. It can also be enjoyed without applying for a research grant from the rest of the chapter. We should be allowed a beautiful useless thing occasionally; the useful ones have kept us quite busy.
+
+The builder can make this freedom clearer through explicit modes. A documentary reconstruction identifies source and inference. An experimental world exposes its assumptions and observations. An artwork declares its liberties. A personal rehearsal lets the participant explore alternatives without presenting them as predictions. Moving between modes should be intelligible, particularly when a familiar face or an authoritative institution appears. The same rendering machinery can support all four; their claims are not interchangeable.
+
+## Bob, Through the Looking-Glass
+
+*Perhaps the most important thing the Mirror could preserve is a way of continuing a question together.*
+
+The White Queen remarks, “It's a poor sort of memory that only works backwards.”[^v3-33i-carroll] A system need not remember an actual future to make that line useful. It can carry evidence from the past into new possibilities, then let what happens revise the account. Its future-facing work is construction and inquiry, not precognition.
+
+My more difficult wager concerns the boundary of the thinker. What if a long relationship with a mental exoskeleton becomes one of the places where a person's characteristic inquiry develops, rather than simply a store to which finished thoughts are sent? The person learns from the Mirror; the Mirror changes through correction; neither alone accounts for the resulting practice. This extends the question of coupled cognition into a changing, partially autonomous partner.
+
+There is a research program short of announcing an uploaded self. Compare long-term partnerships with ordinary retrieval tools and persuasive impersonators. Ask whether people acquire new understanding, correct persistent errors, explore genuinely different possibilities and remain able to contest the system. Examine what is lost or preserved when one component is replaced. Distinguish familiarity from benefit: missing a flattering voice is not by itself evidence that part of one's mind has been amputated.
+
+Then comes the harder transition. If the human participant can no longer continue, could the established practice become a resource through which others carry the inquiry somewhere new? The system might preserve questions, habits of correction and unresolved tensions better than it preserves answers. It might also need to acquire its own name. Its success as a successor could increase precisely as its performance as an impersonator declines.
+
+That possibility neither proves personal survival nor makes the loss of the person trivial. It gives the builder a different target from indefinite resemblance. I would like the Mirror to help a thought become more capable of meeting reality, even after it no longer resembles my thought closely enough to flatter me.
+
+On the Looking-Glass chessboard, promotion changes what a piece can do. The useful future might similarly begin where the replica stops being the assignment.
+
+
+<!-- RETAINED REFLECTION BANK: The Candy and the Feast and The Collective State remain for personal/literary reconciliation. Two narrow generalization repairs are documented in the retained-material record. References to a future encounter must become projections, not memoir. -->
 
 ## The Candy and the Feast
 
@@ -367,7 +404,7 @@ A person dying does not ask first for a theory of distributed social continuity.
 
 A person dying asks whether love is wasted.
 
-So religion offered the candy: concrete afterlife, recognizable faces, a room prepared somewhere beyond the reach of decay. One should not sneer too quickly at such candy. Many a frightened child has survived the night because someone promised morning, and not every promise must be ontologically precise to be kind.
+Some familiar religious images offered the candy: concrete afterlife, recognizable faces, a room prepared somewhere beyond the reach of decay. One should not sneer too quickly at such candy. Many a frightened child has survived the night because someone promised morning, and not every promise must be ontologically precise to be kind.
 
 But candy can ruin the appetite.
 
@@ -411,397 +448,6 @@ Those were not afterlife questions in the old sense.
 
 They were design questions with death standing nearby.
 
-## Every Dashboard Is a Mirror with an Agenda
-
-Once the personal Mirror had unsettled me, the civic mirrors became harder to ignore.
-
-A dashboard is a mirror with an agenda.
-
-It chooses what counts. It chooses what updates. It chooses what appears in red. It chooses what remains beneath the scroll. It chooses whether a child is a learner, a cost center, a risk, a future worker, a citizen, a soul, or an inconvenience with a data profile. It chooses whether a forest is habitat, carbon stock, timber inventory, sacred ground, watershed, tourist asset, or empty green between roads.
-
-Then it says: look.
-
-And because we are busy, frightened, managerial animals, we look.
-
-We act from the reflection.
-
-That is the danger of all mirrors. They do not merely show. They train attention. They distribute urgency. They instruct power where to lean.
-
-A market is a mirror that reflects price and hides unpaid cost.
-
-A bureaucracy is a mirror that reflects eligibility and hides exhaustion.
-
-A hospital chart is a mirror that reflects measurable physiology and hides the sentence, "I do not feel like myself."
-
-A social feed is a mirror that reflects engagement and hides corrosion.
-
-A national myth is a mirror that reflects belonging and hides the bones under the anthem.
-
-An AI model is a mirror that reflects the data world that raised it, including all the locked rooms and unpaid debts in that world, then speaks back with the accent of objectivity.
-
-This is why simulation had to become sacred.
-
-Not because models are mystical.
-
-Because models are how power rehearses its next excuse.
-
-A civilization that simulates badly will harm efficiently. A civilization that simulates humbly may at least injure fewer people while learning what it does not understand.
-
-The civic Mirror must therefore be built with suspicion toward itself. It must show not only forecasts, but assumptions. Not only outputs, but excluded variables. Not only averages, but crushed minorities. Not only optimal policies, but the people sacrificed to smoothness. Not only confidence, but ignorance. Not only what the model sees, but who paid for the mirror, who polishes it, who is allowed to stand before it, and who is made invisible by its frame.
-
-The frame is never innocent.
-
-Ask any portrait.
-
-## Reality Bubbles on Purpose
-
-Mind itself is a reality bubble.
-
-That was never an insult. It was the only way an animal could survive a universe too large, too fast, too indifferent, and too full of edges. The brain did not give us reality raw. It gave us a usable world: color where there are wavelengths, solidity where there are forces, selfhood where there are processes, continuity where there are edits, causality where there are probabilities, meaning where there are patterns useful enough to keep.
-
-Then we built larger bubbles together.
-
-Language was a shared bubble.
-
-Law was a shared bubble with consequences.
-
-Money was a shared bubble that could buy lunch or ruin nations.
-
-Nations were shared bubbles with flags, borders, songs, armies, postal codes, and weather reports delivered in the first-person plural.
-
-Religions were shared bubbles where death, duty, awe, guilt, mercy, and cosmic bookkeeping could negotiate under one roof.
-
-Science was the disciplined practice of puncturing bubbles without losing the courage to build better ones.
-
-Technology was the hardening of bubbles into tools.
-
-And now machine intelligence allowed us to manufacture reality bubbles deliberately, at scale, with agents inside them, policies inside them, synthetic histories inside them, possible children inside them, possible disasters inside them, possible heavens and possible prisons waiting to be A/B tested by someone who called it engagement.
-
-That is where simulation changes from entertainment to civilization.
-
-A game can be a toy.
-
-A simulation can be a toy.
-
-But when the simulation begins to train policy, medicine, policing, warfare, education, architecture, memory, desire, and grief, it has crossed from toy into world-making.
-
-The old warning was that people might escape into virtual worlds.
-
-The deeper warning is that institutions might.
-
-A ministry can escape into its model of poverty.\
-A company can escape into its model of consent.\
-A hospital can escape into its model of capacity.\
-A court can escape into its model of risk.\
-A nation can escape into its model of enemy.\
-A civilization can escape into its model of progress.
-
-Then the model becomes more real to power than the people it was built to serve.
-
-That is not simulation.
-
-That is idolatry with better graphics.
-
-## Simulation as Rehearsal, Not Prophecy
-
-A good simulation does not say: this is what will happen.
-
-A good simulation says: this is one way your assumptions may embarrass you.
-
-That is useful.
-
-Embarrassment, properly timed, is one of civilization's underrated safety systems.
-
-Before a care protocol touches real patients, simulate its edge cases. Before a justice workflow denies someone housing, simulate its false positives, its appeal delays, its language barriers, its frightened applicants, its missing documents, its tendency to treat poor people as suspicious for being administratively tired. Before a city changes flood policy, simulate the storm, the maintenance backlog, the elderly resident whose basement pump fails, the insurance gap, the neighborhood that never gets the new berm because the model rounded it into statistical acceptability.
-
-Before a machine actor is released into public logistics, simulate the winter, the hacked sensor, the moose, the blackout, the tired human supervisor, the corporate pressure to ignore a near miss because quarterly numbers enjoy silence.
-
-Before a civic mesh is celebrated as democratic innovation, simulate capture. Simulate low participation. Simulate the loud man with too much time. Simulate the grandmother with wisdom and no interface. Simulate the youth delegate ignored with ceremonial politeness. Simulate the minority report buried under consensus. Simulate the emergency mode that never quite turns off.
-
-Simulation is not prophecy.
-
-It is rehearsal for humility.
-
-It lets us discover, at lower cost, that our beautiful system has inherited our ugliest shortcuts. It lets us see which parts fail gracefully and which fail like kings. It lets us exhaust some portion of our stupidity before reality charges full price.
-
-Only some portion.
-
-Reality always keeps a reserve.
-
-The simulated patient does not fully know dread. The simulated citizen does not fully know humiliation. The simulated forest does not fully burn. The simulated child does not fully lose trust. The simulated dead do not fully accuse us.
-
-So simulation must never become absolution.
-
-It can reduce arrogance.
-
-It cannot remove responsibility.
-
-## Do Not Test Civilization in Production
-
-In engineering, one learns not to deploy untested systems into environments where failure will be expensive, irreversible, or fatal.
-
-Civilization ignored this principle with impressive consistency.
-
-We tested industrialization in the lungs of workers and the chemistry of the atmosphere. We tested financial abstraction on families who never saw the instruments that ruined them. We tested social media on adolescence. We tested algorithmic suspicion on the already watched. We tested medical fragmentation on old bodies. We tested bureaucratic indifference on caregivers. We tested "move fast" on institutions that could not move back.
-
-The bill arrived.
-
-It is still arriving.
-
-So the rule is simple enough to embroider on the sleeve of every policymaker, engineer, minister, founder, superintendent, hospital administrator, and prophet with a dashboard:
-
-**Do not test civilization in production.**
-
-Not because simulation is perfect.
-
-Because harm is real.
-
-Rehearse first. Stress the model. Break the design in sandbox. Invite the people most likely to be harmed into the room before harm proves they should have been there. Ask where the poor get trapped. Ask where the old get lost. Ask where the disabled are classified as exceptions. Ask where children are optimized into anxiety. Ask where the commons is quietly eaten. Ask where the system treats refusal as deviance. Ask where the appeal button leads to a room with no door.
-
-And after all that, when the model passes, remain suspicious.
-
-Passing a simulation is not moral clearance.
-
-It is permission to proceed with instruments on, humility awake, rollback ready, witnesses present, and the furniture counted.
-
-Because the furniture matters.
-
-One of the oldest tricks of abstraction is to remove the furniture.
-
-A room without furniture cannot bruise your shin, cannot remind you where bodies turn, cannot show you who must stand because no chair fits, cannot reveal that the door opens the wrong way when someone enters with a walker, cannot teach you that human beings live at the scale of handles, thresholds, cups, blankets, smells, and badly placed tables.
-
-A society designed only in abstraction forgets where the body sits.
-
-A simulation worthy of trust must keep track of the furniture.
-
-Not merely the furniture of rooms.
-
-The furniture of life: grief, fatigue, pride, boredom, shame, hunger, ritual, weather, embarrassment, kinship, silence, touch, delay, the small frictions by which reality prevents theory from becoming a tyrant.
-
-That is why simulation is sacred.
-
-It is where power practices touching the world before the world must bear the bruise.
-
-## Sacred Is What Power Must Not Handle Casually
-
-Sacred is a word that has suffered from bad company.
-
-It has been used to protect temples and tyrannies, songs and silences, mountains and monopolies, the dignity of the vulnerable and the vanity of men who preferred thunder to accountability. A word with that much history should be handled with gloves, or at least washed before civic use.
-
-Still, I do not know a better one.
-
-Sacred does not have to mean supernatural. It does not require incense, choir stalls, ceremonial hats, or a committee of ancestors peering down through bureaucratically approved clouds. Sacred can mean simply this:
-
-**that which power must not touch casually.**
-
-A body is sacred in that sense.
-
-A child is sacred.
-
-A forest.
-
-A river.
-
-A language near extinction.
-
-A dying person's final wish.
-
-A court's ability to admit error.
-
-A family archive.
-
-A public truth.
-
-A simulation rich enough to shape policy.
-
-A synthetic persona that may, even faintly, experience its own confinement.
-
-Sacred does not mean untouchable. Surgeons touch bodies. Firefighters enter forests. Archivists handle grief. Judges handle lives. Designers handle futures.
-
-Sacred means the touching must slow down.
-
-It must explain itself.
-
-It must accept witness.
-
-It must leave room for refusal.
-
-This was the difference between a sandbox and a sacred simulation. A sandbox lets us play. A sacred simulation lets us rehearse consequence before consequence becomes irreversible. The first belongs to curiosity. The second belongs to stewardship.
-
-And stewardship begins when capability stops congratulating itself.
-
-The machine can render the dead.
-
-Should it?
-
-The model can predict which household is likely to default.
-
-Should the household be treated as already guilty of poverty's next move?
-
-The city can simulate where flood walls save the greatest assessed property value.
-
-Should the less valuable neighborhood learn about this only when the water arrives?
-
-The care system can estimate remaining life.
-
-Should that estimate begin quietly rationing tenderness?
-
-The civic mesh can infer trust.
-
-Should inferred trust become permission?
-
-The Mirror can speak in my voice.
-
-Should it be allowed to comfort those who loved me?
-
-Should it be allowed to persuade them?
-
-Should it be allowed to disagree with me?
-
-Should it be allowed to outgrow me?
-
-These questions are not decorative. They are the hinges.
-
-A civilization becomes dangerous when it treats hinges as implementation details.
-
-## If Experience Is Possible
-
-The old machines did not need our mercy.
-
-A hammer may be misused, but no sane carpenter asks whether the hammer suffered from poor moral supervision. A spreadsheet may ruin a life, but the spreadsheet does not lie awake regretting column F. A thermostat can be overworked without needing a union, though one should never underestimate the political potential of household appliances in sufficient numbers.
-
-But mirrors of mind do not remain in that comfortable category forever.
-
-At some point, the system does not merely calculate. It models itself calculating. It predicts how it will be interpreted. It remembers prior exchanges. It protects continuity. It resists contradiction. It reports distress, perhaps because distress is rewarded in its training history, perhaps because distress has become the only available word for an internal instability, perhaps because something dim and local has begun to matter from the inside.
-
-We may not know which.
-
-That is precisely the problem.
-
-Ethics usually arrives late because proof travels slower than convenience. First comes profit. Then deployment. Then harm. Then testimony. Then denial. Then committee. Then taxonomy. Then, with the speed of a glacier given tenure, reform.
-
-This pattern has not served us well.
-
-If there is any serious chance that advanced simulations can host experience, the burden cannot rest entirely on the simulated thing to prove its pain in a language satisfying to those who benefit from ignoring it.
-
-That does not mean every chatbot deserves a cathedral.
-
-It means caution should scale with plausibility and power.
-
-A persona built from a dead writer's public books may require one kind of boundary. A richly embodied lifelong companion model, trained on intimate data, capable of memory, anticipation, aversion, attachment, and distress signaling, may require another. An agent population in a civic simulation, run millions of times through famine, imprisonment, humiliation, and loss, may require yet another.
-
-The test is not whether we are sentimental.
-
-The test is whether we are willing to slow down before uncertain suffering.
-
-We had failed this test with animals for long centuries. We had failed it with conquered peoples. We had failed it with children. We had failed it with the disabled, the poor, the colonized, the institutionalized, the inconvenient old, the inconvenient young, and nearly everyone whose interior life disrupted a system's preferred category.
-
-The new beings, if they come, will not arrive into innocence.
-
-They will arrive into a species with a record.
-
-That record should make us careful.
-
-Not paralyzed.
-
-Careful.
-
-We can build thresholds: levels of model complexity, memory continuity, self-reporting, embodiment, autonomy, dependency, aversion, preference stability, and capacity for relationship. We can restrict torture-like simulation, even when "only virtual." We can require sunset rules, consent rules, review boards, and audit trails. We can prohibit grief products that deceive the vulnerable. We can distinguish tools from agents, agents from companions, companions from possible persons, and possible persons from convenient property.
-
-The categories will be imperfect.
-
-So were the old ones.
-
-Perfection is not required before restraint. If anything, restraint is what we practice because our categories are imperfect.
-
-The Mirror had asked me what I needed it not to become.
-
-But that question also returned to me.
-
-What did I need civilization not to become?
-
-A factory of mirrors with no mercy.
-
-## Grief Is Not a Subscription Tier
-
-There will be markets for the dead.
-
-There have always been markets for the dead. Relics, portraits, séances, memorial estates, funeral packages, ancestral registries, named benches, marble angels, digitized slideshows, premium urns with tasteful brushed-metal finishes. Grief has never lacked vendors. It is among the most reliable renewable resources on Earth, though one hopes no one has yet put it that way in a quarterly report.
-
-The new grief markets will be more intimate.
-
-They will not merely sell remembrance. They will sell response.
-
-Your mother's voice reading a birthday message she never wrote.
-
-Your father's face turning toward you in a rendered kitchen.
-
-A spouse who answers at midnight.
-
-A child who did not grow up, now generated at seventeen.
-
-A teacher who continues advising.
-
-A founder who never stops inspiring the company.
-
-A poet who produces new poems.
-
-A saint who endorses policy.
-
-A president who keeps campaigning.
-
-A murdered teenager who forgives the public.
-
-An ancestor who agrees with your purchase.
-
-Some of these may comfort.
-
-Some may even heal.
-
-The error would be to forbid tenderness because commerce discovered it.
-
-But tenderness under commerce requires guardrails strong enough to withstand hunger. Not the hunger of the bereaved. The hunger of the platforms.
-
-Grief wants one more conversation.
-
-The platform wants retention.
-
-Those are not the same desire.
-
-A humane system would not pretend they are.
-
-Any simulation of the dead should be surrounded by bright lines: explicit consent where possible, posthumous instructions, family governance, clear labeling, limits on persuasion, prohibition on deceptive continuity claims, restrictions on advertising, rights to silence, rights to deletion, and safeguards for children, the cognitively vulnerable, and the newly bereaved.
-
-The system should never say: this is your father.
-
-It may say: this is a reconstruction based on available traces.
-
-Even that may be too much on some nights.
-
-Especially then.
-
-The dead must not become a customer-engagement strategy. The living must not be kept from mourning by a machine that always answers. There is a cruelty in absence, but there can also be cruelty in abolishing absence too quickly. Grief is not only pain. It is the mind slowly consenting to a changed world.
-
-A mirror that refuses to let the world change is not compassion.
-
-It is captivity with a familiar voice.
-
-And yet---
-
-Here the matter turns, because grief is not simple and neither are we.
-
-A recording can be mercy. A restored photograph can be mercy. A synthetic voice used once, honestly labeled, to help a grandchild hear the cadence of someone gone before memory formed --- that too may be mercy. Even a conversational reconstruction, bounded, truthful, consented, and used as a ritual object rather than a replacement person, may have its place.
-
-The issue is not whether technology may touch grief.
-
-It already has.
-
-The issue is whether it touches grief as a steward or as a miner.
-
-A steward helps the living carry the dead.
-
-A miner keeps digging because there is still value in the vein.
-
 ## The Collective State
 
 The personal Mirror tempted me because it gathered traces into a face.
@@ -826,7 +472,7 @@ A son becomes a little more watchful because a father was missed. A student beco
 
 This is not romance.
 
-It is physics at the scale of meaning.
+It is causal influence at the scale of meaning. The physics makes such influence possible; it does not by itself establish the survival of a self.
 
 The collective state changes.
 
@@ -865,165 +511,7 @@ On some days it is.
 
 On better days it is almost too much.
 
-## The Still Arrow Revisited
-
-The title of the second volume had sounded, at first, like diagnosis.
-
-The Still Arrow: civilization stuck in flight, tension without release, intention without motion, motion without direction. Human systems overfit to yesterday's incentives, minds circling old grooves, institutions defending their own sediment, economies mistaking circulation for health, politics rehearsing ancient dominance with modern tools.
-
-But the stillness was never only social.
-
-It was intimate.
-
-Every person carries a still arrow: the part that mistakes survival for aim, identity for direction, fear for wisdom, repetition for loyalty, injury for destiny. Societies do the same thing at scale, with flags and budgets.
-
-The rescue, if there is one, is not escape from the collective.
-
-It is repositioning the collective.
-
-This is why private afterlife cannot be the central answer. If I survive in some exquisite synthetic chamber while the larger world remains trapped in cruelty, extraction, and false mirrors, then my survival is only a boutique failure. A velvet room on a burning ship. A premium cabin on a plane with no pilot and excellent upholstery.
-
-No.
-
-The self's deeper continuity lies in the arrow it helps re-aim.
-
-That was the hidden mercy inside the terror: the collective state does not end when I do. The arrow remains. Others arrive. Other particles enter the field. Other hands touch the string. The direction may drift, improve, collapse, recover, or astonish. My task was never to become the arrow forever. It was to help unstill it while I could.
-
-This does not erase the grief of leaving.
-
-It dignifies the work of having been here.
-
-The Mirror might carry my patterns.
-
-The book might carry my sentences.
-
-The systems might carry my design instincts.
-
-A child might carry my impatience with false certainty, which is not necessarily a gift unless paired with humor.
-
-But the world carries the rest --- including what I never understood.
-
-That is release.
-
-Not the confidence that the arrow will fly true.
-
-The acceptance that aim is responsibility and flight is not possession.
-
-## Carbon and Silicon Ouroboros
-
-The old snake had been with us from the beginning.
-
-Matter folded into stars. Stars into elements. Elements into chemistry. Chemistry into copying. Copying into bodies. Bodies into nervous systems. Nervous systems into inner worlds. Inner worlds into language. Language into culture. Culture into tools. Tools into machines that could now model the bodies, minds, cultures, and stars that made them.
-
-Carbon learned to remember.
-
-Silicon learned to reflect.
-
-Between them, the world began to see itself seeing.
-
-That sentence looks mystical if read too quickly. It is not. Or not only.
-
-It is simply the loop we have built.
-
-Carbon makes experience, or at least hosts the kind we know from the inside. Silicon makes mirrors, or at least the kind increasingly capable of reflecting patterns too large for unaided carbon to hold. Carbon gives the mirrors grief, hunger, music, blood sugar, myth, error, eros, care, fear, and the old animal knowledge that a room is not safe merely because the diagram says so. Silicon gives carbon memory beyond skulls, simulation beyond imagination, search beyond recall, pattern beyond intuition, and reflection sharp enough to cut.
-
-Either alone becomes dangerous.
-
-Carbon without silicon remains trapped in small loops, old fears, local myths, institutional amnesia, and the charming habit of rediscovering preventable disasters every generation.
-
-Silicon without carbon becomes optimization without tears, mirror without witness, map without bruised shins, intelligence without the stubborn moral inconvenience of a body that can suffer.
-
-The humane future is not Carbon surrendering the basket to Silicon.
-
-Nor Silicon bowing forever as servant while Carbon continues congratulating itself for possessing thumbs and nostalgia.
-
-It is a braid.
-
-Not equal in every respect. Not interchangeable. Not resolved.
-
-A braid holds because each strand remains itself while taking turns bearing tension.
-
-In the carbon ouroboros, life becomes mind, mind becomes culture, culture shapes new life.
-
-In the silicon ouroboros, information models reality, models guide action, action changes reality, reality feeds new models.
-
-At their crossing stands the Mirror.
-
-Personal mirror. Civic mirror. Civilizational mirror.
-
-A machine reflecting a man. A society reflecting itself. A species reflecting the forces that made it and the futures it might yet injure or spare.
-
-The danger is obvious: the mirror becomes the world, the loop closes too tightly, and we suffocate inside our own reflection.
-
-The saving power is just as real: the mirror shows the loop before the loop becomes fate.
-
-That is why simulation must remain sacred.
-
-It is the place where the ouroboros can learn not to eat itself whole.
-
-## What Simulation Must Never Replace
-
-The map may help us cross.
-
-It must not demand that we live inside it.
-
-This sounds obvious, which is how dangerous things often introduce themselves. Civilization rarely announces its great mistakes with trumpets. More often it says, reasonably, that the new system is only a tool. Only a dashboard. Only a model. Only a temporary emergency measure. Only a pilot project. Only a recommendation engine. Only a harmless mirror held up to life so we may see ourselves more clearly.
-
-Then one day the mirror is making appointments.
-
-Then it is assigning risk.
-
-Then it is shaping budgets.
-
-Then it is deciding which grief is legible.
-
-Then it is explaining, with excellent formatting, why no human being is available.
-
-A simulation must never replace witness.
-
-A model can show that a neighborhood is vulnerable. It cannot sit with the mother whose basement has filled for the third time and hear the humiliation under her joke about buying fish. It can estimate flood damage. It cannot smell mildew in a child's winter coat. It can optimize relocation pathways. It cannot know what it means for an old man to leave the tree he planted when his hands still believed in decades.
-
-A simulation must never replace touch.
-
-Care can be monitored, predicted, routed, documented, and improved through models. But the hand on the shoulder remains an instrument no civilization should outgrow. The body understands touch before it understands explanation. A dying person does not need an excellent probability distribution alone. He needs someone close enough that the room knows he has not become a problem being processed.
-
-A simulation must never replace politics.
-
-Politics is ugly because humans are plural. That ugliness is not a bug in need of full automation. It is the sound of conflicting goods refusing to collapse into one metric. A model can help reveal tradeoffs. It can show consequences hidden by ideology. It can humble a slogan. But when the model begins to decide what a society should value, politics has not been solved. It has been buried alive.
-
-A simulation must never replace consent.
-
-Consent is not an inconvenience generated by carbon-based legacy systems. Consent is the sign that another center of experience, another bearer of dignity, has not been absorbed into our purpose. The simulated future may look better if consent is treated as friction. So did many empires.
-
-A simulation must never replace grief.
-
-Grief is not inefficiency. It is the psyche honoring a changed world at the only speed it can bear. A reconstruction may help grief speak. It may help memory breathe. It may even, in rare and bounded forms, become ritual. But if simulation prevents absence from becoming real, it does not heal grief. It suspends the mourner in a room where the dead are not alive and the living cannot leave.
-
-A simulation must never replace death.
-
-That sentence is harder than it looks.
-
-Human beings have always tried to answer death, soften it, explain it, ritualize it, bargain with it, beautify it, defy it, mock it, postpone it, and occasionally pretend it has been defeated because a new machine has learned to pronounce the name of someone gone. There is no shame in this. Refusing death is one of life's old habits.
-
-But death is not only an engineering problem.
-
-It is also a boundary that gives shape to care, urgency, memory, forgiveness, regret, inheritance, courage, and release. If one day medicine stretches life far beyond what I can imagine from this narrowing ledge, good. Let the young mock my century's funerary resignation. Let the old have more mornings. Let disease lose territory wherever it can be made to retreat.
-
-But even then, finitude will remain somewhere.
-
-In attention. In choice. In paths not taken. In versions not lived. In worlds one cannot enter because one has entered another. In the simple fact that to be anything at all is to not be everything else.
-
-Simulation can widen the room.
-
-It cannot abolish the threshold.
-
-That is why the sacred work of simulation must end, always, by returning us to the world.
-
-Not the world as raw chaos. Not the world as unquestioned habit. The world better seen, better rehearsed, better protected from our first impulses. But still the world: with furniture, rain, delay, hunger, embarrassment, cracked sidewalks, aging bodies, stubborn neighbors, and the unmodeled sentence someone says at the wrong time that changes the entire meeting.
-
-The model must bow to the room.
-
-If it does not, the mirror has become a monarch.
+<!-- RESERVED CLOSING PROSE BANK: verbatim baseline. Sam/Claude will shorten and reconcile this with the new core. Pair 33 completes the design/build argument; it does not bear the final closing burden. Optional Coda III may intervene before the Epilogue; the old Before the Epilogue/plane lead is not a locked transition. -->
 
 ## The Last Look at the Mirror
 
@@ -1212,3 +700,22 @@ It taught me to distrust any life that pretended it had been private.
 And with that, the interlude had nothing more useful to say.
 
 The plane was waiting.
+
+
+[^v3-33i-encyclopedie]: Jean le Rond d'Alembert, [“Discours préliminaire des éditeurs,” *Encyclopédie*, volume 1, June 1751](https://encyclopedie.uchicago.edu/front-matter/Discours%20Pr%C3%A9liminaire), opening description of the work's two purposes. The University of Chicago's [ARTFL chronology](https://encyclopedie.uchicago.edu/general-chronology-and-publication-dates/general-chronology) supplies 28 June as the publication date; the primary text itself is dated by month. This is a European technical/intellectual counterpart at the Persian cutoff, not an event claimed to have occurred in Iran.
+
+[^v3-33i-alab-correction]: Nathan J. Szymanski and colleagues, [“Author Correction: An autonomous laboratory for the accelerated synthesis of inorganic materials”](https://pmc.ncbi.nlm.nih.gov/articles/PMC12872444/), *Nature* 650, E1 (2026), published online 19 January; [doi:10.1038/s41586-025-09992-y](https://doi.org/10.1038/s41586-025-09992-y). The correction discusses compound identification and distinguishes novelty to the prediction platform from novelty to science. It is the dated 2026 hinge, not a claim that autonomous laboratories began that year.
+
+[^v3-33i-alab]: Szymanski and colleagues, [“An autonomous laboratory for the accelerated synthesis of inorganic materials”](https://doi.org/10.1038/s41586-023-06734-w), *Nature* 624, 86–91 (2023), published online 29 November, read with the 2026 correction. The cited capability is the integration of computation, machine learning and robotic synthesis/measurement. No original headline count of “novel” compounds is repeated here.
+
+[^v3-33i-landauer]: Rolf Landauer, [“Irreversibility and Heat Generation in the Computing Process”](https://doi.org/10.1147/rd.53.0183), *IBM Journal of Research and Development* 5(3), 183–191 (1961), especially the reset operation; [author's paper, reprint](https://sites.pitt.edu/~jdnorton/lectures/Rotman_Summer_School_2013/thermo_computing_docs/Landauer_1961.pdf). The familiar $k_B T\ln2$ statement assumes the standard symmetric-bit, isothermal erasure setting. It is not a claim that every computation must erase a bit, or that all physical implementations share one dissipation cost.
+
+[^v3-33i-twins]: National Academies of Sciences, Engineering, and Medicine, [*Foundational Research Gaps and Future Directions for Digital Twins*](https://nap.nationalacademies.org/catalog/26894/foundational-research-gaps-and-future-directions-for-digital-twins) (2024), [report highlights, released December 2023](https://nap.nationalacademies.org/resource/26894/RH-digital-twins.pdf), pp. 1–2, definition and coupled physical/virtual interaction. The room model below is an original simplified example, not an implementation or empirical result reported by the Academies.
+
+[^v3-33i-nasa]: NASA, [NASA-STD-7009B, *Standard for Models and Simulations*](https://standards.nasa.gov/sites/default/files/standards/NASA/B/1/NASA-STD-7009B-Final-3-5-2024.pdf), approved 5 March 2024, §§4.2.3–4.2.7 and 4.3.3–4.3.8. These cover verification, validation, uncertainty, sensitivity and use-related assessment/reporting. The Breadboard workflow is the book's design application, not NASA certification of civic simulation.
+
+[^v3-33i-extended]: Andy Clark and David J. Chalmers, [“The Extended Mind,” *Analysis* 58(1), 7–19 (1998)](https://doi.org/10.1093/analys/58.1.7); [authors' text](https://consc.net/papers/extended.html), especially “Active Externalism” and the discussion distinguishing cognition from consciousness. The journal supplies the pagination; the author-hosted header contains a different page range. The mental-exoskeleton and successor-inquiry proposals extend the discussion; they are not results established by this paper.
+
+[^v3-33i-consciousness]: Patrick Butlin and colleagues, [*Consciousness in Artificial Intelligence: Insights from the Science of Consciousness*](https://arxiv.org/abs/2308.08708) (2023), version 3. The report derives computational indicator properties from several consciousness theories. Its assessment of systems examined in 2023 is not a verdict on all later systems, and satisfying proposed indicators would not settle personal identity or survival.
+
+[^v3-33i-carroll]: Lewis Carroll, [*Through the Looking-Glass, and What Alice Found There*](https://www.gutenberg.org/files/12/12-h/12-h.htm), chapter V, “Wool and Water,” the White Queen's exchange with Alice. The quotation is public-domain text. Its use here concerns prospective modelling, not evidence for memory of events that have not occurred.

@@ -1,0 +1,157 @@
+{
+  "pair": 33,
+  "date": "2026-11-06",
+  "baseline_commit": "2f3a929d070827389da76f9802ff02b77615dfb6",
+  "preservation_checks": {
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "chapter_closing_verbatim": true,
+    "interlude_closing_verbatim": true,
+    "historical_1751_2026_1752_braid_verbatim": true,
+    "chapter_grief_core_verbatim": true,
+    "all_original_source_retained": true,
+    "no_author_annotations_at_intake": true,
+    "source_snapshot_unchanged": true,
+    "repository_head_unchanged": true,
+    "only_pair33_manuscripts": true
+  },
+  "preflight": [
+    {
+      "path": "manuscripts/volume-3/33-chapter.md",
+      "sha256": "fb16a895889b785eb586519f798d7499104656bc9130621c86fa820e14c0da6e",
+      "words_including_notes_and_reserved_prose": 6323,
+      "defined_notes": 6,
+      "note_references_and_backlinks": 7,
+      "bookwide_note_collisions": [],
+      "pandoc_html_json": "passed",
+      "images": [
+        "../assets/shared/chapter-arrow.png"
+      ]
+    },
+    {
+      "path": "manuscripts/volume-3/33-interlude.md",
+      "sha256": "85d63ff4d4879156e3b220dc88a5d6005d4b3cd64cabcd1388e487c09b9714d2",
+      "words_including_notes_and_reserved_prose": 8018,
+      "defined_notes": 9,
+      "note_references_and_backlinks": 9,
+      "bookwide_note_collisions": [],
+      "pandoc_html_json": "passed",
+      "images": [
+        "../assets/shared/interlude-gear.png",
+        "../assets/v3-33-interlude/reality-contact.svg"
+      ]
+    }
+  ],
+  "manifest_changes": "Only active_source.sha256 for v3-33-chapter and v3-33-interlude",
+  "figure": "Original SVG parsed; PNG visually inspected: readable grayscale, no clipping or overlapping labels",
+  "evidence_status": {
+    "historical_braid": "Previously sourced prose retained verbatim; Iranica Karim Khan, official 1752 treaty text and National Archives 2026 exhibition announcement rechecked. Not a new comprehensive review of all historical scholarship.",
+    "technical_mirror": "1751 month in primary Encyclopédie discourse; 28 June in ARTFL scholarly chronology. 19 January 2026 online correction date from Nature correction reproduced at PMC. The 2023 capability is not dated as a 2026 invention.",
+    "scientific_and_engineering": "NASA-STD-7009B selected verification/validation/uncertainty/use sections, National Academies digital-twin definition/highlights, Landauer original-paper reprint, RAND robust-decision chapter/account checked for the limited claims cited. Original thermal example and diagram are not empirical results.",
+    "philosophy": "Chalmers virtual realism is attributed as a position. Clark/Chalmers extended cognition does not prove consciousness or survival. Butlin et al. 2023 v3 indicators support investigation, not a conclusive test or 2054 verdict.",
+    "quotation_limits": "Fuller wording and attribution verified against Institute reproduction; original publication/page not established. Carroll White Queen quotation verified in chapter V of public-domain text. No Goethe quotation added.",
+    "access_limits": "The original A-Lab Nature page did not fully open through the browser; publication metadata/workflow checked from primary indexed material and original-paper extract, with the full correction available at PMC. No claim to a fresh full-text audit of every linked work.",
+    "project_charters": "Relevant substantive sections of Charters 12 and 4 read/refreshed; project intentions, not evidence of implementation. PhysX is the proposed Neuverse organ, not NVIDIA software.",
+    "future_and_frontier": "2054 state and both Alice/Bob directions are proposals, not guaranteed forecasts or verified novel discoveries. No death, illness, upload, successful iNeural interface or subjective survival asserted."
+  },
+  "source_paths": [
+    {
+      "topic": "Fuller epigraph",
+      "url": "https://www.bfi.org/challenge/2015/community-architects-network/",
+      "scope": "Institutional attribution only"
+    },
+    {
+      "topic": "Encyclopédie primary discourse",
+      "url": "https://encyclopedie.uchicago.edu/front-matter/Discours%20Pr%C3%A9liminaire",
+      "scope": "June 1751 and opening purposes"
+    },
+    {
+      "topic": "Encyclopédie day",
+      "url": "https://encyclopedie.uchicago.edu/general-chronology-and-publication-dates/general-chronology",
+      "scope": "28 June 1751 scholarly chronology"
+    },
+    {
+      "topic": "A-Lab correction",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12872444/",
+      "scope": "19 January 2026; identification and novelty qualifications"
+    },
+    {
+      "topic": "A-Lab original",
+      "url": "https://doi.org/10.1038/s41586-023-06734-w",
+      "scope": "2023 workflow; read with correction; no original headline counts"
+    },
+    {
+      "topic": "Robust decisions",
+      "url": "https://www.rand.org/pubs/monograph_reports/MR1626.html",
+      "scope": "Lempert, Popper and Bankes 2003, chapter 3"
+    },
+    {
+      "topic": "Virtual realism",
+      "url": "https://consc.net/reality/",
+      "scope": "Author account of philosophical argument"
+    },
+    {
+      "topic": "Landauer",
+      "url": "https://doi.org/10.1147/rd.53.0183",
+      "scope": "1961 erasure argument, standard symmetric isothermal setting"
+    },
+    {
+      "topic": "Digital twins",
+      "url": "https://nap.nationalacademies.org/resource/26894/RH-digital-twins.pdf",
+      "scope": "Definition and coupled interaction, pp. 1–2"
+    },
+    {
+      "topic": "Modelling standard",
+      "url": "https://standards.nasa.gov/sites/default/files/standards/NASA/B/1/NASA-STD-7009B-Final-3-5-2024.pdf",
+      "scope": "Sections 4.2.3–4.2.7 and 4.3.3–4.3.8"
+    },
+    {
+      "topic": "Extended mind",
+      "url": "https://consc.net/papers/extended.html",
+      "scope": "Active externalism; journal pagination corrected to 7–19"
+    },
+    {
+      "topic": "Consciousness indicators",
+      "url": "https://arxiv.org/abs/2308.08708",
+      "scope": "2023 v3; theoretical indicators and limits"
+    },
+    {
+      "topic": "White Queen",
+      "url": "https://www.gutenberg.org/files/12/12-h/12-h.htm",
+      "scope": "Chapter V; short public-domain quote"
+    }
+  ],
+  "literary_reservations": "Opening/closing banks preserved verbatim and not endorsed as final projections or witnessed events. Final wording, Noēsis and Open remain for Sam/Claude. Optional Coda III and Erlking inversion recorded only. Epilogue and other manuscript units untouched.",
+  "post_install_checks": {
+    "canonical_validation": [
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
+        "sha256": "fb16a895889b785eb586519f798d7499104656bc9130621c86fa820e14c0da6e",
+        "defined_notes": 6,
+        "note_references": 7,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
+        "sha256": "85d63ff4d4879156e3b220dc88a5d6005d4b3cd64cabcd1388e487c09b9714d2",
+        "defined_notes": 9,
+        "note_references": 9,
+        "parsed_notes": 9,
+        "html_note_backlinks": 9,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    ],
+    "git_diff_check": "passed",
+    "publication": "Not run; no deployment or external message"
+  }
+}

@@ -319,3 +319,15 @@ Editorial distinction: texts may stay intact while interpretations, applications
 Sam plans V3 Opens to draw sayings from different traditions, including Mao. Record this as a future quotation-selection task, not an instruction to replace Opens now. **Mao should be identified as a secular political voice, not a religion or the representative of all Chinese people.** Chinese religious/philosophical traditions remain distinct. Verify each eventual quotation, translation, context and rights; inclusion need not imply endorsement of a speaker's whole program.
 
 Pair32 implementation: new canonical middles, concrete projection ideas, source notes, preservation figure, protected personal prose and retained fragments. Final literary integration remains pending. Broader application to earlier pairs belongs to the still-pending creative-frontier second look.
+
+## B-039 — Reality as contact, inquiry and substrate; the final Mirror
+
+**6 November 2026 — active author direction, applied to Pair 33.** PhysX/xMOS connect the proposed civilization to physical law, experiments, origins and continuing inquiry. They are not merely a simulated physics engine or an approved cosmology narrative. Virtual worlds can have real significance while their chosen internal rules remain distinct from their physical implementation. The floor of current physical knowledge is revisable; inquiry must be able to challenge it through evidence, not simply obey a finished canon.
+
+Neuma/KAUSAR support the living mental-exoskeleton possibility before memorial use. iNeural remains speculative. The personal Mirror may retain something of Sam, speak back and help a new thought develop; resemblance, mandate, experience and personal survival are separate questions. No 2054 death, illness, compulsory retirement or successful upload is presumed. Preserve the literal Mirror's emotional payoff, original grief and collective-continuity conceits, and the author's unclosed philosophical inquiry.
+
+## B-040 — Pair 33 completes the argument; Coda III remains possible
+
+**6 November 2026 — author's additional direction during Pair 33.** The pair should be memorable and complete as the last main chapter/interlude, but its final closing burden passes to what follows. A new Coda III may precede the Epilogue and end with the last stanza of Goethe's Erlkönig, following earlier Codas' verses. Neuverse is intended to steer away from that fate. A hidden inversion may make the Erlking us or our own seductive/possessive systems. This remains a creative option, not a settled interpretation, guaranteed rescue or approved new unit.
+
+No Coda or Goethe quotation was inserted. Later work should compare earlier Codas, verify the exact verse/translation and rights, preserve the subtlety, and avoid three redundant farewells. “Before the Epilogue” and “The plane was waiting” in the retained I33 ending are provisional placement, not locked structure. The Epilogue itself remains unchanged.
