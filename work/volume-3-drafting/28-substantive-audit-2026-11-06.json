@@ -1,0 +1,266 @@
+{
+  "date": "2026-11-06",
+  "baseline_commit": "e71b15141df9fa8d351ea41e8e022100565e5886",
+  "scope": "Pair28 substantive completion for later Sam/Claude literary pass",
+  "no_publication_or_external_handoff": true,
+  "source_inputs": [
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/8 Neufacture, Industry, Material Lifecycle Charter.md",
+      "sha256": "22bc7951c6a3d10e44e3efda588c18b85fd9679307e38491878d5b51a77dfd47",
+      "read_scope": "All headings; full §§1,7,12,13,18; selected substantive portions of §§3.3–3.7,4.1–4.4,5.3/5.7,6.2/6.4,9.2/9.3,11.7,14.2/14.3/14.10–14.11,15.1–15.5,16.2–16.4,19.3–19.6. Some long outputs partial. Not a uniform full-charter read. Seven-tier/sowing and earlier charter context inherited from documented prior-pair readings.",
+      "authority": "Internal intended responsibilities,not deployment evidence"
+    }
+  ],
+  "preservation_checks": {
+    "chapter_historical_braid_verbatim": true,
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "chapter_closing_verbatim": true,
+    "interlude_closing_verbatim": true,
+    "old_technical_mirror_preserved_verbatim": true,
+    "no_author_annotations_removed": true,
+    "source_snapshot_matches": true,
+    "only_two_manuscripts_prepared": true
+  },
+  "preflight": {
+    "manuscripts/volume-3/28-chapter.md": {
+      "defined_notes": 12,
+      "note_references": 12,
+      "bookwide_collisions": [],
+      "math_nodes": 0,
+      "image_paths": [
+        "../assets/shared/chapter-arrow.png"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 12
+    },
+    "manuscripts/volume-3/28-interlude.md": {
+      "defined_notes": 11,
+      "note_references": 11,
+      "bookwide_collisions": [],
+      "math_nodes": 3,
+      "image_paths": [
+        "../assets/shared/interlude-gear.png",
+        "../assets/v3-28-interlude/from-design-to-material-evidence.svg"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 11
+    }
+  },
+  "manifest_changes": "Only original v3-29-chapter and v3-29-interlude active_source.sha256 values; current paths28",
+  "manuscripts": [
+    {
+      "path": "manuscripts/volume-3/28-chapter.md",
+      "before_sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "after_sha256": "b58dc135a9beb59b4562925677bd0c7931410a8ca391a83491116d867d8cb99c",
+      "before_whitespace_words": 6075,
+      "after_whitespace_words": 8242
+    },
+    {
+      "path": "manuscripts/volume-3/28-interlude.md",
+      "before_sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "after_sha256": "1722ec1ed7d614246968de7e0d464b695144010d3977dd1d34aef3c6e55f83ed",
+      "before_whitespace_words": 5448,
+      "after_whitespace_words": 5330
+    }
+  ],
+  "sources": [
+    {
+      "note": "v3-28c-culkin",
+      "url": "https://static1.squarespace.com/static/5a6135761f318d1d719bd5d9/t/5b2536342b6a2886441759d5/1529165365116/JOHN_CULKIN.pdf",
+      "locator": "Saturday Review,18March1967,p70/PDF4",
+      "verification_scope": "Primary scan text, printed wording and date checked",
+      "limits": "Culkin writing about McLuhan; attribution is to the printed passage, not proof nobody used it earlier.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28c-functions",
+      "url": "https://www.nasa.gov/reference/4-0-system-design-processes/",
+      "locator": "§4.3 and https://www.nasa.gov/reference/5-0-product-realization/ §§5.3–5.4",
+      "verification_scope": "Official handbook relevant indexed passages checked",
+      "limits": "New household function/verification/validation examples are applications, not NASA specifications.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28c-architecture",
+      "url": "https://ktulrich.com/wp-content/uploads/2022/09/ulrich-architecture-rp.pdf",
+      "locator": "Ulrich1995,§2 and§7.2,p433",
+      "verification_scope": "Author-hosted primary paper; indexed definition and modular/integral/performance passages checked. Full PDF text extraction was not available",
+      "limits": "Tradeoffs supported; latch and service-sequence applications are ours. No universal modularity advantage.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28c-lca",
+      "url": "https://www.iso.org/standard/37456.html",
+      "locator": "ISO14040public abstract; EPA/600/R-06/060 chapter2,pp10–12 at https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1000L86.TXT",
+      "verification_scope": "ISO public framework description and relevant primary EPA text read; EPA report author credited as SAIC for EPA, not Mary Ann Curran as editor",
+      "limits": "No full restricted ISO standard read. Ten-year comparative example invented; full-unit alternative widens functional unit to heating service.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28c-retention",
+      "url": "https://www.resourcepanel.org/reports/re-defining-value-manufacturing-revolution",
+      "locator": "IRP/UNEP2018report page and summary for policymakers, https://www.resourcepanel.org/file/1100/download?token=Uy6hwmQi",
+      "verification_scope": "Official report metadata/summary selectively checked; no full technical-report review claimed",
+      "limits": "Value-retention routes are distinct;100×.8×.9×.9=64.8kg is illustrative,not an empirical industry rate.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28c-fmea",
+      "url": "https://webstore.iec.ch/en/publication/26359",
+      "locator": "IEC60812:2018,public description",
+      "verification_scope": "Official description checked",
+      "limits": "Restricted standard not read in full; examples not a completed hazard analysis.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28c-qualification;v3-28i-inspection",
+      "url": "https://www.nist.gov/programs-projects/additive-manufacturing-part-qualification",
+      "locator": "Problem and research plan:anisotropy,defects,postprocessing,XCT,probability of detection",
+      "verification_scope": "Relevant official programme text read",
+      "limits": "Supports need for process/material/physical evidence; no universal inspection or approval claim.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-rontgen",
+      "url": "https://history.state.gov/historicaldocuments/frus1901/d442",
+      "locator": "Thomas to Hay,11December1901,FRUS442,pp497–498; discovery date at https://wilhelmconradroentgen.de/en/wilhelm-roentgen/",
+      "verification_scope": "Primary diplomatic dispatch and Röntgen Memorial chronology read",
+      "limits": "10December1901recognition distinct from8November1895discovery. IndustrialCT is a later technical continuation.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-ai",
+      "url": "https://www.nist.gov/programs-projects/advanced-informatics-and-artificial-intelligence-additive-manufacturing",
+      "locator": "Programme summary:design,process planning,twins,qualification thresholds",
+      "verification_scope": "Official indexed programme summary checked",
+      "limits": "2041integration/affordability is authorial extrapolation,not NIST forecast.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-topology",
+      "url": "https://doi.org/10.1007/s00158-013-0978-6",
+      "locator": "Sigmund/Maute2013,48(6),1031–1055; author-institution record https://orbit.dtu.dk/en/publications/topology-optimization-approaches-a-comparative-review/",
+      "verification_scope": "Primary author-institution metadata/abstract checked; DOI open failed",
+      "limits": "Full paper not read; used for established field/approaches. Manufactured feasibility must be separately established.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-process",
+      "url": "https://www.nist.gov/programs-projects/qualification-additive-manufacturing-materials-processes-and-parts",
+      "locator": "Programme approaches:empirical,equivalence-based,model-based",
+      "verification_scope": "Official indexed programme summary checked",
+      "limits": "Two-route architecture is new illustration; no qualification granted by text.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-patterns",
+      "url": "https://www.informit.com/articles/article.aspx?p=1398599",
+      "locator": "GoF Abstract Factory publisher excerpt,intent/motivation",
+      "verification_scope": "Publisher excerpt relevant text checked; Adapter is an established same-book cross-reference,not a separately re-read chapter",
+      "limits": "Pattern creates compatible software families,not material equivalence or physical approval.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-spc",
+      "url": "https://www.itl.nist.gov/div898/handbook/ppc/section4/ppc45.htm",
+      "locator": "§3.4.5 and§6.1.6 at https://www.itl.nist.gov/div898/handbook/pmc/section1/pmc16.htm",
+      "verification_scope": "Official indexed stability/capability passages checked",
+      "limits": "Worst-case clearance0.11–0.29mm is arithmetic only; uncertainty,thermal and service conditions remain necessary.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-epcis",
+      "url": "https://ref.gs1.org/standards/epcis/2.0.0/",
+      "locator": "TransformationEvent input/output semantics; https://ref.gs1.org/epcis/TransformationEvent",
+      "verification_scope": "Official standard/indexed definition checked selectively",
+      "limits": "Representation not physical truth or permissions; version2.0cited explicitly,not claimed newest.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-ot",
+      "url": "https://doi.org/10.6028/NIST.SP.800-82r3",
+      "locator": "NISTSP800-82Rev3,2023,ch2 and§2.3.7 safety systems",
+      "verification_scope": "Primary report relevant sections checked",
+      "limits": "Security guidance not complete functional-safety certification. Retry/physical reconciliation examples are design reasoning.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28c-mycelium;v3-28i-mycelium",
+      "url": "https://doi.org/10.1016/j.matdes.2018.11.027",
+      "locator": "Appelsetal2019,Materials&Design161,64–71; https://research-portal.uu.nl/en/publications/fabrication-factors-influencing-mechanical-moisture-and-water-rel/",
+      "verification_scope": "Primary authors institutional abstract/metadata read",
+      "limits": "Species,substrate,pressing affect measured properties; not universal regeneration or load-bearing qualification.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28i-living",
+      "url": "https://doi.org/10.1016/j.matt.2019.11.016",
+      "locator": "Heveranetal2020,Matter2(2),481–494; https://researchportal.hkust.edu.hk/en/publications/biomineralization-and-successive-regeneration-of-engineered-livin/",
+      "verification_scope": "Primary authors institutional abstract/metadata read",
+      "limits": "Sand-gelatin scaffold,mineralization,successive regeneration under laboratory conditions. No universal buildings or environmental-benefit claim.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28-production",
+      "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+      "locator": "IFR24September2026release; SzymanskietalNature624,86–91 at https://www.nature.com/articles/s41586-023-06734-w and correction https://doi.org/10.1038/s41586-025-09992-y",
+      "verification_scope": "Official IFRrelease and corrected Nature article metadata/abstract checked; original authors correction also checked via https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2026-02/author-correction_for_an_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials.pdf",
+      "limits": "Correct title inorganic materials; correction online19January2026. No original success count or universal discovery assertion used. Does not establish2041schedule.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-28-kavad",
+      "verification_scope": "Inherited source-backed historical braid retained verbatim from prior editorial work; not independently re-verified in this pair-completion pass",
+      "limits": "No new historical claim or date normalization introduced. Existing URLs and caveats retained."
+    },
+    {
+      "note": "v3-28-steel",
+      "verification_scope": "Inherited source-backed historical braid retained verbatim from prior editorial work; not independently re-verified in this pair-completion pass",
+      "limits": "No new historical claim or date normalization introduced. Existing URLs and caveats retained."
+    },
+    {
+      "note": "v3-28-mckinley",
+      "verification_scope": "Inherited source-backed historical braid retained verbatim from prior editorial work; not independently re-verified in this pair-completion pass",
+      "limits": "No new historical claim or date normalization introduced. Existing URLs and caveats retained."
+    }
+  ],
+  "figure": {
+    "path": "manuscripts/assets/v3-28-interlude/from-design-to-material-evidence.svg",
+    "authorship": "Original code-native vector artwork",
+    "visual_check": "Final960pxPNG rendered and inspected;grayscale text/boxes/arrows readable. Released label distinguishes the outcome that proceeds to use. No third-party artwork."
+  },
+  "reserved": [
+    "Final future opening prose and closing reconciliation",
+    "Real personal affiliations/recollections",
+    "Noesis andOpen28",
+    "Final density/voice pass",
+    "Further author Alice/Bob development",
+    "Whole-volume handoff"
+  ],
+  "post_install_checks": {
+    "date": "2026-11-06",
+    "chapter": {
+      "passed": true,
+      "defined_notes": 12,
+      "parsed_notes": 12,
+      "html_backlinks": 12,
+      "display_equations": 0,
+      "warnings": [],
+      "errors": []
+    },
+    "interlude": {
+      "passed": true,
+      "defined_notes": 11,
+      "parsed_notes": 11,
+      "html_backlinks": 11,
+      "display_equations": 1,
+      "warnings": [],
+      "errors": []
+    },
+    "git_diff_check": "passed",
+    "visual_figure": "Final960x1110grayscalePNG inspected; release path distinguished; SVG is canonical asset",
+    "publication": "not performed"
+  },
+  "completed_on": "2026-11-06"
+}

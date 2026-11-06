@@ -117,3 +117,9 @@ The author requested pair 26 after reviewing pair 25. C26/I26 now supply the lea
 [Brief](volume-3-drafting/27-substantive-completion-2026-11-05.md) and [2039 projections](volume-3-drafting/27-vignette-constructions-2039.md). Canonical C27/I27 now teach commons institutions and ecological fit, then build useful services with authority, privacy, physical limits and maintenance. The author's latest ecological constraint is recorded in B-034. The 251/1876/2039 braid is preserved; I27 gains an exact-year Bell mirror. The diagram, admission equation and examples are proposed teaching constructions, not implemented project evidence.
 
 Substantive completion now covers Θ foundations and numbered pairs **23–27**. Final literary projections, Noēsis, Opens and full-volume reconciliation remain pending. The whole-volume Claude handoff stays withheld. Pair 28 is the next numbered unit when the author requests it.
+
+## Pair 28 substantive pass completed — 6 November 2026
+
+[Brief](volume-3-drafting/28-substantive-completion-2026-11-06.md) and [2041 projections](volume-3-drafting/28-vignette-constructions-2041.md). C28/I28 now carry material need through accountable production, service and recovery, informed by the requested Neufacture charter and the enclosing-ecosystem requirement. Designer methods and builder mechanisms are taught through an actual repair comparison, two production routes, a tolerance calculation and a grayscale diagram. The 501/1901/2041 braid is preserved; the interlude's technical mirror is dated 10 December 1901.
+
+Substantive completion now covers Θ foundations and numbered pairs **23–28**. Final projections, closing reconciliation, Noēsis, Opens and full-volume consistency remain pending for Sam/Claude. The final handoff remains withheld. Pair 29 is next when the author requests it.

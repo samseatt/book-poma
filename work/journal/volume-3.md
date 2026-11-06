@@ -437,3 +437,15 @@ See the [pair brief](../volume-3-drafting/26-substantive-completion-2026-11-05.m
 The 251/1876/2039 chapter braid is intact. I27 uses Bell's **7 and 10 March 1876** milestones; its old weakly aligned steel/map/canon passage is preserved in a separate file. New source notes are verified to the scope in the audit. Both original openings and enacted closings remain under reservations; their future dialogue is not memoir. The I27 age mismatch is flagged for the later rewrite.
 
 [Pair brief](../volume-3-drafting/27-substantive-completion-2026-11-05.md) · [Concrete projection constructions](../volume-3-drafting/27-vignette-constructions-2039.md) · [Retained technical mirror](../volume-3-drafting/27-retained-fragments-2026-11-05.md). Final projections, personal additions, callbacks, Noēsis, Open and literary compression stay with Sam/Claude. Whole-volume handoff remains withheld. No publishing or project implementation.
+
+## V3-PAIR28-001 — Making and material lifecycle, 6 November 2026
+
+**Status:** substantive source completed for author review; future literary realization reserved.
+
+The requested Neufacture charter grounds C28/I28. Material need precedes product; production carries obligations through maintenance, recovery and learning. C27's ecological rule becomes whole-life boundaries, cumulative demand, nonhuman/ecological limits and actual reverse logistics here. More capable 2041 automation can make repair and production markedly easier without abolishing materials science or specialized plants.
+
+C28 teaches functional decomposition, verification/validation, product architecture and modularity tradeoffs, assembly/service/disassembly, LCA and FMEA. I28 follows one function through two qualified fabrication routes and actual inspection, with software patterns, a tolerance example, material/event identities, safe retry/recovery and biological material distinctions. The original historical braid remains intact. Röntgen's 10 December 1901 Nobel supplies the interlude's exact-year mirror; the unsupported 501 linkage of Zero/Silk/Stirrup is saved separately.
+
+Alice asks whether collective material learning can grow capability faster than replacement of physical stock. Bob asks whether evidence obligations can travel with a design across different processes. The Next Move is **Give One Thing Another Life**, leaving reusable capability and funded maintenance behind. These are substantive drafts, not claims of new discoveries or implemented project results.
+
+See [pair brief](../volume-3-drafting/28-substantive-completion-2026-11-06.md), [concrete 2041 projections](../volume-3-drafting/28-vignette-constructions-2041.md), [retained fragments](../volume-3-drafting/28-retained-fragments-2026-11-06.md) and the adjacent audit. Openings/closings remain verbatim under reservations; Claude must reconcile them, not narrate an invented future visit as memoir. Whole-volume handoff remains withheld. Pair 29 has not been changed.

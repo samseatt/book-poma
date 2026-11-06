@@ -8,8 +8,10 @@ CHAPTER 28
 
 *MAKING*
 
-> "We shape our tools and thereafter our tools shape us."\
-> --- often attributed to **Marshall McLuhan**
+> "We shape our tools and thereafter they shape us."\
+> --- **John M. Culkin**, writing about Marshall McLuhan[^v3-28c-culkin]
+
+<!-- Legacy projection retained verbatim for Sam/Claude. Reconstruct as explicitly prospective thinking at 9 AM, 11 September 2041; see work/volume-3-drafting/28-vignette-constructions-2041.md. The old corridor scene is not memoir or a forecast of universal driverless freight. -->
 
 he road had become too quiet.
 
@@ -136,6 +138,8 @@ The corridor was necessary. The workshop was necessary.
 
 Only one taught the community what its things were made of.
 
+<!-- End of reserved opening. Substantive revisions and additions below: AI-assisted editorial completion, 6 November 2026; historical braid preserved. -->
+
 ## When the Road Goes Silent
 
 The industrial age taught civilization to make at scale.
@@ -162,7 +166,7 @@ If logistics vanish into sealed machine corridors, production may become even mo
 
 Or automation can do the opposite.
 
-It can free communities to remake making itself: local where useful, distributed where resilient, circular where possible, regenerative by default, global where necessary, transparent across the chain.
+It can free communities to remake making itself: local where useful, distributed where resilient, circular where possible, attentive to ecological recovery, global where necessary, transparent across the chain.
 
 The design question of this chapter is simple:
 
@@ -254,65 +258,21 @@ It is a knot in the material world.
 
 ## Making as Responsibility
 
-Every made thing carries history.
+A thing is not finished when it leaves the workshop. It has only begun its argument with the world. A paper cup argues briefly. A building argues for decades. A plastic fragment argues longer than the civilization that gave it a logo.
 
-Material history.
+A stewardship workshop begins one question before the production order: what needs to work?
 
-Energy history.
+“Print a new housing” names a preferred solution. “Restore reliable heating without replacing a serviceable system” names a function. The distinction opens a much larger design space. A component may need repair, a control may need adjustment, a building may need less heat loss, or the whole machine may genuinely need replacing. The person should receive warmth, not a compulsory audition for the workshop's newest printer.
 
-Labor history.
+**Functional decomposition** makes that distinction usable. Separate what a system must accomplish from the parts that currently accomplish it. For a service cover, the functions might include protecting equipment from weather, allowing maintenance access and remaining secured during use. Translate these into requirements that can be checked: exposure conditions, permitted gaps, access clearance, expected service life and the consequences of a fastener failing. Then compare ways to meet them. NASA's systems-engineering guidance formalizes this passage from stakeholder expectations through functions to a design solution; the method is useful well below the altitude at which NASA normally works.[^v3-28c-functions]
 
-Design intention.
+There is a second distinction. **Verification** asks whether the result meets its specification. **Validation** asks whether that specified result serves the intended use. A replacement cover can pass its dimensional checks and still make routine servicing so awkward that maintenance gets postponed. Both the part and the requirement need scrutiny. The user belongs in that conversation before the final inspection, particularly when access, bodily fit or care is involved.
 
-Maintenance burden.
+This is the reversal I intend through Neufacture: material need before product, continued responsibility after delivery. Neufacture would connect industrial design, fabrication and lifecycle stewardship. Neuconomy would supply context about need, contribution and consequence; Neubank would help provision and route a response; xGaia would bring the surrounding ecological conditions into the decision. These are proposed cooperating functions, not a claim that one organ can know everyone's needs or that my charter has already built a factory.
 
-Disposal problem.
+The charter calls this **material fit**. A response fits when the need, the person or setting, the material, its use and its eventual recovery make sense together. The smallest object is not always the best answer. A robust replacement can be justified where repeated patches waste resources or expose people to danger. Delight, craft and ornament also belong in a civilization; no central committee needs to authorize the continued existence of a vase.
 
-Repair possibility.
-
-Ecological footprint.
-
-Social consequence.
-
-A thing is not finished when it leaves the workshop.
-
-It has only begun its argument with the world.
-
-That argument may last minutes, years, generations, or geological embarrassment. A paper cup argues briefly. A building argues for decades. A plastic fragment argues longer than the civilization that gave it a logo. A tool can argue kindly by serving, repairing, and passing from hand to hand. A bad product argues by breaking, leaking, poisoning, frustrating, and multiplying copies of its failure.
-
-The workshop is therefore not just a place of production.
-
-It is where responsibility becomes material.
-
-Old industry often defined success at the point of sale. Did it ship? Did it sell? Did margin survive? Did warranty costs remain tolerable? Did the customer click five stars before the hinge failed?
-
-A stewardship workshop asks longer questions.
-
-Should this be made?
-
-Can an existing thing be repaired?
-
-Can the material be recovered?
-
-Can the user maintain it?
-
-Can the object be adapted?
-
-Can it be disassembled?
-
-Who will be harmed by its production?
-
-Who will inherit its waste?
-
-What does it teach the community about matter?
-
-These questions do not end production.
-
-They discipline it.
-
-The future workshop must not only ask whether a thing can be made.
-
-It must ask what the making does to the world that must receive it.
+What changes is the burden of design. The object must have a reason to enter the world, a credible way to remain useful, and someone responsible when the plan meets matter.
 
 ## Local Where Useful, Distributed Where Wise
 
@@ -356,108 +316,33 @@ The room teaches us what movement costs.
 
 ## The Reimagined Workshop
 
-The reimagined workshop is not a nostalgic garage with better software.
+The reimagined workshop is not a nostalgic garage with better software. It is a civic organ: a place where needs, practical skill, industrial capacity and material consequences can meet.
 
-It is a civic organ.
+Its capabilities could include robotic machining, additive fabrication, diagnosis, disassembly, materials testing and access to regional specialists. The important change is their coordination. An AI that reconstructs a missing part, checks alternatives against a product's service history and prepares a qualified manufacturing route has removed a large amount of translation work. It has made skilled response more accessible. The achievement deserves more enthusiasm than a fresh dashboard.
 
-A future workshop may combine local craft, robotic tools, AI design assistants, additive manufacturing, subtractive machining, repair benches, materials libraries, training spaces, community access, safety protocols, design review, circular sorting, small-batch production, disability adaptation, elder-home modification, agricultural repair, open design archives, and a stubborn person in the corner who knows by sound whether a machine is about to become expensive.
+But the workshop should also be able to learn without immediately producing anything. A recurring failure might justify changing a product family, pooling spare capacity or developing a regional process. A single request might reveal no such need. Remembering the difference is part of industrial intelligence.
 
-It makes things.
+Consider a scooter bracket that repeatedly cracks at a decorative cutout. Printing copies faster would accelerate the wrong lesson. Diagnose the loading, material, geometry and actual use; then decide whether repair, redesign or replacement is justified. A new geometry needs new evidence. It does not become safe because an AI drew a reassuring curve through the place where the old one broke.
 
-It also remembers what things owe.
+Things break in a dialect. A workshop needs to learn the language without requiring every injured owner to become its translator.
 
-In the workshop I visited, a wall displayed four questions above the intake desk:
-
-**Can it be repaired?**\
-**Can it be adapted?**\
-**Can it be remade from safer material?**\
-**Can we avoid making it at all?**
-
-The last question did the most work.
-
-Industrial systems often begin with production. A stewardship workshop begins with need.
-
-A teenager arrived carrying a broken scooter.
-
-"Can you print this part?" he asked.
-
-The steward took it, examined the cracked bracket, scanned it, and frowned.
-
-"We can. But why did it crack?"
-
-The teenager looked betrayed by philosophy.
-
-"Because it broke."
-
-"Things break in a dialect," she said.
-
-This was perhaps too much wisdom for a scooter, but she was not wrong.
-
-They inspected the part. The original design had concentrated stress around a decorative cutout. The workshop's AI suggested a stronger geometry, using less material and allowing easier replacement. The steward then showed the teenager how to install it and why the old design failed.
-
-The repair produced a part.
-
-It also produced knowledge.
-
-This is the workshop as civic organ: not merely output, but capability.
-
-A community with such a workshop becomes less dependent, less wasteful, more materially literate, and harder to treat as a passive endpoint of supply. It learns what objects are made of. It learns what cannot be repaired because someone designed against repair. It learns which products lie about sustainability. It learns which materials deserve trust. It learns that skill is a commons too.
-
-The old workshop made things.
-
-The new workshop also teaches material citizenship.
+This is the civic gain: a person can obtain a useful repair, a community can retain the ability to make and adapt, and the next design can inherit the knowledge of what failed. Output matters. So does the capacity left behind when the output leaves.
 
 ## Repair as Civic Virtue
 
-Repair is not nostalgia.
+Repair is resistance against the metaphysics of disposal. This relation is not over because the market prefers replacement. This material has not finished serving. This skill is worth preserving.
 
-Repair is resistance against the metaphysics of disposal.
+The resistance begins on the drawing board. **Product architecture** assigns functions to components and defines how those components meet. In a modular arrangement, a change can often remain within one component and its specified interfaces. An integral design couples functions more tightly: changing one part can disturb several others. Karl Ulrich's account makes the tradeoff explicit; modularity helps some kinds of change and standardization, while integration can improve particular aspects of performance.[^v3-28c-architecture]
 
-To repair is to say: this object still belongs to a world of care. This relation is not over because the market prefers replacement. This material has not finished serving. This skill is worth preserving. This person deserves use rather than inconvenience. This community can still respond.
+For the cover, a replaceable latch should not require replacing the entire shell. Its interface needs more than a bolt pattern: loads, tolerances, movement, weather exposure, access and compatibility with future replacements. Standardize the connection where continuity matters; permit variation where local conditions or bodily fit require it. An interface is a promise between parts. In hardware, breaking the promise can also break a finger.
 
-Repair refactors thrift, care, skill, sustainability, memory, and dignity.
+Modularity is not free. More joints may mean more weight, leakage, wear or assembly work. A sealed unit may legitimately protect a hazardous or sterile interior. The right question is where a boundary gives useful independence, and what it costs elsewhere. Some components should be serviced by specialists. That is different from making a competent independent repairer buy the manufacturer's permission to discover a screw.
 
-A society that cannot repair its objects often cannot repair its institutions.
+**Design for assembly, service and disassembly** pulls in different directions. Adhesive may simplify assembly and sealing while obstructing separation. A fastener may improve access but loosen under vibration. The designer should examine the actual sequence: what must be disconnected, lifted, drained or destroyed to reach the failed part? How many still-good parts become casualties of the repair? A teardown can expose more truth than a sustainability label.
 
-Both require patience, diagnosis, access to parts, a willingness to see how things are connected, and the humility to admit that replacement is sometimes cowardice with better packaging.
+The right to repair therefore needs practical counterparts: documentation, diagnostic access, compatible parts, competent repair services and an affordable path to verifying the result. It also needs funding. A repair promise that survives only while its maker enjoys selling new units has an interesting definition of permanence.
 
-Repair needs rights.
-
-Right to repair.
-
-Repair manuals.
-
-Modular design.
-
-Accessible fasteners.
-
-Diagnostic tools.
-
-Spare-part libraries.
-
-Local repair guilds.
-
-Repair credits.
-
-Warranties that support repair.
-
-Anti-glue and anti-sealed-device regulation.
-
-If an object cannot be opened, it has already chosen the landfill as its heir.
-
-Some sealed systems are necessary for safety. A pacemaker should not be serviced by an enthusiastic uncle with a screwdriver. High-risk devices need certification, controls, and expertise.
-
-But many sealed products are not sealed for safety.
-
-They are sealed for capture.
-
-They turn owners into tenants of the object they bought. They turn repair into trespass. They turn failure into revenue.
-
-A humane making system designs repair into the product's first breath.
-
-Repair should not be a heroic aftermarket rebellion.
-
-It should be part of making.
+A repairable object is honest about wear. It prepares for care before care becomes an emergency.
 
 ## Material Passports
 
@@ -499,181 +384,72 @@ The object needs a biography.
 
 The person does not need another shadow.
 
+## Make the Whole Life Comparable
+
+A lighter part, a local part and a recycled part answer three different questions. None, alone, answers which alternative does less damage while doing the job.
+
+**Life-cycle assessment** starts with a defined purpose and scope, inventories inputs and outputs, evaluates potential environmental impacts and interprets the result with its limitations. A comparison needs a common **functional unit**: the same useful service, quantified over stated conditions. Comparing a kilogram of steel with a kilogram of polymer tells us little if the parts require different masses or last different lengths of time.[^v3-28c-lca]
+
+For an illustrative cover repair, define the service as ten years of secure, serviceable weather protection for the existing unit, under specified exposure and inspection conditions. Now compare alternatives that can deliver it:
+
+| Route | What the comparison must include |
+| --- | --- |
+| Repair the existing cover | Preparation, added material, expected repair life, inspections and any further repairs |
+| Fabricate a replacement nearby | Feedstock preparation, production yield, machine energy, finishing, testing and actual lifetime |
+| Obtain a regional replacement | Its production process, transport, compatibility, maintenance and end-of-life route |
+| Replace the whole unit | New manufacture and installation, retirement of the old equipment, and any change in operating efficiency |
+
+If whole-unit replacement enters the comparison, widen the common function to the specified heating service over that period. Otherwise the analysis credits one option with improved heating efficiency while asking the others only to keep a cover attached. The boundary must follow the decision.
+
+There is no winner hidden in the table. In one case, repair preserves years of service at little burden. In another, continuing to run inefficient equipment dominates the impacts saved by keeping its shell. State what evidence would reverse the choice. Check the result against shorter life, a dirtier electricity supply, failed collection and higher demand. A precise answer built on a convenient boundary remains convenient.
+
+Carry Chapter 27's constraint into the comparison: the product must work **within the ecosystem that bears it**. A favorable carbon estimate does not authorize toxic discharge or the destruction of habitat. Water demand belongs to a particular watershed and season; harvesting residues must account for their existing roles in soil and food webs. Some limits rule out a route before options are ranked. Other impacts remain genuine tradeoffs requiring accountable judgment.
+
+And measure the total programme. Halving the material used by each object while producing three times as many raises material demand by half. Efficiency has succeeded; restraint has not. Faster design should help us avoid wasteful commitment, not merely accelerate the rate at which good intentions enter landfill.
+
 ## Circular Before Recycled
 
 Recycling is what a linear economy does when caught at the door.
 
-This is unfair to many recycling workers, who perform necessary labor inside systems designed upstream to make their work nearly impossible. But the point stands: recycling should not be the first virtue of material culture. It is often the last resort after design failure.
+That is unfair to the people doing difficult recovery work downstream of designs that made their job nearly impossible. The useful accusation belongs upstream. Preserve a functioning object where that remains safe and worthwhile; repair it; adapt it; remanufacture a valuable assembly; recover material when keeping its form no longer makes sense. These routes retain different amounts of the work already invested. They also require different processes and evidence.[^v3-28c-retention]
 
-A circular system begins earlier.
+Remanufacture means more than cleaning something and offering a hopeful discount. A returned assembly is inspected, dismantled as needed, restored to a defined condition and tested. Its history may change what can safely be retained. Recycling, by contrast, typically sacrifices more of the object's form to recover material. Neither is automatically preferable when contamination, operating efficiency or recovery burdens change the comparison.
 
-Design for disassembly.
+Even a well-run loop leaks. Imagine one hundred kilograms of a material retiring from service. If collection captures 80 percent, sorting retains 90 percent of that and reprocessing yields 90 percent usable feedstock, only 64.8 kilograms return. These are illustrative rates, not an industry estimate. Calling the original product “recyclable” would conceal every loss in between. Mixing incompatible additives can also reduce the quality of what returns.
 
-Reuse.
+Design the reverse journey as seriously as delivery: accessible separation, a receiving facility that accepts this actual composition, transport, testing, funding and an identified use for the recovered output. Credit recovery when it happens; an intended destination is still an intention. A long-lived object may outlast the company that promised to collect it.
 
-Repair.
-
-Remanufacturing.
-
-Modular parts.
-
-Material recovery.
-
-Biological cycles.
-
-Industrial symbiosis.
-
-Waste as input.
-
-Repair before recycling.
-
-Recycling before disposal.
-
-The hierarchy matters.
-
-A repaired appliance preserves more value than shredded material. A remanufactured part preserves more embedded energy than raw recovery. A modular component replaced safely prevents whole-object discard. A building designed for deconstruction becomes future material bank. A biological material designed to return safely to soil avoids pretending "compostable" means "will vanish wherever consumers abandon it with optimism."
-
-Circularity is not a symbol on packaging.
-
-It is design discipline.
-
-The old economy asked: how do we sell this?
-
-A circular economy asks: what will this become next?
-
-A product designed without an afterlife is not finished.
-
-It is merely postponed waste.
+The loop also reaches beyond the drawing. Matter circulating among humans still consumes energy and occupies land, and some materials require secure disposal rather than dispersal. Circularity can reduce extraction. It cannot excuse the system from belonging to a larger living world.
 
 ## Regenerative Matter
 
-Matter can be made less dead to its origins.
+Biology is not a halo. Nature has produced both orchids and parasites, both sourdough and things in refrigerators that should be reported to authorities.
 
-This does not mean every object becomes alive, nor that every biomaterial deserves reverence because it once knew a fungus. Biology is not a halo. Nature has produced both orchids and parasites, both coral reefs and mosquito-borne disease, both sourdough and things in refrigerators that should be reported to authorities.
+Nevertheless, growing material opens possibilities that a cutting tool cannot. Fungi can bind agricultural substrates into composites. Microorganisms can produce useful polymers or enzymes. Biological mineral formation can become part of an engineered material. These are different processes, with different organisms, inputs and functions; “biofabrication” is a family resemblance, not a performance specification. Experiments on mycelium composites, for example, show that substrate, fungal species and processing change mechanical and moisture-related properties.[^v3-28c-mycelium]
 
-Still, regenerative materials matter.
+The distinction between **bio-based**, **biodegradable**, **compostable** and **regenerative** matters. Biological origin does not guarantee safe breakdown. Breakdown depends on conditions and time; compostability requires a suitable process and an acceptable result. Here, regeneration is a stronger design ambition: making should contribute to the recovery of the living systems it draws upon. That requires a baseline and evidence of improvement, including effects outside the producer's fence.
 
-Mycelium composites.
+A crop residue is not free merely because an invoice calls it waste. It may already protect soil, feed organisms or serve another user. A composite that stores carbon during use may release it later. Durable mineral or metallic components may outperform a fashionable biomaterial for a particular function. Compare the services and their whole lives, then report the disadvantages as carefully as the favorable numbers.
 
-Bioplastics.
+Neufacture's charter also includes cultivation: farms, gardens, fermentation and biological return. That is a useful expansion of industrial responsibility, provided it does not turn every living place into a factory awaiting optimization. Some land should remain beyond our production plans. A machine tending crops should be judged by its effects on soil, other organisms and people, as well as yield. The landscape is not a tray of feedstock with inconvenient inhabitants.
 
-Engineered wood.
-
-Low-carbon concrete.
-
-Recycled metals.
-
-Bio-based textiles.
-
-Lab-grown materials.
-
-Carbon-storing materials.
-
-Local agricultural fibers.
-
-Enzyme-assisted recycling.
-
-Safe synthetic biology.
-
-These can reduce extraction, store carbon, return nutrients, support local agriculture, use waste streams, reduce toxicity, and make products whose afterlife is less hostile to the world.
-
-But the questions remain concrete.
-
-What feedstock?
-
-Whose land?
-
-What water?
-
-What energy?
-
-What labor?
-
-What additives?
-
-What disposal conditions?
-
-What certification?
-
-What ecological risk?
-
-What happens at scale?
-
-Green materials can become greenwashing if the system around them remains extractive. A compostable item that requires industrial composting but enters landfill is not a miracle. A bio-based plastic grown from monoculture feedstock may shift harm rather than reduce it. A carbon-storing material can still be toxic, poorly sourced, or unrepairable.
-
-Regeneration is not a label.
-
-It is a relationship across lifecycle.
-
-The workshop must know that relationship.
-
-Interlude 28 will descend into the machinery of such materials. Here, the lived chapter only needs the moral turn:
-
-Making should not merely do less harm.
-
-When possible, making should restore.
-
-And when restoration is not possible, it should at least stop lying about the cost.
+The possibility is substantial: more useful forms made from fewer destructive dependencies, with repair and recovery incorporated into their design. The interlude will examine the machinery. The civilizational test is whether the material system improves its relationship with the world that must keep receiving it.
 
 ## Labor After Automation
 
 What should humans still do in making?
 
-This question must be asked carefully, because one bad answer romanticizes suffering and another bad answer empties life of skill.
+One bad answer romanticizes suffering; another empties life of skill. Dangerous labor is not morally superior because it photographs well in black and white. Let machines take the fumes, repetitive strain, exhausting lifts and much of the precision burden. By the 2041 Gate, capable production systems should also perform many tasks once reserved for expert judgment. The case for human participation does not require a conveniently incompetent machine.
 
-Automation can remove drudgery, danger, repetition, toxic exposure, backbreaking lifting, precision fatigue, and the soul-eroding boredom of doing the same motion until the body files grievances. We should not preserve pain to preserve meaning. Dangerous labor is not morally superior because it photographs well in black and white.
+People still have purposes, local knowledge, preferences, rights and a wish to participate. Their contribution need not depend on winning a contest against automation. A person may want to make a chair, understand a repair or influence how a neighbourhood's productive capacity develops. Craft can remain meaningful even when it ceases to be the cheapest way to manufacture a joint.
 
-But automation can also erase livelihoods, pride, bargaining power, embodied knowledge, apprenticeship, judgment, and the identity that comes from being needed by matter.
+The design question concerns the terms of participation. Do workers and users influence what is made and how? Does automation's gain support shorter hazardous exposure, accessible services and time to learn, or disappear into the owner's balance sheet? Can people retain practical capability without being required to earn their livelihood through work the machines have already relieved them of? Chapter 25's allocation question returns here wearing overalls.
 
-The goal is not to keep humans doing what machines can do better.
+Design the human-machine interface around actual decisions. A maintainer should be able to inspect the evidence behind a proposed change, contribute an observation and obtain a safe stop. Instructions should fit the conditions of use: fatigue, gloves, noise, restricted movement, language and training. The system should also detect conditions people miss. Good cooperation does not require keeping either partner artificially helpless.
 
-The goal is to preserve and deepen the kinds of human contribution that matter most.
+Participation includes the right not to have one's body converted into industrial telemetry. Capture what the process needs to be safe and improve; do not quietly repurpose it into a permanent ranking of the worker. The workshop can gain memory without forgetting whose life is being remembered.
 
-Judgment.
-
-Customization.
-
-Care.
-
-Design intention.
-
-Craft.
-
-Repair.
-
-Stewardship.
-
-Oversight.
-
-Local adaptation.
-
-Teaching.
-
-Quality sense.
-
-Meaning-making.
-
-Exception handling.
-
-The retired machinist in the workshop argued with an AI about tolerances for a pump housing. The AI had selected a geometry within certified limits. He tapped the display.
-
-"Legal, yes. Good, no."
-
-The system asked for rationale.
-
-"This part will be installed by a tired person in cold weather with gloves on."
-
-The AI paused, then widened the grip surface.
-
-No dataset had been insulted.
-
-The part improved.
-
-That is labor after automation: not human as decorative supervisor, not human as obsolete appendage, but human judgment where matter meets context.
-
-Human dignity does not require suffering.
-
-It requires meaningful agency.
+Human dignity does not require suffering. It requires meaningful agency.
 
 ## Craft and Art
 
@@ -723,11 +499,9 @@ What can it become next?
 
 Old supply chains tracked location, inventory, cost, delay, risk, ownership, and delivery. A humane supply chain must also track provenance, care, accountability, repair, material recovery, labor standards, ecological cost, and geopolitical dependency.
 
-The chain should not only tell us where the thing is.
+The chain should help establish where the thing came from, what burdens its production imposed and what it can become next. Supplier assertions, measurements and independent checks should remain distinguishable.
 
-It should tell us what the thing cost, what it harmed, what it can become next.
-
-This does not mean every consumer must study a moral epic before buying a spoon. People have lives. Sometimes one needs the spoon. But the system behind the spoon should know.
+This does not mean every consumer must study a moral epic before buying a spoon. People have lives. Sometimes one needs the spoon. But the system behind the spoon should keep relevant evidence, identify what it does not know and remain answerable for its suppliers. A signed record proves who asserted something; it does not prove that no one breathed the dust.
 
 Material passports.
 
@@ -755,9 +529,7 @@ The new chain must ask: can we get it here without making there unlivable?
 
 ## The Corridor and the Room
 
-Outside the workshop, the corridor moved goods at machine tempo.
-
-Inside, the room moved at human tempo.
+In the workshop-and-corridor picture, the corridor carries scale and distance; the room carries adaptation and participation. Neither has to be assigned a permanent speed.
 
 Both mattered.
 
@@ -789,55 +561,19 @@ It is right relation among scales.
 
 ## Standards Without Suffocation
 
-Distributed making can kill people if done badly.
+Distributed making can kill people if done badly. This sentence belongs in every maker manifesto, preferably before the photograph of smiling children near the laser cutter.
 
-This is a sentence that belongs in every maker manifesto, preferably before the photograph of smiling children near the laser cutter.
+A failure analysis starts with the job and the harm, not with how reassuring the machine looks. **Failure Modes and Effects Analysis** examines how elements might fail, what follows and what prevents or detects those failures. A cover fastener loosening, a brittle part cracking and a seal losing contact are different modes. They call for different evidence and controls. Consequence matters: the same-looking clip can hold a decorative panel or guard a dangerous moving part.[^v3-28c-fmea]
 
-A repaired chair may fail and bruise pride. A repaired brake may fail and kill. A custom brace may harm a joint. A structural panel may compromise a building. A medical part may carry infection risk. A pressure vessel may become an unscheduled philosophy of shrapnel.
+The analysis should change the design. Remove a dangerous failure path where possible; otherwise constrain it, detect it and provide a response. Do not rely only on a warning that a tired person must read correctly forever. Also examine interactions: two components can meet their individual specifications and still create a bad assembly. A list of broken parts will not discover every system failure.
 
-The future workshop needs standards.
+**Qualification** establishes confidence in a particular combination of design, material, process and intended use. **Acceptance** asks whether a particular output meets the applicable requirements. A valid model does not certify an arbitrary batch, printer, orientation or substituted feedstock. Nor does a successful prototype establish reliable production. The interlude follows these distinctions through a physical example.[^v3-28c-qualification]
 
-Quality assurance.
+Keep the burden proportionate to harm and uncertainty. Replacing a cabinet fitting and manufacturing an implant require very different pathways. Open methods, shared testing facilities and reusable evidence can make competent repair accessible without pretending that an open file transfers approval to every local variation. Equally, a manufacturer should not be able to invoke safety without showing why its restriction is necessary.
 
-Safety certification.
+There is an institutional design question here as well as an engineering one. Who can approve a change? Who can challenge a refusal? Who funds independent tests? Who takes responsibility when an accepted part fails? Safety becomes a moat when only the incumbent can supply either the evidence or the verdict.
 
-Medical-device standards.
-
-Building codes.
-
-Materials testing.
-
-Liability.
-
-Local inspection.
-
-Open certification protocols.
-
-Traceability.
-
-Counterfeit prevention.
-
-Post-repair recertification.
-
-Standards are not the enemy of making. Bad standards are. Captured standards are. Standards designed by incumbents to prevent repair are. Standards so expensive that only monopolies can comply are. Standards that protect markets under the costume of safety are.
-
-Certification must be proportional to risk.
-
-A cabinet hinge does not require the same process as a pediatric prosthetic socket.
-
-A garden tool does not require the same review as a load-bearing connector.
-
-A community workshop should not need an aerospace compliance department to fix a kettle.
-
-But it should know when the kettle repair crosses into electrical danger and when "good enough" becomes a fire with paperwork.
-
-The design challenge is standards without suffocation.
-
-Open, modular, machine-readable, localizable, transparent, updateable, compatible with repair, resistant to capture.
-
-Safety should protect people.
-
-It should not become a moat around incumbents.
+A good standard gives competent strangers a way to trust one another's work. It should also leave them a way to discover when that trust was misplaced.
 
 ## The Workshop as Commons
 
@@ -874,6 +610,32 @@ The workshop returns parts, repairs, designs, confidence, training, and sometime
 It can support local businesses, households, farms, clinics, schools, elders, disabled people, artists, repair networks, emergency response, and material recovery. It can teach teenagers that matter is not trash by default. It can teach adults that not knowing how something works is an invitation, not a shame. It can teach communities that resilience is partly the ability to fix what breaks before the corridor delivers a replacement.
 
 The workshop becomes a room where material agency returns.
+
+## Alice at the Drawing Board — Can Progress Keep Its Things?
+
+<!-- New exploratory draft: an invitation to develop and test an idea, not a claim of novelty or an established outcome. -->
+
+I wonder whether we have mistaken the age of our objects for the age of our capabilities. A society can grow more competent while much of its material body stays in place. Biology manages some version of this trick, though it would be unwise to ask my knees for an unqualified endorsement.
+
+Repair, modularity and remanufacture already pursue parts of that ambition. My question is what happens when their learning connects. Could each object's history enlarge the range of useful responses available to other objects, so that a material civilization gains capability faster than it replaces its physical stock?
+
+A repaired hinge would then contribute more than another opening of a door. Its failure and recovery might alter a design family, a regional stock of interchangeable parts, the way a workshop qualifies a repair, or the decision to build something entirely different. The proposal is not to give the hinge a mind. It is to make the relations around it retain useful experience.
+
+There is a dangerous version: a civilization so good at preserving its possessions that it preserves their exclusions too. A durable machine that denies access or wastes energy should not acquire moral immunity through age. Another danger is rebound: cheap adaptation may stimulate enough new production to erase every saving.
+
+So the test would have to be demanding. Compare networks serving similar needs, with and without shared lifecycle learning. Track safe service, accessibility, new material inputs, total environmental pressures, labour burdens and the range of needs actually met. Count failures and unmet needs, not only repairs. Ask whether improvement survives the disappearance of the original vendor. Growing usefulness alongside falling material turnover would be interesting; merely moving damage out of the ledger would not.
+
+Perhaps the deeper industrial achievement will be a civilization able to change its mind without throwing away quite so much of its body. That seems a better challenge for programmable production than programming everyone to want another body every autumn.
+
+## The Next Move — Give One Thing Another Life
+
+Choose an object whose failure exposes an avoidable dependency. With competent help, establish what function is needed, why the object failed and whether repair, adaptation or replacement best serves it. Leave a record that another person can use: the relevant specification, evidence for the repair, remaining limits, and the next maintenance or recovery route.
+
+The undertaking may be small. What should grow is the capacity around it. A repairer gains access to a once-hidden drawing; a workshop obtains a shared test fixture; several users discover that the same replaceable component could spare their otherwise serviceable machines. Where the obstacle is a proprietary lock or an absent recovery route, name it and work on that obstacle rather than celebrating one heroic exception.
+
+This is one way to participate in a Neufacture effort, or in any serious attempt to make useful things less captive. Keep track of the time, skill and resources required, and provide for the next person who will maintain the result. A successful repair that leaves an unpaid steward holding all the future obligations has only changed the address of the waste.
+
+<!-- Legacy closing retained verbatim for Sam/Claude; its enacted dialogue and local-production verdict require reconciliation with the prospective opening and whole-life evidence. -->
 
 ## Build What Can Be Sustained
 
@@ -949,10 +711,26 @@ Because a hinge is simple.
 
 Until one asks what kind of world it opens.
 
+[^v3-28c-culkin]: John M. Culkin, “A Schoolman's Guide to Marshall McLuhan,” *Saturday Review*, 18 March 1967, p. 70: [scan of the original article](https://static1.squarespace.com/static/5a6135761f318d1d719bd5d9/t/5b2536342b6a2886441759d5/1529165365116/JOHN_CULKIN.pdf), PDF p. 4. The epigraph follows Culkin's printed wording, “they shape us,” rather than the frequently circulated variant attributed directly to McLuhan.
+
 [^v3-28-kavad]: Nikolaus Schindel, [“Kawād I i. Reign,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/kawad-i/kawad-i-reign/), for restoration and the 502–503 campaign; [“Arrajān”](https://www.iranicaonline.org/articles/arrajan-medieval-city-and-province-in-southwestern-iran-between-kuzestan-and-fars/), for the later accounts connecting settlement and linen expertise with captives from Amida. No precise captive total is adopted here.
 
 [^v3-28-steel]: U.S. Steel, [125th-anniversary historical account](https://www.usske.sk/en/article/u.-s.-steel-celebrates-its-125th-anniversary), gives incorporation on February 25, 1901. This corporate source establishes the date; the analysis of concentrated power is the argument developed here.
 
 [^v3-28-mckinley]: National Archives, [1900 Electoral College results and historical note](https://www.archives.gov/electoral-college/1900), for the September 6 shooting and September 14 death; U.S. Department of State, [announcement of McKinley's death and Roosevelt's accession](https://history.state.gov/historicaldocuments/frus1901/ch4), September 14, 1901.
 
-[^v3-28-production]: International Federation of Robotics, [“Five Million Robots Now Operate in Factories Globally”](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally); Nathan J. Szymanski and colleagues, [“An Autonomous Laboratory for the Accelerated Synthesis of Novel Materials,” *Nature* 624 (2023)](https://www.nature.com/articles/s41586-023-06734-w). These document bounded industrial and laboratory capabilities, not the universality, local affordability or exact timing of the 2041 scenario.
+[^v3-28-production]: International Federation of Robotics, [“Five Million Robots Now Operate in Factories Globally”](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally); Nathan J. Szymanski and colleagues, [“An Autonomous Laboratory for the Accelerated Synthesis of Inorganic Materials,” *Nature* 624 (2023), 86–91](https://www.nature.com/articles/s41586-023-06734-w). The laboratory article was updated following an [author correction published 19 January 2026](https://doi.org/10.1038/s41586-025-09992-y); no original compound-success count is used here. These document bounded industrial and laboratory capabilities, not the universality, local affordability or exact timing of the 2041 scenario.
+
+[^v3-28c-functions]: NASA, *Systems Engineering Handbook*, NASA/SP-2016-6105 Rev. 2, [§4.3, Logical Decomposition](https://www.nasa.gov/reference/4-0-system-design-processes/), and [§§5.3–5.4, Product Verification and Product Validation](https://www.nasa.gov/reference/5-0-product-realization/). The household examples here apply the distinctions; they are not NASA designs or certified requirements.
+
+[^v3-28c-architecture]: Karl Ulrich, [“The Role of Product Architecture in the Manufacturing Firm,” *Research Policy* 24 (1995), 419–440](https://ktulrich.com/wp-content/uploads/2022/09/ulrich-architecture-rp.pdf), especially the definition and modular/integral distinction in §2. The latch and service-access examples are applications developed here.
+
+[^v3-28c-lca]: ISO, [*ISO 14040:2006 — Environmental Management: Life Cycle Assessment — Principles and Framework*](https://www.iso.org/standard/37456.html), public abstract for the phases and scope; Scientific Applications International Corporation, for the U.S. Environmental Protection Agency, [*Life Cycle Assessment: Principles and Practice*, EPA/600/R-06/060 (2006)](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1000L86.TXT), chapter 2, especially pp. 10–12, for function, functional unit and system boundaries. The ten-year comparison is illustrative, not a completed LCA or a result from either source.
+
+[^v3-28c-retention]: Nabil Nasr and colleagues, [*Re-defining Value — The Manufacturing Revolution: Remanufacturing, Refurbishment, Repair and Direct Reuse in the Circular Economy*](https://www.resourcepanel.org/reports/re-defining-value-manufacturing-revolution), International Resource Panel, UNEP (2018), summary for policymakers. These are distinct value-retention routes, not a universal ranking independent of product and context. The collection-yield arithmetic is an invented teaching example.
+
+[^v3-28c-mycelium]: Freek V. W. Appels and colleagues, [“Fabrication Factors Influencing Mechanical, Moisture- and Water-Related Properties of Mycelium-Based Composites,” *Materials & Design* 161 (2019), 64–71](https://doi.org/10.1016/j.matdes.2018.11.027). The experiments vary substrate, species and processing; they do not establish that every mycelium material is regenerative or suitable for structural use.
+
+[^v3-28c-fmea]: IEC, [*IEC 60812:2018 — Failure Modes and Effects Analysis (FMEA and FMECA)*](https://webstore.iec.ch/en/publication/26359), public description of the systematic examination of failure modes, effects and treatments. The cover examples and institutional implications are this chapter's applications, not a complete safety analysis.
+
+[^v3-28c-qualification]: NIST, [“Additive Manufacturing Part Qualification”](https://www.nist.gov/programs-projects/additive-manufacturing-part-qualification), “What Is the Problem?” and “Research Plan,” for defects, anisotropy, post-processing and the need for measurement evidence. Qualification and acceptance requirements depend on the application; this chapter does not confer regulatory approval.
