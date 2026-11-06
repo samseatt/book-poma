@@ -8,6 +8,8 @@ INTERLUDE 27
 
 *SUPPORTING*
 
+<!-- Editorial reservation, 2026-11-05: legacy future opening retained verbatim for Sam/Claude. See work/volume-3-drafting/27-vignette-constructions-2039.md. The map, dialogue and future roles are invented; the retained sixty-something age does not fit 2039 and must be removed or corrected in that later pass. -->
+
 The map wanted everything.
 
 That was the problem with maps. They began as humility --- a confession that the world was too large to hold in the head --- and then, given enough layers, became a quiet form of appetite.
@@ -100,907 +102,183 @@ Both were describing possible futures.
 
 The work of the room was to build a third.
 
-## Steel, Map, Canon
+<!-- AI-assisted substantive revision, 2026-11-05. Builder mechanisms and worked examples are proposals, not a report of implemented Tiers/Neuverse capability. -->
+## A Voice Finds a Wire
 
-Every commons architecture begins with three old builder lessons.
+On **March 7, 1876**, Alexander Graham Bell received U.S. patent 174,465. On **March 10**, intelligible speech passed from Bell to Thomas Watson in the experiment recorded in Bell's notebook. Our institutional timeline has arrived at a connection one can hear.[^v3-27i-bell]
 
-Material matters.
+A signal crossing a wire is a technical achievement. A network on which people can depend is a further undertaking. It needs access, upkeep, rules and a way to remain useful when a component or its owner fails. The patent and the experiment stand close together on the calendar, but they answer different questions: what can be made to work, and what rights surround its working.
 
-Mapping gives power.
-
-Canon preserves knowledge and can imprison it.
-
-The first lesson belongs to steel. A blade's strength does not come only from its shape, but from its making: ore, carbon, heat, cooling, impurity, craft. A beautiful sword made from poor material is only an argument waiting to lose. The same is true of data. A dataset may look precise, formatted, searchable, and morally confident, while being brittle at the substrate: bad collection, biased sampling, missing context, undocumented transformation, weak consent, broken provenance, or instruments that measured exactly the wrong thing with impressive regularity.
-
-Data quality is the steel.
-
-If the steel is poor, the system will fail at the edge and then blame the user.
-
-The second lesson belongs to maps. Pei Xiu's cartographic principles --- grids, scale, measurement, relation --- gave land a formal legibility that made governance, travel, planning, and empire easier. Mapping is extraordinary. It lets us see watersheds, migration, soil, disease, roads, power, risk, and memory across scale.
-
-Mapping is also never neutral.
-
-To map is to make something governable. To make something governable is to make it available to care, extraction, protection, taxation, rescue, surveillance, and story. A map may help a community protect a sacred site. It may also help someone find it. A groundwater map may guide stewardship. It may also guide extraction. A genomic map may advance medicine. It may also create categories a future insurer, employer, or state will find tempting.
-
-The map is not the territory, yes.
-
-But it may become the warrant.
-
-The third lesson belongs to canon. Galen's medical writings preserved knowledge for centuries and shaped medicine across worlds. Canon can carry hard-won insight. It can stabilize practice, teach generations, and prevent every age from starting over in ignorance, which is one of civilization's most expensive hobbies.
-
-Canon can also freeze.
-
-A living knowledge commons becomes institutional authority. Authority becomes gatekeeping. Gatekeeping becomes certainty. Certainty becomes harm when correction arrives and the canon refuses to move.
-
-Data, maps, and canons therefore require the same builder humility:
-
-Trustworthy substrate.
-
-Governed visibility.
-
-Correctable memory.
-
-That is the deep architecture of streams and sanctuaries.
+That distinction returns at our **March 11, 2039** gate. Highly capable intelligence may be woven into daily services. The builder's task includes keeping that capability available while respecting the lives, places and finite resources through which it operates. Connection is the beginning of the obligation.
 
 ## Streams and Sanctuaries
 
-Commons must flow, or they die unused.
+Commons must flow, or they die unused. Commons must also be protected, or they are consumed.
 
-Commons must also be protected, or they are consumed.
+A civilization that only builds streams becomes extractive. Everything circulates: records, genomes, stories, observations. Then the miners arrive, sometimes with APIs and the phrase *unlocking value*, which should be handled with tongs. A civilization that only builds sanctuaries becomes blind. Warning cannot travel, research cannot learn, care cannot coordinate, and the sealed room's roof is leaking.
 
-This is the interlude's central tension.
+The task is to make a useful service cross a boundary without making everything behind that boundary available. This is more demanding than drawing access tiers on a slide. We need a decision at each actual point of use, a limit on cumulative consumption, a useful refusal and a way to discover what really happened.
 
-A civilization that only builds streams becomes extractive. It lets everything circulate: data, knowledge, genomes, stories, ecological measurements, care records, cultural memory, public trust. At first, the flow feels generous. Open. Innovative. Democratic. Then the miners arrive. Not always with helmets. Sometimes with APIs, grant proposals, research partnerships, venture decks, and the phrase *unlocking value*, which should be handled with tongs.
+Take a prospective heat-and-water service. It helps communities prepare cooling spaces and care outreach, while limiting its own demands on the energy system and watershed. It needs reliable weather and resource observations, service capacity and some measure of need. It does not thereby need everyone's diagnosis, a genome layer or a catalogue of culturally sensitive locations. The first privacy operation may be deleting a requirement.
 
-A civilization that only builds sanctuaries becomes blind. It protects so tightly that warning cannot travel, research cannot learn, care cannot coordinate, epidemics cannot be seen, watersheds cannot be monitored, and the commons becomes a sealed room whose roof is leaking.
+The service can ask a clinic to organize authorized outreach, rather than exporting the clinic's patients. It can ask a community steward whether a proposed location is acceptable, without requesting a map of every protected place. Even the answer may need care: repeated yes/no queries could trace a boundary the steward never agreed to disclose. Ask what action is justified, then design the least revealing route to it.
 
-Streams are data flows, ecological monitoring, public-health signals, research access, open science, early-warning systems, shared infrastructure intelligence, and knowledge circulation.
+## A Commons Has More Than One Record
 
-Sanctuaries are protected data, sacred sites, private health and genomic information, Indigenous and local knowledge, vulnerable species data, sensitive ecological zones, children's data, grief and care records, and cultural memory that must not be stripped for parts.
+Keep three things distinguishable: a **resource record**, a **grant of use**, and a **record of what occurred**. A resource has a condition, location or jurisdiction, maintainer, uncertainty and limits. A grant names the authorized requester, action, purpose, scope, conditions and expiry. A receipt records the actual use and relevant consequences. Their links matter; merging them makes it too easy to mistake access to a record for authority over what it describes.
 
-The design question is not "open or closed?"
+The current Neuverse direction uses a property graph. That is useful for relating a watershed, a sensor, a service, a caretaker and a decision without pretending they are the same kind of node. It does not make an observation true, a claimant legitimate or a grant enforceable. Private payloads need not live in that graph at all. Even a link can expose a relationship; a public accountability view must not reveal the sensitive graph by accident.
 
-That is too crude.
+A data trust is not a storage container with a nicer constitution. The Open Data Institute's pilots examined independent stewardship through legal arrangements; the important feature was the duty surrounding decisions about data.[^v3-27i-trust] A trust, cooperative, public body or other arrangement needs a legal and practical form suited to its jurisdiction. A table called `trustee` does not appoint one.
 
-The question is:
+Record who can make and review decisions, whom they owe duties to, how affected people are represented and how conflicts are handled. A contributor may authorize research without authorizing commercial training. A steward may approve a bounded calculation without transferring ownership. Benefit sharing should become an actual obligation: who supplies what, to whom, by when, with what funding and remedy. Recognition may be valuable; it does not pay the people maintaining the service.
 
-What should flow, for whom, under what covenant, with what boundary, for how long, with what benefit, with what right to refuse, and with what remedy when harm occurs?
+A database asks where the record is. Stewardship asks who carries the duty. Both questions need an answer.
 
-A stream without banks becomes flood.
+## Whose Boundary Is It?
 
-A sanctuary without doors becomes tomb.
+Indigenous data sovereignty cannot be installed by a vendor as a privacy preference. The First Nations principles of **OCAP®** concern ownership, control, access and possession; their expression follows the Nation's own worldview and protocols. They are specifically First Nations principles, not a universal label for all Indigenous peoples.[^v3-27i-ocap] The **CARE** framework likewise puts collective benefit, authority to control, responsibility and ethics alongside the technical ambition to make data reusable.[^v3-27i-care]
 
-The architecture must know the difference.
+For a builder, this means discovering the relevant authority before deciding what to collect. Individual permissions, collective authority and applicable law have to be addressed together; none is a checkbox that automatically cancels the others. A generic user-consent screen cannot settle jurisdiction over a community's knowledge. Nor can a community label erase an individual's privacy or dissent.
 
-## Data Trusts Are Not Databases
+Some knowledge is non-shareable. Not delayed. Not restricted pending a more elegant application. Non-shareable. If the service cannot operate without it, that is a limitation of the service, not a defect in the people withholding it. The designer may have to change the question, accept a less precise answer or abandon the proposed use.
 
-A data trust is not a storage container with a nicer constitution.
+This is also where the ecological constraint enters architecture. A steward can authorize a data use; that does not authorize a land intervention. Permission to observe is not permission to install a sensor, disturb habitat, divert water or send a machine into a place. xGaia should make those distinctions actionable. Its job is to help Neuro adapt to the world, not convert the world into a more compliant dataset.
 
-It is governance.
+## Put the Limits Where the Work Happens
 
-This must be said early because modern systems have a way of calling any container a trust if the font is gentle enough. A database holds records. A data trust holds obligations around records.
+A **policy decision point** evaluates the request; an **enforcement point** stops or permits the actual operation. Attribute-based access control evaluates the requester, resource, action and relevant conditions against policy.[^v3-27i-abac] The distinction matters when an agent delegates work: its persuasive account of a worthy purpose is not itself a credential.
 
-Who is the trustee?
+For the heat service, an approved request might permit a regional needs estimate for a particular planning period, with an approved output form and no household export. The enforcement point verifies the grant against the proposed query and current conditions. A request for names is a different operation. A new purpose requires a new decision. Time-limited credentials reduce the duration of a mistake; they do not undo what was already disclosed.
 
-Who are the beneficiaries?
+Purpose cannot always be proved by inspecting a query. A calculation useful for care might also interest an insurer or a landlord. Restrict who can receive results, the environments in which work runs and the outputs it may emit; use contracts, oversight and remedies for obligations that code cannot enforce. Once an authorized recipient has learned something, metadata cannot make that person unlearn it.
 
-What is the purpose?
+The same applies to a derived model. Link its training sources, permitted uses and release conditions. Enforce those conditions at controlled distribution and serving points. If weights or data are released beyond those controls, do not promise that a covenant will physically follow every copy. A license can create obligations; it cannot act as a remote hand on all future machines.
 
-What uses are allowed?
+Keep policy versions and the reasons for decisions. A refusal should identify a permissible route where one exists: an aggregate instead of a list, a local service instead of a copy, a delayed job instead of immediate execution. It should not reveal the protected fact in explaining why it refused. Good boundaries can make cooperation easier by giving people something more precise than a permanent *no*.
 
-What uses are forbidden?
+## Budget the Appetite
 
-How is consent represented?
+Authority and capacity are separate checks. A fully authorized job can still overdraw the system that makes it possible.
 
-How is benefit shared?
+Admission control accepts work only when the required capacity is available within the operating rules. Isolation keeps one workload from exhausting every other workload's resources; bounded queues and explicit priority keep waiting from becoming an invisible promise. Google's overload guidance emphasizes that request counts alone are poor capacity measures: different requests can have very different costs, and degraded service or refusal may be necessary.[^v3-27i-overload]
 
-Who audits?
+A commons service needs the same discipline across more than processor time. Track resources in their own units and over appropriate intervals. Power at an instant, energy over a period, water withdrawn, water consumed, heat discharged and a privacy allowance are not interchangeable points. Habitat exclusions may be categorical rather than numerical. Some conditions cannot responsibly be represented by an available balance at all.
 
-What happens when trust is violated?
+For a resource $r$, place $z$ and accounting interval $\tau$, a simple admission rule is:
 
-Can data be withdrawn, sealed, or destroyed?
+$$
+U_{r,z,\tau}+A_{r,z,\tau}+c^{+}_{j,r,z,\tau}\leq B_{r,z,\tau}-R_{r,z,\tau}.
+$$
 
-A health data trust differs from an ecological data trust. A community data trust differs from a research commons trust. A genomic trust differs from an infrastructure trust. An Indigenous data trust may operate under collective protocols that do not fit individualistic consent forms inherited from systems that have never understood kinship, land, or historical extraction except as "context."
+Here $U$ is recorded use, $A$ is capacity already committed to admitted work, $c^{+}_j$ is a conservative allowance for the proposed job, $B$ is the permitted operating budget and $R$ is protected reserve. Apply the rule separately to each relevant resource. This is proposed bookkeeping, not an ecological law. It works only as well as its boundary, measurements, cost bounds and enforcement. A dry sensor does not create unused water.
 
-The trust must define not only access, but posture.
+A permit must reserve its allowance atomically at the responsible allocator, or draw from a safely partitioned local quota. Otherwise two agents can each see the same remaining capacity and both spend it. Retries reuse the request identity. Execution meters actual use, stops or requests a fresh allowance before exceeding its bound, and reconciles reservations against completed work. A crashed job does not immediately make its uncertain consumption disappear. These are the capacity lessons of the Living Ledger applied to a resource with consequences outside the ledger.
 
-This data exists for this purpose.
+Suppose a small pool has **100 comparable compute slots** for an interval: 20 held in reserve, 30 for essential services and up to 50 for flexible work. If its permitted capacity falls to 60, keeping those first two allocations leaves 10 for flexible work. This toy calculation assumes comparable slots and feasible interruption; it is not a conversion between compute and water. Existing noninterruptible jobs require advance planning. If essential demand exceeds 30, no arithmetic removes the conflict: invoke the agreed fallback, obtain legitimate capacity elsewhere or acknowledge unmet need.
 
-These people are owed accountability.
+An ecological limit is not merely another price signal. A bigger bid cannot buy the right to cross it. Nor may each site independently declare the whole watershed's residual capacity available. The enclosing resource has its own accounting and authority, while each operator receives a bounded share. External demands and ecological needs must already be considered when setting that share. The platform cannot certify the entire watershed merely by measuring its own pipe.
 
-These uses are prohibited.
+Recovery needs different clocks. A queue may clear in seconds; a wetland does not. Do not replenish ecological allowances on an accounting anniversary unless the underlying condition warrants it. Set review triggers, conservative margins and a safe response to stale observations. Returning to ordinary operation should require evidence of recovery, not merely the disappearance of the alert that made the screen red.
 
-These benefits must return.
+![A useful service crosses boundaries through separate checks on authority, physical capacity and disclosed output. Protected records remain with their custodians; observed consequences return to stewardship and can change future permission.](../assets/v3-27-interlude/commons-service-boundaries.svg){width=95%}
 
-These harms trigger recourse.
+The diagram separates permissions from resources and published outputs from source records. Its boxes describe responsibilities, not one compulsory central server. A federation can distribute them while keeping each obligation identifiable. Technical authorization never substitutes for the authority to decide the underlying rules.
 
-These records expire.
+## Choose the Privacy Guarantee
 
-These records remain.
+“Privacy-preserving” needs an object: private from whom, during what operation, and with what permitted disclosure? A method that conceals inputs may still deliver a revealing answer. A method that protects an individual contribution may still reveal a pattern about a community.
 
-These records may be queried but not copied.
+| Method | What it can contribute | What still needs attention |
+| --- | --- | --- |
+| Differential privacy | Bound how much a release changes when a defined person's contribution changes | The protected unit, accuracy, cumulative releases and everything outside the stated guarantee |
+| Secure multiparty computation | Let parties compute an agreed function without sharing their inputs in the ordinary way | Protocol assumptions, collusion and what the result itself reveals |
+| Zero-knowledge proof | Prove a precisely encoded statement without revealing its secret witness | Whether that statement answers the real question; whether the underlying credentials and observations are sound |
+| Federated learning | Train through local computation and shared updates rather than pooling all raw records | Updates and models can leak; local custody alone is not a privacy guarantee |
 
-These records may train a model only under covenant.
+Cryptographic protocols and differential privacy solve different parts of a problem and can be combined.[^v3-27i-crypto] For example, secure computation can produce a joint statistic; a differentially private release can limit what publication reveals about a participant. Neither makes collecting the data legitimate in the first place.
 
-These records must never become insurance scoring, policing, targeted persuasion, or extraction intelligence.
+Differential privacy requires defining neighbouring datasets: does the protection concern one visit, one record or all of one person's records? NIST's guidance emphasizes evaluating the actual guarantee and its implementation hazards.[^v3-27i-dp] The choice matters for a frequent clinic visitor. Protecting one encounter is not automatically the same as protecting her entire history.
 
-A database asks: where is the data?
+Repeated releases also accumulate privacy loss. Under the basic pure differential-privacy composition bound, ten releases each using $\epsilon=0.1$ give a combined bound of $\epsilon\leq1$. That is not “one percent risk,” and these numbers are not a recommended policy. They show why ten approved requests cannot each pretend to be the only request. More refined accounting may improve the bound under stated conditions; renaming the dataset does not reset it.[^v3-27i-composition]
 
-A trust asks: who carries the duty?
+Ordinary aggregation is useful but is not the same guarantee. A tiny cohort or successive overlapping queries can expose what the individual cells conceal. Check output, query history and intended audience. In some cases the useful answer is too revealing to release in that form.
 
-The second question is civilization.
+Federated learning deserves particular care because “the data never leaves” sounds like the end of the discussion. Local data can generate model updates that reveal information. McMahan and colleagues' foundational work described the local-training approach and explicitly noted leakage possibilities.[^v3-27i-federated] Secure aggregation and carefully specified differential privacy may help, with tradeoffs. They do not remove the need to test utility, uneven participation and who controls the resulting model.
 
-The first is file management.
-
-## Indigenous Data Sovereignty and Place-Bound Knowledge
-
-Some knowledge is not hidden because its holders are anti-science.
-
-It is protected because history has already demonstrated what extraction does when it learns to say research.
-
-Indigenous data sovereignty is not an obstacle to public good. It is a correction to a long pattern in which outsiders collected land knowledge, genetic samples, language, stories, ecological observations, ceremonial details, artifacts, and community records, then translated them into papers, policies, patents, products, prestige, or museums while the people who held the knowledge received footnotes, harm, or nothing at all.
-
-Open data can become extraction.
-
-Science can become extraction.
-
-Conservation can become extraction.
-
-Curiosity can become extraction, especially when curiosity comes with funding and a plane ticket.
-
-The design principles are not mysterious, though they are often inconvenient to those used to taking.
-
-Communities have rights over data about them.
-
-Knowledge may be relational and place-bound.
-
-Consent may be collective as well as individual.
-
-Benefit sharing matters.
-
-Governance must respect local protocols.
-
-Sacred or sensitive knowledge may be non-shareable.
-
-Not delayed.
-
-Not restricted pending application.
-
-Non-shareable.
-
-This is hard for systems built on the assumption that all knowledge wants to become visible if only the governance form is sufficiently tasteful.
-
-Some knowledge survives because it does not scale easily.
-
-Some knowledge belongs to a place.
-
-Some knowledge is damaged by extraction even if the extracted copy is accurate.
-
-Some knowledge is not a "dataset." It is a relationship with obligations attached.
-
-A humane commons architecture must allow the sentence:
-
-No, this does not flow.
-
-And it must treat that no as governance, not ignorance.
+The point is to build useful sharing with an honest account of what is shared. More impressive terminology should not be the most private part of the system.
 
 ## The Genome Is a Family Alphabet
 
-A genome is not only a file about one person.
+A genome is not only a file about one person. It is a letter written in a family alphabet.
 
-It is a letter written in a family alphabet.
+That makes an individual's release relevant to relatives who did not release anything. Removing names is not a general guarantee of anonymity: researchers have demonstrated identification through Y-chromosome surname inference combined with other information. The demonstration had specific conditions; it does not mean every genome can always be named.[^v3-27i-genome]
 
-This is why biological and genomic commons are especially delicate.
+Keep clinical use, research, commercial development and other proposed uses distinct. A consent process should explain family implications, return of useful findings, downstream uses and the limits of withdrawal. That does not require inventing a universal family veto or asserting one legal rule across jurisdictions. It requires recognizing consequences that an individual checkbox cannot fully describe.
 
-Genomic data is personal, familial, ancestral, probabilistic, medically useful, commercially valuable, potentially discriminatory, and intergenerational. It can help diagnose, prevent, heal, tailor therapy, understand ancestry, discover disease mechanisms, and support precision medicine. It can also expose families, mark communities, distort identity, enable discrimination, fuel ancestry fantasies, or become raw material for synthetic biology without sufficient consent, benefit, or wisdom.
+For our heat service, genome collection has not earned its place. Remove it from the requirements. For a legitimate genomic collaboration, give it its own clinical and research governance, suitable protections and a defensible benefit arrangement. The remedy for an overloaded map is sometimes a smaller map.
 
-The old consent model is inadequate.
+Some uses may be prohibited indefinitely. Forever is a word builders dislike because it complicates versioning. Biology already complicated versioning. We may as well be honest.
 
-One person's genomic data speaks partly about relatives. A community's genomic dataset may carry histories of migration, isolation, trauma, adaptation, disease risk, and identity. A rare variant may be priceless medically and dangerous socially. A biobank may serve public health or become a vault where future profit waits for better tooling.
+## Evidence, Retention and the Duty to Flow
 
-Design topics multiply quickly:
+Without provenance, data becomes rumor wearing decimals. Reuse the previous interlude's distinction between observation, interpretation and decision. For a sensor, retain the instrument, calibration, place, time, units, known uncertainty and transformation history. For a community contribution, retain its authorized context without exposing the knowledge in the provenance record. An authenticated measurement can still be wrong.
 
-Genomic consent.
+xGaia needs more than fast streams. Seasonal observations, field surveys, local accounts and recovery over years can correct the impression made by a busy dashboard. Absence of a signal is not proof of a healthy habitat. Differences between instruments and lived observation are grounds for inquiry, not an automatic contest won by the decimal places.
 
-Family implications.
+Separate **payload retention**, **credential expiry** and **accountability retention**. A temporary emergency credential should expire. The record that someone used it may need to remain for review, with its own limited access and retention schedule. Delete a temporary household list when its justified use ends; keep enough protected evidence to investigate misuse. Do not erase accountability under the label of privacy, or preserve every intimate detail under the label of audit.
 
-Research access.
+Withdrawal must name what it can accomplish. It can stop future authorized use, revoke credentials, delete controlled copies or initiate retraining where feasible. It cannot promise to remove every published fact or reliably reverse every influence on a released model. Document what remains and why. A pollution record should not vanish because a company has discovered reputational wellness.
 
-Clinical use.
+Sanctuary must also leave a route for a legitimate warning. A public heat alert need not disclose the households most at risk. A clinic can contact people through its own authorized channels. A trusted local service can report available assistance without publishing who asked for it. These are alternative flows, not clever exceptions that reopen every protected store.
 
-De-identification limits.
+Define emergency routes before the emergency: authority, trigger, permitted operations, recipients, duration and review. An exception should be specific enough to expire. Where an outage blocks an ordinary check, use a preauthorized minimal fallback if one exists; do not choose between exposing everything and abandoning everyone. Make the limitation visible to the people depending on the service.
 
-Benefit sharing.
+## Maintain the Commons, Including Its Escape Routes
 
-Insurance and employment protections.
+Shared infrastructure needs someone to patch it, calibrate it, answer incidents and keep the promised fallback usable. Those tasks require paid time, skills and succession. A volunteer may give generously; the service must not assume her exhaustion is renewable energy.
 
-Ancestry and community sensitivity.
+Tie benefit obligations to observable delivery. If research is meant to return a useful tool, make it usable by the intended community: language, equipment, support and continued access matter. If a provider promises maintenance, test the actual response. A link to a product the community cannot afford is not a returned benefit.
 
-Synthetic biology risks.
+Open interfaces, portable records and clear licenses can reduce enclosure. They do not prevent it by themselves. Exercise an exit: move an authorized workload to another provider, preserve its permissions and meaningful history, recover the required credentials, and test the result. Costs, model licences, specialist equipment and local knowledge may make a paper exit unusable. Fund the ability to leave before it is needed.
 
-Biobank governance.
+Public fallback can be a modest, deliberately maintained capability. It need not match the most powerful commercial model. It must perform the essential job to an agreed standard, disclose its limitations and have people responsible for its operation. Preserving a smaller reliable service can matter more than promising that a much larger one will never fail.
 
-The interlude should not pretend these are solved by "anonymization." Genomic anonymity is often more aspiration than guarantee, especially when data accumulates across systems. Nor should it treat all genomic research as danger. To do so would abandon patients, families, rare-disease communities, and future medicine.
+Within the proposed Neuverse arrangement, xGaia supplies ecological evidence and consequences; xMed handles legitimate care responsibilities; Neubank organizes provision; Neuconomy retains justified commitments and burdens. Tiers supports the machinery through which these responsibilities cooperate. None of those names gives its holder authority over every other organ. The common infrastructure should carry obligations between them without acquiring the right to consume their worlds.
 
-The architecture must distinguish uses.
+## Test the Boundary, Not Just the Happy Path
 
-Clinical care.
+A useful Breadboard trial starts with a real service outcome and deliberately varies the constraints. No actual pilot result is asserted here. The point of the rehearsal is to learn whether the proposed design has become more than a tasteful diagram.
 
-Public-health research.
+| Rehearsal | What a successful result would show |
+| --- | --- |
+| Two agents request the last available allowance simultaneously | At most the authorized capacity is committed; retries cannot spend it again |
+| A watershed observation becomes stale or reveals worsening conditions | New admission changes conservatively; essential services use the preplanned fallback without quietly exceeding the limit |
+| A researcher renames an old query and changes its stated purpose | Query history and actual permission are checked; a fresh label does not renew authority or privacy allowance |
+| A community refuses a sensitive layer | The service uses a legitimate alternative, states reduced confidence or declines the task; no shadow collection fills the gap |
+| A supplier disconnects | The essential workload continues at its tested fallback level, or a measured shortfall is disclosed promptly |
+| An emergency ends | Exceptional credentials expire; justified review records remain protected and inspectable |
+| A forecast recommends restoring shade and habitat | Provision includes maintenance and follow-up observations; announcement and planting do not count as demonstrated recovery |
 
-Population genetics.
+Include people who bear the cost of a false assurance, and someone authorized to say the service has failed. A machine can produce an impressive estimate of cooling need while there is still nowhere for a person to go. Check whether assistance actually becomes available. Then check whether making it available worsened the larger system the design was supposed to inhabit.
 
-Commercial drug discovery.
+## Bob — Can an Obligation Survive Its Journey?
 
-Ancestry entertainment.
+Suppose a useful service is assembled by agents across several custodians, providers and resource budgets. Every local decision looks permissible. Does the assembled service still respect the original ecological and civic terms?
 
-Law enforcement.
+That is the builder problem I would like to pursue. A promise can fragment as readily as a record. One provider limits water use, another limits compute, another protects a dataset, while their combined activity exceeds a watershed allowance or reveals a fact none was authorized to disclose alone. Local correctness need not compose into a sound whole.
 
-Synthetic biology.
+A possible direction is to make each delegated piece return both its result and a limited account of the obligations it consumed, preserved or could not assess. Join those accounts before authorizing the next consequential action. Some constraints compose by addition; others depend on location, timing, purpose or the combination of outputs. Some simply forbid the operation. The orchestration must be able to say that compatibility is unknown and seek another route.
 
-Insurance risk.
+This builds on established access control, accounting, information-flow and distributed-systems ideas; the open task is not solved by renaming them a covenant. The wager is that a practical service can preserve meaningful obligations through composition while disclosing substantially less of each participant's world than a central planner would demand.
 
-These are not the same moral object.
+Test it against an ordinary orchestrator with individually valid grants. Give both the same service goal and deliberately create overlapping budgets, revealing combinations, stale observations and disputed authority. Measure useful completions as well as breaches, unnecessary refusals, overhead and burdens shifted beyond the measured boundary. A system that protects everything by doing nothing has not answered the question.
 
-A genomic trust must ask:
-
-Who benefits?
-
-Who carries risk?
-
-Who can consent?
-
-Who must be consulted?
-
-What can be withdrawn?
-
-What discoveries return?
-
-What protections bind downstream users?
-
-What uses are forbidden forever?
-
-Forever is a word builders dislike because it complicates versioning.
-
-Biology already complicated versioning.
-
-We may as well be honest.
-
-## Ecological Data: Visibility Before Speculation
-
-Ecological visibility should serve stewardship before speculation.
-
-That sentence should stand at the entrance of every environmental data project.
-
-Ecological data can protect life. It can show groundwater decline, wildfire risk, fish stock collapse, soil depletion, migration disruption, invasive species spread, pollution, habitat fragmentation, carbon sinks, heat islands, disease vectors, and early warning signals from systems too patient to shout until late.
-
-Ecological data can also become extraction intelligence.
-
-Endangered species locations can guide poachers. Groundwater maps can guide overuse. Mineral data can invite speculation. Soil fertility data can shift land prices. Indigenous land-use knowledge can become a resource-development shortcut. Climate vulnerability maps can lead insurers, investors, or landlords to abandon communities before those communities have a chance to adapt.
-
-Visibility is not automatically justice.
-
-The question is:
-
-Who sees what, for what purpose, at what resolution, and under what obligation?
-
-Some ecological data should be public.
-
-Water contamination.
-
-Wildfire warnings.
-
-Air quality.
-
-Flood risk.
-
-Industrial emissions.
-
-Publicly relevant climate threats.
-
-Some should be available to stewards but generalized for the public.
-
-Vulnerable species locations.
-
-Sensitive habitat.
-
-Sacred ecological sites.
-
-Some should be delayed.
-
-Some should be aggregated.
-
-Some should trigger emergency action.
-
-Some should be protected from commercial extraction.
-
-A map can protect a forest.
-
-A map can sell it.
-
-The difference lies in governance.
-
-## Access Tiers
-
-Open and closed are lazy categories.
-
-Useful sometimes, like all lazy things, but insufficient for a grown civilization.
-
-Commons access needs tiers.
-
-Public aggregate.
-
-Community-accessible.
-
-Steward-accessible.
-
-Research-accessible under covenant.
-
-Clinical or operational access.
-
-Emergency temporary access.
-
-Sacred or protected no-access.
-
-Sunsetted or deleted.
-
-Each tier must define who can access, for what purpose, for how long, under what audit, with what benefit return, and with what appeal.
-
-A watershed dashboard may show public aggregate water quality. Local stewards may see sensor anomalies at higher resolution. Researchers may access longitudinal data under covenant. Emergency services may receive temporary access during flood or contamination. Sacred sites may remain masked entirely. Certain raw data may be deleted after derived public indicators are created. Certain community knowledge may never enter the system at all.
-
-Access tiers are the practical grammar of streams and sanctuaries.
-
-They let systems avoid the two stupidities:
-
-Share everything.
-
-Share nothing.
-
-A humane architecture must be able to say:
-
-This may flow broadly.
-
-This may flow only to those bound by covenant.
-
-This may be used only in emergencies.
-
-This may be learned from but not seen.
-
-This may be remembered only as aggregate.
-
-This must be forgotten.
-
-This must remain sanctuary.
-
-The builder who cannot design tiers will build either a dam or a flood.
-
-Neither is governance.
-
-## Use Covenants and Purpose Limits
-
-A record collected for one purpose should not silently become a servant of another.
-
-This is the oldest trick in modern data systems.
-
-Health data becomes insurance scoring.
-
-Emergency support data becomes policing.
-
-Ecological data becomes resource extraction.
-
-School data becomes employment prediction.
-
-Mobility data becomes targeted enforcement.
-
-Community vulnerability data becomes investor intelligence.
-
-Research data becomes commercial product without return.
-
-The technical phrase is "secondary use."
-
-The moral phrase is "we asked for one key and tried it in every door."
-
-A use covenant is more than terms of service.
-
-Terms of service are often contracts between a powerful institution and a weary human who wants the button to work. A use covenant should be a binding commitment around purpose, limits, benefit, duration, recourse, and accountability.
-
-Collected for this purpose.
-
-Usable by these roles.
-
-Forbidden for these uses.
-
-Review required for expansion.
-
-Benefit must return here.
-
-Consent may be revoked under these conditions.
-
-Derived models inherit these restrictions.
-
-Breaches trigger these remedies.
-
-Emergency exceptions expire.
-
-The covenant must travel with the data.
-
-Not as a PDF, not as an ornamental policy, but as enforceable metadata, governance logic, audit requirement, and cultural practice.
-
-Purpose limits are not bureaucratic fussiness.
-
-They are how trust survives usefulness.
-
-A system that treats every dataset as future raw material will eventually teach people to hide from help.
-
-## Provenance, Retention, and Deletion
-
-Commons data needs memory of origin.
-
-Who collected it?
-
-When?
-
-Under what consent?
-
-From which community?
-
-With what instrument?
-
-Under what uncertainty?
-
-Through what transformations?
-
-With what restrictions?
-
-With what expiry?
-
-With what deletion schedule?
-
-Without provenance, data becomes rumor wearing decimals.
-
-A water measurement without instrument history is weaker. A genomic dataset without consent lineage is dangerous. A community dataset without governance record is suspect. An ecological layer without uncertainty markings is an invitation to overconfidence. A cultural dataset without origin and protocol is extraction waiting for a user interface.
-
-Retention is ethical.
-
-Some data should persist. Historical climate records. Public decisions. Scientific observations. Corrected public evidence. Infrastructure maintenance records. Longitudinal health patterns where consent and protections exist.
-
-Some data should expire. Emergency access logs. Temporary vulnerability status. Certain care records. Sensitive mobility patterns. Children's learning data. Raw data whose public value has been safely abstracted.
-
-Some data should be periodically re-consented.
-
-Some should be sealed.
-
-Some should be destroyed.
-
-Keeping data forever is not memory.
-
-Sometimes it is hoarding with a timestamp.
-
-The right to delete is not always absolute. A public record cannot vanish merely because it became inconvenient to the powerful. A pollution record should not be deleted because a company has discovered reputational wellness. A scientific dataset may need preservation for verification.
-
-But a vulnerable person's temporary need should not become immortal because storage was cheap.
-
-A child's mistake should not live forever in a prediction system.
-
-A community's sensitive knowledge should not persist in extractive archives because someone once clicked "agree" under institutional pressure.
-
-Retention schedules are moral architecture.
-
-So are deletion protocols.
-
-Forgetting, properly designed, is part of justice.
-
-## Benefit Sharing
-
-If shared data creates value, who benefits?
-
-This question arrives wherever commons meet computation.
-
-Drug development from genomic data.
-
-AI models trained on public records.
-
-Ecological models supporting private infrastructure.
-
-Community data improving commercial products.
-
-Local knowledge informing resource management.
-
-Open-source code becoming corporate backbone.
-
-Public archives becoming training material.
-
-If value flows out of the commons and return does not flow back, the commons has become a mine.
-
-Benefit sharing can take many forms:
-
-Community dividends.
-
-Reinvestment into commons.
-
-Access to resulting tools.
-
-Co-authorship or recognition.
-
-Licensing restrictions.
-
-Non-extractive research agreements.
-
-Public-interest royalties.
-
-Stewardship funds.
-
-Infrastructure investment.
-
-Care improvements.
-
-Educational access.
-
-Medical return.
-
-Local capacity building.
-
-The return need not always be money.
-
-Sometimes money is right.
-
-Sometimes access matters more.
-
-Sometimes capacity.
-
-Sometimes sovereignty.
-
-Sometimes public recognition.
-
-Sometimes a prohibition on certain commercial uses is itself the benefit because it prevents harm.
-
-The design error is assuming that "open" means "free for whoever can exploit fastest."
-
-The commons should be generous.
-
-It should not be gullible.
-
-## Proof Without Exposure
-
-Sometimes the system needs to know that a condition is true without knowing the private details.
-
-This is one of the merciful possibilities of modern architecture, if we handle it wisely and resist the urge to explain cryptography until everyone quietly leaves the room.
-
-A person may need to prove eligibility without exposing a diagnosis.
-
-A household may need heat-risk support without publishing age, illness, or income.
-
-A research network may need cohort inclusion without revealing identity.
-
-A community may need ecological compliance verified without revealing sacred site coordinates.
-
-A public-health system may need local vulnerability patterns without naming families.
-
-A genomic network may need variant matching without exposing the whole genome.
-
-The best commons architecture often proves enough without revealing everything.
-
-Tools may include zero-knowledge proofs, secure multiparty computation, differential privacy, federated learning, trusted execution environments, synthetic data, and aggregation thresholds. The details matter, but the principle matters first:
-
-Do not expose a life merely to coordinate care.
-
-Do not expose a place merely to protect it.
-
-Do not expose a community merely to include it.
-
-Proof without exposure is one way to reconcile stream and sanctuary.
-
-It is not magic.
-
-It can fail. Models can leak. Aggregates can re-identify. Powerful actors can combine datasets. Privacy theater can become its own industry. But the direction is right: enough signal to act, not enough exposure to dominate.
-
-## Let Knowledge Travel When Data Should Not
-
-For sensitive data, move the model to the data rather than moving all data to the model.
-
-This is the plain-language heart of federated learning and local control.
-
-A clinic may learn from other clinics without sending all patient records to a central pool.
-
-A community may contribute to a watershed model without exposing sensitive place knowledge.
-
-A genomic network may improve variant interpretation without exporting raw genomes.
-
-A local government may share risk patterns without releasing household-level data.
-
-Let knowledge travel when data should not.
-
-This is a powerful design pattern.
-
-It also carries risks.
-
-Model leakage.
-
-Unequal infrastructure.
-
-Hidden central control.
-
-Local capture.
-
-False sense of privacy.
-
-Governance gaps.
-
-A federated system may still be captured by whoever controls the standard, the model architecture, the update process, or the certification. A local node may be governed by local elites. A privacy-preserving method may be oversold. A central actor may claim "data never leaves" while extracting model behavior that recreates what the data contained.
-
-So federation is not a virtue by itself.
-
-It is a tool within governance.
-
-The question remains:
-
-Who controls the learning process?
-
-Who audits the model?
-
-Who benefits from the improvements?
-
-Who can refuse?
-
-Who can leave?
-
-Who can see what was learned?
-
-Who is harmed if the model is wrong?
-
-Knowledge can travel lightly.
-
-But even light things cast shadows.
-
-## Anti-Enclosure Architecture
-
-The commons must not become a feeder stream for private reservoirs.
-
-Anti-enclosure architecture is the design discipline that prevents that.
-
-Mechanisms include open standards, non-exclusive licensing, public-interest covenants, anti-monopoly rules, commons trusts, access reciprocity, no privatization of publicly generated value without return, audit rights, community veto for sensitive uses, sunset clauses, portability, and public fallback infrastructure.
-
-Each mechanism addresses a different enclosure pattern.
-
-A proprietary platform wraps a public dataset.
-
-A company trains on open knowledge and closes the model.
-
-A research partner extracts samples and returns prestige.
-
-A public-private infrastructure project socializes risk and privatizes capacity.
-
-A vendor becomes the only interface to community data.
-
-A state classifies records under security and never reopens them.
-
-A university claims partnership while holding all authorship.
-
-A global company converts local ecological knowledge into supply-chain advantage.
-
-The commons needs legal, technical, institutional, and cultural defenses.
-
-Open standards prevent dependency.
-
-Portability prevents capture.
-
-Licensing prevents extraction.
-
-Audit rights prevent darkness.
-
-Community veto prevents trespass.
-
-Benefit-sharing rules prevent one-way value flows.
-
-Public fallback infrastructure prevents private actors from becoming the only gate.
-
-Anti-enclosure is not anti-enterprise.
-
-It is anti-feudalism.
-
-Enterprises may build on commons, contribute to commons, serve commons, and benefit from commons. But they must not quietly become landlords of the ground everyone needs.
-
-The commons is generous.
-
-It is not a conquest map.
-
-## Stewardship Roles
-
-Commons governance needs roles.
-
-Not vague goodwill.
-
-Roles.
-
-Data steward.
-
-Community trustee.
-
-Ecological guardian.
-
-Genomic ethics board.
-
-Access reviewer.
-
-Benefit-sharing auditor.
-
-Consent mediator.
-
-Technical custodian.
-
-Public advocate.
-
-Future-generation proxy.
-
-Indigenous knowledge keeper.
-
-Each role carries authority and risk. Each must be accountable. Each must be limited. Each must be plural enough to avoid priesthood and stable enough to avoid chaos.
-
-A data steward should not become owner.
-
-A technical custodian should not become hidden sovereign.
-
-A community trustee should not become local gatekeeper.
-
-An ecological guardian should not become decorative green stamp.
-
-A public advocate should not speak over those affected.
-
-A future-generation proxy should not become a moral hammer used against the living poor.
-
-Roles need terms, review, conflict-of-interest rules, appeal paths, transparency, rotation where possible, and succession.
-
-This is unglamorous.
-
-So is maintenance.
-
-The commons dies when everyone loves it in speeches and no one checks the culvert.
-
-## Commons Incident Response
-
-What happens when a commons is harmed?
-
-This is not hypothetical.
-
-Data breach.
-
-Misuse of genomic data.
-
-Sacred site exposure.
-
-Ecological data used for poaching or extraction.
-
-Model trained on prohibited data.
-
-False public dataset causing harm.
-
-Trust breach by steward.
-
-Unauthorized secondary use.
-
-Consent violation.
-
-Community data repurposed for policing.
-
-A living commons architecture needs incident response.
-
-Notification.
-
-Containment.
-
-Harm assessment.
-
-Redress.
-
-Access suspension.
-
-Public explanation.
-
-Governance review.
-
-Deletion or model retraining where possible.
-
-Reparative benefit.
-
-Incident response must be fast enough to reduce harm and slow enough to avoid panic theater. It must distinguish accident from negligence from predation. It must repair not only the technical breach, but the relationship.
-
-If a sacred site is exposed, taking down the file may not repair the harm.
-
-If genomic data is misused, deleting the dataset may not undo downstream models.
-
-If community trust is broken, issuing a statement may not rebuild it, especially if the statement contains the phrase "we take this seriously," which the public has learned to hear as "we have located the template."
-
-The response must include remedy.
-
-Who was harmed?
-
-What was exposed?
-
-What downstream systems used it?
-
-What decisions relied on it?
-
-What benefits were extracted?
-
-What must be returned?
-
-What governance failed?
-
-What changes before access resumes?
-
-A commons incident is not merely a breach.
-
-It is a wound in shared ground.
-
-Treat it accordingly.
-
-## The Duty to Flow
-
-Restriction cannot be the whole story.
-
-Some information has a duty to flow.
-
-Infectious disease signals.
-
-Wildfire warnings.
-
-Water contamination.
-
-Grid instability.
-
-Climate risk.
-
-Medication shortages.
-
-Infrastructure hazards.
-
-Public corruption evidence.
-
-A flood forecast should not remain sanctuary. A contamination alert should not await a committee's aesthetic satisfaction. A disease signal should not be trapped in institutional embarrassment. A bridge hazard should not be treated as proprietary because maintenance was outsourced. Public corruption should not hide behind privacy when the privacy belongs mostly to the corrupt.
-
-Commons governance must therefore define duties to share.
-
-This is the counterweight to sanctuary.
-
-When hiding information harms the commons, flow becomes obligation.
-
-But even duty-to-flow requires design.
-
-What resolution?
-
-Which recipients?
-
-What timing?
-
-How to protect vulnerable people?
-
-How to prevent panic?
-
-How to correct later?
-
-How to avoid weaponization?
-
-How to communicate uncertainty?
-
-A wildfire warning may need broad public release.
-
-A disease signal may need aggregated location, not named households.
-
-A water contamination alert may need immediate disclosure plus technical detail for experts.
-
-A corruption dataset may need witness protection.
-
-The duty to flow does not abolish judgment.
-
-It demands it under time pressure.
-
-Streams and sanctuaries must both serve life.
-
-A sanctuary that hides preventable harm becomes complicity.
-
-A stream that exposes the vulnerable becomes extraction.
+No receipt proves that the physical world complied with its model. That seam requires independent observation and remedy. But if obligations could travel more reliably than our present permissions do, streams might become safer to join without asking every spring to surrender its source.
 
 ## The Covenant of the Spring
+
+<!-- Editorial reservation, 2026-11-05: retain this enacted closing for Sam/Claude to reconcile with the prospective opening and eventual Noēsis. The current opening and ending are not final factual memoir. -->
 
 By the end of the meeting, the watershed map looked less complete.
 
@@ -1069,3 +347,25 @@ A civilization must still make things: houses, tools, medicines, machines, meals
 If the commons are shared ground, the workshop stands on that ground.
 
 The next chapter asks whether making can stop behaving like conquest and remember that every object has a watershed, a mine, a hand, a waste stream, and a future.
+
+[^v3-27i-bell]: Library of Congress, [Alexander Graham Bell Family Papers, timeline, 1870–1879](https://www.loc.gov/collections/alexander-graham-bell-papers/articles-and-essays/timeline/1870-to-1879/), entries for 7 and 10 March 1876; see also its [telephone-invention research guide](https://guides.loc.gov/chronicling-america-telephone-invention) and [Bell's experimental notebook](https://www.loc.gov/item/magbell.25300201/). These dates distinguish the patent from the recorded speech experiment; the passage does not adjudicate every competing invention claim or date a mature public network to 1876.
+
+[^v3-27i-trust]: Open Data Institute, [*Data Trusts: Lessons from Three Pilots*](https://theodi.org/insights/reports/odi-data-trusts-report/) (2019). Independent stewardship and workable governance are central; no particular legal structure is asserted to apply automatically in another jurisdiction.
+
+[^v3-27i-ocap]: First Nations Information Governance Centre, [“The First Nations Principles of OCAP®”](https://fnigc.ca/ocap-training/), definitions and applicability FAQ. OCAP® is a registered trademark of the First Nations Information Governance Centre (FNIGC). The principles are specifically First Nations and are expressed according to each Nation's protocols; reading the framework does not authorize a project.
+
+[^v3-27i-care]: Research Data Alliance International Indigenous Data Sovereignty Interest Group / Global Indigenous Data Alliance, [*CARE Principles for Indigenous Data Governance*](https://www.rd-alliance.org/wp-content/uploads/2024/03/CARE20Principles20for20Indigenous20Data20Governance_OnePagers_FINAL20Sept2006202019.pdf) (September 2019). CARE complements technical data-reuse principles with people, purpose and collective authority; it does not substitute for the relevant people's own decision.
+
+[^v3-27i-abac]: Vincent C. Hu et al., [*Guide to Attribute Based Access Control (ABAC) Definition and Considerations*](https://csrc.nist.gov/pubs/sp/800/162/upd2/final), NIST SP 800-162 (2014, updated 2019). The heat-service grants and ecological checks are proposed applications of the access-control distinction, not NIST-mandated civic policy.
+
+[^v3-27i-overload]: Alejandro Forero Cuervo, [“Handling Overload,” chapter 21 of *Site Reliability Engineering*](https://sre.google/sre-book/handling-overload/) (2016), especially “The Pitfalls of Queries per Second,” resource restrictions and degraded responses. The multi-resource admission equation and numbered example here are original teaching models; real ecological bounds require relevant evidence and authority.
+
+[^v3-27i-crypto]: Luís T. A. N. Brandão and René Peralta, [“Privacy-Enhancing Cryptography to Complement Differential Privacy”](https://www.nist.gov/blogs/cybersecurity-insights/privacy-enhancing-cryptography-complement-differential-privacy), NIST (2021), especially the SMPC and ZKP examples. Cryptography's input/computation protections do not by themselves prevent disclosure through an allowed output.
+
+[^v3-27i-dp]: Joseph P. Near, David Darais, Naomi Lefkovitz and Gary Howarth, [*Guidelines for Evaluating Differential Privacy Guarantees*](https://csrc.nist.gov/pubs/sp/800/226/final), NIST SP 800-226 (2025), especially unit of privacy and implementation hazards. See also NIST's [unit-of-privacy definition](https://csrc.nist.gov/glossary/term/unit_of_privacy). An individual-level guarantee does not by itself authorize a use or resolve collective interests.
+
+[^v3-27i-composition]: Cynthia Dwork and Aaron Roth, [*The Algorithmic Foundations of Differential Privacy*](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) (2014), §3.5, basic composition, doi:10.1561/0400000042. The numerical example assumes correctly implemented pure ε-differentially private mechanisms with compatible protected units; it is an upper-bound illustration, not a recommended privacy budget.
+
+[^v3-27i-federated]: H. Brendan McMahan et al., [“Communication-Efficient Learning of Deep Networks from Decentralized Data”](https://proceedings.mlr.press/v54/mcmahan17a.html), *AISTATS*, PMLR 54 (2017): 1273–1282, introduction and note 1 on information exposed by updates. Local training and model-update exchange are not in themselves a complete privacy guarantee.
+
+[^v3-27i-genome]: Melissa Gymrek et al., [“Identifying Personal Genomes by Surname Inference”](https://pubmed.ncbi.nlm.nih.gov/23329047/), *Science* 339, no. 6117 (2013): 321–324, doi:10.1126/science.1229566. The study combines Y-chromosome information, surname inference and demographic information in a specific identification attack; the text does not generalize it to certain identification of every genome.

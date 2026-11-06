@@ -8,7 +8,9 @@ CHAPTER 27
 
 *SHARING*
 
-> "That which is common to the greatest number has the least care bestowed upon it." --- **Aristotle**, Politics
+> "That which is common to the greatest number has the least care bestowed upon it." --- **Aristotle**, Politics[^v3-27c-aristotle]
+
+<!-- Editorial reservation, 2026-11-05: legacy future opening retained verbatim for Sam/Claude. Replace with an explicitly prospective personal projection using work/volume-3-drafting/27-vignette-constructions-2039.md. The invented dialogue, delegation, Nation and future achievement are not memoir or verified events. -->
 
 The snow made the machines look innocent.
 
@@ -194,7 +196,7 @@ A treaty line.
 
 A child with asthma downwind of what progress forgot to count.
 
-The question of Chapter 27 is therefore not whether we should build, compute, model, train, predict, or coordinate. We will need all of that. A humane civilization cannot govern climate, care, food, health, infrastructure, learning, or disaster with candlelight and noble vibes. Intelligence needs substrate.
+The question is therefore not whether we should build, compute, model, train, predict, or coordinate. We will need all of that. A humane civilization cannot govern climate, care, food, health, infrastructure, learning, or disaster with candlelight and noble vibes. Intelligence needs substrate.
 
 The question is whether the substrate will be treated as commons or quarry.
 
@@ -306,6 +308,59 @@ They are not made of openness alone.
 
 They are made of obligation.
 
+<!-- AI-assisted substantive addition, 2026-11-05: resource distinctions, commons institutions and nested ecological design. Historical braid and author-facing literary reservations remain separate. -->
+## The Resource Is Not the Regime
+
+Calling something a commons answers neither what it is nor who may do what with it. Three questions need separate answers: **what is being sustained; who has rights and responsibilities; and how those responsibilities become enforceable**. Confusing them gives us a public website with a private choke point, or a common pasture with no grass.
+
+| Shared ground | What use does to it | What the design must secure |
+| --- | --- | --- |
+| Water in a watershed | Changes quantity, timing, quality and downstream conditions | Ecological flows, cumulative limits, legitimate allocation and recovery |
+| A compute service | Occupies finite machines, power, cooling and skilled attention | Fair admission, continuity, maintenance and a physical resource budget |
+| Open code or a mathematical result | Can be copied without consuming the original; upkeep still costs work | Usable access, attribution where appropriate, maintenance and compatible reuse |
+| Personal or community data | Copying leaves the source intact but can increase exposure and power over people | Purpose, authority, minimization, remedies and meaningful refusal |
+| A language, story or practice | Can spread, change or be stripped of context; living transmission needs people | Authority over sensitive uses, support for practitioners and room for internal disagreement |
+
+These are design distinctions, not a decree that every item belongs to everyone. Commons can coexist with private lives, particular jurisdictions and things nobody has a right to appropriate. The common part of civics is the capacity to participate in governing; it is not compulsory agreement. The common part of technological infrastructure is dependable capability; it need not be one machine owned by one civic emperor. Belonging cannot mean that joining the whole transfers possession of the person.
+
+Aristotle's warning at the door of this chapter is worth taking seriously without treating it as a verdict. He was criticizing communal arrangements in Plato's proposed city. Elinor Ostrom studied arrangements in which shared resources endured. Her work distinguishes open access from organized common use. Durable arrangements often had intelligible boundaries, rules fitted to local conditions, affected users able to help revise them, accountable monitoring, graduated sanctions, accessible conflict resolution, recognized self-organization and nested institutions where the resource crossed scales. These are institutional design principles, not a universal constitution or a guarantee that communities never exploit anyone.[^v3-27c-ostrom]
+
+The practical consequence is to design **use and upkeep together**. A community compute pool needs a way to admit useful work and pay its maintainers. A watershed arrangement needs the downstream users in the room, not just a vote among those nearest the pump. In neither case does the word *community* perform the maintenance.
+
+Give the arrangement a short stewardship account: the resource and its condition; the affected parties; the permitted uses and limits; the work and money needed to sustain it; who can challenge a decision; and what happens when the arrangement fails. This is a design instrument, not another score for ranking citizens. Its purpose is to expose an orphaned obligation before the orphan grows teeth.
+
+## Design the Part to Belong to the Whole
+
+A design can succeed for its users and fail the world that contains it. The clinic gets cheaper cooling; the river gets warmer. The platform delivers more answers; the grid loses its reserve. The economy records growth; the soil records a withdrawal. None of these ledgers is necessarily lying. Their boundaries are doing the lying for them.
+
+**Design within the ecosystem, not merely for the beneficiary.** The larger system is not our unfinished project. We inherit its relationships, depend on many we do not understand, and intervene from inside them. There need be no cosmic designer for our smaller designs to owe something to the arrangement they enter.
+
+The Convention on Biological Diversity's ecosystem approach supplies a useful disciplinary footing: consider neighbouring ecosystems, conserve structure and functioning, work within functional limits, and choose appropriate spatial and temporal scales. It also recognizes intrinsic ecological value alongside benefits to people.[^v3-27c-ecosystem] The design implication is stronger than reducing harm per transaction. Total demand must fit the sustaining system, including demands from other users and the needs of nonhuman life.
+
+Start with the service, then widen the boundary until its major dependencies and consequences are visible. A cooling installation belongs to a building, but also to an electricity system, a watershed and a seasonal pattern. Record withdrawals separately from water consumed; returning water does not erase changes in temperature, quality or timing. Include extraction, equipment replacement and eventual disposal. An efficient operating day does not cancel an ugly supply chain.
+
+Next identify what cannot safely be traded away. A gain in carbon performance cannot, by arithmetic alone, replace a lost habitat. A payment cannot make an irreversible loss reversible. Some limits are provisional because knowledge is poor; others protect things we have decided should not be spent. Neither belongs in a weighted score where enough commercial benefit buys its way past every boundary.
+
+Then connect limits to decisions. Establish a conservative operating envelope, observation intervals suited to the resource, early warning thresholds, and actions that follow a breach. A slow aquifer cannot be governed as if each morning replenished yesterday's account. Protect recovery time. When evidence is weak, leave room for error rather than treating the missing measurement as available capacity. Review limits openly as knowledge improves; do not let the same team quietly enlarge them whenever its design becomes inconvenient.
+
+Finally test alternatives at the scale of consequence: sharing existing capacity, reducing the need, changing location, changing timing, repairing an older system, or leaving something unbuilt. A boundary that only permits a more efficient version of the chosen project was never allowed to influence the design.
+
+This does not promise a harmless civilization. It makes unavoidable tradeoffs explicit and refuses to call every profitable one inevitable. Nature need not first injure us, or acquire a market price, to have a claim on what we build.
+
+## Gaia Is Not Another Department
+
+In Neuverse's intended design, **Gaia** names the planetary reality we inhabit. **xGaia** is the means by which our institutions become responsive to that reality. It is not a command console for the planet. The direction of adaptation matters: Neuro must learn to fit Gaia; Gaia has not applied for membership.
+
+The charter speaks of Gaian currencies: water, soil, heat, energy, biodiversity, materials, nutrient flows and regenerative time. These are accounts of different consequences, not coins convertible into one planetary balance. Water has a place and season. Soil has a structure and a history. Habitat has connections. A single green number is convenient chiefly for the person asked to approve it.
+
+This makes ecology a condition of provision, making and care. Neubank can organize a needed service; Neuconomy can retain its resource consequences; xGaia can expose limits and alternatives; Neufacture can change how things are made. The arrangements remain proposed responsibilities, not proof that an implementation already fulfills them. Neusphere, if it develops as a collective faculty, must learn from this field without mistaking its account of the world for the world.
+
+The positive work is substantial. A heat response can provide immediate shelter while growing shade, repairing buildings and reconnecting habitat. A neighbourhood can make room for food, play and other species without turning every living thing into inventory. Those outcomes need land, labour, funding, competence and continuing care. Planting day is not the end of the tree's contract.
+
+Regeneration must therefore be measured by recovered functions and their persistence, not by the number of interventions announced. Some damage will not be recoverable on a human schedule. Promised future repair is especially poor collateral for destroying what still works.
+
+Our design succeeds when more life can continue within it, including life that will never sign our terms of service.
+
 ## Data Without Exposure
 
 Data may serve the commons.
@@ -362,63 +417,11 @@ That is why governance matters.
 
 ## Attention and Trust as Commons
 
-Attention is a commons because minds do not think in isolation from the cognitive weather around them.
+A society's attention is not an infinite landfill for other people's urgency. Its shared informational environment affects learning, deliberation and care. That does not make each person's attention public property. A commons of attention has to preserve the ability to leave it alone.
 
-A society's attention is not an infinite landfill for other people's urgency.
+The previous chapter asked how shared accounts can remain correctable. Here the obligation is to maintain the conditions under which correction can matter: independent channels, sustained attention, accessible records and institutions that can earn trust again. People should be able to use an essential service without donating their behavioural history to its business model.
 
-Yet the old attention economy treated it almost exactly that way: a place to dump alerts, outrage, ads, speculative panic, identity bait, breaking news that broke mostly the reader's nervous system, and small glowing hooks designed to turn minutes into margins.
-
-This was not only personal harm.
-
-It was civic depletion.
-
-A public that cannot focus cannot deliberate. A learner who cannot attend cannot learn. A voter who cannot distinguish urgency from manipulation cannot govern. A caregiver whose attention is constantly interrupted cannot care well. A child raised in architectures of compulsion learns that reality itself should vibrate.
-
-Attention extraction weakens every other commons.
-
-It weakens shared reality.
-
-Education.
-
-Care.
-
-Governance.
-
-Justice.
-
-Memory.
-
-Even solitude, which is one of the old commons of the self.
-
-Trust is similar.
-
-Trust accumulates slowly and can be spent quickly by institutions, professions, leaders, platforms, markets, and media. It is not a mood. It is civic infrastructure. When trust is strong, coordination becomes cheaper. When trust collapses, every action requires proof, every proof is suspect, every delay looks like conspiracy, every expert sounds captured, every institution smells of old smoke.
-
-Trust is built by competence, honesty about uncertainty, visible correction, fraud prevention, fair process, reliable services, institutional humility, and the old-fashioned habit of doing what one said one would do before commissioning a communications strategy to explain why one did not.
-
-A commons of trust can be polluted.
-
-False promises pollute it.
-
-Corruption pollutes it.
-
-Overclaiming pollutes it.
-
-Uncorrected error pollutes it.
-
-Platform manipulation pollutes it.
-
-Official secrecy where openness was owed pollutes it.
-
-So does careless accusation. A society can also poison trust by calling every institution corrupt until only the shameless retain authority.
-
-Trust stewardship requires both skepticism and repair.
-
-A culture that cannot trust is ungovernable.
-
-A culture that trusts blindly is edible.
-
-The commons lies between.
+Trust stewardship requires both skepticism and repair. A culture that cannot trust is ungovernable. A culture that trusts blindly is edible. The commons lies between.
 
 ## Nature as Infrastructure
 
@@ -460,55 +463,24 @@ We must track biodiversity and still understand that the living world exceeds th
 
 A commons dashboard should be a window, not a replacement for walking the land.
 
-## The Sovereign Grid
+<!-- AI-assisted substantive revision, 2026-11-05: the 2039 infrastructure condition and a worked design application. -->
+## Intelligence Needs Common Ground
 
-The data-center site made one thing clear: compute is not weightless.
+By our 2039 gate, it is reasonable to design for very capable agents working through much of ordinary life. Their usefulness can be immense. Their dependence on power, networks, equipment, maintenance and legitimate access does not disappear because their prose improves.
 
-AI infrastructure requires electricity, cooling, chips, rare minerals, water, land, fiber, data, public legitimacy, waste-heat management, skilled labor, legal jurisdiction, and emergency planning. It requires landscapes to host its appetite and communities to accept its presence.
+A community intelligence service might support learning, care coordination, local businesses and environmental warnings. It could combine public, cooperative and contracted capacity. The right being designed is access to a dependable capability, not unlimited consumption of every available machine. Nor should essential help depend on joining Neuverse, accepting surveillance or having a profitable problem.
 
-That appetite may be worth feeding.
+Consider a service whose normal capacity includes both urgent work and tasks that can wait. A forecast warns of a period when power supply and watershed conditions may constrain operations. The design has to decide, in advance, which services require continuity, which can use a smaller local model, which can move to a genuinely suitable provider, and which can pause. Those choices have public consequences. They must not be silently delegated to whoever pays the largest inference bill.
 
-Climate modeling, medical discovery, public-interest language systems, emergency logistics, local education, infrastructure planning, wildfire prediction, care coordination, agricultural optimization, and civic simulation all require serious compute.
+Suppose an ambitious research job yields capacity so that care routing and public warnings continue. The useful outcome is not a red dashboard. It is a person still getting help. Yet calling a task essential does not create electricity or ecological permission. The service needs tested alternatives: lower-demand operation, people able to take over, and capacity reserved before the emergency. If even those fail, it must reveal the shortfall and its consequences. A queue is not care delivered later by magic.
 
-The question is not whether compute is bad.
+The same design should make ordinary abundance easier. Share a well-maintained model where that avoids duplicating work. Support small organizations that cannot each run a technical department. Let a person obtain a useful answer without surrendering her records to every provider on the route. Preserve the skills and interfaces needed to change suppliers. Treat the maintenance crew as part of the service, rather than an embarrassing subtraction from its intelligence.
 
-The question is whether compute becomes a new enclosure.
+Local ownership alone settles none of this. A locally owned facility can overdraw a river; a distant supplier can become a single point of failure. Federation can distribute capacity and authority, but it also distributes dependencies. Test the service with one provider missing and with a common upstream failure. Three companies using the same grid connection are not three independent escape routes.
 
-Who gets access?
+Northern cooling is not free. Hydro is not merely power. And sovereignty is not improved by moving dependence from a foreign corporation to a domestic monopoly with better flags.
 
-Who bears the energy cost?
-
-Who owns models trained on public data?
-
-Who profits from publicly supported infrastructure?
-
-Can waste heat serve local communities?
-
-Should critical compute be governed like public infrastructure?
-
-How do we prevent compute feudalism?
-
-What is sovereign AI without extractive nationalism?
-
-A sovereign grid worthy of the name would not mean every nation hoards compute like a dragon with GPUs. It would mean the physical and legal substrate of machine intelligence remains answerable to public purpose, ecological limits, community consent, and future obligations.
-
-Northern cooling is not free.
-
-It is climate, geography, land, water, season, and infrastructure.
-
-Hydro is not merely power.
-
-It is river, fish, treaty, sediment, floodplain, and memory.
-
-Data centers are not merely buildings.
-
-They are claims on energy, land, water, knowledge, heat, and legitimacy.
-
-If the coming century builds intelligence on commons it refuses to name, the intelligence will inherit the refusal.
-
-A machine trained on enclosed data, powered by enclosed grids, cooled by stressed waters, governed by private contracts, and legitimized by slogans of sovereignty may become very smart.
-
-It will not be wise.
+The test is whether useful intelligence remains available within obligations to land, water, communities and those who maintain it. That is a more demanding achievement than announcing a sovereign cloud.
 
 ## How Commons Become Enclosed
 
@@ -636,10 +608,6 @@ Not everyone must become a hydrologist, archivist, network engineer, ecologist, 
 
 This is citizenship widened into care for shared ground.
 
-But Chapter 27 should not fully become governance. That comes later.
-
-Here we only name the principle:
-
 The commons survives when those who depend on it are not reduced to consumers of it.
 
 ## Dashboards and Footsteps
@@ -658,7 +626,7 @@ They simplify. They select. They smooth. They make living systems appear managea
 
 A commons dashboard should be a window, not a replacement for walking the land.
 
-The elder at the data-center site understood something the dashboard did not. The engineers understood things the elder did not. The water scientist saw patterns neither could see unaided. The local youth knew which trail had shifted after the construction road. The wildlife camera saw what human schedules missed. The satellite saw the watershed from above. The soil sample saw below. The community remembered when the frogs were louder.
+An engineer, a water scientist and a person who has walked the same trail for decades can notice different failures. A wildlife camera records what human schedules miss. A satellite reveals another scale. Neither local memory nor an instrument is automatically right; each can make the other answer a better question.
 
 A commons needs many ways of seeing.
 
@@ -706,7 +674,7 @@ It must also not be frozen into museum glass. Living knowledge evolves, debates 
 
 The design principle is partnership without extraction.
 
-Indigenous and local knowledge can be paired with science, not placed outside it and not swallowed by it. The scientific method brings measurement, replication, modeling, and public challenge. Place-based knowledge brings context, continuity, relational obligation, subtle indicators, and memory of what happens when outsiders arrive with certainty.
+Indigenous and local knowledge can be paired with science, not placed outside it and not swallowed by it. Scientific inquiry and place-based knowledge are not two sealed populations: people can practise both. Their methods, authority and purposes may differ, and their accounts may disagree. Partnership needs ways to investigate the disagreement without requiring the community to surrender the knowledge as the price of being heard.
 
 Each can correct the other.
 
@@ -790,7 +758,7 @@ But every child is a future generation that has already arrived early.
 
 Old societies used taboos.
 
-Modern people tend to hear the word and reach for anthropology, condescension, or both. This is unwise. A taboo is sometimes a primitive environmental regulation wearing mythic clothing.
+Modern people tend to hear the word and reach for anthropology, condescension, or both. This is unwise. Some prohibitions protect a place or a regenerative interval. Their cultural meanings need not reduce to that function.
 
 Do not fish there in that season.
 
@@ -810,9 +778,9 @@ Not all taboos were wise. Many were oppressive. Some protected power. Some harme
 
 But some were memory.
 
-A culture's way of preserving a boundary after the original spreadsheet had long been eaten by goats.
+A culture can preserve a boundary long after the meeting minutes have disappeared. The goats are seldom blamed.
 
-Volume III's transmutation spine should not mock sacred limits. It should refactor them.
+We can learn from the discipline of a limit without claiming ownership of the tradition that carries it.
 
 Sanctuary.
 
@@ -876,7 +844,32 @@ Often tedious work.
 
 Which is why it needs institutions, rituals, rights, roles, funding, tools, stories, and a public capable of understanding that not everything precious announces itself loudly.
 
+<!-- AI-assisted exploratory and practical additions, 2026-11-05. Alice remains a research wager for Sam's development. -->
+## Alice — Can the Commons Refuse Us?
+
+I am interested in a commons whose intelligence includes the ability to disappoint its beneficiaries. Not a superior being deciding that humans have become untidy. Something more awkward: arrangements through which the condition of a shared world can change what its most powerful users are allowed to ask of it.
+
+We already have conservation rules, adaptive management and institutions that impose limits. My wager concerns their relation to a much faster intelligence. Can a system that learns and bargains at machine speed remain answerable to recovery that moves at the speed of soil, water or a generation? Or will its cleverness find increasingly respectable ways to spend the reserve?
+
+One possible experiment would couple expanding privileges to independently observed recovery, while protecting nonnegotiable boundaries and refusing to make unlike losses interchangeable. A lower burden would not automatically license more consumption. It might instead restore room for species, uncertainty and the people who were crowded out. Let competing proposals improve human provision within that envelope; let the envelope be challenged, but not rewritten by the proposal trying to pass through it.
+
+Compare this with a system that receives the same ecological information as advice but remains rewarded chiefly for human throughput. Follow cumulative pressures, actual recovery, displaced burdens, service quality and who gains authority. A project that merely moves its appetite downstream has failed, however attractive the local graph. A regime that preserves a landscape by exporting deprivation to powerless people has failed differently.
+
+The difficult part is deciding what counts as recovery without giving the measuring institution a crown. Multiple observers, contestable evidence and accountable representation of nonhuman interests may help. None gives us a view from outside. A river cannot be reduced to the preferences of its appointed spokesperson any more than a citizen can be reduced to her agent.
+
+Could we make a civilization's increasing intelligence improve its capacity to belong, rather than merely its power to acquire? That is the question I would want others to test. It remains a conjecture about institutional learning, not evidence that a watershed possesses a mind or that I have invented adaptive governance.
+
+## The Next Move — Take a Share of the Stewardship
+
+Choose one shared dependency you already use: a watershed, a public knowledge resource, a community service, a piece of essential software. Find its existing caretakers before founding another committee in their vicinity.
+
+Identify one neglected obligation and take a useful share of it. That may mean maintaining a component, supporting a monitoring programme, funding continuing care, or helping affected people challenge an access rule. Make the commitment specific enough to be noticed when it is not done. Establish who can judge the result and who inherits the task if you leave.
+
+For those building Neuverse or Tiers, begin with the same discipline. Name the larger system the proposed service enters. Account for what it draws down, what it must leave intact and what it can help restore. Carry one of those obligations into the actual operating rules, then test whether it changes a decision. A stewardship principle that never inconveniences our favourite plan may still be only decoration.
+
 ## Make the Invisible Visible
+
+<!-- Editorial reservation, 2026-11-05: retained enacted closing and invented dialogue must be reconciled with the new prospective opening by Sam/Claude. Preservation does not establish the future visit as fact. -->
 
 At the data-center site, near the end of the consultation, the elder who had spoken about appetite asked for the microphone again.
 
@@ -932,6 +925,8 @@ The next task belongs to the builders: how to govern the streams without drainin
 
 Once we understand that shared ground must be protected, the builder must decide how streams may flow and where sanctuaries must refuse the pipe.
 
+[^v3-27c-aristotle]: Aristotle, *Politics*, II.3, translated by Benjamin Jowett, [Book II](https://classics.mit.edu/Aristotle/politics.2.two.html). The epigraph omits the initial “For.” The surrounding discussion concerns Plato's proposed communal arrangements; it is not empirical evidence that all commons fail. Jowett's translation is public domain.
+
 [^v3-27-shapur]: A. Shapur Shahbazi, [“Šāpur I: History,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/shapur-i/). See also [“Manicheism in Pre-Islamic Iran”](https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/) for royal support. This is a condition of Shapur's reign, not a tolerance edict dated to 251 or a claim that a single orthodox religious settlement already governed the entire Sasanian period.
 
 [^v3-27-act]: Crown-Indigenous Relations and Northern Affairs Canada, [“Background on Indian Registration”](https://www.cirnac.gc.ca/eng/1540405608208/1568898474141), and Royal Commission on Aboriginal Peoples, [report highlights](https://www.rcaanc.gc.ca/eng/1100100014597/1572547985018). The passage concerns the 1876 settlement and inherited status rules; later prohibitions and compulsory measures must retain their own dates.
@@ -939,3 +934,7 @@ Once we understand that shared ground must be protected, the builder must decide
 [^v3-27-bighorn]: National Park Service, [“Context and Story of the Battle,” Little Bighorn Battlefield](https://www.nps.gov/libi/learn/historyculture/battle-story.htm). The battle was June 25–26, 1876; the subsequent taking of the Black Hills should not be collapsed into the earlier treaty or this winter's ultimatum.
 
 [^v3-27-energy]: International Energy Agency, [“Data Centre Electricity Use Surged in 2025, Even with Tightening Bottlenecks Driving a Scramble for Solutions”](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions). The 2039 dependence and access conditions are a planning scenario, not an extrapolation of one growth rate.
+
+[^v3-27c-ostrom]: Elinor Ostrom, “Beyond Markets and States: Polycentric Governance of Complex Economic Systems,” *American Economic Review* 100, no. 3 (2010): 641–672, especially 652–653, [doi:10.1257/aer.100.3.641](https://doi.org/10.1257/aer.100.3.641). The updated design-principle list describes recurring institutional features, not one mandatory rule set. The compute-pool and stewardship-account applications here are proposed extensions.
+
+[^v3-27c-ecosystem]: Convention on Biological Diversity, [“Ecosystem Approach: Principles”](https://www.cbd.int/ecosystem/principles.shtml), especially principles 1, 3 and 5–9. These support intrinsic value, cross-boundary effects, functioning, limits and appropriate scales; the operating-envelope procedure here is a proposed design application, not a numerical ecological standard supplied by the Convention.

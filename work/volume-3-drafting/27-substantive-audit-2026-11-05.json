@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-05",
+  "baseline_commit": "b60431b61b8f3c671b458e0a57479953e686738a",
+  "scope": "Pair27 substantive completion for subsequent Sam/Claude literary pass",
+  "no_publication_or_external_handoff": true,
+  "source_inputs": [
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/10 Gaia and xGaia Charter.md",
+      "sha256": "3ee69dbc1a32fa3add1f00b5558d4e43fb1ce2e55396e883866c070e704e0a39",
+      "read_scope": "Selected §§1,4–7,11–13,14.6,15,17,18; some long subsections selectively reviewed. Not a uniform full-charter read. Seven-tier/sowing/Neusphere/Neuconomy/MOxAIC context inherited from documented pair25/26 reading.",
+      "authority": "Internal intended design, not implementation evidence"
+    }
+  ],
+  "preservation_checks": {
+    "chapter_historical_braid_verbatim": true,
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "chapter_closing_verbatim": true,
+    "interlude_closing_verbatim": true,
+    "old_technical_mirror_preserved_verbatim": true,
+    "no_author_annotations_removed": true,
+    "source_snapshot_matches": true,
+    "only_two_manuscripts_prepared": true
+  },
+  "preflight": {
+    "manuscripts/volume-3/27-chapter.md": {
+      "defined_notes": 7,
+      "note_references": 7,
+      "bookwide_collisions": [],
+      "math_nodes": 0,
+      "image_paths": [
+        "../assets/shared/chapter-arrow.png"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 7
+    },
+    "manuscripts/volume-3/27-interlude.md": {
+      "defined_notes": 11,
+      "note_references": 11,
+      "bookwide_collisions": [],
+      "math_nodes": 11,
+      "image_paths": [
+        "../assets/shared/interlude-gear.png",
+        "../assets/v3-27-interlude/commons-service-boundaries.svg"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 11
+    }
+  },
+  "manifest_changes": "Only two scoped active_source.sha256 values",
+  "manuscripts": [
+    {
+      "path": "manuscripts/volume-3/27-chapter.md",
+      "before_sha256": "f302ffa5fb8b1c7b2347068fe70755414dfbcd2d617b745df1813fd46ca3d67c",
+      "after_sha256": "cc511e14959c20dd6823b70241e7f1482cc6316e764523b1de11168dfb62b8be",
+      "before_whitespace_words": 6325,
+      "after_whitespace_words": 8345
+    },
+    {
+      "path": "manuscripts/volume-3/27-interlude.md",
+      "before_sha256": "e46c917053e19b9130cb499d22a09028d22fb58738bb7d008c7cd36fd5dbde73",
+      "after_sha256": "9da3e2d79ec26d16f8b73be4b9a9087bd18bc4c1822fe3a87c63540c500573da",
+      "before_whitespace_words": 5012,
+      "after_whitespace_words": 5598
+    }
+  ],
+  "sources": [
+    {
+      "note": "v3-27c-aristotle",
+      "url": "https://classics.mit.edu/Aristotle/politics.2.two.html",
+      "locator": "Politics II.3, Jowett translation",
+      "verification": "Text and translator verified",
+      "claim_and_limits": "Exact epigraph omits initial For; discussion is of Plato, not empirical proof that all commons fail.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27c-ostrom",
+      "url": "https://doi.org/10.1257/aer.100.3.641",
+      "locator": "2010 pp.652–653; primary author PDF at https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf",
+      "verification": "Original paper passage and bibliographic record verified",
+      "claim_and_limits": "Principles describe recurring institutional features; new compute/stewardship applications are ours.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27c-ecosystem",
+      "url": "https://www.cbd.int/ecosystem/principles.shtml",
+      "locator": "Principles 1,3,5–9; also intrinsic value in10",
+      "verification": "Official principles read",
+      "claim_and_limits": "Functioning, limits, space/time scales, adaptation, nonhuman value; no numerical local bounds or guaranteed sustainability.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27-shapur",
+      "url": "https://www.iranicaonline.org/articles/iran-ix1-religions-in-iran/iran-ix12-manicheism/",
+      "locator": "Durkin-Meisterernst/Kreyenbroek, paragraphs on Shapur and Shaburagan",
+      "verification": "Supplementary scholarly source refreshed; main Shapur article timed out on refresh",
+      "claim_and_limits": "Inherited verified braid retained; conditions around251, not an edict on that exact date.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27-act",
+      "url": "https://www.cirnac.gc.ca/eng/1540405608208/1568898474141",
+      "locator": "Overview paragraphs on1869/1876",
+      "verification": "Official background refreshed",
+      "claim_and_limits": "1876 consolidated earlier status restrictions, not first invention of all sex-based rules; no current legal advice.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27-bighorn",
+      "url": "https://www.nps.gov/libi/learn/historyculture/battle-story.htm",
+      "locator": "Context and Stage Is Set",
+      "verification": "Official historical account refreshed",
+      "claim_and_limits": "1868 treaty,1876 ultimatum and June25–26 battle retained as distinct; no claim all peoples identical.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27-energy",
+      "url": "https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions",
+      "locator": "16April2026; efficiency/demand and bottlenecks paragraphs",
+      "verification": "Official current report summary refreshed",
+      "claim_and_limits": "Supports physical dependencies and planning uncertainty, not a quantitative2039 forecast; no report projections inserted as accomplished events.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-bell",
+      "url": "https://www.loc.gov/collections/alexander-graham-bell-papers/articles-and-essays/timeline/1870-to-1879/",
+      "locator": "March7 and10,1876; notebook https://www.loc.gov/item/magbell.25300201/; LOC guide https://guides.loc.gov/chronicling-america-telephone-invention",
+      "verification": "LOC timeline/collection material checked earlier in this task; repeat opens intermittently403; indexed official guide reconfirmed exact dates",
+      "claim_and_limits": "Patent and speech experiment distinct; no sole-inventor or mature-network assertion.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-trust",
+      "url": "https://theodi.org/insights/reports/odi-data-trusts-report/",
+      "locator": "2019 report page and original ODI announcement",
+      "verification": "Original institutional report summary and related announcement checked",
+      "claim_and_limits": "Independent stewardship; no universal assertion of fiduciary legal form in all jurisdictions.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-ocap",
+      "url": "https://fnigc.ca/ocap-training/",
+      "locator": "Definitions and FAQs on applicability and citation",
+      "verification": "Official framework read",
+      "claim_and_limits": "First Nations specific; Nation-specific protocols; no implied consent or universal Indigenous label. Trademark attribution included.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-care",
+      "url": "https://www.rd-alliance.org/wp-content/uploads/2024/03/CARE20Principles20for20Indigenous20Data20Governance_OnePagers_FINAL20Sept2006202019.pdf",
+      "locator": "2019 primary principles,pp1–5",
+      "verification": "Original GIDA/RDA framework read; original GIDA web route404",
+      "claim_and_limits": "Framework not substitute for actual peoples authority.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-abac",
+      "url": "https://csrc.nist.gov/pubs/sp/800/162/upd2/final",
+      "locator": "Definition and official bibliographic record,2014 updated2019",
+      "verification": "Official specification definition checked; reuses pair24 established decision/enforcement distinction",
+      "claim_and_limits": "Policy evaluation differs from legitimate civic authority; declared purpose not cryptographic proof.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-overload",
+      "url": "https://sre.google/sre-book/handling-overload/",
+      "locator": "Chapter21, resource costs, degraded responses and limits",
+      "verification": "Original engineering guidance checked",
+      "claim_and_limits": "Civic priorities, ecological equation and numbered example are proposed applications, not Google policy or a physical law.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-crypto",
+      "url": "https://www.nist.gov/blogs/cybersecurity-insights/privacy-enhancing-cryptography-complement-differential-privacy",
+      "locator": "3Nov2021,Brandao and Peralta,SMPC/ZKP and output disclosure",
+      "verification": "Original authors account and metadata checked",
+      "claim_and_limits": "Threat model and allowed result still matter; neither mechanism supplies collection authority.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-dp",
+      "url": "https://csrc.nist.gov/pubs/sp/800/226/final",
+      "locator": "2025 report record/abstract; official unit-of-privacy glossary and indexed final report text",
+      "verification": "Official metadata, abstract and unit-of-privacy text checked; full finalPDF open failed",
+      "claim_and_limits": "No claim full report read; implementation hazards and protected units, not a blanket privacy certification.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-composition",
+      "url": "https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf",
+      "locator": "Dwork/Roth2014,§3.5",
+      "verification": "Primary monograph relevant definition/composition section and contents checked",
+      "claim_and_limits": "Pureepsilon basic bound for compatible protected units; ten0.1 gives atmost1,not1percent. Not an endorsement of parameter choice.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-federated",
+      "url": "https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf",
+      "locator": "2017 introduction andnote1",
+      "verification": "Primary paper checked selectively",
+      "claim_and_limits": "Local training/updates and leakage possibilities; not an evaluation of2039 privacy.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "note": "v3-27i-genome",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23329047/",
+      "locator": "Gymrek etal2013 abstract and bibliographic record",
+      "verification": "Primary research abstract/metadata checked",
+      "claim_and_limits": "Specific surname/metadata linkage attack; no claim universal reidentification or certain clinical prediction.",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "figure": {
+    "path": "manuscripts/assets/v3-27-interlude/commons-service-boundaries.svg",
+    "authorship": "Original code-native vector diagram; no third-party art",
+    "visual_check": "Rendered and inspected at900px; grayscale readable, nonoverlapping boxes and paths. Removed an arrow-label collision before final render."
+  },
+  "reserved": [
+    "Final future openings and closing callbacks",
+    "Private personal affiliations",
+    "Noesis andOpen27",
+    "Final literary density pass",
+    "Further author Alice/Bob inquiry",
+    "Full-volume handoff"
+  ],
+  "post_install_checks": {
+    "date": "2026-11-06",
+    "chapter": {
+      "passed": true,
+      "defined_notes": 7,
+      "parsed_notes": 7,
+      "html_backlinks": 7,
+      "display_equations": 0,
+      "warnings": [],
+      "errors": []
+    },
+    "interlude": {
+      "passed": true,
+      "defined_notes": 11,
+      "parsed_notes": 11,
+      "html_backlinks": 11,
+      "display_equations": 1,
+      "warnings": [],
+      "errors": []
+    },
+    "git_diff_check": "passed",
+    "visual_figure": "Final900x790grayscalePNG inspected; removed overlapping label; SVG is canonical asset",
+    "publication": "not performed"
+  },
+  "completed_on": "2026-11-06"
+}

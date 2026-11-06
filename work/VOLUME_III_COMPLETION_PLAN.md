@@ -111,3 +111,9 @@ Sam has accepted pair 24. C25/I25 now teach allocation and actual fulfillment ra
 ## Pair 26 substantive completion — 5 November 2026
 
 The author requested pair 26 after reviewing pair 25. C26/I26 now supply the learning and public-memory design/build chain, grounded in the newly supplied seven-tier architecture, learning charter and selected MOxAIC material. The [pair brief](volume-3-drafting/26-substantive-completion-2026-11-05.md) records methods, dates, source checks, reader value and preservation; the [projection companion](volume-3-drafting/26-vignette-constructions-2036.md) supplies actual proposed openings and 2036 footing. Legacy openings remain available for the later literary pass. Pair 27 is next on the author's request. The full handoff remains withheld.
+
+## Pair 27 substantive pass completed — 5 November 2026
+
+[Brief](volume-3-drafting/27-substantive-completion-2026-11-05.md) and [2039 projections](volume-3-drafting/27-vignette-constructions-2039.md). Canonical C27/I27 now teach commons institutions and ecological fit, then build useful services with authority, privacy, physical limits and maintenance. The author's latest ecological constraint is recorded in B-034. The 251/1876/2039 braid is preserved; I27 gains an exact-year Bell mirror. The diagram, admission equation and examples are proposed teaching constructions, not implemented project evidence.
+
+Substantive completion now covers Θ foundations and numbered pairs **23–27**. Final literary projections, Noēsis, Opens and full-volume reconciliation remain pending. The whole-volume Claude handoff stays withheld. Pair 28 is the next numbered unit when the author requests it.
