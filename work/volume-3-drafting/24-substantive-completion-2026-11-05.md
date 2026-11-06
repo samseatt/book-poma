@@ -37,7 +37,7 @@ The accompanying pair-23 repair restores a nearby date for Babylonian observatio
 
 ## Prospective milestone-story directions for Sam and Claude
 
-**Concrete constructions now supplied:** read [Chapter 24 and Interlude 24 vignette constructions](24-vignette-constructions-2031.md) alongside this brief. It develops the chapter’s recovered-time/almost-right-helper story and the interlude’s change-of-representative milestone, with the 2031 capability assumptions, personal stakes, narrative progression and precise bridge/callback work. It supersedes the directions-only candidates below where they differ. Canonical openings remain intact for comparison and await Sam/Claude’s literary pass.
+**Opening construction update:** the [earlier companion](24-vignette-constructions-2031.md) remains available, but Sam has rejected its general mentoring premise. Use the [Neuverse/Tiers grounding note](../handoffs/2026-11-05-neuverse-tiers-grounding.md) for the corrected personal direction and replacement candidates: meaningful civic participation and other builders extending the technological undertaking. Final story selection remains open. Canonical openings remain intact for comparison; the technological and design reasoning below still applies.
 
 **Gate 2: September 11, 2031, 9 AM in the internal ceremony.** This is a state/progress checkpoint, not the invention date of agents, permission systems or delegation. Capable agents can make substantial work and expertise available; how participants grant and retain authority becomes the distinctive question. Do not make 2031's intelligence look like an error-prone appointment chatbot merely to create a problem. The fixed timestamp does not require repeated clock announcements.
 

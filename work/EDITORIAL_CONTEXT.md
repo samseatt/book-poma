@@ -488,3 +488,10 @@ B-030 makes historical timestamp preservation explicit. A selected timeline mirr
 ### Pair 24 concrete vignette companion — 5 November 2026
 
 Sam requested developed story ideas, beyond the brief's writing rules. The [pair-24 companion](volume-3-drafting/24-vignette-constructions-2031.md) now supplies C24's recovered-time/almost-right-helper construction and I24's working change of representative, with 2031 plausibility, personal/civic and builder stakes, and the callbacks Claude must reconnect. Existing canonical openings remain unchanged. These are preferred proposals for Sam to personalize, not approved memoir or actual project results; the full V3 handoff remains withheld. For subsequent pairs, supply concrete ideation and Gate-specific reasons alongside any rules, and make the companion easy to find when keeping old manuscript openings.
+
+
+### Actual project grounding supersedes the generic mentoring premise — 5 November 2026
+
+Read [the Neuverse/Tiers grounding note](handoffs/2026-11-05-neuverse-tiers-grounding.md). Sam does not plan general mentoring; his intended human engagement is toward Neuverse citizenship/participation and Tiers developer contribution, with possible AI-agent mentoring. Volume III is intended to motivate such participation. The pair-24 companion's general mentoring story and dependent handover are withdrawn, not merely awaiting personalization. Canonical manuscripts remain unchanged; the note offers replacement directions for review.
+
+The parent Neuro charter and both Tiers vision documents were read in full. Tiers is the broad technological counterpart—conception, architecture, building, operations, stewardship and renewal—not infrastructure alone. Neuverse concerns changed civilizational functions and lived participation; a Neusphere remains a developing cognitive commons. Ground future projections in this actual undertaking before choosing a clever personal activity. Later Gates may concern already-established organs' consequences, maturity or downstream applications. Read B-031 for the standing distinctions; no calendar delivery commitments are inferred from these somewhat dated plans.

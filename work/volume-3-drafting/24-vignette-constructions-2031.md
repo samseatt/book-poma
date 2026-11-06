@@ -2,6 +2,8 @@
 
 5 November 2026 · Companion for Sam and Claude · Gate 2: **11 September 2031, 9 AM**
 
+**Author correction, 5 November:** the general mentoring premise below is withdrawn. Sam’s intended work concerns Neuverse participation and Tiers development; mentoring is relevant only within those purposes (or potentially with AI agents). The dependent mentoring handover is also superseded. Retain this document as an earlier construction, not the preferred personal story. Read the [Neuverse/Tiers grounding and replacement directions](../handoffs/2026-11-05-neuverse-tiers-grounding.md) before using any of it. Technical/date reasoning remains reusable; the replacement directions await Sam’s choice.
+
 These are developed opening ideas for *The Citizen's Dilemma* and *The Developer's Dilemma*, with their prospective progress, personal stakes, technological footing and connections to the rest of each manuscript. They supplement the [pair brief](24-substantive-completion-2026-11-05.md). The canonical openings remain intact for comparison; they do not yet enact these ideas. Sam can personalize these constructions before Claude writes the final prose.
 
 The pair's shared accomplishment is **useful representation that remains answerable to the person represented**. The chapter experiences what this makes possible in a life; the interlude considers what the builder must make possible underneath it. Their tension survives even very advanced intelligence: a better account of the available choices does not, by itself, confer authority to choose someone's purposes.
@@ -97,6 +99,6 @@ Both external pages checked on 5 November 2026. The future constructions are edi
 
 ## Handoff and remaining author latitude
 
-This companion is the preferred concrete construction for pair 24, superseding the brief's directions-only treatment and the older music-session/review-room alternatives where they differ. It is a proposal for Sam's personalization, not approval of invented memoir. The mentoring commitment can be replaced by a real intended contribution with the same tension; exact hours, venue, participants and private memories are deliberately unassigned.
+This is now an earlier construction whose personal mentoring premise the author has rejected. The new [project grounding note](../handoffs/2026-11-05-neuverse-tiers-grounding.md) supplies more appropriate candidate directions: meaningful Neuverse participation and contributions to the evolving Tiers undertaking. No new vignette has been approved or installed in canonical text.
 
 Read it with the canonical [chapter](../../manuscripts/volume-3/24-chapter.md), [interlude](../../manuscripts/volume-3/24-interlude.md) and pair brief. During the eventual literary pass, update each opening, bridge and closing callback together. Preserve checked historical timestamps, substantive mechanisms, sources and original humour. The complete V3 handoff remains withheld until the substantive pass is finished; this document can travel with the pair when Sam chooses.

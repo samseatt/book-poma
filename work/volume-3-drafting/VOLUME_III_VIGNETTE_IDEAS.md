@@ -48,7 +48,7 @@ Give the prototype a success as well: it handles a language barrier, conflicting
 
 ## 3. Chapter 24 — The Citizen's Dilemma
 
-**5 November update:** the [developed pair-24 constructions](24-vignette-constructions-2031.md) are now the preferred candidates. The earlier idea below remains available as provenance/variation; the newer companion supplies the prospective milestone, 2031 footing and connections to the canonical text.
+**5 November correction:** the [pair-24 constructions](24-vignette-constructions-2031.md) supplied concrete ideas, but Sam rejected their general mentoring premise. The [Neuverse/Tiers grounding note](../handoffs/2026-11-05-neuverse-tiers-grounding.md) now supplies the personal basis and replacement directions. Neither the earlier idea below nor a new candidate is an approved vignette; preserve useful technical and literary material while choosing an activity tied to Sam’s actual undertaking.
 
 **September 2031 · The Delegated Life. New scene, retaining the existing “almost-right helper” tension.**
 
@@ -60,7 +60,7 @@ The issue is larger than a missed recommendation. By this checkpoint, a trusted 
 
 ## 4. Interlude 24 — The Developer's Dilemma
 
-**5 November update:** the [developed pair-24 constructions](24-vignette-constructions-2031.md) are now the preferred candidates. The earlier idea below remains available as provenance/variation; the newer companion supplies the prospective milestone, 2031 footing and connections to the canonical text.
+**5 November correction:** the [pair-24 constructions](24-vignette-constructions-2031.md) supplied concrete ideas, but Sam rejected their general mentoring premise. The [Neuverse/Tiers grounding note](../handoffs/2026-11-05-neuverse-tiers-grounding.md) now supplies the personal basis and replacement directions. Neither the earlier idea below nor a new candidate is an approved vignette; preserve useful technical and literary material while choosing an activity tied to Sam’s actual undertaking.
 
 **September 2031 · The Delegated Life. New practical test of the existing delegation problem.**
 

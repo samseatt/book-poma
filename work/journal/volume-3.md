@@ -398,3 +398,12 @@ Created [Chapter 24 and Interlude 24 vignette constructions](../volume-3-draftin
 The companion uses checked METR/NIST baselines without representing benchmarks or a concept paper as evidence of assured 2031 adoption. No real mentoring arrangement, private memory, migration, citywide implementation or achieved Neusphere is asserted. The exact personal contribution remains replaceable by Sam. Canonical manuscript files, annotations, dates, footnotes and assets remain unchanged; the pair brief, older idea catalogue and withheld handoff link the new companion. This is not final approval of either new opening and no file was sent or published.
 
 **Process correction:** future pair preparation must deliver an actual proposed story and its Gate-specific footing, not merely modality rules. Where the old opening is retained for the literary pass, link an explicit companion and identify the bridge/closing dependencies. Preserve date anchors while reshaping those seams.
+
+
+## V3-PAIR24-003 — Withdraw general mentoring and ground projections in actual projects
+
+**Author correction recorded, 5 November 2026; replacement story selection pending.** Sam rejects the editor's generic mentoring premise. His relevant human mentoring would concern Neuverse participation or Tiers developers; AI-agent mentoring is also possible. The desired purpose of V3 includes motivating participation in Neuverse/Tiers.
+
+Read all three requested documents: the parent Neuro ecosystem charter, Tiers living vision v0.8 and first-sowing direction v0.3. Created [a source-grounded editorial note](../handoffs/2026-11-05-neuverse-tiers-grounding.md). It corrects the narrower view of Tiers as infrastructure, preserves the organ-level ambition and the distinction between a design target and achieved scale, and proposes more appropriate pair-24 directions: a person joining on meaningful civic terms; other developers and agents extending the technological undertaking without inheriting unchecked authority. The exact story remains open.
+
+Marked the prior companion as superseded on its personal premise, corrected the brief and idea-catalogue pointers, and updated the withheld handoff and standing context. The rejected story remains visible as provenance, not active instruction. No canonical manuscript, charter, Tiers document, source footnote, historical date, figure or publishing file was altered. This intake does not claim completion of all later Gate alignment or approval of a new scene.
