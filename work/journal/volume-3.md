@@ -449,3 +449,13 @@ C28 teaches functional decomposition, verification/validation, product architect
 Alice asks whether collective material learning can grow capability faster than replacement of physical stock. Bob asks whether evidence obligations can travel with a design across different processes. The Next Move is **Give One Thing Another Life**, leaving reusable capability and funded maintenance behind. These are substantive drafts, not claims of new discoveries or implemented project results.
 
 See [pair brief](../volume-3-drafting/28-substantive-completion-2026-11-06.md), [concrete 2041 projections](../volume-3-drafting/28-vignette-constructions-2041.md), [retained fragments](../volume-3-drafting/28-retained-fragments-2026-11-06.md) and the adjacent audit. Openings/closings remain verbatim under reservations; Claude must reconcile them, not narrate an invented future visit as memoir. Whole-volume handoff remains withheld. Pair 29 has not been changed.
+
+## V3-PAIR29-001 — Authority, belonging and interoperable governance
+
+**6 November 2026 — substantive source completed for author review.** Governance charter read throughout, belonging charter selectively and MOxAIC refreshed. C4A, NGOC8, Neuma/KAUSAR, Neusphere and Juris/xJuris responsibilities are distinguished. No project deployment or civic jurisdiction is inferred from the charter.
+
+C29 now teaches institution design and usable co-authorship. “Silicon tonnage” is retained as provocation but separated into different fiscal purposes, measures and authorities; the old opening/closing still require literary reconciliation. I29 gives a worked civic-service architecture with credentials, mandates, model translation, constrained delegation, policy versions, network partitions, continuity and actual effects. Alice explores more distributed agency through better coordination; Bob explores accountable semantic translation. Next Move: **Put One Rule Within Reach**.
+
+The 751/1926/2044 historical braid is unchanged. I29 names Baird's exact **26 January 1926** demonstration. The undated technical mirror and selected replaced rhetoric are retained. Original openings/closings remain verbatim as a prose bank; separate concrete projection proposals prevent that reservation from becoming missing ideation.
+
+[Brief](../volume-3-drafting/29-substantive-completion-2026-11-06.md) · [2044 projection constructions](../volume-3-drafting/29-vignette-constructions-2044.md) · [Retained fragments](../volume-3-drafting/29-retained-fragments-2026-11-06.md) · [Audit](../volume-3-drafting/29-substantive-audit-2026-11-06.json). Final literary work, Noēsis, Open and full handoff remain pending. No publication or incoming-draft adoption.

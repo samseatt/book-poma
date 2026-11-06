@@ -8,6 +8,8 @@ INTERLUDE 29
 
 *GOVERNANCE*
 
+<!-- Legacy projection retained verbatim as a prose bank. Reconstruct as prospective builder reflection at 9 AM, 11 March 2044; no invented encounter or dialogue is established memoir. See work/volume-3-drafting/29-vignette-constructions-2044.md. -->
+
 The map made the person too simple.
 
 That was the first problem.
@@ -100,717 +102,154 @@ Immediately, I trusted it more.
 
 Nothing reveals the fragility of civilization like five governments, three standards bodies, two elders, a logistics AI, and a municipal clerk trying to agree on the word *resident*.
 
-## Paper, Algebra, Distillation
+<!-- End of reserved opening. AI-assisted substantive completion, 6 November 2026. Undated technical mirror retained separately. -->
 
-Governance scales when records scale.
+## A Face Across the Wire
 
-This is the first old lesson.
+On **26 January 1926**, the year of King–Byng and the Imperial Conference's Balfour Declaration, John Logie Baird demonstrated his mechanical television system to members of the Royal Institution and other observers at his laboratory in London's Frith Street. The receiver preserved by the Science Museum Group has a disc pierced by thirty holes arranged in a spiral. It rotated in step with the scanning disc at the transmitter; the incoming signal modulated a neon lamp.[^v3-29i-baird]
 
-Paper was not merely literary romance, though it became that too. Paper was administrative infrastructure. Contracts, tax records, correspondence, court rulings, scientific notes, identity documents, land records, law, theology, poetry, supply orders, bureaucratic complaints written in lovely handwriting --- all could travel, multiply, persist, and be checked.
+A representation could travel, provided the apparatus at each end agreed how to reconstruct it. The receiving room acquired an image. It did not acquire the person.
 
-Before paper, administration existed. After paper, administration could expand into a civilization's nervous system.
+A civic network faces a less cooperative version of that distinction. A credential may convey a claim; a protocol may establish who sent it. Neither automatically conveys the authority the recipient is being asked to recognize. A signature can be impeccable while the signer has no right to decide.
 
-This is both blessing and warning.
-
-Records make rights portable.
-
-Records also make surveillance portable.
-
-Records let law travel.
-
-Records let empire travel.
-
-The civic mesh inherits paper's burden in digital form: durable, reproducible, inspectable records that do not become chains.
-
-The second lesson is algebra.
-
-Algebra is the language of relations before it becomes a school trauma. It lets unknowns stand in relation to knowns. It lets obligations, shares, balances, equivalences, substitutions, and transformations be expressed without needing every case named in advance.
-
-Governance needs algebra.
-
-Who has standing if a person is resident but not citizen, affected but not local, caregiver but not legal guardian, community member but not property owner, professional expert but not elected representative, youth delegate but not voting age, future proxy but not yet born?
-
-Who can delegate what?
-
-What rights remain non-transferable?
-
-How does authority move through roles without dissolving responsibility?
-
-These are algebraic governance questions: relations, variables, constraints, unknowns, transformations.
-
-The third lesson is distillation.
-
-Chemistry teaches that mixtures can be separated without pretending the mixture was never whole. Distillation draws out what differs by properties: vapor, condensation, separation, purification, residue.
-
-Civic identity needs distillation.
-
-Person, credential, role, right, delegation, jurisdiction, standing, and obligation are mixed in life. The system must separate them enough to govern without reducing the person to one substance.
-
-If it fails, two disasters appear.
-
-Too little separation, and the system cannot act.
-
-Too much reduction, and it acts like a tyrant.
-
-Paper scales records.
-
-Algebra formalizes relations.
-
-Distillation separates without destroying.
-
-That is the old builder's grammar behind civic meshes.
+By **11 March 2044**, our gate of **Authority at Machine Speed**, far more capable agents could translate rules, compare proposals, assemble evidence and administer large networks of services. The civic gain would be substantial: fewer people spending their lives interpreting one institution to another. The engineering question is how to let this intelligence connect institutions without quietly replacing their constitutions.
 
 ## The Person Is Not the Profile
 
-Begin here or regret everything.
+Begin by refusing a convenient data model. A person is not one record whose fields every institution may complete.
 
-The person is not the profile.
+Distinguish **identity**, the subject a system is referring to; a **credential**, an issuer's claim about that subject; a **role**, a position with specified responsibilities; and **authority**, a recognized power to perform a particular action. Rights and standing do not reduce to those four database objects. A person may have a right that a defective registry fails to represent. She must still have a route to exercise it.
 
-The profile is a tool. The person is not a tool.
+W3C's verifiable-credential model distinguishes issuer, holder and verifier. Verification establishes specified properties of the credential and its proof; it does not establish that every claim is true or that the issuer has authority for the receiving institution's purpose.[^v3-29i-vc] A digitally authentic membership card may be entirely irrelevant to a residency decision. The cryptography has not failed. The application has asked it to do civics.
 
-A civic identity system that forgets this becomes a master key looking for locks.
+Request the minimum evidence needed for the decision. Some credential systems support selective disclosure, allowing a particular claim to be shown without disclosing the whole record. Unlinkability is a further property, not a free consequence of displaying fewer fields. Design against correlation across services, including through identifiers, status checks and metadata. A privacy policy cannot unjoin a database.
 
-A person may be legal citizen, resident, refugee, patient, worker, elder, student, caregiver, taxpayer, land steward, Indigenous rights-holder, community member, professional, parent, dissenter, visitor, machine-system operator, and future-affected party. She may be expert in one room, vulnerable in another, responsible in a third, silent in a fourth, and desperately in need of being none of the above for an afternoon.
+Recovery matters as much as issuance. Lost devices, compromised keys, changed names, disputed records and intermittent connectivity are ordinary civic conditions. Provide assisted and offline routes, with safeguards appropriate to the stakes. A lost wallet should not become an involuntary constitutional amendment.
 
-No single civic profile can safely hold all of that without becoming a leash.
+Neuma's participation should retain this separation. KAUSAR may hold protected personal context that improves an agent's understanding; civic software should receive the limited evidence or authorization it needs. It should not demand the person's inner world as the price of recognizing her at the counter.
 
-The temptation is strong. A unified identity layer promises efficiency. It reduces fraud, simplifies access, routes services, records contributions, verifies credentials, enables taxation, supports delegation, and makes dashboards hum with the soft music of administrative satisfaction.
+## Let Institutions Keep Their Meaning
 
-It also creates the most efficient leash in history if built without restraint.
+Consider an illustrative agreement between two municipalities and a freight operator. The municipalities retain their actual powers. The operator provides a service under specified permissions. They are participants in an arrangement, not three interchangeable governments. Other authorities and rights would have to be included wherever the real route required them.
 
-The civic mesh must therefore practice non-reduction.
+They want to adjust night deliveries while preserving safety, residents' access and environmental limits. One municipality defines a delivery zone by street segment; the other uses a permit area that includes private access roads. A single field named `zone` would conceal the disagreement beautifully.
 
-It should verify only what is needed in context.
+**Bounded contexts**, from domain-driven design, let different parts of a system retain coherent models while making their relationships explicit. The boundary is about the meaning of a software model; it is not itself a legal boundary.[^v3-29i-context] The municipalities may use different models even when they must cooperate on one journey.
 
-Resident for this service.
+An **Anti-Corruption Layer** translates between those models without allowing one to silently reshape the other. The name concerns corruption of a model's meaning, not bribery.[^v3-29i-acl] The translation should state its version, assumptions and cases it cannot express. “No equivalent classification” must not become “no restriction.” Nor should a missing digital field become proof that a person has no standing.
 
-Licensed for this task.
+MOxAIC's plurality becomes operational here. Shared action requires agreement about the relevant interface and obligations; it does not require every community to use the same account of belonging. C4A concerns civic standing and external recognition, NGOC8 governance coordination. The software supports those responsibilities. It does not allocate them by whichever service answered first.
 
-Delegated for this meeting.
+A shared vocabulary can be useful. A universal vocabulary that erases a contested meaning is merely a decision wearing a data type.
 
-Parent or guardian for this child's record.
+## Make the Mandate Inspectable
 
-Treaty standing for this land decision.
+A login proves very little about what should happen next.
 
-Auditor credential for this review.
+Identity federation lets one service rely on another's authentication under a trust arrangement. NIST separates the agreement, the establishment of identifiers and keys, and the protocol exchange; it also specifies controls such as audience restriction and replay protection.[^v3-29i-federation] Those controls help a receiving service recognize an intended assertion. Political federation is a different undertaking. Neither a shared login nor a trust-framework contract creates public jurisdiction.
 
-Machine operator responsibility for this autonomous system.
+For the delivery agreement, attach an inspectable **mandate record** to the consequential operation: the recognized decision-maker, the source of its power, the permitted action and place, relevant conditions, effective period, amendment version, responsible operator and review route. Some of this record may be public; protected personal or operational evidence should not be exposed merely because the action needs accountability.
 
-No more.
+Then keep three questions separate: what is the proposed action, what authority permits it, and what evidence shows that the conditions hold? An AI's confidence belongs to the third question. It cannot substitute for the second.
 
-The identity system should not ask, "Who are you entirely?"
+A simplified decision table makes the distinction visible:
 
-It should ask, "What standing, right, role, or credential is relevant here, and how can that be proven without exposing the rest of your life?"
+| Situation | Operational response |
+| --- | --- |
+| Applicable permissions and conditions are current and satisfied | Execute within the existing mandate; record the decision and observed result |
+| A relevant restriction applies | Do not execute that request; explain the governing restriction and available alternatives |
+| Required evidence or a cross-boundary permission is missing or disputed | Route the unresolved question to the competent body; use only an already-authorized fallback |
+| A new rule has been adopted but is not yet effective | Continue under the applicable current rule; prepare the change without applying it early |
 
-That is civic dignity in technical form.
+The table is illustrative, not a universal legal decision procedure. Notice the third row. “Unknown” is neither an automatic grant nor a final rejection of someone's rights. It is an obligation to obtain an answer while preserving service through whatever continuity arrangements legitimately exist.
 
-## Identity, Credential, Role, Right
+![A civic operation passes from recognized mandates through distinct local models and explicit translation to a bounded decision. Valid actions proceed to execution and observed effects; unresolved authority goes to review while an authorized fallback preserves service.](../assets/v3-29-interlude/mandate-to-action.svg){#fig-v3-29-mandate-to-action width=94% fig-alt="Two institutions retain separate mandates and policy models. Explicit translation supplies a bounded decision service. Valid requests proceed to execution and effect records; uncertainty routes to review and an authorized fallback. Review does not manufacture a new mandate."}
 
-Confuse these categories and the system either cannot act or acts like a tyrant.
+The lesson of the diagram is the path around the middle. People must be able to question authority without first satisfying the very model they are questioning.
 
-Identity is continuity of a person or entity across contexts.
+## Delegation Without Multiplying the Citizen
 
-Credential is a claim attested by some authority, community, or process.
+A participant may authorize a representative; that representative may, where permitted, assign a narrower task to an agent. Each step should reduce or preserve scope, never enlarge it by implication. For a single delegation chain, one useful engineering invariant is:
 
-Role is a context-specific capacity or responsibility.
+$$
+S_{\mathrm{effective}} \subseteq S_0 \cap S_1 \cap \cdots \cap S_k \cap C
+$$
 
-Right is a protected entitlement that does not depend on convenience.
+Here each set contains the actions permitted at that step; the first is the original grant, and the later sets are subordinate grants. The final set contains the actions still allowed by the applicable context. The relationship is necessary, not sufficient: the initial authority, current evidence, expiry and any reserved rights must also be valid. Independent grants can have a different composition rule. The equation is not a constitution in unusually small print.
 
-Delegation is the temporary transfer of authority to act or decide within limits.
+A voting arrangement additionally needs rules for weights, loops, further delegation, private ballots, conflicts and cutoffs. Keep an unambiguous version of the authority used for each decision. Revocation stops future reliance according to the agreed rule; it does not rewrite the historical fact that an earlier decision occurred. A compromised credential needs a response different from an ordinary change of representative.
 
-Jurisdiction is the domain where rules apply and disputes can be heard.
+An agent can prepare a position, explain tradeoffs or execute an authorized choice. Copying the agent must not copy the citizen's vote. A vivid proxy does not become its principal. This matters particularly when a protected personal model can produce a persuasive answer to “what would she want?” The useful next question is whether she authorized that answer to act.
 
-Each must be distinct.
+Neo4j can represent the relations among people, roles, mandates, institutions and events. The wider civic graph can contain cycles. Particular delegation procedures may prohibit cycles, and an event history may impose a directed acyclic ordering. Those are constraints on particular relations, not a reason to declare civilization a DAG.
 
-A person may hold identity across time, but not every context needs to know every part of that identity.
+## Rules Need Versions, Not Just Releases
 
-A credential may prove medical training, water stewardship, machine-auditor certification, local residency, or community recognition. It does not make the credential holder morally superior or universally competent.
+Separate policy from the mechanism that applies it. An approved night-delivery limit should not be buried inside a routing model's weights.
 
-A role may permit access to certain data, participation in certain decisions, or authority to act in specific circumstances. It is not the person's essence.
+Where rules are sufficiently explicit, a decision model can identify inputs, dependencies and outcomes. OMG's **Decision Model and Notation** provides a standard vocabulary for this kind of work, including decision tables.[^v3-29i-dmn] Some civic decisions remain interpretive or contested. Mark those boundaries; do not manufacture precision by turning a disputed word into a Boolean.
 
-A right is not a perk granted by a role. It is a boundary around power.
+Each change needs an intelligible comparison: what changes, who approved it, when it takes effect, which pending cases use which version, and what remains subject to review. Test cases should include boundaries and exceptions as well as ordinary approvals. A policy that changes the permissible hour is different from a performance release that evaluates the same policy faster. Mixing their approvals lets a software deployment amend public rules.
 
-Delegation may let someone speak or vote or review on behalf of another, but it must remain scoped and revocable.
+AI can help generate counterexamples and trace which services would be affected. Authorized reviewers still need to know what they are accepting. Replay previous cases against the proposed rule to reveal changed outcomes, while recognizing that past cases cannot exhaust future conditions. A proposal deserves a difficult test set more than it deserves a reassuring demonstration.
 
-Jurisdiction determines where conflict goes when everything stops sounding reasonable.
+Rollback also needs meaning. Reverting software does not cancel deliveries already made, restore exposed information or undo a rule lawfully adopted yesterday. Some failures require a corrective decision and compensation, not a return to an earlier executable. Preserve enough history to tell the difference.
 
-Example: a person may delegate attendance at a water council meeting but not delegate away her right to appeal harm. A credential may prove clinical expertise but not grant authority to govern a community. A role may permit access to sensitive data but only within a use covenant. A machine operator may delegate routine monitoring to an AI, but not responsibility for public harm.
+## When the Network Splits
 
-These distinctions may sound bureaucratic.
+Suppose one municipality's node loses contact with the other after a rule change. A vehicle requests a route crossing both. The disconnected node cannot know whether the remote permission was just revoked. A more intelligent model can estimate the likelihood. It cannot receive a message that has not arrived.
 
-They are how people remain unowned by the systems that need to recognize them.
+The CAP result formalizes a related limit: under a network partition, a distributed service cannot guarantee both linearizable reads and writes and a successful response to every operation. Gilbert and Lynch explain the assumptions and practical tradeoffs; this is not the slogan that any system may casually “pick two.”[^v3-29i-cap]
 
-## Self-Sovereign, But Not Wallet-Sovereign
+Design the degraded behavior before it is needed. Give permissions validity periods appropriate to their risks; specify how fresh revocation information must be and what uncertainty is tolerable. A locally authorized maintenance task may continue. A new cross-boundary permission that requires current agreement may have to wait or use a separately authorized route. If emergency action is permitted, its limits and reporting should already exist; an outage should not promote the service into a legislator.
 
-Self-sovereign identity can help.
+A **lease** bounds how long a permission or resource reservation remains usable without renewal. It limits exposure; it does not guarantee instantaneous revocation during disconnection. Clock assumptions, grace periods and failure behavior must be explicit. Existing transport may need to finish safely rather than stop wherever a credential expires.
 
-It can also become a tiny state in your pocket run by a vendor with a recovery phrase.
+Upon reconnection, reconcile versions, decisions and actual effects. Do not use “last write wins” for competing public mandates. The last packet may come from the least authoritative sender. Technical consensus among replicas can establish a common recorded order under its assumptions; it cannot settle a dispute over which institution had the right to issue the order.
 
-Verifiable credentials, selective disclosure, portability, identity wallets, cryptographic attestations --- all of these can reduce dependence on central silos. They can let a citizen prove age without showing full identity, prove residency without revealing unrelated data, prove training without handing over employment history, prove standing without begging a platform to remember them.
+This is how a federation preserves useful autonomy: local work continues within valid bounds while genuinely shared changes wait for the agreement they require. It is also why scaling is not just a matter of adding servers. The cost of coordination depends on which decisions really need shared agreement. A good boundary removes unnecessary waiting without concealing an externality.
 
-Useful.
+## Evidence That Survives the Transaction
 
-But self-sovereign identity is useful only if the self remains more sovereign than the wallet.
+Record the request, applicable policy version, mandate, relevant evidence, decision, executor and observed outcome. Record what is unknown. An acknowledgement from a queue is evidence of receipt, not evidence that a gate opened or a vehicle arrived.
 
-Risks multiply quickly.
+Use stable operation identifiers so a retry can be recognized. Where effects cannot be made atomic across institutions, record partial completion and define the recovery or compensation procedure. Do not issue the same payment twice because one party missed a reply; do not assume a failed reply means the physical operation never happened.
 
-Wallet loss.
+Keep the audit trail append-only where appropriate, with access control and tamper evidence. Neither property makes its contents true. Corrections should retain the relationship to the earlier record without forcing sensitive personal data to remain exposed forever. Evidence retention, privacy and the right to contest a false record need deliberate treatment.
 
-Credential inequality.
+Risk-proportionate machine-actor records should identify the accountable operator, permitted actions, relevant assurance, incident route and authorized intervention. This is operational accountability, not a declaration of machine citizenship. XTACK, in the Neuverse design, supplies a discipline for constraining consequential action. It must be implemented through actual permissions, checks and recovery paths, not stamped on a system as an adjective meaning safe.
 
-Technical exclusion.
+Fiscal measurement requires a similarly modest ontology. Keep freight distance, load, water use, electricity, profit and assessed obligations in their proper units and jurisdictions. Document estimation and uncertainty. A meter may support a charge; its reading does not authorize that charge. A shared report should disclose only what its purpose and authority justify. No universal “machine weight” score should become the key to a person's public standing.
 
-Coercive credential requests.
+## Replace the Software Without Replacing the Constitution
 
-Over-identification.
+A practical adoption path begins with one bounded service and institutions willing and entitled to run the trial. An external project cannot appoint them to cooperate.
 
-Private vendors controlling identity infrastructure.
+The **Strangler Fig** pattern replaces an old software application incrementally, routing selected functions through new components while the remaining functions continue in the old system.[^v3-29i-strangler] Applied here, it concerns a software migration under an existing mandate. It is not advice to strangle an institution and inherit its powers.
 
-"Show me your credential" becoming everyday gatekeeping.
+First run the new decision service in shadow mode: it proposes outcomes without causing duplicate real effects. Compare differences, including who becomes invisible under the new model. Then transfer a bounded function with agreed acceptance criteria, a continuity route, trained operators and independent access to the evidence. Expand only when the institutions can support what has been added.
 
-Communal or relational identity flattened into individual tokens.
+For Tiers, the relation and orchestration layers can help carry these connections and workflows; the organ layer gives them an accountable service purpose. Civic governance remains a set of human and institutional responsibilities implemented with infrastructure. A technical adapter is not automatically a Tier 6 Connector, and a Connector to an outside body does not confer that body's powers on Neuverse.
 
-A refugee without the right credential becomes invisible.
+The Breadboard should prove positive service, not merely an elegant refusal. A rule is legitimately amended, both municipalities can interpret the change without surrendering their distinct responsibilities, and permitted deliveries continue. During a partition, the agreed fallback preserves what can safely and lawfully continue. A participant can challenge the record through a channel the operator cannot simply delete.
 
-An elder who loses access loses standing.
+Test the awkward cases: replayed credentials, a delegated grant with a narrower scope than requested, conflicting effective dates, a changed definition of residency, inaccessible digital evidence, an expired emergency power, and an operator that disappears. Also test successful amendment and ordinary completion. Otherwise we will build a superb system for explaining why nothing happened.
 
-A community whose recognition process does not fit the system becomes "unverified."
+## Bob: Can a Rule Survive Its Translation?
 
-A private wallet provider becomes identity landlord.
+A civic mesh can exchange a rule perfectly and still change its meaning.
 
-A service demands more credentials than it needs because the wallet makes asking easy.
+One institution's “resident” includes a person temporarily away; another's service model may treat the same absence as ineligibility. A translator can produce valid code for both and quietly lose the person between them. The bug is not in the grammar. It is in the agreement we thought we had.
 
-So the civic mesh must include recovery paths, offline alternatives, guardianship without domination, public fallback infrastructure, minimal disclosure, anti-coercion rules, and the right to participate without carrying a perfect digital passport to existence.
+I would like to test an agent that produces a **translation dossier** alongside a proposed mapping: the shared obligations it preserves, the assumptions it requires, the counterexamples where outcomes diverge and the questions it cannot decide. The translation would be incomplete in public, rather than complete by concealment.
 
-Identity tools should reduce dependency.
+Formal verification, model-based testing and semantic translation already supply parts of this discipline. The open wager is whether much stronger AI can make disputed meaning visible enough for differently governed communities to cooperate at scale without adopting one master model. Some obligations might admit proofs against explicit models. Others would require explanation, local knowledge and a decision that no proof can supply.
 
-They should not become dependency.
+A useful experiment would deliberately change a local definition, introduce an affected person absent from the training cases, or withdraw an assumption. Does the agent identify the lost standing before the service acts? Can each institution reject the mapping without losing unrelated services? Does the system expose the disagreement, or merely become more eloquent about its own interpretation?
 
-## Plural Membership
+Success would not be an automatic constitution compiler. It would be a new capacity for discovering where cooperation is real and where our apparent agreement is an artifact of translation. That seems a more interesting gift from a silicon civilization than teaching every human institution to speak the same convenient lie.
 
-A person may have standing in a decision through more than one form of belonging.
-
-This is ordinary life.
-
-The system finds it inconvenient.
-
-Municipality.
-
-Province.
-
-Nation.
-
-Indigenous nation or treaty relation.
-
-Watershed.
-
-Care mesh.
-
-Professional guild.
-
-Production cell.
-
-Data trust.
-
-Commons stewardship group.
-
-School community.
-
-Faith or cultural group.
-
-Digital civic forum.
-
-Machine-infrastructure impact zone.
-
-A person may be legally outside a municipality but affected by its watershed decision. A non-citizen resident may rely on local care systems. A child may have future standing. A professional may carry responsibility in a production cell. A community member may hold knowledge relevant to land use without owning land in the modern sense. A machine corridor may affect people who do not live beside it but depend on it.
-
-Old governance likes neat categories.
-
-Life enjoys refusing them.
-
-The civic mesh must support overlapping memberships without forcing them through one citizenship category. It must represent layered standing: territorial, relational, functional, ecological, professional, custodial, familial, historical, and future-facing.
-
-This does not mean every claim has equal weight in every decision.
-
-Standing must be defined.
-
-But it must be defined honestly.
-
-A downstream community has standing in upstream contamination. A care recipient has standing in care-routing rules. A worker displaced by machine logistics has standing in machine-burden policy. A First Nation has standing that is not reducible to stakeholder status. Future people require proxy standing in decisions that burden the commons.
-
-Plural membership is messy.
-
-So is justice.
-
-## Rights Across Meshes
-
-Rights must travel across contexts.
-
-Fluid participation without stable rights becomes civic weather. Pleasant when calm, deadly when it turns.
-
-A person moving through civic meshes --- municipal, care, production, digital, ecological, professional, educational --- should not lose fundamental protections because the interface changed.
-
-Due process.
-
-Privacy.
-
-Identity integrity.
-
-The right to contest automated decisions.
-
-The right to leave or revoke delegation.
-
-The right to access public services.
-
-The right to be represented in affected decisions.
-
-Rights tied to treaty or community membership.
-
-Rights of children and future generations.
-
-Protections attached to ecological commons.
-
-These must survive fluidity.
-
-This is the guardrail against civic meshes becoming conditional clubs. A production cell cannot say: you accepted our local protocol, therefore you waived safety. A data trust cannot say: you joined our service, therefore your appeal rights are decorative. A care mesh cannot say: our optimization says no recourse today. A local majority cannot say: our mesh voted away a minority's rights.
-
-Rights are the floor beneath participation.
-
-The question is:
-
-How do rights remain stable when participation becomes fluid?
-
-The answer belongs partly to protocol, partly to law, partly to culture, and partly to the stubborn refusal to let convenience become sovereignty.
-
-## Liquid Delegation
-
-Delegation is not surrender if the thread remains in the citizen's hand.
-
-Liquid delegation allows a person to delegate decision-making power on specific issues to someone they trust, and revoke it.
-
-Energy policy to a local energy steward.
-
-Health policy to a patient advocate.
-
-Water decisions to a watershed council representative.
-
-Technical AI audits to a certified reviewer.
-
-Budget questions to a community finance steward.
-
-This recognizes a truth old democracy often hid under ceremony: no one knows everything. The public is not a single brain. Governance works when trust can move toward competence without hardening into permanent authority.
-
-But delegation requires guardrails.
-
-Scope.
-
-Time limit.
-
-Revocation.
-
-Transparency.
-
-Conflict-of-interest disclosure.
-
-Visible delegation chains.
-
-No coercive delegation.
-
-Safeguards against vote markets.
-
-Non-delegable rights.
-
-Delegation must be understandable. If a citizen cannot tell where their authority went, delegation becomes disappearance. If delegation chains become too long, power hides in the chain. If trusted delegates accumulate too much authority, they become informal barons. If delegation can be bought, citizenship becomes liquidity and democracy becomes another market with better badges.
-
-Liquid systems need solid foundations.
-
-The citizen must retain the thread.
-
-## Civic Credentials Without Castes
-
-Credentials are necessary.
-
-Credentials are dangerous.
-
-This is civilization in miniature.
-
-A credential can prove competence, training, local standing, emergency authorization, professional qualification, lived-experience recognition, or machine-operator authority. Without credentials, trust becomes too slow, risk rises, and every system must either believe everyone or exclude everyone.
-
-But credentials can become caste.
-
-Who gets certified?
-
-Who certifies the certifier?
-
-Does lived knowledge count?
-
-Can poor people access training?
-
-Do credentials expire?
-
-Can they be challenged?
-
-Can they be abused?
-
-Do they become gates protecting professions more than the public?
-
-Civic credentials must have many pathways: formal education, apprenticeship, community attestation, peer review, challenge exams, time-limited emergency credentialing, revocation for abuse, appeal, and recognition of lived experience where appropriate.
-
-A water steward may hold scientific credentials.
-
-Another may hold place-based knowledge.
-
-A machine auditor may hold technical certification.
-
-A community witness may hold local legitimacy.
-
-A youth delegate may hold future-facing standing, not expertise.
-
-The system must distinguish these without ranking all of life by credential prestige.
-
-Competence matters.
-
-So does avoiding credential monarchy.
-
-Who gets to certify competence, and how does competence avoid becoming a caste?
-
-That is the builder's question.
-
-## Protocol Governance
-
-A protocol is a constitution with fewer flags and more edge cases.
-
-It defines who may participate, what counts as valid input, how decisions are made, how records persist, how disputes are handled, how upgrades occur, who can fork or exit, what rights cannot be overridden, and what happens in emergency mode.
-
-Protocols are not neutral.
-
-They encode power.
-
-A quorum rule decides who can block. An eligibility rule decides who counts. A data field decides what can be seen. An appeal path decides whether harm becomes repair or resentment. An upgrade process decides whether the system can evolve or calcify. An emergency mode decides whether crisis becomes temporary authority or permanent appetite.
-
-In older civics, constitutions and laws carried these questions.
-
-They still will.
-
-But in civic meshes, protocols become part of the constitutional environment. They do not replace politics. They structure political possibility.
-
-The danger is technocratic laundering.
-
-"We did not decide; the protocol decided."
-
-No.
-
-Someone designed the protocol. Someone approved it. Someone benefits from its defaults. Someone is harmed by its blind spots. Someone can change it, or cannot.
-
-Protocol governance requires transparency, participation, versioning, audit, amendment rules, rights floors, emergency sunset clauses, and public explanation.
-
-The code may execute.
-
-Legitimacy must still be earned.
-
-## Federation Without Chaos
-
-Federation is not the absence of center.
-
-It is the refusal to let one center become the whole.
-
-In a federated civic system, many systems coordinate without becoming one master system. Local autonomy remains. Shared standards exist. Rights floors travel. Records can interoperate. Disputes can be routed. Exit and fallback paths exist. Authority nests rather than melts.
-
-This is hard.
-
-Fragmentation.
-
-Inconsistent rights.
-
-Local capture.
-
-Interoperability failure.
-
-Identity duplication.
-
-Complexity burdens.
-
-Hidden centralization by standards vendor.
-
-Too much federation and no one knows which door to knock on. Too little and one master platform becomes the new state, only without elections and with a friendlier onboarding flow.
-
-Federation needs shared protocols, mutual recognition, dispute routing, common rights floors, plural governance, and the humility to admit that some matters require central coordination.
-
-Local climate adaptation may be local.
-
-Watersheds cross lines.
-
-Public health crosses lines faster.
-
-Machine freight crosses lines constantly.
-
-Rights must cross lines even when convenience would prefer they not.
-
-A good federation lets differences persist without making coordination impossible.
-
-A bad federation is either chaos with branding or centralization with decorative nodes.
-
-## Jurisdiction and Dispute Routing
-
-The future will not lack rules.
-
-It will drown in overlapping rules unless dispute routing becomes civic infrastructure.
-
-Consider the cases:
-
-Data trust versus municipality.
-
-Indigenous nation versus provincial infrastructure agency.
-
-Production cell versus federal safety regulator.
-
-Care mesh versus insurance system.
-
-Machine actor causing harm across regions.
-
-Compute facility affecting watershed and grid.
-
-A citizen misclassified by a system that spans public and private layers.
-
-Who hears the dispute?
-
-Who has standing?
-
-Which rights floor applies?
-
-What record travels?
-
-What process pauses the harm?
-
-What can be appealed?
-
-Which layer has emergency authority?
-
-How does a local decision interact with federal law, treaty obligations, data covenant, and public safety?
-
-Jurisdiction mapping becomes essential.
-
-Standing rules.
-
-Conflict escalation.
-
-Mediation layers.
-
-Appeals.
-
-Constitutional rights floors.
-
-Emergency procedures.
-
-Restorative pathways.
-
-Records of precedent.
-
-The old world already had jurisdictional complexity. The new one adds data, machines, meshes, models, and commons. If we do not design dispute routing, ordinary people will become the routing layer. They will be told to contact the municipality, province, vendor, regulator, platform, trust, steward, help desk, court, and perhaps an oracle who retired in 2037.
-
-This is not governance.
-
-It is a maze with public funding.
-
-Dispute routing is dignity.
-
-It tells the harmed person where to go.
-
-It tells power where to answer.
-
-## Machine Actor Registries
-
-A machine may act, but responsibility must have an address.
-
-Machine actors include autonomous freight fleets, production robots, AI trading systems, compute clusters, grid-balancing agents, care-routing AIs, public-service bots, and synthetic agents representing institutions.
-
-They must not drift through civic life as unregistered ghosts.
-
-A registry should include responsible human or legal entity, operational scope, permissions, audit logs, safety certifications, tax or tonnage obligations, incident history, shutdown authority, public-risk category, and contact path for harm.
-
-The machine actor registry is not about pretending the machine is a citizen.
-
-It is about preventing responsibility from evaporating into automation.
-
-If an autonomous freight system damages a road, underreports weight, injures someone, or reroutes through a restricted zone, who answers?
-
-If a care-routing AI deprioritizes a vulnerable group, who answers?
-
-If a production robot produces unsafe components, who answers?
-
-If a grid agent causes cascading failures, who answers?
-
-"System error" is not a civic address.
-
-A machine actor may be complex.
-
-Responsibility must remain locatable.
-
-## Taxation and Measurement Protocols
-
-The Silicon Tonnage Tax needs measurement architecture.
-
-Possible signals include compute load, energy draw, autonomous freight mass and distance, machine transaction value, robotic productive output, infrastructure burden, public-risk exposure, ecological externalities, data extraction volume, and model deployment scale.
-
-Each signal can be gamed.
-
-Each signal can become surveillance.
-
-Each signal can burden small operators or entrench large incumbents.
-
-Each signal can measure the wrong thing with the confidence of a spreadsheet wearing a crown.
-
-Tax protocols must measure burden without becoming a universal spyglass.
-
-That means thresholds, aggregation, auditability, privacy protections, anti-avoidance rules, public-interest exemptions, local burden factors, and contestable assessments.
-
-A production cell making emergency medical parts should not be treated like an extractive automated megafactory. A data center training private models on public data should not hide behind the same category as a public-interest climate model. A freight fleet moving essential goods during crisis may require different treatment than a private logistics system optimizing profit while wearing out public roads.
-
-Measurement must be proportional.
-
-Transparent.
-
-Appealable.
-
-Difficult to avoid.
-
-Hard to weaponize.
-
-Easy enough to understand that citizens can contest it before the formulas become priesthood.
-
-No tax system is perfect.
-
-The aim is not perfection.
-
-The aim is legitimacy with teeth.
-
-## Civic Audit Trails
-
-Governance should be transparent at the level of authority, not naked at the level of persons.
-
-A civic decision needs an audit trail:
-
-Who decided?
-
-Under what authority?
-
-Based on what evidence?
-
-With what delegation?
-
-Who dissented?
-
-What recourse exists?
-
-When is review scheduled?
-
-What changed afterward?
-
-This does not mean exposing every private participant, every vulnerable citizen, every medical fact, every personal circumstance, or every community-sensitive detail. Audit is for power. Surveillance is for people. A humane system must know the difference.
-
-Authority should be visible.
-
-Persons should remain protected.
-
-An audit trail should let a citizen see why a machine tax assessment was issued, who approved a local mesh rule, what evidence guided a water decision, how delegation affected a vote, who reviewed an AI deployment, what dissent was recorded, and how to appeal.
-
-It should not create a public humiliation archive for everyone who participated.
-
-Civic audit trails are how governance remembers without becoming gossip.
-
-## Anti-Capture Architecture
-
-Civic meshes can be captured.
-
-By platform vendors.
-
-Governments.
-
-Local elites.
-
-Technical standards bodies.
-
-Credential monopolies.
-
-Political factions.
-
-Machine operators.
-
-Validators.
-
-Auditors.
-
-Data holders.
-
-Anyone who says their architecture is capture-proof has either not met power or is selling it.
-
-Safeguards must be built in:
-
-Rotation.
-
-Term limits.
-
-Open standards.
-
-Independent audits.
-
-Conflict disclosure.
-
-Public-interest licensing.
-
-Portability.
-
-Appeals across layers.
-
-Minority protections.
-
-Anti-monopoly rules.
-
-Civic education.
-
-Emergency sunset clauses.
-
-No single safeguard is sufficient. Capture is adaptive. It learns. It wears the vocabulary of whatever system it enters. In civic meshes, capture will speak of efficiency, safety, local values, innovation, sovereignty, urgency, trust, expertise, and continuity. Some of those words will be true. That is why capture is difficult.
-
-Anti-capture architecture must assume good people can be pressured and bad actors can be patient.
-
-The mesh must survive both.
-
-## Upgrade and Amendment
-
-Protocols must change.
-
-A civic protocol that cannot change becomes brittle. A protocol that changes too easily becomes untrustworthy. The question is not whether change is allowed, but how.
-
-Who can propose changes?
-
-Who approves?
-
-What requires supermajority?
-
-What rights are unamendable?
-
-How are minorities protected?
-
-What is the rollback path?
-
-What happens when standards diverge?
-
-How are urgent patches handled?
-
-How are changes explained to ordinary citizens?
-
-The software world learned versioning because untracked change produces chaos. Civic systems need versioning even more, because the users cannot simply uninstall the municipality.
-
-Amendment rules are where the living character of the protocol meets the stability of rights.
-
-A system designed for co-authorship must not freeze.
-
-But it must not become a document anyone with enough influence can edit at midnight.
-
-The old constitutional question returns in new clothing:
-
-How does a people bind itself enough to be trusted, and free itself enough to adapt?
+<!-- Legacy closing retained for Sam/Claude; reconcile its meeting and unified-identity return with the new projection. Noesis remains reserved. -->
 
 ## Civic Meshes
 
@@ -847,3 +286,19 @@ A civic mesh can route authority. It can register machines, measure burdens, del
 But the first time it harms someone --- and it will --- the architecture meets its oldest judge.
 
 The next gate asks whether our systems can become fair before they become confident.
+
+[^v3-29i-baird]: Science Museum Group, [“Experimental television receiver used by JL Baird in demonstration, made 1925–1926”](https://collection.sciencemuseumgroup.org.uk/objects/co34789), object 1931-57. The collection record specifies **26 January 1926**, Baird's Frith Street laboratory, the thirty-hole scanning disc and modulated neon lamp. The passage does not assign the whole invention of television to a single person or confuse this demonstration with earlier experiments.
+
+[^v3-29i-vc]: W3C, [*Verifiable Credentials Data Model v2.0*](https://www.w3.org/TR/vc-data-model-2.0/), Recommendation, 15 May 2025; definitions of issuer, holder, verifier and verification, and selective/unlinkable disclosure and privacy considerations. Verification does not establish the truth or civic authority of every claim. The proposed mandate record goes beyond this credential format.
+
+[^v3-29i-context]: Martin Fowler, [“Bounded Context”](https://martinfowler.com/bliki/BoundedContext.html), 15 January 2014, explaining Eric Evans's domain-driven-design pattern. Different models and explicit mappings are the software technique; municipal jurisdiction and the delivery example are applications developed here.
+
+[^v3-29i-acl]: Microsoft Azure Architecture Center, [“Anti-Corruption Layer pattern”](https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer), on isolating and translating between different domain models. This architectural term concerns semantic coupling, not an anti-bribery institution.
+
+[^v3-29i-federation]: NIST, [*SP 800-63C-4: Digital Identity Guidelines—Federation and Assertions*](https://csrc.nist.gov/pubs/sp/800-63/C/4/final), 2025; [Common Federation Requirements](https://pages.nist.gov/800-63-4/sp800-63c/Federation/), especially trust arrangements, audience restriction and replay protection. Authentication federation does not establish political authority or the validity of a civic decision.
+
+[^v3-29i-dmn]: Object Management Group, [“Decision Model and Notation”](https://www.omg.org/dmn/) and [DMN 1.5](https://www.omg.org/spec/DMN/1.5/), August 2024. The standard supports explicit decision requirements and rules; its use here is limited to decisions that can responsibly be formalized.
+
+[^v3-29i-cap]: Seth Gilbert and Nancy Lynch, [“Perspectives on the CAP Theorem”](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf), *Computer* 45(2), 2012, 30–36, especially §2. Its atomic read/write formulation cannot guarantee a response to every request under partition. A service may choose different guarantees for different operations; civic legitimacy is outside the theorem.
+
+[^v3-29i-strangler]: Martin Fowler, [“Strangler Fig”](https://martinfowler.com/bliki/StranglerFigApplication.html), 22 August 2024, revisiting the incremental application-replacement pattern he described in 2004. The migration and acceptance-test example here is an original application to civic software, not a recommendation to bypass institutional authority.

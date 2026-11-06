@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-06",
+  "baseline_commit": "8622f73e6959ae001687a31961bf3b66b2e69e86",
+  "scope": "Pair29 substantive completion for later Sam/Claude literary pass",
+  "no_publication_or_external_handoff": true,
+  "source_inputs": [
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/5 Justice and Governance Design Charter.md",
+      "sha256": "4034478a9a0302fef682d88ff83dbf6c80e672751e43531fae4ab09c9c7c654a",
+      "read_scope": "Full charter read across two bounded reads, including governance, C4A, NGOC8, Juris/xJuris, XTACK and civic/constitutional limitations; justice material reserved in depth for pair30.",
+      "authority": "Author project design intent, not implemented capability or grant of jurisdiction"
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/4 Neuma, KAUSAR, Convergent, and Civic Belonging.md",
+      "sha256": "ff13411c93b3625f8ccc5c8b761151be58ba899e2fe313148e447ee304bb71b4",
+      "read_scope": "All headings; §§1.1–1.6,3.2–3.3,6.3–6.5,11.5–11.7; full §§14–15 and §§16.1–16.7. Other sections not read uniformly. Emphasis personal context, proxy consent, civic belonging, governance and external law.",
+      "authority": "Author project design intent, not implemented capability or grant of jurisdiction"
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/6 MOxAIC Charter.md",
+      "sha256": "7e7cf07cd5bb48dfa60bd85ea8753f3b960e63b3a1dcb974b053430981c3cfc5",
+      "read_scope": "Refresh of §§4.6–4.7,5.5–5.7,10.1–10.7 and selected§16, some long output partial. Earlier pair26 reading remains context; this is not a new full-charter reading.",
+      "authority": "Author project design intent, not implemented capability or grant of jurisdiction"
+    }
+  ],
+  "preservation_checks": {
+    "chapter_historical_braid_verbatim": true,
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "chapter_closing_verbatim": true,
+    "interlude_closing_verbatim": true,
+    "old_technical_mirror_preserved_verbatim": true,
+    "no_author_annotations_removed": true,
+    "source_snapshot_matches": true,
+    "only_two_manuscripts_prepared": true
+  },
+  "preflight": {
+    "manuscripts/volume-3/29-chapter.md": {
+      "defined_notes": 9,
+      "note_references": 11,
+      "bookwide_collisions": [],
+      "math_nodes": 0,
+      "image_paths": [
+        "../assets/shared/chapter-arrow.png"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 11
+    },
+    "manuscripts/volume-3/29-interlude.md": {
+      "defined_notes": 8,
+      "note_references": 8,
+      "bookwide_collisions": [],
+      "math_nodes": 1,
+      "image_paths": [
+        "../assets/shared/interlude-gear.png",
+        "../assets/v3-29-interlude/mandate-to-action.svg"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 8
+    }
+  },
+  "manifest_changes": "Only original v3-26-chapter and v3-26-interlude active_source.sha256, at current29 paths",
+  "manuscripts": [
+    {
+      "path": "manuscripts/volume-3/29-chapter.md",
+      "before_sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "after_sha256": "de32a5badc7e7a5e62b9285a852ee884bef804f3f6d8c586c99a6dfd67ad534b",
+      "before_whitespace_words": 5640,
+      "after_whitespace_words": 5676
+    },
+    {
+      "path": "manuscripts/volume-3/29-interlude.md",
+      "before_sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "after_sha256": "d8b244ec58267622b13875c13b39734a0fab88ba38f2ec2373ec25c68a7a532c",
+      "before_whitespace_words": 4361,
+      "after_whitespace_words": 4343
+    }
+  ],
+  "sources": [
+    {
+      "note": "v3-29c-burke",
+      "url": "https://www.gutenberg.org/files/15679/15679-h/15679-h.htm",
+      "locator": "Reflections; paragraph Society is indeed a contract and following partnership paragraph",
+      "verification_scope": "Primary text transcription, exact wording checked",
+      "limits": "Abbreviated excerpt with ellipsis; historical intergenerational argument, not endorsement of our governance.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29c-ostrom",
+      "url": "https://doi.org/10.1257/aer.100.3.641",
+      "locator": "AER100(3),641–672; IAD pp646–648; full primary paper at https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf",
+      "verification_scope": "Publisher metadata, paper introduction and relevant institutional-framework passages read; not full paper uniformly",
+      "limits": "Institutional decision levels and polycentricity provide foundations, not validation of fictional municipal powers or future AI outcomes.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29c-subsidiarity",
+      "url": "https://eur-lex.europa.eu/eli/treaty/teu_2016/art_5/oj/eng",
+      "locator": "TEU Article5(3)–(4); official full treaty indexed at https://eur-lex.europa.eu/eli/treaty/teu_2016/oj/eng/pdf",
+      "verification_scope": "Relevant official indexed primary clauses checked; HTML open hit JavaScript verification",
+      "limits": "Comparative design principles; no claim that EU law governs Canada. Exclusive/nonexclusive competence caveat belongs to EU formulation.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29c-participation",
+      "url": "https://www.oecd.org/en/publications/innovative-citizen-participation-and-new-democratic-institutions_339306da-en/full-report/component-8.html",
+      "locator": "2020 report chapter4; selection, remuneration/access, public response",
+      "verification_scope": "Relevant official report passages read, not all case studies",
+      "limits": "Recommendations and comparative work; no claim that remuneration alone cures bias or that all panels are binding.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29c-delegation",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/11468",
+      "locator": "Kahng, Mackenzie, Procaccia2018, publisher abstract/metadata",
+      "verification_scope": "Primary publisher indexed abstract checked; direct full article open403",
+      "limits": "Model-conditional results only; not universal empirical comparison. No full-paper review claimed.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29c-fiscal",
+      "url": "https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity",
+      "locator": "Dabla-Norris/deMooij,17June2024, sections on taxing AI and capital-income taxes",
+      "verification_scope": "Official article indexed text and returned summary/metadata checked",
+      "limits": "Design comparison is ours. No enacted2044regime, universal payroll collapse or current personalized tax advice.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-baird",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co34789",
+      "locator": "Object1931-57,description,date26January1926,mechanism",
+      "verification_scope": "Primary apparatus-custodian record read",
+      "limits": "London FrithStreet laboratory, not the RoyalInstitution building. No sole-inventor/first-ever-all-senses claim. No image copied.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-vc",
+      "url": "https://www.w3.org/TR/vc-data-model-2.0/",
+      "locator": "15May2025Recommendation; definitions and selective/unlinkable disclosure/privacy",
+      "verification_scope": "Relevant primary standard passages read",
+      "limits": "Credential truth, recognized authority and civic standing separate from proof verification. Selective disclosure/unlinkability depend on mechanism.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-context",
+      "url": "https://martinfowler.com/bliki/BoundedContext.html",
+      "locator": "15January2014, domain models and mapping between contexts",
+      "verification_scope": "Primary practitioner account read",
+      "limits": "Model boundary not political jurisdiction. Delivery example original.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-acl",
+      "url": "https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer",
+      "locator": "Context/problem and solution, model translation",
+      "verification_scope": "Official technical pattern relevant passages read",
+      "limits": "Semantic isolation not anti-bribery institution; does not guarantee lossless agreement.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-federation",
+      "url": "https://pages.nist.gov/800-63-4/sp800-63c/Federation/",
+      "locator": "SP800-63C-4 Common Federation Requirements; trust agreements, key/identifier establishment, protocol; audience and replay controls",
+      "verification_scope": "Relevant primary passages read; final publication metadata checked at https://csrc.nist.gov/pubs/sp/800-63/C/4/final",
+      "limits": "Identity federation not political federation. Mandate architecture and lease example are proposed extensions, not NIST political recommendations.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-dmn",
+      "url": "https://www.omg.org/dmn/",
+      "locator": "Decision requirements, tables and executable rules;1.5publicationAugust2024 at https://www.omg.org/spec/DMN/1.5/",
+      "verification_scope": "Official overview and version metadata read; not full normative specification",
+      "limits": "No claim this version is newest; interpretation/legitimacy not automatically formalizable.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-cap",
+      "url": "https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf",
+      "locator": "Gilbert/Lynch2012,§2; metadata at https://dspace.mit.edu/entities/publication/dfcb6512-af44-4fc9-8e8b-1a8f28f1b53a",
+      "verification_scope": "Primary paper introduction and theorem/model read; MIT publication metadata verified",
+      "limits": "Atomic/linearizable read-write model under partition, not pick-two slogan. Does not establish political legitimacy or prohibit all local availability.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29i-strangler",
+      "url": "https://martinfowler.com/bliki/StranglerFigApplication.html",
+      "locator": "22August2024account of gradual software replacement, original2004pattern",
+      "verification_scope": "Primary practitioner explanation read selectively",
+      "limits": "Software migration under authority, not institutional capture. Shadow execution examples ours.",
+      "accessed": "2026-11-06"
+    },
+    {
+      "note": "v3-29-abbasids",
+      "verification_scope": "Inherited source-backed historical braid and footnote retained verbatim from prior work, not independently re-verified in this pass",
+      "limits": "No historical event moved to a more convenient year; exact dates and qualifications retained."
+    },
+    {
+      "note": "v3-29-kingbyng",
+      "verification_scope": "Inherited source-backed historical braid and footnote retained verbatim from prior work, not independently re-verified in this pass",
+      "limits": "No historical event moved to a more convenient year; exact dates and qualifications retained."
+    },
+    {
+      "note": "v3-29-balfour",
+      "verification_scope": "Inherited source-backed historical braid and footnote retained verbatim from prior work, not independently re-verified in this pass",
+      "limits": "No historical event moved to a more convenient year; exact dates and qualifications retained."
+    }
+  ],
+  "future_assessment": {
+    "date": "2026-11-06",
+    "gate": "9AM11March2044, Authority at Machine Speed",
+    "status": "Optimistic conditional integration scenario; no source establishes a future date or universal state",
+    "baseline": "Established governance methods, credentials/federation standards, decision modelling, distributed-systems limits and incremental software migration",
+    "assumptions": "Much stronger agentic analysis/translation/administration; actual civic mandates, capable institutions and viable adoption still required; no guaranteed Neuverse/Tiers deployment"
+  },
+  "figure": {
+    "path": "manuscripts/assets/v3-29-interlude/mandate-to-action.svg",
+    "authorship": "Original code-native grayscale vector artwork",
+    "visual_check": "Final1000x1200PNG rendered and inspected: boxes, text, arrows and return-to-mandate paths readable; no third-party image"
+  },
+  "reserved": [
+    "Future opening prose and closing reconciliation",
+    "Personal affiliations and real recollections",
+    "Noesis andOpen29",
+    "Final density/voice pass",
+    "Further author Alice/Bob development",
+    "Whole-volume reconciliation and handoff"
+  ],
+  "post_install_checks": {
+    "chapter": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
+      "sha256": "de32a5badc7e7a5e62b9285a852ee884bef804f3f6d8c586c99a6dfd67ad534b",
+      "defined_notes": 9,
+      "note_references": 11,
+      "parsed_notes": 11,
+      "html_note_backlinks": 11,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    "interlude": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
+      "sha256": "d8b244ec58267622b13875c13b39734a0fab88ba38f2ec2373ec25c68a7a532c",
+      "defined_notes": 8,
+      "note_references": 8,
+      "parsed_notes": 8,
+      "html_note_backlinks": 8,
+      "display_equations": 1,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    "git_diff_check": "passed",
+    "visual_figure": "Final 1000×1200 grayscale PNG rendered and inspected; labels, branches and feedback paths readable.",
+    "publication": "not performed"
+  },
+  "completed_on": "2026-11-06"
+}

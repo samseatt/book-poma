@@ -123,3 +123,9 @@ Substantive completion now covers Θ foundations and numbered pairs **23–27**.
 [Brief](volume-3-drafting/28-substantive-completion-2026-11-06.md) and [2041 projections](volume-3-drafting/28-vignette-constructions-2041.md). C28/I28 now carry material need through accountable production, service and recovery, informed by the requested Neufacture charter and the enclosing-ecosystem requirement. Designer methods and builder mechanisms are taught through an actual repair comparison, two production routes, a tolerance calculation and a grayscale diagram. The 501/1901/2041 braid is preserved; the interlude's technical mirror is dated 10 December 1901.
 
 Substantive completion now covers Θ foundations and numbered pairs **23–28**. Final projections, closing reconciliation, Noēsis, Opens and full-volume consistency remain pending for Sam/Claude. The final handoff remains withheld. Pair 29 is next when the author requests it.
+
+## Pair 29 substantive pass completed — 6 November 2026
+
+[Brief](volume-3-drafting/29-substantive-completion-2026-11-06.md) and [2044 projections](volume-3-drafting/29-vignette-constructions-2044.md). C29/I29 now teach authority placement, participation and delegation, followed by mandates and interoperable civic execution. Charter responsibilities, fiscal measures and political versus technical agreement are kept distinct. The 751/1926/2044 braid is preserved; I29's technical mirror is explicitly 26 January 1926. Original openings/closings remain reserved, with concrete replacement ideation supplied.
+
+Substantive completion now covers Θ foundations and numbered pairs **23–29**. Final projection prose, closing reconciliation, Noēsis, Opens and whole-volume consistency remain pending for Sam/Claude. The full handoff remains withheld. Pair30 is next when the author requests it.

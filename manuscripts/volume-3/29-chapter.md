@@ -8,7 +8,9 @@ CHAPTER 29
 
 *STEWARDSHIP*
 
-> "Society is a partnership not only between those who are living, but between those who are dead, and those who are to be born." --- **Edmund Burke**
+> “a partnership … between those who are living, those who are dead, and those who are to be born.” --- **Edmund Burke**[^v3-29c-burke]
+
+<!-- Legacy projection retained verbatim as a prose bank, not a forecast or factual memoir. Reconstruct as explicitly prospective thought at 9 AM, 11 March 2044; see work/volume-3-drafting/29-vignette-constructions-2044.md. Its universal payroll claim and composite tonnage formula are superseded by the substantive distinctions below. -->
 
 On March 11, 2044, I sat in a civic hall where democracy was trying to learn new physics.
 
@@ -104,6 +106,8 @@ The other represented authority emerging through systems.
 
 Between them sat a room full of people trying to decide whether democracy could learn to measure the machine age without becoming one more machine.
 
+<!-- End of reserved opening. AI-assisted substantive completion, 6 November 2026; historical braid preserved. -->
+
 ## When Machines Carry the Weight
 
 The old state learned to govern persons, land, property, corporations, borders, votes, licenses, courts, schools, roads, wages, and visible economic activity.
@@ -174,657 +178,144 @@ The Breadboard can test a small dispute with real boundaries: two participants c
 
 ## Governance After Trust Collapse
 
-Governance cannot simply ask people to trust institutions again.
+Governance cannot simply ask people to trust institutions again. That sentence would have been easier to write in a century less committed to disappointing trust.
 
-That sentence would have been easier to write in a century less committed to disappointing trust.
+Trust has been spent by states, parties, corporations, experts, media, platforms, professions, and the occasional neighborhood committee with a surprisingly authoritarian approach to landscaping. Some distrust is deserved; some is cultivated by people who would like the institution's powers without its restraints. Neither problem is repaired by adding a reassuring adjective to governance.
 
-Trust has been spent by states, parties, corporations, experts, media, platforms, professions, markets, and the occasional neighborhood committee with a surprisingly authoritarian approach to landscaping. Some of that spending was earned. Some was slander. Some was misinformation. Some was institutional arrogance. Some was the ordinary decay that comes when systems ask for patience and deliver procedure.
+Start with a decision someone actually needs made. Who can propose it? Who has standing to object? Who may decide, who must carry it out, and who can require reconsideration? These are different responsibilities. A brilliant analyst may have no mandate to choose. An elected body may have a mandate but lack the competence to implement its choice. An operator may know how to keep the service running while having no right to rewrite its purpose.
 
-Old legitimacy drew from tradition, law, elections, expertise, bureaucracy, national identity, and economic performance.
+Institutional analysis distinguishes decisions within rules from decisions about those rules, and from decisions about who may change them. Ostrom's work makes these nested settings examinable rather than treating “the government” as a single actor with a single lever.[^v3-29c-ostrom] Applied to an automated freight corridor, the distinction becomes quite tangible:
 
-All are strained.
+| Decision | Appropriate question of authority |
+| --- | --- |
+| Route a vehicle within agreed conditions | Has the operator stayed within its current mandate? |
+| Change the corridor's night operating limits | Which competent bodies may amend the rule, after which participation and evidence? |
+| Transfer that rule-making power to a regional body | What law or agreement permits the transfer, and who must authorize it? |
 
-Tradition has been exposed as both wisdom and cover story.
+These are design questions, not a claim that a table can settle Canadian jurisdiction. The actual answer depends on the place and the powers involved. Software should make the answer inspectable. It should not quietly supply an answer of its own.
 
-Law can protect or delay.
-
-Elections remain essential, but episodic.
-
-Expertise is necessary, but mistrusted.
-
-Bureaucracy can preserve fairness or mummify responsibility.
-
-National identity can bind or intoxicate.
-
-Economic performance can conceal ecological and social insolvency until the bill arrives wearing flood boots.
-
-New legitimacy must be structurally earned.
-
-Proximity to impact.
-
-Inspectability.
-
-Recourse.
-
-Participation.
-
-Performance.
-
-Fairness.
-
-Transparency of limits.
-
-Protection of plural belonging.
-
-Stewardship of commons and future people.
-
-Legitimacy is not what authority says about itself.
-
-It is what remains when affected people can still enter, contest, and correct the system.
-
-That does not mean every decision becomes a town hall. Anyone who has attended enough town halls knows democracy also needs mercy. But it does mean governance must be designed around answerability, not merely authority.
-
-A system that cannot be inspected asks for faith.
-
-A system that cannot be appealed asks for obedience.
-
-A system that cannot be corrected asks for revolt.
-
-## From Representation to Participation
-
-Representation remains necessary.
-
-Let us protect this truth from fashionable demolition. Not everyone can deliberate on everything. Not everyone wants to. Not everyone should. Some people have jobs, children, pain, crops, patients, aging parents, three unread public notices, and a washing machine making a noise that sounds legally significant.
-
-A society that demands constant participation from everyone will be governed by the retired, the obsessive, the well-funded, the angry, the professionally civic, and the man who has never met a microphone he did not believe needed him.
-
-Participation must not become unpaid civic homework for already-exhausted people.
-
-Still, representation alone is no longer enough.
-
-People cannot vote once every few years and call that democratic participation when systems update continuously, algorithms route services, local production cells make safety decisions, care meshes triage need, data trusts govern public knowledge, and machine actors move through infrastructure faster than legislation can put on its shoes.
-
-Participation can take many forms:
-
-Local deliberation.
-
-Delegated decision-making.
-
-Issue-specific councils.
-
-Citizen juries.
-
-Digital consultation.
-
-Participatory budgeting.
-
-Stewardship roles.
-
-Civic audits.
-
-Public review of algorithms.
-
-Local mesh governance.
-
-Rights to initiate review.
-
-Participation must be designed for time poverty, accessibility, translation, disability, caregiving burden, digital divide, conflict mediation, and representation of absent or future stakeholders.
-
-The goal is not to make every citizen govern everything.
-
-The goal is to ensure every person has meaningful pathways to shape the systems that shape them, directly or through trusted delegation, with rights that cannot be voted away while no one is looking.
-
-Representation asks: who speaks for you?
-
-Participation asks: how can you enter, revise, contest, delegate, and help maintain the system?
-
-A humane governance system needs both.
+The distinction also protects speed. Most journeys should need no new deliberation. A valid rule can authorize thousands of routine actions while reserving a much smaller set of consequential changes for accountable judgment. If every truck requires a town hall, the problem is unlikely to be insufficient compute.
 
 ## Authority at the Edge
 
-The edge is where consequences arrive first.
+The edge is where consequences arrive first: the street that floods, the clinic that overloads, the workshop that knows which part keeps failing, the Nation whose land a distant plan has labelled capacity. Proximity supplies knowledge. It does not confer innocence.
 
-The street that floods.
+**Subsidiarity** asks whether a function can be adequately handled closer to those affected before assigning it upward. **Proportionality** asks whether the intervention exceeds what its purpose requires. The European Union gives these principles a particular legal formulation; here they are design tests, not imported Canadian law.[^v3-29c-subsidiarity] A neighborhood can manage some shared spaces well. It cannot settle downstream water burdens simply by voting that they belong downstream.
 
-The clinic that overloads.
+The companion principle is **polycentricity**: several centres of decision operating under arrangements that let them cooperate, learn and constrain one another. Ostrom's research challenges the assumption that complex provision must resolve into either a single public authority or a market.[^v3-29c-ostrom] It does not make every local arrangement legitimate. A council can be captured as efficiently as a ministry, occasionally with better parking.
 
-The school that sees the child before the ministry sees the statistic.
-
-The workshop that knows which part keeps failing.
-
-The Nation that knows the land before the project calls it capacity.
-
-The caregiver who knows that a policy has become cruel because she is holding the body it forgot.
-
-Authority should move closer to such edges.
-
-But the edge is not always wiser.
-
-It is simply closer.
-
-Closeness must be paired with constraints.
-
-Edge authority belongs where local knowledge matters, consequences are local, rapid adaptation is needed, community trust is essential, and one-size-fits-all rules fail.
-
-Central or federated authority belongs where rights must be protected, commons cross boundaries, standards are needed, externalities travel, large infrastructure is involved, local capture is likely, or future generations need proxy representation.
-
-A neighborhood may know how to route care better than a distant ministry.
-
-It may also exclude the unpopular neighbor.
-
-A production cell may know what repairs are needed.
-
-It may also cut corners under pressure.
-
-A local data trust may protect sensitive knowledge.
-
-It may also be captured by a few gatekeepers.
-
-A provincial grid operator may coordinate energy at scale.
-
-It may also flatten place into load.
-
-The question is not center versus edge.
-
-The question is placement.
+Place authority by knowledge, consequence, capacity and rights together. Local discretion may suit a maintenance schedule; a watershed problem requires coordination across the watershed. Some protections need review beyond the body accused of violating them. Indigenous governments, municipalities, provinces and voluntary associations enter such arrangements with different sources of authority. “Mesh member” cannot replace those distinctions.
 
 Authority is like a load-bearing beam. Put it in the wrong place and the roof develops opinions.
 
-The future governance system must be layered: local where consequence is local, federated where consequence travels, central where rights require protection, and constrained everywhere power begins enjoying itself.
+This is also where the ecological constraint becomes constitutional. The surrounding ecosystem is not merely another customer. A governing body should establish enforceable limits, monitoring responsibilities and recovery obligations for what its programme draws from the living world. Some harms can be reduced or compensated; others rule out the proposal. xGaia could help disclose those conditions. It would not acquire ownership of a watershed by becoming good at measuring one.
 
-## Liquid Delegation and Civic Roles
+## Participation Without Conscription
 
-Citizenship should not mean everyone votes on everything.
+Representation remains necessary. Let us protect this truth from fashionable demolition. People have jobs, children, pain, crops, patients, aging parents, three unread public notices, and a washing machine making a noise that sounds legally significant.
 
-That way lies madness, fatigue, and public decisions made by whoever has read the PDF least carefully but feels most alive in the comment section.
+A society that demands constant participation will select for those who can afford it. Providing a comment box does not correct the selection.
 
-Liquid delegation offers a different pattern. A person can delegate decision-making power on specific issues to someone they trust --- by topic, time period, locality, expertise, or civic role --- and revoke that delegation.
+Design the route into a decision as carefully as the decision itself. For a consequential rule change, a representative deliberative panel might combine random invitation with stratified selection, accessible evidence and opportunities to question competing experts. Pay for people's time; provide interpretation, disability access and caregiving support. OECD's comparative work identifies such arrangements and the importance of a public response to recommendations.[^v3-29c-participation] A panel's advice is not automatically binding. State its authority before asking people to spend a month discovering what their opinion was worth.
 
-Energy policy to a local energy steward.
+By 2044, capable agents could make participation much less exhausting: tracing a proposal's consequences for a household, comparing amendments, translating testimony, rehearsing counterarguments and preparing questions. That is a serious civic gain. It still matters who selected the evidence, which alternatives disappeared from the summary and whether the person can disagree with her helpful interpreter.
 
-Health policy to a patient advocate.
+Participation includes more than attending. A person may initiate review, contribute local evidence, serve a supported term, delegate a decision or decline involvement without losing ordinary services. A useful measure is the distribution of effective influence: whose proposal reached a decision, whose objection changed it, and who had to spend a working week obtaining an answer. Counting submissions measures the inbox.
 
-Water decisions to a watershed representative.
+## Delegation That Gives Power Back
 
-AI audit questions to a certified technical reviewer.
+Liquid delegation allows a participant to assign a decision to someone else within a defined subject and period, with a way to withdraw it. A person could entrust a transport question to a knowledgeable representative while retaining her own decision on care. This is a possible arrangement for a body entitled to adopt it, not a shortcut around existing electoral law.
 
-Budget questions to a community finance steward.
+Delegation needs a boundary: which decision, how long, whether further delegation is allowed, what conflicts must be disclosed and when revocation takes effect. Retaking a vote before the agreed cutoff differs from demanding that a completed public decision vanish afterward. Both need intelligible rules. A technical interface should not decide the distinction at midnight.
 
-Delegation is not surrender if the thread remains in the citizen's hand.
+Nor does a knowledgeable delegate guarantee a better collective judgment. Formal research on liquid democracy finds that some locally sensible delegation rules can perform worse than direct voting under the model's assumptions.[^v3-29c-delegation] Concentration, correlated mistakes and chains that few participants can follow deserve attention. “Everyone chose the same expert” is an explanation of a new centre of power, not a proof that none exists.
 
-The thread matters.
+Publish aggregate concentration and conflicts without exposing every private association. Prevent double counting and undisclosed delegation loops. Give people a practical way to exercise their own choice. Where concentration threatens the arrangement, change the procedure through its authorized amendment process; do not quietly discard valid votes to improve a dashboard.
 
-Scope.
-
-Time limit.
-
-Revocation.
-
-Transparency.
-
-Conflict-of-interest disclosure.
-
-Visible delegation chains.
-
-No coercive delegation.
-
-No vote markets.
-
-Non-delegable rights.
-
-This last point is essential. Some things cannot be delegated away because convenience is not sovereignty. A person may delegate attendance at a meeting. She may not delegate away her right to appeal harm. A community may delegate technical review. It may not delegate away its standing to contest extraction. A citizen may trust a steward. He must be able to withdraw trust without needing a lawyer, a priest, and three passwords.
-
-Civic roles become infrastructure.
-
-Steward.
-
-Auditor.
-
-Mediator.
-
-Technical reviewer.
-
-Commons trustee.
-
-Care representative.
-
-Youth delegate.
-
-Future-generation proxy.
-
-Local witness.
-
-Machine-systems examiner.
-
-These are not titles for people who enjoy committees, though some will, and should be monitored kindly. They are structured ways for citizens to help govern without requiring everyone to become full-time miniature states.
-
-Governance becomes lived when roles become enterable.
-
-## The Silicon Tonnage Tax
-
-The Silicon Tonnage Tax should be treated as a provocation, not a finished policy.
-
-Finished policies are where ideas go after they have been fed to lawyers, lobbyists, economists, committees, and reality. This one is still in the dangerous stage where it can tell the truth without having to fit on a form.
-
-The premise is simple:
-
-If machines carry productive weight, public finance must stop overburdening human labor and start recognizing machine burden, machine benefit, and machine extraction.
-
-Compute load.
-
-Energy draw.
-
-Autonomous freight tonnage.
-
-Machine-to-machine value transfer.
-
-Robotic production.
-
-Grid demand.
-
-Infrastructure wear.
-
-Carbon and resource use.
-
-Model deployment scale.
-
-Local extraction of value.
-
-The proposal asks whether public revenue should reflect the new productive substrate. If a data center draws heavily on grid capacity, land, water, public legitimacy, emergency services, and public data, it should help maintain the commons it burdens. If autonomous freight uses corridors, roads, airspace, logistics hubs, and public safety systems, it should contribute according to the weight it moves. If robotic production displaces payroll but increases output, public finance must see the output.
-
-But the dangers are real.
-
-Tax compute too bluntly and beneficial public-interest AI suffers.
-
-Tax automation badly and communities preserve dangerous work merely to protect revenue.
-
-Measure machine activity too deeply and the state builds a surveillance apparatus of production.
-
-Exempt too much and incumbents write themselves into invisibility.
-
-Tax small operators like large platforms and the system entrenches the giants.
-
-Measure the wrong thing and the economy optimizes for looking light while remaining heavy.
-
-So the design question is:
-
-How do we tax machine productivity without discouraging beneficial automation, entrenching incumbents, or creating a surveillance state of production?
-
-The answer will not be one tax.
-
-It will be a family of measurements, exemptions, thresholds, public-interest categories, commons obligations, local burden assessments, and audit rules that must remain contestable.
-
-The Silicon Tonnage Tax is not merely a revenue tool.
-
-It is a way of saying: machines may carry weight, but weight still lands somewhere.
-
-## Taxation as Moral Measurement
-
-Taxation is not only extraction by the state.
-
-It is moral measurement with enforcement powers.
-
-That is why taxation makes people nervous. A tax system does not simply collect. It declares: this counts, this burdens, this benefits, this belongs to the public, this privilege owes, this harm must be priced, this activity must help maintain what it uses.
-
-Old tax systems measured land, goods, income, payroll, profit, sales, inheritance, property.
-
-New systems may need to measure compute, data extraction, energy load, material throughput, automation displacement, commons burden, ecological draw, infrastructure usage, and public-risk externalities.
-
-Measurement does not guarantee justice.
-
-Many terrible systems measured beautifully. But what a society refuses to measure becomes easy to exploit.
-
-If payroll remains heavily taxed while machine throughput is lightly burdened, the system quietly favors replacing people while underfunding the public goods that make replacement tolerable.
-
-If data extraction is invisible, public knowledge becomes private capital.
-
-If energy burden is undercounted, the grid becomes a subsidy channel.
-
-If infrastructure wear is hidden, local communities pay for machine corridors with potholes and emergency response.
-
-If ecological draw is ignored, the future pays compound interest in smoke and water.
-
-But taxation must remain legitimate.
-
-Legibility.
-
-Public reasoning.
-
-Appeal.
-
-Proportionality.
-
-Anti-avoidance.
-
-Privacy protection.
-
-Rights floors.
-
-A tax system that sees everything becomes a spy.
-
-A tax system that sees too little becomes a subsidy for power.
-
-The civic art is seeing enough to sustain the commons without turning the commons into a glass house.
-
-## Stewardship as Civic Infrastructure
-
-A steward is not a nicer word for ruler.
-
-A steward holds care under accountability.
-
-This matters because the word can easily become costume. Every age has people eager to govern others while wearing the moral fabric of service. Kings were fathers. Empires were civilizers. Corporations are communities. Platforms are guardians. The vocabulary improves; the appetite remains.
-
-Stewardship must therefore be structured as civic infrastructure.
-
-Stewards need roles, powers, limits, terms, training, audits, recusal rules, and removal paths. They need to be entered, inspected, challenged, and replaced. They must be accountable to the commons they tend and the people affected by their tending.
-
-Roles might include:
-
-Civic steward.
-
-Commons keeper.
-
-Protocol reviewer.
-
-Care representative.
-
-Machine-systems examiner.
-
-Local ombuds.
-
-Deliberation host.
-
-Future-generation proxy.
-
-Auditor.
-
-Mediator.
-
-Trustee.
-
-Contributor.
-
-These roles should not become castes. Competence matters, but competence can become a fence. Expertise matters, but expertise can become priesthood. Local knowledge matters, but local knowledge can become local domination if nobody outside the circle can appeal.
-
-Good stewardship is plural.
-
-It has overlap.
-
-It has review.
-
-It has humility.
-
-It knows when to hand back the key.
-
-The steward's key ring is not a crown.
-
-It is a maintenance burden.
+Stewardship roles need the same discipline: defined powers, supported competence, terms, recusal, review and removal. Rotation alone can replace experienced stewards with novices dependent on a permanent technical caste. Pair renewal with institutional memory and independent advice. The steward's key ring is not a crown. It is a maintenance burden.
 
 ## Citizenship Beyond Passport
 
-Citizenship includes legal status.
+Legal citizenship still matters. Anyone who treats it as obsolete has probably not had to cross a border with the wrong papers or prove belonging to a clerk whose computer has already decided otherwise.
 
-It must.
+But the institutions shaping a life do not all share a border. A resident may bear a data centre's water demand without being its customer. A downstream community may be affected without belonging to the upstream association. Membership, exposure to consequences and legal standing are related questions; they are not synonyms. Our design should provide routes for affected people to be heard while respecting rights and obligations that already exist.
 
-Passports, rights, borders, law, obligations, and public services still matter. Anyone who treats legal citizenship as obsolete has probably not had to cross a border with the wrong papers, seek public health care, sponsor a family member, vote, pay taxes, or prove belonging to a clerk whose computer has already decided otherwise.
+C4A is the proposed civic membrane between participation in Neuverse and the surrounding civic world. It should help make standing, responsibilities and external recognition intelligible. NGOC8 is the proposed governance and stewardship coordination within that arrangement. Neither is a private sovereign. Neusphere may contribute shared understanding; understanding does not issue its own mandate. Juris and xJuris concern justice, challenge and repair, whose fuller machinery belongs to the next pair.
 
-But citizenship in the AI-speed age cannot be reduced to passport.
+A Neuma is a person, not the sum of credentials a platform can verify. KAUSAR's protected representation of a person's context may help an agent understand her intentions; it cannot make a convincing simulation count as fresh consent. Civic equality must survive differences of language, affiliation, digital access and willingness to disclose. There should be usable alternatives to a wallet, an always-connected device or an account with my project.
 
-The systems governing a life are not all inside one jurisdiction.
+Future people and nonhuman life cannot arrive with credentials of their own. Assign trustees or other advocates a defined duty to bring their interests into a decision, with evidence, scrutiny and a way to challenge a convenient interpretation. Such representation is fallible; a forecast does not tell us what an unborn person would vote for. Its purpose is to prevent absence from being counted as consent.
 
-A person may belong through municipality, province, nation, Indigenous nation or treaty relation, watershed, care mesh, professional guild, production cell, data trust, school community, faith or cultural group, digital civic forum, machine-infrastructure impact zone, and future-facing obligations that do not fit cleanly into a passport photo.
+MOxAIC adds a necessary restraint: cooperation need not finish in one worldview. Different communities may share a service while retaining distinct reasons, histories and internal arrangements. The agreement must identify the obligations they actually share, the differences they can accommodate, and the questions that remain unresolved. Non-convergence can be an honest outcome. It is not permission to ignore rights or pass one's consequences to a quieter neighbor.
 
-What does citizenship mean when the systems governing your life are not all inside your passport jurisdiction?
+## The Silicon Tonnage Tax
 
-This is the undertone of C4A: Citizenship for All, not as sentimental universal membership, but as the design challenge of layered standing, rights, roles, recourse, and obligation across the systems that shape life.
+The name is useful precisely until someone mistakes it for a unit.
 
-A resident affected by a data center may have standing even if not a shareholder.
+A tonne of freight, a kilowatt-hour, a litre of water and a dollar of profit do not measure the same thing. Nor does any of them directly measure a job displaced. The provocation asks how public finance follows productive power when less of its return may pass through wages. Its answer requires several instruments, with different purposes.
 
-A downstream community may have standing in an upstream water decision.
+| Purpose | Possible instrument | Design question that cannot be skipped |
+| --- | --- | --- |
+| Maintain infrastructure used by an activity | An authorized use charge tied to a relevant burden | Does the measure track actual cost, and are users paying twice for the same service? |
+| Reduce a damaging externality | A limit, standard or environmental charge | Is this a harm that may be traded off at all, and who bears the residual damage? |
+| Finance public provision and distribute gains | Taxes on income, profit, rents or wealth within the competent authority's powers | Who ultimately bears the burden, and where can the base escape or be disguised? |
+| Share returns from common investment or ownership | An agreed dividend, equity return or commons contribution | Who owns what, and can the arrangement survive without continually selling new claims? |
 
-A care recipient may have standing in algorithmic triage governance.
+These are alternatives to examine, not a tax package. A freight charge might support road upkeep; it does not thereby settle climate damage, land rights or the distribution of automation gains. An environmental payment cannot purchase consent that was never given. Chapter 25's ownership question remains distinct from the state's revenue question.
 
-A worker displaced by autonomous production may have standing in machine-burden policy.
+**Tax incidence** asks who ultimately pays, rather than whose name appears on the bill. A charge on an operator may fall partly on owners, workers, customers or landholders, depending on their alternatives and bargaining positions. Measure those consequences before declaring that a machine has paid society back. Machines are remarkably tolerant taxpayers when somebody else receives the invoice.
 
-A child may have future standing in today's infrastructure decisions.
+A 2024 IMF discussion cautioned against a special tax on AI itself and examined capital-income taxation and distortive incentives instead.[^v3-29c-fiscal] That is a useful challenge to this metaphor. We should not preserve exhausting work merely because payroll is easy to tax. Nor should we assume that the decline of payroll revenue is universal or that every automated task eliminates a livelihood.
 
-A community whose data trains a model may have standing in the benefits and harms produced.
+A proposed fiscal experiment therefore needs an identified purpose, lawful taxing or charging authority, a defensible base, distributional analysis, limited data collection, an appeal route and a review date. Model plausible avoidance and changes in behavior. Compare its administrative cost with what it raises or prevents. An instrument that only the largest firms can afford to comply with may subsidize concentration while congratulating itself on fairness.
 
-Citizenship becomes less like a single door and more like a set of rooms with rights to enter, speak, refuse, appeal, and help maintain.
+Machines may carry weight. Weight still lands somewhere. The useful design begins by finding out where.
 
-This is messy.
+## The Address for Responsibility
 
-So is life.
+A machine may act. Responsibility must not evaporate into it. “Autonomous” cannot mean “orphaned.”
 
-Clean systems often become clean by excluding reality.
+For consequential civic operations, identify the responsible people or legal entities, the permitted actions, the authority supporting those permissions and the obligations after failure. The extent of registration, assurance and public disclosure should follow the stakes. A household reminder does not need the registry imposed on an autonomous public transport operator.
 
-## Governance of Machine Actors
+Keep recommendation, authorization and execution distinguishable. An AI can prepare options; the competent body adopts a policy; a service applies it within a mandate. Combining these in one product does not remove the distinctions. A model update that changes who receives a service may be a policy change even if its release notes call it improved performance.
 
-A machine may act.
+At the 2044 gate, the ambition is to let considerable intelligence work freely inside legitimate bounds. Faster diagnosis, comparison and implementation can make public provision less wasteful and more responsive. Concentrate human attention where purposes, rights, uncertain consequences or the boundaries themselves are at issue. Do not require people to approve a torrent of actions they cannot meaningfully inspect and then call their exhausted click accountability.
 
-Responsibility must not evaporate into the machine.
+Emergency authority should specify its trigger, temporary scope, reporting, expiry and review. Essential services need a continuity plan if authority is disputed. Neither rule should depend on the emergency operator remembering to surrender a useful power.
 
-That is the first rule.
+## Build the Capacity to Be Corrected
 
-Autonomous freight fleets, production robots, AI trading systems, compute clusters, grid-balancing agents, care-routing AIs, public-service bots, synthetic agents representing institutions --- all can act economically, logistically, and administratively. They may cause harm, create value, consume resources, burden infrastructure, route decisions, and interact with citizens.
+A right to appeal is not a decorative exit sign. Someone must be able to reach the door.
 
-The practical governance question is not whether machines have rights here.
+People need a timely explanation, assistance proportionate to the stakes and review sufficiently independent of the disputed decision. Some matters can be corrected locally; others require an external body or an existing legal route. The next chapter takes up remedy in earnest. Here the design obligation is to reserve that route, fund it and stop the operator from being its only gatekeeper.
 
-It is who is responsible when machines act.
+Capture can begin before a decision reaches the public. Whoever controls the agenda, the evidence summary, the credential issuer, the hosting service or the rule translator may acquire an unofficial veto. Open source alone does not solve that. An alternative provider is useful only if another competent party can actually operate it, carry the records across and preserve service.
 
-Registration.
+Canada offers an instructive workbench because its arrangements remain plural and unfinished. Nations are not crystals. They are weather systems with paperwork. The 1926 episode does not license a new project to declare itself a government; it warns us to examine how powers are recognized, contested and changed.
 
-Responsible human or legal entity.
+Begin through a body that can legitimately act: a cooperative, service organization, municipality or other competent institution, with the scope appropriate to it. Agree on a bounded decision, resources, participation, independent scrutiny and criteria for continuing or ending the trial. A voluntary Neuverse experiment can test its own arrangements. It cannot manufacture public jurisdiction by accumulating users.
 
-Operational scope.
+Then measure correction as well as performance. Did the rule change when evidence warranted it? Could someone without an insider's vocabulary get an answer? Could a founder lose an argument without disabling the institution? The last test is inconvenient. It is also difficult to fake with a constitution printed on expensive paper.
 
-Permissions.
+## Alice: Can Intelligence Distribute Power?
 
-Audit logs.
+I keep returning to an inversion. We build large centres partly because coordination is expensive. What happens if intelligence makes the coordination much cheaper?
 
-Safety certifications.
+Perhaps communities could retain more authority while agents translate their differences, identify shared constraints and discover workable agreements. A Neusphere might help people understand one another without becoming the government that decides for them. More cognitive integration need not mean one political mind.
 
-Tax and tonnage obligations.
+But the same machinery could concentrate power in whoever owns the translator. It could make a thousand apparent local choices conform to one invisible prior. Federation would survive on the map while disappearing in the decisions.
 
-Incident history.
+The wager is whether we can increase the capacity to act together **without increasing dependence on an unaccountable centre**. Test more than agreement rates. Compare service quality, the distribution of effective decision power, the burden of participation, the protection of dissent and the ability to replace intermediaries. Let some communities use different agents and retain incompatible accounts of why they cooperate. See whether the arrangement remains workable when its founder, model provider or largest member withdraws.
 
-Shutdown authority.
+Polycentric governance is established intellectual ground. This proposed experiment concerns what much stronger machine intelligence does to its feasible scale and its hidden dependencies. The answer could strengthen the case for distributed agency, or expose a new species of throne. Either would teach us something worth knowing before we furnished it.
 
-Public-risk category.
+## The Next Move — Put One Rule Within Reach
 
-Liability chain.
+Choose one consequential rule in a system you use, build or help govern. Trace its authority, its effects and the procedure for changing it. Find someone affected who has little practical influence over it. Help make one defensible amendment enter that procedure, with evidence, an accountable decision-maker, the resources to implement a successful proposal and a public explanation if it is declined.
 
-Emergency override.
+The test is not whether your preferred wording wins. It is whether the rule can be revised through a route people can actually use, while the service continues and nobody acquires an unannounced crown. Neuverse needs participants willing to attempt that work. A civic experiment earns its name when its own rules can undergo it.
 
-No machine actor should operate in civic life without an address for responsibility.
-
-"Autonomous" cannot mean "orphaned."
-
-If an autonomous freight system damages a road, causes an accident, reroutes around safety protocols, or avoids a taxable corridor, someone must answer.
-
-If an AI care router misclassifies need, someone must answer.
-
-If a production robot produces uncertified parts, someone must answer.
-
-If a model acts as a public-service agent, someone must answer.
-
-Responsibility may be distributed, but it must be traceable.
-
-Otherwise autonomy becomes a laundering system for power.
-
-## Recourse as Legitimacy
-
-The right to appeal is not inefficiency.
-
-It is legitimacy breathing.
-
-Governance without recourse becomes domination, even when benevolent, efficient, data-driven, locally sensitive, carbon-aware, and accompanied by an excellent dashboard.
-
-People must have ways to challenge automated governance decisions, tax assessments, civic role assignments, eligibility judgments, public-risk classifications, local mesh rules, data or compute burdens, machine externality measurements, and decisions made by delegated authority.
-
-A person should be able to say:
-
-The system measured wrong.
-
-The tax base misclassified my operation.
-
-The machine actor caused harm.
-
-My delegation was misused.
-
-The local mesh excluded me.
-
-The data burden is unfair.
-
-The algorithmic classification lacks context.
-
-The steward has a conflict of interest.
-
-The public benefit did not return.
-
-Recourse must be accessible.
-
-Not theoretical.
-
-Not hidden under procedural archaeology.
-
-Not available only to those with time, money, lawyers, fluency, technical literacy, and the spiritual stamina to survive a portal.
-
-Appeal should be visible, timed, supported, and proportionate to stakes. Some appeals can be local. Some need external review. Some need judicial pathway. Some need emergency pause. Some need mediation. Some need public record.
-
-Recourse is how governance admits fallibility without collapse.
-
-It is how power breathes without becoming a machine for suffocation.
-
-## Anti-Capture at the Edge
-
-Local power is still power.
-
-This sentence should be placed above every decentralization proposal in letters large enough to trouble investors.
-
-Edge governance can be captured by local elites, corporations, technical experts, political factions, charismatic organizers, platform providers, local majorities suppressing minorities, credentialed stewards becoming guilds, or simply by those with enough time to attend every meeting and enough confidence to speak first.
-
-The edge is close.
-
-It is not pure.
-
-A neighborhood can be wise. It can also be cruel.
-
-A community can protect memory. It can also silence dissent.
-
-A local production cell can serve resilience. It can also become a private club.
-
-A data trust can protect community data. It can also be governed by a few people no one dares challenge.
-
-Anti-capture safeguards are therefore essential:
-
-Rotation.
-
-Transparency.
-
-Plural roles.
-
-External review.
-
-Minority rights.
-
-Conflict-of-interest rules.
-
-Public audit.
-
-Appeal beyond the local layer.
-
-Anti-monopoly infrastructure.
-
-Open standards.
-
-Term limits where appropriate.
-
-Protected dissent.
-
-Exit and fork paths where possible.
-
-A federated system must let the edge govern without letting the edge become a miniature empire.
-
-The point is not to distrust local authority.
-
-The point is to respect it enough to constrain it.
-
-## Canada as Workbench
-
-This chapter is a natural place for Canada to return.
-
-Not as hero.
-
-Not as moral crystal.
-
-Nations are not crystals. They are weather systems with paperwork.
-
-Canada's gift, when it has one, is not purity. It is the habit of surviving awkwardly between stronger forces until procedure becomes a kind of imagination.
-
-In 1926, a constitutional crisis helped clarify that Canadian authority could no longer be treated as merely borrowed imperial furniture. The shift was not a cinematic revolution. No guillotine, no barricade, no anthem written in the heat of blood. More procedure than thunder. A refusal, an election, a declaration, a reallocation of authority. Sovereignty redesigned through institutional friction rather than dramatic rupture.
-
-That matters here because the machine age will require similar reallocations.
-
-Authority must move from old imperial centers --- whether national, corporate, platform, or technical --- toward local legitimacy, federated coordination, and commons stewardship. Not by smashing every center. Centers still matter. But by making authority answerable to the layers where consequence is felt.
-
-Canada may be useful as workbench precisely because it is unfinished, plural, resource-bound, cold, dependent, adjacent to power, treaty-haunted, institutionally literate, and forced by geography to respect logistics even when ideology would prefer not to.
-
-A workbench does not need to be holy.
-
-It needs to be level enough to begin.
-
-In 2044, fiscal sovereignty in the speed age becomes another version of the same old question:
-
-Who has the right to decide when the old center no longer carries the whole reality?
-
-## Governance as Co-Authorship
-
-Governance is not where conflict disappears.
-
-It is where conflict becomes answerable.
-
-This is the highest concept of the chapter: governance as co-authorship.
-
-Not everyone writes every line. Not everyone sits at every table. Not every citizen becomes a policy drafter, algorithm auditor, budget reviewer, machine-tax specialist, water steward, and public-health interpreter before dinner. A system that required that would deserve polite collapse.
-
-Co-authorship means something more structured and humane.
-
-Affected people participate in shaping rules, roles, systems, metrics, budgets, taxes, commons, AI deployments, machine infrastructure, and local adaptations.
-
-They may participate directly.
-
-Through delegation.
-
-Through stewardship roles.
-
-Through citizen juries.
-
-Through audits.
-
-Through appeals.
-
-Through public evidence.
-
-Through veto rights in sensitive domains.
-
-Through rights that cannot be overridden.
-
-Through the ability to propose, challenge, revise, and exit.
-
-Co-authorship also means responsibility.
-
-This is the part less popular on banners.
-
-One cannot only demand rights. One enters the burden of the weave. The citizen who wants a say in the road must accept maintenance. The community that wants stewardship authority must accept audit. The technologist who wants systems deployed must accept public review. The taxpayer who wants revenue from machine weight must accept measurement constraints. The local mesh that wants authority must accept minority rights, appeal, and transparency.
-
-A citizen is not merely someone represented by a system.
-
-A citizen is someone with a pathway to help revise it.
-
-That is the steward's edge.
-
-The place where power becomes care, authority becomes answerable, and citizenship becomes less a status than a practiced capacity.
+<!-- Legacy closing retained for Sam/Claude; reconcile its civic-hall return and tax slogan with the revised projection and distinct fiscal instruments. -->
 
 ## Build Governance People Can Enter
 
@@ -896,8 +387,20 @@ Because democracy can learn new physics.
 
 But only if the pipes do not become chains.
 
+[^v3-29c-burke]: Edmund Burke, *Reflections on the Revolution in France* (1790), paragraph beginning “Society is indeed a contract,” in [*The Works of the Right Honourable Edmund Burke*, vol. III](https://www.gutenberg.org/files/15679/15679-h/15679-h.htm). The epigraph is an abbreviated excerpt from Burke's sentence, not the frequently circulated paraphrase. His argument concerns intergenerational partnership; the governance proposals here are not attributed to him.
+
 [^v3-29-abbasids]: *Encyclopaedia Iranica*, [“Abū Moslem Ḵorāsānī”](https://www.iranicaonline.org/articles/abu-moslem-abd-al-rahman-b/), especially the revolution, competing appointments in Fars and Abu Muslim's death in 755. The 751 cutoff concerns consolidation following the 750 overthrow, not a misdated revolution or a modern national succession.
 
 [^v3-29-kingbyng]: House of Commons, [*Procedure and Practice*, “The Parliamentary Cycle,” note 122](https://www.ourcommons.ca/marleaumontpetit/DocumentViewer.aspx?Language=E&Sec=Ch08&Seq=10); Library of Parliament, [*Transition to the 45th Parliament: Key Roles, Government Formation and Other Issues*, section 3.1.10](https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/HillStudies/PDF/2025-09-E.pdf). The crisis involved competing constitutional judgments; the passage does not treat Byng's refusal as an uncontested breach of law.
 
 [^v3-29-balfour]: Government of Canada, [“The Statute of Westminster, 1931”](https://www.canada.ca/en/intergovernmental-affairs/services/federation/statute-westminster.html), on the 1926 declaration, subsequent legislation and Canada's reservations about constitutional amendment.
+
+[^v3-29c-ostrom]: Elinor Ostrom, [“Beyond Markets and States: Polycentric Governance of Complex Economic Systems”](https://doi.org/10.1257/aer.100.3.641), *American Economic Review* 100(3), 2010, 641–672, especially the institutional-analysis framework at 646–648 and the discussion of polycentric systems; [accessible paper](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf). The freight decisions are an original application, not a finding about a particular Canadian jurisdiction.
+
+[^v3-29c-subsidiarity]: [Consolidated Treaty on European Union, Article 5](https://eur-lex.europa.eu/eli/treaty/teu_2016/art_5/oj/eng), particularly paragraphs 3–4. The chapter borrows the design questions of subsidiarity and proportionality, not the EU's specific division of legal competence.
+
+[^v3-29c-participation]: OECD, [*Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave*](https://www.oecd.org/en/publications/innovative-citizen-participation-and-new-democratic-institutions_339306da-en/full-report/component-8.html), 2020, chapter 4: representative selection, remuneration and access, and the public authority's response. These are design recommendations and comparative observations, not proof that paying participants alone eliminates participation bias.
+
+[^v3-29c-delegation]: Anson Kahng, Simon Mackenzie and Ariel D. Procaccia, [“Liquid Democracy: An Algorithmic Perspective”](https://ojs.aaai.org/index.php/AAAI/article/view/11468), *Proceedings of AAAI*, 2018. Its results concern specified mathematical models of voting competence and delegation; they do not establish a universal empirical ranking of political systems.
+
+[^v3-29c-fiscal]: Era Dabla-Norris and Ruud de Mooij, [“Fiscal Policy Can Help Broaden the Gains of AI to Humanity”](https://www.imf.org/en/blogs/articles/2024/06/17/fiscal-policy-can-help-broaden-the-gains-of-ai-to-humanity), IMF, 17 June 2024. The discussion distinguishes taxing AI directly from adjusting capital-income taxation and existing incentives. The instrument comparison and proposed trial here are the author's design analysis, not an enacted policy or a forecast for 2044.
