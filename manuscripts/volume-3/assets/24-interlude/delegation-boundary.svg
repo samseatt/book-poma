@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="600" viewBox="0 0 1080 600" role="img" aria-labelledby="title desc">
+<title id="title">From proposal to authorized action</title>
+<desc id="desc">A person grants scoped authority. An agent proposes an action. The enforcement gate obtains a policy decision using current grants and context, and only permits an authorized action to reach the provider. Receipts record outcomes; denied or unknown permission supplies no new authority.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+<rect width="1080" height="600" fill="white"/>
+<style>text {font-family:Arial,Helvetica,sans-serif;fill:#151515} .title{font-size:27px;font-weight:700}.h{font-size:23px;font-weight:700}.t{font-size:19px}.small{font-size:17px}.line{fill:none;stroke:#333;stroke-width:2;marker-end:url(#arrow)}</style>
+<text x="540" y="36" class="title" text-anchor="middle">From proposal to authorized action</text>
+<rect x="35" y="70" width="240" height="125" rx="7" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+<text x="155.0" y="104" class="h" text-anchor="middle">Person’s grant</text>
+<text x="155.0" y="136" class="t" text-anchor="middle">Purpose, acts, limits</text>
+<text x="155.0" y="162" class="t" text-anchor="middle">Expiry and withdrawal</text>
+<rect x="375" y="70" width="310" height="125" rx="7" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+<text x="530.0" y="104" class="h" text-anchor="middle">Policy decision</text>
+<text x="530.0" y="136" class="t" text-anchor="middle">Current grant + rules</text>
+<text x="530.0" y="162" class="t" text-anchor="middle">Actor, resource, context</text>
+<rect x="35" y="280" width="240" height="120" rx="7" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+<text x="155.0" y="314" class="h" text-anchor="middle">Assistant</text>
+<text x="155.0" y="346" class="t" text-anchor="middle">Builds a proposal</text>
+<text x="155.0" y="372" class="t" text-anchor="middle">Has bounded authority</text>
+<rect x="400" y="280" width="260" height="120" rx="7" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+<text x="530.0" y="314" class="h" text-anchor="middle">Enforcement gate</text>
+<text x="530.0" y="346" class="t" text-anchor="middle">Checks this action</text>
+<text x="530.0" y="372" class="t" text-anchor="middle">against the decision</text>
+<rect x="815" y="280" width="230" height="120" rx="7" fill="#f2f2f2" stroke="#333" stroke-width="2"/>
+<text x="930.0" y="314" class="h" text-anchor="middle">Provider</text>
+<text x="930.0" y="346" class="t" text-anchor="middle">Performs authorized</text>
+<text x="930.0" y="372" class="t" text-anchor="middle">operation; reports result</text>
+<path d="M 275 133 H 375" class="line"/>
+<text x="325" y="119" class="small" text-anchor="middle">scope</text>
+<path d="M 155 195 V 280" class="line"/>
+<text x="169" y="242" class="small" text-anchor="start">task</text>
+<path d="M 275 340 H 400" class="line"/>
+<text x="337" y="321" class="small" text-anchor="middle">proposal</text>
+<path d="M 470 280 V 195" class="line"/>
+<text x="450" y="238" class="small" text-anchor="end">request</text>
+<path d="M 590 195 V 280" class="line"/>
+<text x="605" y="238" class="small" text-anchor="start">decision</text>
+<path d="M 660 340 H 815" class="line"/>
+<text x="738" y="315" class="small" text-anchor="middle">permitted</text>
+<text x="738" y="335" class="small" text-anchor="middle">action</text>
+<path d="M 530 400 V 475 H 275" class="line"/>
+<text x="380" y="460" class="small" text-anchor="middle">status / reason</text>
+<rect x="35" y="435" width="240" height="115" rx="7" fill="#fff" stroke="#333" stroke-width="2"/>
+<text x="155.0" y="469" class="h" text-anchor="middle">Receipt</text>
+<text x="155.0" y="501" class="t" text-anchor="middle">Act, result or uncertainty</text>
+<text x="155.0" y="527" class="t" text-anchor="middle">Relevant versions</text>
+<path d="M 930 400 V 525 H 275" class="line"/>
+<text x="710" y="513" class="small" text-anchor="middle">execution result</text>
+<text x="665" y="573" class="small" text-anchor="middle">Denied or unknown permission creates no new authority.</text>
+</svg>

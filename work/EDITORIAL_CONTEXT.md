@@ -476,3 +476,10 @@ Sam confirms Chapter 23 and Interlude 23 are complete for this substantive prepa
 ### Opening ceremony: personal milestone stories — 5 November 2026
 
 B-029 governs the latest framing: V1 experiencing, V2 remembering/reflecting and critiquing, V3 doing as intended contribution. V3 openings can use a project-progress structure, told as personal milestone stories that lead from Sam's small contribution into the chapter/interlude's wider collective design/build. Preserve humour, flashbacks, variation and optional scenes; do not insist on elaborate fictional encounters. The earlier caution against “progress reports” was too broad and is superseded. Chapter openings lean toward civilization/Neusphere; interludes toward Tiers/technology. Pair 23 remains accepted. Encounters / Reflections / Projections is an editorial naming recommendation only, not a finalized title scheme.
+
+
+### Pair 24 substantive source and protected timestamps — 5 November 2026
+
+Pair 24 now has the actual design-method and builder mechanisms in canonical manuscripts: bounded delegation, meaningful control, grant/enforcement/revocation/correction and handover, plus diagram, Next Move and working Alice/Bob. Its [pair brief](volume-3-drafting/24-substantive-completion-2026-11-05.md) supplies the later milestone-story directions. Openings and final callbacks remain reserved; the pair is ready for author review, not newly author-approved as final.
+
+B-030 makes historical timestamp preservation explicit. A selected timeline mirror must name its nearest defensible date/period and retain its relation to the cutoff. I23's Babylonian passage is corrected to probably around 747 BCE, near 750 BCE; I24's Jacquard first demonstration now explicitly matches 1801; C24's Hamilton letter is dated 16 January 1801. Do not silently replace such connections with timeless allusions. Audit remaining pairs as they are completed, without inventing precision.

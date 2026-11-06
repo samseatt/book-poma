@@ -1,6 +1,6 @@
 # Volume III substantive completion and later Claude handoff
 
-5 November 2026 · Active editorial workflow · Steps 1–2 complete; pair 23 substantive content and vignette directions accepted by the author
+5 November 2026 · Active editorial workflow · Steps 1–2 complete; pair 23 accepted; pair 24 substantive source completed for review
 
 ## Author decision and division of work
 
@@ -27,7 +27,7 @@ The first-pair calibration is an editorial recommendation for manageable review,
 ## What each pair must deliver
 
 - A clear reader gain: what she can now explain, distinguish, reason about or try. Domain vocabulary alone is insufficient.
-- A distinct historical/future tension that leads into the design problem. Preserve the eleven already drafted historical sections unless a specific factual or structural reason warrants change.
+- A distinct historical/future tension that leads into the design problem. Preserve the eleven already drafted historical sections unless a specific factual or structural reason warrants change. Preserve explicit timestamps and offsets as structural content: state the closest defensible day/month/year/period for a chosen historical mirror, and source any correction. Do not replace a dated anchor with a generic allusion (B-030).
 - Values and purposes alongside actual design reasoning: alternatives, constraints, functional allocation, authority, resources and tradeoffs. Select methods for explanatory value, not name coverage.
 - Builder content that shows an implementable mechanism and its consequences: records, state changes, interfaces, responsibility, operating conditions and a meaningful demonstration. Include useful diagrams or equations where they clarify rather than decorate.
 - Explicitly conditional future capability. Reconcile obsolete formal Gate labels; refresh evidence where it bears on new claims. No study validates the exact calendar of eleven future states.
@@ -97,3 +97,8 @@ This completes the calibration's substantive remit, not its final literary editi
 ### Pair 23 author sign-off
 
 The calibration is accepted for the later Claude literary pass. C23's fractured care arrangement supplies the design motive; I23's deliberately disrupted integration rehearsal applies the same scrutiny to the builder's own system so it does not reproduce the failures it seeks to repair. The updated pair brief and V3-VIGNETTES-006 record the rationale. Final prose for the openings, their callbacks, Noēsis and Open remain assigned to Sam/Claude; the flagged epigraph-source question remains open. No new canonical edits or external handoff accompany this acceptance. Await Sam's next prompt for pair 24.
+
+
+## Pair 24 substantive completion — 5 November 2026
+
+C24/I24 now specialize the accepted design/build division in personal agency and enforceable delegation. The pair brief records methods, mechanisms, sources, illustration, preserved narrative and prospective milestone-story candidates. Author review and Sam/Claude's literary realization remain; pair 25 is the next substantive unit. I23's Babylonian observation passage was also repaired with its nearby 747 BCE footing. No later pair has been changed, no incoming adoption resumed, and the complete outgoing handoff remains withheld.

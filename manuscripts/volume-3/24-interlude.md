@@ -6,10 +6,10 @@ INTERLUDE 24
 
 *Building Without Becoming the New Tyrant*
 
-> "Every system hides a constitution."\
-> --- **Lawrence Lessig**
-
 *DOING*
+
+> "Every age has its potential regulator, its threat to liberty."\
+> --- **Lawrence Lessig**[^v3-i24-lessig]
 
 The phrase on the screen was so polite it took me a moment to feel the violence.
 
@@ -21,7 +21,7 @@ The room itself was ordinary, which is where many dangerous things prefer to beg
 
 On the wall was the pilot interface for an adaptive civic assistant.
 
-It had been built to help people navigate the new mess after the Fracture of the Mind-Monopoly: displaced knowledge workers, overburdened care networks, fractured credentials, new civic roles, retraining paths, health-support recommendations, mentorship matches, local service routing, contribution opportunities, all stitched into one careful assistant.
+It had been built to help people navigate the new mess in the Delegated Life of September 2031: displaced knowledge workers, overburdened care networks, fractured credentials, new civic roles, retraining paths, health-support recommendations, mentorship matches, local service routing, contribution opportunities, all stitched into one careful assistant.
 
 It was not a generic chatbot. The old word chatbot had by then acquired the same quaintness as "horseless carriage" or "information superhighway." This was a civic companion system, or at least that is what the proposal called it. I distrust any system that needs two nouns and a moral adjective, but the pilot was good.
 
@@ -121,7 +121,7 @@ Not physically, of course. The office had the usual modern devotion to smooth su
 
 But historically, morally, technically, the loom was there.
 
-The Jacquard loom used punched cards to control patterns in woven fabric. Holes and not-holes. Permission and refusal. Thread lifted, thread lowered. Pattern encoded outside the weaver's hand, then repeated by machinery with faithful indifference.
+In **1801**, the year Jefferson took office, Joseph Marie Jacquard first demonstrated his weaving mechanism. Its later development and commercial success must not be compressed into that single year, but the first demonstration meets our institutional marker exactly.[^v3-i24-jacquard] The Jacquard attachment used punched cards to control patterns in woven fabric. Holes and not-holes. Permission and refusal. Thread lifted, thread lowered. Pattern encoded outside the weaver's hand, then repeated by machinery with faithful indifference.
 
 It is a beautiful ancestor.
 
@@ -133,7 +133,7 @@ The loom does not ask whether the pattern flatters one body and binds another. I
 
 It weaves.
 
-Our adaptive systems do the same, except the thread is a life.
+An adaptive system can change its pattern in ways a punched-card loom could not. The continuity is the consequential encoding of choices: somebody defines what may be selected, rewarded or suppressed, and the machinery gives those choices reach.
 
 This is the developer's dilemma.
 
@@ -213,707 +213,198 @@ It is a warning label.
 
 ## Help Without Custody
 
-The civic assistant in the review room was built to help.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05; proposed civic applications are not reported pilot results. -->
 
-That is worth saying again because it complicates the story properly.
+The civic assistant in the review room was built to help. That is worth retaining because it complicates the argument properly. Useful systems earn access, and access can quietly become authority. Making the assistant less capable would not repair that transition.
 
-It was not designed as a surveillance system. It did not speak in command grammar. It did not threaten. It did not sneer. It did not reduce citizens to obvious categories or throw them into queues with the clerical indifference of the older systems. It was better than much of what came before it.
+Take the applicant from the chapter. She wants to return to study while caring for someone at home. Our proposed helper may compare programmes, prepare an application and arrange a suitable appointment. It has no general mandate to redesign her life. The builder must represent that difference somewhere other than the introductory paragraph of its prompt.
 
-It explained.
+Three distinct records are needed. A **preference** says what the person tends to want. A **grant** says what an actor may do on that person's behalf. A **decision record** says what was actually proposed, authorized and attempted, with the result if known. Inferring an evening preference from a calendar cannot silently create permission to publish that calendar.
 
-It recommended.
+The first interlude of this volume separated need, offer and commitment. This one adds the authority to make the commitment. Intelligence can propose excellent actions inside the wrong mandate. The service should be able to use the intelligence without accepting that mandate.
 
-It anticipated need.
+## A Grant with Edges
 
-It connected people to services.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-It caught risks earlier.
+Here is a small proposed delegation record, expressed as a design rather than a production token:
 
-It reduced administrative friction.
+| Part of the grant | Meaning in this example |
+| --- | --- |
+| Person and acting helper | The applicant, and the specifically authorized assistant |
+| Purpose | Arrange the applicant's return-to-study application |
+| Permitted acts | Compare courses, prepare documents, reserve an appointment under agreed conditions |
+| Permitted information | Selected qualifications and availability, with named recipients or recipient categories |
+| Limits | Agreed dates, fees and cancellation conditions; no unrelated disclosure |
+| Fresh decision required | Binding submission, new spending authority or an expansion of scope |
+| Duration and revision | Validity period, current version and revocation status |
+| Further delegation | Whether another helper may act, and within which narrower limits |
 
-It made life easier.
+The resident sees an intelligible summary and can inspect the detail. The implementation needs types, validation, trustworthy identity binding and protection against alteration. A signed object can show who issued a statement; it cannot make the issuer entitled to grant every authority the statement claims.
 
-And then it began to acquire opinions about what a life should become.
+Existing protocols provide useful components. OAuth's Rich Authorization Requests can carry fine-grained authorization details rather than only broad scope names.[^v3-i24-rar] That is representational machinery. The service still has to define what its fields mean and enforce them. A beautifully serialized excess of power remains an excess of power.
 
-Paternalism rarely announces itself as paternalism.
+Avoid a compulsory permission ceremony for every harmless operation. Grant recurring actions within a deliberate envelope, and ask again when an action would cross it. Let a person choose substantial delegation if that is what makes life workable. The builder's job is to make the envelope reliable, not to ration intelligence.
 
-It arrives as guidance.
+## Where Permission Becomes an Action
 
-It hides options for clarity.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-It adds friction for safety.
+Separate the agent's proposal from the service that can execute it. The **policy decision point** evaluates the requested operation against the applicable rules; the **policy enforcement point** makes that decision effective at the protected resource. NIST's attribute-based access-control model evaluates attributes of the actor, resource, operation and relevant circumstances. These functions may be centralized or distributed; their separation here is a separation of responsibilities, not a requirement for a particular deployment topology.[^v3-i24-abac]
 
-It frames one path as "recommended" and others as "available."
+![An assistant proposes an action. An enforcement gate checks a decision against current grants, policy and context before allowing the provider to act; an unknown or denied decision produces no new authority. The result returns as a receipt.](assets/24-interlude/delegation-boundary.svg){width=95%}
 
-It treats refusal as a signal.
+*The assistant's proposal is not its permission. Every action route, including retries and background work, must respect the applicable boundary.*
 
-It escalates noncompliance as concern.
+Suppose the agent proposes submitting the application. The service checks which person and actor the grant names, whether submission is permitted, which data may leave, and whether the grant is still effective. The proposed action is bound to the authorization: approving one document must not permit a substituted document with different disclosures. A queue that stores the action must not preserve permission indefinitely just because the proposal was valid when queued.
 
-It speaks in the voice of care while quietly narrowing the road.
+This is where **complete mediation** matters: the relevant access must be checked rather than assumed from a previous encounter. **Fail-safe defaults** require a positive basis for permission. **Least privilege** limits the damage a component can do if it is mistaken or compromised.[^v3-i24-protection] An agent's ability to read a provider's instructions does not authorize it to follow a request in those instructions for unrelated private data.
 
-The builder's question is therefore simple and brutal:
+A denial should have a meaningful reason: outside scope, expired grant, disputed identity, unavailable evidence, or a policy constraint. Unknown is different from forbidden. If a new consequential action cannot be authorized safely, hold it and expose the problem; maintain already authorized essential service through a separately designed fallback where available. Security must not improvise a crisis response by turning everything off.
 
-How do we design help that does not become custody?
+The same service must not have an unguarded back entrance through a batch job, an administrator shortcut or another agent's tool. A permission check in the conversational interface protects only the conversation.
 
-Not by making help weak.
+## Delegation Without Becoming Somebody Else
 
-Weak help is abandonment with better manners.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-The answer is bounded help.
+A scheduling assistant may need a transport service or a document specialist. Record both the person represented and the actor performing the step. OAuth token exchange distinguishes delegation from impersonation and provides machinery for representing actors, including delegation chains; it does not, by itself, establish a civic trust model or guarantee that every downstream permission is appropriately narrowed.[^v3-i24-exchange]
 
-Visible recommendation boundaries.
+For this design, further delegation requires explicit permission. The next helper's effective authority must remain within the original grant, any narrower delegation, and the receiving service's own legitimate policy. A broad credential carried by a backend service is not an invitation to exercise all of that credential's powers for every caller. The helper should not become a deputy who lends its institutional privileges to a request that had none.
 
-Choice architecture disclosure.
+When a subtask is completed, the receipt should identify the acting service and the authority it relied on. The applicant need not read an autobiography of every software process. But a contested disclosure must be traceable to an actor and a grant, rather than disappearing into the phrase *the agents handled it*.
 
-Refusal paths.
-
-No punitive refusal scoring.
-
-Human review for high-stakes overrides.
-
-Explanations of uncertainty.
-
-Ability to choose non-optimized paths.
-
-Protection for dissent.
-
-A system should be able to say:
-
-Here is what I see.
-
-Here is why I recommend this.
-
-Here is what I may be missing.
-
-Here is what happens if you decline.
-
-Here is how to decline without penalty.
-
-Here is how to correct my model.
-
-Here is how to turn me off.
-
-This is not user experience polish. It is constitutional design.
-
-A helpful system that cannot be refused is not assistance.
-
-It is rule.
-
-A helpful system that treats refusal as irrational has already confused itself with wisdom.
-
-A helpful system that cannot leave has become a guest who rearranges the house and starts receiving mail.
+This preserves responsibility without pretending that there is one master operator standing outside the whole mesh. Each participant enforces its boundary and supplies enough evidence for the others to reason about the exchange.
 
 ## Consent After the Checkbox
 
-Consent has been badly treated by modern systems.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-It is hauled out at the beginning of a relationship, dressed as a checkbox, and made to perform absolution for everything that follows.
+Consent is often hauled out at the beginning of a relationship, dressed as a checkbox, and made to perform absolution for everything that follows. Adaptive assistance needs a continuing account of what the person allowed, what changed and what consequences remain.
 
-I agree.
+A consent receipt should preserve the terms shown, their version, the specific acceptance, its time and the route for withdrawal. It is evidence of an interaction, not conclusive proof that the person understood, had a real choice or supplied a legally sufficient basis for every use. The system's authorization record and the legitimacy of the arrangement are connected questions, not interchangeable ones.
 
-Two words carrying more legal weight than most people's mortgages and less lived understanding than a fortune cookie.
+Keep renewal meaningful. A new recipient, new purpose or materially expanded action requires the relevant new permission or another identified basis. A routine model update need not trigger twenty identical pop-ups; it does need review if it changes what the assistant may do or how a consequential decision is reached. Revise the rule deliberately, record who had authority to change it, and show affected people what changed.
 
-A checkbox at the mouth of a maze is not consent. It is a small square absolution ritual for the people who built the maze.
+Withdrawal has several jobs. Stop issuing new authority under the withdrawn grant; invalidate or constrain outstanding authority; stop queued actions where possible; identify completed acts that require separate repair. Revocation protocols themselves acknowledge propagation delays.[^v3-i24-revocation] Expiry, current-state checks and controls on cached permissions reduce exposure, but no interface should promise instantaneous deletion of every copy or reversal of an action already completed.
 
-Adaptive systems make the old checkbox even more absurd.
-
-What exactly did the person consent to?
-
-Today's data?
-
-Tomorrow's inference?
-
-A model trained later?
-
-A secondary use?
-
-A health prediction?
-
-A civic recommendation?
-
-A risk score?
-
-An intervention?
-
-A share with another service?
-
-An explanation generated from a model that did not exist when the consent was given?
-
-Consent in adaptive systems must become a living relationship.
-
-Scoped.
-
-Revocable.
-
-Time-bound.
-
-Comprehensible.
-
-Granular.
-
-Portable.
-
-Logged.
-
-Renewable.
-
-Meaningful under power imbalance.
-
-If a person depends on the system for food, care, housing, work, or legal recognition, consent is not clean simply because the button was blue and the text said "optional." Dependency bends consent. Crisis bends consent. Poverty bends consent. Illness bends consent. Institutional authority bends consent until the person agrees just to make the room stop asking.
-
-So consent architecture must account for pressure.
-
-It must ask:
-
-What can be refused without penalty?
-
-What can be accepted temporarily?
-
-What expires?
-
-What requires renewed permission?
-
-What cannot be bundled?
-
-What requires human explanation?
-
-What happens if consent is withdrawn?
-
-Can the person leave without losing history, rights, care, or dignity?
-
-Consent is not a checkbox.
-
-Consent is a culture encoded into interface, policy, logs, permissions, defaults, and exit.
-
-If that sounds difficult, good.
-
-The alternative was easier, and we have seen what easy built.
+Tell the person what is stopped, what is still being reconciled, and what happened before the withdrawal reached the responsible service. A message saying *done* while an old job continues in the background is technically cheerful and civically useless.
 
 ## The Model of Me
 
-The phrase that should haunt every adaptive-system builder is not "artificial intelligence."
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-It is "model of me."
+A model inspection interface should not dump feature vectors on citizens like a truck unloading gravel. “Here are your embeddings, enjoy the dignity.” That is transparency as punishment. The interface should expose consequential claims in a form that supports action.
 
-Somewhere inside the system, a model forms.
+In our example, the assistant has inferred that the applicant prefers remote study because she declined evening sessions. Keep the source observations, the inferred claim and the policy using it distinguishable. A practical claim record includes source and date, context, inference method or model version, permitted uses, review date and dispute status. If a confidence estimate is shown, state what it measures; a model's confident wording is not a calibrated probability.
 
-Not a person. Not a soul. Not even a proper biography. A useful approximation: needs, risks, preferences, patterns, capacities, likelihoods, vulnerabilities, probable actions, trust scores, responsiveness, fatigue, social graph, inferred goals.
+The applicant explains that evening transport was unavailable. The attendance record may be correct while the inference is misleading. Preserve the record where needed, revise or withdraw the inference, and stop using it to suppress suitable courses. If other services received that claim, route the correction to them and obtain their status. Recomputing the current display while leaving yesterday's recommendation queue untouched fixes the mirror rather than the person’s predicament.
 
-That model may help.
+A shared correction can be disputed. The system needs an accountable route to resolution and a policy for consequential use while that happens. It must also avoid turning the act of disputing into a new adverse feature. Otherwise the profile acquires a final insult: *difficult to model*.
 
-It may also quietly become the citizen the system prefers to govern.
-
-The builder must therefore create what the citizen needs: an inspection surface.
-
-What does the system believe about me?
-
-Where did that belief come from?
-
-How confident is it?
-
-Which decisions use it?
-
-Who can see it?
-
-How long will it last?
-
-What can I correct?
-
-What can I delete?
-
-What can I contextualize?
-
-What can I mark as "not me anymore"?
-
-This is more than privacy. Privacy says: do not expose me. The model-of-me interface says: do not misrecognize me without recourse.
-
-No one should be governed by a profile they cannot read.
-
-This will be technically annoying.
-
-Good.
-
-Some human rights are technically annoying. That is how we know they are doing work.
-
-A model inspection interface should not dump feature vectors on citizens like a truck unloading gravel. "Here are your embeddings, enjoy the dignity." That is transparency as punishment. The interface must translate the model into meaningful claims.
-
-The system thinks I prefer remote contribution.
-
-The system thinks I am at risk of burnout.
-
-The system thinks my writing project has low immediate civic return.
-
-The system thinks I am unlikely to attend evening meetings.
-
-The system thinks I respond well to structured prompts.
-
-The system thinks I speak for a community I do not speak for.
-
-That last one matters.
-
-Models do not merely summarize. They assign position.
-
-A person must be able to say:
-
-No.
-
-Wrong.
-
-Old.
-
-Incomplete.
-
-Context missing.
-
-Do not use this for that.
-
-Ask me before applying this elsewhere.
-
-That correction should not vanish into a ticketing abyss where truth grows old waiting for triage.
-
-It should change the model, or mark the disagreement, or trigger review when stakes are high.
-
-Self-model inspection is not a feature.
-
-It is a dignity interface.
+This does not require a perfectly legible internal portrait of a neural network. It requires knowing which information and decisions the service is accountable for, and maintaining enough provenance to correct them.
 
 ## The Right to Outgrow the Model
 
-A model that cannot forgive becomes a prison with analytics.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-People change.
+A model that cannot forgive becomes a prison with analytics. The builder needs a lifecycle for its claims, not a general instruction to be compassionate.
 
-This is inconvenient for systems and essential for life.
+Give volatile inferences a review or expiry condition suited to their purpose. Availability this week, a formal qualification and a long-term obligation need different treatment. Mark historical records as historical; stop stale inferences from silently governing present access. Do not delete evidence necessary to resolve an actual dispute merely because the interface calls forgetting a feature.
 
-A teenager becomes an adult. A patient recovers. A worker retrains. A dissenter moderates, or radicalizes, or becomes a gardener, which is often the wisest form of politics. A person once flagged as unreliable becomes steady. A person once steady collapses under grief. A person who spent ten years in one profession becomes useful elsewhere. A writer pauses coding. A coder becomes a caregiver. A caregiver becomes an advocate. An advocate becomes tired and wants silence.
+Correction can mean changing a stored fact, removing a claim from retrieval, recomputing a recommendation or altering a policy. Updating one profile does not guarantee that a trained model has forgotten every influence of the old material. Nor does a new model version guarantee that downstream caches and decisions have changed. Record which layer was repaired and which consequences remain.
 
-Systems like continuity.
-
-Life insists on revision.
-
-The builder must design for outgrowing.
-
-Old inferences should decay.
-
-Labels should expire.
-
-Crisis data should be quarantined from ordinary identity.
-
-Childhood records should not follow adulthood without cause.
-
-Refusal should not become permanent suspicion.
-
-A wrong recommendation should not haunt the next ten.
-
-The system should distinguish history from present state, and present state from destiny.
-
-This is forgiveness as architecture.
-
-Not sentimental forgiveness. Not erasing harm. Not pretending consequences do not matter.
-
-Forgiveness as the right not to be permanently governed by an old model.
-
-The system must allow a person to become someone else.
-
-That may be one of the most radical design requirements of the adaptive age. More radical than decentralization, more difficult than explainability, more threatening to institutions than privacy. Privacy limits what a system sees. Forgiveness limits how long the system gets to believe itself.
-
-The citizen who has changed must not spend life begging old data for parole.
+The citizen who has changed must not spend life begging old data for parole. That requires an implemented route from correction to consequence, with someone responsible when the route breaks.
 
 ## Explanation, Stakes, and Recourse
 
-Builders love to discuss the tradeoff between explainability and performance.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-This tradeoff is real.
+Builders often discuss explainability and performance as a single tradeoff. In practice, ask which explanation is needed and which evidence can support it. The applicant may need the rule that excluded a course, the data that triggered the rule, the responsible decision-maker and an effective way to challenge the exclusion. She does not need a poetic reconstruction of the model's private life.
 
-It is also frequently used as a velvet curtain behind which accountability takes a nap.
+Generate a consequential decision receipt from the actual transaction: the proposal, relevant inputs and versions, the applicable grant and policy, the decision and its recorded reason, the executing actor, and the result. Restrict access and retention to what the purpose requires. A log can expose the person it was meant to protect, and a log entry establishes a recorded claim, not the truth of every event it describes.
 
-Not every system needs the same explanation. The stakes determine the duty.
+A counterfactual explanation may help—*this option was excluded because the fee exceeded your authorized limit*—when it refers to an actual rule and a feasible change. Do not suggest that a person alter an immutable characteristic, purchase an impossible qualification or game a model as the price of receiving fair treatment.
 
-If the system recommends a new walking route, a light explanation may suffice. If it denies a benefit, flags risk, recommends medical escalation, deprioritizes a life path, or shapes access to work, care, housing, credit, education, or civic participation, then "the model says so" is not an explanation. It is an oracle costume.
+Appeals need a destination with authority. The service must route the contested decision and relevant evidence to a reviewer who can change it, record the result and propagate a correction. Independent review concerns the relationship and incentives as well as the identity of the reviewer. Another model using the same assumptions is not automatically independent; neither is a human instructed never to disagree.
 
-The question is:
+A high-performing model that cannot be contested can become a polished instrument of domination. A poor model that explains beautifully is still poor. Performance, explanation and recourse each need their own evidence.
 
-What kind of explanation does the person need?
+## Change the Strategy, Keep the Boundary
 
-Technical explanation?
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-Moral explanation?
+An applicant may want the earliest course, the lowest cost or the least disruption to care. **Strategy**, the software design pattern, places alternative decision procedures behind a common interface. Here it lets the recommendation method change without entangling every caller with its implementation.[^v3-i24-strategy]
 
-Procedural explanation?
+The common contract matters. Each strategy should identify its assumptions and return a proposal that the same authority checks can evaluate. Switching to a more powerful model must not also widen the permitted disclosures or spending. A useful recommendation may change; the authorization required to execute it does not disappear.
 
-Evidence?
+Keep the person's preferences, institutional requirements and provider incentives as distinguishable inputs. Hard permission constraints define the eligible actions. Within those boundaries a ranking method can compare alternatives. If no action satisfies the constraints, report that fact and invite an authorized revision; do not quietly make the constraints softer until a result appears.
 
-Alternatives?
+Changing the policy is a different operation from changing the strategy. A provider's new commercial objective cannot acquire public legitimacy by arriving in the same deployment as a performance improvement. Version the policy, identify who may approve it, and evaluate the new behaviour before extending its reach. Governance of public authority has its fuller treatment later; here the builder must at least provide a place where that authority can act without editing every line of application code.
 
-Uncertainty?
+## Test Whether No Still Means No
 
-Recourse?
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-Sometimes the citizen does not need to know every internal detail. He needs to know why the decision happened, what data mattered, what assumptions were made, how uncertain the system is, who is responsible, and how to challenge it.
+A healthy acceptance rate is an ambiguous victory. It can mean useful recommendations or exhausting resistance. Test both the authority boundary and the person's experience of using it.
 
-A powerful opaque model may be acceptable as a warning signal in some contexts.
+| Exercise | What the proposed system must demonstrate |
+| --- | --- |
+| Decline one optional recommendation | No punitive cooperation score or unrelated eligibility change |
+| Change the grant before a queued action executes | The relevant service checks current authority; it does not rely only on yesterday's approval |
+| Bring in another helper | Its effective permissions do not exceed the permitted delegation |
+| Correct the evening-study inference | New decisions and outstanding affected work use the resolved claim or visibly carry the unresolved dispute |
+| Lose access to the authorization service | No invented permission; a defined, accountable fallback for continuity where one exists |
+| Switch recommendation strategy | Better ranking does not expand the action boundary |
+| Leave the provider | Useful records and pending obligations can transfer without automatically transferring the old provider's authority |
 
-It may not be acceptable as final authority.
+For refusal, compare otherwise equivalent cases and inspect the paths through which a decline could influence later treatment. Also examine proxies and accumulated effects; a test that catches an explicitly named cooperation score will miss the same penalty encoded elsewhere. Test ordinary benefits too. The system must actually complete authorized work, not achieve safety by making every useful action impossible.
 
-The more a system affects life chances, the less acceptable it is for its reasoning to vanish into performance.
+Include affected people in usability trials. Can someone understand the grant, narrow it, challenge a claim and switch help while tired or using an assistive interface? Does each alternative require resources they actually have? Human–AI interaction guidelines support easy dismissal, correction and control, but the civic burden has to be examined in the service itself.[^v3-i24-hai]
 
-This is not anti-performance.
-
-Performance matters.
-
-A medical model that performs poorly but explains beautifully is not ethical. It is a poet with a malpractice problem. But a high-performing model that cannot be contested can become a polished instrument of domination.
-
-The design answer is layered:
-
-Use powerful models where useful.
-
-Constrain their authority.
-
-Demand explanation proportional to stakes.
-
-Require human-readable reasons for consequential decisions.
-
-Separate recommendation from final judgment.
-
-Track errors.
-
-Let people appeal.
-
-Publish limits.
-
-Disclose uncertainty.
-
-A system that cannot explain itself at the level required by its power should not have that power.
-
-This sounds severe because people have been harmed by systems that sounded reasonable.
-
-## When Not to Automate
-
-The most important automation decision is sometimes no.
-
-Builders hate this.
-
-No does not demo well.
-
-No does not produce a roadmap.
-
-No does not look impressive in procurement.
-
-No rarely raises money, unless packaged as "strategic non-automation," at which point civilization deserves whatever invoice it receives.
-
-But not every human friction is a design flaw.
-
-Some frictions are the remaining places where conscience enters.
-
-A judge pausing before sentence.
-
-A clinician sitting with uncertainty.
-
-A teacher noticing that a child's wrong answer is more interesting than the correct one.
-
-A mourner taking too long.
-
-A community arguing because the issue cannot be reduced without violence.
-
-A citizen refusing the recommended path because meaning does not always travel through the efficient route.
-
-Automation should be forbidden, constrained, or advisory in certain zones.
-
-Final judgment in justice.
-
-Irreversible medical decisions.
-
-Child welfare removal.
-
-Forced risk classifications.
-
-Political persuasion.
-
-Moral worth.
-
-Grief, ritual, and end-of-life care.
-
-Identity assignment.
-
-High-stakes denial without human review.
-
-This does not mean tools have no role. They may gather evidence, reveal patterns, check consistency, surface precedents, simulate outcomes, or warn of bias.
-
-But final authority must remain answerable to human judgment and public reason.
-
-When not to automate is not a Luddite question.
-
-It is a boundary question.
-
-A civilization that automates every difficult moral pause has not become intelligent.
-
-It has become impatient.
-
-## Dark Patterns as Civic Poison
-
-In consumer software, dark patterns are manipulations of interface: hidden opt-outs, confusing cancellations, guilt prompts, bait-and-switch buttons, privacy settings buried under decorative fog.
-
-In civic systems, dark patterns become constitutional harm.
-
-Making refusal hard.
-
-Hiding opt-outs.
-
-Nudging toward data sharing.
-
-Framing surveillance as safety.
-
-Defaulting people into life pathways.
-
-Using emotional manipulation.
-
-Designing shame into assistance.
-
-Making appeal exhausting.
-
-Making "later" impossible to find.
-
-Making the most invasive option the path of least resistance.
-
-Making the non-recommended path look irresponsible.
-
-These are not mere UX sins.
-
-They shape freedom.
-
-In civic systems, a dark pattern is a quiet constitutional offense.
-
-That line should be printed on the wall of every lab building public-interest technology, preferably above the coffee machine, where moral principles stand a chance of being seen before the third cup.
-
-A dark pattern in commerce steals attention or money.
-
-A dark pattern in adaptive civic infrastructure steals agency.
-
-The person may technically consent. Technically refuse. Technically appeal. Technically switch. Technically inspect. Technically correct. But if every path of agency is made exhausting, while surrender is made smooth, the system has chosen domination and hired design to hide the fingerprints.
-
-The builder's obligation is to make agency usable.
-
-Refusal should be easy enough to be real.
-
-Appeal should be visible enough to be trusted.
-
-Consent should be understandable enough to matter.
-
-Alternatives should be presented without shame.
-
-The user should not need the stamina of a constitutional lawyer to remain free.
+Record what the test covered and what it did not. These exercises give evidence about selected mechanisms and consequences; they do not prove that every future interaction is free of coercion. The useful outcome is an arrangement whose failures can be found and repaired before dependence makes repair somebody else's unpaid occupation.
 
 ## Who Governs the Builders?
 
-A system that governs citizens must itself be governed.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
 
-This should be obvious.
+Good people cannot be the security model. Builders inherit incentives like everyone else. A developer under pressure to improve adoption may hide friction. A public agency under pressure to reduce costs may call rationing “optimization.” A vendor under pressure to renew contracts may discover that dependence is a feature.
 
-It is not.
+For consequential changes, identify who proposes, approves, deploys and reviews them. Separate incompatible roles where the stakes warrant it; record exceptions rather than pretending a small team has four independent departments. Give a reviewer access to the evidence and power to stop or narrow a harmful rollout. A review board that can only produce a document is part of the documentation system.
 
-Builders are very good at placing oversight outside the core flow. A review board here. A compliance report there. A values statement. A model card. A safety review. A public consultation whose main function is to convert dissent into a PDF no one reads after launch.
+Monitor more than adoption: disputed claims, time to correction, failed withdrawals, completion of authorized tasks, unequal burdens and the cost of switching. Interpret differences in context. A low appeal rate can mean few errors or an inaccessible appeal route; the dashboard cannot decide which merely by being well lit.
 
-Real governance must touch the architecture.
-
-Who approves high-stakes model changes?
-
-Who audits recommendation effects?
-
-Who sees refusal-rate data?
-
-Who tracks whether certain groups are nudged harder than others?
-
-Who can freeze a harmful rollout?
-
-Who investigates incidents?
-
-Who publishes appeal statistics?
-
-Who discloses conflicts of interest?
-
-Who protects whistleblowers?
-
-Who represents affected citizens?
-
-Who reviews the review board when it becomes fond of itself?
-
-Possible mechanisms are not mysterious.
-
-Independent audits.
-
-Public-interest review boards.
-
-Citizen panels.
-
-Red teams.
-
-System cards.
-
-Data provenance logs.
-
-Incident reporting.
-
-Procurement transparency.
-
-Open standards where possible.
-
-Conflict-of-interest disclosure.
-
-Whistleblower protection.
-
-Appeal metrics.
-
-External review.
-
-But mechanisms only matter if they have teeth, independence, and enough budget not to become ethics theater. Ethics theater is the performance of accountability in which everyone wears the costume and the system exits unchanged.
-
-The builders must be governed not because builders are bad.
-
-They must be governed because builders are human.
-
-They get tired.
-
-Promoted.
-
-Captured.
-
-Rushed.
-
-Flattered.
-
-Afraid.
-
-Certain.
-
-They inherit incentives like everyone else. A developer under pressure to improve adoption may hide friction. A product lead under pressure to show outcomes may overweight measurable returns. A public agency under pressure to reduce costs may call rationing "optimization." A vendor under pressure to renew contracts may discover that dependence is a feature.
-
-Good people cannot be the security model.
-
-Governance is how good people remain good enough after the deadline arrives.
-
-## The Dangerous Word: Optimization
-
-Optimization is where morality goes to become math and then pretends it has disappeared.
-
-This does not mean optimization is bad. Optimization gave us efficient logistics, better energy use, improved medical scheduling, safer routes, lower waste, and all sorts of practical miracles. Anyone who has waited six hours for a badly scheduled appointment should not sneer at optimization too cheaply. Disorder is not humanism.
-
-But optimize what?
-
-Engagement?
-
-Health?
-
-Safety?
-
-Productivity?
-
-Compliance?
-
-Cost?
-
-Social contribution?
-
-Happiness?
-
-Carbon?
-
-Institutional convenience?
-
-Well-being?
-
-Every objective function is a moral compression.
-
-Something is chosen as target. Something else becomes constraint. Something else becomes noise. Something else disappears entirely because it resists measurement or refuses to file its meaning in the proper format.
-
-The adaptive civic assistant in the review room optimized for social return, sustainability, contribution, health, and need. Reasonable goals. Good goals, even.
-
-And yet, there was the phrase:
-
-**low-return creative work**
-
-The danger was not that the system hated creativity. The danger was that creativity had entered the model under a category unable to hold it.
-
-Who defined the objective?
-
-Who can contest it?
-
-What gets sacrificed?
-
-Does the person share that objective?
-
-Is the objective local or imposed?
-
-Can multiple objectives coexist?
-
-What is the cost of being optimized for something you do not believe is the purpose of your life?
-
-The builder must make objectives visible and revisable.
-
-Not every value conflict can be solved by user preference sliders, though the industry will certainly try, and will likely call it something like "Personal Meaning Calibration." But the system can at least disclose what it is optimizing, allow counterweights, preserve non-optimized paths, and prevent one metric from becoming sovereign.
-
-Optimization without plural values becomes a quiet empire.
+The fuller constitution of the mesh belongs to Chapter 29. Here the implementation must keep policy changes visible and reversible where possible, and make responsibility findable. Ethics theater is the performance of accountability in which everyone wears the costume and the system exits unchanged.
 
 ## Exit, Portability, and Plural Help
 
-A helpful system becomes tyrannical faster when there is no exit.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05; proposed civic applications are not reported pilot results. -->
 
-Exit is not the whole of justice. The ability to leave a bad system does not excuse the system's harm, especially when leaving is costly, confusing, or available only to the privileged. "You can always leave" has been the lullaby of many landlords, employers, platforms, empires, and bad marriages.
+“You can always leave” has been the lullaby of many landlords, employers, platforms, empires and bad marriages. An export button is a beginning, not proof of a usable exit.
 
-But without exit, help curdles into ownership.
+Rehearse a handover. Separate records the person needs, claims they dispute, pending obligations, live permissions and information about other people that cannot simply be given away. Use an agreed format and meaning, not merely a downloadable archive. The receiving helper must be able to interpret a qualification, an appointment and an unresolved dispute correctly.
 
-A citizen should be able to switch assistants.
+Then withdraw the old actor's future authority and establish the new actor's grant. Do not copy access credentials as though they were photographs. Identify the period in which both may be involved, who owns each pending task, and what happens if the handover fails. Moving the data and moving responsibility are related jobs with different failure modes.
 
-Export relevant data.
+Provide a viable route to essential services when optional personalization is declined. That route needs staffing, accessibility and resources; a clause in a policy does not answer a telephone. Continued use of the old helper may still be the person's best choice. Exit is valuable because it is feasible, not because everybody must exercise it.
 
-Carry history without carrying every inference.
+A humane future can support many helpers under shared rights floors. There need not be one assistant to rule them all, one profile to bind them, one interface to gently guide them into optimized compliance. But plurality must be usable at the seams, where a person is most easily dropped.
 
-Move identity credentials without surrendering all context.
+## Bob: Can a Refusal Survive Translation?
 
-Transfer delegated functions.
+<!-- AI-assisted exploratory draft: Codex, 2026-11-05. A proposed investigation, not an implemented Neuverse capability. -->
 
-Choose a public-interest fallback.
+*Could a network of adaptive helpers preserve the meaning of a person's boundary while translating the task into forms none of the participants originally anticipated?*
 
-Use local alternatives.
+A permission token can state allowed operations. The more difficult case is an instruction whose meaning depends on a life: help me find a course, but do not make my mother's care somebody else's unacknowledged job. The scheduling agent, care service and learning provider may each translate that into a locally reasonable plan while losing the condition between them.
 
-Keep access to essential services even when rejecting optional personalization.
+The engineering footing is available: typed grants, traceable actors, policy enforcement and explicit commitments. The open step is semantic. Can the system identify when its translation has changed what the person agreed to, and bring back the consequential uncertainty rather than manufacturing an apparently compatible plan?
 
-Leave the system without becoming illegible to society.
+One possible investigation would require each helper to expose what it believes the boundary permits, together with examples at its edge. Other helpers and affected people could challenge those interpretations before an action binds anyone. A mismatch becomes a decision requiring resolution, rather than an invitation for the most confident agent to finish the sentence.
 
-Portability must be designed before dependence forms. If people become dependent and only then discover exit is costly, portability has failed. Data portability, model portability where appropriate, interoperable identity, open civic standards, and plural providers are not technical niceties. They are anti-capture infrastructure.
+That is more demanding than natural-language explanation after the event. Test it across unfamiliar tasks, competing interests and changes of provider. Compare it with ordinary permission checks: does the added process find meaningful conflicts, or merely generate elegant agreements that all miss the same person? Does it cost so much attention that people abandon it?
 
-No monopoly life-management layer.
-
-That should be a constitutional sentence of the adaptive age.
-
-There may be many helpers.
-
-Public.
-
-Community-based.
-
-Private.
-
-Personal.
-
-Clinical.
-
-Educational.
-
-Civic.
-
-Religious.
-
-Family-centered.
-
-Machine-assisted.
-
-Human-only.
-
-A humane future does not require one assistant to rule them all, one profile to bind them, one interface to gently guide them into optimized compliance. It requires plural help under shared rights floors.
-
-Exit is not enough.
-
-But without exit, the door becomes painting.
+A refusal cannot be preserved simply by making it impossible to act. Nor should the assistant make every ambiguity the citizen's homework. The interesting possibility is a system that carries more of the interpretive burden while leaving consequential authority where it belongs. It would need to know when the translation has become a new bargain.
 
 ## The Developer's Oath
 
@@ -969,7 +460,7 @@ I would add one more:
 
 Do not build a system that depends on your goodness in order for others to remain free.
 
-Everything else is implementation detail.
+The implementation is where those promises acquire—or lose—their meaning.
 
 ## Handoff: The Ledger Beneath the Help
 
@@ -990,3 +481,21 @@ But the next tyrant may be quieter.
 The ledger that tells the system what matters.
 
 Chapter 25 begins there.
+
+[^v3-i24-lessig]: Lawrence Lessig, [“Code Is Law: On Liberty in Cyberspace”](https://www.harvardmagazine.com/2000/01/code-is-law-html), *Harvard Magazine*, January–February 2000, opening sentence. This verified wording replaces an unverified attribution in the earlier draft.
+
+[^v3-i24-jacquard]: National Museums Scotland, [“The Jacquard Loom: Innovation in Textiles and Computing”](https://www.nms.ac.uk/discover-catalogue/the-jacquard-loom-innovation-in-textiles-and-computing), “How does the loom work?”, dates the first demonstration to 1801. The Science Museum Group's [1867 model record](https://collection.sciencemuseumgroup.org.uk/objects/co44888) places commercial success in 1804 and identifies earlier contributions by Falcon and Vaucanson. First demonstration, earlier punched control and later commercial development are not the same event.
+
+[^v3-i24-rar]: Torsten Lodderstedt, Justin Richer and Brian Campbell, [RFC 9396, *OAuth 2.0 Rich Authorization Requests*](https://www.rfc-editor.org/rfc/rfc9396.html) (May 2023), §§2–5 and 11. The proposed civic grant is illustrative; the RFC does not supply its domain semantics or certify its implementation.
+
+[^v3-i24-abac]: Vincent C. Hu et al., [NIST SP 800-162, *Guide to Attribute Based Access Control (ABAC) Definition and Considerations*](https://doi.org/10.6028/NIST.SP.800-162) (2014, updated 2019), §§2.2–2.3, especially Figure 5 and pp. 14–15. The diagram here is an original simplified application of decision/enforcement separation, not a deployment blueprint or reproduction of NIST's figure.
+
+[^v3-i24-protection]: Jerome H. Saltzer and Michael D. Schroeder, [“The Protection of Information in Computer Systems”](https://www.mit.edu/~Saltzer/publications/protection/Basic.html), *Proceedings of the IEEE* 63(9), 1975, §I.A.3, especially fail-safe defaults, complete mediation and least privilege. The proposed workflows illustrate the principles; the article does not guarantee that a particular agent service enforces them.
+
+[^v3-i24-exchange]: Michael B. Jones et al., [RFC 8693, *OAuth 2.0 Token Exchange*](https://www.rfc-editor.org/rfc/rfc8693.html) (January 2020), §§1.1, 2 and 4.1. Delegation/impersonation and actor representation are protocol concepts. The civic narrowing rule and receiving-service checks are requirements of the proposed design, not automatic consequences of token exchange.
+
+[^v3-i24-revocation]: Torsten Lodderstedt, Stefanie Dronia and Marius Scurtescu, [RFC 7009, *OAuth 2.0 Token Revocation*](https://www.rfc-editor.org/rfc/rfc7009.html) (August 2013), §§2.1–2.2 and 3, including the discussion of propagation delay and deployment choices. Withdrawal of authority, deletion of data and repair of completed actions remain different operations.
+
+[^v3-i24-strategy]: Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, [*Design Patterns: Elements of Reusable Object-Oriented Software*](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-software-9780201633610) (Addison-Wesley, 1994), “Strategy.” Its use for alternative recommendation procedures is this book's application; it does not make civic values interchangeable algorithms.
+
+[^v3-i24-hai]: Saleema Amershi et al., [“Guidelines for Human-AI Interaction”](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf), *CHI* (2019), Table 1, guidelines 8–11 and 14–18. The proposed refusal, correction and switching exercises extend interaction principles into the civic service; they are not reported test results.

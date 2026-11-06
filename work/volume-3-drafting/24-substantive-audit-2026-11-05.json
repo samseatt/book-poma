@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-05",
+  "baseline": "c7ad04ab600421a102d4f24d195087c79b084294",
+  "scope": [
+    "I23 timestamp repair",
+    "C24 substantive design completion",
+    "I24 substantive builder completion"
+  ],
+  "inputs": {
+    "manuscripts/volume-3/23-interlude.md": "6f56e39f524185c2efc806097af7c71d8a02738bc5508e7e5a129a5934718ea7",
+    "manuscripts/volume-3/24-chapter.md": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+    "manuscripts/volume-3/24-interlude.md": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+    "work/manuscript-manifest.json": "3059fbb6fbb330869a59c42eb024d4c9dee85ea45d9c85ed4ff78a1309627a5e",
+    "work/journal/book.md": "5cda96bc79a6ad3fdd19b0dc92f0da96a0718e5c9af2aafb36f5163d87883440",
+    "work/journal/volume-3.md": "5459565bf3e411f78c1689840780881c69e72e6d531d66bf992637a4a14e1634",
+    "work/EDITORIAL_CONTEXT.md": "21f51a748c83acf616ceb2f6c3adf572d10f8b4affafac9c50cec4c8ab4a5e9b",
+    "work/VOLUME_III_COMPLETION_PLAN.md": "abda19af86dda69f396d637640803d6758b6730b059db7e45087a49130f2b617",
+    "work/handoffs/2026-11-05-codex-to-claude-v3-alignment.md": "355532a3d496129395be39e40747b889055a156347b157c79de84b7f28bf18e0"
+  },
+  "sources": [
+    {
+      "id": "astronomy",
+      "url": "https://epub.uni-regensburg.de/58021/",
+      "author": "Lis Brack-Bernsen",
+      "work": "The Observational Foundations of Babylonian Astronomy",
+      "year": 2020,
+      "locator": "Section 2; accepted manuscript PDF page 2; published chapter pp. 171–189",
+      "verified": "Probable beginning around 747 BCE; earliest surviving diary 652 BCE. No exact 750 BCE invention claim.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "jacquard",
+      "url": "https://www.nms.ac.uk/discover-catalogue/the-jacquard-loom-innovation-in-textiles-and-computing",
+      "locator": "How does the loom work?",
+      "verified": "First demonstration 1801; mechanism uses punched cards.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "jacquard-limits",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co44888",
+      "locator": "Object description",
+      "verified": "Commercial success 1804; preceding contributions by Falcon and Vaucanson. Museum object itself dates 1867.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "hamilton",
+      "url": "https://founders.archives.gov/documents/Hamilton/01-25-02-0169",
+      "locator": "Document heading and letter",
+      "verified": "16 January 1801; existing interpretation retained; only date precision changed.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "vsd",
+      "url": "https://dada.cs.washington.edu/research/tr/2002/12/UW-CSE-02-12-01.pdf",
+      "locator": "Tripartite methodology; stakeholder discussion",
+      "verified": "Conceptual, empirical and technical investigations, iterative and including indirectly affected people. Civic worked example is new application.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "hai",
+      "url": "https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf",
+      "locator": "Table 1, especially 1–2, 8–11, 14–18",
+      "verified": "Capabilities/limits, dismissal, correction, explanation, controls and change notification. Does not certify civic rights or future agents.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "protection",
+      "url": "https://www.mit.edu/~Saltzer/publications/protection/Basic.html",
+      "locator": "I.A.3",
+      "verified": "Least privilege, separation of privilege, complete mediation, fail-safe defaults; institutional application distinguished from original computing scope.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "abac",
+      "url": "https://doi.org/10.6028/NIST.SP.800-162",
+      "locator": "Sections 2.2–2.3, Figure 5, printed pp. 14–15",
+      "verified": "Policy decision and enforcement responsibilities; actor/resource/action/context attributes; centralized or distributed implementations possible.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "rar",
+      "url": "https://www.rfc-editor.org/rfc/rfc9396.html",
+      "locator": "Sections 2–5 and 11",
+      "verified": "Fine-grained authorization_details parameter. Application semantics remain design responsibility.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "exchange",
+      "url": "https://www.rfc-editor.org/rfc/rfc8693.html",
+      "locator": "Sections 1.1 and 4.1",
+      "verified": "Delegation/impersonation and actor representation; not an automatic guarantee of narrowing or a complete trust model.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "revocation",
+      "url": "https://www.rfc-editor.org/rfc/rfc7009.html",
+      "locator": "Sections 2.1–2.2, 3",
+      "verified": "Revocation and possible propagation delays; not cancellation of completed real-world actions.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "strategy",
+      "url": "https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-software-9780201633610",
+      "locator": "Publisher bibliographic record; Strategy entry in contents",
+      "verified": "GoF authors, publication 31 October 1994, pattern collection. Definition/application independently checked in publisher-hosted implementation excerpt. No uninspected page number asserted.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "strategy-implementation",
+      "url": "https://ptgmedia.pearsoncmg.com/imprint_downloads/informit/bookreg/9780130307040/ch4_mod.pdf",
+      "locator": "Chapter 4, printed p. 97",
+      "verified": "Publisher-hosted concrete implementation of interchangeable layout algorithms using Strategy; not a source for civic governance.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "lessig",
+      "url": "https://www.harvardmagazine.com/2000/01/code-is-law-html",
+      "locator": "Opening sentence",
+      "verified": "Replacement epigraph exact: Every age has its potential regulator, its threat to liberty. Prior Every system hides a constitution not verified; no claim of exhaustive nonexistence.",
+      "accessed": "2026-11-05"
+    },
+    {
+      "id": "agent-baseline",
+      "url": "https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents",
+      "locator": "5 February 2026 announcement",
+      "verified": "Identity and authority are contemporary agent-engineering concerns. Not a completed standard or a 2031 performance forecast.",
+      "accessed": "2026-11-05"
+    }
+  ],
+  "historical_preservation": {
+    "C24": "Exact original braid retained except January letter expanded to 16 January 1801",
+    "I23": "747 BCE probable beginning / 652 BCE earliest surviving diary; no exact 750 BCE discovery",
+    "I24": "1801 first demonstration; commercial success in 1804 distinguished"
+  },
+  "preserved": {
+    "C24_opening": "verbatim",
+    "C24_closing": "verbatim",
+    "I24_opening": "only obsolete Gate name replaced",
+    "annotations": "none in the three scoped manuscripts; no author annotation cleared"
+  },
+  "reserved": [
+    "Final future vignette prose and callbacks",
+    "Noesis and Open 24",
+    "C24 TODO epigraph",
+    "Author further development of Alice/Bob",
+    "Full V3 final handoff/release"
+  ],
+  "figure": {
+    "path": "manuscripts/volume-3/assets/24-interlude/delegation-boundary.svg",
+    "original": true,
+    "rendered": "PNG with sharp",
+    "visually_reviewed": true
+  },
+  "validation": {
+    "draft_heading_uniqueness": true,
+    "draft_footnote_pairing": true,
+    "protected_passages": true,
+    "canonical_checker": {
+      "23-interlude.md": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
+        "sha256": "99895d62b3ea5cb682e0156e8b63693143ecd2f5d92a313592b429b6de17e647",
+        "defined_notes": 7,
+        "note_references": 7,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      "24-chapter.md": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
+        "sha256": "e2837cab8537e3fe8fad55233af6a8c0fe84c253f6886cde1de5cab17e0b37ee",
+        "defined_notes": 10,
+        "note_references": 10,
+        "parsed_notes": 10,
+        "html_note_backlinks": 10,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      "24-interlude.md": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
+        "sha256": "fde104293ca61d20786dd07466f95d5a492616975c12ae79ebc3993abc152326",
+        "defined_notes": 9,
+        "note_references": 9,
+        "parsed_notes": 9,
+        "html_note_backlinks": 9,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    }
+  },
+  "outputs": {
+    "work/VOLUME_III_COMPLETION_PLAN.md": "362a4b0fddd9a6d8954d82c18068656732d066862b71936402a6808b9f3ffc98",
+    "work/manuscript-manifest.json": "1f180dea950a819f16a0668c2cc6dbdee43e415af4ebc9412f158937d8416cab",
+    "work/EDITORIAL_CONTEXT.md": "2ed753524a5eaf3ba50e87933d2bc34c97d0771a2744fd5c54c199f2918864ff",
+    "manuscripts/volume-3/24-interlude.md": "fde104293ca61d20786dd07466f95d5a492616975c12ae79ebc3993abc152326",
+    "manuscripts/volume-3/23-interlude.md": "99895d62b3ea5cb682e0156e8b63693143ecd2f5d92a313592b429b6de17e647",
+    "manuscripts/volume-3/24-chapter.md": "e2837cab8537e3fe8fad55233af6a8c0fe84c253f6886cde1de5cab17e0b37ee",
+    "manuscripts/volume-3/assets/24-interlude/delegation-boundary.svg": "1e6a2f84481409f740bf3e90d4d2c29715ad60580b98f9ff3f218b89d66561d8",
+    "work/journal/book.md": "a0f30235203876c8e13bf9e0ed1c1e63d18f07fc2f43d63de252d26785712183",
+    "work/journal/volume-3.md": "aa8402c9e67ad48c2903fc01bf4646b4c2b0199ae4bf3410ebcf915b010821d3",
+    "work/volume-3-drafting/24-substantive-completion-2026-11-05.md": "46e3430fde44b1c9aba47a201e78d69f87d069815d0d5df2ca4ce605f9c75c3b",
+    "work/handoffs/2026-11-05-codex-to-claude-v3-alignment.md": "6e51bfc201f04850b47636f88b8343c89f35ceda0754420855522687946e772b"
+  }
+}

@@ -153,7 +153,7 @@ Chapter 23 asked how help finds the door.
 
 This chapter asks what happens when help enters the room.
 
-The first loom of renewal made needs and capacities visible enough to coordinate. It let prescriptions move, rides appear, rooms open, repairs happen, and neighbors become reachable again. That was necessary. A civilization that cannot coordinate cannot renew.
+The first loom of renewal asks us to make needs and capacities visible enough to coordinate: prescriptions reaching people, rides arranged, rooms opened, repairs completed, neighbors reachable again. Those are purposes to test, not achievements established by a chapter heading. A civilization that cannot coordinate cannot renew.
 
 But a civilization that coordinates better will also know more.
 
@@ -199,7 +199,7 @@ In 499 BCE, the Ionian Revolt began on the empire's western edge. Its causes inc
 
 On March 4, 1801, Jefferson took office after an election whose deadlock had required a decision in the House of Representatives. An opponent could inherit executive power without overthrowing the state. This was an institutional achievement worth more than the personal virtue of either departing or arriving president.[^v3-24-jefferson]
 
-Hamilton, no admirer of Jefferson, had urged James Bayard to prefer him to Aaron Burr. His January letter feared Burr's ambition and willingness to attempt a usurpation. This was partisan judgment, not clairvoyance. Its lasting design concern is nevertheless exact: what happens when the person who can obtain an office has fewer restraints than the office's builders expected?[^v3-24-hamilton]
+Hamilton, no admirer of Jefferson, had urged James Bayard to prefer him to Aaron Burr. His letter of January 16, 1801 feared Burr's ambition and willingness to attempt a usurpation. This was partisan judgment, not clairvoyance. Its lasting design concern is nevertheless exact: what happens when the person who can obtain an office has fewer restraints than the office's builders expected?[^v3-24-hamilton]
 
 Jefferson's Louisiana Purchase in 1803 enlarged the republic's room to act. For Indigenous nations whose homelands lay within the purchase's claimed boundaries, the agreement between France and the United States did not amount to consent. Agency had expanded at one scale without being granted at another.[^v3-24-louisiana]
 
@@ -269,107 +269,65 @@ Especially then.
 
 ## Agency Is Not a Button
 
-Modern systems often mistake agency for options.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05; proposed civic applications are not reported pilot results. -->
 
-They present a menu and call the person free.
+Modern systems often mistake agency for options. They present a menu and call the person free. This is like putting three doors in a burning building, locking two, hiding the sign for the third, and congratulating the occupants on architectural pluralism.
 
-This is like putting three doors in a burning building, locking two, hiding the sign for the third, and congratulating the occupants on architectural pluralism.
+Agency is the preserved capacity to author one's path under conditions of help. The important word is *capacity*. A person may have permission to attend a course but no transport, an application form but no way to read it, a choice of assistants but no affordable way to change one. Adding another button has not enlarged the life.
 
-Agency is not the mere presence of buttons.
+Begin design with an activity the person values. Suppose she wants to return to study while caring for someone at home. An assistant could compare programmes, translate entry requirements, draft applications, arrange transport and coordinate respite. This is substantial help. The outcome to preserve is her ability to pursue a chosen course, not her compliance with the assistant's prediction of the most productive citizen she could become.
 
-A button may be decorative. A refusal path may be technically available and practically buried. A consent option may exist only after the person has already become dependent. A recommendation may be optional in the same way that disobeying the weather is optional.
+Three designs deserve comparison. Advice alone leaves the person to execute everything. Unrestricted delegation removes effort but hands the helper too much jurisdiction. Bounded delegation lets routine work proceed within an agreed envelope, with a new decision where the consequences cross it. Which arrangement works depends on the person and the activity; maximum automation and maximum confirmation are equally poor universal answers.
 
-Agency requires more.
+No one authors a life alone. We are scaffolded by language, family, law, bodies, education and the occasional generous person who arrives before the form has been updated. The fantasy of the fully self-made individual belongs in the same museum as perpetual motion machines and humane comment sections. Dependence on a useful aid is not by itself a loss of agency. The question is whether that dependence lets someone else dictate the life it supports.
 
-It requires intelligibility: I can understand what is happening to me.
+## Put the Value into the Design
 
-Meaningful alternatives: I am not choosing between obedience and punishment, or between abandonment and surveillance.
+A declared value needs a route into a decision. **Value Sensitive Design** offers an established method: conceptual investigation clarifies the values and affected parties; empirical investigation studies their experience; technical investigation examines and changes the arrangement. These are iterative inquiries, not three signatures on a procurement form.[^v3-c24-vsd]
 
-Reversibility: I can change course.
+Apply that method to the study example. Conceptually, distinguish independence, supported choice and institutional efficiency. Empirically, include the applicant, the person receiving care, helpers and people who cannot use the proposed interface. Technically, compare the three delegation arrangements under actual burdens: uncertain schedules, limited money, disability, shared devices, fatigue. The applicant may want extensive assistance; the caregiver she depends on may be unable to accept another invisible task. A design can liberate one person by silently drafting another.
 
-Time to think: urgency is not being used as a leash.
+Translate a value into a requirement and an observable test. “Respect refusal” is a value. “Declining a suggested course does not lower eligibility for unrelated support” is a requirement. Comparing otherwise equivalent journeys, with one acceptance and one refusal, gives the requirement something to answer to. The comparison still needs investigation when relevant circumstances differ; it is not an instruction to manufacture identical outcomes.
 
-Refusal: no remains a real word.
+Keep a record of whose interpretation prevailed and which conflict remains. A preference slider cannot settle every disagreement about what public institutions owe their citizens. At some point the values have to leave the design workshop and meet the people expected to live under them.
 
-Delegation: I can let something help me without surrendering myself.
+## Usable Control
 
-Revocation: what I delegated can be taken back.
+Human–AI interaction research supplies practical principles: make capabilities and limits clear, make dismissal and correction easy, expose consequential changes, and provide controls over continuing behaviour.[^v3-c24-hai] These become useful when exercised by someone with a reason to do something else that morning.
 
-Appeal: the system's decision can be challenged.
+Give participants a consequential delegation to understand, narrow, revoke and transfer. Observe whether they can identify what the assistant may do, what requires a new decision, and what has already happened. Measure consequential misunderstandings and the help required, as well as completion time. A quick click through an incomprehensible permission screen is excellent throughput for the wrong event.
 
-Correction: the model of me can be amended.
+Test the alternative route too. If declining personalization means losing the only usable way to obtain essential help, the design has bundled a service with submission. Some information is genuinely necessary for some services; explain that dependence specifically and offer another feasible route where possible. “No penalty for refusal” cannot mean that a journey still works after its indispensable address is withheld. It means refusing one permission does not become a secret mark against the person's character.
 
-Opacity: some part of me remains unconverted into input.
-
-Agency is the preserved capacity to author one's path under conditions of help.
-
-That phrase matters because no one authors a life alone. We are all scaffolded: by language, family, law, body, weather, medicine, money, memory, education, habit, and the occasional generous person who arrives before the form has been updated. The fantasy of the fully self-made individual belongs in the same museum as perpetual motion machines and humane comment sections.
-
-But being scaffolded is not the same as being managed.
-
-The difference lies in who can inspect the scaffold, move it, refuse it, lean on it, dismantle it, or build another beside it.
-
-A humane adaptive system should increase real degrees of freedom. Not merely more choices, but better capacity to choose. Not merely more paths, but clearer consequences, protected refusals, and ways to recover after wrong turns.
-
-If assistance narrows a person into the system's preferred path, it is not expanding agency.
-
-It is optimizing compliance with a smile.
+The result should be more room to live, with less work spent operating the machinery of freedom.
 
 ## Delegation Without Surrender
 
-We delegate constantly.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05; proposed civic applications are not reported pilot results. -->
 
-This is not weakness. It is civilization.
+We delegate constantly. I delegate food inspection to institutions whose employees I will never meet, and I am grateful, because personally testing every jar of pickles for microbial treachery would leave little time for literature. Delegation is part of civilization. Its boundaries need to survive convenience.
 
-I delegate food inspection to institutions whose employees I will never meet, and I am grateful, because personally testing every jar of pickles for microbial treachery would leave little time for literature. I delegate parts of medicine to clinicians, parts of transportation to systems, parts of memory to devices, parts of trust to law, parts of spelling to software with mixed results.
+**Least privilege** gives a helper only the authority needed for the task. **Separation of privilege** prevents one permission from settling every consequential step. Saltzer and Schroeder formulated these as computer-protection principles. Applying them to civic assistance supplies useful engineering questions; it does not turn a citizen into an account or settle the political legitimacy of the rules.[^v3-c24-privilege]
 
-Delegation is not the problem.
+In the study example, the assistant may search broadly, draft an application and reserve a suitable appointment. Submitting a binding application, spending beyond an agreed amount, disclosing clinical records or accepting a changed obligation each needs its own authority. The applicant can grant some of those permissions in advance. The design need not interrupt her at every keystroke to prove that a human remains in the loop.
 
-Surrender is.
+| Decision | A possible delegation | Where authority must be checked again |
+| --- | --- | --- |
+| Gather and compare | Find courses and suitable support | New private-data access or a new purpose |
+| Prepare | Draft an application using approved facts | Disputed inference or missing information |
+| Arrange | Reserve a slot within agreed conditions | A different fee, location, deadline or commitment |
+| Commit | Submit or pay under an explicit grant | Any step beyond that grant |
+| Continue helping | Carry out the agreed ongoing task | Expiry, changed circumstances or withdrawal |
 
-The future will require more delegation, not less. Adaptive systems will schedule, route, remind, filter, translate, summarize, monitor, and warn. They will help with appointments, learning, care, finance, energy use, civic participation, and probably the refrigerator's ongoing effort to become a nutritionist with boundary issues.
+These are design choices for a hypothetical service, not universal legal categories. The table reveals where one vague instruction—*help me get back to study*—contains several different powers.
 
-The question is how delegation remains bounded.
+Keep four things distinguishable: what the person wants, what they authorize, what an institution legitimately requires, and what the provider would like to sell. A preference is evidence about a wish; it is not automatically permission to act. A safety requirement is not automatically a commercial objective with a serious face. An agent that can explain a conflict should not also be allowed to erase it by merging all four into one score.
 
-A person should be able to delegate appointment scheduling but not treatment consent.
+Delegation should feel like lending a key, not signing over the house. The grant needs a purpose, permitted acts, relevant data, resource limits, duration and a rule for further delegation. If the first helper brings in a second, the person's boundary must travel with the work. More intelligence downstream does not create more authority.
 
-Delegate financial routing but not value priorities.
+Review the grant when its consequences change, and at intervals proportionate to its reach. Asking for the same approval so often that everyone reflexively agrees is consent fatigue designed in-house. Conversely, a system that asks once and assumes forever is collecting jurisdiction.
 
-Delegate learning recommendations but not identity.
-
-Delegate civic notifications but not political judgment.
-
-Delegate household energy optimization but not the right of the house to decide that guests are thermally inefficient.
-
-Delegation must be explicit, scoped, time-limited, revocable, inspectable, logged, contestable, and transferable.
-
-If that sounds like too much complexity, consider the alternative: a system in which small conveniences silently accumulate into life management. A calendar becomes a behavior guide. A health assistant becomes a moral tutor. A work recommender becomes a destiny machine. A civic app becomes a quiet registrar of virtue.
-
-Delegation should feel like lending a key, not signing over the house.
-
-The system may steward a function.
-
-It may not become the self.
-
-This personal stewardship requires rituals as much as settings. A person should be asked, periodically and plainly:
-
-Do you still want this system to act for you?
-
-Do you understand what it can see?
-
-Do you understand what it can decide?
-
-Do you want to narrow or widen its authority?
-
-Do you want to pause it?
-
-Do you want to leave no trace of this delegation after it ends?
-
-These questions should not hide under account management. Account management is where agency goes when designers feel guilty but not enough to change the main flow.
-
-They should appear at moments of real consequence.
-
-A system that asks once and assumes forever is not helping. It is collecting jurisdiction.
+Withdrawal needs an honest account of time. It can stop future authorized action within the system's stated enforcement limits. It cannot unsend a disclosed document or make an already accepted appointment never have existed. Those consequences require cancellation, correction or repair. Necessary records may remain under declared retention rules. The right to dismiss a helper is too important to be advertised as a magic eraser.
 
 ## Trust as Architecture
 
@@ -421,97 +379,21 @@ They must earn trust by becoming interruptible.
 
 ## The Model of Me
 
-Every adaptive system carries a little portrait of the person.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05; proposed civic applications are not reported pilot results. -->
 
-Not an oil portrait. Not the flattering sort commissioned by people with land and anxieties about mortality. A model.
+Every adaptive system that personalizes assistance carries some approximation of the person: declared preferences, observed behaviour, inferred needs, remembered decisions. Not an oil portrait commissioned by people with land and anxieties about mortality. A working model, often distributed across several systems rather than stored as one convenient little soul.
 
-Health risk.
+The approximation can be useful. It can notice a gap in support or find a course the person would never have encountered. It also determines what becomes visible. If I am shown only opportunities that fit my past choices, tomorrow begins to resemble yesterday with faster rendering.
 
-Learning style.
+The design must distinguish **observation, inference and decision**. “Declined three evening sessions” is an observation, if correctly recorded. “Prefers remote participation” is an inference. “Do not offer evening opportunities” is a policy decision. The third does not follow inevitably from the first two. Perhaps the buses stopped early. Perhaps someone was ill. Perhaps I disliked those three sessions.
 
-Work capacity.
+A useful inspection surface shows the consequential claims, their sources and dates, the uses being made of them, and where disagreement can change those uses. It need not pretend to expose every internal cause of a neural model. A fluent account of why the system acted is not automatically a faithful explanation. Show recorded inputs and rules where available; say what remains uncertain.
 
-Trustworthiness.
+The person should be able to correct a fact, dispute an inference, restrict its use, or ask for a decision to be reconsidered. These are different operations. Changing a preference does not necessarily make a past record false, and correcting a record does not automatically reverse every decision derived from it. A dispute may require evidence and review; the system should show its status while it is unresolved.
 
-Civic interest.
+No one should be governed by a model of themselves they cannot inspect, challenge or outgrow. That is the design claim here, not an assurance that all existing law already grants every part of it.
 
-Financial behavior.
-
-Social graph.
-
-Emotional vulnerability.
-
-Likely compliance.
-
-Likely fatigue.
-
-Likely political lean.
-
-Likely need.
-
-Likely usefulness.
-
-Likely trouble.
-
-Some of these models help. A care system that notices heart failure risk may prevent a crisis. A learning system that notices how a child understands fractions may spare the child from concluding that mathematics is a private insult. A civic system that notices caregiver exhaustion may route relief before love becomes collapse.
-
-But every model of a person is also a claim against the person.
-
-This is what I think you are.
-
-This is what I expect from you.
-
-This is what I will show others.
-
-This is where I will route you.
-
-This is what I will withhold.
-
-This is what I will recommend.
-
-This is what I will remember.
-
-No one should be governed by a model of themselves they cannot inspect, challenge, or outgrow.
-
-The right to inspect the model of oneself must become ordinary.
-
-Not a technical export.
-
-Not a legal request.
-
-Not a PDF generated after thirty days by a compliance department that considers human curiosity suspicious.
-
-A living interface.
-
-What does the system believe about me?
-
-Where did that belief come from?
-
-How confident is it?
-
-Who can see it?
-
-What decisions use it?
-
-How long does it persist?
-
-How do I correct it?
-
-How do I add context?
-
-How do I mark it as old?
-
-How do I prevent it from following me into places it does not belong?
-
-This is not merely privacy.
-
-It is dignity.
-
-Privacy says: do not expose me.
-
-Dignity says: do not finish me.
-
-A model can help if it remains a sketch. It becomes dangerous when it hardens into portrait, then passport, then cage.
+Privacy says: do not expose me. Dignity says: do not finish me. A model can help if it remains a sketch. It becomes dangerous when it hardens into portrait, then passport, then cage.
 
 ## The Right to Outgrow the Model
 
@@ -599,7 +481,7 @@ Expert in one room, fool in another.
 
 Occasionally fool in both, depending on the topic and whether plumbing is involved.
 
-A humane adaptive civilization must allow plural membership and plural selves. It must not build one master identity layer through which every other relation passes. That temptation will be strong. Unified identity is convenient. It reduces fraud. It enables service delivery. It makes dashboards hum with administrative satisfaction.
+A humane adaptive civilization must allow plural membership and plural selves. It must not make every relationship disclose itself to one unrestricted master dossier. A shared identifier or well-governed authentication service is not, by itself, that dossier; what can be linked and used across contexts is the consequential design choice. That temptation will be strong. Unified identity is convenient. It reduces fraud. It enables service delivery. It makes dashboards hum with administrative satisfaction.
 
 It also creates the most efficient leash in history if built without restraint.
 
@@ -721,123 +603,35 @@ That is possession with excellent bedside manner.
 
 ## Contestability as Dignity
 
-If a system affects life chances, the person must be able to contest it.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05; proposed civic applications are not reported pilot results. -->
 
-Contestability is not friction in the machine.
+If a system affects life chances, the person must be able to contest it. An appeal button is the beginning of the route, not its destination.
 
-It is dignity returning through the side door after abstraction has tried to complete the paperwork without it.
+Follow one disputed inference through the arrangement. The assistant marks the applicant as unreliable after she declines an unsuitable course. She asks where the label came from. Someone must be responsible for answering, for preventing inappropriate reuse while the dispute is examined, and for notifying affected services if the label is corrected. Otherwise she wins a conversation while losing the next application.
 
-A person must be able to contest a recommendation, a classification, a denial, a risk score, a routing decision, a model of their needs, a model of their capacity, and the system's claim that it knows best.
+A usable route has an owner, a response period appropriate to the consequence, access to the relevant evidence, and authority to change the decision. A serious immediate harm may require an interim measure while the dispute is unresolved. That measure itself needs justification and review. Simply asking another model for another opinion can reproduce the same assumptions with a different vocabulary.
 
-This contest must be real.
+Human review is valuable when the reviewer has competence, independence, time and power to act. Placing an exhausted employee behind a confirmation button does not supply those properties. The reviewer must also be answerable; a human can make a cage without assistance from a GPU.
 
-Not a button that sends the complaint into a basement where forms go to compost.
-
-Not an appeal process so exhausting that only the retired, the furious, or the legally trained survive it.
-
-Not a chatbot apologizing for your experience while gently guiding you back into the same decision.
-
-Contestability requires visible reasons, accessible evidence, human review where stakes warrant, timelines, correction rights, escalation, and protection against retaliation.
-
-A system that punishes contestation is not trustworthy.
-
-A system that treats appeal as abuse has already become authority without humility.
+Here the principle is accessible challenge. The institutions of remedy belong to the later justice chapter. In this design, test whether a disagreement can reach someone who can actually change what happens next, and whether refusal of optional advice is being quietly converted into reduced access elsewhere.
 
 A system that requires heroic resistance will be resisted only by heroes, and heroes are unreliable infrastructure. They require origin stories, moral weather, and sometimes capes. Design should not depend on them.
 
-Contestability should be ordinary.
-
-Like opening a window.
-
-Like correcting a name.
-
-Like asking for the bill.
-
-Like saying: this is not me.
-
-The right to say "this is not me" may become one of the central liberties of adaptive civilization.
-
-This recommendation is not me.
-
-This risk score is not me.
-
-This profile is not me.
-
-This path may be useful, but it is not destiny.
-
-This help is welcome, but not as rule.
-
-A humane system must hear those sentences before they become revolt.
-
 ## Adaptive Systems and Paternalism
 
-Adaptive systems will often know better.
+<!-- AI-assisted substantive revision: Codex, 2026-11-05; proposed civic applications are not reported pilot results. -->
 
-Let us admit this, because denying it makes the rest of the argument sentimental.
+Adaptive systems will often know something useful before we do. A strong warning can enlarge agency: it gives a person time, information and alternatives that would otherwise disappear. Pretending that assistance must always be timid would abandon many of the people it is meant to help.
 
-A system may know that I am tired before I do. It may know that my blood pressure, sleep, mood, and calendar suggest a bad decision approaching with paperwork. It may know that a student is ready for harder material, that a patient's medication pattern is unsafe, that a driver is impaired, that a civic volunteer is burning out, that a household is sliding toward crisis, that a community rumor is false, that a workflow is causing predictable harm.
+The difficult design question is when advice becomes intervention. Consider separately the evidence of danger, the urgency, the reversibility of the proposed act, the authority to act and the cost of being wrong. A prediction with a high score does not supply all five. Nor does a confident human.
 
-It would be absurd to refuse such help because agency has pride.
+Suppose a helper detects that a planned journey has become unsafe. It can explain the problem and seek another route within its grant. Cancelling the person's appointments, notifying an employer or disclosing a diagnosis are different acts with different consequences. Some interventions may have a separate lawful basis; that basis must be identified rather than smuggled into an ordinary delegation as “for your safety.”
 
-But it would be equally absurd to let the system confuse knowledge with ownership.
+An emergency exception needs an entry condition, an accountable decision-maker, a limited scope, a record of what happened, and a route back to ordinary authority. Design the return before invoking the exception. If every inconvenience qualifies as an emergency, the exceptional power has become the service's actual constitution.
 
-Support says:
+This is proportionate assistance. It also protects the person who wants extensive, continuing support. A person need not graduate from disability, age or dependence to count as an author of their life. The design should make the support answerable, with alternatives and advocacy where needed, rather than congratulate itself for withdrawing it.
 
-Here is what I see.
-
-Here are possible consequences.
-
-Here are options.
-
-Here is uncertainty.
-
-Here is why I recommend this.
-
-Here is how to refuse.
-
-Paternalism says:
-
-I will narrow your life for your own good.
-
-Domination says:
-
-You may not know that I narrowed it.
-
-The humane path lies in designed tension. Advise strongly when stakes are high. Interrupt when harm is immediate. Slow the action when consequences are irreversible. Require human review when rights are affected. But preserve explanation, override, recourse, and after-the-fact accountability.
-
-There will be hard cases.
-
-A dementia patient refusing medication.
-
-A teen being radicalized.
-
-A worker making unsafe choices under economic pressure.
-
-A person in mental health crisis.
-
-A community spreading dangerous misinformation.
-
-A parent neglecting a child.
-
-These are not solved by slogans about freedom. They require judgment, law, care, context, and humility.
-
-But hard cases are where tyrannies love to file their paperwork.
-
-If we design all systems for the hardest intervention, ordinary life becomes governed by emergency logic. If we design all systems for maximal liberty, the vulnerable may be abandoned under the flag of agency.
-
-So the design must be proportional.
-
-Assistance should scale with risk.
-
-Authority should scale with accountability.
-
-Intervention should scale with evidence.
-
-And the path back to agency should be built before intervention begins.
-
-The goal is not a world without guardians.
-
-It is a world where guardians do not become permanent because nobody designed a door.
+Hard cases are where tyrannies love to file their paperwork. They are also where rigid rules about never intervening can become another kind of neglect. Build the judgment, evidence and review into the arrangement; do not ask a slogan to perform all three.
 
 ## Dignity Under Recommendation
 
@@ -883,63 +677,33 @@ Many of the things that keep a human life intact look inefficient from the wrong
 
 A civilization that cannot protect low-return meaning will eventually become a very efficient desert.
 
-## Build for Contestability
+## Alice: Room for a Different Self
 
-So what should a humane adaptive civilization guarantee?
+<!-- AI-assisted exploratory draft: Codex, 2026-11-05. A question for author development, not a validated finding. -->
 
-Not that systems will never infer.
+*What if accurate assistance gradually removes the experiences through which its user could become someone it cannot yet predict?*
 
-They will.
+An assistant learns from the choices I make among the choices it shows me. Then it becomes better at showing me those choices. A prediction can become more accurate partly because the world has been made easier to predict. The person remains free to select from the menu while the menu quietly acquires authorship.
 
-Not that recommendations will never shape life.
+The existence of such feedback is not the wager. The question is whether a system could remain useful while preserving my capacity to revise the aims by which its usefulness is judged. A little random novelty will not do. An unusual book recommendation is harmless enough; a random mortgage is a different literary genre. Nor should a helper secretly engineer personal growth. That would return us to benevolent management through another entrance.
 
-They will.
+I would like to explore a form of assistance in which I can reserve room for paths poorly explained by my recorded history, and later decide whether that room mattered. Compare help optimized around stated current goals with help that also preserves user-chosen opportunities to question them. Do people find worthwhile alternatives, understand their choices better, and retain the ability to switch? Or do we merely create more work and call it possibility?
 
-Not that help will never be strong.
+There is no objective score for the person I ought to become. That is part of the difficulty, and a reason to keep the inquiry participatory. The helper cannot certify that it has preserved my freedom by observing that I approve of its certificate. The experiment would need independent opportunities, time, disagreement and outcomes chosen by the participants themselves.
 
-Sometimes it must be.
+Perhaps the best model of me will need to keep a place for the person who disappoints it.
 
-The guarantee is different.
+## The Next Move — Keep a Key
 
-Assistance must remain inspectable, contestable, reversible, plural, bounded, and able to leave.
+<!-- AI-assisted substantive addition: Codex, 2026-11-05. -->
 
-The citizen should be able to ask:
+Choose one delegation that matters: handling an application, arranging care, managing correspondence or coordinating a commitment. Write down what the helper may do without asking, what requires a new decision, and what it may not do. Include the data, resource limits, duration and any permission to bring in another helper.
 
-What do you think I am?
+Then walk the boundary. Correct an important assumption. Decline a recommendation. Revoke future action. Find out what has already happened and what another helper would need to take over. If the alternative exists only in a document, it is still a promise awaiting construction. Make one part of it usable.
 
-Why?
+Judge the result in both directions. Did the assistance create an option or release time you could actually use? Could you change your mind without losing unrelated support or undertaking an unpaid career in account administration? Record the obstruction and who can repair it. Revisit the arrangement when its reach changes.
 
-Who told you?
-
-Who can see that?
-
-What does it affect?
-
-How certain are you?
-
-How do I correct you?
-
-How do I refuse?
-
-How do I delegate only this part?
-
-How do I revoke that delegation?
-
-How do I appeal?
-
-How do I leave?
-
-How do I remain partly unknown?
-
-These are not luxury rights for the technically literate. They are the civil rights of life inside adaptive systems.
-
-The old world fought over speech, vote, movement, property, religion, due process, privacy, assembly. The new world will still need all of those. But it will also need rights against overhelp: the right not to be optimized without consent, the right to inspect the model, the right to outgrow the model, the right to meaningful refusal, the right to plural identity, the right to opacity, the right to human review, the right to assistance that can leave.
-
-Freedom in the adaptive age is not being left alone by every system.
-
-That is no longer plausible, and in many cases not desirable.
-
-Freedom is the ability to live with systems of help without being absorbed by them.
+The purpose of keeping a key is to have somewhere of your own to go.
 
 The system on my screen still waited.
 
@@ -998,3 +762,9 @@ The developer must now decide whether to build it before the tool becomes law.
 [^v3-24-louisiana]: National Archives, [“Louisiana Purchase Treaty (1803)”](https://www.archives.gov/milestone-documents/louisiana-purchase-treaty). The treaty between the purchasing and ceding states did not itself obtain the consent of the Indigenous nations within its territorial claims.
 
 [^v3-24-authority]: NIST, [“New Concept Paper on Identity and Authority of Software Agents”](https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents). The specific rights and tests proposed here are design requirements, not a claim that a current standard guarantees them.
+
+[^v3-c24-vsd]: Batya Friedman, Peter H. Kahn Jr. and Alan Borning, [“Value Sensitive Design: Theory and Methods”](https://dada.cs.washington.edu/research/tr/2002/12/UW-CSE-02-12-01.pdf), University of Washington Technical Report 02-12-01 (December 2002), “The Tripartite Methodology” and the distinction between direct and indirect stakeholders. The study/assistance case and acceptance tests here are this book's application.
+
+[^v3-c24-hai]: Saleema Amershi et al., [“Guidelines for Human-AI Interaction”](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf), *CHI* (2019), Table 1, especially guidelines 1–2, 8–11 and 14–18; DOI: 10.1145/3290605.3300233. These interaction guidelines inform the proposed usability work; they do not establish civic rights or certify a future agent.
+
+[^v3-c24-privilege]: Jerome H. Saltzer and Michael D. Schroeder, [“The Protection of Information in Computer Systems”](https://www.mit.edu/~Saltzer/publications/protection/Basic.html), *Proceedings of the IEEE* 63(9), 1975, §I.A.3, especially separation of privilege and least privilege. The delegation table is a proposed civic application, not a claim that computer-security principles alone establish legitimate public authority.

@@ -180,7 +180,7 @@ A humane renewal system needs better sight: where need is emerging, where capaci
 
 The third lesson is the log.
 
-Babylonian astronomers did not learn the sky by glancing upward between errands and declaring themselves aligned with the cosmos. Across a long tradition of observation, they recorded and compared, keeping memory longer than mood. Their surviving astronomical diaries show the value of sustained, organized records.[^v3-i23-log] This is a lesson drawn from that broader tradition, not an invention assigned to the chapter’s opening year.
+Near our **750 BCE** marker, Babylonian astronomy offers a more specific beginning: its sustained programme of regular sky observations probably began around **747 BCE**, three years later. The earliest surviving astronomical diary dates to 652 BCE; the earlier beginning is reconstructed, not a tablet we can hold from that year.[^v3-i23-log] These observers did not learn the sky by glancing upward between errands and declaring themselves aligned with the cosmos. They recorded and compared, keeping memory longer than mood.
 
 Renewal needs logs too.
 
@@ -492,7 +492,7 @@ That is where Chapter 24 begins.
 The Citizen's Dilemma begins when opening that door may cost agency.
 
 
-[^v3-i23-log]: Gerd Graßhoff, [“Globalization of Ancient Knowledge: From Babylonian Observations to Scientific Regularities”](https://www.mprl-series.mpg.de/studies/1/11/index.html), in Jürgen Renn, ed., *The Globalization of Knowledge in History* (2012), §§7.2–7.3. The surviving diary corpus discussed there is mostly from the Seleucid period; it does not establish a scientific invention in 750 BCE. The substrate/lens/log triad is this book's interpretive device.
+[^v3-i23-log]: Lis Brack-Bernsen, [“The Observational Foundations of Babylonian Astronomy”](https://epub.uni-regensburg.de/58021/), in Alan C. Bowen and Francesca Rochberg, eds., *Hellenistic Astronomy: The Science in Its Contexts* (Brill, 2020), pp. 171–189, §2; accepted manuscript, PDF p. 2. The author places the probable beginning of regular observations around 747 BCE and the earliest surviving diary in 652 BCE. This is a nearby Babylonian development, not a Median invention or an exact 750 BCE founding claim. The substrate/lens/log triad is this book's interpretation.
 
 [^v3-i23-ports]: Alistair Cockburn, [“Hexagonal Architecture”](https://alistair.cockburn.us/hexagonal-architecture/), HaT Technical Report 2005.02 (2005). Also called Ports and Adapters: application behavior is separated from particular external technologies through ports and adapters. The civic service and component boundaries shown here are proposed applications.
 
