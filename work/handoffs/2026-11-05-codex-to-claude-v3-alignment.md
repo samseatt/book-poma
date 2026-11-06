@@ -1,5 +1,7 @@
 # Volume III alignment for Claude
 
+> **Withheld cumulative working file — not the outgoing package.** As of 6 November 2026 the whole-volume reconciliation is complete; Sam has deferred the comprehensive Claude handoff to a separate task. Read [the internal reconciliation addendum](2026-11-06-v3-reconciliation-addendum.md) and [current inventory](../VOLUME_III_PRINCIPLES_AND_PATTERNS.md) ahead of older status/scope statements below. No transfer is authorized by this update.
+
 5 November 2026 · *The Path of Many Arrows* · Editorial handoff from Codex
 
 **WITHHELD — working alignment snapshot.** Sam has assigned a substantive V3 completion pass before Claude receives the manuscripts. Do not treat this document as the final outgoing handoff. It will be revised against completed manuscript changes and a fixed source revision. The active sequence and reserved literary work are in [the completion plan](../VOLUME_III_COMPLETION_PLAN.md).

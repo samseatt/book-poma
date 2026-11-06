@@ -232,6 +232,18 @@ The charter's **INK** names structured, connected knowledge; **PRO**, Pedagogica
 
 The first sowing is intentionally uneven: a small real core, broad skeletons, selected deeper capabilities and a sparse registration envelope. That is an early build direction, not the definition of the 2036 Gate. By then the hoped-for progress is sustained movement between learning, publication and public memory, across more than the founder's demonstration. If the named projects take another course, the design question remains useful to anyone building such systems.
 
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+## Give Inquiry a Working Memory
+
+A publication pipeline improves an account. Collective inquiry also needs a place to work before there is an account worth publishing. **Keep rival hypotheses available to cooperating specialists.** A blackboard architecture provides a useful precedent: knowledge sources contribute partial interpretations to a structured shared state, and a control strategy selects useful next work. Hearsay-II demonstrated this approach in speech understanding, a much narrower problem than civilizational cognition.[^v3-i26-blackboard]
+
+For a bounded inquiry into rising heat illness, a working space could relate health observations, tree-cover changes, energy constraints and residents' accounts. Separate proposed explanations from accepted observations. Specialists can request a discriminating measurement, challenge a dependency or propose an intervention; they need not all receive the underlying private records. A permitted summary or a computation performed by the data's custodian may suffice.
+
+The arrangement should produce new questions as well as better answers. Perhaps the apparent shortage of cooling equipment is partly a failure of building access or working hours. That hypothesis needs investigation. Several agents repeating it must not count as several discoveries. Preserve distinct evidence routes, uncertainty and the conditions under which each explanation should be retired.
+
+The workspace can be federated or bounded to one undertaking; its logical shared state does not require a universal database. Its scheduler allocates inquiry, not public jurisdiction. When a proposal is ready to become action, it enters the relevant authority and resource pathways. Later, the care interlude uses the same architectural idea to assemble a changing clinical case. The collective faculty grows through such useful connections, not through giving one model every record and calling the result a mind.
+
 ## Corrections Have to Travel
 
 <!-- AI substantive draft, 5 November 2026. -->
@@ -396,3 +408,5 @@ That is where the next chapter begins: the ground, living and informational, tha
 [^v3-26i-rag]: Patrick Lewis et al., [“Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks”](https://papers.nips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html), *NeurIPS* 33 (2020), 9459–9474. The original architecture combines parametric and retrieved non-parametric memory. The wider source-versioning and publication workflow proposed here goes beyond that paper.
 
 [^v3-26i-explanation]: P. Jonathon Phillips et al., [*Four Principles of Explainable Artificial Intelligence*](https://doi.org/10.6028/NIST.IR.8312), NISTIR 8312 (2021), §§2.1–2.4 and 7. Meaningfulness and explanation accuracy are separate requirements; evaluation must concern the actual system and audience.
+
+[^v3-i26-blackboard]: Lee D. Erman, Frederick Hayes-Roth, Victor R. Lesser and D. Raj Reddy, [“The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty”](https://mas.cs.umass.edu/Documents/Erman_Hearsay80.pdf), *ACM Computing Surveys* 12(2), June 1980, pp. 213–253. The blackboard, knowledge sources and control strategy coordinate partial hypotheses. The civic inquiry, privacy and authority arrangements here are proposed extensions, not outcomes of that system. Accessed 6 November 2026.

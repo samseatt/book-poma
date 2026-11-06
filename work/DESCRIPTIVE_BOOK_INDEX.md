@@ -1,12 +1,14 @@
 # Working descriptive index
 
+> **Dated scope:** V3 descriptions and all three titles refreshed on 6 November 2026 from the reconciled canonical pairs. V1/V2 entries and their adoption/scope notes retain their 27 October basis; they are not current adoption-status claims. This remains a work index, not an update to the manuscript index. See [the V3 inventory](VOLUME_III_PRINCIPLES_AND_PATTERNS.md).
+
 *The Path of Many Arrows — current editorial plan, 27 October 2026*
 
 The book moves through **emergence, diagnosis and design**, pairing a civilizational inquiry with a changing technological or machinery mirror. This working index describes the intended book at chapter/interlude level and keeps unresolved names visible for later reconciliation.
 
-Each chapter and interlude displays **primary title — subtitle — DOMAIN**. Volume I entries 4–11 and Coda I follow the incoming author/Claude revisions; the adopted early units and other headings follow their current manuscript files. Volume II’s numbered interlude descriptions are **candidate scopes, not settled commissions**. Their canonical headings remain temporary labels; existing index alternatives are preserved in the title register below. Volume III descriptions include the agreed design/builder direction and working assessments, not a claim that every planned mechanism is already fully drafted.
+Each chapter and interlude displays **primary title — subtitle — DOMAIN**. Volume I entries 4–11 and Coda I follow the incoming author/Claude revisions; the adopted early units and other headings follow their current manuscript files. Volume II’s numbered interlude descriptions are **candidate scopes, not settled commissions**. Their canonical headings remain temporary labels; existing index alternatives are preserved in the title register below. Volume III descriptions now follow its reconciled substantive manuscripts; final projections and other literary work remain reserved.
 
-The Introduction is included as the book’s orientation. Cold Opens, internal sections, epigraphs and back-matter apparatus are omitted at this level. Prologue/Overture I and Epilogue/Coda III each appear once. No manuscript has been renamed, reordered or replaced by this index.
+The Introduction is included as the book’s orientation. Cold Opens, internal sections, epigraphs and back-matter apparatus are omitted at this level. Prologue/Overture I and the existing Epilogue each appear once. A separate Coda III remains optional. No manuscript has been renamed, reordered or replaced by this index.
 
 ### Introduction — The Arrow You Hold
 
@@ -328,159 +330,159 @@ The diagnoses converge on the difference between naming damage and changing what
 
 ## Volume III — The Basket We Weave
 
-Design and deliberate future-making. Chapters develop civilizational design; interludes develop the methods and machinery for building its enabling systems. Persian/Iranian and American/institutional history meet future state assessments at the eleven Velocity Gates of 2029–2054.
+Design and deliberate future-making. The chapters carry the civilizational design spine; the interludes carry its builder methods and machinery. Explicitly prospective personal openings lead into historical measurements and the eleven future-state Gates. The substantive middles are reconciled; final literary work remains.
 
 ### Overture III — The Basket We Carry
 
-The father’s phone and Ryan’s bow stage an intimate handoff between generations, memory and a possible Silicon inheritance. Reverence, interpretation and the responsibility of making new realities prepare the design volume.
+The father's phone and Ryan's bow stage the handoff between generations and a possible Silicon inheritance. Physical engineering gives way to a new vocabulary of making, while the basket keeps its emotional weight.
 
 ### Chapter Θ — The Architect's Pause
 
 *Design After Diagnosis* · **PATTERN**
 
-Establishes the design discipline that follows diagnosis: purpose, boundaries, alternatives, consequences and revisability. Neusphere and the design loom provide a framework for humane augmentation, supported by explicit design reasoning rather than aspiration alone.
+Establishes design after diagnosis: purpose, functions, alternatives, evidence and revision, including the freedom to change the governing question. Neusphere supplies a proposed collective capacity whose conditions can be designed without appointing a sovereign mind.
 
 ### Interlude Θ — The Architect's Bench
 
 *C4A and the Three Empires* · **METHOD**
 
-Astyages’ nightmare prepares the trellis metaphor, the three empire timelines and the transition from the 2026 predicament into possible futures. The Breadboard gives these ideas a place to be tried, observed and revised before their wider consequences become irreversible.
+Astyages, the 2026 threshold and the three empires prepare a bounded Breadboard for civilizational inquiry. Neuverse and Tiers give it practical form; repeatable deployment, recoverable tests and explicit limits distinguish an experiment from an asserted new world.
 
 ### Chapter 23 — The Loom of Renewal
 
 *From Fracture to Form* · **DESIGNING**
 
-Renewal begins with deciding what to preserve, repair, replace and reconnect after fracture. Historical beginnings and the first future gate establish a design discipline that builds replacement capacity and human continuity alongside structural change.
+Renewal composes useful capacities around needs, preserving worthwhile functions while changing arrangements that fracture them. Service design, functional allocation and modularity turn From Fracture to Form into a discipline of replacement and continuity.
 
 ### Interlude 23 — The Loom of Design
 
 *Ethical Systems Thinking for Builders* · **BUILDING**
 
-Turns renewal into a buildable experiment through needs, roles, flows, boundaries and separable components. Modularity, functional allocation and testable interfaces let the Breadboard learn locally without making its first architecture everyone else’s permanent obligation.
+Builds commitments that survive interfaces, retries and changes of provider. Ports/adapters, explicit states, relational meaning, bounded recovery and tests let a small civic experiment discover its failures before claiming wider competence.
 
 ### Chapter 24 — The Citizen's Dilemma
 
 *Agency, Trust, and Life Inside the New Mesh* · **BELONGING**
 
-Designs agency within a civilization whose assistance is increasingly capable and pervasive. Consent, bounded delegation, plural belonging and recoverable choices make trust something a person can exercise and revise in ordinary life.
+Examines agency as capable assistance becomes ordinary: consent, delegation, plural belonging and shared plans. Design should enlarge what people can do separately and together while keeping authority, constraints and continuing obligations revisable.
 
 ### Interlude 24 — The Developer's Dilemma
 
-*Building Without Becoming the New Tyrant* · **> "Every system hides a constitution."\**
+*Building Without Becoming the New Tyrant* · **DOING**
 
-Builds the machinery of delegated action: permissions, identity, policy boundaries, revocation and intelligible records. The developer’s dilemma is how to provide powerful help while preventing defaults and infrastructure from quietly assuming the citizen’s authority.
+Builds inspectable, post-app assistance through distinct plans, permissions and execution records. Capability composition, revocation, partial replanning and mixed initiative make strong agents useful without making the interface their hidden constitution.
 
 ### Chapter 25 — Beyond the Invisible Hand
 
 *Toward a Humane Economy* · **VALUES**
 
-Reconsiders value, contribution, provisioning and economic dignity when labor and price no longer adequately describe need or capacity. Allocation and mechanism design test how a humane economy could coordinate abundance and scarcity without recreating extractive power.
+Reworks provisioning, contribution and freedom beyond the assumption that every valuable relation must become a price. Mechanism design, capacity analysis and distributional tests ask whether productive gains become lives people can actually sustain.
 
 ### Interlude 25 — The Living Ledger
 
 *Dynamic Value Flows and Graph Economies* · **VALUE**
 
-Explores contribution records, matching, ledgers, settlement and audit as distinct working mechanisms. Graph and DAG approaches, transaction integrity and simulation test economic proposals against incentives, privacy, resource limits and the possibility of gaming the system.
+Connects value recognition, resource claims, allocation and settlement without confusing their records. Graph architecture, transaction/outbox/saga patterns and boundary accounting support the difficult 2034 pizza threshold, whose final economic mechanism remains to be specified.
 
 ### Chapter 26 — Minds in Harmony
 
 *Learning, Meaning, and Shared Reality* · **LEARNING**
 
-Designs conditions for learning, shared reality and intellectual independence amid abundant synthetic knowledge. Educational design, plural inquiry and contestable evidence seek collective understanding that strengthens individual judgment rather than manufacturing agreement.
+Designs learning and shared inquiry without requiring a shared doctrine. Educational design, epistemic independence and variable forms of participation ask how a public might develop useful collective cognition while preserving disagreement.
 
 ### Interlude 26 — Signal and Story
 
 *Cognitive Architectures for a Wise Infosphere* · **EDUCATION**
 
-Builds learning environments and evidence pipelines that preserve sources, uncertainty and routes for correction. Cognitive scaffolds, retrieval and evaluation make a wise infosphere a practical engineering problem rather than a promise attached to persuasive output.
+Builds evidence pipelines and a working memory for inquiry, keeping rival hypotheses, provenance and corrections in circulation. Blackboard architecture, evaluation and reproducibility make a wise infosphere more than a fluent publication machine.
 
 ### Chapter 27 — The Reclaimed Commons
 
 *Data, Nature, and Shared Ground* · **SHARING**
 
-Treats ecological, informational and civic commons as systems requiring continuing care and legitimate shared authority. Resource-specific stewardship, boundaries and participation make replenishment and access design responsibilities rather than residual benefits.
+Places shared capacities inside the ecosystems and communities that sustain them. Commons governance, non-substitutable limits and adaptive stewardship reject both enclosure and the assumption that human benefit can excuse unlimited extraction.
 
 ### Interlude 27 — Streams and Sanctuaries
 
 *Governing the Informational and Biological Commons* · **SUPPORTING**
 
-Builds the records, permissions, monitoring and resource-management arrangements that support stewardship. Data and biological commons make provenance, consent, capacity and community authority concrete, while resisting a universal template for very different resources.
+Turns stewardship into permissions, resource budgets, privacy mechanisms and lifecycle duties. Community authority and cumulative limits shape what a commons service may do, including what must remain uncollected or unavailable.
 
 ### Chapter 28 — The Reimagined Workshop
 
 *Making as Stewardship* · **MAKING**
 
-Reimagines production through the full lives of materials, energy, labor and products. Regenerative making combines useful capacity with repair, reuse and accountable limits, extending stewardship into what a civilization manufactures and discards.
+Designs material usefulness through function, repair, reuse and eventual recovery. Lifecycle reasoning and failure analysis test whether improved production reduces total burdens rather than simply manufacturing replacements faster.
 
 ### Interlude 28 — Neufacturing
 
 *Biofabrication and Architectures of Regenerative Matter* · **MANUFACTURING**
 
-Develops the architectures of fabrication, material traceability, adaptable production and circular supply chains. Biofabrication and interchangeable processes become testable possibilities, with physical tolerances, safety, resource costs and repairability kept inside the design.
+Builds qualified fabrication across alternative materials and processes, with a service-cover example connecting specifications to acceptance. Parametric design, process capability, traceability and TACK keep adaptable manufacture accountable to physical results.
 
 ### Chapter 29 — The Steward's Edge
 
 *Governance as Co-Authorship* · **STEWARDSHIP**
 
-Designs legitimate participation, distributed authority and stewardship across communities and institutions. Co-authorship requires decisions people can enter, understand and challenge, alongside workable coordination and ways to prevent capture.
+Distributes legitimate authority through subsidiarity, participation and revisable delegation. Greater intelligence should make governance more enterable and correctable, while fiscal design and power analysis expose who carries the cost of an apparently efficient decision.
 
 ### Interlude 29 — Civic Meshes
 
 *Identity, Federation, and Protocol Governance* · **GOVERNANCE**
 
-Builds civic identity, credentials, delegation, federation and protocol change across distinct jurisdictions. Context boundaries, migration and the limits of scalability expose what is required for meshes to cooperate without flattening their members or their differences.
+Builds mandates and cooperation across distinct jurisdictions. Bounded contexts, policy decisions, federation, failure behavior and staged migration allow civic meshes to share capability without erasing their members or inventing one universal authority.
 
 ### Chapter 30 — Justice Before Judgment
 
 *Living Inside Fair Systems* · **JUSTICE**
 
-Designs fairness into the arrangements that precede judgment: rules, evidence, discretion, recourse and repair. Historical claims to rightful order lead into institutions capable of admitting error and giving affected people a meaningful way to contest decisions.
+Recasts justice as civilizational quality, prevention and repair across causal chains, with judgment occupying a smaller role. Systems safety and capability reasoning examine the conditions producing harm, including defects in the rules themselves.
 
 ### Interlude 30 — Protocols of Integrity
 
-*Designing Fairness into Systems* · **JURISPRUDENCE**
+*Designing Fairness into Systems* · **INTEGRITY**
 
-Turns integrity into decision models, evidence provenance, audit trails, tests and remedy workflows. The builder must preserve explainable grounds and effective challenge through automated and human decisions, including the handling of failure and disagreement.
+Makes integrity operational through assurance cases, TACK, contracts, property/metamorphic tests and controlled release. Evidence and remedy travel together; deployment and state migration must preserve outstanding duties rather than merely restore a program.
 
 ### Chapter 31 — The Flow of Care
 
 *Health as Presence, Pattern, and Partnership* · **HEALTH**
 
-Designs care around the continuing life of a person, linking clinical skill, family knowledge, context and presence. Longitudinal attention and safe coordination challenge institutions that measure completed episodes more readily than sustained health.
+Moves care beyond disease-factory labels toward interacting biological systems and the worthwhile life interventions could enable. Systems medicine, adaptive goals and ecological context encompass cancer, ageing, restoration and care that can change its own configuration.
 
 ### Interlude 31 — From Molecule to Moment
 
 *Precision Medicine in the Age of Pattern Stewardship* · **MEDICINE**
 
-Builds clinical information and care workflows that connect molecules, measurements, symptoms and lived context. Pattern-based assistance requires uncertainty, validation, staffing, escalation and hazard analysis; collecting more signals does not itself deliver care.
+Connects multi-omics, AI, gene/cell/immune interventions and tissue fabrication to evidence, causal models and clinical action. Post-app workflows and shared case inquiry support advanced medicine broadly; VitalEdge contributes exploration without itself being cast as the treating clinician.
 
 ### Chapter 32 — Threads of Continuity
 
 *Culture, Memory, and the Long Now* · **LIFE**
 
-Designs cultural and personal continuity across generations of changing people and machines. Memory, ritual and inheritance become choices about what to preserve, reinterpret or release, with living cultures retaining authority over their own futures.
+Renews cultural and religious inheritance through living obligations rather than frozen identity. Rootedness, plural integration and shared practice ask whether inherited commitments can guide both people and capable agents toward planetary and human flourishing.
 
 ### Interlude 32 — Encoding the Eternal
 
 *Semantic Memory and Cultural Continuity* · **LIFECYCLE**
 
-Builds semantic memory through archives, knowledge structures, provenance, preservation and migration. The challenge is to keep an inheritance interpretable and usable without mistaking storage, generated reconstruction or technical persistence for the life that produced it.
+Preserves sources and meanings while migrating the systems that interpret and act on them. Semantic memory, provenance, permissions and commitment tests distinguish a faithful archive from an active inheritance that must remain correctable.
 
 ### Chapter 33 — The Arrow's Release
 
 *Designing Without Possessing the Future* · **REALITY**
 
-Brings design to the problem of release: how a useful arrangement can outgrow its founders, be revised or be retired. The final gate turns historical inheritance and future responsibility into a capacity to act without claiming permanent ownership of what follows.
+Returns design to physical reality, uncertain origins and the lives new arrangements could make possible. Robust decisions and prepared succession release a useful design from its founders without pretending either the world or its final explanation is theirs to own.
 
 ### Interlude 33 — Machines as Mirrors
 
 *Simulation as Sacred Act* · **SIMULATION**
 
-Simulation, rehearsal and the Mirror bring construction face to face with memory, identity and the consequences of making worlds. The builder’s final responsibilities include testing, handover and limits, while the personal experiment asks what can continue without claiming resurrection.
+Builds credible simulations, useful constructed worlds and a living personal Mirror through modelling, validation, uncertainty and reproducible inquiry. The mental exoskeleton opens questions of agency and identity; operational succession leaves the final farewell to what follows.
 
-### Epilogue and Coda III — The Basket We Carry
+### Epilogue — The Basket We Carry
 
-Returns to the basket, the released arrow and the plane, now carrying the consequences of what people build and leave behind. Continuity replaces the promise of possession: the future inherits acts, patterns and responsibilities as well as memories.
+Returns to the basket, the released arrow and the plane, carrying the consequences of what people build and leave behind. The existing Epilogue currently also serves the volume's final coda; a separate Coda III may precede it, but has not been commissioned or inserted.
 
 ## Title and placement register
 
@@ -528,7 +530,7 @@ All other numbered Volume II interlude titles remain reviewable even where no mi
 
 ### Volume III placement already completed
 
-Volume III’s main titles and subtitles agree between the current unit files and the existing index. Current numbering is already sequential and published. The earlier shuffle is provenance, not an outstanding operation:
+This work index now uses the current V3 title triples, including Interlude24 DOING, Interlude25 Graph Economies and Interlude30 INTEGRITY. The canonical front-matter index has not been rewritten in this pass and should be reconciled during its own final update. Current numbering is already sequential and published. The earlier shuffle is provenance, not an outstanding operation:
 
 | Domain | Original chapter/interlude number | Current number |
 | --- | --- | --- |
@@ -546,7 +548,7 @@ Volume III’s main titles and subtitles agree between the current unit files an
 
 Each chapter, its interlude and its Open moved together. Older design-packet identities and archived filenames may retain original numbers; they must not be mistaken for the live sequence.
 
-The descriptive index now includes all Volume III domain labels from the unit files; the older index substituted “design vertebra” and “builder focus” descriptions for that third title. Several labels deserve a later coordinated review because they are broad or do not clearly identify the intended domain: PATTERN/METHOD (Θ), DESIGNING/BUILDING (23), BELONGING/DOING (24), VALUES/VALUE (25), SHARING/SUPPORTING (27), LIFE/LIFECYCLE (32), and REALITY (Chapter 33). These are review flags, not new names. More specific thematic handles already used in planning include renewal, agency, economy, commons, continuity and release.
+The descriptive index now includes all Volume III domain labels from the unit files; the older index substituted “design vertebra” and “builder focus” descriptions for that third title. Several labels deserve a later coordinated review because they are broad or do not clearly identify the intended domain: PATTERN/METHOD (Θ), DESIGNING/BUILDING (23), BELONGING/DOING (24), VALUES/VALUE (25), SHARING/SUPPORTING (27), LIFE/LIFECYCLE (32), and REALITY (Chapter 33). REALITY now has an explicit physical/inquiry role in the completed pair. These are review flags, not new names. More specific thematic handles already used in planning include renewal, agency, economy, commons, continuity and release.
 
 ### Framing and terminology still to align
 

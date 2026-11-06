@@ -193,6 +193,10 @@ Statistical fairness measures need a declared purpose and denominator. Report se
 
 Continuous integration and delivery can carry this discipline into ordinary work. A consequential change has a bundle of versions: code, model, data transformation, decision policy, delegated authority and dependencies. The release must identify which bundle the evidence supports. Changing the policy through a configuration screen is still a release of power.
 
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+Carry forward the repeatable deployment discipline from the first bench. Promote the tested artifact and its declared configuration through the release process; do not rebuild an unrecorded variant for production. Rehearse state migration and recovery as well as code replacement. If an update changes the meaning of a stored decision, restoring yesterday's executable may leave today's records misread. Reversal may require a compatible transition or a forward repair, with outstanding obligations still assigned.
+
 Run the candidate against recorded or carefully constructed cases without repeating real actions. Where lawful and appropriate, *shadow operation* compares proposed decisions with the live arrangement while withholding the candidate's actuations. Simulation can expose failures; it cannot establish that unmodelled harms do not exist. A limited rollout likewise needs an adequate basis for use, monitoring, exit and remedy. Calling it a canary does not exempt the people in it from having lungs.
 
 At runtime, an independently maintained control can enforce a bounded action envelope: permissions, resource ceilings, required evidence, prohibited transitions and conditions requiring escalation. Independence here needs attention to ownership, failure modes and common assumptions; running the same model twice is not automatically a second opinion.

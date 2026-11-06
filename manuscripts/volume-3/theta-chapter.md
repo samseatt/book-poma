@@ -321,6 +321,20 @@ Finally, let the result change the design, and sometimes the question. If the tr
 The chapters ahead will exercise different parts of this discipline. Their design principles offer reasons for choosing an arrangement; the interludes build enough of its machinery to expose what those reasons cost. Neither an engineering method nor a ledger can settle the purposes of a civilization for its inhabitants. They can make the choice harder to hide.
 <!-- End AI draft: common design method. -->
 
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+## Change What Counts as Success
+
+A design can become excellent at answering the wrong question. Shorten the queue and we may preserve a service that should no longer require the journey. Reward every useful contribution and we may make unmeasured kindness harder to afford. Give every department a better dashboard and the person can still fall between them, now in higher resolution.
+
+**Reopen the governing purpose before optimizing its machinery.** Chris Argyris called the distinction *double-loop learning*: correction can question underlying policies and objectives rather than merely improve performance against them.[^v3-theta-c-double-loop] Here we carry that discipline into design. Ask what the inherited institution was meant to make possible, what its current measures reward, and whether those two still meet.
+
+Then generate an alternative that changes the arrangement itself. A learning service might organize around a question and a community of practice rather than a compulsory course. A care system might assemble around interacting biological mechanisms rather than require every intervention to pass through a disease label. Neither proposal wins merely by being unusual. Compare its benefits, burdens and failure conditions with the arrangement it would replace.
+
+The enclosing world belongs in that comparison. A design that liberates human time by exhausting a watershed has moved the captivity. Some ecological limits must constrain the search rather than enter it as expenses that enough revenue can cancel. Chapter 27 will make that obligation precise.
+
+This is the distinction the Still Arrow asks us to keep: a better performance inside an inherited form can be useful; it can also leave the form's central failure untouched. We need the ability to improve the answer and to change the question.
+
 ## The Missing Organ
 
 In the first volume, the ladder began to curl.
@@ -362,6 +376,8 @@ Many of the diagnoses now look, in retrospect, like pathologies of a civilizatio
 
 This is the missing organ I call **Neusphere**.
 
+The scaling is my design conjecture, not a biological law requiring civilization to grow a brain. The analogy earns its place if it helps us construct capacities the existing fragments do not reliably provide together.
+
 The word is meant to sit near noosphere but not dissolve into it. Noosphere was a beautiful intuition: the sphere of thought, consciousness becoming planetary, mind as a layer of Earth. But our age needs the idea made more operational, less misty, more accountable to bodies, tools, institutions, and failure modes. Neusphere names not a cloud of uplifted sentiment, but a distributed cognitive commons: a plural, human-and-machine-augmented layer through which civilization might learn to sense, deliberate, simulate, coordinate, remember, and revise without flattening itself into one will.
 
 It sits, conceptually, between humanity and ecology.
@@ -382,13 +398,19 @@ Machine intelligence may become one of its instruments, perhaps an indispensable
 
 The Neusphere must be civic before it is computational.
 
-Its purpose is not to replace human judgment, but to scaffold it; not to abolish disagreement, but to make disagreement more fruitful and less stupid; not to end politics, but to give politics better contact with reality; not to eliminate local worlds, but to let them coordinate without being devoured; not to silence old stories, but to help them update without requiring physics to resign.
+Its purpose is to enlarge our capacity to judge and act. Machines may undertake substantial reasoning and authorized action; people need not personally approve every useful thought. What must remain plural and answerable is the authority through which those capacities affect a life. Better contact with reality should make disagreement more fruitful and less stupid, help local worlds cooperate without being devoured, and let old stories update without requiring physics to resign.
 
 If Brain is the organ by which an organism models and acts, Neusphere is the hoped-for layer by which civilization might finally model and act without behaving like a genius toddler operating heavy machinery.
 
 That is why Volume III turns toward design.
 
-The missing organ will not assemble itself from slogans. It will not emerge automatically from faster chips, larger models, more data, better dashboards, or the heroic belief that adding "AI-powered" to institutional confusion makes it less confused. It must be designed through care, economy, governance, commons, justice, education, memory, simulation, and the interfaces between them. It must be built with dignity, agency, plurality, recourse, restraint, and non-domination woven into its first assumptions rather than stapled on after the lawsuit.
+The missing organ will not assemble itself from slogans. It will not emerge automatically from faster chips, larger models, more data, better dashboards, or the heroic belief that adding "AI-powered" to institutional confusion makes it less confused. We can design conditions for it through care, economy, governance, commons, justice, education, memory, simulation, and the interfaces between them. Whether a coherent new capacity emerges has to be discovered in use. It must be built with dignity, agency, plurality, recourse, restraint, and non-domination woven into its first assumptions rather than stapled on after the lawsuit.
+
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+The practical principle is **connect cognition without collectivizing authority**. A heat emergency can appear separately as illness, stressed electricity supply, lost tree cover and household debt. Relating those signals could reveal a different intervention: buildings, shade, care and provision redesigned together. A shared inquiry can discover that possibility without acquiring the power to order every participant to enact it. Its hypotheses, permissions and consequences need different homes.
+
+An organ, in this sense, is a sustained capacity with resources, relationships and responsibility. It may draw on several institutions; one institution may support several organs. Naming a new application does not produce one. Nor does installing a powerful model establish that the whole has learned anything.
 
 Volume I found the absence.\
 Volume II mapped the pain of that absence.\
@@ -513,6 +535,12 @@ The future does not need us to pretend the past was empty.
 
 It needs us to stop letting the past operate without maintenance.
 
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+The same refactoring applies to functions. A bank can organize provision instead of merely price access to it. Justice can improve the conditions under which people act, with judgment and punishment becoming smaller parts of its work. Public memory can carry a correction into a decision, instead of merely preserve the report in which the correction was buried.
+
+Each change needs a migration path. Keep the obligations that people depend on while trying a different arrangement; carry useful skills and records across; retire the old machinery when the replacement can actually serve. We are not obliged to conserve an institution's present shape. We are obliged to account for the people and living systems that shape presently supports.
+
 Later chapters will take up these words where they belong. Care will find its practical angels. Learning will meet its accountable prophets. Economy will discover whether wealth can stop meaning apples locked in a closet until rot files for incorporation. Law will ask whether justice can move upstream of harm without becoming pre-crime in a better suit. Commons will recover sanctuary. Governance will recover stewardship. Memory will recover continuity. Place will recover love without possession.
 
 For now, it is enough to name the method.
@@ -593,7 +621,7 @@ A place where old systems still have roots and new systems must earn permission 
 In the interlude that follows, we will set such a small breadboard on the table: a place I will call the C4A Breadboard.
 
 <!-- AI draft: 2026-11-05, author clarification of Breadboard roles. -->
-This has a practical home in the work I call Neuverse: a civilizational roadmap to try at the scale of a small community of early adopters. Tiers supplies the infrastructure side. C4A is the civics exercised between them: how people contribute, receive help, make decisions and live with their consequences. The hope is that something of a Neusphere can light up through those relationships. Naming the parts will not make that happen; putting them to work gives us somewhere to find out.
+This has a practical home in the work I call Neuverse: a civilizational roadmap to try at the scale of a small community of early adopters. Tiers supplies the technical counterpart: architecture, development, operation and stewardship, with infrastructure as one part. C4A is the civics exercised between them: how people contribute, receive help, make decisions and live with their consequences. The hope is that something of a Neusphere can light up through those relationships. Naming the parts will not make that happen; putting them to work gives us somewhere to find out.
 <!-- End AI draft: Breadboard roles. -->
 
 Our breadboard will be a testing ground for seams: where assistance becomes agency or control, where value flows or congeals, where care becomes presence or protocol, where governance becomes stewardship or costume, where memory becomes continuity or museum dust.
@@ -632,7 +660,7 @@ A recipe is not a prison. It is a disciplined invitation. It says: here are ingr
 
 Volume III will offer design directions, not final decrees.
 
-It will offer inhabited futures: scenes from inside possible systems, not because imagination is proof, but because no system can be judged only from the architect's chair. It will offer moral constraints, because power without constraint becomes appetite. It will offer civic imagination, because politics without imagination becomes management of decline. It will offer builder-side cautions, because every humane vision must survive contact with implementation. It will offer ways to adapt rather than annihilate legacy systems, because civilization is not a file one deletes before installing the update.
+It will offer personal projections toward the Gates: what I expect, what I hope to contribute, and what a possible future might ask of us. These thoughts may become scenes or return to real memories; they do not become recollections of events I have already lived. It will offer moral constraints, because power without constraint becomes appetite. It will offer civic imagination, because politics without imagination becomes management of decline. It will offer builder-side cautions, because every humane vision must survive contact with implementation. It will offer ways to adapt rather than annihilate legacy systems, because civilization is not a file one deletes before installing the update.
 
 It will offer olive branches with delta corrections.
 
@@ -777,3 +805,5 @@ Now, before we weave, we inspect the loom.
 [^v3-theta-c-alternatives]: NASA, *Systems Engineering Handbook*, §6.8, “Decision Analysis,” especially §6.8.1.2.1–5 on criteria, alternatives, evaluation, uncertainty and sensitivity of recommendations. The book adds its own distinction between legitimate authority and compensable tradeoffs. [NASA](https://www.nasa.gov/reference/6-8-decision-analysis/). Accessed 5 November 2026.
 
 [^v3-theta-c-scenarios]: Software Engineering Institute, “Quality Attribute Workshop Collection,” 1 September 2016, description of stakeholder-generated and refined scenarios before architecture selection. The short example here borrows that discipline; it is not a completed Quality Attribute Workshop or architecture evaluation. [SEI](https://www.sei.cmu.edu/library/quality-attribute-workshop-collection/). Accessed 5 November 2026.
+
+[^v3-theta-c-double-loop]: Chris Argyris, “Double Loop Learning in Organizations,” *Harvard Business Review*, September 1977. The [publisher’s account](https://store.hbr.org/product/double-loop-learning-in-organizations/77502) distinguishes correcting performance toward existing objectives from questioning the underlying policies and objectives. The civilizational examples and application to the Still Arrow are developed here. Accessed 6 November 2026.

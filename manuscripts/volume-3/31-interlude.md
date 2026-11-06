@@ -248,7 +248,7 @@ For a worked case, imagine a person whose exercise tolerance changes after sever
 
 The post-app opportunity is **composition**. A person should not need to know which application owns their laboratory result before asking what has changed. Services for observation, interpretation, clinical practice, fabrication, provision and follow-up can meet around a need and dissolve when no longer needed.
 
-A **blackboard architecture** offers one useful pattern: specialist components contribute to a shared, structured case state. A capability registry identifies what each service can do, its inputs, limits and availability. **Adapters** translate devices and external records into agreed representations. Event-driven coordination propagates meaningful changes. These patterns make different tools work together without pretending they all share one model of the patient.
+The **blackboard architecture** introduced in the learning interlude offers one useful pattern: specialist components contribute to a shared, structured case state. A capability registry identifies what each service can do, its inputs, limits and availability. **Adapters** translate devices and external records into agreed representations. Event-driven coordination propagates meaningful changes. These patterns make different tools work together without pretending they all share one model of the patient.
 
 The shared state needs distinctions that an ordinary conversational summary tends to erase:
 

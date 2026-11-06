@@ -1,0 +1,837 @@
+{
+  "date": "2026-11-06",
+  "baseline_commit": "bf3598e6b65645ed01bce61fe54ca87a9108d3c5",
+  "scope": "Theta and eleven numbered pairs; targeted substantive additions and cross-volume consistency. No comprehensive re-verification of inherited claims.",
+  "units": [
+    {
+      "unit": "theta-chapter",
+      "path": "manuscripts/volume-3/theta-chapter.md",
+      "before_sha256": "1f80d50f196976b9736e51b19884e711639cc2d8822811d91aa4b410cd96a7a0",
+      "after_sha256": "bf316a1162f5b7cde4377e411605c2dbbc9583dd6d5d4dd25c3dc24b11aa5356",
+      "changed": true,
+      "notes": 5,
+      "note_uses": 5,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 5,
+        "html_note_backlinks": 5,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "theta-interlude",
+      "path": "manuscripts/volume-3/theta-interlude.md",
+      "before_sha256": "9b4a67511a2e3a23f04109c8d899ef85171e5c9b4837798b537666848a2c8022",
+      "after_sha256": "b34dbb46106c092f17973de2a18e37dac0f92a1e1018f7516ae3394fb109bf78",
+      "changed": true,
+      "notes": 1,
+      "note_uses": 1,
+      "author_annotation_blocks_retained": 2,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 1,
+        "html_note_backlinks": 1,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [
+          "Author annotations are present and untouched; this is not the publication annotation guard."
+        ],
+        "errors": []
+      }
+    },
+    {
+      "unit": "23-chapter",
+      "path": "manuscripts/volume-3/23-chapter.md",
+      "before_sha256": "0c4d206eff0b5834e1de6e45de348c55134eb3fb945f0332d682e6e8f0fff789",
+      "after_sha256": "1ab1e7717c209fac5b952faad57aeac8fb3797eff7e7f426d5f60bf0fa30456c",
+      "changed": true,
+      "notes": 7,
+      "note_uses": 7,
+      "author_annotation_blocks_retained": 2,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [
+          "Author annotations are present and untouched; this is not the publication annotation guard."
+        ],
+        "errors": []
+      }
+    },
+    {
+      "unit": "23-interlude",
+      "path": "manuscripts/volume-3/23-interlude.md",
+      "before_sha256": "99895d62b3ea5cb682e0156e8b63693143ecd2f5d92a313592b429b6de17e647",
+      "after_sha256": "61df5bbbf7b9bbcb3a72285a6a77ffb9fb853b6d7908f0ccb0f647e9af82347f",
+      "changed": true,
+      "notes": 9,
+      "note_uses": 9,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 9,
+        "html_note_backlinks": 9,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [
+          "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+        ],
+        "errors": []
+      }
+    },
+    {
+      "unit": "24-chapter",
+      "path": "manuscripts/volume-3/24-chapter.md",
+      "before_sha256": "e2837cab8537e3fe8fad55233af6a8c0fe84c253f6886cde1de5cab17e0b37ee",
+      "after_sha256": "259399f2ea8c2ed14e4cfd24d368bfbc78b8801e775d1b3cf8cdef3f5311e33d",
+      "changed": true,
+      "notes": 10,
+      "note_uses": 10,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 10,
+        "html_note_backlinks": 10,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "24-interlude",
+      "path": "manuscripts/volume-3/24-interlude.md",
+      "before_sha256": "fde104293ca61d20786dd07466f95d5a492616975c12ae79ebc3993abc152326",
+      "after_sha256": "34b0048f143a77353c7c0d6db581d01e86f5825f4cb3e755b19ad482dc339545",
+      "changed": true,
+      "notes": 10,
+      "note_uses": 10,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 10,
+        "html_note_backlinks": 10,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [
+          "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+        ],
+        "errors": []
+      }
+    },
+    {
+      "unit": "25-chapter",
+      "path": "manuscripts/volume-3/25-chapter.md",
+      "before_sha256": "bdfdb65fa27a6f4e6b890574f0d6ad5bf9d300fe751fee8edd91428a3e9f511b",
+      "after_sha256": "bdfdb65fa27a6f4e6b890574f0d6ad5bf9d300fe751fee8edd91428a3e9f511b",
+      "changed": false,
+      "notes": 8,
+      "note_uses": 8,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 8,
+        "html_note_backlinks": 8,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "25-interlude",
+      "path": "manuscripts/volume-3/25-interlude.md",
+      "before_sha256": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267",
+      "after_sha256": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267",
+      "changed": false,
+      "notes": 7,
+      "note_uses": 7,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "26-chapter",
+      "path": "manuscripts/volume-3/26-chapter.md",
+      "before_sha256": "ec4c4fa1f9ed08406cabf593738a12046e32776a887c3ebcb6a710dabd6a43cf",
+      "after_sha256": "ec4c4fa1f9ed08406cabf593738a12046e32776a887c3ebcb6a710dabd6a43cf",
+      "changed": false,
+      "notes": 10,
+      "note_uses": 10,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 10,
+        "html_note_backlinks": 10,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "26-interlude",
+      "path": "manuscripts/volume-3/26-interlude.md",
+      "before_sha256": "ed93f075b199f135df78352b9ada44cada072476a6d80c15b81e5e95186ccd19",
+      "after_sha256": "d0311417cf2521310d687254220a21447b0af14f54b3ab6dfa5b8ccf649ef077",
+      "changed": true,
+      "notes": 7,
+      "note_uses": 7,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "27-chapter",
+      "path": "manuscripts/volume-3/27-chapter.md",
+      "before_sha256": "cc511e14959c20dd6823b70241e7f1482cc6316e764523b1de11168dfb62b8be",
+      "after_sha256": "cc511e14959c20dd6823b70241e7f1482cc6316e764523b1de11168dfb62b8be",
+      "changed": false,
+      "notes": 7,
+      "note_uses": 7,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "27-interlude",
+      "path": "manuscripts/volume-3/27-interlude.md",
+      "before_sha256": "9da3e2d79ec26d16f8b73be4b9a9087bd18bc4c1822fe3a87c63540c500573da",
+      "after_sha256": "9da3e2d79ec26d16f8b73be4b9a9087bd18bc4c1822fe3a87c63540c500573da",
+      "changed": false,
+      "notes": 11,
+      "note_uses": 11,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 11,
+        "html_note_backlinks": 11,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "28-chapter",
+      "path": "manuscripts/volume-3/28-chapter.md",
+      "before_sha256": "b58dc135a9beb59b4562925677bd0c7931410a8ca391a83491116d867d8cb99c",
+      "after_sha256": "0fc8d732d00fbb0a7f2752c7cf848e4c74a46c2c0e034e961d9bc02fadf62a6b",
+      "changed": true,
+      "notes": 12,
+      "note_uses": 12,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 12,
+        "html_note_backlinks": 12,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "28-interlude",
+      "path": "manuscripts/volume-3/28-interlude.md",
+      "before_sha256": "1722ec1ed7d614246968de7e0d464b695144010d3977dd1d34aef3c6e55f83ed",
+      "after_sha256": "1722ec1ed7d614246968de7e0d464b695144010d3977dd1d34aef3c6e55f83ed",
+      "changed": false,
+      "notes": 11,
+      "note_uses": 11,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 11,
+        "html_note_backlinks": 11,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "29-chapter",
+      "path": "manuscripts/volume-3/29-chapter.md",
+      "before_sha256": "de32a5badc7e7a5e62b9285a852ee884bef804f3f6d8c586c99a6dfd67ad534b",
+      "after_sha256": "de32a5badc7e7a5e62b9285a852ee884bef804f3f6d8c586c99a6dfd67ad534b",
+      "changed": false,
+      "notes": 9,
+      "note_uses": 11,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 11,
+        "html_note_backlinks": 11,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "29-interlude",
+      "path": "manuscripts/volume-3/29-interlude.md",
+      "before_sha256": "d8b244ec58267622b13875c13b39734a0fab88ba38f2ec2373ec25c68a7a532c",
+      "after_sha256": "d8b244ec58267622b13875c13b39734a0fab88ba38f2ec2373ec25c68a7a532c",
+      "changed": false,
+      "notes": 8,
+      "note_uses": 8,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 8,
+        "html_note_backlinks": 8,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "30-chapter",
+      "path": "manuscripts/volume-3/30-chapter.md",
+      "before_sha256": "20250e2be2915ff9e492838b7bcd076418f00a2aff6c5b90f3ba0f439497616a",
+      "after_sha256": "20250e2be2915ff9e492838b7bcd076418f00a2aff6c5b90f3ba0f439497616a",
+      "changed": false,
+      "notes": 11,
+      "note_uses": 11,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 11,
+        "html_note_backlinks": 11,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "30-interlude",
+      "path": "manuscripts/volume-3/30-interlude.md",
+      "before_sha256": "5066ddf587e102b3a54b88f197267e99e9f1b776a4e8492b6ac162d62026c478",
+      "after_sha256": "20668437689a02d4c19d6bc7e7508343f06aa0f9df4a520c9e9fd0c30d6c3dd7",
+      "changed": true,
+      "notes": 10,
+      "note_uses": 10,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 10,
+        "html_note_backlinks": 10,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "31-chapter",
+      "path": "manuscripts/volume-3/31-chapter.md",
+      "before_sha256": "097ddb1f47d4de89764dba3ca97f6c4f866e3faa6db2398ca5b9771e14f22b19",
+      "after_sha256": "097ddb1f47d4de89764dba3ca97f6c4f866e3faa6db2398ca5b9771e14f22b19",
+      "changed": false,
+      "notes": 14,
+      "note_uses": 14,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 14,
+        "html_note_backlinks": 14,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "31-interlude",
+      "path": "manuscripts/volume-3/31-interlude.md",
+      "before_sha256": "f210bc76800c8cda190142ef3a0c3ce59ad2765132854e09c9b0761b431bafff",
+      "after_sha256": "587f55eb6ae49bbcbb56f8056b4646f948f49d7924aadd6b799477e805e02856",
+      "changed": true,
+      "notes": 20,
+      "note_uses": 20,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 20,
+        "html_note_backlinks": 20,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "32-chapter",
+      "path": "manuscripts/volume-3/32-chapter.md",
+      "before_sha256": "c822d6de2f454ab47e6b79e1c437e615ac5e5f993eeb6fbd31c41ce816eceb37",
+      "after_sha256": "c822d6de2f454ab47e6b79e1c437e615ac5e5f993eeb6fbd31c41ce816eceb37",
+      "changed": false,
+      "notes": 14,
+      "note_uses": 15,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 15,
+        "html_note_backlinks": 15,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "32-interlude",
+      "path": "manuscripts/volume-3/32-interlude.md",
+      "before_sha256": "167fe5df1235903ddf8610c83977e9fa841bde7a663b92589b6a8cf16e953fd2",
+      "after_sha256": "167fe5df1235903ddf8610c83977e9fa841bde7a663b92589b6a8cf16e953fd2",
+      "changed": false,
+      "notes": 9,
+      "note_uses": 9,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 9,
+        "html_note_backlinks": 9,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "33-chapter",
+      "path": "manuscripts/volume-3/33-chapter.md",
+      "before_sha256": "fb16a895889b785eb586519f798d7499104656bc9130621c86fa820e14c0da6e",
+      "after_sha256": "fb16a895889b785eb586519f798d7499104656bc9130621c86fa820e14c0da6e",
+      "changed": false,
+      "notes": 6,
+      "note_uses": 7,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 7,
+        "html_note_backlinks": 7,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    },
+    {
+      "unit": "33-interlude",
+      "path": "manuscripts/volume-3/33-interlude.md",
+      "before_sha256": "85d63ff4d4879156e3b220dc88a5d6005d4b3cd64cabcd1388e487c09b9714d2",
+      "after_sha256": "85d63ff4d4879156e3b220dc88a5d6005d4b3cd64cabcd1388e487c09b9714d2",
+      "changed": false,
+      "notes": 9,
+      "note_uses": 9,
+      "author_annotation_blocks_retained": 0,
+      "errors": [],
+      "canonical_validation": {
+        "passed": true,
+        "parsed_notes": 9,
+        "html_note_backlinks": 9,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": []
+      }
+    }
+  ],
+  "inventory": {
+    "path": "work/VOLUME_III_PRINCIPLES_AND_PATTERNS.md",
+    "units": [
+      {
+        "unit_heading": "### [Chapter Θ — The Architect’s Pause](../manuscripts/volume-3/theta-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude Θ — The Architect’s Bench](../manuscripts/volume-3/theta-interlude.md)",
+        "rules": 7
+      },
+      {
+        "unit_heading": "### [Chapter 23 — The Loom of Renewal](../manuscripts/volume-3/23-chapter.md)",
+        "rules": 7
+      },
+      {
+        "unit_heading": "### [Interlude 23 — The Loom of Design](../manuscripts/volume-3/23-interlude.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Chapter 24 — The Citizen’s Dilemma](../manuscripts/volume-3/24-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 24 — The Developer’s Dilemma](../manuscripts/volume-3/24-interlude.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Chapter 25 — Beyond the Invisible Hand](../manuscripts/volume-3/25-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 25 — The Living Ledger](../manuscripts/volume-3/25-interlude.md)",
+        "rules": 9
+      },
+      {
+        "unit_heading": "### [Chapter 26 — Minds in Harmony](../manuscripts/volume-3/26-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 26 — Signal and Story](../manuscripts/volume-3/26-interlude.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Chapter 27 — The Reclaimed Commons](../manuscripts/volume-3/27-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 27 — Streams and Sanctuaries](../manuscripts/volume-3/27-interlude.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Chapter 28 — The Reimagined Workshop](../manuscripts/volume-3/28-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 28 — Neufacturing](../manuscripts/volume-3/28-interlude.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Chapter 29 — The Steward’s Edge](../manuscripts/volume-3/29-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 29 — Civic Meshes](../manuscripts/volume-3/29-interlude.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Chapter 30 — Justice Before Judgment](../manuscripts/volume-3/30-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 30 — Protocols of Integrity](../manuscripts/volume-3/30-interlude.md)",
+        "rules": 9
+      },
+      {
+        "unit_heading": "### [Chapter 31 — The Flow of Care](../manuscripts/volume-3/31-chapter.md)",
+        "rules": 9
+      },
+      {
+        "unit_heading": "### [Interlude 31 — From Molecule to Moment](../manuscripts/volume-3/31-interlude.md)",
+        "rules": 9
+      },
+      {
+        "unit_heading": "### [Chapter 32 — Threads of Continuity](../manuscripts/volume-3/32-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 32 — Encoding the Eternal](../manuscripts/volume-3/32-interlude.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Chapter 33 — The Arrow’s Release](../manuscripts/volume-3/33-chapter.md)",
+        "rules": 8
+      },
+      {
+        "unit_heading": "### [Interlude 33 — Machines as Mirrors](../manuscripts/volume-3/33-interlude.md)",
+        "rules": 9
+      }
+    ],
+    "total_rules": 195
+  },
+  "new_primary_source_checks": [
+    {
+      "key": "Argyris",
+      "url": "https://store.hbr.org/product/double-loop-learning-in-organizations/77502",
+      "scope": "Publisher account/abstract checked; restricted full article not claimed as read."
+    },
+    {
+      "key": "Horvitz1999",
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/chi99horvitz.pdf",
+      "scope": "Primary paper checked; shared civic service composition is a proposed application."
+    },
+    {
+      "key": "BoundedContext",
+      "url": "https://martinfowler.com/bliki/BoundedContext.html",
+      "scope": "Author explanation checked; semantic commitment application is the book’s extension."
+    },
+    {
+      "key": "SRERelease",
+      "url": "https://sre.google/workbook/canarying-releases/",
+      "scope": "Primary engineering guidance checked; civic deployment exercise is proposed."
+    },
+    {
+      "key": "SRERetry",
+      "url": "https://sre.google/sre-book/addressing-cascading-failures/",
+      "scope": "Primary retry/cascade guidance checked; agent search/delegation budgets extend it."
+    },
+    {
+      "key": "HearsayII",
+      "url": "https://mas.cs.umass.edu/Documents/Erman_Hearsay80.pdf",
+      "scope": "Original 1980 paper checked; privacy, public authority and civic inquiry are proposed extensions."
+    }
+  ],
+  "design_reference_snapshots": [
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/7 Neuconomy and Provisioning Charter.md",
+      "sha256": "98e911e0be1a6f4cd37f816114c8c0c66452f621335b2dc93731ca6aae826856",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/4 Neuma, KAUSAR, Convergent, and Civic Belonging.md",
+      "sha256": "ff13411c93b3625f8ccc5c8b761151be58ba899e2fe313148e447ee304bb71b4",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/3 Neusphere and iNeural Charter.md",
+      "sha256": "99fd1cdd2c7f7c00fba35104584dfc3b21c56487ef34f9a359a53d6267e11435",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/5 Justice and Governance Design Charter.md",
+      "sha256": "4034478a9a0302fef682d88ff83dbf6c80e672751e43531fae4ab09c9c7c654a",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/11 Learning, Knowledge, and Public Memory.md",
+      "sha256": "bdd77752c5d25770b547c454dd43bfde87ba3fbc1aad77fea39ddad7cfad6ac6",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/2 Neuverse, Neunet, and Neuro Semantic Grammar.md",
+      "sha256": "4e1cd8814980198d134ea5c588d6a859085d277c2691c611807bac27b5bdeae7",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/1 The Neuro Ecosystem Charter.md",
+      "sha256": "0e87cf93ba675dd7d9170edbbfe2526da2d4987130b6e525a8565441dcf187b4",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/8 Neufacture, Industry, Material Lifecycle Charter.md",
+      "sha256": "22bc7951c6a3d10e44e3efda588c18b85fd9679307e38491878d5b51a77dfd47",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/10 Gaia and xGaia Charter.md",
+      "sha256": "3ee69dbc1a32fa3add1f00b5558d4e43fb1ce2e55396e883866c070e704e0a39",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/9 xMed-VitalEdge Care Organ Charter.md",
+      "sha256": "a3a9f135189ee5a94c7eb211741a5917ee3eff5a9373bbc8620f5189a170e127",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/6 MOxAIC Charter.md",
+      "sha256": "7e7cf07cd5bb48dfa60bd85ea8753f3b960e63b3a1dcb974b053430981c3cfc5",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/12 PhysX and xMOS Charter.md",
+      "sha256": "967978ca7f57fa28693abc24a565688563370d25f05010092b5cba9f0de22044",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/neuverse/charters/- charters list.md",
+      "sha256": "b58fa3a75c9eb5c6dab35101b8c7fb201c03b66a1db5a0500ab63773e723f5d6",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/tiers/tiers/docs/vision/tiers-vision.md",
+      "sha256": "c30e311f2667d238324fa401fc24c58713012595aa83640eab979f6dfdb6168a",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/tiers/tiers/docs/vision/first-sowing-and-design-route.md",
+      "sha256": "eccdd69748fc24f341447e4e6d5079ea0b274e72b05ad1de2d25675fab21c285",
+      "role": "Reference snapshot; not evidence of implementation or a claim every line was reread this pass."
+    },
+    {
+      "path": "/Users/samseatt/projects/tiers/tiers/docs/architecture/tiers-and-neuverse-layers.md",
+      "sha256": "f11c69cba71e8bcaabd256e068de7710489b407996712806e1f630e82208dfef",
+      "role": "Layer architecture reference snapshot."
+    }
+  ],
+  "changes": [
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Establish purpose-changing design and enclosing ecological constraints before the numbered applications."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Mark the scaling claim as the author’s design conjecture without weakening its ambition."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Remove the inherited human-only judgment ceiling; preserve legitimate plural authority."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Distinguish designing conditions from commanding an emergence."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Give Neusphere an operational design rule and a cross-domain constructive example."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Make refactoring substantive and transitional, rather than merely a change of vocabulary."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Align Θ with the broader Tiers vision."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-chapter.md",
+      "reason": "Align the volume’s opening promise with prospective milestone stories."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-interlude.md",
+      "reason": "Keep C4A’s role clear without settling the author’s still-open acronym expansion."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-interlude.md",
+      "reason": "Distinguish technical civilization from its hosting infrastructure."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-interlude.md",
+      "reason": "Preserve the pizza motif while separating 2029 integration from the 2034 economic milestone."
+    },
+    {
+      "file": "manuscripts/volume-3/theta-interlude.md",
+      "reason": "Add repeatable deployment and recovery as a common builder foundation."
+    },
+    {
+      "file": "manuscripts/volume-3/23-chapter.md",
+      "reason": "Make renewal a change in possible arrangements, not only improved institutional routing."
+    },
+    {
+      "file": "manuscripts/volume-3/23-interlude.md",
+      "reason": "Extract Charter 2’s relational and semantic design into transferable builder practice."
+    },
+    {
+      "file": "manuscripts/volume-3/23-interlude.md",
+      "reason": "Add bounded search/retries as agentic operating practice, specialized later by commons resource budgets."
+    },
+    {
+      "file": "manuscripts/volume-3/24-chapter.md",
+      "reason": "Bring governance’s plurality into personal agency as joint capability, without duplicating public-authority theory."
+    },
+    {
+      "file": "manuscripts/volume-3/24-interlude.md",
+      "reason": "Add a positive post-app composition pattern grounded in Tiers and mixed-initiative interaction."
+    },
+    {
+      "file": "manuscripts/volume-3/26-interlude.md",
+      "reason": "Make Neusphere’s cross-domain cognition an implementable inquiry architecture, beyond provenance/moderation."
+    },
+    {
+      "file": "manuscripts/volume-3/30-interlude.md",
+      "reason": "Connect CI/CD to Θ repeatability and data/obligation migration rather than adding a second methodology primer."
+    },
+    {
+      "file": "manuscripts/volume-3/31-interlude.md",
+      "reason": "Make the shared inquiry pattern cumulative across the builder spine."
+    },
+    {
+      "file": "manuscripts/volume-3/23-chapter.md",
+      "reason": "Expose the existing projection reservation before the old opening, without rewriting it."
+    },
+    {
+      "file": "manuscripts/volume-3/23-interlude.md",
+      "reason": "Expose the existing projection reservation before the old opening, without rewriting it."
+    },
+    {
+      "file": "manuscripts/volume-3/24-chapter.md",
+      "reason": "Expose the existing projection reservation before the old opening, without rewriting it."
+    },
+    {
+      "file": "manuscripts/volume-3/24-interlude.md",
+      "reason": "Expose the existing projection reservation before the old opening, without rewriting it."
+    },
+    {
+      "file": "manuscripts/volume-3/28-chapter.md",
+      "reason": "Align the Gate example with the service-cover design/build demonstration that follows; retain the old vignette’s hinge."
+    }
+  ],
+  "preservation": {
+    "historical_passages": "Unchanged before Gate discussions; C28 future example alone aligned with worked cover.",
+    "author_annotations": "Retained verbatim in scoped units.",
+    "opening_prose": "Numbered opening banks retained; early reservation comments added.",
+    "titles_and_order": "Unchanged.",
+    "opens_noesis_epilogue": "No edits.",
+    "coda_iii": "Not created."
+  },
+  "pre_install_errors": [],
+  "canonical_checker": {
+    "passed": 24,
+    "total": 24,
+    "tool": "work/editorial-tools/check_manuscript.py",
+    "checks": [
+      "Active manifest hashes",
+      "Named footnote definitions/references and book-wide uniqueness",
+      "Pandoc JSON/HTML parsing and footnote return links",
+      "Local image existence",
+      "Control characters"
+    ],
+    "limits": "Structural checking does not certify historical or scientific truth, typography, prototype performance or final prose. Author annotations and legal footnote-order warnings remain as recorded."
+  },
+  "outgoing_handoff": "Deferred; internal addendum only.",
+  "git_diff_check": "Passed before commit."
+}

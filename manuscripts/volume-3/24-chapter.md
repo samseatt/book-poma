@@ -8,6 +8,8 @@ CHAPTER 24
 
 *BELONGING*
 
+<!-- Opening prose bank retained for Sam/Claude, not a finished future memoir. Reconstruct as explicitly prospective thought at the 11 September 2031 gate; concrete direction: work/volume-3-drafting/24-vignette-constructions-2031.md. Preserve author annotations and personal recollections. -->
+
 > "TODO."\
 > --- **TODO**
 
@@ -376,6 +378,18 @@ The old world asked too often for trust without answerability. Trust the doctor.
 The new systems must not repeat the same demand in softer typography.
 
 They must earn trust by becoming interruptible.
+
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+## When Two Freedoms Share a Plan
+
+Personal agency is often made possible by somebody else's participation. An assistant can find a course that fits my calendar while quietly allocating its consequences to the person who cares for my father. My freedom has increased on one screen. Hers has been spent on another.
+
+**Compose permissions and obligations together, across the people whose lives the plan changes.** The applicant, caregiver and learning provider may have different aims. A joint plan needs to establish what each accepts, what each contributes, which choices remain private, and what happens when circumstances change. One participant's powerful assistant cannot confer the others' consent.
+
+The positive opportunity is larger than avoiding a conflict. Agents could find a different schedule, a shared resource or a new division of work that none of the participants had the capacity to discover alone. Compare the capability each gains and the burden each carries; do not let an aggregate improvement conceal the same person's repeated sacrifice. Nor should arranging a course require everyone to disclose their whole life. Exchange the constraints needed for this agreement, with a route for the people concerned to correct them.
+
+Some such arrangements may become durable communities; others should last an afternoon. Agency can grow through belonging without making belonging compulsory. Governance will later ask how a continuing collective acquires legitimate authority. Here the design begins before the constitution: help several lives become more possible together, without assigning one of them the role of raw material.
 
 ## The Model of Me
 

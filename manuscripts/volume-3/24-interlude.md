@@ -8,6 +8,8 @@ INTERLUDE 24
 
 *DOING*
 
+<!-- Opening prose bank retained for Sam/Claude, not a finished future memoir. Reconstruct as explicitly prospective thought at the 11 September 2031 gate; concrete direction: work/volume-3-drafting/24-vignette-constructions-2031.md. Preserve author annotations and personal recollections. -->
+
 > "Every age has its potential regulator, its threat to liberty."\
 > --- **Lawrence Lessig**[^v3-i24-lessig]
 
@@ -276,6 +278,18 @@ When a subtask is completed, the receipt should identify the acting service and 
 
 This preserves responsibility without pretending that there is one master operator standing outside the whole mesh. Each participant enforces its boundary and supplies enough evidence for the others to reason about the exchange.
 
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+## Assemble the Help, Not Another App
+
+**Compose around the person's purpose, and make the composition inspectable.** The applicant should not have to discover which application owns each prerequisite before asking to study again. A service registry can describe available capabilities, required inputs, operating limits and accountable providers. The agent proposes a plan through those capabilities; grants and actual commitments determine which steps may proceed.
+
+Keep the plan, its authorizations and its execution state distinct. A transport cancellation changes the feasible plan. It need not erase the accepted course place or silently confer permission to spend more. Replan the affected portion, preserve valid commitments, and ask for a new decision where the revised arrangement crosses an agreed boundary. The execution record remains usable even if the conversational model is replaced midway.
+
+This extends **mixed-initiative interaction**: automated assistance and direct human action can share the work, with attention to uncertain intent, interruption costs and the ability to refine or stop the assistance.[^v3-i24-mixed] The future interface may appear only when something matters: a spoken question, a comparison of viable options, a warning about a changed obligation. Routine authorized work can proceed in the background. A missing screen must not mean a missing way to intervene.
+
+In a shared plan, each participant has a bounded view and a legitimate route to change her part. Test a late withdrawal, a conflicting constraint and a replacement helper. Can the services find a useful new arrangement while preserving the other participants' commitments? Removing the need to operate five apps is valuable. Removing the ability to discover who is doing what would be a remarkably expensive simplification.
+
 ## Consent After the Checkbox
 
 <!-- AI-assisted substantive revision: Codex, 2026-11-05. -->
@@ -499,3 +513,5 @@ Chapter 25 begins there.
 [^v3-i24-strategy]: Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, [*Design Patterns: Elements of Reusable Object-Oriented Software*](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-software-9780201633610) (Addison-Wesley, 1994), “Strategy.” Its use for alternative recommendation procedures is this book's application; it does not make civic values interchangeable algorithms.
 
 [^v3-i24-hai]: Saleema Amershi et al., [“Guidelines for Human-AI Interaction”](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf), *CHI* (2019), Table 1, guidelines 8–11 and 14–18. The proposed refusal, correction and switching exercises extend interaction principles into the civic service; they are not reported test results.
+
+[^v3-i24-mixed]: Eric Horvitz, [“Principles of Mixed-Initiative User Interfaces”](https://www.microsoft.com/en-us/research/publication/principles-mixed-initiative-user-interfaces/), *CHI ’99*, May 1999; [author manuscript](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/chi99horvitz.pdf). Supports combining automated services with direct manipulation, uncertainty-aware timing, invocation/termination and refinement. The multi-party service composition is a future design application here. Accessed 6 November 2026.

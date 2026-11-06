@@ -1,5 +1,7 @@
 # Eleven Velocity Gates: a new proposal for Volume III
 
+> **Authority update, 6 November 2026:** the accepted 30-month grid remains; the ceremonial launch is 11 September 2026 and Gate1 is the first progress check on 11 March 2029. Current numbered manuscript pairs and their later projection companions supersede the early scene/role proposals below, including obsolete mentoring and launch assumptions. See [the reconciled grid and limits](volume-3-drafting/whole-volume-reconciliation-2026-11-06.md). Preserve original chapter identities here as provenance, not current numbering.
+
 Prepared 29 September 2026. Working proposal for the author’s review; not an approved replacement manuscript or a prediction calendar.
 
 The chapter sequence is retained: original identities **23, 24, 25, 31, 27, 29, 26, 30, 28, 32, 33**. Each chapter, cold open and paired interlude remain together. The historical candidate map is in `HISTORICAL_ALIGNMENT_REVIEW.md`. This proposal rebuilds the future strand independently, then connects it to the existing chapter and interlude material.

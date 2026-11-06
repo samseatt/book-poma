@@ -507,9 +507,7 @@ Volume III needs a different board.
 
 Not a caseboard in the same sense. Not specimens pinned under glass. Design should not begin by congratulating itself on the elegance of its autopsy. It needs a breadboard: a place where wires can move, connections can be tested, and sparks can embarrass us before the walls are poured.
 
-This breadboard I call C4A.
-
-Citizenship for All.
+C4A names the civics we put on this Breadboard.
 
 Not as a passport office with better fonts. Not as a global slogan floating above the tiresome details of law, land, language, obligation, and lunch. Citizenship here means participation in the systems that shape one's life. It means the right and capacity to be seen without being owned, to contribute without being consumed, to belong without being flattened, to dissent without being expelled from reality.
 
@@ -558,9 +556,9 @@ The C4A breadboard asks how to weave while the arrow is already moving.
 <!-- AI draft: 2026-11-05, operational Breadboard foundation; a proposed test within the author’s prototype project, with no claimed test results. -->
 ## One Promise on the Bench
 
-The civic side of this Breadboard is Neuverse: the roadmap and intended early-adopter community through which I want to try these arrangements at a small but socially meaningful scale. C4A names its civics in practice. Tiers is the enabling infrastructure, currently a prototype on AWS. Together they give the experiment people, purposes and machinery; Neusphere names what might emerge through their relations, not another component to install.
+The civic side of this Breadboard is Neuverse: the roadmap and intended early-adopter community through which I want to try these arrangements at a small but socially meaningful scale. C4A names its civics in practice. Tiers is the technical counterpart, spanning architecture, development, operation and stewardship; its current prototype uses AWS. Together they give the experiment people, purposes and machinery; Neusphere names what might emerge through their relations, not another component to install.
 
-The early adopters need enough of a shared life to show how the arrangements function, beyond a demonstration in which the founder plays every part. A meal delivered, a contribution recognized, a disagreement resolved: small transactions can expose whether the proposed values survive contact with someone else's afternoon. The familiar pizza has a useful advantage here. Eventually somebody has to eat it.
+The early adopters need enough of a shared life to show how the arrangements function, beyond a demonstration in which the founder plays every part. A meal delivered, a contribution recognized, a disagreement resolved: small transactions can expose whether the proposed values survive contact with someone else's afternoon. The familiar pizza belongs to a later, harder test in the Living Ledger: can internally generated activity sustain an ordinary outside provision through a working connector? A successful early integration test cannot claim that achievement. The pizza does have a useful advantage. Eventually somebody has to eat it.
 
 For the Breadboard to become useful, we need to be able to say what is being tried within it. A community is not an experimental subject simply because I have given it a pleasant name.
 
@@ -586,6 +584,18 @@ There is a positive test too. Did the arrangement give someone a usable option s
 
 The historical timelines and Velocity Gates give us other instruments: the past offers encounters to learn from, and the future checkpoints let us think toward changing capabilities and dependencies. They can illuminate the Breadboard without becoming its project schedule or its test results. Some chapters will return to the experiment; others will need a wider world. The point here is to give an ambitious proposal somewhere small enough for a person to contradict it.
 <!-- End AI draft: operational Breadboard foundation. -->
+
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+## Build It Again Without Its Inventor
+
+**A deployment should be a repeatable operation, not a remembered performance.** Version the source, dependencies and configuration; build an identifiable artifact; test it; and deploy that artifact through an inspectable procedure. Established release engineering makes this ordinary discipline rather than a heroic preference.[^v3-theta-i-release]
+
+For our experiment, include the schema, policy and model configuration in the account of what is running. Keep credentials outside the artifact. Another builder should be able to establish an authorized instance, run the example, restore its required state and identify what differs from the first installation. If the founder must stand behind her whispering the missing steps, the founder remains a dependency.
+
+A repeated build does not imply a repeated world. Hosted models may change; generated answers may vary; outside services may be unavailable. Specify the behavior or distribution of results that the test needs to recover, and retain evidence of the actual run. Replay should inspect a recorded journey without booking it again.
+
+The useful distinction is between **recreating machinery and repeating consequences**. Later we will need to update machinery while preserving live obligations, and sometimes repair consequences that no rollback can undo. Here we begin by discovering whether the small working system can leave the inventor's laptop without taking the inventor with it.
 
 [[NOTE: _We have reached the end of the boulevard. For generations, human progress traveled at a pace our eyes and brains could naturally track—a street with clear views and time to react. But the road has changed. It has morphed into a hyper-accelerated, autonomous 'free'way moving faster than human biology can process. The sections ahead map out Steps 26 through 50. Do not read these numbers as calendar years; time no longer dictates the traffic. Read them as velocity gates._
 
@@ -884,3 +894,5 @@ The machine age is whistling behind the curtain.
 The vine has entered the soil.
 
 Now we build the trellis.
+
+[^v3-theta-i-release]: Alec Warner and Štěpán Davidovič, “Canarying Releases,” in *The Site Reliability Workbook* (2018), [Release Engineering Principles](https://sre.google/workbook/canarying-releases/): reproducible and automated builds, tests, deployments and small changes. The prototype recovery exercise and distinction between recreating machinery and replaying effects are this book’s applications. Accessed 6 November 2026.

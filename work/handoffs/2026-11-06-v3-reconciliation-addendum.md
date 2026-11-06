@@ -1,0 +1,13 @@
+# V3 reconciliation addendum — internal preparation
+
+6 November 2026. **Not the comprehensive outgoing Claude handoff.** Sam will request that package separately; no manuscript batch has been released by this update.
+
+The substantive baseline now covers Θ and pairs 23–33, including the whole-volume reconciliation. Use [the completion record](../volume-3-drafting/whole-volume-reconciliation-2026-11-06.md) and [the actionable principles/patterns inventory](../VOLUME_III_PRINCIPLES_AND_PATTERNS.md) to prepare the eventual handoff. They supersede older method proposals where the contents differ. The opportunity-signal and Next Move maps remain inputs; the actual canonical middles and later pair briefs govern the current argument.
+
+The reconciliation adds purpose-reframing, need-led composition, joint agency, repeatable deployment/recovery and collective-inquiry architecture. Protect the category-changing ideas already in justice, causal medicine, living inheritance and physical reality; do not flatten the volume into an administrative compliance manual. Strong machine capability is part of its ambition. Established methods support the inquiry and test its claims; speculative extensions stay visible and may remain unresolved.
+
+Sam/Claude still own final projections, personal cadence, condensation, bridges, Noēsis, Opens and emotional closings. Retained future scenes are prose banks, not witnessed events. V3 opens through prospective thought, with flexible narrative or flashback thereafter. Sam's handwritten/raw ideas, jokes and autobiographical memories must not disappear silently in a polish pass.
+
+Ceremony: September 2026 launch; first progress Gate March 2029; 30-month steps through March 2054. C23's care-fracture reflection motivates renewal; I23 tests the builder's own machinery against analogous failures. Pizza belongs to I25/2034 and its nontrivial economic threshold, with settlement details still Sam's to settle. VitalEdge's limited product role does not narrow pair 31's full future-medicine scope. Neusphere is hoped-for emergent collective capacity, not a guaranteed outcome or a central sovereign. Tiers is the technical counterpart to the civilizational Breadboard, not merely a hosting product. C4A's expansion remains undecided.
+
+A later outgoing package should freeze a source commit; include the final index, all pair projection constructions, current inventories, source/reference limits and reserved literary work; resolve obsolete statuses in the older cumulative alignment file; and make clear that optional Coda III has not been created. Incoming V1/V2 adoption remains paused. Do not resume it, publish or send files merely because this review is complete.

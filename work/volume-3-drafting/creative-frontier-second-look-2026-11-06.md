@@ -1,5 +1,7 @@
 # Volume III — focused creative-frontier second look
 
+> **Completed in the whole-volume reconciliation, 6 November 2026.** The agenda below is retained as provenance. See [the outcome](whole-volume-reconciliation-2026-11-06.md) and [the full principles/patterns inventory](../VOLUME_III_PRINCIPLES_AND_PATTERNS.md); additions were made where they improved the current spine, rather than treating every suggested paragraph as compulsory.
+
 6 November 2026 · Follow-up agenda, not a completed redraft
 
 Sam's instruction: the design spine should discover unusual civilizational arrangements, and the builder spine should explore advanced, integrated, sensed and agentic possibilities. Established methods make these investigable and buildable; they must not shrink the volume into a compliance handbook or a contemporary app review. Alice/Bob provide additional freedom but do not monopolize original thought. Use scholarship to support the inquiry, mark conjecture intelligibly, and retain the possibility that the institution or category itself needs replacement.

@@ -1083,11 +1083,11 @@
         "PATTERN"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
-      "source_sha256": "5a48d83b6cd4871bb5eac0aedaa854af4570a9ab463f11ec80a7a961d39c9b18",
+      "source_sha256": "bf316a1162f5b7cde4377e411605c2dbbc9583dd6d5d4dd25c3dc24b11aa5356",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
-      "canonical_sha256": "5a48d83b6cd4871bb5eac0aedaa854af4570a9ab463f11ec80a7a961d39c9b18",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Establishes the design discipline that follows diagnosis: purpose, boundaries, alternatives, consequences and revisability. Neusphere and the design loom provide a framework for humane augmentation, supported by explicit design reasoning rather than aspiration alone."
+      "canonical_sha256": "bf316a1162f5b7cde4377e411605c2dbbc9583dd6d5d4dd25c3dc24b11aa5356",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Establishes design after diagnosis: purpose, functions, alternatives, evidence and revision, including the freedom to change the governing question. Neusphere supplies a proposed collective capacity whose conditions can be designed without appointing a sovereign mind."
     },
     {
       "key": "theta-i",
@@ -1105,11 +1105,11 @@
         "METHOD"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
-      "source_sha256": "ce3dbd231ad3387858203e161d70b1fb1f6872e01f734bdb35e7b2393bb605cf",
+      "source_sha256": "b34dbb46106c092f17973de2a18e37dac0f92a1e1018f7516ae3394fb109bf78",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
-      "canonical_sha256": "ce3dbd231ad3387858203e161d70b1fb1f6872e01f734bdb35e7b2393bb605cf",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Astyages’ nightmare prepares the trellis metaphor, the three empire timelines and the transition from the 2026 predicament into possible futures. The Breadboard gives these ideas a place to be tried, observed and revised before their wider consequences become irreversible."
+      "canonical_sha256": "b34dbb46106c092f17973de2a18e37dac0f92a1e1018f7516ae3394fb109bf78",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Astyages, the 2026 threshold and the three empires prepare a bounded Breadboard for civilizational inquiry. Neuverse and Tiers give it practical form; repeatable deployment, recoverable tests and explicit limits distinguish an experiment from an asserted new world."
     },
     {
       "key": "23-c",
@@ -1127,11 +1127,11 @@
         "DESIGNING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
-      "source_sha256": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
+      "source_sha256": "1ab1e7717c209fac5b952faad57aeac8fb3797eff7e7f426d5f60bf0fa30456c",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
-      "canonical_sha256": "54cd85390ac9a22915dc6db3aaa9c4ec1e74c8bfd06178cd9390ac166067d2e6",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Renewal begins with deciding what to preserve, repair, replace and reconnect after fracture. Historical beginnings and the first future gate establish a design discipline that builds replacement capacity and human continuity alongside structural change."
+      "canonical_sha256": "1ab1e7717c209fac5b952faad57aeac8fb3797eff7e7f426d5f60bf0fa30456c",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Renewal composes useful capacities around needs, preserving worthwhile functions while changing arrangements that fracture them. Service design, functional allocation and modularity turn From Fracture to Form into a discipline of replacement and continuity."
     },
     {
       "key": "23-i",
@@ -1149,11 +1149,11 @@
         "BUILDING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
-      "source_sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
+      "source_sha256": "61df5bbbf7b9bbcb3a72285a6a77ffb9fb853b6d7908f0ccb0f647e9af82347f",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
-      "canonical_sha256": "6da664534fdf31dfb535a01c470b2f50b3b28c505e0fb30af57a17195085bbb8",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Turns renewal into a buildable experiment through needs, roles, flows, boundaries and separable components. Modularity, functional allocation and testable interfaces let the Breadboard learn locally without making its first architecture everyone else’s permanent obligation."
+      "canonical_sha256": "61df5bbbf7b9bbcb3a72285a6a77ffb9fb853b6d7908f0ccb0f647e9af82347f",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Builds commitments that survive interfaces, retries and changes of provider. Ports/adapters, explicit states, relational meaning, bounded recovery and tests let a small civic experiment discover its failures before claiming wider competence."
     },
     {
       "key": "24-c",
@@ -1171,11 +1171,11 @@
         "BELONGING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
-      "source_sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
+      "source_sha256": "259399f2ea8c2ed14e4cfd24d368bfbc78b8801e775d1b3cf8cdef3f5311e33d",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
-      "canonical_sha256": "eb3a8468592af3af2be9351a63ba2f0f9a0bb795f70a8fb746945934ec0bd036",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Designs agency within a civilization whose assistance is increasingly capable and pervasive. Consent, bounded delegation, plural belonging and recoverable choices make trust something a person can exercise and revise in ordinary life."
+      "canonical_sha256": "259399f2ea8c2ed14e4cfd24d368bfbc78b8801e775d1b3cf8cdef3f5311e33d",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Examines agency as capable assistance becomes ordinary: consent, delegation, plural belonging and shared plans. Design should enlarge what people can do separately and together while keeping authority, constraints and continuing obligations revisable."
     },
     {
       "key": "24-i",
@@ -1185,19 +1185,19 @@
       "titles": [
         "The Developer's Dilemma",
         "Building Without Becoming the New Tyrant",
-        "> \"Every system hides a constitution.\"\\"
+        "DOING"
       ],
       "canonical_titles": [
         "The Developer's Dilemma",
         "Building Without Becoming the New Tyrant",
-        "> \"Every system hides a constitution.\"\\"
+        "DOING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
-      "source_sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
+      "source_sha256": "34b0048f143a77353c7c0d6db581d01e86f5825f4cb3e755b19ad482dc339545",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
-      "canonical_sha256": "71e6ab984d0415c99355dbb2ca4c64a07c7ff154eaefff5083d9c411cc3af4bd",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Builds the machinery of delegated action: permissions, identity, policy boundaries, revocation and intelligible records. The developer’s dilemma is how to provide powerful help while preventing defaults and infrastructure from quietly assuming the citizen’s authority."
+      "canonical_sha256": "34b0048f143a77353c7c0d6db581d01e86f5825f4cb3e755b19ad482dc339545",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Builds inspectable, post-app assistance through distinct plans, permissions and execution records. Capability composition, revocation, partial replanning and mixed initiative make strong agents useful without making the interface their hidden constitution."
     },
     {
       "key": "25-c",
@@ -1215,11 +1215,11 @@
         "VALUES"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
-      "source_sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
+      "source_sha256": "bdfdb65fa27a6f4e6b890574f0d6ad5bf9d300fe751fee8edd91428a3e9f511b",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-chapter.md",
-      "canonical_sha256": "9315f0e2647a1e7e37a760c46bc11fefd1e204c7e5e7b5f59e438f36eb0619d1",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Reconsiders value, contribution, provisioning and economic dignity when labor and price no longer adequately describe need or capacity. Allocation and mechanism design test how a humane economy could coordinate abundance and scarcity without recreating extractive power."
+      "canonical_sha256": "bdfdb65fa27a6f4e6b890574f0d6ad5bf9d300fe751fee8edd91428a3e9f511b",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Reworks provisioning, contribution and freedom beyond the assumption that every valuable relation must become a price. Mechanism design, capacity analysis and distributional tests ask whether productive gains become lives people can actually sustain."
     },
     {
       "key": "25-i",
@@ -1240,8 +1240,8 @@
       "source_sha256": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-interlude.md",
       "canonical_sha256": "ca1fa8926e3d85d5442f05eaa176c0a5f9b74bb0365cbc91ce3d8cb3d3a2c267",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Explores contribution records, matching, ledgers, settlement and audit as distinct working mechanisms. Graph and DAG approaches, transaction integrity and simulation test economic proposals against incentives, privacy, resource limits and the possibility of gaming the system.",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Connects value recognition, resource claims, allocation and settlement without confusing their records. Graph architecture, transaction/outbox/saga patterns and boundary accounting support the difficult 2034 pizza threshold, whose final economic mechanism remains to be specified.",
       "pair25_title_alignment": "2026-11-05: Neo4j property-graph direction; DAGs remain a local history representation."
     },
     {
@@ -1260,11 +1260,11 @@
         "LEARNING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
-      "source_sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
+      "source_sha256": "ec4c4fa1f9ed08406cabf593738a12046e32776a887c3ebcb6a710dabd6a43cf",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-chapter.md",
-      "canonical_sha256": "d3ba3bdd942968dcdf910cea9d3adb524bf45240e87d879081ddc465a974f8a8",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Designs conditions for learning, shared reality and intellectual independence amid abundant synthetic knowledge. Educational design, plural inquiry and contestable evidence seek collective understanding that strengthens individual judgment rather than manufacturing agreement."
+      "canonical_sha256": "ec4c4fa1f9ed08406cabf593738a12046e32776a887c3ebcb6a710dabd6a43cf",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Designs learning and shared inquiry without requiring a shared doctrine. Educational design, epistemic independence and variable forms of participation ask how a public might develop useful collective cognition while preserving disagreement."
     },
     {
       "key": "26-i",
@@ -1282,11 +1282,11 @@
         "EDUCATION"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
-      "source_sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
+      "source_sha256": "d0311417cf2521310d687254220a21447b0af14f54b3ab6dfa5b8ccf649ef077",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
-      "canonical_sha256": "3793f35f0157d9bb708f8410a68baa3808731c7f1c8a05e63d49770e1507374e",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Builds learning environments and evidence pipelines that preserve sources, uncertainty and routes for correction. Cognitive scaffolds, retrieval and evaluation make a wise infosphere a practical engineering problem rather than a promise attached to persuasive output."
+      "canonical_sha256": "d0311417cf2521310d687254220a21447b0af14f54b3ab6dfa5b8ccf649ef077",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Builds evidence pipelines and a working memory for inquiry, keeping rival hypotheses, provenance and corrections in circulation. Blackboard architecture, evaluation and reproducibility make a wise infosphere more than a fluent publication machine."
     },
     {
       "key": "27-c",
@@ -1304,11 +1304,11 @@
         "SHARING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
-      "source_sha256": "f302ffa5fb8b1c7b2347068fe70755414dfbcd2d617b745df1813fd46ca3d67c",
+      "source_sha256": "cc511e14959c20dd6823b70241e7f1482cc6316e764523b1de11168dfb62b8be",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-chapter.md",
-      "canonical_sha256": "f302ffa5fb8b1c7b2347068fe70755414dfbcd2d617b745df1813fd46ca3d67c",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Treats ecological, informational and civic commons as systems requiring continuing care and legitimate shared authority. Resource-specific stewardship, boundaries and participation make replenishment and access design responsibilities rather than residual benefits."
+      "canonical_sha256": "cc511e14959c20dd6823b70241e7f1482cc6316e764523b1de11168dfb62b8be",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Places shared capacities inside the ecosystems and communities that sustain them. Commons governance, non-substitutable limits and adaptive stewardship reject both enclosure and the assumption that human benefit can excuse unlimited extraction."
     },
     {
       "key": "27-i",
@@ -1326,11 +1326,11 @@
         "SUPPORTING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-interlude.md",
-      "source_sha256": "e46c917053e19b9130cb499d22a09028d22fb58738bb7d008c7cd36fd5dbde73",
+      "source_sha256": "9da3e2d79ec26d16f8b73be4b9a9087bd18bc4c1822fe3a87c63540c500573da",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-interlude.md",
-      "canonical_sha256": "e46c917053e19b9130cb499d22a09028d22fb58738bb7d008c7cd36fd5dbde73",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Builds the records, permissions, monitoring and resource-management arrangements that support stewardship. Data and biological commons make provenance, consent, capacity and community authority concrete, while resisting a universal template for very different resources."
+      "canonical_sha256": "9da3e2d79ec26d16f8b73be4b9a9087bd18bc4c1822fe3a87c63540c500573da",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Turns stewardship into permissions, resource budgets, privacy mechanisms and lifecycle duties. Community authority and cumulative limits shape what a commons service may do, including what must remain uncollected or unavailable."
     },
     {
       "key": "28-c",
@@ -1348,11 +1348,11 @@
         "MAKING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
-      "source_sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
+      "source_sha256": "0fc8d732d00fbb0a7f2752c7cf848e4c74a46c2c0e034e961d9bc02fadf62a6b",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
-      "canonical_sha256": "2a78d338eab9301fca9ce2948be453cac0c9e803ad5a733f1ce2fd7c95479417",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Reimagines production through the full lives of materials, energy, labor and products. Regenerative making combines useful capacity with repair, reuse and accountable limits, extending stewardship into what a civilization manufactures and discards."
+      "canonical_sha256": "0fc8d732d00fbb0a7f2752c7cf848e4c74a46c2c0e034e961d9bc02fadf62a6b",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Designs material usefulness through function, repair, reuse and eventual recovery. Lifecycle reasoning and failure analysis test whether improved production reduces total burdens rather than simply manufacturing replacements faster."
     },
     {
       "key": "28-i",
@@ -1370,11 +1370,11 @@
         "MANUFACTURING"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
-      "source_sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
+      "source_sha256": "1722ec1ed7d614246968de7e0d464b695144010d3977dd1d34aef3c6e55f83ed",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-interlude.md",
-      "canonical_sha256": "7e1a2329b56ff126d8b758485d23b71e186f01302138688760eeff75e3592bf2",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Develops the architectures of fabrication, material traceability, adaptable production and circular supply chains. Biofabrication and interchangeable processes become testable possibilities, with physical tolerances, safety, resource costs and repairability kept inside the design."
+      "canonical_sha256": "1722ec1ed7d614246968de7e0d464b695144010d3977dd1d34aef3c6e55f83ed",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Builds qualified fabrication across alternative materials and processes, with a service-cover example connecting specifications to acceptance. Parametric design, process capability, traceability and TACK keep adaptable manufacture accountable to physical results."
     },
     {
       "key": "29-c",
@@ -1392,11 +1392,11 @@
         "STEWARDSHIP"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
-      "source_sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
+      "source_sha256": "de32a5badc7e7a5e62b9285a852ee884bef804f3f6d8c586c99a6dfd67ad534b",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-chapter.md",
-      "canonical_sha256": "c555a989d466431976b51202159aee09ed4fc7760c91b29034a88cc55cfb0ffc",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Designs legitimate participation, distributed authority and stewardship across communities and institutions. Co-authorship requires decisions people can enter, understand and challenge, alongside workable coordination and ways to prevent capture."
+      "canonical_sha256": "de32a5badc7e7a5e62b9285a852ee884bef804f3f6d8c586c99a6dfd67ad534b",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Distributes legitimate authority through subsidiarity, participation and revisable delegation. Greater intelligence should make governance more enterable and correctable, while fiscal design and power analysis expose who carries the cost of an apparently efficient decision."
     },
     {
       "key": "29-i",
@@ -1414,11 +1414,11 @@
         "GOVERNANCE"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
-      "source_sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
+      "source_sha256": "d8b244ec58267622b13875c13b39734a0fab88ba38f2ec2373ec25c68a7a532c",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-interlude.md",
-      "canonical_sha256": "06fab24e220ee829f3c87e56802719f92508856e0dae3587be92fa410ce75df9",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Builds civic identity, credentials, delegation, federation and protocol change across distinct jurisdictions. Context boundaries, migration and the limits of scalability expose what is required for meshes to cooperate without flattening their members or their differences."
+      "canonical_sha256": "d8b244ec58267622b13875c13b39734a0fab88ba38f2ec2373ec25c68a7a532c",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Builds mandates and cooperation across distinct jurisdictions. Bounded contexts, policy decisions, federation, failure behavior and staged migration allow civic meshes to share capability without erasing their members or inventing one universal authority."
     },
     {
       "key": "30-c",
@@ -1436,11 +1436,11 @@
         "JUSTICE"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
-      "source_sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
+      "source_sha256": "20250e2be2915ff9e492838b7bcd076418f00a2aff6c5b90f3ba0f439497616a",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-chapter.md",
-      "canonical_sha256": "2bd2bb80ed6cbb0b3965957573c4d4c0ae183d7f834eae7674c2540700520d8d",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Designs fairness into the arrangements that precede judgment: rules, evidence, discretion, recourse and repair. Historical claims to rightful order lead into institutions capable of admitting error and giving affected people a meaningful way to contest decisions."
+      "canonical_sha256": "20250e2be2915ff9e492838b7bcd076418f00a2aff6c5b90f3ba0f439497616a",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Recasts justice as civilizational quality, prevention and repair across causal chains, with judgment occupying a smaller role. Systems safety and capability reasoning examine the conditions producing harm, including defects in the rules themselves."
     },
     {
       "key": "30-i",
@@ -1450,19 +1450,19 @@
       "titles": [
         "Protocols of Integrity",
         "Designing Fairness into Systems",
-        "JURISPRUDENCE"
+        "INTEGRITY"
       ],
       "canonical_titles": [
         "Protocols of Integrity",
         "Designing Fairness into Systems",
-        "JURISPRUDENCE"
+        "INTEGRITY"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
-      "source_sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
+      "source_sha256": "20668437689a02d4c19d6bc7e7508343f06aa0f9df4a520c9e9fd0c30d6c3dd7",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
-      "canonical_sha256": "04ce900a37fd53eb3519834393624e2428a93407444fd56f85f420bf7f9867d7",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Turns integrity into decision models, evidence provenance, audit trails, tests and remedy workflows. The builder must preserve explainable grounds and effective challenge through automated and human decisions, including the handling of failure and disagreement."
+      "canonical_sha256": "20668437689a02d4c19d6bc7e7508343f06aa0f9df4a520c9e9fd0c30d6c3dd7",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Makes integrity operational through assurance cases, TACK, contracts, property/metamorphic tests and controlled release. Evidence and remedy travel together; deployment and state migration must preserve outstanding duties rather than merely restore a program."
     },
     {
       "key": "31-c",
@@ -1480,11 +1480,11 @@
         "HEALTH"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
-      "source_sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "source_sha256": "097ddb1f47d4de89764dba3ca97f6c4f866e3faa6db2398ca5b9771e14f22b19",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
-      "canonical_sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Designs care around the continuing life of a person, linking clinical skill, family knowledge, context and presence. Longitudinal attention and safe coordination challenge institutions that measure completed episodes more readily than sustained health."
+      "canonical_sha256": "097ddb1f47d4de89764dba3ca97f6c4f866e3faa6db2398ca5b9771e14f22b19",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Moves care beyond disease-factory labels toward interacting biological systems and the worthwhile life interventions could enable. Systems medicine, adaptive goals and ecological context encompass cancer, ageing, restoration and care that can change its own configuration."
     },
     {
       "key": "31-i",
@@ -1502,11 +1502,11 @@
         "MEDICINE"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
-      "source_sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "source_sha256": "587f55eb6ae49bbcbb56f8056b4646f948f49d7924aadd6b799477e805e02856",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
-      "canonical_sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Builds clinical information and care workflows that connect molecules, measurements, symptoms and lived context. Pattern-based assistance requires uncertainty, validation, staffing, escalation and hazard analysis; collecting more signals does not itself deliver care."
+      "canonical_sha256": "587f55eb6ae49bbcbb56f8056b4646f948f49d7924aadd6b799477e805e02856",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Connects multi-omics, AI, gene/cell/immune interventions and tissue fabrication to evidence, causal models and clinical action. Post-app workflows and shared case inquiry support advanced medicine broadly; VitalEdge contributes exploration without itself being cast as the treating clinician."
     },
     {
       "key": "32-c",
@@ -1524,11 +1524,11 @@
         "LIFE"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
-      "source_sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
+      "source_sha256": "c822d6de2f454ab47e6b79e1c437e615ac5e5f993eeb6fbd31c41ce816eceb37",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
-      "canonical_sha256": "6e412a8cdcdf657dd811f0f6882e1a3cda943bdd633f6aac3c66a9f75b290d5b",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Designs cultural and personal continuity across generations of changing people and machines. Memory, ritual and inheritance become choices about what to preserve, reinterpret or release, with living cultures retaining authority over their own futures."
+      "canonical_sha256": "c822d6de2f454ab47e6b79e1c437e615ac5e5f993eeb6fbd31c41ce816eceb37",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Renews cultural and religious inheritance through living obligations rather than frozen identity. Rootedness, plural integration and shared practice ask whether inherited commitments can guide both people and capable agents toward planetary and human flourishing."
     },
     {
       "key": "32-i",
@@ -1546,11 +1546,11 @@
         "LIFECYCLE"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
-      "source_sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
+      "source_sha256": "167fe5df1235903ddf8610c83977e9fa841bde7a663b92589b6a8cf16e953fd2",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
-      "canonical_sha256": "893bfb88e0aa6f5449ae82a684bcdc876683975e3ef6d6ab2c7222fd6a7d22ca",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Builds semantic memory through archives, knowledge structures, provenance, preservation and migration. The challenge is to keep an inheritance interpretable and usable without mistaking storage, generated reconstruction or technical persistence for the life that produced it."
+      "canonical_sha256": "167fe5df1235903ddf8610c83977e9fa841bde7a663b92589b6a8cf16e953fd2",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Preserves sources and meanings while migrating the systems that interpret and act on them. Semantic memory, provenance, permissions and commitment tests distinguish a faithful archive from an active inheritance that must remain correctable."
     },
     {
       "key": "33-c",
@@ -1568,11 +1568,11 @@
         "REALITY"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
-      "source_sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
+      "source_sha256": "fb16a895889b785eb586519f798d7499104656bc9130621c86fa820e14c0da6e",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-chapter.md",
-      "canonical_sha256": "acf68ca4947fb0973b05db2efbf5a49454425968a8d8b860957a81d6f62f3a0c",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Brings design to the problem of release: how a useful arrangement can outgrow its founders, be revised or be retired. The final gate turns historical inheritance and future responsibility into a capacity to act without claiming permanent ownership of what follows."
+      "canonical_sha256": "fb16a895889b785eb586519f798d7499104656bc9130621c86fa820e14c0da6e",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Returns design to physical reality, uncertain origins and the lives new arrangements could make possible. Robust decisions and prepared succession release a useful design from its founders without pretending either the world or its final explanation is theirs to own."
     },
     {
       "key": "33-i",
@@ -1590,11 +1590,11 @@
         "SIMULATION"
       ],
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
-      "source_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
+      "source_sha256": "85d63ff4d4879156e3b220dc88a5d6005d4b3cd64cabcd1388e487c09b9714d2",
       "canonical_source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-interlude.md",
-      "canonical_sha256": "7fe80c5c930314e4604b601436400f988b6ca5d2dd2c27c6d1b4b19ecc539e31",
-      "status": "Canonical unit titles; description reflects current plan.",
-      "description": "Simulation, rehearsal and the Mirror bring construction face to face with memory, identity and the consequences of making worlds. The builder’s final responsibilities include testing, handover and limits, while the personal experiment asks what can continue without claiming resurrection."
+      "canonical_sha256": "85d63ff4d4879156e3b220dc88a5d6005d4b3cd64cabcd1388e487c09b9714d2",
+      "status": "Canonical V3 substantive reconciliation, 6 November 2026; projections/Noēsis/Opens/closing prose remain reserved.",
+      "description": "Builds credible simulations, useful constructed worlds and a living personal Mirror through modelling, validation, uncertainty and reproducible inquiry. The mental exoskeleton opens questions of agency and identity; operational succession leaves the final farewell to what follows."
     }
   ],
   "framing": [
@@ -1642,15 +1642,15 @@
       "key": "overture3",
       "label": "Overture III",
       "title": "The Basket We Carry",
-      "description": "The father’s phone and Ryan’s bow stage an intimate handoff between generations, memory and a possible Silicon inheritance. Reverence, interpretation and the responsibility of making new realities prepare the design volume.",
+      "description": "The father's phone and Ryan's bow stage the handoff between generations and a possible Silicon inheritance. Physical engineering gives way to a new vocabulary of making, while the basket keeps its emotional weight.",
       "source": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/overture.md",
       "source_sha256": "e47cc081be8286f3ea0cc2f6b578194e535c49cf039e2023d5adf9f9b9bcff46"
     },
     {
       "key": "epilogue",
-      "label": "Epilogue and Coda III",
+      "label": "Epilogue",
       "title": "The Basket We Carry",
-      "description": "Returns to the basket, the released arrow and the plane, now carrying the consequences of what people build and leave behind. Continuity replaces the promise of possession: the future inherits acts, patterns and responsibilities as well as memories.",
+      "description": "Returns to the basket, the released arrow and the plane, carrying the consequences of what people build and leave behind. The existing Epilogue currently also serves the volume's final coda; a separate Coda III may precede it, but has not been commissioned or inserted.",
       "source": "/Users/samseatt/projects/book-poma/manuscripts/back-matter/epilogue.md",
       "source_sha256": "493e84a9ae3136865641045dd6637fdac3aff7e08a6955a3e45aaa4fe5f9efe8"
     }
@@ -1790,5 +1790,12 @@
     "Prologue display title is supplied by the canonical index, not the untitled body file.",
     "No uncertain scientific or current-affairs claims in research notes were promoted to verified facts by this index.",
     "Descriptions are concise syntheses from current outlines and editorial plans; this task is not a new cover-to-cover review of every source."
-  ]
+  ],
+  "volume_iii_refresh": {
+    "date": "2026-11-06",
+    "baseline_commit": "bf3598e",
+    "scope": "Only V3 unit title triples, descriptions and source hashes refreshed; V1/V2 records retain their prior dated basis.",
+    "record": "work/volume-3-drafting/whole-volume-reconciliation-2026-11-06.md",
+    "coda_iii": "Optional separate unit remains uncreated; existing Epilogue still closes the volume."
+  }
 }

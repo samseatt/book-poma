@@ -1,6 +1,8 @@
 # Volume III substantive completion and later Claude handoff
 
-6 November 2026 · Active editorial workflow · Θ and pairs 23–33 substantively prepared; whole-volume review and final handoff pending
+> **Current status, 6 November 2026:** whole-volume reconciliation and the creative-frontier second look are complete. See [the current inventory](VOLUME_III_PRINCIPLES_AND_PATTERNS.md) and [completion record](volume-3-drafting/whole-volume-reconciliation-2026-11-06.md). The chronological entries below preserve earlier pending states. The comprehensive Claude handoff remains separately pending at Sam's direction.
+
+6 November 2026 · Active editorial workflow · Θ and pairs 23–33 substantively reconciled; comprehensive outgoing handoff and literary work pending
 
 ## Author decision and division of work
 
@@ -153,3 +155,7 @@ Substantive completion covers Θ foundations and numbered pairs 23–30. Final p
 The final numbered pair is substantively prepared. [Pair 33 brief](volume-3-drafting/33-substantive-completion-2026-11-06.md) and [actual projection ideas](volume-3-drafting/33-vignette-constructions-2054.md) govern over the old dramatized scenes. Both original closing banks remain available, with their placement explicitly unlocked by the author's optional Coda III. Epilogue unchanged.
 
 **Remaining before release to Claude:** reconcile Θ promises with all eleven pairs; perform the already-recorded creative-frontier second look for 23–30; check duplicated mechanisms, current histories/gates, tertiary labels, source status and closing handoffs; refresh the descriptive index and final outgoing brief; identify a fixed source revision. Do not mistake completing the eleven pair passes for having completed these remaining tasks. Final projections, Noēsis, Opens and literary integration belong to Sam/Claude. The incoming-draft queue remains paused.
+
+## Whole-volume reconciliation completed
+
+The current inventory and completion record supersede earlier pending review items for the substantive spine. Canonical additions connect Θ's purpose/design discipline to the later category-changing proposals; method recurrence now has deliberate teaching homes. The work index reflects current V3 titles and expanded scope. Existing projections and final literary elements remain reserved, and the old cumulative handoff is withheld until a fresh comprehensive package is requested. See the reconciliation audit for the scoped verification results.

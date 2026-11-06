@@ -1,5 +1,7 @@
 # Volume III: opportunity signals, design principles, builder primitives, and The Next Move
 
+> **Status update, 6 November 2026:** retain this document as planning provenance and, where applicable, the opportunity-signal/Next Move mapping. For the methods actually present after the substantive V3 pass, use [the reconciled principles and patterns](VOLUME_III_PRINCIPLES_AND_PATTERNS.md) and [completion record](volume-3-drafting/whole-volume-reconciliation-2026-11-06.md). Older proposed scopes or unimplemented-status statements below do not override them.
+
 Prepared 4 October 2026 from the canonical manuscripts at repository revision `80ce1e7`. **Editorial assessment and proposals for review; no manuscript changes.** Current chapter numbering is used throughout. The separate Chapter 23 opening experiments are not treated as adopted text.
 
 **Complementary technical list added 4 October 2026:** Read this inventory alongside [Design methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md). The author has clarified that both indirect design values and direct technical rigor are essential. This first list remains active: it groups values, requirements, principles, safeguards, and mechanisms. The additional list distinguishes established design principles, analysis methods, architectures, patterns, and engineering practices, with applications and tradeoffs for all eleven pairs. Its terminology corrects the overly broad use of “principles” and “primitives” in this first assessment; it does not discard the material.

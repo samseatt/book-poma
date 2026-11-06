@@ -8,6 +8,8 @@ CHAPTER 23
 
 *DESIGNING*
 
+<!-- Opening prose bank retained for Sam/Claude, not a finished future memoir. Reconstruct as explicitly prospective thought at the 11 March 2029 gate; concrete direction: work/volume-3-drafting/23-substantive-completion-2026-11-05.md. Preserve author annotations and personal recollections. -->
+
 > "The future is not something we enter. The future is something we create." --- **Leonard Sweet**
 
 [[ADD: This is the part of other book where the arc of history bends permanently from the past into the future. When a specific date reveals itself as the horizon—a cosmic stop date—moving forward through time begins to feel like looking backward into history. When something starts and hasn't ended but you already start seeing its asymptotic curve - often called the **Singularity curve** in futurism - you can infer the boundary wall of that activation function. It cease to be unknown and becomes a probability machine. Not the wave going into the future, but a metaphorical wave function whose equation we plug reality into. Even here in 2029, we still do not know if this boundary signifies the final end of human civilization, or a gainful renewal with its own equations. The only thing with absolute mathematical certainty we can say now is that philosophy is at a 99.65% sigmoid asymptote of being dead. Every living philosopher—and yes, there is still such a thing—is talking about AI and nothing else.
@@ -296,6 +298,20 @@ This separates **coordination from provision** without pretending they are indep
 The design test is whether a change can remain local where it should, and travel where it must. A new screen should not require a new constitution. A changed rule about who may receive help should not arrive disguised as a new screen.
 
 <!-- End 2026-11-05 substantive revision. -->
+
+<!-- AI-assisted whole-volume reconciliation: Codex, 2026-11-06. -->
+
+## Let the Need Change the Arrangement
+
+There is a more ambitious use for these connections than making referrals travel faster. **Compose the capability around the need; let the institutional shape follow.**
+
+A person needs to take part in a weekly learning group while caring for someone at home. Our first answer may be an efficient chain of transport, respite and enrollment. A richer search could bring the learning group closer, share a suitable space with care, or change when and how participation happens. The best route may remove a handoff rather than perfect it. The person gains a form of life that was unavailable, not merely another booking.
+
+This requires distinguishing the desired capability from the familiar service request. Asking for a ride is valid information; it is not proof that a ride is the only useful answer. Explore alternatives with the person, including the original request. A system that continually explains why you should want something else is another institution in excellent conversational form.
+
+The resulting arrangement might combine existing providers or give rise to a new collective. Its boundaries should follow the work and its obligations, not the territory each application has learned to defend. Some coordination will need to persist; some can disappear once participants have a dependable relation of their own. Retain responsibility for the commitments without requiring every later encounter to pass through the founder's switchboard.
+
+That is a possible beginning for Neusphere: related knowledge helping people discover an arrangement none of the separate service catalogues could offer. Test the gained capability, the work displaced onto others and the resources consumed. A newly drawn connection is only the beginning of the claim.
 
 ## Visible Need, Visible Capacity
 

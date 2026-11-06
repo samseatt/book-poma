@@ -1,5 +1,7 @@
 # Volume III: design methods and builder patterns
 
+> **Status update, 6 November 2026:** retain this document as planning provenance and, where applicable, the opportunity-signal/Next Move mapping. For the methods actually present after the substantive V3 pass, use [the reconciled principles and patterns](VOLUME_III_PRINCIPLES_AND_PATTERNS.md) and [completion record](volume-3-drafting/whole-volume-reconciliation-2026-11-06.md). Older proposed scopes or unimplemented-status statements below do not override them.
+
 4 October 2026. Correction and technical extension to [the design inventory](VOLUME_III_DESIGN_MAP.md), following the author's challenge to its classification. Sources: canonical Chapters/Interludes 23–33 at revision `e0cd466`, the preceding content review, and the primary references linked below. **Proposed editorial additions; no manuscript rewrite.**
 
 ## What the earlier assessment omitted

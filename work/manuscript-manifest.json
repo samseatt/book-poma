@@ -68,7 +68,10 @@
     "volume_iii_reading_review": "work/VOLUME_III_READING_REVIEW.md",
     "volume_iii_reading_notes": "work/VOLUME_III_READING_NOTES.md",
     "volume_iii_reading_audit": "work/volume-iii-reading-audit.json",
-    "publishing_workflow_brief": "work/publish_process/Manuscript_Workflow_Brief.md"
+    "publishing_workflow_brief": "work/publish_process/Manuscript_Workflow_Brief.md",
+    "volume_iii_principles_patterns": "work/VOLUME_III_PRINCIPLES_AND_PATTERNS.md",
+    "volume_iii_whole_volume_reconciliation": "work/volume-3-drafting/whole-volume-reconciliation-2026-11-06.md",
+    "volume_iii_handoff_preparation": "work/handoffs/2026-11-06-v3-reconciliation-addendum.md"
   },
   "counts": {
     "main_manuscript_units": 120,
@@ -2582,7 +2585,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-chapter.md",
-        "sha256": "1f80d50f196976b9736e51b19884e711639cc2d8822811d91aa4b410cd96a7a0"
+        "sha256": "bf316a1162f5b7cde4377e411605c2dbbc9583dd6d5d4dd25c3dc24b11aa5356"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-c - The Design Horizon - Principles for Re-weaving Civilization.docx",
       "source_sha256_at_inventory": "51d986de7746048d5d439cfa298e3faa63b8cbaa7eaea03362096b322cdbac85",
@@ -2627,7 +2630,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-interlude.md",
-        "sha256": "9b4a67511a2e3a23f04109c8d899ef85171e5c9b4837798b537666848a2c8022"
+        "sha256": "b34dbb46106c092f17973de2a18e37dac0f92a1e1018f7516ae3394fb109bf78"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0-theta-i - The Architect’s Pause - Before We Build the Future.docx",
       "source_sha256_at_inventory": "8983adc5f712a2ec57c1ef5911983623595d3de816fd8085df631ca0d5f0bf80",
@@ -2714,7 +2717,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-chapter.md",
-        "sha256": "0c4d206eff0b5834e1de6e45de348c55134eb3fb945f0332d682e6e8f0fff789"
+        "sha256": "1ab1e7717c209fac5b952faad57aeac8fb3797eff7e7f426d5f60bf0fa30456c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 23c - The Loom of Renewal - From Fracture to Framework.docx",
       "source_sha256_at_inventory": "bfb613808b37e788da56388f5d187eeb2f881f9d57ee13111b7812a14da91511",
@@ -2760,7 +2763,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-interlude.md",
-        "sha256": "99895d62b3ea5cb682e0156e8b63693143ecd2f5d92a313592b429b6de17e647"
+        "sha256": "61df5bbbf7b9bbcb3a72285a6a77ffb9fb853b6d7908f0ccb0f647e9af82347f"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 23i - The Loom of Design — Foundations for Ethical Systems Thinking.docx",
       "source_sha256_at_inventory": "b165b1408436804a1ad6d98df44fc5268cf6c5a58b70aa230d831f2de8e3fca4",
@@ -2843,7 +2846,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-chapter.md",
-        "sha256": "e2837cab8537e3fe8fad55233af6a8c0fe84c253f6886cde1de5cab17e0b37ee"
+        "sha256": "259399f2ea8c2ed14e4cfd24d368bfbc78b8801e775d1b3cf8cdef3f5311e33d"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 24c - The Citizen’s Dilemma - Agency, Trust, and Life Inside the New Mesh.docx",
       "source_sha256_at_inventory": "6e6072c3875a20679edea835b9b8d69be7e5cb1a9f2e82d1f8b86321fede5933",
@@ -2895,7 +2898,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-interlude.md",
-        "sha256": "fde104293ca61d20786dd07466f95d5a492616975c12ae79ebc3993abc152326"
+        "sha256": "34b0048f143a77353c7c0d6db581d01e86f5825f4cb3e755b19ad482dc339545"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 24i - NEURO Framework - Building Institutional Fabric.docx",
       "source_sha256_at_inventory": "48e8a2da612ba8d6cb2ca887178e31833c24a382f1470cbcfd6279959139d343",
@@ -3416,7 +3419,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
-        "sha256": "f210bc76800c8cda190142ef3a0c3ce59ad2765132854e09c9b0761b431bafff"
+        "sha256": "587f55eb6ae49bbcbb56f8056b4646f948f49d7924aadd6b799477e805e02856"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28i - From Molecule to Moment — Precision Medicine in the NEURO Age.docx",
       "source_sha256_at_inventory": "53d39e4517a0ba80c12dc42b0aaa53a67d890aba6102e6292caae75539dfa15e",
@@ -3501,7 +3504,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-chapter.md",
-        "sha256": "b58dc135a9beb59b4562925677bd0c7931410a8ca391a83491116d867d8cb99c"
+        "sha256": "0fc8d732d00fbb0a7f2752c7cf848e4c74a46c2c0e034e961d9bc02fadf62a6b"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 29c - The Reimagined Workshop - Making as Stewardship.docx",
       "source_sha256_at_inventory": "a1cc666cbef213906ee6e5e85084fb714d2409717ad861ad41568014c2c30dc6",
@@ -3678,7 +3681,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-interlude.md",
-        "sha256": "5066ddf587e102b3a54b88f197267e99e9f1b776a4e8492b6ac162d62026c478"
+        "sha256": "20668437689a02d4c19d6bc7e7508343f06aa0f9df4a520c9e9fd0c30d6c3dd7"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 30i - Protocold of Integrity - Coding Fairness into Systems.docx",
       "source_sha256_at_inventory": "5913e1d91b5c1ceec2e156b3b4b050cbd0489c50882ce8d216ccc4768f089309",
@@ -3809,7 +3812,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-interlude.md",
-        "sha256": "ed93f075b199f135df78352b9ada44cada072476a6d80c15b81e5e95186ccd19"
+        "sha256": "d0311417cf2521310d687254220a21447b0af14f54b3ab6dfa5b8ccf649ef077"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 31i - Signal and Story - Cognitive Architectures for a Wise Infosphere.docx",
       "source_sha256_at_inventory": "5d547966193917cacdac4fafdb59282670b93a7facfa65fafc2b31ef968a48c1",
@@ -4192,7 +4195,7 @@
   },
   "velocity_gate_structure": {
     "proposal": "work/VELOCITY_GATES_PROPOSAL.md",
-    "status": "structure-accepted-by-author; detailed-reading-and-feedback-pending",
+    "status": "Author-accepted grid retained through substantive whole-volume reconciliation, 6 November 2026; final projection prose and later forecast updates remain separate.",
     "ceremonial_clock": {
       "author_updated": "2026-11-05",
       "volume_ii_suspension": "2026-03-11 09:00",
@@ -4295,5 +4298,12 @@
     "theta_setup": "work/THETA_SETUP_FOR_HISTORICAL_BRAID.md",
     "audit": "work/volume-iii-historical-braid-audit.json",
     "scope": "Eleven history/gate/design sections and one narrow Chapter 32 seam; main design condensation, future vignette reconstruction, Theta revision, and interlude science anchors remain pending."
+  },
+  "volume_iii_whole_volume_reconciliation": {
+    "date": "2026-11-06",
+    "status": "substantive-reconciliation-completed; literary-work-and-comprehensive-handoff-pending",
+    "record": "work/volume-3-drafting/whole-volume-reconciliation-2026-11-06.md",
+    "audit": "work/volume-3-drafting/whole-volume-reconciliation-audit-2026-11-06.json",
+    "scope": "Theta and eleven numbered pairs; current numbering and historical anchors retained."
   }
 }
