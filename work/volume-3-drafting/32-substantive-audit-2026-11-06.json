@@ -1,0 +1,88 @@
+{
+  "pair": 32,
+  "date": "2026-11-06",
+  "baseline_commit": "8a45f89c7dfbc348c9b0bd0f7494b47f8661c8f3",
+  "preservation_checks": {
+    "chapter_1501_2001_history_verbatim": true,
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "chapter_closing_verbatim": true,
+    "interlude_closing_verbatim": true,
+    "late_personal_reflection_verbatim": true,
+    "personal_movement_verbatim": true,
+    "early_personal_reflection_original_retained": true,
+    "technical_mirror_original_retained": true,
+    "annotations_preserved": true,
+    "snapshot_matches": true,
+    "only_scoped_manuscripts": true
+  },
+  "preflight": [
+    {
+      "path": "manuscripts/volume-3/32-chapter.md",
+      "words_including_notes_and_reserved_prose": 6650,
+      "defined_notes": 14,
+      "references_and_rendered_backlinks": 15,
+      "bookwide_note_collisions": [],
+      "pandoc_html_json": "passed",
+      "images": [
+        "../assets/shared/chapter-arrow.png"
+      ]
+    },
+    {
+      "path": "manuscripts/volume-3/32-interlude.md",
+      "words_including_notes_and_reserved_prose": 4622,
+      "defined_notes": 9,
+      "references_and_rendered_backlinks": 9,
+      "bookwide_note_collisions": [],
+      "pandoc_html_json": "passed",
+      "images": [
+        "../assets/shared/interlude-gear.png",
+        "../assets/v3-32-interlude/living-inheritance.svg"
+      ]
+    }
+  ],
+  "manifest_changes": "Only active_source.sha256 for v3-32-chapter and v3-32-interlude",
+  "figure": "SVG parsed; PNG visually inspected: readable grayscale, no clipping or overlaps",
+  "evidence_status": {
+    "new_source_notes": "New textual passages/locators, primary research abstracts, standard sections and official descriptions checked. See source-pathways map and precise manuscript notes.",
+    "historical_braid": "Previously sourced 1501 and 2001 prose retained verbatim; not represented as a new comprehensive historical re-audit.",
+    "technical_mirror": "April 1501 verified against Grolier/Princeton and Oxford; 15/16 February 2001 issue dates against DOE/NHGRI.",
+    "seventh_generation": "Principle verified against Confederacy account; purported direct Great Law sentence not authenticated, replaced by explicit paraphrase.",
+    "translations": "Main religious references are paraphrases. Confucian modern paraphrase distinguished from Legge wording; no newly inserted long translated quotation.",
+    "sources_with_access_limits": "Some original URLs initially failed; use the accessible article reproduction for Bartlett/Marshall/Marshall, Gita alternate commentary/translation, Yale reproduction for Japji, DOE/NHGRI for genome metadata. Failed fetches are not claimed as full-text inspections.",
+    "project_charters": "Read relevant sections; design intent, not implemented evidence.",
+    "future_claims": "2051 state and Alice/Bob programs explicitly projections/proposals; no proof of consciousness, universal compatibility or guaranteed agent success."
+  },
+  "post_install_checks": {
+    "canonical_validation": [
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-chapter.md",
+        "sha256": "c822d6de2f454ab47e6b79e1c437e615ac5e5f993eeb6fbd31c41ce816eceb37",
+        "defined_notes": 14,
+        "note_references": 15,
+        "parsed_notes": 15,
+        "html_note_backlinks": 15,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-interlude.md",
+        "sha256": "167fe5df1235903ddf8610c83977e9fa841bde7a663b92589b6a8cf16e953fd2",
+        "defined_notes": 9,
+        "note_references": 9,
+        "parsed_notes": 9,
+        "html_note_backlinks": 9,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    ],
+    "git_diff_check": "passed",
+    "publication": "Not run; no deployment or external message"
+  }
+}

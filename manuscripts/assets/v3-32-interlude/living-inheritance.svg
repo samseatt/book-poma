@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+<title id="title">Living inheritance: preserve the source, let practice learn</title>
+<desc id="desc">Sources retain their identity. Interpretations inform commitments, which guide human or agent action. Observed consequences lead to review and revised interpretation. New evidence joins the historical record without overwriting earlier sources. These are proposed design relationships, not a claim that culture can be fully encoded.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#333"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#222}.title{font-size:27px;font-weight:700}.head{font-size:22px;font-weight:700}.body{font-size:19px}.small{font-size:17px}.arrow{fill:none;stroke:#333;stroke-width:2;marker-end:url(#arrow)}</style>
+<rect width="1100" height="760" fill="#fff"/>
+
+<text x="550" y="42" text-anchor="middle" class="title">
+<tspan x="550" dy="0">Preserve the source. Let practice learn.</tspan>
+</text>
+<text x="550" y="76" text-anchor="middle" class="body">
+<tspan x="550" dy="0">Two connected forms of continuity</tspan>
+</text>
+<rect x="60" y="110" width="360" height="125" rx="9" fill="#efefef" stroke="#444" stroke-width="1.5"/>
+<text x="240.0" y="143" text-anchor="middle" class="head">
+<tspan x="240.0" dy="0">PRESERVED SOURCES</tspan>
+</text>
+<text x="240.0" y="176" text-anchor="middle" class="body">
+<tspan x="240.0" dy="0">Texts, recordings, testimony</tspan>
+<tspan x="240.0" dy="27">Versions retain their identity</tspan>
+</text>
+<rect x="650" y="110" width="390" height="125" rx="9" fill="#efefef" stroke="#444" stroke-width="1.5"/>
+<text x="845.0" y="143" text-anchor="middle" class="head">
+<tspan x="845.0" dy="0">NEW EVIDENCE</tspan>
+</text>
+<text x="845.0" y="176" text-anchor="middle" class="body">
+<tspan x="845.0" dy="0">Outcomes, reasoning, corrections</tspan>
+<tspan x="845.0" dy="27">Added without rewriting the past</tspan>
+</text>
+<path d="M649 173 H422" class="arrow"/>
+<text x="535" y="154" text-anchor="middle" class="small">
+<tspan x="535" dy="0">Joins the record</tspan>
+</text>
+<rect x="60" y="330" width="280" height="140" rx="9" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="200.0" y="363" text-anchor="middle" class="head">
+<tspan x="200.0" dy="0">INTERPRETATION</tspan>
+</text>
+<text x="200.0" y="396" text-anchor="middle" class="body">
+<tspan x="200.0" dy="0">Meaning in context</tspan>
+<tspan x="200.0" dy="27">Community and dissent</tspan>
+<tspan x="200.0" dy="27">Explicit, revisable scope</tspan>
+</text>
+<rect x="410" y="330" width="280" height="140" rx="9" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="550.0" y="363" text-anchor="middle" class="head">
+<tspan x="550.0" dy="0">COMMITMENT</tspan>
+</text>
+<text x="550.0" y="396" text-anchor="middle" class="body">
+<tspan x="550.0" dy="0">A particular obligation</tspan>
+<tspan x="550.0" dy="27">Authority and resources</tspan>
+<tspan x="550.0" dy="27">Cases and competing duties</tspan>
+</text>
+<rect x="760" y="330" width="280" height="140" rx="9" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="900.0" y="363" text-anchor="middle" class="head">
+<tspan x="900.0" dy="0">ACTION</tspan>
+</text>
+<text x="900.0" y="396" text-anchor="middle" class="body">
+<tspan x="900.0" dy="0">Human or agent conduct</tspan>
+<tspan x="900.0" dy="27">What actually happened</tspan>
+<tspan x="900.0" dy="27">Affected people and places</tspan>
+</text>
+<path d="M200 236 V328" class="arrow"/>
+<text x="272" y="282" text-anchor="middle" class="small">
+<tspan x="272" dy="0">Informs</tspan>
+</text>
+<path d="M341 400 H407" class="arrow"/>
+<path d="M691 400 H757" class="arrow"/>
+<rect x="60" y="575" width="360" height="100" rx="9" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="240.0" y="608" text-anchor="middle" class="head">
+<tspan x="240.0" dy="0">REVIEW</tspan>
+</text>
+<text x="240.0" y="641" text-anchor="middle" class="body">
+<tspan x="240.0" dy="0">Revise interpretation or practice</tspan>
+</text>
+<rect x="650" y="575" width="390" height="100" rx="9" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="845.0" y="608" text-anchor="middle" class="head">
+<tspan x="845.0" dy="0">CONSEQUENCES</tspan>
+</text>
+<text x="845.0" y="641" text-anchor="middle" class="body">
+<tspan x="845.0" dy="0">Benefit, burden, harm, new learning</tspan>
+</text>
+<path d="M900 471 V572" class="arrow"/>
+<text x="963" y="526" text-anchor="middle" class="small">
+<tspan x="963" dy="0">Observe</tspan>
+</text>
+<path d="M649 625 H423" class="arrow"/>
+<text x="535" y="604" text-anchor="middle" class="small">
+<tspan x="535" dy="0">Evaluate together</tspan>
+</text>
+<path d="M200 574 V472" class="arrow"/>
+<text x="278" y="526" text-anchor="middle" class="small">
+<tspan x="278" dy="0">Learn</tspan>
+</text>
+<path d="M1041 625 H1076 V172 H1043" class="arrow"/>
+<text x="550" y="724" text-anchor="middle" class="small">
+<tspan x="550" dy="0">A working design proposal: records support living judgment; they do not replace it.</tspan>
+</text>
+</svg>

@@ -436,45 +436,39 @@ Sources: [chapter](../manuscripts/volume-3/31-chapter.md), “Beyond the Disease
 
 ### 32 — Threads of Continuity / Encoding the Eternal
 
-**Distinct tension:** preserving an inheritance must leave the living free to reinterpret it and the absent protected from invented completion. **Gate:** Living Inheritance, 11 September 2051. A retrievable culture and a living culture are related achievements, not interchangeable ones.
+**Updated 6 November 2026: substantive source implemented.** **Distinct tension:** preserve the sources of an inheritance while giving living participants the capacity to revise its authority and extend its practice. **Gate:** Living Inheritance, 9 AM, 11 September 2051. The new central twist renews religions/cultures from their own commitments and asks whether capable agents can also act well through them, with reciprocal correction.
 
-Sources: [chapter](../manuscripts/volume-3/32-chapter.md), “What Should Survive?” onward; [interlude](../manuscripts/volume-3/32-interlude.md), “Storage Is Not Memory” onward.
+Sources: [chapter](../manuscripts/volume-3/32-chapter.md), “What Should Survive?” onward; [interlude](../manuscripts/volume-3/32-interlude.md), “A Text Acquires Another Life” onward. [Brief](volume-3-drafting/32-substantive-completion-2026-11-06.md) · [Actual projections](volume-3-drafting/32-vignette-constructions-2051.md).
 
-**Technical companion:** [Pair 32: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-32).
+**Technical companion:** [Pair 32 methods and patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-32).
 
-**Signal inheritance.** D: **S14** recovers buried records and missing context; **S17** prevents ontology and inherited stories becoming permanent cages; **S19** treats memory and language as maintained inheritances. S: **S18** supports custodial duties and generational handoffs; **S20** makes preservation interpretable, repairable, and independent of one technical custodian.
+**Signal inheritance.** D: **S14** recovers buried knowledge and absent context, including living Indigenous sources; **S17** keeps inherited models/ontologies from becoming cages; **S19** sustains memory, language and practices as living resources. S: **S18** funds custodial responsibilities and shared work; **S20** carries meaning across organizational/technical boundaries. Their applications now extend to religious renewal and agent commitments rather than archives alone.
 
-**Existing chapter topics, values, requirements, and principles**
+**Chapter design spine**
 
-- **Keep — Selective continuity.** Preserve knowledge, language, care, art, and warnings while retiring inherited domination; age alone confers no authority.
-- **Keep — Memory in living use.** Speaking, teaching, cooking, practicing, adapting, and questioning carry culture beyond the archive.
-- **Keep — Refactor the functions of old stories.** Belonging, grief, obligation, awe, restraint, and shared time deserve honest forms even when cosmological claims change.
-- **Develop — Ritual as community practice.** Let meaningful thresholds and renewal grow from participants rather than impose a designer's ceremonial program.
-- **Keep — Ethical archives and incompleteness.** Consent, provenance, restricted access, restoration limits, and truthful gaps protect memory from appropriation.
-- **Keep — Language, place, and plural belonging.** Diaspora and translation can carry culture without dissolving its local authority, texture, and internal disagreement.
-- **Keep — Trauma and art as consequential inheritances.** Preserve testimony and expressive pressure without making injury a compulsory identity or a script for future revenge.
-- **Qualify — Long-duration and human-scale continuity.** Plan beyond a vendor or lifespan; protect meaning under advanced mediation without requiring a literal synthetic species split in 2051.
+- **Central inversion — Inherit the capacity to continue and correct.** Preserve source identity while revising interpretation, authority and application. Religious renewal is an atheist's olive branch, not forced secularization or a claim that all traditions agree.
+- **P/M — Representation independence and significant properties.** Establish what matters across a change of medium: sound, wording, context, relationship, place or permission. Some practice must be lived, not merely encoded.
+- **M — Value sensitive design.** Iterate conceptual, empirical and technical investigations. Examine hospitality/care through hosts, recipients, unpaid workers and indirect stakeholders; develop a better arrangement rather than merely select inspiring words.
+- **M — Concept modelling and plural integration.** Map distinct concepts without erasing differences. Overlapping meshes and shared practice can produce new obligations without homogenizing participants. C8/MOxAIC/Neunet supply the Breadboard context.
+- **M — Distributional analysis.** Trace benefit, labor, risk, access and ecological effects across meshes. Local value priorities cannot silently export harms; equal procedure does not necessarily mean fair burden.
+- **P/M — Living transmission and reciprocal learning.** Support language use, art, ritual, cultural creation and community-led ecological relationships. Use specific Indigenous traditions and the Buffalo Treaty as living sources, not a uniform nature religion.
+- **M — Succession and multi-lifespan design.** Transfer resources, authority, permissions and knowledge; keep useful options for later generations and routes to challenge custodians.
+- **Research wager — Traditions that improve shared judgment.** Test whether people and agents formed through distinct traditions can acquire new obligations through reciprocal correction, compared with homogeneous or isolated arrangements. Preserve uncertainty and room for failure.
 
-**Existing interlude mechanisms and builder requirements**
+**Interlude builder spine**
 
-- **Keep — Context-rich memory objects.** Record source, relations, language, intended use, uncertainty, consent, restrictions, and authorized custodians.
-- **Keep — Revisable ontologies and typed graph relationships.** Distinguish facts, testimony, resemblance, inference, disputed meanings, temporal validity, and prohibited inference.
-- **Keep — Preserved artifacts with versioned interpretation.** Separate originals, transcription, translation, restoration, commentary, and synthetic reconstruction.
-- **Keep — Cultural, linguistic, and ritual metadata.** Carry pronunciation, humor, setting, permissions, performance context, and living variations rather than only searchable text.
-- **Keep — Explicit missingness and reconstruction limits.** Damage, unknown origin, restriction, deliberate silence, and trauma create different obligations; a machine must not silently complete them.
-- **Develop — Forgetting, sealing, and withdrawal.** Distinguish personal protection, public-interest preservation, lawful retention, and the limitations of undoing prior model use.
-- **Develop — Community archive governance and training permissions.** Specify custody, access, benefits, reconstruction, derivative use, and internal disputes; custody is not ownership.
-- **Keep — Durable preservation and authenticity.** Open formats, replicas, checksums, migration, emulation, human-readable context, restricted access, and disaster recovery sustain a usable semantic commons.
+- **A — Separate source, interpretation, commitment, decision, action, consequence and revision.** A two-track architecture keeps evidence identifiable while practice learns; new outcomes join the record rather than rewriting the past.
+- **A/E — Typed graphs and provenance.** PROV entities/activities/agents, temporal scope and explicit relations distinguish translation, dispute and reconstruction. Neo4j is implementation context, not authority or a proof of truth.
+- **A — Semantic adapters and mapped vocabularies.** SKOS close/exact distinctions expose the danger of inherited transitive equivalence. Preserve contextual loss and contested meanings instead of silently translating custody into ownership.
+- **A/E — Bounded policy representation and useful agency.** Express scoped permissions/duties where formalization helps; distinguish training, retrieval and runtime authority. Teach agents to propose new routes to a commitment as well as honor limits.
+- **M/E — Plural decision support and behavioral testing.** Separate priorities from identities, compare distributed consequences, generate better alternatives, and test costly help/correction under pressure. Pareto improvement does not establish justice.
+- **A/E — OAIS, PREMIS and meaningful migration.** Preserve representation information, significant properties, histories, rights, fixity and successor usability. Include practical succession resources and ecological cost.
+- **A/E — Living KAUSAR and community-controlled knowledge.** Separate remembered preferences from mandates, support relational memory and contested accounts, implement appropriate CARE/Local Contexts obligations and honest reuse/withdrawal limits.
+- **Research wager — Moral migration.** Carry a lineage of correction into a more capable intelligence; test whether improved conduct fulfills or betrays inherited commitments. There is no checksum for moral continuity.
 
-**Add / extend**
+**Placement and preservation.** Religious renewal joins language, ritual, art, family memory and ecology rather than replacing them. Existing personal passages remain protected; no certainty of a synthetic species split or consciousness upload is asserted. Pair33 owns the final Mirror/release payoff and further intimate-persona questions. Final openings/closings remain reserved, with specific replacement ideation provided. Historical anchors remain 1501/2001; technical mirror now explicitly April 1501 and February 2001.
 
-- **Custodial succession with resources:** identify who can act when a custodian dies, a community institution changes, or a vendor closes; transfer permissions, knowledge, and maintenance funding together.
-- **A living-transmission measure:** judge success partly by people who can use, teach, reinterpret, and create in the practice or language. Pair preservation with community-controlled apprenticeship and creative use.
-- **An accountable way to contest custodians:** protect differing members, diaspora, younger generations, individual privacy, and evidence of public harm. “The community decides” cannot always identify a single uncontested voice.
-
-**Placement / qualification.** Keep the philosophy and archive interfaces of reconstruction here; develop intimate interactive personas, grief-product incentives, and uncertain synthetic welfare in 33. Do not discard the author's personal reflections on continuity merely because they are not primitives. They give the design its stakes. Preserve the distinction between a cultural restriction, a legal prohibition, and a technically enforceable control. “Model unlearning” is not a promise that all copies and effects can be recalled.
-
-**The Next Move — Leave something living.** Carry one meaningful piece of inheritance beyond storage: a story with its uncertainty intact, a practice taught, a language used, an artifact entrusted. Record how it may be shared and what must remain private or unfinished. Give the next custodian resources and room to change it. The point is continuation through another person's life.
+**The Next Move — Leave Something Living.** Make an inheritance usable by another willing participant, with resources and freedom to change it. Judge continuation through lived capacity, not storage volume or obedience to the founder.
 
 ### 33 — The Arrow's Release / Machines as Mirrors
 

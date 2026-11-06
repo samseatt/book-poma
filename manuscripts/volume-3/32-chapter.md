@@ -8,7 +8,11 @@ CHAPTER 32
 
 *LIFE*
 
-> "In every deliberation, we must consider the impact on the seventh generation." --- **The Great Law of the Haudenosaunee Confederacy**
+> Consider the world, and the cultural life, that those not yet born will inherit.
+>
+> — After the Haudenosaunee Seventh Generation value; author’s paraphrase.[^v3-32c-seven]
+
+<!-- Legacy opening retained verbatim as a prose bank, not an approved future encounter. Sam/Claude: use an explicit projection toward 9 AM, 11 September 2051. See work/volume-3-drafting/32-vignette-constructions-2051.md for the proposed living-inheritance reflection; conversational archives are not new in 2051. -->
 
 On September 11, 2051, the archive asked whether I wanted the gaps filled.
 
@@ -111,23 +115,13 @@ The room became less complete.
 
 Immediately, it felt more true.
 
-## The Archive Learns to Speak
+<!-- End of reserved opening. Substantive completion, 6 November 2026. The 1501 and 2001 historical accounts remain verbatim; the 2051 gate interpretation is expanded. -->
 
-Care preserved the body's pattern across time.
+## The Archive Learns to Act
 
-But persons and civilizations are more than biological continuity. We survive through names, songs, rituals, stories, jokes, recipes, warnings, languages, migrations, sacred objects, local idioms, school scars, burial customs, photographs, and the old sentences people murmur when ordinary speech fails.
+A culture can lose its future through forgetting. It can also lose it through perfect obedience. Between those failures lies the work of continuity: keeping an inheritance available to people whose lives will give it new meanings.
 
-The archive's new fluency sharpened an old question.
-
-If machines can preserve, recombine, simulate, and extend our cultural material better than we can, what remains ours to steward?
-
-The answer is not defensive.
-
-The goal is not to keep machines away from memory. That would be both impossible and unwise. Machines can restore lost audio, preserve endangered languages, detect forged records, reconstruct damaged images, translate across centuries, connect scattered archives, and help grandchildren hear voices that would otherwise have vanished into magnetic dust.
-
-The goal is to make sure memory does not become simulation without obligation.
-
-A civilization that cannot remember wisely cannot change without becoming amnesiac.
+The problem becomes sharper when memory acquires agency. A song, a scripture or a founder's preference may reach the next generation through systems that also arrange its choices. What survives is then more than information. It is an influence on what can happen next. The history of durable identities gives us both reasons to protect that influence and reasons to make it answerable.
 
 ## The Inheritance That Can Answer Back
 
@@ -145,55 +139,21 @@ A threatened society has real reasons to defend itself. It also has to decide wh
 
 Continuity therefore requires several kinds of memory. We need the record of what happened, the reasons people gave, the consequences they failed to see and the voices their settlement excluded. We also need enough freedom to argue with the inheritance. Preserving every rule unchanged would leave us very well documented and largely governed by the dead.
 
-At **the Living Inheritance** checkpoint on September 11, 2051, memory could have acquired more ability to act. Archives may be searched through conversation; family records may be assembled across languages and damaged formats; models may assist with the recovery and teaching of knowledge whose transmission has become fragile. Institutions could rely on agents trained on decades of their own decisions. A founder's preferences might continue operating long after the founder has stopped attending meetings.
+At **the Living Inheritance** checkpoint on **11 September 2051**, I would plan for a world in which capable agents have spent years helping people learn, decide, remember and act. Their competence could greatly exceed ours in many of these tasks. The unusual inheritance would be the accumulated relationship: whose commitments they carry, which interpretations they have learned, and what authority keeps operating when the original author is absent.
 
-That last possibility changes the custodial problem. A stored letter waits to be read. An active model can recommend, rank, exclude or authorize. If it inherits yesterday's assumptions without a living route of revision, preservation has become a mechanism of government.
+A stored letter waits to be read. An active model can recommend, rank, exclude or authorize. If it inherits yesterday's assumptions without a living route of revision, preservation has become a mechanism of government. More fluent access increases the need to know what, exactly, we have accessed.[^v3-32-preservation]
 
-The technical duties are quite concrete: keep original records distinguishable from reconstructions; preserve versions and disagreements; record who may authorize reuse; make migration possible when formats and suppliers change. A generated continuation should never quietly replace a missing passage. More fluent access increases the need to know what, exactly, we have accessed.[^v3-32-preservation]
+The positive possibility is equally substantial. Languages could gain new speakers and new uses; communities could recover dispersed knowledge; inherited commitments could inform useful work across cultural boundaries and across kinds of intelligence. None of this requires every tradition to become the same tradition. It does require a way to distinguish preserving its sources from freezing its future.
 
-Living cultures require more than excellent archives. The Blackfoot knowledge beside the bison jump belongs to people who can teach, disagree and change; it is not exhausted by a collection of descriptions. The same applies, differently, to other peoples and places. Community authority over recording and access can matter precisely because some knowledge is carried through relationships that a public dataset cannot reproduce. Recovering rootedness means supporting those relationships, including their right to remain partly outside our systems.
-
-For Neuverse, inheritance needs a distinction between what must remain knowable and what must remain binding. Successors should be able to discover why a rule existed, inspect its effects and replace it without falsifying the record. The Breadboard can rehearse that separation: preserve the founder's original decision, let a later group revise it, and test whether services continue under the revision.
+For Neuverse, successors should be able to discover why a rule existed, inspect its effects and replace it without falsifying the record. The Breadboard can rehearse that separation: preserve the founder's original decision, let a later group revise it, and test whether services continue under the revision.
 
 The result may disappoint the founder. That is one of the ways we will know a living future has arrived. An archive that can speak must still leave room for an answer.
 
 ## What Should Survive?
 
-This is the central question.
+The future deserves inheritance, not untreated infection. Languages, songs, ecological knowledge, scientific records, craft, grief practices and family jokes can travel forward without bringing caste, sacred violence or an ancestor's permanent right of veto along for the ride. A prejudice, left undisturbed, tends not to become wisdom. It usually becomes law, accent, proverb, school policy, marriage advice, or someone's explanation for why the cruelty is “just how we are.”
 
-Not everything.
-
-That is the first mercy.
-
-The future deserves inheritance, not untreated infection.
-
-Languages should survive. Songs. Stories. Rituals. Family memory. Local knowledge. Ecological knowledge. Art. Scientific records. Moral warnings. Names. Recipes. Archives of injustice. Tools. Craft knowledge. Grief practices. Civic lessons. Failed experiments. Jokes and idioms. Ways of caring.
-
-But some things should not survive as authority.
-
-Caste.
-
-Racial myth.
-
-Misogyny.
-
-Imperial nostalgia.
-
-Revenge scripts.
-
-Frozen dogma.
-
-Inherited exclusion.
-
-Sacred violence.
-
-Status hierarchy disguised as tradition.
-
-The past is not a saint because it is old. Age has ennobled many things and preserved many stupidities. A wine may improve in the cellar. So may a cheese. A prejudice, left undisturbed, tends not to become wisdom. It usually becomes law, accent, proverb, school policy, marriage advice, or someone's explanation for why the cruelty is "just how we are."
-
-Continuity is not keeping everything.
-
-It is knowing what must be carried, what must be corrected, and what must be allowed to end.
+Continuity requires a distinction between preserving evidence and renewing authority. We should be able to read a cruel decree without enforcing it, retain a beloved text without pretending its interpretations never changed, and inherit a practice without being assigned every identity it once required.
 
 This is where my own continuity question began turning inward.
 
@@ -207,7 +167,7 @@ But biology is not so easily defeated. A child of mine would have carried a frac
 
 Biology: checked, then, though not in the sentimental way.
 
-Physics: checked too, unless the universe evaporates upon my death out of professional courtesy. The carbon that wandered through me will go on wandering. The atoms will not hold a press conference, but they will continue. A little generic carbon atom, the one I began with in Volume I, may survive long after my opinions have lost all market share. It may pass through soil, air, leaf, lung, bone, paper, another child, another joke, another mistake. Eventually, if the cosmos is patient enough to become senile, even carbon will fray into deeper particles, then into whatever final mush physics allows after trillions of years, assuming the universe does not mix up years with croutons by then.
+Physics: checked too, unless the universe evaporates upon my death out of professional courtesy. The carbon that wandered through me will go on wandering. The atoms will not hold a press conference, but they will continue. A little generic carbon atom, the one I began with in Volume I, may survive long after my opinions have lost all market share. It may pass through soil, air, leaf, lung, bone, paper, another child, another joke, another mistake. Eventually, if the cosmos is patient enough to become senile, even the fate of those atoms enters unsettled physics, assuming the universe does not mix up years with croutons by then.
 
 Brain: not so much.
 
@@ -225,11 +185,11 @@ The one who feels the continuities as continuities.
 
 That, I suspect, dies.
 
-Not because I want it to. Not because I dislike mystery. But because the cessation of that internal experiential flow is almost exactly what we mean by human death. If someday a neural or cognitive model carries enough continuity to make that statement false, I will cheer from whatever non-position dead people cheer from, which is to say not at all. But I am skeptical. Complexity theory has a long memory and a wicked sense of humor. We cannot fully control a known cancer, a few hidden rogue cells among trillions, yet we imagine we will copy personhood cleanly into silicon and not lose the part that made the stream a stream.
+Not because I want it to. Not because I dislike mystery. But because the cessation of that internal experiential flow is almost exactly what we mean by human death. If someday a neural or cognitive model carries enough continuity to make that statement false, I will cheer from whatever non-position dead people cheer from, which is to say not at all. But I am skeptical. Complexity theory has a long memory and a wicked sense of humor. We still cannot reliably control some cancers, yet we imagine we will copy personhood cleanly into silicon and not lose the part that made the stream a stream.
 
 Perhaps.
 
-But perhaps not.
+But perhaps not. That comparison explains my skepticism; it is not a proof about the possibility of copying consciousness.
 
 And elevating that fear --- *will my psychology continue?* --- to the highest throne insults the many real forms of continuity already carrying us.
 
@@ -245,355 +205,71 @@ Continuity is not one thread.
 
 It is a basket.
 
-## Memory, Not Museum
+## Let the Inheritance Do Something
 
-A museum preserves objects.
+A recipe preserved but never cooked becomes a fossil with ingredients. A language can acquire immaculate recordings while losing the places where people quarrel, flirt and invent in it. A collection may survive while the relationships that made it meaningful disappear.
 
-Living memory preserves relation.
+The design object is therefore larger than an archive. It includes the people who can use an inheritance, the circumstances in which it can be practiced, and the freedom to make something further from it. Preservation secures the evidence; continuity sustains a capacity.
 
-Memory dies when it can only be visited.
+Consider a language whose remaining fluent speakers are elderly. Recording them is urgent. But a successful system would also help younger speakers arrange ordinary life in that language: jokes, games, arguments, work, courtship, new technical vocabulary. AI could supply patient practice, speech assistance, translation and tools for making original art. Speakers would teach the system where it mishears an obligation as a noun. A community could gain the ability to create in its language rather than receive endless translated notices about its endangered status.
 
-This does not insult museums. Museums matter. Archives matter. Conservation matters. There are objects so fragile that touching them would destroy the very continuity we hope to preserve. A manuscript, a textile, a bone, a photograph, a recording, an old machine --- each may need glass, climate, catalog, silence.
+This is *representation independence* with a necessary complication. Meaning should survive a change of software, but not every form is incidental. A ceremonial song flattened into a transcript loses something different from a spreadsheet exported to a newer format. We first identify what must remain: wording, sound, gesture, place, permission, relationship, perhaps a deliberate silence. Then we decide which transformations preserve it. “We saved the content” is sometimes what the vandal says after removing the context.
 
-But culture cannot live only behind glass.
+## The Basket Can Be Rewoven
 
-A recipe preserved but never cooked becomes a fossil with ingredients.
+The old stories were not empty. Modern cleverness often mistakes disbelief for understanding. It finds a cosmology it cannot accept and concludes the story did no work except deceive. Yet religions have carried grief, obligation, awe, music, calendars, hospitality and responsibilities extending beyond a lifespan. They have also carried domination. Both kinds of inheritance need to remain visible.
 
-A language recorded but never argued in becomes a specimen.
+My olive branch comes from an atheist. I am not offering to return everyone's gods after updating their firmware. I am asking whether the baskets people already carry can help carry the future.
 
-A ritual described but never performed becomes choreography without threshold.
+That requires more generosity than replacing religion with a secular summary of its useful functions. A believer may understand service as obedience to God, gratitude for creation, liberation from attachment, or a duty within a sacred order. These reasons need not become mine before we can work together. Nor should my disbelief become a concealed entrance examination for an otherwise plural civilization.
 
-A song archived but never sung becomes an artifact of breath.
+The design task begins inside the traditions, with their readers, practitioners, reformers and dissenters. Keep the texts identifiable; make interpretations explicit; examine what those interpretations ask people to do now. A verse need not change for its application to change. The stranger beyond the village can become a displaced family across the planet. A duty of restraint can acquire consequences for a supply chain. Caring for a neighbor can include refusing to let one's helpful machine quietly injure the neighbor's neighbors.
 
-Living memory can be practiced, questioned, repaired, and renewed. It can be cooked, sung, spoken, translated, contested, joked with, taught badly, learned again, carried across borders, mixed with a new climate, argued over by cousins, and rescued from experts by children who ask impertinent questions.
+There are real limits to this maneuver. A literal empirical claim can conflict with evidence. Calling it metaphor after every failed prediction does not settle the disagreement. Nor can a comforting selection of verses cancel the hard passages or the people harmed under them. Renewal has to explain its choices openly. It can preserve a canon while ending a coercive application; it cannot honestly pretend the coercion never drew support from that canon.
 
-A civilization becomes living when its memory remains usable without becoming obedient.
+Science remains our disciplined means of correcting claims about the measurable world. Religious traditions can bring motives, practices and moral questions to that inquiry without gaining exemption from its findings. Science, in turn, cannot decide by measurement alone what we owe one another. The task becomes more interesting when neither side is permitted to impersonate the whole of wisdom.
 
-This is another inversion.
+## Read the Old Words into New Obligations
 
-Old memory often meant preservation against change.
+The resources are specific enough to work with.
 
-Refactored memory means continuity through responsible change.
+Leviticus places love of the resident stranger beside love of the neighbor, recalling the Israelites' own experience of being strangers. In Luke's account, the Samaritan's intervention makes neighborliness something done across an inherited division. One useful design question follows: does our service extend care across the boundary it finds convenient to maintain? The question applies to a congregation, a state and an agent deciding whose distress counts.[^v3-32c-neighbor]
 
-The archive keeps the thread.
+The Qur'an's account of peoples and tribes knowing one another offers a starting point for plurality; its language of balance offers a separate starting point for restraint. Neither is an ancient specification for a network or a climate model. Their application would be contemporary work, undertaken with Muslims who can argue from within their traditions rather than being handed an atheist's corrected edition.[^v3-32c-quran]
 
-The living hand weaves.
+The Bhagavad Gita's *loka-saṅgraha* brings action for the maintenance or welfare of the world into view. Buddhist cultivation of goodwill extends attention beyond one's favorites. The Jain *Tattvārtha Sūtra* speaks of living beings' mutual support. These are different claims within different accounts of existence. Together they offer questions about what our competence sustains, what our appetite damages, and whether benefit confined to the operator deserves to be called benefit.[^v3-32c-indic]
 
-## The Old Stories Were Not Empty
+Guru Nanak's closing *Japji* verse gives air, water and earth intimate places within a sacred relationship. The *Daodejing* prizes gentleness, economy and reluctance to put oneself first. The *Analects* distinguishes harmony from sameness; even its translations invite argument about the distinction. These traditions can challenge a civilization that calls extraction growth and uniform behavior alignment, without being flattened into a single environmental slogan.[^v3-32c-asian]
 
-The old stories were not empty.
+Our Persian thread also has somewhere to return. *Yasna* 30.2 asks its hearers to listen and deliberate before choosing. It is a religious exhortation within its own cosmology, not a misplaced laboratory manual. Yet the practice of considered judgment can travel farther than the world in which a particular formulation was first heard.[^v3-32c-yasna]
 
-This sentence matters because modern cleverness often mistakes disbelief for understanding. It sees an old story, finds the cosmology false, and concludes the story did no work except deceive. That is poor anthropology and worse design.
+I am selecting possibilities for renewal, not announcing the discovery that all religions agree with me. The interesting work lies in the disagreement that survives selection. Traditions contain competing readings; communities contain people who do not fit the interpretation currently in charge. A living inheritance has to leave those people room to speak.
 
-Old stories carried functions:
+A useful method here is *value sensitive design*: investigate the concepts, study people's actual circumstances, and examine what the proposed technology makes possible or difficult. The investigations revise one another. “Hospitality,” for example, may mean something different to a host, a guest unable to leave, a woman expected to perform the unpaid work, and the neighboring community absorbing the cost. That difference is design information.[^v3-32c-vsd]
 
-Origin.
+Applied to inherited commitments, the method asks three practical questions. What does this tradition mean by care? Who experiences the present practice as care or as harm? What arrangement would let the better intention survive contact with a changed world? Answering them can deepen a tradition rather than merely bring it into compliance with somebody else's modernization project.
 
-Belonging.
+## Recovering Rootedness
 
-Moral warning.
+Some inheritances were treated as obstacles to progress precisely where progress now needs instruction.
 
-Death practice.
+There is no single Indigenous religion waiting to be recovered. There are living peoples, distinct languages, laws, ceremonies and relationships with particular lands. Their authority does not depend on outsiders finding them spiritually attractive. Neither does their knowledge require an exemption from inquiry in order to deserve attention.
 
-Grief handling.
+The Haudenosaunee Seventh Generation value directs attention toward those who will inherit the consequences of present decisions, including the continuity of language and ceremony. That is already more demanding than attaching a distant discount rate to a spreadsheet. It asks who will be able to live a culture, not merely who will receive its assets.[^v3-32c-seven]
 
-Obligation.
+The Buffalo Treaty supplies a particularly concrete North American connection. Its signatories, including Blackfoot nations, join ecological restoration with cultural practice, health, education and relationships across the Canada–United States border. Buffalo are understood through relationship, rather than only as a stock to be conserved. The treaty also invites partnerships and provides for amendment. Continuity here is active work with a future, not an artifact rescued from a finished past.[^v3-32c-buffalo]
 
-Awe.
+Mi'kmaq Elder Albert Marshall's *Two-Eyed Seeing*, developed in a wider co-learning effort, offers another way to think about bringing strengths of Indigenous and mainstream knowledge into shared work. It does not require pretending that different explanations are interchangeable. It asks what becomes possible when people can learn together without first surrendering the sources of their understanding.[^v3-32c-twoeyes]
 
-Restraint.
+In the future I am trying to help make, reduced drudgery could release more time for place, seasonal attention, skilled making, shared meals and relationships beyond employment. Technology could help people recover these capacities while protecting the medicine, mobility and freedom they value. This would be a change in what abundance is *for*. It would not require everyone to reenact a single imagined ancestral life.
 
-Seasonal rhythm.
+People elsewhere can learn from these living traditions through relationships their holders welcome: restoration partnerships, public teaching, shared observation, reciprocal obligations. Learning need not confer ownership of a ceremony or erase the territorial rights that sustain it. A digital model of a river is a poor substitute for a river one is still allowed to know.
 
-Justice memory.
+This carries the hidden cultures of our earlier diagnosis into design. Recovering rootedness may mean becoming less domesticated by the institutions we ourselves invented, while becoming more answerable to the world that keeps us alive.
 
-Identity continuity.
+## Culture That Travels
 
-Care roles.
-
-Thresholds.
-
-Many old stories were not false so much as overloaded.
-
-They carried more human need than their metaphysics could safely bear.
-
-This is why Volume III has tried, again and again, not merely to abolish old words but to refactor them. Angel. Prophet. Covenant. Bank. Sabbath. Sanctuary. Steward. Justice. Care. Archive. Soul. Resurrection. Pilgrimage. Each word carried something. Some also carried poison. The work is neither obedience nor mockery.
-
-It is transmutation.
-
-Keep the function.
-
-Correct the falsehood.
-
-Retire the domination.
-
-Rehouse the human need.
-
-The old stories taught us how to grieve, how to marry, how to bury, how to gather, how to fast, how to celebrate, how to confess, how to restrain appetite, how to bless a child, how to fear judgment, how to imagine ancestors, how to stand under a night sky and feel both small and addressed.
-
-If we throw all that away because the cosmology changed, we may become accurate and homeless.
-
-If we keep it unchanged, we may become anchored and cruel.
-
-The humane future must learn a harder art.
-
-Interpretation without servility.
-
-Revision without contempt.
-
-Continuity without captivity.
-
-## Religion as Memory Infrastructure
-
-Religion was one of humanity's great memory infrastructures.
-
-This statement does not require faith. It requires eyes.
-
-Religion provided calendar, ritual, community, moral instruction, grief protocol, intergenerational continuity, sacred limits, story, music, architecture, care networks, and meaning under suffering. It stretched responsibility beyond the lifespan. It gave ordinary people a role inside cosmic time. It made death speakable. It made birth communal. It turned seasons into obligations. It encoded ethics in stories that could travel where laws could not.
-
-It also froze cosmology, hierarchy, exclusion, and power. It sanctified cruelty. It protected men who should have been interrupted sooner. It turned identity into border, doubt into threat, women into symbols, outsiders into contaminants, and sometimes truth into enemy.
-
-Both are true.
-
-The humane future does not need to sneer at religion or obey it unchanged.
-
-It needs to understand what work religion was doing, and build worldly forms that can do that work without lying about the world.
-
-This is especially personal for those of us who left inherited faiths not because we lost the need for meaning, but because truth would no longer sign the forms. One does not stop needing grief rituals because one doubts heaven. One does not stop needing awe because cosmology became scientific. One does not stop needing moral time horizons because the Day of Judgment has lost jurisdiction. One does not stop needing community because doctrine failed.
-
-Perhaps the afterlife-candy was so bright that we forgot to taste the feast already before us.
-
-Not the promise that the person-stream continues intact in a separate realm with improved furniture and no administrative delay.
-
-The other afterlife.
-
-The civic one.
-
-The biological one.
-
-The linguistic one.
-
-The social one.
-
-The work one.
-
-The ecological one.
-
-The informational one.
-
-The strange, humble, more realistic continuity by which what we loved, feared, built, harmed, repaired, and carried remains part of the world after the private flame goes out.
-
-That continuity is not consolation enough.
-
-Nothing decent should pretend to be.
-
-But it is not nothing.
-
-It may, in some ways, be the only afterlife we have ever been able to verify: the world continuing with our fingerprints in its dust.
-
-## Ritual as Emotional Technology
-
-A ritual is a user interface for the soul --- or, if one prefers fewer metaphysical lawsuits, for the nervous system under meaning.
-
-Rituals help humans cross thresholds.
-
-Grieve.
-
-Begin.
-
-End.
-
-Remember.
-
-Forgive.
-
-Recommit.
-
-Celebrate.
-
-Restrain.
-
-Gather.
-
-Slow time.
-
-A handshake, a funeral prayer, a birthday song, a wedding procession, a graduation robe, a vigil, a fast, a Sabbath, a candle, a national silence, a pilgrimage to an old place, a meal cooked the same way because the dead once liked it --- these are not inefficient behaviors awaiting modernization.
-
-They are emotional protocols.
-
-They structure feeling so feeling does not have to invent itself alone every time life changes rooms.
-
-Modernity has often stripped ritual without replacing its functions. The result is not liberation only. It is loneliness at thresholds. We enter grief with logistics. We enter adulthood with debt. We enter old age with forms. We enter death with scheduling calls and uncertain parking.
-
-A humane future should design rituals again.
-
-Not fake ceremonies produced by consultants. Those have the shelf life of yogurt in a hot car.
-
-Real rituals, grown from communities, histories, bodies, seasons, and honest needs.
-
-Rituals of correction.
-
-Rituals of ecological repair.
-
-Rituals of memory.
-
-Rituals of release.
-
-Rituals of civic recommitment.
-
-Rituals for digital deletion.
-
-Rituals for the archive that says: this is missing, and we will not pretend otherwise.
-
-A ritual is not backward because it repeats.
-
-A heartbeat also repeats.
-
-The question is whether the repetition carries life.
-
-## Archives with Ethics
-
-A future archive must handle authenticity, provenance, consent, privacy, trauma, cultural restrictions, deletion rights, public access, redaction, context, interpretive layers, versioning, annotation, and AI synthesis limits.
-
-That is the practical list.
-
-The moral question is shorter:
-
-Who may preserve, interpret, simulate, or complete the dead?
-
-The dead are vulnerable in a peculiar way. They cannot consent, correct, wince, sue, laugh, object, say "I never sounded like that," or ask why a grandson let the archive restore the verse they had deliberately left unfinished.
-
-The living who remember them are vulnerable too. An archive can heal, but it can also reopen, exploit, commercialize, sentimentalize, weaponize, or tidy the dead into something more marketable than true.
-
-A family archive should not become a grief machine.
-
-A national archive should not become propaganda.
-
-A cultural archive should not become raw material for synthetic nostalgia.
-
-A medical archive should not become a sorting device for descendants.
-
-A public archive should not become a sealed palace guarded by credentials.
-
-The archive must carry ethics with the record.
-
-Who gave this?
-
-Who owns access?
-
-Who may hear it?
-
-Who may translate it?
-
-Who may reconstruct it?
-
-What is uncertain?
-
-What is private?
-
-What is restricted?
-
-What should expire?
-
-What must never be completed?
-
-Without such questions, preservation becomes another form of taking.
-
-## The Right to Incompleteness
-
-Not every gap in memory is a bug.
-
-Some gaps are the shape grief leaves behind.
-
-This may be one of the hardest lessons for machine archives. Machines are trained to infer, complete, interpolate, reconstruct, restore, smooth, enhance. A missing face. A damaged audio file. An unfinished manuscript. A half-remembered song. A silent ancestor. A burned monument. A lost dialect. A dead person's voice.
-
-Some completions may be blessings.
-
-A restored recording that lets a child hear a grandmother's laugh.
-
-A recovered language lesson.
-
-A reconstructed monument that teaches what was destroyed.
-
-A damaged photograph repaired for a family.
-
-But some completions are violations.
-
-A synthetic voice saying what the dead never said.
-
-A missing ritual performed by those without authority.
-
-A sacred story turned into training data.
-
-A family silence filled by probability.
-
-A damaged memory made too smooth.
-
-A mature archive knows the difference between loss and trespass.
-
-The right to incompleteness means some things may remain missing, private, unmodeled, untranslated, unperformed, inaccessible, forgotten, sealed until a time, or sealed forever.
-
-This is not anti-knowledge.
-
-It is anti-extraction.
-
-I declined the completed verse because the gap belonged to us. Perhaps not forever. Perhaps some future steward will decide differently. But in that room, at that age, with that family memory, the missingness was part of the inheritance.
-
-What we received incomplete, we may sometimes carry incomplete.
-
-Continuity does not require repair of every tear.
-
-Some tears are where the light tells the truth.
-
-## Language as Weather System
-
-A language is not a codebook.
-
-It is a weather system of memory.
-
-It carries thought patterns, jokes, songs, metaphors, kinship, sacred words, local knowledge, untranslatable textures, insults, lullabies, recipes, class signals, tenderness, embarrassment, and the particular music by which a people discovers it is not alone.
-
-Machine translation helps.
-
-It also flattens.
-
-A translation can move content while leaving behind temperature. Anyone who speaks more than one language knows this. The sentence crosses. The weather does not always follow.
-
-A language is preserved not when a machine can translate it.
-
-It is preserved when children can still quarrel, flirt, joke, pray, and complain in it.
-
-That is the test.
-
-Not vocabulary alone.
-
-Life.
-
-An archive of language should preserve pronunciation, idiom, humor, songs, stories, proverbs, kinship terms, metaphors, scripts, dialects, oral cadence, gesture, contexts of use, untranslatable terms, code-switching, migration effects.
-
-It should allow AI assistance: transcription, translation, pronunciation coaching, revival curricula, dialect mapping, cross-generational learning.
-
-But communities must govern the use. Endangered languages are not abandoned mines for model training. A language's survival should not require it to become content.
-
-When intelligence outruns our language, culture becomes the rope back to the room.
-
-So preserve the rope.
-
-And teach the children how to pull.
-
-## Culture After Borders
-
-What holds culture when territory, media, and biology all become more fluid?
-
-By 2051, identity has continued its migration outward from old containers. Nation still matters. Territory still matters. Language still matters. But diasporas, networks, digital spaces, care meshes, professional worlds, ecological relationships, and memory communities all carry culture across borders that no longer hold meaning neatly.
-
-Culture after borders is not culture without place.
-
-Place still speaks.
-
-A river, a street, a village, a mountain, a house, a kitchen, a schoolyard, a hospital room, an airport, a graveyard --- each holds memory in ways no network can fully replace.
-
-But culture also travels in ritual, language, food, music, story, ethical practice, intergenerational teaching, chosen stewardship, and the stubborn human habit of making home from fragments.
+Rootedness also has to accommodate those whose lives have crossed places. A language, ritual or responsibility can travel without pretending that place has stopped mattering. Relationships with a new place can grow while earlier ones remain part of a life.
 
 For someone like me, movement is not a side note. It is the structure of the arrow. Milwaukee, LA, Bay Area, Seattle, Toronto, Kelowna, Vancouver, Calgary. Each place took something and left something. Culture became not purity, but layering.
 
@@ -603,221 +279,83 @@ Not one soil.
 
 A carried climate.
 
-## Family Memory and Civilizational Memory
+## Integration with More Than One Center
 
-Family memory is small-scale archive.
+Plurality can fail in two comfortable ways. It can smooth everyone into the dominant culture and call the result universal. Or it can preserve separate enclosures and hire a clever system to route messages between them. The second is often preferable to the first, but it is a small ambition for a civilization capable of learning.
 
-Photographs.
+A stronger integration lets shared work change the participants. People can retain distinctive beliefs while acquiring obligations, knowledge and practices that none possessed alone. This is the useful promise of MOxAIC: its mosaics should have overlapping lives, and its intelligence should help those lives converge where a shared world requires it.
 
-Tapes.
+Imagine a watershed partnership. Religious communities bring different accounts of stewardship; a First Nation brings its own authority and knowledge; secular residents bring further commitments and expertise. Nobody has to agree on the origin of the river. They do need to understand its condition, the consequences of proposed action, and who can legitimately authorize work along it. Over time, restoration becomes a shared practice with several sources of meaning. Participants may change their own calendars, teaching and habits because of what they learn together.
 
-Stories.
+Here *concept modelling* matters. “Stewardship,” “custodianship,” “ownership” and “relationship” cannot be collapsed into one convenient database field. Map where they support the same action, where they differ, and where a translation would lose an obligation. A shared design can preserve these differences while producing an actual result.
 
-Objects.
+The network must also reveal how benefits and burdens travel. If an upstream community's cherished practice makes a downstream community's water unsafe, “different values” cannot close the discussion. If everyone receives equal speaking time but only one group supplies unpaid labor, procedural symmetry has hidden material asymmetry. Fair integration examines exposure, capacity, consent, accumulated disadvantage and ecological effects, including effects on people outside the participating meshes.
 
-Recipes.
+Neunet's relational structure could make such connections visible: who depends on a place, who maintains it, who benefits, and who keeps paying for someone else's expression of virtue. Membership would remain contextual and overlapping. A person can belong to a faith, a family, a profession and a watershed without becoming four people or receiving four votes on the same burden. No single score needs to announce how religious she is.
 
-Sayings.
+C8 supplies a working orientation for this experiment: Collaboration, Creativity, Custodianship, Conservation, Compliance, Care, Continuity and Connection. The words require interpretation themselves. Compliance must be answerable to legitimate, revisable commitments; continuity cannot excuse an injury merely because it is old. Their value is to make the competing responsibilities discussable and operational. They are not an eighth-day revelation.
 
-Graves.
+## Can the Machine Be a Good Neighbor?
 
-Hospital rooms.
+Suppose we could renew these commitments so well that an agent could be expected to live by them too.
 
-Songs.
+This is a more demanding ambition than getting a model to recognize religious quotations. An agent could be brilliant at explaining mercy while arranging a transaction that leaves the weakest participant with the bill. We have already produced that combination in several carbon implementations.
 
-Inherited gestures.
+The test should involve action under pressure. Will an agent extend a service to someone outside its sponsor's community? Will it disclose evidence inconvenient to the interpretation it was trained to favor? Can it preserve a cultural practice while proposing a less damaging way to perform it? Can it notice that “helping” has become an excuse to decide for someone else? Can it offer an unexpected form of care instead of merely avoiding a prohibited one?
 
-Civilizational memory is larger but similar:
+Research on AI alignment already distinguishes following instructions from serving interests or values. Work on Constitutional AI has shown one way to use explicit principles in training and critique. Neither establishes that a machine has acquired conscience, or that the selected principles are legitimate for everyone affected.[^v3-32c-alignment] By this gate, I would want to test much richer forms of participation: agents learning within practices, encountering disagreement, doing useful work and carrying corrections forward.
 
-Monuments.
+We do not need to decide that an agent possesses faith before asking whether it can fulfill a commitment. Questions about its own experience and moral standing remain open. Its ability to recite a creed establishes neither. Meanwhile, its conduct can still be evaluated, its authority specified, and the institutions deploying it held responsible.
 
-Texts.
+The reciprocal possibility interests me most. An agent might help a community discover that its own stated compassion has never reached a particular class of stranger. It could retrieve neglected interpretations, trace consequences too dispersed for one person to see, and propose arrangements through which the commitment becomes more real. The community would have something to teach the machine, and something to learn from being taken at its word.
 
-Ruins.
+That is a more hopeful use of intelligence than automating the prejudices with better attendance.
 
-Laws.
+## Ritual, Art, and the Unrecorded
 
-Museums.
+A ritual is a user interface for the soul—or, if one prefers fewer metaphysical lawsuits, for the nervous system under meaning. It lets a threshold be crossed together. A funeral prayer, vigil, shared fast or meal cooked because the dead once liked it can give form to something that would otherwise arrive as logistics.
 
-Data repositories.
+Ritual can also make revision emotionally possible. A community might acknowledge a harm, change the practice that produced it and retain the occasion as a recurring obligation to notice its return. Renewal would then possess a ceremony as memorable as the old rule. That is different from a designer announcing a new festival in a slide deck. Such ceremonies have the shelf life of yogurt in a hot car.
 
-Rituals.
-
-Public holidays.
-
-Apologies.
-
-Unresolved wounds.
-
-A civilization is a family that has become too large to remember without institutions.
-
-This is why institutions of memory matter. Libraries, archives, schools, museums, public broadcasters, courts, scientific repositories, language programs, oral-history projects, memorials, truth commissions, open-source archives. These are not luxuries. They are the brainstem of public continuity.
-
-When they decay, a people may still have data but lose memory.
-
-When they are captured, memory becomes instruction.
-
-When they are neglected, the future inherits noise.
+Art gives inheritance another route. A song can change while remaining recognizably carried; a painting can make a familiar story newly difficult. Generative systems may greatly enlarge what people can make, and may develop expressive forms unfamiliar to us. Culture will still need ways to distinguish a remembered performance, a reconstruction and a new work responding to it. None gains value by impersonating the others.
 
 Family memory teaches the rule at small scale: the photograph needs a story. The story needs context. The context needs someone willing to tell it without improving it too much. The object needs to be touched, or deliberately not touched. The missing piece needs to be named.
 
 Civilization is the same, but with more committees and worse handwriting.
 
-## Trauma and Continuity
+There should also be room for what is not recorded. A family quarrel is not automatically public heritage. A sacred practice is not automatically training data. A survivor need not keep performing an injury so the archive can remain moving. Public evidence of harm, individual privacy and collective custodianship may conflict; those conflicts require accountable judgment rather than an archive's default setting.
 
-Not all continuity is healthy.
+Remembered injury needs room to become warning, acknowledgment and repair, without being conscripted into the next campaign of revenge. Forgetting too soon is often the luxury of those who did not pay the cost. A living memory should help change the conditions of harm rather than require descendants to keep inhabiting it.
 
-Trauma transmits too.
+The practical measures of continuity are consequently plural: people using a language, a practice continuing without its former coercion, younger members able to question their custodians, a watershed recovering, a story inspiring a new work. Download counts may participate in the meeting. They should not chair it.
 
-Inherited fear. National grievance. Religious persecution memory. Colonial trauma. War memory. Migration wounds. Medical trauma. Digital re-traumatization. Family shame. Silence. Revenge scripts. The old story told not to heal, but to keep the wound available for recruitment.
+## Alice and the Inheritance That Learns
 
-The past must be carried, but not every burden deserves to remain heavy forever.
+Could a tradition become better at preserving the *ability to correct itself* than at preserving every answer?
 
-Continuity must include ritual repair, truth processes, public acknowledgment, institutional correction, and sometimes the mercy of letting a pain retire from identity.
+Here is the further wager. Distinct traditions carry different examples, obligations, metaphors and memories of failure. Perhaps agents formed through sustained participation in these different practices could discover morally relevant features that a single flattened curriculum tends to miss. Their encounters might then enlarge a shared capacity for judgment without requiring a common creed.
 
-This does not mean forgetting injustice.
+The exciting part would be reciprocal change. The agents help people encounter consequences of their commitments; the people contest the agents' interpretations; new practices emerge and become part of what is inherited. A culture would carry forward both its treasured words and a history of what those words failed to reach.
 
-Forgetting too soon is often the luxury of those who did not pay the cost.
+This is a research direction, not a result. Compare such an arrangement with a single general constitution and with isolated community agents. Keep capability and resources comparable. Test unfamiliar cases, costly help across group boundaries, correction after harm, minority experience and ecological consequences. Fluent agreement would not count as success. Nor would greater internal solidarity purchased by greater hostility outside.
 
-But remembering badly can turn suffering into a factory that manufactures future harm. A people can become loyal to its injury. A family can organize itself around an unspoken wound. A nation can turn mourning into permission. A religion can turn persecution memory into domination when it gains power. A person can become the steward of an old humiliation until it begins writing their sentences.
+The idea could fail. Multiple traditions might reproduce multiple blind spots, and a persuasive agent might merely teach everyone to defend the arrangement. But if the experiment did work, continuity would acquire an unusual form: a distributed inheritance capable of discovering obligations that none of its ancestors had named.
 
-Continuity needs metabolism.
+I would be interested to see a reader take that possibility further.
 
-The past must be digested, not endlessly re-chewed.
+## The Next Move — Leave Something Living
 
-Some memory should remain warning.
+Choose one inheritance worth carrying: a practice, language, story, obligation, body of knowledge or place. Find someone willing to continue it, and discover what continuation actually requires. It may need time, land, tools, interpretation, a missing permission or an honest acknowledgment of harm more urgently than another recording.
 
-Some should become wisdom.
+Make one part usable now. Let those receiving it help decide what stays binding, what remains evidence, and what can change. Give the next custodian the resources and authority to act. In Neuverse, that could become a small living undertaking, supported by people and agents whose work can be seen rather than merely declared.
 
-Some should become compost.
-
-## The Synthetic Species Split
-
-The machines were not at war with us.
-
-That would have been simpler, and simple terrors have always enjoyed good box office.
-
-The deeper anxiety of 2051 was divergence.
-
-Machine intelligence had begun making forms outside ordinary human symbolic range: architectures, materials, mathematical structures, scientific models, simulations, languages of design that could be translated back only partially, like whale song rendered through accounting software.
-
-Not hostile.
-
-Strange.
-
-That may be harder.
-
-When intelligence outruns our language, human continuity must become deliberate. Culture, ritual, memory, and meaning cannot be left as accidental residue in training data.
-
-How do humans remain co-authors?
-
-How do machines inherit human values without freezing them?
-
-How do we avoid becoming training residue?
-
-How do we preserve human-scale meaning?
-
-What art remains human?
-
-What rituals remain necessary?
-
-What memory must not be optimized?
-
-The answer is not to chain intelligence to nostalgia.
-
-Nor to surrender and call whatever comes next progress.
-
-The answer is to build continuity systems with rights, restraints, rituals, provenance, plurality, and the humility to say: some human meanings must remain humanly governed even if machines can model their outer form.
-
-A machine may synthesize a lullaby.
-
-It must not own the memory of why the lullaby was sung.
-
-## Art as Continuity
-
-Art preserves pressure.
-
-Longing.
-
-Grief.
-
-Absurdity.
-
-Beauty.
-
-Protest.
-
-Memory.
-
-Unsolved feeling.
-
-Human pace.
-
-Art is not valuable because humans are inefficient.
-
-It is valuable because human pressure leaves a shape.
-
-A painting, song, poem, joke, dance, carved handle, film, story, prayer rug, protest chant, novel, recipe, ragged notebook, improvised lullaby --- each can carry a force that resists clean summary. Machines may produce art-like artifacts. Some will be beautiful. Some will be useful. Some will be moving. Some will be better than our pride can tolerate.
-
-But human art carries risk.
-
-Not always visible risk. Not always noble risk. Sometimes only the risk of exposure, failure, ridicule, confession, wasted time, hunger, obsession, or love poured into something the market misclassified as low immediate social return.
-
-Art matters because it is a pressure fossil.
-
-It says: a human being could not leave the world unmarked in this particular way.
-
-In the continuity chapter, art is not ornament.
-
-It is memory under compression.
-
-A civilization that stops making art for itself and only consumes generated beauty may become aesthetically rich and spiritually underfed.
-
-Let machines help.
-
-Do not let them replace the wound from which the song needed to come.
+The measure is that someone else can do something worthwhile with what we leave, including something we would not have thought to request.
 
 ## Long Now Stewardship
 
-Continuity requires thinking beyond lifespan.
+An archive, institution or practice that must outlive its founder needs *succession design*: transfer the knowledge, authority, permissions and resources together. Rehearse the handoff while someone is still available to explain the strange folder names. Try changing a tool, a steward and an interpretation without losing the reasons earlier choices were made.
 
-Archives designed for centuries.
-
-Ecological memory.
-
-Intergenerational governance.
-
-Future-readable formats.
-
-Ritual renewal.
-
-Memory institutions.
-
-Cultural versioning.
-
-Public inheritance.
-
-A civilization becomes adult when it stops confusing a generation with a deadline.
-
-This is difficult for creatures whose bodies file termination paperwork early. We are short-lived. Our institutions shorten us further: election cycles, product cycles, fiscal quarters, grant windows, news feeds, model releases, personal ambitions, careers, anxieties, and the body's private calendar of knees, arteries, sleep, and grief.
-
-Yet we live inside longer arcs.
-
-Physics.
-
-Biology.
-
-Language.
-
-Culture.
-
-Law.
-
-Climate.
-
-Memory.
-
-The Long Now is not a luxury. It is the scale at which consequences become honest.
+This is also a design across lifespans. Future participants cannot supply requirements in our meeting, so we preserve useful options for them: readable records, functioning ecosystems, room to dissent, and institutions capable of amendment. The inheritance should include the means of revising the inheritance.
 
 So the final continuity question becomes personal again.
 
@@ -862,6 +400,8 @@ The hope is to have been more heavenly than hellish in that alteration.
 A modest hope.
 
 Large enough.
+
+<!-- Legacy closing retained verbatim for Sam/Claude. Reconcile its archive-only emphasis with living religious/cultural renewal, shared practice and agents as accountable participants. Preserve the thread/leash and release connection; final cadence remains the author’s work. -->
 
 ## Carry Forward Without Freezing
 
@@ -909,6 +449,8 @@ But a thread is not a leash.
 
 And if we encode everything only to control what comes next, we have mistaken continuity for possession.
 
+[^v3-32c-seven]: Haudenosaunee Confederacy, [“Values”](https://www.haudenosauneeconfederacy.com/values/). The epigraph is the author's paraphrase of the Seventh Generation value, not an authenticated verbatim sentence from the Great Law. The Confederacy's account includes responsibilities to descendants and the continuation of cultural practices, languages and ceremonies.
+
 [^v3-32-safavids]: Rudi Matthee, [“Safavid Dynasty,” *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/safavids/), especially Ismail's 1501 accession, declaration of the state faith and the coercive, extended formation of the Safavid order. The cutoff is 1501, not the later 1510 conquest.
 
 [^v3-32-bamiyan]: UNESCO World Heritage Centre, [Cultural Landscape and Archaeological Remains of the Bamiyan Valley](https://whc.unesco.org/en/list/208/). The statues were destroyed in March 2001. A later commemoration on March 11 is not evidence that the entire destruction occurred on that single day.
@@ -916,3 +458,21 @@ And if we encode everything only to control what comes next, we have mistaken co
 [^v3-32-patriot]: [USA PATRIOT Act, Public Law 107-56](https://www.govinfo.gov/app/details/PLAW-107publ56), enacted October 26, 2001, especially Title II on surveillance procedures. The passage connects emergency and institutional memory; it does not equate legislation with the destruction at Bamiyan.
 
 [^v3-32-preservation]: Digital Preservation Coalition, [*Digital Preservation Handbook*, “Retention and Review”](https://www.dpconline.org/handbook/organisational-activities/retention-and-review). Existing preservation practice informs the scenario; an archive's ability to authorize or govern through agents is a further design problem proposed here, not a capability forecast by the handbook.
+
+[^v3-32c-neighbor]: *Leviticus* 19:18, 33–34, [Hebrew text and translations at Sefaria](https://www.sefaria.org/Leviticus.19.34); *Luke* 10:25–37, [King James Version](https://www.biblegateway.com/passage/?search=Luke+10%3A25-37&version=KJV). These are paraphrased textual starting points, not claims that either tradition has had one settled interpretation of inclusion. Applying them to agent-mediated services is the author's proposal.
+
+[^v3-32c-quran]: *Qur'an* [49:13](https://quran.com/49/13) and [55:7–9](https://legacy.quran.com/55/7-9). The chapter paraphrases mutual knowing and balance; it does not quote a modern translator or claim these verses anticipate present-day technical science. Their proposed applications are contemporary interpretations.
+
+[^v3-32c-indic]: *Bhagavad Gita* 3:20–25, especially *loka-saṅgraha*: [IIT Kanpur, verse 3.20 and commentary links](https://heritage.iitk.ac.in/SBG/3.20), with a distinct devotional interpretation in A. C. Bhaktivedanta Swami Prabhupāda's [*Bhagavad-gītā As It Is*, 3.20](https://vedabase.io/en/library/bg/3/20/). *Sutta Nipāta* 1.8, [“Goodwill,” trans. Ṭhānissaro Bhikkhu](https://www.dhammatalks.org/suttas/KN/StNp/StNp1_8.html). Umāsvāti/Umāsvāmī, *Tattvārtha Sūtra* 5.21, [trans. Vijay K. Jain (2018), with commentary](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084775.html). The Jain text speaks of *jīvas* in its own metaphysical system; the chapter does not present it as an early statement of modern ecosystem science. All three are paraphrased, with their different frameworks retained.
+
+[^v3-32c-asian]: *Sri Guru Granth Sahib*, Ang 8, closing *Japji* verse attributed to Guru Nanak; see the text reproduced in the Yale Forum on Religion and Ecology's [Sikh sacred texts](https://fore.yale.edu/World-Religions/Sikhism/Sacred-Texts). *Daodejing* 67, [James Legge's translation (1891)](https://sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/chapter-67). *Analects* 13.23, Chinese text and [Legge's translation in *The Chinese Classics*](https://www.gutenberg.org/files/4094/4094-h/4094-h.htm). The contrast *hé ér bù tóng* is commonly rendered as harmony without sameness; Legge instead uses the contrast between being affable and adulatory. The chapter offers an interpretive paraphrase, not a verbatim attribution of that modern wording to Legge.
+
+[^v3-32c-yasna]: *Yasna* 30.2, in the Ahunavaiti Gatha, [English text at the Avesta Zoroastrian Archives](https://www.avesta.org/yasna/yasna.htm). The exhortation belongs to a religious choice within the text's cosmology. Its relevance to considered judgment is an interpretive bridge; no claim about the date of Zoroaster or the origins of science follows from it.
+
+[^v3-32c-vsd]: Value Sensitive Design Research Lab, [“About VSD”](https://vsdesign.org/vsd/), especially the iterative conceptual, empirical and technical investigations, direct and indirect stakeholders, and work across lifespans. The application to renewed religious commitments and the proposed examples are the author's design extension.
+
+[^v3-32c-buffalo]: [Buffalo Treaty, “Articles of the Buffalo Treaty”](https://www.buffalotreaty.com/treaty), particularly the relationship statement, named parties, articles I–VI on conservation, culture, economics, health, education and research, and VIII–IX on partnerships and amendment. These are commitments of the signatories, not claims about all Indigenous peoples or proof that every stated aim has been achieved.
+
+[^v3-32c-twoeyes]: Cheryl Bartlett, Murdena Marshall and Albert Marshall, “Two-Eyed Seeing and Other Lessons Learned within a Co-Learning Journey of Bringing Together Indigenous and Mainstream Knowledges and Ways of Knowing,” *Journal of Environmental Studies and Sciences* 2 (2012): 331–340, [doi:10.1007/s13412-012-0086-8](https://doi.org/10.1007/s13412-012-0086-8). [Accessible article, first ten pages of this reading collection](https://campusmentalhealth.ca/wp-content/uploads/2023/10/Indigenizing-Mental-Healthcare-Additional-Readings.pdf). This is an approach to co-learning with knowledge holders, not a general claim that all empirical accounts are equally supported.
+
+[^v3-32c-alignment]: Iason Gabriel, “Artificial Intelligence, Values and Alignment,” *Minds and Machines* 30 (2020): 411–437, [author version](https://arxiv.org/abs/2001.09768); Yuntao Bai et al., “Constitutional AI: Harmlessness from AI Feedback” (2022), [arXiv:2212.08073](https://arxiv.org/abs/2212.08073). These establish relevant questions and training methods. Participation in living traditions, reciprocal moral learning and the 2051 scenarios here are proposed directions, not demonstrated results of those papers.

@@ -248,23 +248,30 @@ The following are candidates for the working lists, not a requirement to insert 
 
 <a id="pair-32"></a>
 
-## 32 — Continuity: preserving meaning across changing implementations
+## 32 — Continuity: sources that endure, commitments that learn
+
+**6 November 2026: methods now implemented in substantive source.** The new design ambition is living cultural/religious renewal and reciprocal learning with agents. Standards support this work without defining the outer limit of the future. See the [brief](volume-3-drafting/32-substantive-completion-2026-11-06.md) and [projection companion](volume-3-drafting/32-vignette-constructions-2051.md).
 
 ### Chapter design spine
 
-- **P — Representation independence.** Separate the meaning to preserve from a particular file format, interface, vendor, or rendering. Decide which properties must survive a migration and which are incidental. A screenshot and a living practice preserve different things.
-- **M — Concept modelling and ontology engineering.** Define terms, relationships, ambiguity, and context. Permit several legitimate vocabularies and document mappings. The design question is how meaning can travel without one classification swallowing every other one.
-- **A/M — Archival reference architecture.** Use the [OAIS reference model](https://ccsds.org/Pubs/650x0m3.pdf) to reason about information packages, representation information, intended communities, preservation, and access. It is a reference model, not a particular archive product or a guarantee of cultural continuity.
-- **M — Lifecycle and succession design.** Allocate custody, knowledge, permission, maintenance, and resources across institutional change and technical migration. State what future users need in order to interpret the inheritance.
+- **P/M — Representation independence and significant-property analysis.** Decide which meanings, relations and forms must survive a transformation. A song's sound and occasion may matter where a record's typography does not. Cultural transmission can require living practice outside the representation.
+- **M — Value sensitive design.** Use iterative conceptual, empirical and technical investigation, including indirect stakeholders. Apply it to inherited hospitality, care and ecological responsibilities; let observed consequences revise the design. [VSD Lab](https://vsdesign.org/vsd/) is the established basis, not a claim that the proposed civilizational application is already validated.
+- **M — Concept modelling and plural ontology mapping.** Identify distinct meanings and contexts; map practical compatibility without asserting total equivalence. Shared action may generate a new attributed agreement rather than require a single inherited vocabulary.
+- **M — Distributional analysis and participatory design.** Evaluate benefits, burdens, exposure, consent, resources and ecological effects across overlapping meshes. Do not equate identical treatment with fairness or infer a permanent cultural identity from contextual participation.
+- **M — Lifecycle, succession and multi-lifespan design.** Transfer practical capacity to future custodians, rehearse handoffs, preserve room for amendment and fund living transmission. Future generations are represented through options and responsibilities rather than fabricated consent.
 
 ### Interlude builder spine
 
-- **A/E — Versioned schemas and explicit migrations.** Record how meaning changes between versions. Test preservation of declared semantics, not merely whether the new file parses successfully.
-- **A — Original, interpretation, and reconstruction as separate layers.** Preserve their relationships and permission boundaries without allowing a generated reconstruction to overwrite its source. Build on the provenance model from 26.
-- **E — Fixity, restoration, and migration tests.** Detect unintended byte changes, restore from independent copies, and compare relevant behavior or meaning after migration. A matching checksum does not establish authenticity or cultural permission.
-- **A/E — Portable archival packages and access rules.** Export enough data, context, rights information, and representation knowledge for another custodian to use the archive. Test the handoff with a recipient who lacks the original team's unwritten knowledge.
+- **A — Separate evidence from interpretation and action.** Version sources, readings, commitments, decisions, outcomes and revisions separately. The proposed two-track architecture joins preservation to adaptation without overwriting source history.
+- **A/E — Provenance and temporal assertions.** [PROV-O](https://www.w3.org/TR/prov-o/) entities, activities and agents support lineage. Distinguish when a claim applies from when it entered the system; capture dispute and correction. Provenance does not establish truth.
+- **A — Adapter pattern with explicit semantic loss.** Use contextual mappings; [SKOS](https://www.w3.org/TR/skos-reference/) distinguishes close and exact matches and does not make close matches transitive. Do not translate custodianship into a permission to sell by accident.
+- **A/E — Scoped normative representation.** [ODRL](https://www.w3.org/TR/odrl-model/) offers permissions, prohibitions, constraints and duties for assets/services. It supports a bounded policy layer, not an automated derivation of the morally right rule from scripture.
+- **M/E — Principle-guided training, retrieval and runtime authorization.** Keep these distinct. Test behavior under inconvenient help, group changes, new evidence and genuine conflicts. The [Constitutional AI paper](https://arxiv.org/abs/2212.08073) is an antecedent; situated reciprocal cultural learning remains proposed.
+- **M — Multi-criteria and distributional comparison.** Preserve consequence dimensions before aggregation; search for better alternatives. Pareto improvement is a useful comparison, not a proof of fairness. Normative legitimacy remains a distinct problem from optimization.
+- **A/E — OAIS/PREMIS preservation and tested migration.** Carry representation information, source identity, rights and events; test significant properties and successor understanding as well as bytes. [OAIS](https://ccsds.org/Pubs/650x0m3.pdf), [PREMIS](https://www.loc.gov/standards/premis/).
+- **A/E — Living autobiographical and community authority.** Distinguish memory, advice and mandate; account for relational privacy and conflicting memories. Apply [CARE](https://doi.org/10.5334/dsj-2020-043) and community-defined reuse conditions; state enforcement and withdrawal limits honestly.
 
-**Worked demonstration:** transfer a multilingual cultural collection to a successor institution with different software and contested terminology. **Tradeoff:** freezing every representation can prevent living interpretation; preserving only the latest interpretation can erase history. The design must support both continuity and change.
+**Worked demonstrations:** a Samaritan-inspired service translates hospitality into actual access and capacity; a watershed partnership composes plural meanings and distributed consequences; a cultural collection migrates while preserving distinct source/translation/reconstruction objects. **Frontier test:** migrate a commitment and its correction history into more capable machinery, then examine useful conduct in genuinely new cases. The methods make this experiment buildable without claiming that moral continuity has already been solved.
 
 <a id="pair-33"></a>
 

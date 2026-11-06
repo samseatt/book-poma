@@ -141,3 +141,9 @@ Substantive completion covers Θ foundations and numbered pairs 23–30. Final p
 [Brief](volume-3-drafting/31-substantive-completion-2026-11-06.md) · [2049 projection constructions](volume-3-drafting/31-vignette-constructions-2049.md). Systems and causal intervention replace disease-category routing as the central design ambition. Patient benefit/presence remain purposes, not a substitute object of treatment. The middle includes broad medical advances and actual builder methods; VitalEdge's exploratory scope is kept distinct. New biological-care figure, pharmacokinetic equation and primary-source bookmarks support the teaching.
 
 Θ foundations and 23–31 have substantive source passes.32–33 remain. Before the final handoff, apply the [focused creative-frontier second look](volume-3-drafting/creative-frontier-second-look-2026-11-06.md), then reconcile volume-wide material. Final future prose, Noēsis, Opens and closures remain for Sam/Claude. Do not release the withheld handoff or treat old reserved scenes as approved memoir.
+
+## Pair 32 substantive pass completed — 6 November 2026
+
+[Brief](volume-3-drafting/32-substantive-completion-2026-11-06.md) · [2051 projection constructions](volume-3-drafting/32-vignette-constructions-2051.md). Living inheritance now includes renewed religions/cultures, substantive plural integration, reciprocal agent commitments, representation and preservation methods, and actual future-facing inquiry. Personal passages and the 1501/2001 history are protected. The interlude's technical anchors explicitly match 1501/2001; the gate remains 11 September 2051.
+
+Θ foundations and numbered pairs 23–32 have substantive source passes. Pair33 remains before whole-volume reconciliation and the [creative-frontier second look](volume-3-drafting/creative-frontier-second-look-2026-11-06.md). Final future prose, Noēsis, Opens and closing integration remain for Sam/Claude. The whole-volume handoff is still withheld.
