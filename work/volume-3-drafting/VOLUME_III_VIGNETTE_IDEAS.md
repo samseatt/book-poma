@@ -48,6 +48,8 @@ Give the prototype a success as well: it handles a language barrier, conflicting
 
 ## 3. Chapter 24 — The Citizen's Dilemma
 
+**5 November update:** the [developed pair-24 constructions](24-vignette-constructions-2031.md) are now the preferred candidates. The earlier idea below remains available as provenance/variation; the newer companion supplies the prospective milestone, 2031 footing and connections to the canonical text.
+
 **September 2031 · The Delegated Life. New scene, retaining the existing “almost-right helper” tension.**
 
 You go to a beginner's music session—provisionally; substitute an activity that would actually tempt you. Your delegate deserves some credit: it has negotiated appointments, arranged transport, handled an awkward claim, and protected an evening you would otherwise have lost. But the invitation reached you through a friend because the system had been filtering such occasions under your own earlier instruction to avoid distractions. Its account of your interests is accurate, well supported, and increasingly historical. You discover the pleasure of being poor at something that nobody needs you to monetize, teach, or turn into a contribution. There is comic room in a man interested in redesigning civilization having difficulty entering on the right beat.
@@ -57,6 +59,8 @@ The issue is larger than a missed recommendation. By this checkpoint, a trusted 
 **Your anchors:** Music, dance, a class, a game, or another real curiosity; who might draw you into it; an occasion when being useful or professionally recognizable crowded out something you wanted.
 
 ## 4. Interlude 24 — The Developer's Dilemma
+
+**5 November update:** the [developed pair-24 constructions](24-vignette-constructions-2031.md) are now the preferred candidates. The earlier idea below remains available as provenance/variation; the newer companion supplies the prospective milestone, 2031 footing and connections to the canonical text.
 
 **September 2031 · The Delegated Life. New practical test of the existing delegation problem.**
 
