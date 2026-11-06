@@ -2,8 +2,8 @@
   "artifact": "work/handoffs/2026-11-06-neuverse-and-tiers-comprehensive-background.md",
   "prepared": "2026-11-06",
   "baseline_commit": "b45a9abdbd8480ee9656d8d17dcbd1812a5730f8",
-  "artifact_sha256": "65a4f8107230947a5ea5899b8beac75da9abc1190dda0651a1fa9e2b1b6fafdb",
-  "word_count_whitespace": 18568,
+  "artifact_sha256": "956d40ba4e23e1cdb1df9c8597220a2b2659982e6fbed7ed0f2b680b6cd34448",
+  "word_count_whitespace": 19040,
   "source_documents": [
     {
       "id": "N01",
@@ -810,5 +810,12 @@
   },
   "manuscripts_unchanged": true,
   "source_files_modified": false,
-  "published_or_sent": false
+  "published_or_sent": false,
+  "revisions": [
+    {
+      "date": "2026-11-06",
+      "based_on_commit": "aca7bbaed46db4a9e727fe6dfcbf485cbb7df2de",
+      "change": "Add author Neusphere-as-expression-of-neunet-folds hypothesis, multidimensional relational gravity and superstar/galactic-center metaphor; distinguish editorial feedback-loop proposal and unresolved mechanism."
+    }
+  ]
 }

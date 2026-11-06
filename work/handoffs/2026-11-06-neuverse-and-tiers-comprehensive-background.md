@@ -204,6 +204,20 @@ AI can be central to that capability without becoming a final arbiter. Different
 
 **Editorial synthesis:** a fruitful experimental question is whether a bounded network can produce *better shared inquiry* before anyone claims it has produced a collective mind. Measure the quality of questions, returned capabilities, corrected mistakes and useful coordinated responses—not simply network size or activity.
 
+### 8.4 Neusphere as the expression of neunet's folds
+
+**Author's further hypothesis, 6 November 2026.** Organ activity can leave its history in the shape of the relational network: which connections exist, their multidimensional weights, and how those relationships change through contribution, benefit, burden and continuing interaction. Neusphere could be understood as the **expression of those folds of neunet**. Its collective capacity would develop through the life of the organs and their accumulated relationships, with mechanisms still to be designed for interpreting and acting through that shape. [A]
+
+The author's gravity analogy gives this a memorable form. A relational landscape shaped by prior activity could influence the directions in which later attention, decisions and actuations flow. Those actions would then change the landscape. The metaphor draws on curvature and gravity; it does not identify graph weights with physical curvature, posit a literal force, or supply a mathematical theory of collective cognition.
+
+The proposed “gravity” is **multidimensional and MOxAIC-shaped**. Care, ecological consequence, obligation, capacity and different communities' values need not produce the same direction. This suggests a field of overlapping tendencies and constraints rather than one universal attraction score. The imaginative opening is that collective action could become an expression of the civilization's lived relationships, instead of requiring every response to be reconstructed from disconnected institutional records.
+
+In Tiers' celestial language, a human/brain is associated with a Star; Neusphere might be imagined as a **superstar or galactic center of collective cognition**. This is a new literary/conceptual possibility, not a selected Node type, central service, governing institution or replacement for the current Galaxy/Constellation distinctions. Coherence at the scale of a collective need not imply a single location or owner.
+
+**Editorial development of the hypothesis:** organ activity → relational changes and memory → contextual interpretation of the resulting field → collective decision and action → new consequences that reshape the field. This is a proposed feedback loop, not a claim that weighted connections alone already perform inference or choose an action. A promising experiment would ask whether such accumulated structure helps identify useful coordinated responses that the participating organs would miss separately. It should also test how the field can revise inherited inequities or mistaken relationships rather than make them ever more attractive through repetition.
+
+The author's broad “neunet” usage names the relational fabric here. In the current seven-tier vocabulary, parts of its orchestration sit in neuronet at Tier 2, with interpreting and acting capabilities potentially distributed across higher tiers. The metaphor does not depend on freezing that placement. **The fold is accumulated relational structure; its expression is what the civilization becomes able to do through it.** Both the mechanism and the stronger collective-brain interpretation remain open.
+
 ## 9. MOxAIC: integration across plural orders
 
 **MOxAIC** expands to **Multiplicity of Orders × Adaptive Integrative Convergence**. The x is an internal crossing: ways of living, knowing, valuing and acting encounter one another inside the same proposed civilization. [N06]
@@ -825,6 +839,8 @@ An Adaprise's possible **m–c** wallet/external relationship is still an explor
 
 ### 28.3 Neusphere through continuing relationships
 
+The author’s further fold/expression and multidimensional-gravity hypothesis is developed in §8.4. It supplies a conceptual direction for this technical exploration, not a completed mechanism.
+
 Newer work sharpens the hypothesis that Neusphere may arise partly through **explicit relation values, learned representations and continuing organ/Node/Edge/Mesh activity**, enriched by selective iNeural or MIRROR contributions and additional interpreting/agentic machinery. It may be a characteristic and organized capacity of this ecology rather than one isolated application. **neuronet is not Neusphere**, and a graph is not the whole knowledge or life of civilization. [T05]
 
 A proposed collective-assessment interface would carry the question, affected parties, evidence scope, alternatives, expected burdens/benefits, disagreement, uncertainty, method and expiry/revisit conditions. A separate decision arrangement gives authority to act; a **decision receipt** records how a legitimate rule was applied. This can be automatic within standing authority. A timeout cannot manufacture consent or consensus.
@@ -1018,7 +1034,7 @@ Definitions and qualifications are in the numbered sections above. This locator 
 | Neuconomy; Neumm/NEUMM/neumm | §11. |
 | Neufacture; Just-as-Needed; material fit | §12. |
 | neunet; neuronet; neuro; Neuro; NEURO; NEU; RO; Neuverse | §§6.1, 20, 28. |
-| Neusphere; Neuspheric ballot; accretion | §8; newer network-emergence hypothesis in §28.3. |
+| Neusphere; Neuspheric ballot; accretion; folds/expression; relational gravity | §8, especially §8.4; newer network-emergence hypothesis in §28.3. |
 | NGOC8; Council; DIRN; PARA; AICA; X-Orgs | §10.2. |
 | Nudge.ink; Nudger.pro; learning twin; smart pins | §15.1. |
 | omix.cc; xNome.net; SysB/sysb.io | §13.3. |
