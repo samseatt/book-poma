@@ -218,6 +218,30 @@ In Tiers' celestial language, a human/brain is associated with a Star; Neusphere
 
 The author's broad “neunet” usage names the relational fabric here. In the current seven-tier vocabulary, parts of its orchestration sit in neuronet at Tier 2, with interpreting and acting capabilities potentially distributed across higher tiers. The metaphor does not depend on freezing that placement. **The fold is accumulated relational structure; its expression is what the civilization becomes able to do through it.** Both the mechanism and the stronger collective-brain interpretation remain open.
 
+### 8.5 Chaperones for the folds: diagnosis inside design
+
+**Author's extension, 6 November 2026.** The same self-assembly that makes collective action possible could build a cage. Neusphere could inherit the stasis of participating minds and their shared stories, develop reinforcing system dynamics, or suffer the gaming and capture of a commons. Volume II's diagnosis therefore belongs inside the design of Neusphere itself. Emergence does not exempt the emerging collective from the pathologies the book diagnosed. [A]
+
+The author's **chaperone** metaphor proposes assurance, correction and mitigation within the formation and expression of the folds. The design question is how collective learning and its capacity for self-correction can develop together. A stable pattern may preserve useful knowledge or imprison it; the difference cannot be settled simply by rewarding stability or disruption. What evidence, consequences and alternative possibilities should cause a pattern to be retained, revised, loosened or abandoned?
+
+**Editorial development:** C8 can supply a revisable orientation for what matters; TACK can bound and make consequential acts knowable; Juris can supply the civilizational QA loops that detect harm, investigate recurring causes, repair and mitigate. MOxAIC can keep divergent orders and values present in those judgments. These are candidate complementary roles within the existing concepts, not a newly selected supervisor organ or a claim that these names already solve the problem. Their fuller meanings remain in §§9–10.
+
+A useful experimental direction is to make assurance affect what the network learns, not merely append an approval to what it already wants to do. For example, visible successful coordination could coexist with displaced burdens, suppressed disagreement or people learning to manipulate the recorded measures. Chaperoning could bring those consequences back into relational interpretation, test alternative arrangements, and change incentives or action paths. Preserving the history need not mean preserving the same weights or authority forever. Exploration needs room to generate possibilities the current model cannot reward yet.
+
+The chaperones can also calcify or be captured. Their judgments therefore need contest, consequence feedback and revision within the same civilization. This carries the book's inside-view discipline into assurance: no final outside intelligence is assumed to have escaped the system's biases. **The goal is a collective able to form useful habits and able to discover when those habits have become its cage.** These are preliminary design directions; mechanisms and tests remain to be developed.
+
+### 8.6 Could the collective feel?
+
+**Author's open question.** Sensing, actuation and balance may not exhaust what Neusphere could do. Could it also develop collective feelings, and what would that add to the collective-brain hypothesis? [A]
+
+For developing this question, distinguish three possibilities without settling their relationship:
+
+- **Shared human feeling:** grief, concern, hope or trust experienced by participants and carried through their relationships. This leaves open how to preserve disagreement and people whose feelings are less visible.
+- **Functional collective affect:** a proposed capacity through which conditions acquire significance for the collective, changing attention, memory, readiness and action. In this hypothesis, damage to an organ or ecological relationship could matter across the network before it becomes a crisis at every Node. Such sensitivity would have to do more than display a sentiment score or repeat a declared value.
+- **Experience belonging to the collective itself:** the stronger possibility that there is something it feels like to be that collective. Coordination, affect-like regulation or a compelling metaphor would not by themselves establish this. The question remains open rather than being silently answered by the word “brain.”
+
+**Editorial research seed:** can a plural collective develop a consequential sensitivity to what sustains or harms its members, relationships and planetary surroundings, while retaining different local experiences and the ability to question its own response? This connects feeling with care and balance without reducing well-being to equilibrium or treating unanimous emotion as the goal. The chaperone idea matters here too: a shared alarm might enable care, or recruit the whole system into an inherited fear. Neusphere's richer capacities and their possible distortions should be explored together.
+
 ## 9. MOxAIC: integration across plural orders
 
 **MOxAIC** expands to **Multiplicity of Orders × Adaptive Integrative Convergence**. The x is an internal crossing: ways of living, knowing, valuing and acting encounter one another inside the same proposed civilization. [N06]
@@ -1034,7 +1058,7 @@ Definitions and qualifications are in the numbered sections above. This locator 
 | Neuconomy; Neumm/NEUMM/neumm | §11. |
 | Neufacture; Just-as-Needed; material fit | §12. |
 | neunet; neuronet; neuro; Neuro; NEURO; NEU; RO; Neuverse | §§6.1, 20, 28. |
-| Neusphere; Neuspheric ballot; accretion; folds/expression; relational gravity | §8, especially §8.4; newer network-emergence hypothesis in §28.3. |
+| Neusphere; Neuspheric ballot; accretion; folds/expression; relational gravity; chaperones; collective feeling | §8, especially §§8.4–8.6; newer network-emergence hypothesis in §28.3. |
 | NGOC8; Council; DIRN; PARA; AICA; X-Orgs | §10.2. |
 | Nudge.ink; Nudger.pro; learning twin; smart pins | §15.1. |
 | omix.cc; xNome.net; SysB/sysb.io | §13.3. |

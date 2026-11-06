@@ -2,8 +2,8 @@
   "artifact": "work/handoffs/2026-11-06-neuverse-and-tiers-comprehensive-background.md",
   "prepared": "2026-11-06",
   "baseline_commit": "b45a9abdbd8480ee9656d8d17dcbd1812a5730f8",
-  "artifact_sha256": "956d40ba4e23e1cdb1df9c8597220a2b2659982e6fbed7ed0f2b680b6cd34448",
-  "word_count_whitespace": 19040,
+  "artifact_sha256": "315e55a0286067b1f2081d95bee5be9e4f450b29ae727013f6c01adb1076e395",
+  "word_count_whitespace": 19700,
   "source_documents": [
     {
       "id": "N01",
@@ -816,6 +816,11 @@
       "date": "2026-11-06",
       "based_on_commit": "aca7bbaed46db4a9e727fe6dfcbf485cbb7df2de",
       "change": "Add author Neusphere-as-expression-of-neunet-folds hypothesis, multidimensional relational gravity and superstar/galactic-center metaphor; distinguish editorial feedback-loop proposal and unresolved mechanism."
+    },
+    {
+      "date": "2026-11-06",
+      "based_on_commit": "5dac4191c7d25c1ab2e8687ffb385b147fb3c04a",
+      "change": "Add author chaperone/assurance hypothesis, V2 model-cage and commons-pathology inheritance, and collective-feeling question; distinguish editorial mechanism proposals and open experiential claim."
     }
   ]
 }

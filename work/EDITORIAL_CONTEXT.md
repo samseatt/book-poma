@@ -598,3 +598,8 @@ Follow B-043: the book and projects develop reciprocally; architecture remains e
 ## Neusphere fold/expression hypothesis — 6 November 2026
 
 See B-044 and the companion background §8.4. Sam proposes Neusphere as the expression of the folds of neunet: organ activity shapes multidimensional relations, whose evolving MOxAIC-like field could influence collective decisions/actions and be reshaped by their consequences. Curvature/gravity and a superstar/galactic center are generative metaphors, not physical claims or a selected centralized architecture. Preserve the open mechanism and the positive collective-cognition wager; do not reduce it to a separate super-agent attached to a passive graph. No manuscript or project design was changed.
+
+
+## Neusphere chaperones and collective feeling — 6 November 2026
+
+Follow B-045 and background §§8.5–8.6. The emerging collective is itself a subject of V2 diagnosis: learned folds may become model cages, inherit mental stasis, or suffer commons gaming/capture. Sam's chaperone metaphor places assurance, correction and mitigation inside formation/expression, with candidate roles for C8, TACK and Juris as civilizational QA. Preserve exploratory learning, plural values and revisability of the assurance arrangements themselves. Sam also opens collective feeling beyond sensing/actuation/balance; distinguish shared human emotions, proposed functional affect and the unresolved stronger claim of collective subjective experience without closing off the wager. This is conceptual background, not a selected architecture or manuscript revision.
