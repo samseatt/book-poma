@@ -399,45 +399,40 @@ Sources: [chapter](../manuscripts/volume-3/30-chapter.md), “The Illusion of Ne
 
 ### 31 — The Flow of Care / From Molecule to Moment
 
-**Distinct tension:** increasingly precise representations must produce better care for a person whose life does not follow institutional boundaries. **Gate:** Long Care Horizon, 11 March 2049. The desired gain is health, function, relief, and supported living—not a larger monitoring burden.
+**Updated 6 November 2026: author-approved scope correction now implemented in substantive source.** **Distinct tension:** the disease label is useful compression but can become the compulsory architecture through which unlike causal situations receive the same care. The proposed future acts on interacting biological and surrounding systems. The person supplies goals, consent and stakes; “treat the person” does not substitute for changing mechanisms. **Gate:** Long Care Horizon, 9 AM, 11 March 2049.
 
-Sources: [chapter](../manuscripts/volume-3/31-chapter.md), “The Failure of Protocol Medicine” onward; [interlude](../manuscripts/volume-3/31-interlude.md), “From Record to Pattern” onward.
+Sources: [chapter](../manuscripts/volume-3/31-chapter.md), “Beyond the Disease Factory” onward; [interlude](../manuscripts/volume-3/31-interlude.md), “A Factory Enters the Cell” onward. [Completion brief](volume-3-drafting/31-substantive-completion-2026-11-06.md) · [Projection constructions](volume-3-drafting/31-vignette-constructions-2049.md).
 
-**Technical companion:** [Pair 31: established methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-31).
+**Technical companion:** [Pair 31: methods and builder patterns](VOLUME_III_DESIGN_METHODS_AND_PATTERNS.md#pair-31).
 
-**Signal inheritance.** D: **S15** receives symptoms, caregiver observations, and uncertain measurements without silencing them; **S18** makes care handoffs and caregiver obligations sustainable; **S20** organizes around a longitudinal person rather than visits and departments. S: **S13** preserves feasible choices, access, and goals; **S16** handles coupled interventions and escalation; **S17** keeps the clinical model open to contradiction; **S19** maintains care capacity; **S21** supports patient and clinician judgment under limited attention.
+**Signal inheritance.** D: **S15** receives consequential signals and uncertainty; **S18** makes care capacity and shared obligations sustainable; **S20** follows interacting systems across institutional boundaries. S: **S13** preserves meaningful options; **S16** handles coupling and intervention dynamics; **S17** challenges the model and the category; **S19** sustains resources; **S21** supports capable judgment. S17 is especially active in the new nosology inversion.
 
-**Existing chapter topics, values, requirements, and principles**
+**Chapter design spine: purposes, principles and methods**
 
-- **Keep — Protocols with contextual judgment.** Retain evidence-based standards while allowing justified exceptions, multimorbidity, and questions the usual pathway misses.
-- **Keep — Whole-person interpretation over time.** Integrate physiology, medication, function, environment, social support, history, and what matters to the patient.
-- **Keep — Trust, continuity, and presence.** Technology should make responsible attention more possible; relationship is a care capability, not decoration.
-- **Develop — A patient–clinician–system loop.** Signals must reach interpretation, a shared decision, intervention, follow-up, and revision, with ways to reopen a mistaken conclusion.
-- **Qualify — AI support with accountable authority.** Use better pattern recognition, synthesis, and intervention support without allowing responsibility to vanish into a model or a nominal human signature.
-- **Keep — Uncertainty and caregiver knowledge as structured inputs.** Families can notice missing context; consent, disagreement, safety, and the patient's own voice remain essential.
-- **Develop — Home, prevention, and precision with real support.** Monitoring and molecular insight must connect to action, respite, accessible care, and realistic household capacity.
-- **Keep — Dignity, goals, and equity across aging.** Distinguish treatable decline, acceptable treatment burden, palliation, and ageist dismissal; protect patients and caregivers, including those outside data-rich settings.
+- **Central inversion — Mechanism before mandatory category.** Use nosology as revisable compression. Endotypes and molecular taxonomies are antecedents; the further ambition is models able to cross/revise the drawers themselves. Retain earlier clinical evidence rather than pretending every case begins from nothing.
+- **Principle — Intervene in the causal relationship sustaining the problem.** Consider pathway, cell, tissue, organ, exposure, treatment and environmental interactions. A causal arrow requires evidence, not merely a correlated network.
+- **Method — Goal-oriented requirements and minimally disruptive medicine.** Derive alternatives from what life could regain; evaluate benefit alongside treatment work and caregiver burden. These guide intervention without replacing its biological target.
+- **Method — Functional allocation and SEIPS human-factors analysis.** Arrange AI clinicians, human expertise, physical services, family and the patient around actual work and capability. Neither nominal human sign-off nor permanent AI-advisory status is sufficient.
+- **Method — Robust design and preserved options.** Compare routes under several futures; include reversibility, treatment interactions, new therapies and the cost of delay. Extend the ability to act, not simply the ability to predict.
+- **Application — Biological advances with a route to care.** Gene/cell therapies, immune engineering, cancer's evolving populations, tissue repair and aging interventions need capacity, access and continuing evaluation. A friendly chart is not the whole future.
+- **Method — Service design and whole-system boundary setting.** Compose care across sites without conscripting the household; account for ecological demands, underserved communities, sparse data and shared knowledge.
+- **Research wager — Feasible lives as a shared design object.** Link causal medical alternatives with capabilities, support and changed goals without predicting which life the person should accept.
 
-**Existing interlude mechanisms and builder requirements**
+**Interlude builder spine**
 
-- **Keep — Longitudinal state and temporal updates.** Separate fast physiology, slower trends, historical facts, current inferences, and values requiring conversation.
-- **Qualify — Bounded clinical twins.** Use a model for specified questions with uncertainty, validation, provenance, and limits; it is neither a complete person nor an oracle.
-- **Keep — Actionability-aware genomic interpretation.** Distinguish clinically supported findings, uncertain variants, research, ancestry limitations, family implications, and non-actionable information.
-- **Keep — Multisource clinical signals.** Track calibration, missingness, context, reliability, and usefulness of labs, wearables, symptoms, and caregiver observations.
-- **Develop — Medication state and organ coupling.** Reconcile what was ordered, dispensed, changed, held, and actually taken; assign review responsibility across clinicians and pharmacies.
-- **Develop — Uncertainty and escalation pathways.** Link a signal to urgency, a recipient with capacity, alternative hypotheses, follow-up, and the consequences of inaction or overaction.
-- **Keep — Patient/family access and clinical provenance.** Provide understandable, consented roles, corrections, goals, evidence trails, second opinions, and recourse.
-- **Develop — Lifecycle validation and operational safety.** Prospective/local evaluation, subgroup performance, drift, adverse events, overrides, fallback, and rollback should cover the actual care workflow.
+- **Biological representations and integration.** Genomics, epigenomics, transcriptomics, proteomics, metabolomics and spatial/single-cell context; distinguish measurement, inference, clinical decision and actual action.
+- **Mechanistic modeling — Rx-ome, PK/PD and QSP.** Represent actual exposures, metabolism, organ state and interacting effects. The illustrative one-compartment equation teaches why unchanged input can produce changed exposure; it is not a dosing recommendation.
+- **Therapeutic platform design.** Connect molecular/AI discovery to delivery, exposure, effects, manufacturing and clinical evidence. Reuse validated components where justified without erasing case-specific uncertainty.
+- **Living interventions.** Explain gene addition/editing/RNA, engineered immune cells and synthetic circuits, cancer vaccines/models, tissue fabrication/maturation and regeneration. Show real mechanisms and distinct maturity levels.
+- **Clinical automation and control.** Future AI doctors and physical intervention are in scope; bounded closed-loop examples teach delays, feedback and consequences. Do not imply a general autonomous clinician is already validated.
+- **Architecture — Partial models and generated possibility spaces.** Connect observations to competing mechanisms and intervention routes. Use value-of-information analysis to choose discriminating observations; do not turn generated plausibility into evidence.
+- **Patterns — Blackboard, capability registry, adapters, event coordination.** Compose services around a need without requiring a collection of patient-managed apps. Preserve separate meanings for observations, simulations, decisions and delivered actions.
+- **Operating practice — Complete intervention and returning effects.** Orchestrate clinical/fabrication/rehabilitation work, test failures, evaluate clinical outcomes and learn after deployment. Software rollback cannot reverse a physical intervention.
+- **Research wager — An unmet need assembles its research route.** Connect diagnostic possibility to therapeutic design, reusable experiments and infrastructure without administering an untested generated proposal.
 
-**Add / extend**
+**Placement and qualifications.** Pair27 owns common-data/ecological governance; Pair 28 develops making; Pair 30 provides general integrity/repair. Here those foundations acquire biological mechanisms and clinical effects. VitalEdge reveals diagnostic/intervention possibilities but does not diagnose or treat; this product boundary does not constrain the broader pair. The dedicated project account belongs in The Living Stack. Sources and evidence limits are in the manuscript notes and completion audit.
 
-- **A staffed closed-loop care commitment:** every consequential alert or referral has an accepting recipient, response expectation, backup, and confirmation that action occurred. The draft asks the right capacity question; show its operating answer.
-- **A patient-defined benefit and burden test:** assess function, symptoms, meaningful time, caregiver load, treatment effort, and adverse effects alongside predictive performance. Support changing goals and declining unwanted monitoring.
-- **A path from discovery to dependable treatment:** show how a useful new diagnostic or therapeutic capability becomes validated, affordable, deliverable care. Include practical delivery and review, rather than making the advanced future only a better chart.
-
-**Placement / qualification.** Shared genomic data governance belongs in 27; keep patient-specific interpretation here. Justice supplies generic recourse, but clinical time-to-harm warrants its own application. General population health and social conditions matter, yet this chapter should retain its healthcare center. Do not permanently confine 2049 AI to a 2026 advisory interface: allocate autonomy by demonstrated capability, stakes, authorization, and accountable care arrangements. [FDA's account of the 2025 IMDRF principles](https://www.fda.gov/medical-devices/artificial-intelligence-enabled-medical-devices/good-machine-learning-practice-medical-device-development-guiding-principles) supports lifecycle discipline; it does not validate a future whole-person twin. Proposed mechanisms cannot establish that a particular intervention would have saved the author's father.
-
-**The Next Move — Keep the care connected.** Start with one place where a person's care becomes nobody's responsibility: a discharge, medication change, referral, or move home. With the patient and appropriate care team, establish who follows through, what change should prompt a response, and who provides backup. The aim is a person better supported in living, with fewer duties pushed silently onto the household.
+**The Next Move — Give Care a Future to Protect.** Make a useful route to capability or relief available, looking for a missing intervention possibility as well as a broken handoff, with the appropriate care team. This extends the earlier “Keep Care Connected” invitation. Original openings/closings remain reserved for Sam/Claude; their presence/companion-only framing must be reconciled.
 
 ### 32 — Threads of Continuity / Encoding the Eternal
 

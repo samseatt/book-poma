@@ -1,0 +1,402 @@
+{
+  "date": "2026-11-06",
+  "baseline_commit": "2f2b4b6783907a63c07d6deb1de5d9eea8eded58",
+  "scope": "Pair31 substantive completion, incorporating author corrections on broad medicine, systems intervention and nosology",
+  "no_publication_or_external_handoff": true,
+  "charter": {
+    "path": "/Users/samseatt/projects/neuverse/charters/9 xMed-VitalEdge Care Organ Charter.md",
+    "sha256": "a3a9f135189ee5a94c7eb211741a5917ee3eff5a9373bbc8620f5189a170e127",
+    "read_scope": "Substantive charter sections reviewed, focused on whole-picture interpretation, omics, cancer, providers, living interventions and continuity; not an independently validated implementation specification.",
+    "latest_author_override": "VitalEdge explores diagnostic/intervention possibility space and does not diagnose/treat; the full healthcare/medicine pair remains broader."
+  },
+  "preservation_checks": {
+    "chapter_1251_and_1976_history_verbatim": true,
+    "chapter_opening_verbatim": true,
+    "interlude_opening_verbatim": true,
+    "chapter_closing_verbatim": true,
+    "interlude_closing_verbatim": true,
+    "old_technical_mirror_preserved_verbatim": true,
+    "no_author_annotations_removed": true,
+    "source_snapshot_matches": true,
+    "only_two_manuscripts_prepared": true
+  },
+  "preflight": {
+    "manuscripts/volume-3/31-chapter.md": {
+      "defined_notes": 14,
+      "note_references": 14,
+      "bookwide_collisions": [],
+      "math_nodes": 0,
+      "image_paths": [
+        "../assets/shared/chapter-arrow.png"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 14
+    },
+    "manuscripts/volume-3/31-interlude.md": {
+      "defined_notes": 20,
+      "note_references": 20,
+      "bookwide_collisions": [],
+      "math_nodes": 6,
+      "image_paths": [
+        "../assets/shared/interlude-gear.png",
+        "../assets/v3-28-interlude/care-possibility-and-treatment.svg"
+      ],
+      "pandoc_json_html": "passed",
+      "html_backlinks": 20
+    }
+  },
+  "manifest_changes": "Only v3-28-chapter and v3-28-interlude active_source.sha256; previously recorded hashes were stale relative to the clean baseline source, which was used for all preservation comparisons.",
+  "title_changes": null,
+  "epigraph": "Withdrawn Maimonides attribution/premise retained as provenance; not replaced by invented quotation.",
+  "future_historical_change": "1251 and1976accounts verbatim;2049gate interpretation expanded; interlude technical mirror now7April1976Genentech, with1978/1982later achievements separated.",
+  "manuscripts": [
+    {
+      "path": "manuscripts/volume-3/31-chapter.md",
+      "before_sha256": "1bb782bf4f744d3cf81b37d3e17905baf052baa1d23417fabf76fab2b81584bc",
+      "after_sha256": "097ddb1f47d4de89764dba3ca97f6c4f866e3faa6db2398ca5b9771e14f22b19",
+      "before_whitespace_words": 5970,
+      "after_whitespace_words": 6691
+    },
+    {
+      "path": "manuscripts/volume-3/31-interlude.md",
+      "before_sha256": "c0df2234c54dea5beb5662cbb93f1384bfb7d5985d6d62364ae2f0d62ba51ed9",
+      "after_sha256": "f210bc76800c8cda190142ef3a0c3ce59ad2765132854e09c9b0761b431bafff",
+      "before_whitespace_words": 4101,
+      "after_whitespace_words": 5587
+    }
+  ],
+  "sources": [
+    {
+      "note": "v3-31-mongols",
+      "urls": [
+        "https://www.iranicaonline.org/articles/argun-aqa-a-mongol-administrator-in-iran-d-1275/"
+      ],
+      "verification_scope": "Inherited source note retained verbatim; not independently re-verified in this pass.",
+      "accessed_this_pass": null
+    },
+    {
+      "note": "v3-31-flu",
+      "urls": [
+        "https://wwwnc.cdc.gov/eid/article/12/1/05-1007_article",
+        "https://www.fordlibrarymuseum.gov/galleries/swine-flu-immunization-program-1976"
+      ],
+      "verification_scope": "Inherited source note retained verbatim; not independently re-verified in this pass.",
+      "accessed_this_pass": null
+    },
+    {
+      "note": "v3-31-ihcia",
+      "urls": [
+        "https://www.ihs.gov/sites/ihcia/themes/responsive2017/display_objects/documents/home/2000_IHCIA_Codification.pdf"
+      ],
+      "verification_scope": "Inherited source note retained verbatim; not independently re-verified in this pass.",
+      "accessed_this_pass": null
+    },
+    {
+      "note": "v3-31-demography",
+      "urls": [
+        "https://www150.statcan.gc.ca/n1/pub/17-20-0003/172000032026001-eng.htm"
+      ],
+      "verification_scope": "Inherited source note retained verbatim; not independently re-verified in this pass.",
+      "accessed_this_pass": null
+    },
+    {
+      "note": "v3-31c-nosology",
+      "urls": [
+        "https://doi.org/10.17226/13284"
+      ],
+      "verification_scope": "National Academies/NCBI2011 report description and bibliographic record checked; molecularly informed new taxonomy and knowledge network are existing proposals. Author extension remains distinct.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-systems",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3140052/"
+      ],
+      "verification_scope": "Primary conceptual review inspected and abstract/metadata reconfirmed. Network relationships and limits of interactome knowledge; no proof of the proposed care architecture.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-qsp",
+      "urls": [
+        "https://bmsr.usc.edu/files/2012/12/NIH-White-Papaer-2011.pdf"
+      ],
+      "verification_scope": "NIH workshop white-paper scope and PDF introduction/abstract checked; official NIGMS description corroborates provenance. Not full-paper or implementation validation.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-burden",
+      "urls": [
+        "https://doi.org/10.1136/bmj.b2803"
+      ],
+      "verification_scope": "Publisher-indexed article and PubMed metadata checked; direct BMJ access restricted. Treatment workload/capacity is the supported conceptual contribution.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-editing",
+      "urls": [
+        "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease"
+      ],
+      "verification_scope": "FDA approval announcement checked for December2023 date, indication and ex-vivo editing/fetal-hemoglobin mechanism.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-tissue",
+      "urls": [
+        "https://doi.org/10.1038/s41586-024-08463-0"
+      ],
+      "verification_scope": "Primary Nature abstract and relevant human proof-of-concept passages checked. Primate functional evidence and evidence of a human graft are distinct.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-seips",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3835697/"
+      ],
+      "verification_scope": "Primary SEIPS2.0 framework text checked for professionals, patients, work-system components and human-factors scope.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-ai",
+      "urls": [
+        "https://doi.org/10.1038/s41746-018-0040-6",
+        "https://doi.org/10.1038/s41586-025-08866-7"
+      ],
+      "verification_scope": "Primary pivotal retinal diagnostic trial and Nature2025 AMIE abstract/publication metadata checked. Clinical bounded autonomy and simulated patient-actor dialogue distinguished; not a complete2026survey.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-evolution",
+      "urls": [
+        "https://doi.org/10.1038/s41467-017-01968-5"
+      ],
+      "verification_scope": "Primary2017 study abstract and reported adaptive-treatment context checked. Small indication-specific study, not universal treatment guidance.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31c-aging",
+      "urls": [
+        "https://doi.org/10.1126/scitranslmed.adg1777"
+      ],
+      "verification_scope": "Primary/publisher-indexed study abstract and metadata checked in research pass; direct DOI re-open403. Mouse experiments only; not proven human rejuvenation.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-1976",
+      "urls": [
+        "https://www.gene.com/download/pdf/Genentech-Fact-Sheet_April-2026.pdf",
+        "https://www.genome.gov/25520305/online-education-kit-1976-first-genetic-engineering-company"
+      ],
+      "verification_scope": "Genentech official April2026 fact sheet gives7April1976; NHGRI historical account confirms founders and company milestone. No claim recombinant DNA began that day.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-insulin",
+      "urls": [
+        "https://www.fda.gov/about-fda/fda-history-exhibits/100-years-insulin"
+      ],
+      "verification_scope": "FDA institutional history checked for1978 recombinant insulin and1982 approval, explicitly subsequent to founding.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-atlas",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/31178118/",
+        "https://doi.org/10.1038/s41576-019-0093-7"
+      ],
+      "verification_scope": "Primary Cell study abstract and PubMed metadata plus authors NatureReviewsGenetics review scope checked; multimodal/single-cell integration, not a complete patient model.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-variants",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4544753/"
+      ],
+      "verification_scope": "ACMG/AMP primary guideline classification and uncertain-variant limitations checked; original2015framework not presented as all current gene-specific guidance.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-pk",
+      "urls": [
+        "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/physiologically-based-pharmacokinetic-analyses-format-and-content-guidance-industry",
+        "https://bmsr.usc.edu/files/2012/12/NIH-White-Papaer-2011.pdf"
+      ],
+      "verification_scope": "FDA2018 PBPK guidance introduction/model description and NIH QSP white-paper scope checked. Elementary displayed equation independently checked as constant-volume one-compartment mass balance with linear clearance; no numerical patient example.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-af3",
+      "urls": [
+        "https://doi.org/10.1038/s41586-024-07487-w"
+      ],
+      "verification_scope": "Nature primary abstract and benchmark scope checked; structure prediction distinguished from treatment effectiveness.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-bespoke",
+      "urls": [
+        "https://doi.org/10.1056/NEJMoa2504747"
+      ],
+      "verification_scope": "Primary NEJM/PMC report summary and short follow-up checked: infantCPS1deficiency, customized in-vivo base editing, early protein tolerance/medication changes. General platform is prospective.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-crispr",
+      "urls": [
+        "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease"
+      ],
+      "verification_scope": "FDA approval mechanism and Musunuru in-vivo report checked; ex-vivo stem-cell editing/conditioning and fetal hemoglobin distinguished from direct mutation replacement.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-synbio",
+      "urls": [
+        "https://doi.org/10.1126/science.adl4237"
+      ],
+      "verification_scope": "Primary Science/PubMed abstract and indexed material checked for tissue-sensing engineered Tcells and preclinical brain-targeted experiments. Full PMC access restricted; broader clinical use not asserted.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-cart",
+      "urls": [
+        "https://www.cancer.gov/about-cancer/treatment/research/car-t-cells"
+      ],
+      "verification_scope": "NCI institutional treatment/research explanation checked for mechanism, hematologic applications, solid-tumor difficulties and toxicities.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-vaccine",
+      "urls": [
+        "https://doi.org/10.1038/s41586-023-06063-y"
+      ],
+      "verification_scope": "Primary Nature study abstract and phaseI combined-treatment design checked; immune responses and exploratory associations distinguished from proven survival benefit.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-organoids",
+      "urls": [
+        "https://doi.org/10.1126/science.aao2774"
+      ],
+      "verification_scope": "Primary Science study abstract and metadata checked for patient-derived metastatic GI cancer organoids and selected treatment-response modeling. Whole-person fidelity not asserted.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-printing",
+      "urls": [
+        "https://doi.org/10.1126/science.aav9750"
+      ],
+      "verification_scope": "Primary paper abstract and model description checked: hydrogel multivascular networks/alveolar oxygenation demonstration, not an implanted human lung.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-heart",
+      "urls": [
+        "https://doi.org/10.1038/s41586-024-08463-0"
+      ],
+      "verification_scope": "Primary Nature abstract/human proof-of-concept checked; assembled engineered heart muscle not mislabeled as printed organ.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-aging",
+      "urls": [
+        "https://doi.org/10.1126/scitranslmed.adg1777"
+      ],
+      "verification_scope": "Same mouse partial-reprogramming primary study as chapter; research direction, no established human benefit.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-ai",
+      "urls": [
+        "https://doi.org/10.1038/s41746-018-0040-6",
+        "https://doi.org/10.1038/s41586-025-08866-7"
+      ],
+      "verification_scope": "Same bounded autonomous retinal trial and AMIE simulated diagnostic-dialogue sources as chapter; no claim of validated general AI doctor today.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-loop",
+      "urls": [
+        "https://doi.org/10.1056/NEJMoa1907863"
+      ],
+      "verification_scope": "Primary NEJM trial abstract and metadata checked; defined2019 randomized six-month glucose-control example, not universal physiological controller.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-twins",
+      "urls": [
+        "https://doi.org/10.17226/26894"
+      ],
+      "verification_scope": "National Academies2024 report scope and verification/validation/uncertainty research needs checked. Clinical federated possibility-space design is original proposal.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-voi",
+      "urls": [
+        "https://doi.org/10.1109/TSSC.1966.300074"
+      ],
+      "verification_scope": "IEEE primary publication metadata and information-value formulation checked; conceptual clinical application, not a computed patient decision.",
+      "accessed_this_pass": "2026-11-06"
+    },
+    {
+      "note": "v3-31i-fhir",
+      "urls": [
+        "https://www.hl7.org/fhir/workflow.html"
+      ],
+      "verification_scope": "Official FHIR R5 workflow patterns and Task distinctions read. Interoperability representation does not itself deliver clinical orchestration.",
+      "accessed_this_pass": "2026-11-06"
+    }
+  ],
+  "future_assessment": {
+    "gate": "Long Care Horizon — 9 AM,11 March2049",
+    "status": "Ambitious conditional planning state and proposed design, not a probability-calibrated forecast or first-invention date.",
+    "assumptions": "Substantially stronger AI clinical practice, integrated biological inquiry and a wider gene/cell/immune/tissue treatment repertoire; uneven maturity, access and adoption.",
+    "uncertain_frontiers": "General human rejuvenation, universally printable organs, comprehensive patient simulation and broad institutional replacement are not promised.",
+    "author_wagers": "Nosology subordinate to revisable causal models; feasible-life design across care/support; unmet needs assembling therapeutic research routes."
+  },
+  "figure": {
+    "path": "manuscripts/assets/v3-28-interlude/care-possibility-and-treatment.svg",
+    "authorship": "Original code-native grayscale vector",
+    "visual_check": "Final1100x930PNG rendered and inspected. Labels readable; exploratory updates return to models, clinical action reaches biology, actual effects feed the case. No physiology inferred from a purely exploratory simulation.",
+    "scope": "Conceptual architecture, not a complete causal biological network."
+  },
+  "other_records": "Two existing Pair31 design-inventory sections updated; six context/journal/handoff files appended; concrete projection/brief/retained material and earlier-pair second-look agenda added. No other pair rewritten.",
+  "reserved": [
+    "Future projected prose and author personal detail",
+    "Closing reconciliation: old presence/companion framing remains reserved only",
+    "Noesis and Open31",
+    "Further Alice/Bob research and author development",
+    "Focused creative-frontier review of23–30",
+    "Pairs32–33 and whole-volume handoff"
+  ],
+  "post_install_checks": {
+    "canonical_validation": [
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-chapter.md",
+        "sha256": "097ddb1f47d4de89764dba3ca97f6c4f866e3faa6db2398ca5b9771e14f22b19",
+        "defined_notes": 14,
+        "note_references": 14,
+        "parsed_notes": 14,
+        "html_note_backlinks": 14,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-interlude.md",
+        "sha256": "f210bc76800c8cda190142ef3a0c3ce59ad2765132854e09c9b0761b431bafff",
+        "defined_notes": 20,
+        "note_references": 20,
+        "parsed_notes": 20,
+        "html_note_backlinks": 20,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    ],
+    "git_diff_check": "passed",
+    "publication": "Not run; no deployment or external message"
+  }
+}

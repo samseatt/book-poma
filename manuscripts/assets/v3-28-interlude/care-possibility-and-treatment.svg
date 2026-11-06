@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="930" viewBox="0 0 1100 930" role="img" aria-labelledby="title desc">
+<title id="title">From coupled systems to useful intervention</title>
+<desc id="desc">A biological network includes pathways, cells, tissues, organs and the treatment environment. Measurements feed a shared case and competing models. An exploration loop proposes and tests possibilities; an authorized clinical route selects, delivers and follows interventions. Their measured effects return to the biological models. Goals and consent govern the care purpose without substituting for mechanism.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#333"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#202020}.heading{font-size:26px;font-weight:700}.sub{font-size:19px}.boxhead{font-size:21px;font-weight:700}.label{font-size:18px}.small{font-size:17px}.arrow{stroke:#333;stroke-width:2;fill:none;marker-end:url(#arrow)}.both{stroke:#555;stroke-width:1.7;fill:none;marker-start:url(#arrow);marker-end:url(#arrow)}</style>
+<rect width="1100" height="930" fill="white"/>
+
+<text x="550" y="39" text-anchor="middle" class="heading">
+<tspan x="550" dy="0">From coupled systems to useful intervention</tspan>
+</text>
+<text x="550" y="70" text-anchor="middle" class="sub">
+<tspan x="550" dy="0">The person supplies goals, consent and stakes; the mechanisms supply targets.</tspan>
+</text>
+<rect x="55" y="94" width="990" height="182" rx="8" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="550" y="125" text-anchor="middle" class="boxhead">
+<tspan x="550" dy="0">BIOLOGY IN ITS TREATMENT ENVIRONMENT</tspan>
+</text>
+<rect x="103" y="144" width="164" height="46" rx="8" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="185" y="174" text-anchor="middle" class="boxhead">
+<tspan x="185" dy="0">Pathways</tspan>
+</text>
+<rect x="343" y="144" width="164" height="46" rx="8" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="425" y="174" text-anchor="middle" class="boxhead">
+<tspan x="425" dy="0">Cells</tspan>
+</text>
+<rect x="583" y="144" width="164" height="46" rx="8" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="665" y="174" text-anchor="middle" class="boxhead">
+<tspan x="665" dy="0">Tissues</tspan>
+</text>
+<rect x="823" y="144" width="164" height="46" rx="8" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="905" y="174" text-anchor="middle" class="boxhead">
+<tspan x="905" dy="0">Organs</tspan>
+</text>
+<path class="both" d="M272 167 H337"/>
+<path class="both" d="M512 167 H577"/>
+<path class="both" d="M752 167 H817"/>
+<text x="550" y="225" text-anchor="middle" class="label">
+<tspan x="550" dy="0">Rx-ome • exposure • nutrition • infection • repair</tspan>
+</text>
+<text x="550" y="254" text-anchor="middle" class="small">
+<tspan x="550" dy="0">Interventions alter relationships, and the receiving system keeps changing.</tspan>
+</text>
+<path class="arrow" d="M550 277 V323"/>
+<text x="565" y="307" text-anchor="start" class="small">
+<tspan x="565" dy="0">Observe and measure</tspan>
+</text>
+<rect x="230" y="327" width="640" height="80" rx="8" fill="#ededed" stroke="#444" stroke-width="1.5"/>
+<text x="550" y="356" text-anchor="middle" class="boxhead">
+<tspan x="550" dy="0">SHARED CASE + COMPETING MODELS</tspan>
+</text>
+<text x="550" y="386" text-anchor="middle" class="label">
+<tspan x="550" dy="0">Observed state ≠ hypothesis ≠ decision ≠ completed action</tspan>
+</text>
+<path class="both" d="M390 408 V443 H280 V466"/>
+<path class="arrow" d="M710 408 V443 H820 V466"/>
+<rect x="60" y="469" width="440" height="235" rx="8" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<rect x="600" y="469" width="440" height="235" rx="8" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="280" y="504" text-anchor="middle" class="boxhead">
+<tspan x="280" dy="0">EXPLORE POSSIBILITIES</tspan>
+</text>
+<text x="280" y="544" text-anchor="middle" class="label">
+<tspan x="280" dy="0">Generate causal explanations</tspan>
+<tspan x="280" dy="33">Compare feasible interventions</tspan>
+<tspan x="280" dy="33">Choose informative tests</tspan>
+<tspan x="280" dy="33">Revise the model</tspan>
+</text>
+<text x="820" y="504" text-anchor="middle" class="boxhead">
+<tspan x="820" dy="0">DELIVER CLINICAL CARE</tspan>
+</text>
+<text x="820" y="544" text-anchor="middle" class="label">
+<tspan x="820" dy="0">Select an evidence-backed plan</tspan>
+<tspan x="820" dy="33">Arrange treatment or fabrication</tspan>
+<tspan x="820" dy="33">Act through an authorized service</tspan>
+<tspan x="820" dy="33">Observe effects and revise care</tspan>
+</text>
+<path class="arrow" d="M501 585 H598"/>
+<text x="550" y="558" text-anchor="middle" class="small">
+<tspan x="550" dy="0">Evidence</tspan>
+</text>
+<text x="550" y="618" text-anchor="middle" class="small">
+<tspan x="550" dy="0">≠ order</tspan>
+</text>
+<path class="arrow" d="M820 705 V756 H651"/>
+<path class="arrow" d="M1041 586 H1075 V185 H1047"/>
+<rect x="450" y="721" width="200" height="74" rx="8" fill="#ededed" stroke="#444" stroke-width="1.5"/>
+<text x="550" y="751" text-anchor="middle" class="small">
+<tspan x="550" dy="0">ACTUAL EFFECTS</tspan>
+<tspan x="550" dy="26">Benefit, harm, change</tspan>
+</text>
+<path class="arrow" d="M550 797 V827 H24 V366 H228"/>
+<text x="550" y="858" text-anchor="middle" class="sub">
+<tspan x="550" dy="0">Effects update the case and can overturn its explanation.</tspan>
+</text>
+<text x="550" y="891" text-anchor="middle" class="small">
+<tspan x="550" dy="0">Exploration does not itself authorize treatment. Clinical action changes the system being modeled.</tspan>
+</text>
+</svg>

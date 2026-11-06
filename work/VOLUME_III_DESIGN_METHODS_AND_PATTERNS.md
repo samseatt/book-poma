@@ -219,23 +219,32 @@ The following are candidates for the working lists, not a requirement to insert 
 
 <a id="pair-31"></a>
 
-## 31 — Care: designing a dependable sociotechnical control loop
+## 31 — Care: changing coupled systems, beyond the diagnostic drawer
+
+**6 November 2026 scope correction:** the biological and surrounding systems are the intervention object; the person supplies its purpose and stakes. Disease labels remain useful summaries, not the compulsory unit of treatment. The chapter is broader than patient-service design, and the interlude is broader than clinical software. These methods now appear in substantive source; final narrative integration remains pending.
 
 ### Chapter design spine
 
-- **M — STPA hazard analysis.** Model the control structure and examine unsafe actions, missing actions, timing, and feedback. [Leveson and Thomas's STPA](https://psas.scripts.mit.edu/home/books-and-handbooks/) can reveal harm from interactions even when individual components function as specified. A capable predictor and a functioning pager do not establish that care reaches the patient.
-- **M — Functional allocation and human-factors analysis.** Determine which work is automated, performed by clinicians, supported by family, or left to the patient, and under what conditions those allocations change. Consider expertise, workload, fatigue, and handoffs alongside model performance.
-- **P — Observability paired with actionable feedback.** The system must make consequential state changes discernible to an actor able to respond. Monitoring without a response path is an incomplete control design. Preserve uncertainty rather than making the model's internal state synonymous with the patient.
-- **M — Outcome and burden evaluation.** Compare care arrangements on patient-relevant benefit, errors, workload, access, and treatment burden. Distinguish a technically accurate measurement, a useful clinical intervention, and a sustainable service.
+- **P/M — Mechanistic and multiscale systems analysis.** Examine pathway, cell, tissue, organ, treatment/exposure and environmental interactions. Separate correlated networks from intervention-relevant causal models. [Network medicine](https://doi.org/10.1038/nrg2918) and [quantitative systems pharmacology](https://bmsr.usc.edu/files/2012/12/NIH-White-Papaer-2011.pdf) are foundations, not claims that a complete personalized model exists. Nosology becomes a revisable summary.
+- **M — Goal-oriented requirements analysis.** Establish a desired capability or relief, identify obstacles and compare biological, assistive, environmental and service alternatives. Preserve patient choice and plural outcomes rather than a universal optimization score.
+- **P/M — Minimally disruptive medicine and burden evaluation.** Compare clinical benefit with treatment work, caregiver load and access. [May, Montori and Mair (2009)](https://doi.org/10.1136/bmj.b2803) supply an established discipline; lower burden does not mean refusing a demanding but worthwhile therapy.
+- **M — Functional allocation and SEIPS human factors.** Allocate tasks by capability, context and consequence among AI/human clinicians, physical services, patient and family. [SEIPS 2.0](https://pmc.ncbi.nlm.nih.gov/articles/PMC3835697/) exposes work-system interactions rather than merely exhorting individuals to be careful.
+- **M — Robust design, option preservation and service design.** Compare routes under changing physiology and treatment availability, then trace the practical work through delivery and follow-up. Include resources, household and ecosystem effects.
+- **M — Evolutionary reasoning applied to intervention.** Cancer populations can change under treatment; the next response depends on the selection imposed by the previous one. Adaptive treatment is indication-specific, not a general instruction to leave curable cancer untreated.
 
 ### Interlude builder spine
 
-- **A — Time-aware clinical state.** Distinguish when an observation was made, received, interpreted, and acted upon; represent corrections and uncertainty. An apparently recent record may describe an old patient state.
-- **A/E — Deadline-aware workflow and escalation.** Track accepted ownership, expected response, overdue work, and backup capacity. Test missing and duplicated notifications and the return from fallback operation.
-- **E — Interface contracts and fault injection.** Break a dependency deliberately in a safe test setting: sensor, model service, record link, or notification channel. Check whether the complete care arrangement moves to the intended operating mode.
-- **M/E — Evidence staged by use.** Separate retrospective evaluation, prospective shadow operation, appropriately governed clinical study, and operational monitoring. A software demonstration is not clinical validation; proposals affecting treatment need the relevant clinical evidence and oversight.
+- **M — Multimodal biological integration.** Join omics and clinical observations while preserving tissue, time, assay, uncertainty and sampling limits. A variant or correlation is not automatically actionable.
+- **M — PK/PD, PBPK and quantitative systems pharmacology.** Connect exposures to changing physiology and effects. A small one-compartment equation gives the reader a concrete model before introducing richer tissue/pathway coupling.
+- **A/E — Therapeutic platforms and living circuits.** Separate target validity, delivery, exposure, response and tolerability. Reuse delivery/manufacturing/evidence only where transferable. Gene, RNA, immune-cell and tissue interventions have different persistence, targeting and failure properties.
+- **M/A — Partial digital twins and value of information.** Generate competing explanations and intervention routes, then select observations that can change a decision. Preserve the boundary between measured, simulated, hypothesized and demonstrated.
+- **A — Blackboard, capability registry, adapter and event-driven composition.** Specialist services work over an explicit shared case state; devices and external records retain semantics. These are genuine architecture patterns supporting post-app care, not new names for an all-purpose chatbot.
+- **A/E — Stateful workflow and clinical control.** Track proposed, accepted, performed, failed and revised actions; prevent duplicates and close feedback loops. Account for physical irreversibility, timing and recovery.
+- **E — Interface contracts, fault injection and staged evaluation.** Test missing/conflicting observations, unavailable services and changed consent; then distinguish retrospective performance, prospective shadow use, clinical evidence and monitored operation. STPA from Pair 30 remains an available cross-pair method; it is not the whole Care spine.
 
-**Worked demonstration:** a changing clinical pattern crosses home, primary care, and hospital boundaries; make timing, response capacity, and uncertainty visible. **Tradeoff:** excessive alerts can defeat the feedback loop. Raising sensitivity without designing response workload may make the overall arrangement worse. This is a hypothetical engineering example, not a retrospective claim about the author's father's care.
+**Worked demonstrations:** changing clearance alters exposure despite unchanged input; partial models investigate a changed clinical pattern; a tissue-repair route connects modeling, manufacturing, intervention, rehabilitation and observed effects. **Tradeoff:** richer representations and more observations help only when they improve an intervention or a useful choice. Novel treatment ambition and disciplined evidence must develop together.
+
+**Scope boundary:** VitalEdge exposes the possibility space and does not itself diagnose/treat. Future AI doctors and advanced therapies remain fully in the interlude's broader remit. See [the completion brief](volume-3-drafting/31-substantive-completion-2026-11-06.md) for author overrides, projections and evidence limits.
 
 <a id="pair-32"></a>
 

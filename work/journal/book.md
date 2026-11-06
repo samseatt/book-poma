@@ -291,3 +291,19 @@ Justice is proposed as the values and operating capacity through which a civiliz
 Quality assurance is an ally, not a complete definition: justice must examine the purposes and requirements, including who can contest them. C8 supplies values, the intrinsic x of MOxAIC examines crossing among plural orders, and TACK makes action-specific legitimacy and limits inspectable. A combined score cannot erase ecological limits, dignity or unresolved conflicts. Signals and dynamics from V2 become ways to identify and change the whole causal pattern, not a tool for assigning a single convenient culprit.
 
 Pair 30 carries this into named methods, a lifecycle figure, timing constraint, accountable protection/review/repair paths and research wagers. The ambition is positive: more useful freedom and capable collective correction. Preserve this inversion through Claude's later compression. The design topics throughout V3 should continue seeking new arrangements, with scholarly knowledge supporting rather than policing the imaginative boundary.
+
+## B-036 — Creative frontier and project scope are not the same boundary
+
+**6 November 2026 — active author direction, first applied to Pair 31.** Chapters should explore novel, unusual and cross-domain civilizational design; interludes should explore advanced construction, including post-app, sensed, agentic, IoT and model-linked possibilities. Existing research is a foundation and a source of tests, not a ceiling on what the book may propose. The future is not journalism about current interfaces. Label strong conjecture without smothering it.
+
+VitalEdge's limited product role does not constrain the subject of healthcare/medicine. It helps show the whole picture, diagnostic possibilities, pathways and intervention opportunities; it does not diagnose or treat. The pair must nevertheless cover future AI doctors, treatment, genomics/omics, cancer, synthetic biology and tissue repair/printing. The latest author explanation supersedes the old charter's VitalEdge-as-baseline-AI-doctor wording. The Living Stack handles dedicated project mechanics; the book may use projects as muses without becoming a catalogue.
+
+A [focused second-look agenda](../volume-3-drafting/creative-frontier-second-look-2026-11-06.md) is pending for 23–30 before the final handoff. No automatic earlier-pair rewrite has been performed.
+
+## B-037 — Medicine's unit of intervention: systems, not the diagnostic drawer
+
+**6 November 2026 — active author correction, applied to Pair 31.** Sam rejects “treat the person” as a sufficient correction to “treat the disease.” Human purposes and care matter, but medical intervention needs to change interacting systems: pathways, cells, tissues, organs, the Rx-ome, and relevant environments. Customer-service improvement cannot substitute for this.
+
+Author's raw formulation retained: “nosology is the Achilles heal of current 20th century protocol based healthcare (disease care).” The critique concerns disease labels as the compulsory architecture through which symptoms are routed into standardized treatment. The future can move beyond finer diagnostic drawers to changing mechanistic accounts, including common mechanisms across different diagnoses and different mechanisms beneath one diagnosis. Retain evidence and usable communication; do not imply all contemporary medicine lacks causal reasoning. Systems/network medicine and the2011 NRC precision-medicine taxonomy provide acknowledged antecedents.
+
+Rx-ome is a working term for dynamic treatment exposures/interactions, not a verified new assay or novelty claim. The person remains beneficiary and agent with goals and consent; the systems are where treatment acts. This distinction must survive Claude's compression and the eventual rewrite of the old presence-centered opening/closing prose banks. The conflicting Maimonides epigraph has been withdrawn, with its unverified attribution retained only as provenance.
