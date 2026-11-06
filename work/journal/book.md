@@ -339,3 +339,12 @@ No Coda or Goethe quotation was inserted. Later work should compare earlier Coda
 The [new inventory](../VOLUME_III_PRINCIPLES_AND_PATTERNS.md) and [completion record](../volume-3-drafting/whole-volume-reconciliation-2026-11-06.md) now describe the canonical substance. Targeted additions strengthen purpose reframing, need-led composition, joint agency, repeatable deployment and collective inquiry; the later category-changing pairs retain their stronger treatment. Source checks cover newly added precedents, not every inherited claim.
 
 Sam explicitly permits the comprehensive Claude handoff to wait for a separate request. Keep the [internal addendum](../handoffs/2026-11-06-v3-reconciliation-addendum.md) current; do not release an obsolete cumulative brief or equate substantive completion with final prose. Preserve author annotations, reserved future openings, Noēsis, Opens and emotional closings for their assigned work. No new Coda III, shuffle, forecast schedule, publishing action or resumption of the V1/V2 adoption queue is implied.
+
+
+## B-042 — One comprehensive Claude drafting handoff
+
+**6 November 2026 — author request; prepared.** The author will attach a single current briefing, then supply one chapter or interlude at a time. [The handoff](../handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md) includes the entire 195-entry principles/patterns inventory, actual projection constructions, accepted histories/Gates, all 24 title triples, signal inheritance, Next Moves and remaining tasks. It replaces provisional outgoing guidance; the old documents remain provenance.
+
+“Reserved literary work” means work deliberately assigned to Sam/Claude—projections, voice and condensation, bridges, Noēsis, Opens and emotional closings—not locked text. Claude should use Codex’s construction, Sam’s personalizations and useful old vignette prose to make efficient, lively, humorous projections. Noēsis must follow Sam’s latest instructions within Claude; optional per-pair seeds are not a new mandatory form. The inventory is mostly already incorporated, so its use must not produce duplicate instruction lists. Sam may add original, meditative and disruptive patterns.
+
+Canonical text stayed unchanged during assembly. All 195 inventory entries were preserved verbatim and all 24 title triples checked against the source. Sam transfers the briefing himself; no message, release of files to another service or publication was performed. Returned Claude drafts will use the established two-stage adoption process.

@@ -1,6 +1,6 @@
 # Volume III alignment for Claude
 
-> **Withheld cumulative working file — not the outgoing package.** As of 6 November 2026 the whole-volume reconciliation is complete; Sam has deferred the comprehensive Claude handoff to a separate task. Read [the internal reconciliation addendum](2026-11-06-v3-reconciliation-addendum.md) and [current inventory](../VOLUME_III_PRINCIPLES_AND_PATTERNS.md) ahead of older status/scope statements below. No transfer is authorized by this update.
+> **Superseded working provenance.** The outgoing briefing is now [the comprehensive Claude handoff](2026-11-06-volume-iii-comprehensive-claude-handoff.md), prepared on 6 November 2026 at Sam’s request against substantive baseline `b1992e0`. It includes the full inventory and concrete projection constructions. Historical “withheld” and “pending” statements below describe earlier stages; they are not current instructions. Sam will attach the new briefing and supply one unit at a time.
 
 5 November 2026 · *The Path of Many Arrows* · Editorial handoff from Codex
 

@@ -1,8 +1,8 @@
 # Volume III substantive completion and later Claude handoff
 
-> **Current status, 6 November 2026:** whole-volume reconciliation and the creative-frontier second look are complete. See [the current inventory](VOLUME_III_PRINCIPLES_AND_PATTERNS.md) and [completion record](volume-3-drafting/whole-volume-reconciliation-2026-11-06.md). The chronological entries below preserve earlier pending states. The comprehensive Claude handoff remains separately pending at Sam's direction.
+> **Current status, 6 November 2026:** substantive reconciliation is complete and [the comprehensive Claude handoff](handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md) is prepared for Sam to attach. It includes the full 195-entry inventory and instructions for one-unit-at-a-time drafting. “Reserved literary work” is now explicitly assigned to Sam/Claude, not locked wording. The chronological entries below retain earlier states. No external transfer or publication was performed.
 
-6 November 2026 · Active editorial workflow · Θ and pairs 23–33 substantively reconciled; comprehensive outgoing handoff and literary work pending
+6 November 2026 · Θ and pairs 23–33 substantively reconciled; handoff prepared against `b1992e0`; literary drafting and later two-stage adoption remain.
 
 ## Author decision and division of work
 
@@ -159,3 +159,10 @@ The final numbered pair is substantively prepared. [Pair 33 brief](volume-3-draf
 ## Whole-volume reconciliation completed
 
 The current inventory and completion record supersede earlier pending review items for the substantive spine. Canonical additions connect Θ's purpose/design discipline to the later category-changing proposals; method recurrence now has deliberate teaching homes. The work index reflects current V3 titles and expanded scope. Existing projections and final literary elements remain reserved, and the old cumulative handoff is withheld until a fresh comprehensive package is requested. See the reconciliation audit for the scoped verification results.
+
+
+## Comprehensive handoff prepared — 6 November 2026
+
+Sam has now requested the outgoing single-document briefing. The [completed handoff](handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md) consolidates active decisions rather than appending the old planning files. It contains all 24 unit title triples, 22 numbered projection constructions plus Θ’s setup, historical and Gate anchors, project grounding, Volume II signals, Next Moves, Noēsis directions, remaining literary tasks and every entry of the principles/patterns catalogue. It explicitly retires the generic mentoring premise for pair 24 and keeps the economic pizza threshold in 2034.
+
+Sam’s newest instructions to Claude govern the specific Noēsis form. Optional Coda III, Opens after the pairs, and the Epilogue remain separate work. Manuscripts were not changed for this assembly. The author will transfer this handoff and supply one unit at a time; returned drafts later pass through the established two-stage adoption process. I5 remains the next unadopted V1 unit when that queue resumes.

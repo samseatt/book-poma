@@ -71,7 +71,8 @@
     "publishing_workflow_brief": "work/publish_process/Manuscript_Workflow_Brief.md",
     "volume_iii_principles_patterns": "work/VOLUME_III_PRINCIPLES_AND_PATTERNS.md",
     "volume_iii_whole_volume_reconciliation": "work/volume-3-drafting/whole-volume-reconciliation-2026-11-06.md",
-    "volume_iii_handoff_preparation": "work/handoffs/2026-11-06-v3-reconciliation-addendum.md"
+    "volume_iii_handoff_preparation": "work/handoffs/2026-11-06-v3-reconciliation-addendum.md",
+    "volume_iii_comprehensive_claude_handoff": "work/handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md"
   },
   "counts": {
     "main_manuscript_units": 120,
@@ -4301,9 +4302,19 @@
   },
   "volume_iii_whole_volume_reconciliation": {
     "date": "2026-11-06",
-    "status": "substantive-reconciliation-completed; literary-work-and-comprehensive-handoff-pending",
+    "status": "substantive-reconciliation-completed; comprehensive-handoff-prepared; literary-drafting-pending",
     "record": "work/volume-3-drafting/whole-volume-reconciliation-2026-11-06.md",
     "audit": "work/volume-3-drafting/whole-volume-reconciliation-audit-2026-11-06.json",
     "scope": "Theta and eleven numbered pairs; current numbering and historical anchors retained."
+  },
+  "volume_iii_claude_handoff": {
+    "date": "2026-11-06",
+    "status": "prepared-for-author-transfer; no-external-transfer-performed",
+    "document": "work/handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md",
+    "audit": "work/handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff-audit.json",
+    "substantive_source_revision": "b1992e0a80942b58d46f5ccc2e7d37253e866467",
+    "scope": "Theta and pairs 23–33; full 195-entry principles/patterns inventory; one supplied manuscript unit at a time.",
+    "canonical_manuscripts_changed_by_assembly": false,
+    "reserved_literary_work": "Assigned to Sam/Claude, not locked prose; latest author Noesis instructions control the meditation form."
   }
 }

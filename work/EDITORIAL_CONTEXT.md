@@ -2,9 +2,9 @@
 
 Recorded from the author's current Codex session on 2026-09-29. This supplements the inherited Volume III handoff. It does not replace the manuscripts, design packets, full style guide, or subsequent author instructions.
 
-**Current status, 5 November 2026:** [The latest intake and V3 alignment](handoffs/2026-11-05-codex-to-claude-v3-alignment.md) records the newly completed incoming V1/V2 drafts and the author’s prospective-reflection rule for V3 openings. Later dated decisions supersede historical workflow states below; incoming completion does not mean canonical adoption.
+**Current status, 6 November 2026:** Volume III substantive reconciliation is complete at `b1992e0`. The [comprehensive Claude handoff](handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md) is prepared for Sam to attach once, followed by one manuscript unit at a time. It supersedes the provisional alignment/addendum as active drafting instructions and embeds all 195 principles and patterns. No external transfer or publication occurred.
 
-**Current workflow, 5 November 2026:** Incoming-draft adoption is paused while Codex completes V3 substantively in canonical Markdown, using [the completion plan](VOLUME_III_COMPLETION_PLAN.md). The earlier Claude alignment brief is withheld until that pass finishes. Sam/Claude then handles the literary pass, prospective vignettes, Noēsis and Opens; returned revisions resume two-stage adoption. C5 is already adopted with Alice open; I5 is the next unadopted unit.
+**Current workflow:** Sam/Claude now handles final projections, personal voice and condensation, bridges, Noēsis, Opens and emotional closings. “Reserved literary work” means this assigned work, not a ban on changing the inherited wording. Sam’s latest Noēsis instructions in Claude control its form. Canonical manuscripts are unchanged by the handoff assembly; returned revisions resume two-stage adoption. The broader incoming-draft queue remains paused; C5 is adopted with Alice open, and I5 is the next unadopted V1 unit. Later dated decisions supersede historical states below.
 
 ## Scope and source status
 
@@ -579,3 +579,10 @@ The author has explicitly left room for Coda III with the final Erlkönig stanza
 Neusphere's unusual connections are substantive design material; test new arrangements rather than only improve compliance inside old categories. New emphasis includes double-loop reframing, useful composition, joint agency and shared inquiry, with repeatable building/operation and semantic/state migration. Protect strong machine capability without converting knowledge into automatic jurisdiction.
 
 The comprehensive Claude handoff is explicitly deferred, not released. See `work/handoffs/2026-11-06-v3-reconciliation-addendum.md` for internal preparation. Sam/Claude retain projections, personal voice, Noēsis, Opens and endings; annotations and old opening/closing banks are preserved. No optional Coda III, new naming/shuffle, publication or V1/V2 adoption was performed.
+
+
+## Single-document Claude commission — 6 November 2026
+
+The author requested a comprehensive, operational handoff rather than an archive bundle. It consolidates all current V3 unit briefs, projection constructions and their reasons, accepted chronology, titles, substantive twists, signal inheritance, Next Moves, project distinctions and the complete rules/patterns inventory. Claude should combine the proposed opening with Sam’s personalizations and valuable old prose, condense weak writing, preserve original humor and ideas, make mechanisms legible, integrate suitable patterns without duplicating incorporated content, and complete Noēsis according to the latest author direction. New personal facts and unsupported source details must not be invented. Final literary work is flexible; established history, source honesty and factual autobiography remain protected.
+
+The current package is [here](handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md); its [assembly audit](handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff-audit.json) records the unchanged 24-unit baseline and exact inventory preservation. This task created no manuscript revision, new Coda or publishing action.

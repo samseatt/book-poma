@@ -1,5 +1,7 @@
 # V3 reconciliation addendum — internal preparation
 
+> **Preparation record superseded for transfer.** Use [the comprehensive Claude handoff](2026-11-06-volume-iii-comprehensive-claude-handoff.md), now prepared at Sam’s request. This addendum records the earlier internal preparation; its pending-transfer statements are historical.
+
 6 November 2026. **Not the comprehensive outgoing Claude handoff.** Sam will request that package separately; no manuscript batch has been released by this update.
 
 The substantive baseline now covers Θ and pairs 23–33, including the whole-volume reconciliation. Use [the completion record](../volume-3-drafting/whole-volume-reconciliation-2026-11-06.md) and [the actionable principles/patterns inventory](../VOLUME_III_PRINCIPLES_AND_PATTERNS.md) to prepare the eventual handoff. They supersede older method proposals where the contents differ. The opportunity-signal and Next Move maps remain inputs; the actual canonical middles and later pair briefs govern the current argument.
