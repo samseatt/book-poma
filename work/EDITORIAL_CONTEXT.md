@@ -618,3 +618,10 @@ Follow B-047 and the amended ledger S004/S006. Sam's inside-view claim is ontolo
 ## Φ alikeness and head-count restoration — 14 November 2026
 
 Sam explicitly requests the full Fable-folder Ockham paragraph and alikeness parenthesis as Chapter 1 seeds. Both are now in canonical Φ verbatim; this supersedes the proposed local alikeness rewrite. Follow ledger S002/S003 for the precise speculative extensions and reasons, without turning the whole passages into disclaimers. AI-draft comments dated 12 November 2026 onward are an author-supplied clue to likely Fable additions, not proof of exact authorship. Other incoming changes and previously discussed prose repairs remain pending; this was a scoped restoration only.
+
+
+## Interlude Φ adopted; a substantive Hilbert wager — 14 November 2026
+
+The Fable-folder Interlude Φ is adopted with its new subtitle, five compact display equations, a grayscale Bayesian frequency diagram, local factual repairs and finalized source notes. The author expressly wants to investigate Hilbert structure as constrained prephysical possibility, with mathematics arising from stable restrictions. Do not reduce this to a merely decorative analogy or veto it for exceeding established physics. Keep a governing conjectural frame and precise factual supports; the formal embedding, measure, interference and physical implications remain open. See ledger S007/S008 and the [adoption notes](volume-1-drafting/phi-interlude-adoption-2026-11-14/ADOPTION_NOTES.md).
+
+The Cantor/Grim and shortest-description bridges remain. The cycle-line-graph fixed point supplies an approved Still Arrow seed. All childhood inquiry prose and the closing are preserved; broad trimming is reserved to Sam, with specific candidates in the notes and chat. Greek setup units have no Alice/Bob. The incoming source and other manuscripts are unchanged; this adoption does not finish separate pending Chapter Φ work or authorize publication.

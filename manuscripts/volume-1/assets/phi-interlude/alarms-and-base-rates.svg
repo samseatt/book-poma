@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="427" viewBox="0 0 1000 610" role="img" aria-labelledby="title desc">
+<title id="title">The alarm selects a new crowd</title>
+<desc id="desc">Of 10,000 machines, 100 are faulty and 9,900 healthy. The detector flags 90 faulty and 495 healthy machines, for a total of 585 alarms. Thus 15.4 percent of flagged machines have the fault. Ten faulty machines are missed, and 9,405 healthy machines remain unflagged. Box sizes do not represent population size.</desc>
+<rect width="1000" height="610" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#171717;text-anchor:middle} .title{font-size:28px;font-weight:700} .count{font-size:29px;font-weight:700} .label{font-size:23px} .small{font-size:21px;fill:#444} .edge{fill:none;stroke:#707070;stroke-width:2} .selected{fill:none;stroke:#222;stroke-width:2.6}</style>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#222" stroke-width="1.2"/></marker></defs>
+<text x="500" y="35" class="title">The alarm selects a new crowd</text>
+<path class="edge" d="M500 132 L250 180 M500 132 L750 180 M250 252 V300 H125 V315 M250 300 H375 V315 M750 252 V300 H625 V315 M750 300 H875 V315"/>
+<text x="345" y="157" class="small">1%</text><text x="655" y="157" class="small">99%</text>
+<text x="122" y="285" class="small">90% caught</text><text x="377" y="285" class="small">10% missed</text><text x="624" y="285" class="small">5% false alarms</text><text x="879" y="285" class="small">95% clear</text>
+
+<rect x="355" y="60" width="290" height="72" rx="5" fill="white" stroke="#888" stroke-width="1.5"/>
+<text x="500" y="91" class="count">10,000</text><text x="500" y="119" class="label">machines</text>
+<rect x="132.5" y="180" width="235" height="72" rx="5" fill="white" stroke="#888" stroke-width="1.5"/>
+<text x="250" y="211" class="count">100</text><text x="250" y="239" class="label">faulty</text>
+<rect x="632.5" y="180" width="235" height="72" rx="5" fill="white" stroke="#888" stroke-width="1.5"/>
+<text x="750" y="211" class="count">9,900</text><text x="750" y="239" class="label">healthy</text>
+<rect x="22.5" y="315" width="205" height="82" rx="5" fill="#e8e8e8" stroke="#222" stroke-width="2.6"/>
+<text x="125" y="346" class="count">90</text><text x="125" y="374" class="label">alarm</text>
+<rect x="272.5" y="315" width="205" height="82" rx="5" fill="white" stroke="#888" stroke-width="1.5"/>
+<text x="375" y="346" class="count">10</text><text x="375" y="374" class="label">no alarm</text>
+<rect x="522.5" y="315" width="205" height="82" rx="5" fill="#e8e8e8" stroke="#222" stroke-width="2.6"/>
+<text x="625" y="346" class="count">495</text><text x="625" y="374" class="label">alarm</text>
+<rect x="772.5" y="315" width="205" height="82" rx="5" fill="white" stroke="#888" stroke-width="1.5"/>
+<text x="875" y="346" class="count">9,405</text><text x="875" y="374" class="label">no alarm</text>
+<path class="selected" d="M125 397 V443 H500 M625 397 V443 H500 M500 443 V484" marker-end="url(#arrow)"/>
+<rect x="210" y="493" width="580" height="83" rx="5" fill="#f2f2f2" stroke="#222" stroke-width="2"/>
+<text x="500" y="525" class="count">585 alarms = 90 faulty + 495 healthy</text>
+<text x="500" y="557" class="label">Fault among alarms: 90 / 585 ≈ 15.4%</text>
+<text x="500" y="602" class="small">Illustrative counts; box sizes are not proportional.</text>
+</svg>

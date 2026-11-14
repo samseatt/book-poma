@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-14",
+  "unit_id": "v1-phi-interlude",
+  "stage": "2 — author-approved adoption",
+  "baseline_revision": "0999e13db29d903f21199ed8d7c365245993f1b4",
+  "inputs": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-interlude.md",
+      "sha256": "988a148ee91fc4a39e8b57afb37d93e8889dec7cac1127263bebbea80adfd9f7"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-interlude.md",
+      "sha256": "752ce100cd9df147a4e6538059b7f4b2f6f7dfe92407322fcd0c4d7a05fc5e60"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/interlude-phi.md",
+      "sha256": "50ce5002104f3a8daef7fdca3648b115d7ea8b9029e4347d8b03226d84e4434c"
+    }
+  ],
+  "output_sha256": "dee775ab997aa94fe875a9244dc30625a880e6ceb92f554f012846bc3a13c29a",
+  "figure_sha256": "db9d4985c7e89f35df444448847fb02044e16a535529f6d777b305b182b531f2",
+  "source_notes": [
+    {
+      "id": "v1-phi-i-sets",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Eric Lehman, F. Thomson Leighton and Albert R. Meyer, [_Mathematics for Computer Science_](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (6 June 2018), §§4.1 and 4.5, pp. 103–105, 115. The sets ∅ and {∅} contain zero and one members, respectively."
+    },
+    {
+      "id": "v1-phi-i-ordinals",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Johann von Neumann, [“Zur Einführung der transfiniten Zahlen”](https://acta.bibl.u-szeged.hu/13294/), _Acta Scientiarum Mathematicarum_ 1 (1923): 199–208, introduction and §1 ([transcription](https://bbi-math.narod.ru/newmann/newmann.html)). Numbers are represented by sets of predecessors within a specified mathematical framework, not derived from absolute nonexistence."
+    },
+    {
+      "id": "v1-phi-i-null",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "PostgreSQL Global Development Group, [“Comparison Functions and Operators,” PostgreSQL 18 documentation](https://www.postgresql.org/docs/18/functions-comparison.html), §9.2. Ordinary comparisons with NULL yield unknown; `IS NULL` tests for null directly."
+    },
+    {
+      "id": "v1-phi-i-structure",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Lehman, Leighton and Meyer, [_Mathematics for Computer Science_](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), §12.1, pp. 501–502, on vertices and edges in simple undirected graphs. The friendship network is an illustrative model."
+    },
+    {
+      "id": "v1-phi-i-linegraph",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "NetworkX Developers, [“line_graph”](https://networkx.org/documentation/stable/reference/generated/networkx.generators.line.line_graph.html), definition for undirected graphs (accessed 15 October 2026). Edges become vertices, adjacent when they share an endpoint. The four-spoke star therefore yields a complete four-vertex graph, while the line graph of a four-cycle is another four-cycle; the emergence interpretation is the author’s."
+    },
+    {
+      "id": "v1-phi-i-logic",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Lehman, Leighton and Meyer, [_Mathematics for Computer Science_](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), §1.4.1, p. 10, on modus ponens. The alarm example contrasts valid implication with affirming the consequent."
+    },
+    {
+      "id": "v1-phi-i-priority",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Isaac Newton, [statement of the dispute with Leibniz](https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00360), Cambridge University Library, MS Add. 3968, ff. 255r–256v, Newton Project transcription. This is a participant’s advocacy in the calculus priority dispute, not an impartial verdict."
+    },
+    {
+      "id": "v1-phi-i-calculus",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Silvanus P. Thompson, [_Calculus Made Easy_](https://www.gutenberg.org/cache/epub/33283/pg33283-images.html), 2nd ed. (Macmillan, 1914), chs. VIII and XVII–XIX. For one-dimensional motion, integrating velocity gives displacement; integrating speed gives distance travelled. An initial position fixes the integration constant."
+    },
+    {
+      "id": "v1-phi-i-bayes",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Thomas Bayes, [“An Essay towards solving a Problem in the Doctrine of Chances”](https://www2.isye.gatech.edu/isyebayes/bank/Bayesessay.pdf), communicated by Richard Price, _Philosophical Transactions_ 53 (1763): 370–418, §I, propositions 3–5. The invented detector example gives 90 true alarms and 495 false alarms: 90/585 ≈ 15.38%."
+    },
+    {
+      "id": "v1-phi-i-pvalues",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "American Statistical Association, [statement on statistical significance and p-values](https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf) (7 March 2016), principles 1–3 and 5: p-values do not give hypothesis probabilities, replace contextual judgment or measure effect size."
+    },
+    {
+      "id": "v1-phi-i-hilbert",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "John Preskill, [“Foundations I: States and Ensembles”](https://ilorentz.org/quantumcomputers/literature/preskill_2_update.pdf), _Quantum Information_, ch. 2 (July 2015), §§2.1–2.4.1; John von Neumann, [_Mathematical Foundations of Quantum Mechanics_](https://www.jstor.org/stable/j.ctt1wq8zhp) (German original 1932; trans. Robert T. Beyer, new ed. Nicholas A. Wheeler, Princeton University Press, 2018), ch. II. Normalized vectors represent pure states, with an overall phase making no physical difference; general states require density operators. Neither source establishes prephysical possibility space."
+    },
+    {
+      "id": "v1-phi-i-godel-coding",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Kurt Gödel, [“On Formally Undecidable Propositions of _Principia Mathematica_ and Related Systems I”](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf) (1931), trans. B. Meltzer (Oliver & Boyd, 1962), §§1–2, proposition VI. The prime-power coding is simplified; the self-reference concerns provability, not the liar paradox."
+    },
+    {
+      "id": "v1-phi-i-rosser",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "J. Barkley Rosser, [“Extensions of Some Theorems of Gödel and Church”](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/extensions-of-some-theorems-of-godel-and-church/0461E34DC1F219C459EE84CC2FA89068), _Journal of Symbolic Logic_ 1, no. 3 (1936): 87–91. Rosser replaces omega-consistency with ordinary consistency; effective axiomatization and sufficient arithmetic remain necessary."
+    },
+    {
+      "id": "v1-phi-i-godel-consistency",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "Gödel, [“On Formally Undecidable Propositions”](https://homepages.uc.edu/~martinj/History_of_Logic/Godel/Godel%20%E2%80%93%20On%20Formally%20Undecidable%20Propositions%20of%20Principia%20Mathematica%201931.pdf), §4, proposition XI; Solomon Feferman, [“The nature and significance of Gödel’s incompleteness theorems”](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf) (2006), pp. 9–10. The internal implication is from a formal consistency statement to the Gödel sentence, under the theorem’s conditions."
+    },
+    {
+      "id": "v1-phi-i-turing",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Alan M. Turing, [“On Computable Numbers, with an Application to the Entscheidungsproblem”](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf), _Proceedings of the London Mathematical Society_, ser. 2, 42 (1936–37): 230–265, §§1–2 and 6, on computing machines and the universal machine."
+    },
+    {
+      "id": "v1-phi-i-vonneumann",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "John von Neumann, [_First Draft of a Report on the EDVAC_](https://en.wikisource.org/wiki/Index:VN_First_Draft_Report_EDVAC_Moore_Sch_1945.pdf) (30 June 1945), §§2.4(b) and 2.5, pp. 4, 6: remembered instructions and a common memory organ. Authorship of the report does not imply sole invention of the architecture."
+    },
+    {
+      "id": "v1-phi-i-universality",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Oleg Mazonka and Alex Kolodin, [“A Simple Multi-Processor Computer Based on Subleq”](https://arxiv.org/abs/1106.2593) (2011), §2; Matthew Cook, [“Universality in Elementary Cellular Automata”](https://content.wolfram.com/sites/13/2023/02/15-1-1.pdf), _Complex Systems_ 15 (2004): 1–40, and [“A Concrete View of Rule 110 Computation”](https://arxiv.org/abs/0906.3248) (2009), abstract. SUBLEQ branches on a nonpositive result. Universality assumes unbounded resources; Cook’s construction uses specially arranged infinite backgrounds."
+    },
+    {
+      "id": "v1-phi-i-halting",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Turing, [“On Computable Numbers”](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf), §8, pp. 246–248. The interlude uses the modern halting-problem presentation of diagonalization; Turing’s original argument concerns circle-free machines."
+    },
+    {
+      "id": "v1-phi-i-metrology",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Joint Committee for Guides in Metrology, [_International Vocabulary of Metrology_ (VIM)](https://www.bipm.org/documents/20126/2071204/JCGM_200_2012.pdf), 3rd ed., JCGM 200:2012, entries 2.1, 2.3, 2.13, 2.15, 2.17, 2.26 and 2.39. Repetition alone need not expose a systematic measurement error."
+    },
+    {
+      "id": "v1-phi-i-decoherence",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Maximilian Schlosshauer, [“Decoherence, the measurement problem, and interpretations of quantum mechanics”](https://arxiv.org/abs/quant-ph/0312059), _Reviews of Modern Physics_ 76: 1267–1305 (published 2005), discussions of definite outcomes and the measurement problem. Suppression of interference does not by itself select a unique interpretation."
+    },
+    {
+      "id": "v1-phi-i-quantum-records",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Wojciech H. Zurek, [“Decoherence, einselection, and the quantum origins of the classical”](https://arxiv.org/abs/quant-ph/0105127), _Reviews of Modern Physics_ 75 (2003): 715–775, discussions of measurement correlations and “Events, Records, Histories.” A physical record need not be a conscious experience."
+    },
+    {
+      "id": "v1-phi-i-popper",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Karl R. Popper, [_Conjectures and Refutations_](https://www.inf.fu-berlin.de/lehre/SS06/materials/eng/PopperScience.pdf) (Routledge & Kegan Paul, 1963), ch. 1, §I, conclusions 1–7. The linked excerpt gives his falsifiability criterion, one influential account of scientific testing."
+    },
+    {
+      "id": "v1-phi-i-duhem",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Pierre Duhem, [_The Aim and Structure of Physical Theory_](https://thehangedman.com/teaching-files/hps/duhem.pdf), trans. Philip P. Wiener (Princeton University Press, 1954; French original 1906), part II, ch. VI, §2. The beam example applies Duhem’s argument that experiments test connected assumptions."
+    },
+    {
+      "id": "v1-phi-i-reproduction",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "National Academies of Sciences, Engineering, and Medicine, [_Reproducibility and Replicability in Science_](https://www.nationalacademies.org/read/25303/chapter/6) (National Academies Press, 2019), ch. 3, “Understanding Reproducibility and Replicability.” This report distinguishes reuse of the same data and computational procedures from studies using new data; terminology varies across fields."
+    },
+    {
+      "id": "v1-phi-i-switching",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "George Boole, [_An Investigation of the Laws of Thought_](https://www.gutenberg.org/files/15114/15114-pdf.pdf) (1854), chs. II–III; Claude E. Shannon, [“A Symbolic Analysis of Relay and Switching Circuits”](https://tubes.mit.edu/6S917/_static/2025/resources/shannon38.pdf), _Transactions of the AIEE_ 57 (1938): 713–723, §§I–II. Here conduction represents true; Shannon’s hindrance notation assigns 0 to closed and 1 to open circuits."
+    },
+    {
+      "id": "v1-phi-i-learning-proof",
+      "status": "retained previously verified source note",
+      "basis": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json",
+      "definition": "Google DeepMind, [2024 IMO results](https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/) (25 July 2024), and Thang Luong and Edward Lockhart, [2025 IMO results](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) (21 July 2025). The teams report 28/42 for AlphaProof plus AlphaGeometry 2 and 35/42 for Gemini Deep Think. Formal proof checking and expert grading of natural-language solutions provide different warrants."
+    },
+    {
+      "id": "v1-phi-i-cantor",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "Patrick Grim, [“There Is No Set of All Truths”](https://pgrim.org/articles/analysis.pdf), *Analysis* 44, no. 4 (1984): 206–208; Alvin Plantinga and Patrick Grim, [“Truth, Omniscience, and Cantorian Arguments: An Exchange”](https://pgrim.org/pgrim/exchange.html), *Philosophical Studies* 71 (1993): 267–306, introduction and exchanges 1–2. Cantor's theorem concerns sets and their power sets. Grim extends it to truths and accounts of possible worlds; Plantinga contests the inference from no set of all truths to no unrestricted totality or knowledge of truths. The author's open-ended possibility reading goes beyond the set-theoretic theorem."
+    },
+    {
+      "id": "v1-phi-i-shortest",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "R. J. Solomonoff, [“A Formal Theory of Inductive Inference,” Part I](https://raysolomonoff.com/publications/1964pt1.pdf), *Information and Control* 7 (1964): 1–22, especially pp. 6–8; A. N. Kolmogorov, “Three Approaches to the Quantitative Definition of Information,” *Problems of Information Transmission* 1, no. 1 (1965): 1–7; G. J. Chaitin, [“On the Length of Programs for Computing Finite Binary Sequences”](https://doi.org/10.1145/321356.321363), *Journal of the ACM* 13, no. 4 (1966): 547–569. For the distinction between optimal description languages and computational universality alone, see Bruno Bauwens, Alexander Kozachinskiy and Alexander Shen, [“All Kolmogorov complexity functions are optimal, but are some more optimal?”](https://arxiv.org/abs/2506.16180) (2025), §§1–4 and 11. Here $K_U$ uses a fixed optimal prefix-free program language: no valid program is the prefix of another. The corresponding invariance result also holds for plain complexity. The bound does not select a unique physical probability measure."
+    },
+    {
+      "id": "v1-phi-i-modality",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "David J. Chalmers, [“The Nature of Epistemic Space”](https://consc.net/papers/espace.pdf), in *Epistemic Modality*, ed. Andy Egan and Brian Weatherson (Oxford University Press, 2011), author manuscript, §1 on epistemic possibilities and the distinction from metaphysical possibilities. The interlude uses “for all I know” for compatibility with a person's information, not for a new physical permission. Logical, physical and epistemic possibility cannot in general be arranged as three nested sets."
+    },
+    {
+      "id": "v1-phi-i-possibility-wager",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "This is the author's ontological conjecture, not a consequence of the Hilbert-space formalism. “Region” proposes a relation still to be defined; no ambient set, embedding or measure over unrestricted possibilities has been supplied. Quantum eigenstates are relative to observables, and entanglement belongs to composite systems, not to an undefined prephysical ensemble. A physical development would have to recover interference and Born probabilities, not only count short descriptions. “Standing wave” is the proposed structural image, not an assertion that all quantum states are stationary waves in spacetime."
+    },
+    {
+      "id": "v1-phi-i-radio",
+      "status": "verified/finalized in this integration",
+      "basis": "See ADOPTION_NOTES.md source audit; explicit author conjecture is attributed as such, not certified by a citation.",
+      "definition": "MIT OpenCourseWare, [“Amplitude and Phase: Second Order II”](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/9a13c527b5c320548abd88a7f06a7c0e_R_8beV_gXHc.pdf), *18.03SC Differential Equations* (2011), transcript pp. 3–4, on frequency response and radio selection; Ron Roscoe, [Laboratory 1](https://ocw.mit.edu/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/fd7e4c4fbc83426d65afa0e696f9a2c7_lab1.pdf), *6.101 Introductory Analog Electronics Laboratory* (22 January 2007), experiments 3–5 on AM detection, transmission and reception. The explanation describes a simple AM receiver; other broadcast modulation schemes recover their audio differently."
+    }
+  ],
+  "prior_note_count": 26,
+  "final_note_count": 31,
+  "unchanged_prior_notes": 22,
+  "validation": {
+    "status": "passed",
+    "protected_opening_verbatim": true,
+    "protected_closing_verbatim": true,
+    "incoming_comments_preserved": true,
+    "svg_visual_review": "passed after routing branch lines below labels; local Quick Look render inspected",
+    "equations": "5 display equations and inline mathematics rendered to MathML without errors in preliminary Pandoc proof",
+    "mathematics": "90+10=100;495+9405=9900;90+495=585;90/585=0.153846...;four-cycle line graph has four nodes of degree two;qubit amplitudes squared sum to one",
+    "publication": "not requested or performed",
+    "canonical_checker": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-interlude.md",
+      "sha256": "dee775ab997aa94fe875a9244dc30625a880e6ceb92f554f012846bc3a13c29a",
+      "defined_notes": 31,
+      "note_references": 31,
+      "parsed_notes": 31,
+      "html_note_backlinks": 31,
+      "display_equations": 5,
+      "bookwide_note_collisions": [],
+      "warnings": [
+        "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+      ],
+      "errors": [],
+      "passed": true
+    },
+    "mathml_expressions": 34,
+    "display_equations": 5,
+    "incoming_sources_unchanged": true,
+    "reviewed_diff": "Only the approved interlude, one original SVG, its manifest hash and editorial records; narrative blocks checked verbatim.",
+    "note_order_advisory": "Legal Markdown; visible note order follows first citation, not definition location."
+  }
+}
