@@ -613,3 +613,8 @@ Follow B-046 and `work/SPECULATION_LEDGER.md`. Sam intentionally sought a bolder
 ## Φ ontological scope and Greek setup sections — 14 November 2026
 
 Follow B-047 and the amended ledger S004/S006. Sam's inside-view claim is ontological: mathematics expresses the universe's consistencies, and doing metamathematics does not move the investigator outside the universe. Do not answer this merely by treating arithmetic as a formal discipline; preserve the author's proposed relation between mathematics and reality, while distinguishing it from what Gödel proves. The disputed outside-arithmetic wording and prediction argument predate the Fable folder; the alikeness parenthesis, Ockham paragraph and anthropic addition are new in that file. Exact model/author attribution is not established. Prediction/alikeness repairs are accepted in principle; the provenance result is returned before completing integration. **Greek-lettered chapters and interludes have no Alice/Bob sections.** The broader two-stage process, humor recovery, memoir protection and rigorous factual repair remain unchanged.
+
+
+## Φ alikeness and head-count restoration — 14 November 2026
+
+Sam explicitly requests the full Fable-folder Ockham paragraph and alikeness parenthesis as Chapter 1 seeds. Both are now in canonical Φ verbatim; this supersedes the proposed local alikeness rewrite. Follow ledger S002/S003 for the precise speculative extensions and reasons, without turning the whole passages into disclaimers. AI-draft comments dated 12 November 2026 onward are an author-supplied clue to likely Fable additions, not proof of exact authorship. Other incoming changes and previously discussed prose repairs remain pending; this was a scoped restoration only.

@@ -309,3 +309,10 @@ Added norms/expectations and sanctions, collective efficacy, complex contagion, 
 The [adoption record](../volume-1-drafting/chapter-05-adoption-2026-10-27/ADOPTION_NOTES.md) distinguishes completed work from the [Alice proposal](../volume-1-drafting/chapter-05-adoption-2026-10-27/ALICE_PROPOSAL.md). Alice’s incoming prose remains unchanged; repaired citations do not validate its whole-city consciousness/integration inference. The proposed direction separates connectedness, group agency and subjective experience, and investigates whether emergency cooperation can acquire durable, accountable obligations. The author’s stronger Φ-like human–agent integration idea, Neuma/MOxAIC-assisted scaling, and model-as-cage thread remain live research/design questions, allocated to I5, V3 and V2 respectively. No idea was discarded merely for being speculative.
 
 The incoming I5 Bob was read for allocation only. Its reliance on C5’s older enforcement-only explanation of the riot should be repaired in its own adoption. Incoming files, unrelated author changes and publishing infrastructure remain untouched. No publication was initiated.
+
+
+## V1-029 — Φ: restore the two Chapter 1 seeds
+
+**14 November 2026 — addressed, scoped adoption.** At Sam's explicit request, restored the full Fable-folder Ockham paragraph, including “head count,” and the alikeness parenthesis, verbatim. Retained the paragraph's original AI-draft date comments. Finalized its Ockham footnote against Sober's publisher excerpt, p. 5; preserved all 24 older source-note definitions. The [speculation ledger](../SPECULATION_LEDGER.md), S002/S003 and its restoration record, explains the established background, the specific speculative extensions and why they remain open.
+
+All six pre-existing author-edited passages remain untouched, as does the rest of the canonical text. Removing the two insertions and new note exactly recovers the pre-edit file. The active manifest hash is refreshed. This does not adopt the remainder of Fable's revision or perform the separately discussed prediction/Gödel repairs. It is not a publication request.

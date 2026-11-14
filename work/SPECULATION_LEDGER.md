@@ -30,19 +30,23 @@ Established knowledge should normally sit in the main exposition. Alice and Bob 
 
 **Kind and present standing:** organizing heuristic and candidate explanatory picture. The line graph is an established construction; the author's wider inference is not established merely by performing that construction. Anderson supplies a relevant account of levels, not a universal checklist for their emergence.
 
-**Next useful work:** distinguish a change in our representation from a change in the system's capacities; investigate which repetitions and transitions actually matter in different domains. Retain the alikeness direction. A local clarification can attach the water example to repeated water molecules without implying that a common temperature requires identical constituents. That repair would not rebut the wider idea.
+**Why the extension remains speculative:** repeated constituents and shared properties are ordinary physical facts, and the local example is a crowd of water molecules. The further proposal that alikeness supplies a general route from possibilities to physical reality, or a necessary/sufficient condition for emergence across domains, is not established by that example. It needs an account of the relevant sameness, interactions and transition. Counting things together is not itself a physical mechanism; systems with different constituents can also have a common temperature. This is a boundary on the generalization, not a reason to remove the parenthesis.
+
+**Next useful work:** distinguish a change in our representation from a change in the system's capacities; investigate which repetitions and transitions actually matter in different domains. At the author's explicit direction on 14 November, preserve the Fable alikeness parenthesis verbatim as a Chapter 1 seed. Its restoration supersedes the earlier proposed local rewrite; the larger argument will be assessed in Chapter 1.
 
 ## S003 Simplicity as a count over possibilities
 
-**Location:** incoming Chapter Φ, “Knowing What We Think We Know,” new Ockham paragraph ending “There, simplicity stops being a matter of taste and becomes a head count.” The paragraph points into the incoming Chapter 1 argument.
+**Location:** canonical Chapter Φ, “Knowing What We Think We Know,” restored Ockham paragraph ending “There, simplicity stops being a matter of taste and becomes a head count.” The paragraph points into the incoming Chapter 1 argument.
 
 **Wager and value:** investigate whether a preference for simpler explanations can be related to a weighting over possible worlds or descriptions, rather than remain solely a rule of methodological taste. This is central to the possibility-floor proposal.
 
 **Kind and present standing:** philosophical/physical proposal with a literature lineage, including Russell Standish's [“Why Occam's Razor”](https://arxiv.org/abs/physics/0001020). Standish's stated conclusion is conditional on an ensemble theory; the author's synthesis and extensions require their own argument.
 
+**Why the extension remains speculative:** Occam's razor is an established methodological principle, and formal description-weighting schemes can yield precise conditional results. The further claim that their counts or weights explain which physical reality obtains is a substantive proposal. Possibility alone supplies neither a unique probability measure nor a rule turning descriptions into actuality. The result depends on what is counted, how duplicates are handled, the encoding/weighting and observer selection; those assumptions must earn their role rather than be hidden in the word “count.” This does not make the whole Occam paragraph speculative: the wager is its promised Chapter 1 extension, not the historical introduction of the razor.
+
 **Next useful work:** specify what is counted, what makes descriptions equivalent, the weighting or measure, observer selection, and dependence on the descriptive language. Compare what the proposed count explains and where it fails. The latest Chapter 1 introduces recipes and weights, so the Φ callback has a substantive destination. Its complete assessment belongs to Chapter 1's later review.
 
-**Editorial treatment:** retain the bold “head count” formulation in Φ. “Chapter 1 will try to settle the bill” already establishes the exploratory stance. No repeated hedge is needed. Adopt the paragraph only in the approved second stage.
+**Editorial treatment:** retain the bold “head count” formulation in Φ. “Chapter 1 will try to settle the bill” already establishes the exploratory stance. No repeated hedge is needed. The author explicitly approved its restoration on 14 November 2026; the complete paragraph and its 13 November AI-draft comments are now in canonical Chapter Φ, unchanged.
 
 ## S004 Things and laws as expressions of relations
 
@@ -117,3 +121,14 @@ Root Claude input SHA256: `e8c1c29cdd595a7567e4bfb91b4cb26f73945780c6ff24fd9d7d8
 The author accepts targeted prediction and alikeness repairs in principle and requests this provenance check before the integration decision is completed. Since alikeness is a new Fable-folder addition, explicitly surface that fact rather than silently treating it as an older weakness. Preserve its role in the larger repetition/sameness conjecture. The new gravity/temperature-in-a-slab comment is a lead for the relevant later interlude review, not a verified claim added to Chapter Φ here.
 
 Manuscript adoption and prose repairs remain pending. This check changed only editorial records.
+
+
+## Scoped restoration — 14 November 2026
+
+The author requested the complete Ockham/head-count paragraph and the alikeness parenthesis from the Fable-folder source. Both are now restored verbatim in canonical Chapter Φ. This is a narrow adoption, not completion of the whole incoming revision: the anthropic addition and the separately discussed prediction/Gödel work remain outside this change. All pre-existing manuscript wording, including Sam's uncommitted edits, is byte-for-byte preserved. The earlier provenance table describes the pre-restoration comparison.
+
+S002 and S003 now explain exactly which extensions remain speculative and why; neither entry requires repeated disclaimers in the prose. The author identifies AI-draft markers dated 12 November 2026 or later as likely signs of Fable additions. Preserve those comments and use them as a provenance clue, not proof of exact model authorship.
+
+The new Ockham note was checked against Elliott Sober's _Ockham's Razors: A User's Manual_ (2015), [publisher's excerpt, p. 5](https://assets.cambridge.org/97811070/68490/excerpt/9781107068490_excerpt.pdf), accessed 14 November 2026 through the indexed publisher excerpt. The note retains the verified attribution distinction and replaces the incoming from-memory note; no unverified precise lifespan or John Punch attribution was adopted. “Oldest tie-breaker” is retained as literary phrasing, not a claim that this source establishes historical priority over every competing rule.
+
+Input hashes are unchanged from the comparison above. Canonical output SHA256: `eedad925a733e093aacf442630fe3d285610bb59dc6ca5521767aca76d3f600f`. Validation confirms that removing just the two insertions and the new source note recovers the complete pre-edit manuscript exactly. The read-only manuscript check passed with 25 definitions, 25 references and 25 rendered note backlinks, no collisions and no errors. All 24 older note definitions are unchanged. The definition-order advisory is harmless: Markdown renders note numbers in citation order.
