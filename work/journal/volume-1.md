@@ -332,3 +332,12 @@ No equation was added: the chapter needs the visual intuition here; Interlude Φ
 The author's correction to the Hilbert recommendation is implemented: the manuscript proposes quantum state-space structure as constrained possibility, rather than relegating the connection to a loose analogy. A concise footnote marks the outstanding formal/physical obligations, and ledger S008 records the full proposal and why it remains conjectural. Added the C4 line-graph fixed point as a Still Arrow seed, five equations and an original grayscale base-rate figure. Local repairs address calculus, Gödel's internal implication, quantum-state terminology, statistical wording and AM radio selection. References now have 31 matched stable note identities.
 
 [Adoption notes](../volume-1-drafting/phi-interlude-adoption-2026-11-14/ADOPTION_NOTES.md) record source scope, protected text and four concrete trimming candidates; [audit](../volume-1-drafting/phi-interlude-adoption-2026-11-14/audit.json) records hashes and verification. No broad trimming, other manuscript changes or publication. The read-only incoming drafts are unchanged.
+
+
+## V1-032 — Chapter 1 second integration, completed 14 November 2026
+
+Adopted the current Fable-folder chapter after approval of all seven step-one recommendations. The possibility/foundry argument remains in the main seam, with Alice's further wagers intact. Retained depth, all 18 display equations, personal scenes and coincidence precision. Repaired the algorithmic/brain comparison, energy/probability claims, gauge/global/Higgs distinctions and cosmological overclaims without substituting a conventional survey for the author's proposal.
+
+Two grayscale mechanism figures now accompany the text. All 75 reference definitions have an evidence record; previous verified checks are reused explicitly where appropriate. Speculation ledger S009–S013 adds energy/force, acknowledgment, cheap origins, minimal observer-compatible asymmetry and cross-domain foundry transfers; S003/S004/S008 are updated. Forward signposting is consolidated into one explicit map to Interludes 12–15 and Chapter 11.
+
+Details, source hashes, the exact Fable comparison, preservation checks and validation: [adoption notes](../volume-1-drafting/chapter-01-second-adoption-2026-11-14/ADOPTION_NOTES.md). No changes to read-only incoming sources or publishing infrastructure.

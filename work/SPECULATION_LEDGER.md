@@ -2,7 +2,7 @@
 
 Started 14 November 2026. This working ledger preserves the book's intellectual wagers for development, cross-volume connections and a later whole-book reckoning. A conjecture earns its place through the possibilities it opens and the argument it makes. Its entry here does not require weakening every sentence, moving it to Alice/Bob, or resolving it before the book can proceed.
 
-Current coverage is the Φ pair, including the adopted Interlude Φ and the incoming Chapter Φ revision. Other units will be added as reviewed; the older research drawers remain available for later backfill. This is not yet a complete inventory of the book.
+Current coverage is the Φ pair and the second integration of Chapter 1, including the adopted Fable-folder material. Other units will be added as reviewed; the older research drawers remain available for later backfill. This is not yet a complete inventory of the book.
 
 ## How the ledger is used
 
@@ -169,3 +169,74 @@ Input hashes are unchanged from the comparison above. Canonical output SHA256: `
 **S001:** Interlude Φ's existing registration/experience question remains intact and explicitly belongs to the author. The surrounding measurement/decoherence account does not assert that apparatus has sensations.
 
 **Adoption record:** [Interlude Φ second integration](volume-1-drafting/phi-interlude-adoption-2026-11-14/ADOPTION_NOTES.md). Childhood opening and closing are preserved; the substantive Hilbert instruction supersedes the initial recommendation to keep the two spaces merely separate. No Alice/Bob sections and no broad trimming were added.
+
+
+## Chapter 1 second-integration updates — 14 November 2026
+
+**S003 (head count):** the main chapter now retains the census wager with an explicit fixed optimal prefix-free decoder, finite-output semimeasure and coding-theorem comparison. This is established algorithmic mathematics; selecting it as physical typicality is not established. A different reference language changes weights by bounded factors, not necessarily negligible factors for a particular finite observer. Infinite worlds, noncomputable possibilities and observer conditioning still need definitions. Both fluctuated and grown copies receive the same compression rights. No synapse-count versus 800-bit-address victory survives. Useful next work is a common generative model and conditional predictions, not rhetoric about which route feels more economical.
+
+**S004 (laws/math from regularity):** graphene's emergent effective equations and gauge consistency offer mechanisms and constraints. They do not establish that mathematics only exists inside a universe or prove the absence of a prior mathematical substrate. That remains the author's ontological reversal; gauge redundancy is not a physical act of creation.
+
+**S008 (Hilbert/possibility):** the chapter preserves a proposed relation between quantum state spaces and constrained prephysical possibility, not an established identification. Complex amplitudes can cancel; positive recipe weights do not by themselves supply that structure or the Born rule. The author's four-line foundry passage remains unchanged.
+
+## S009 Energy and force as structure in possibility
+
+**Location:** Chapter 1, Alice's energy wager and “What a Thing Is.”
+
+**Strong proposal:** energy may express a feature of possibility and forces a bias within it, with particles and fields emerging as constrained recurring relations. This is an ontological inquiry, not merely a metaphor for a pre-existing physical field.
+
+**Support:** entropic elasticity; the canonical equilibrium relation between energy differences and log probability ratios; modular Hamiltonians/thermal time; phase evolution and energy; fixed-frequency photon-count bookkeeping.
+
+**Why speculative:** these mechanisms assume systems, ensembles, dynamics or scales. They do not derive energy's units, a Hamiltonian, temperature or forces from bare possibility. Equal position densities can have different phases and kinetic energies. The ring diagram makes that constraint concrete rather than dismissing the inquiry.
+
+**Next work:** define relational structure that distinguishes those phase states and recovers an energy generator with appropriate units and conservation conditions. Compare alternative dynamics before claiming uniqueness.
+
+## S010 Acknowledgment as the formation of reality
+
+**Location:** Chapter 1, Alice's third conjecture; “What a Thing Is.”
+
+**Strong proposal:** a mutually registering web of possibilities becomes what its participants encounter as real; sameness and broken sameness make persistent patterns possible.
+
+**Support:** quantum correlations, decoherence/record redundancy, and model-specific entanglement/geometry connections. Global symmetry breaking supplies propagation modes in precise physical settings.
+
+**Why speculative:** these are different mechanisms. Noise can excite resonances; interactions need not entangle every input state; redundant records do not prove an ultimate ontology. Entanglement's definition already assumes a composite state space. No theorem currently combines these into the proposed creation account.
+
+**Next work:** construct an explicit small model with stable records and a criterion for persistence, including noisy and non-entangling cases. Identify an outcome the combined proposal predicts beyond its separate physical ingredients.
+
+## S011 A cheap origin and a coherent continuation
+
+**Location:** Chapter 1, “The One Free Lunch,” “The Weave of Reality,” “The Cheap Engine,” and the final hiss reflection.
+
+**Strong proposal:** simple generative histories may explain why observers encounter sustained regularity, a smooth beginning and a vast ordered world, with long computation allowed by short descriptions.
+
+**Support:** algorithmic probability under specified conventions, Bennett's length/runtime distinction, Müller's conditional observer-state approach, and inflation as a compact physical mechanism for stretching suitable initial conditions.
+
+**Why speculative:** identical final brain states have identical shortest descriptions; a world history and its initial conditions cannot be free on only one side. Description complexity is not thermodynamic entropy. Inflation requires suitable fields and starts, does not prove a zero total energy, and does not yet resolve the initial entropy problem. Frautschi's gap analysis and measured red tilt cannot substitute for that derivation.
+
+**Next work:** compare conditional predictions and complete description costs under one measure, while keeping the physical population measure distinct. Test the proposed preference for a smooth observer-compatible origin against alternatives. State which observations could count against the wager.
+
+## S012 Minimal observer-compatible asymmetry
+
+**Location:** Chapter 1, the three-family wager and “Constants and Tightropes.”
+
+**Strong proposal:** use simple structure wherever possible and invoke anthropic filtering only where needed; apparently elaborate features may be minimal ways to permit observers.
+
+**Support:** three quark families permit the CKM CP phase; galaxy-formation constraints motivate Weinberg's cosmological-constant bound and subsequent observer-weighted models.
+
+**Why speculative:** other sectors can violate CP, observed CKM violation is insufficient for the baryon surplus, and different charge/theory assignments change consistency constraints. A bound is not an exact prediction; observer priors and what counts as life are substantive assumptions. Selecting a Higgs gauge convention supplies no physical anthropic choice.
+
+**Next work:** define the relevant competing theories and observer condition. Compare minimality in their descriptions rather than treating the observed Standard Model as the entire possibility inventory.
+
+## S013 The foundry pattern across domains
+
+**Location:** Chapter 1's four-line author passage and “sameness, spread wide, then struck” bridge; future biology, information, systems and design chapters.
+
+**Strong proposal:** recurring, mutually constraining relations and departures from symmetry may form a reusable way to understand or build realities, including credible social stories and technological worlds.
+
+**Support:** specific physical examples establish the usefulness of distinguishing laws, states, constraints, disturbances and emergent degrees of freedom. These can guide comparison across domains.
+
+**Why speculative:** a shared vocabulary does not establish a shared mechanism. Biological, social and computational patterns have different state spaces, conservation laws, agencies and selection pressures. Repetition alone need not create new capacity (see S002's cycle counterexample).
+
+**Next work:** for each transfer, name what repeats, what constrains, what changes and what new capacity follows. Preserve the author's philosophical offer while testing each proposed correspondence rather than proclaiming a universal theorem.
+
+**Adoption record:** [Chapter 1 second integration](volume-1-drafting/chapter-01-second-adoption-2026-11-14/ADOPTION_NOTES.md). The main chapter is permitted to carry the book's bold inquiry; Alice is reserved for the additional drop, not a container for every unsettled idea.

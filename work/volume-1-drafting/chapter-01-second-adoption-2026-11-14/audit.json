@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-14",
+  "unit_id": "v1-1-chapter",
+  "stage": "2 — author-approved second adoption",
+  "baseline_revision": "b5381360da229de6a0dba5db1f5ed4cd5e77f013",
+  "inputs": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-chapter.md",
+      "sha256": "37b9b4671e342b5d6aed5b000cc3be40748944641c4fc80e8e68fdfb4fddf54e"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/fable/01-chapter.md",
+      "sha256": "56e724f95fc3210eda8440781490fd0e7a501ab0c3ca2a640393e4d8d8488c99"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/chapter-1.md",
+      "sha256": "c39b54aee6bd8167ab09bf905c34f3ef2c0a23fd17733adb27d5f4688d71fca2"
+    }
+  ],
+  "output_sha256": "5a22771bffc267b88a6d41443ab3d20a6fbc844321f2630422ce638c9136a99a",
+  "body_word_counts_whitespace": {
+    "previous_canonical": 7364,
+    "incoming_fable": 11815,
+    "adopted": 12039
+  },
+  "note_counts": {
+    "previous": 54,
+    "adopted": 75,
+    "unchanged_previous_definitions": 53
+  },
+  "protected_passages": {
+    "## The First Circle": true,
+    "## Carbon and Company": true,
+    "## The Hiss": true,
+    "## To Carbon and Silicon": true,
+    "As in my real life": true,
+    "the only moron": true,
+    "For a lump of wet tissue, that is an ambitious hobby.": true,
+    "But possibility? That might be the only true free lunch. Yum.": true,
+    "* We begin with a fabric: a possibility field.": true,
+    "No quark has ever been seen alone.": true
+  },
+  "figures": [
+    {
+      "path": "manuscripts/volume-1/assets/01-chapter/symmetry-breaking.svg",
+      "sha256": "59686ca1915c94381a9b6a156378b2e2bf9f6b2ed8fda423dbb63133abf5a9ce",
+      "status": "grayscale vector; mathematical construction checked; PNG proof inspected"
+    },
+    {
+      "path": "manuscripts/volume-1/assets/01-chapter/phase-and-probability.svg",
+      "sha256": "ac79d18b95138ef44f8e22d32d7e54fe03a3973b0c9246e1aa0e4657f573ae6a",
+      "status": "grayscale vector; mathematical construction checked; PNG proof inspected"
+    }
+  ],
+  "validation": {
+    "status": "passed",
+    "display_equations_retained": 18,
+    "total_math_nodes_preliminary": 79,
+    "mathml_errors": 0,
+    "math_sheet_overflow": 0,
+    "visual_equation_review": "all 18 displayed equations inspected in browser proof",
+    "incoming_sources": "read-only, hashes unchanged",
+    "publication": "not performed",
+    "canonical_check": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-chapter.md",
+      "sha256": "5a22771bffc267b88a6d41443ab3d20a6fbc844321f2630422ce638c9136a99a",
+      "defined_notes": 75,
+      "note_references": 76,
+      "parsed_notes": 76,
+      "html_note_backlinks": 76,
+      "display_equations": 18,
+      "bookwide_note_collisions": [],
+      "warnings": [
+        "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+      ],
+      "errors": [],
+      "passed": true
+    },
+    "figure_context_proof": "Both figures load with captions; no MathML errors in full HTML proof. Small caption clearance repaired after inspection."
+  }
+}
