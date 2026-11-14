@@ -10,7 +10,7 @@ Preserve each idea's strongest intended claim, its location, what it contributes
 
 A later disposition may be a stronger formulation, a qualified claim, a rejected route, a research invitation, or an explicitly open question. The book's ending need not pretend to settle every entry. References establish the scope of existing work; no entry is certified as novel merely because the author or an LLM finds it unfamiliar.
 
-Established knowledge should normally sit in the main exposition. Alice and Bob should concentrate on further moves: an unusual synthesis, a new consequence, an invention, or a question the preceding exposition has not already answered. They are additional avenues for risk, not mandatory quarantine for every original thought. Chapter Φ is a setup chapter and does not need an Alice section added to satisfy this arrangement.
+Established knowledge should normally sit in the main exposition. Alice and Bob should concentrate on further moves: an unusual synthesis, a new consequence, an invention, or a question the preceding exposition has not already answered. They are additional avenues for risk, not mandatory quarantine for every original thought. The author confirms that **none of the Greek-lettered chapters or interludes has an Alice or Bob section**. This applies to Φ, Δ and Θ; the numbered units retain the established arrangement.
 
 ## S001 Physical registration as an ancestry of experience
 
@@ -54,6 +54,8 @@ Established knowledge should normally sit in the main exposition. Alice and Bob 
 
 **Next useful work:** clarify those claims and identify what relations presuppose; develop the links to energy, time, symmetry and the inside view in the units that own them. Protect the questions as questions worth pursuing, without requiring that established physics has already answered them.
 
+**Author clarification, 14 November 2026:** mathematics is proposed here as our inspection of the consistencies of nature, an expression/artifact of the universe rather than a prior rulebook the universe must obey. A metatheory is still something pursued within that universe. In the author's argument, treating preexisting mathematical laws as instructions for making reality risks introducing another watchmaker and an unexplained cost. This is the intended ontological wager, not a claim that formal metamathematics cannot be done. Whether any external standpoint is meaningful, or mathematics would apply there, remains part of the conjecture.
+
 ## S005 Nothing as an unearned default
 
 **Location:** Chapter Φ, “A Ladder of Nothings,” particularly “it treats nothing as the default and something as the surprise that needs explaining.” Present in both compared versions; the incoming observer-selection addition strengthens the passenger connection.
@@ -72,7 +74,7 @@ Established knowledge should normally sit in the main exposition. Alice and Bob 
 
 **Kind and present standing:** cross-domain analogy and method of inquiry. Gödel's formal results are factual supports with a specific scope. They do not establish that the basket predicament is mathematically identical or that arithmetic cannot be investigated from a metatheory. See the already used [Feferman account](https://math.stanford.edu/~feferman/papers/Godel-IAS.pdf).
 
-**Next useful work:** preserve the inside-view ambition while repairing the literal wording “We can't step outside arithmetic to vouch for it” and “made exact.” Explore what remains after distinguishing a formal proof of consistency from empirical access, philosophical justification and institutional assurance. A local correction to the theorem claim should not replace the author's larger question with a conventional moral.
+**Author clarification and next useful work, 14 November 2026:** “outside” concerns the universe and the framework of intelligibility available within it, rather than moving from one formal theory to another. A metatheory does not provide an extra-universal vantage point, so its availability does not answer the author's ontological proposal. Resolve any wording ambiguity by making that intended transition legible, preserving the argument that mathematics expresses natural consistency. Keep Gödel's precise theorem and the author's further inference distinguishable; the theorem alone does not prove that mathematics is a product of the universe. The earlier instruction to replace the wording simply on the ground that metatheories exist is superseded. No replacement sentence has been adopted.
 
 ## Existing inquiry material for later backfill
 
@@ -94,3 +96,24 @@ Repository baseline: `7835487f6ef2d70ab8ae45a899c8bf104d7350f8`.
 | `/Users/samseatt/projects/book_poma/sam/claude/fable/phi-chapter.md` | `54672d86ad46e4d6a1187a27035d8b76b4bd0aa44524df85df6f977e5af2849e` |
 
 The incoming chapter adds roughly 315 whitespace-separated words, retains the author's current anecdotes and jokes, and preserves all 24 existing note definitions. Its one additional Ockham note still needs final source/locator treatment in step two. No broader scientific clearance or complete-book novelty review is implied.
+
+
+## Chapter Φ passage provenance checked on 14 November 2026
+
+The comparison below records where wording is present, not who authored it. The root Claude file itself acknowledges an AI-assisted draft using Sam's Prologue, the original chapter and a Codex review; it does not identify an exact model. Its filesystem timestamp cannot establish first authorship. Git records the disputed inherited wording in the manuscript by commit `d56dd56` on 9 October 2026.
+
+| Passage | Root `claude/chapter-phi.md` | Current manuscript | `claude/fable/phi-chapter.md` |
+| --- | --- | --- | --- |
+| “We can't step outside arithmetic to vouch for it” | Present, line 168 | Present, line 161; also in `d56dd56` | Retained, line 165 |
+| Boy's predicament “made exact” | Present, line 150 | Present, line 143; also in `d56dd56` | Retained, line 147 |
+| Predictive model as a stopped clock until the mechanism is known | Present, line 86 | Present, line 83; also in `d56dd56` | Retained, line 83 |
+| Only mechanism tells when confidence expires | Present in slightly different wording, line 92 | Present, line 89; also in `d56dd56` | Retained, line 89 |
+| “A crowd of the same kind of thing” parenthesis | Absent | Absent | Added, line 125 |
+| Ockham paragraph ending in “head count” | Absent | Absent | Added, line 92 |
+| “the seat does some choosing” anthropic addition | Absent | Absent | Added, line 165 |
+
+Root Claude input SHA256: `e8c1c29cdd595a7567e4bfb91b4cb26f73945780c6ff24fd9d7d81348290ddb0`. The other input hashes remain those recorded above. The earlier 4 October Codex review does not contain the disputed outside-arithmetic sentence or stopped-clock prediction argument; this does not establish which contributor later authored them.
+
+The author accepts targeted prediction and alikeness repairs in principle and requests this provenance check before the integration decision is completed. Since alikeness is a new Fable-folder addition, explicitly surface that fact rather than silently treating it as an older weakness. Preserve its role in the larger repetition/sameness conjecture. The new gravity/temperature-in-a-slab comment is a lead for the relevant later interlude review, not a verified claim added to Chapter Φ here.
+
+Manuscript adoption and prose repairs remain pending. This check changed only editorial records.
