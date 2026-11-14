@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="322" viewBox="0 0 1000 460" role="img" aria-labelledby="title desc">
+  <title id="title">When connections become things</title>
+  <desc id="desc">Two graphs represent the same road network. On the left, five junctions are connected by four roads labelled a, b, c and d. Roads a, b and c share one junction; c and d share another. On the right, each road is a node. The nodes a, b and c form a triangle, with d connected only to c. This is the line graph of the first network.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #1b1b1b; }
+    .title { font-size: 32px; font-weight: 700; }
+    .heading { font-size: 25px; font-weight: 700; }
+    .key { font-size: 23px; }
+    .road { font-family: Georgia, 'Times New Roman', serif; font-size: 31px; font-style: italic; }
+    .edge { stroke: #363636; stroke-width: 3.5; fill: none; }
+    .junction { fill: #1b1b1b; stroke: #fff; stroke-width: 2; }
+    .roadnode { fill: #fff; stroke: #1b1b1b; stroke-width: 3; }
+  </style>
+  <rect width="1000" height="460" fill="#fff"/>
+  <text x="28" y="44" class="title">When connections become things</text>
+  <rect x="28" y="75" width="405" height="355" rx="8" fill="#fafafa" stroke="#b5b5b5" stroke-width="1.5"/>
+  <rect x="567" y="75" width="405" height="355" rx="8" fill="#fafafa" stroke="#b5b5b5" stroke-width="1.5"/>
+  <text x="230" y="113" class="heading" text-anchor="middle">Places joined by roads</text>
+  <text x="769" y="113" class="heading" text-anchor="middle">Roads joined by places</text>
+
+  <!-- Original graph: a=AB, b=BC, c=BD, d=DE. -->
+  <g id="original-edges">
+    <path class="edge" data-road="a" d="M65 235 L190 235"/>
+    <path class="edge" data-road="b" d="M190 235 L315 155"/>
+    <path class="edge" data-road="c" d="M190 235 L315 315"/>
+    <path class="edge" data-road="d" d="M315 315 L405 315"/>
+  </g>
+  <g id="original-nodes">
+    <circle class="junction" data-node="A" cx="65" cy="235" r="8"/>
+    <circle class="junction" data-node="B" cx="190" cy="235" r="8"/>
+    <circle class="junction" data-node="C" cx="315" cy="155" r="8"/>
+    <circle class="junction" data-node="D" cx="315" cy="315" r="8"/>
+    <circle class="junction" data-node="E" cx="405" cy="315" r="8"/>
+  </g>
+  <text x="127" y="218" class="road" text-anchor="middle">a</text>
+  <text x="245" y="178" class="road" text-anchor="middle">b</text>
+  <text x="241" y="307" class="road" text-anchor="middle">c</text>
+  <text x="361" y="298" class="road" text-anchor="middle">d</text>
+  <text x="50" y="378" class="key">Dots: junctions</text>
+  <text x="50" y="408" class="key">Lines: roads</text>
+
+  <path d="M455 235 H539" fill="none" stroke="#333" stroke-width="2.5"/>
+  <path d="M532 227 L544 235 L532 243" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- Line graph adjacency is defined by shared endpoints on the left. -->
+  <g id="line-edges">
+    <path class="edge" data-pair="a b" d="M635 166 L833 166"/>
+    <path class="edge" data-pair="a c" d="M635 166 L734 306"/>
+    <path class="edge" data-pair="b c" d="M833 166 L734 306"/>
+    <path class="edge" data-pair="c d" d="M734 306 L918 306"/>
+  </g>
+  <g id="line-nodes">
+    <circle class="roadnode" data-node="a" cx="635" cy="166" r="24"/>
+    <circle class="roadnode" data-node="b" cx="833" cy="166" r="24"/>
+    <circle class="roadnode" data-node="c" cx="734" cy="306" r="24"/>
+    <circle class="roadnode" data-node="d" cx="918" cy="306" r="24"/>
+  </g>
+  <text x="635" y="176" class="road" text-anchor="middle">a</text>
+  <text x="833" y="176" class="road" text-anchor="middle">b</text>
+  <text x="734" y="316" class="road" text-anchor="middle">c</text>
+  <text x="918" y="316" class="road" text-anchor="middle">d</text>
+  <text x="589" y="378" class="key">Dots: roads</text>
+  <text x="589" y="408" class="key">Lines: a shared junction</text>
+</svg>

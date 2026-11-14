@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-14",
+  "unit_id": "v1-phi-chapter",
+  "scope": "Add one original grayscale line-graph illustration, caption and source note; preserve all prior manuscript content.",
+  "input_sha256": "eedad925a733e093aacf442630fe3d285610bb59dc6ca5521767aca76d3f600f",
+  "output_sha256": "c71fd432cc4f9643cde65784d6da2f3f13280a9ea60380e48b66be79b987f18c",
+  "asset": "manuscripts/volume-1/assets/phi-chapter/relations-become-nodes.svg",
+  "asset_sha256": "45ea87885afcdda1b146edfe8e0878a641cfe589a438d95f4c296b012fbb2af4",
+  "source": {
+    "url": "https://networkx.org/documentation/stable/reference/generated/networkx.generators.line.line_graph.html",
+    "locator": "Definition of the undirected line graph; Notes, Self-loops in undirected graphs",
+    "accessed": "2026-11-14"
+  },
+  "graph_check": {
+    "roads": {
+      "a": [
+        "A",
+        "B"
+      ],
+      "b": [
+        "B",
+        "C"
+      ],
+      "c": [
+        "B",
+        "D"
+      ],
+      "d": [
+        "D",
+        "E"
+      ]
+    },
+    "derived_adjacencies": [
+      [
+        "a",
+        "b"
+      ],
+      [
+        "a",
+        "c"
+      ],
+      [
+        "b",
+        "c"
+      ],
+      [
+        "c",
+        "d"
+      ]
+    ],
+    "svg_adjacencies_match": true
+  },
+  "prior_content_recovered_exactly_by_removing_additions": true,
+  "visual_review": "Compact SVG rendered locally and inspected: all four road labels, five junctions, four derived nodes, four derived edges, headings, legends and arrow visible and legible; grayscale only.",
+  "manuscript_check": {
+    "passed": true,
+    "notes": 26,
+    "references": 26,
+    "rendered_backlinks": 26,
+    "collisions": [],
+    "errors": [],
+    "advisory": "Source definitions not in first-use order; valid Markdown; display numbering follows citations."
+  },
+  "figure_parse": {
+    "image_count": 1,
+    "figure_id": "fig-v1-phi-c-relations",
+    "width": "90%",
+    "caption_and_accessible_description": true
+  }
+}
