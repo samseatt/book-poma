@@ -38,6 +38,12 @@ Memoir details remain the author's recollection, not externally authenticated hi
 
 ## Artwork and handoff
 
-Generated with the built-in image-generation tool using the old illustration as style reference; inspected at full size and to be checked in the small printed placement. The prompt and file hashes are in `audit.json`. The original round asset remains in Git history. The source of the generated file remains in the tool's output directory; the canonical copy is inside the repository.
+Generated with the built-in image-generation tool using the old illustration as style reference; inspected at full size and at its small placement in the actual-source print specimen. The deep rectangular shape and central handle remain legible at icon size. The prompt and file hashes are in `audit.json`. The original round asset remains in Git history. The source of the generated file remains in the tool's output directory; the canonical copy is inside the repository.
 
 Publisher task: `DEVOPS - Cloudflare Publisher`, `01a08884-7b6d-70e1-971e-fb2a4af80b69` (local). See P-007 for status. Source and publisher commits are separate; no deployment is authorized.
+
+## Local publication proof
+
+The editorial adoption is committed as `f32dfe1`. The Publisher rendered the actual committed Prologue to HTML and to an isolated PDF using the production opening treatment. The editor independently inspected both story pages: the basket, epigraph and opening fit on recto iii; “The basket was still there.” closes that page, and “That boy was me.” opens verso iv. The final sentence is intact. HTML retains the intended order and an invisible native page-break element; editorial comments do not become visible. This is a local specimen, not a newly published or fully rebuilt book. Publisher implementation completion is tracked in P-007.
+
+Publisher completion commit: `22df859` — `Harden Prologue print transformation`. All 11 automated publishing tests pass. Publisher also rebuilt the complete existing Volume I layout (408 pages); the editor independently inspected physical pages 7–8, printed pages 1–2. The scene fits on recto 1 and the reveal begins verso 2. Geometry, recto, Open and pagination checks passed. Full synchronization remains blocked by seven unrelated missing Volume III SVGs, so Publisher inserted only the exact committed Prologue and basket into the existing ignored generated tree and used `--skip-sync`. This proves the Prologue in the full book layout without claiming that every other current manuscript was freshly synchronized. No push or deployment.

@@ -356,8 +356,10 @@ Compared current Fable Chapter 1 with canonical by contents: all body text/comme
 
 ## V1-035 — Prologue: approved Fable adoption
 
-**15 November 2026 — editorial adoption addressed; Publisher layout validation in progress.** Accepted Fable's clearer opening, “sameness,” removal of the extra explanation about familiarity, and the closing basket callback. Restored the single word “recorded” in the experiential Big Bang passage. Personal details, their uncertainty, the Ark/Matryoshka/turtles imagery and the exact final sentence remain. All four incoming HTML comments survive.
+**15 November 2026 — editorial adoption and Publisher layout validation completed locally.** Accepted Fable's clearer opening, “sameness,” removal of the extra explanation about familiarity, and the closing basket callback. Restored the single word “recorded” in the experiential Big Bang passage. Personal details, their uncertainty, the Ark/Matryoshka/turtles imagery and the exact final sentence remain. All four incoming HTML comments survive.
 
 Replaced the old round basket icon with the author-requested deep rectangular basket and one central arched handle across the short span. The native Quarto `{{< pagebreak >}}` now precedes “That boy was me.” The German epigraph has a verified source bookmark; the English wording remains as supplied, with its exact translation provenance unresolved in the record. No new private detail or explanatory philosophy was added.
 
 [Adoption record and A–D change log](../volume-1-drafting/prologue-adoption-2026-11-15/ADOPTION_NOTES.md). The old `[[PUB: PAGE-BREAK]]` annotation is preserved there verbatim with its anchor before replacement. Source copies under `book_poma` remain unchanged. Publisher coordination and actual render results belong to P-007; no online publication is requested.
+
+Editorial adoption commit: `f32dfe1`; separate Publisher fix: `22df859`. The opening/reveal page turn was visually verified in both the isolated specimen and the full Volume I print layout. See P-007 for test results and the unrelated all-volume synchronization limitation. No publication occurred.

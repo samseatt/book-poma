@@ -53,7 +53,45 @@
     "ending_exact": true,
     "incoming_comments_all_preserved": true,
     "asset_full_size_inspected": true,
-    "small_print_placement": "pending Publisher proof",
-    "publication": "not requested or performed"
-  }
+    "small_print_placement": "passed: editor visually inspected actual-source PDF pages 3 and 4, recto iii and verso iv",
+    "publication": "not requested or performed",
+    "html_pagebreak": "passed: native invisible page-break element, comments not visible, correct scene/reveal order",
+    "print_page_turn": "passed in isolated production-style specimen: opening ends on recto iii, reveal starts following verso iv",
+    "proof_scope": "Actual committed Prologue f32dfe1 with current basket and source note; isolated HTML/PDF specimen, not a complete volume rebuild",
+    "proof_files": [
+      {
+        "path": "/tmp/poma-prologue-qa/pdf/_book/prologue-validation.pdf",
+        "sha256": "3e86b3d5feb1f5a4a6fcb097cd2c794def227314be0c462da4516ee868ef6077"
+      },
+      {
+        "path": "/tmp/poma-prologue-qa/html/_book/prologue.html",
+        "sha256": "3b115152d39f2c99d73b7f54c9ec46e146639dc5469a9d8242ca796904560da9"
+      },
+      {
+        "path": "/Users/samseatt/projects/book-poma/quarto/output/pdf/poma-volume-1-interior.pdf",
+        "sha256": "6c369ce56c57619a2474fc9f43ea0ff4e55122a7bd3ab5be13713e64dd02b22e"
+      },
+      {
+        "path": "/Users/samseatt/projects/book-poma/quarto/output/pdf/poma-volume-1-home-letter.pdf",
+        "sha256": "02243d8f06f7dde6e1b6f240fe9d449ac7b3635713299afec107dd6265e89c83"
+      }
+    ],
+    "full_volume_1": {
+      "pages": 408,
+      "prologue_physical_pages": [
+        7,
+        8
+      ],
+      "prologue_printed_pages": [
+        1,
+        2
+      ],
+      "editor_visually_inspected": true,
+      "publisher_checks": "geometry, recto, Open, pagination passed; all 11 publishing tests passed",
+      "scope": "Exact committed Prologue and basket staged into existing ignored generated content; full Volume I rendered with --skip-sync",
+      "limitation": "Full all-volume synchronization safely blocked by seven unrelated missing Volume III SVGs; no unrelated manuscript repairs attempted"
+    }
+  },
+  "editorial_commit": "f32dfe1",
+  "publisher_commit": "22df859"
 }
