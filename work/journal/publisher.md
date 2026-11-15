@@ -146,3 +146,7 @@ For the next author-requested publishing pass:
 - The inherited English Rilke closing gloss remains unassigned to a translator. Resolve its provenance or obtain an author-approved fresh rendering in the final publication pass; this is not an instruction to silently rewrite it. The editorial source comment records the outstanding item.
 
 No Quarto script/configuration or generated publication was edited here; no other chat was contacted, pushed or deployed. Existing unrelated missing Volume III assets remain outside this merge.
+
+## P-014 — Revised Overtures II and III: later layout verification
+
+**15 November 2026 — editorial record only; no publishing request sent.** Both canonical overtures now adopt Fable. Overture II retains the incoming page-break comment before “That man was me” and uses native `{{< pagebreak >}}`, following P-007; confirm the break in the next authorized Volume II print build. Both overtures now have leading provenance comments and note-bearing Camus epigraphs; Overture III also has a Persian-couplet source note. Check named-opening parsing and footnote handling against these actual sources. Overture III intentionally has a soft recognition: no new page break or concealment of earlier first-person cues. Existing images remain unchanged. Manuscript-level validation is recorded in the [adoption notes](../overture-drafting/overtures-ii-iii-adoption-2026-11-15/ADOPTION_NOTES.md); no Quarto infrastructure, generated content or deployment changed.

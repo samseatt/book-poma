@@ -1351,7 +1351,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/overture.md",
-        "sha256": "ce7b5bed79bd4349febeb81b7ea94fa4512d61d2b11e5fe0eb01ecbd29ee8f01"
+        "sha256": "35f962b16adf25470bfd555d0166ea89a4f8f3ba9f5b9ce9fff7cc9862f06100"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 -o Overture v2.docx",
       "source_sha256_at_inventory": "ebcb80c9c3c3b1d9e3696bf958a48c571d50765b9cca88c15083719d945f69b4",
@@ -2485,7 +2485,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/overture.md",
-        "sha256": "ec86df4035868bd22e705003c550960cf41171793de9d5b51ba3c7e358c9f72c"
+        "sha256": "2cdfd90669edc803d330643860ce2086aed914b774ec23f76c530aea2d5262b8"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 -o Overture v3.docx",
       "source_sha256_at_inventory": "a31c26e5661a889a4238d77269e280c8a3afb73b5b79915e2bba182e27820d51",
