@@ -1,11 +1,14 @@
 """Generate the Chapter 1 scalar-potential diagram as an editable grayscale SVG.
 The dimensionless potential is V(r)=(r*r-1)**2-1: mu^2=2, lambda=1.
 No spatial coordinates or literal Standard Model Higgs manifold are plotted.
-Run with an optional output path; uses Python's standard library only.
+Historical initial version, superseded by the author-supplied review SVG.
+Run with an explicit scratch output path; uses Python's standard library only.
 """
 from pathlib import Path
 import math,sys
-out=Path(sys.argv[1]) if len(sys.argv)>1 else Path(__file__).resolve().parents[3] / 'manuscripts/volume-1/assets/01-chapter/symmetry-breaking.svg'
+if len(sys.argv) != 2:
+    raise SystemExit('Historical original figure: supply an explicit scratch output path. The canonical SVG has since been revised.')
+out=Path(sys.argv[1])
 s=['''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="504" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
 <title id="title">One symmetric potential, two kinds of disturbance</title>
 <desc id="desc">For a two-component scalar field, a circle of minima surrounds an unstable central maximum. A chosen vacuum lies on the circle. A radial displacement raises potential energy; a uniform rotation along the circle does not. A cross-section shows the same central hill and two valley intersections. Spatial gradients of orientation still cost energy.</desc>

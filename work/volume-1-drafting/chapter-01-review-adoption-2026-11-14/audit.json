@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-14",
+  "base_commit": "206f2616aef854fa02f7ff7a1089fe8579eaccab",
+  "inputs_sha256": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-chapter.md": "5a22771bffc267b88a6d41443ab3d20a6fbc844321f2630422ce638c9136a99a",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/01-chapter/symmetry-breaking.svg": "59686ca1915c94381a9b6a156378b2e2bf9f6b2ed8fda423dbb63133abf5a9ce",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/01-chapter/phase-and-probability.svg": "ac79d18b95138ef44f8e22d32d7e54fe03a3973b0c9246e1aa0e4657f573ae6a",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/01-chapter.md": "6006c48f2f2476e29b794768f19856d6d0f13ce559a65debba855408916dd9f4",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/symmetry-breaking.svg": "56e9128944b7904611856bebb7e0c875972297eebea57a85144cad695ef0f990",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/01-chapter-review-notes.md": "8fa7639898d86cc80c5aa238e091f6a800e0bbf086d39780f1d2320c0357c6b2"
+  },
+  "canonical_sha256": "1391bd898dc98a842e4617ab18e6cf2489ae2011ace4e27b542af10018756814",
+  "symmetry_sha256": "56e9128944b7904611856bebb7e0c875972297eebea57a85144cad695ef0f990",
+  "phase_sha256": "ac79d18b95138ef44f8e22d32d7e54fe03a3973b0c9246e1aa0e4657f573ae6a",
+  "preservation": {
+    "body_except_footnote_definitions_identical_to_incoming": true,
+    "incoming_comments_retained": true,
+    "overlap_comments": 7,
+    "symmetry_exact_copy": true,
+    "phase_unchanged": true
+  },
+  "prior_reference_audit": "../chapter-01-second-adoption-2026-11-14/source-audit.json",
+  "new_reference_checks": [
+    {
+      "note": "v1-c1-stability",
+      "url": "https://www.ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/bf207c35150e1f5d93ef05d4664f406d_MIT8_06S18ch3.pdf",
+      "support": "Zwiebach §3.5, eqs. 3.5.10–11, pp. 68–69: barrier-, mass- and energy-dependent WKB transmission. This is not a calculation for an actual cup; that limit is explicit."
+    },
+    {
+      "note": "v1-c1-sameness",
+      "url": "https://physics.nist.gov/Pubs/AtSpec/node20.html",
+      "support": "NIST spectral line broadening: finite line widths, Doppler and pressure mechanisms."
+    },
+    {
+      "note": "v1-c1-sameness",
+      "url": "https://physics.nist.gov/PhysRefData/ASD/Html/lineshelp.html",
+      "support": "NIST ASD Transition Type includes two-photon transitions, showing that the single-photon image is limited."
+    }
+  ],
+  "validation": {
+    "status": "passed",
+    "canonical_check": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-chapter.md",
+      "sha256": "1391bd898dc98a842e4617ab18e6cf2489ae2011ace4e27b542af10018756814",
+      "defined_notes": 75,
+      "note_references": 76,
+      "parsed_notes": 76,
+      "html_note_backlinks": 76,
+      "display_equations": 18,
+      "bookwide_note_collisions": [],
+      "warnings": [
+        "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+      ],
+      "errors": [],
+      "passed": true
+    },
+    "comment_format_checks": {
+      "overlap": {
+        "present_in_canonical": true,
+        "absent_from_visible_html": true,
+        "absent_from_latex": true
+      },
+      "ai_provenance": {
+        "present_in_canonical": true,
+        "absent_from_visible_html": true,
+        "absent_from_latex": true
+      },
+      "internal_audit": {
+        "present_in_canonical": true,
+        "absent_from_visible_html": true,
+        "absent_from_latex": true
+      }
+    },
+    "only_two_footnote_lines_differ_from_incoming": true,
+    "symmetry_visual_check": "Incoming SVG rendered at 2x and inspected; all revised labels and arrows legible, no clipping. Exact bytes copied.",
+    "publication": "not performed; format checks are local Pandoc intermediaries, not a full production build."
+  }
+}

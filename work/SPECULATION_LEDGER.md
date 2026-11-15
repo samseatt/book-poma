@@ -240,3 +240,17 @@ Input hashes are unchanged from the comparison above. Canonical output SHA256: `
 **Next work:** for each transfer, name what repeats, what constrains, what changes and what new capacity follows. Preserve the author's philosophical offer while testing each proposed correspondence rather than proclaiming a universal theorem.
 
 **Adoption record:** [Chapter 1 second integration](volume-1-drafting/chapter-01-second-adoption-2026-11-14/ADOPTION_NOTES.md). The main chapter is permitted to carry the book's bold inquiry; Alice is reserved for the additional drop, not a container for every unsettled idea.
+
+## S014 Time as spending the gap
+
+**Location:** Chapter 1, “My reading is that this gap is what we spend when we say time passes,” restored from the Fable review on 14 November 2026. Interlude 12 is the intended development site. Related: S009 and S011.
+
+**Author's proposal:** the cosmological room for further entropy production is more than an opportunity for processes within already-given time; spending those available differences may help explain what passage itself amounts to. Retain this stronger interpretation rather than quietly replacing it with the orthodox observation that nonequilibrium processes occur in time.
+
+**Established foothold:** Frautschi analyzes entropy production and a growing gap from an estimated maximum in specified expanding cosmologies. Nonequilibrium differences can sustain irreversible activity. Connes–Rovelli thermal time supplies a distinct attempt to associate time flow with statistical states; it is not a derivation of this proposal.
+
+**Why still speculative:** entropy difference has neither the units nor a universal rate of elapsed time. A global maximum and its accessible states depend on the cosmology, gravity, horizon and boundary assumptions. A globally increasing gap can coexist with locally consumed gradients; “spending” must distinguish these. The interpretation has not derived proper time, relativistic clock comparisons, reversible dynamics, or the initially low gravitational entropy. Frautschi's result alone proves none of those identifications.
+
+**Next work in Interlude 12:** specify the gap and the system to which it belongs; distinguish duration, the arrow of time and time's proposed origin. Explore a mapping to clock relations and cases with equal entropy changes but different durations, rather than assuming a universal entropy clock. Address the restored Penrose reminder alongside the cheap-origin wager without claiming that one already solves the other. Preserve the line as an offered thesis; the ledger is not an instruction to hedge every sentence.
+
+**Related review update to S003:** the head-count explanation has been restored before the prefix-free formula. It is an intuition within the chosen coding/counting convention, not an unqualified count of all infinitely many worlds. The existing measure, observer-conditioning and language-dependence obligations remain; the restoration does not revoke them.

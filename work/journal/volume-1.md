@@ -341,3 +341,9 @@ Adopted the current Fable-folder chapter after approval of all seven step-one re
 Two grayscale mechanism figures now accompany the text. All 75 reference definitions have an evidence record; previous verified checks are reused explicitly where appropriate. Speculation ledger S009–S013 adds energy/force, acknowledgment, cheap origins, minimal observer-compatible asymmetry and cross-domain foundry transfers; S003/S004/S008 are updated. Forward signposting is consolidated into one explicit map to Interludes 12–15 and Chapter 11.
 
 Details, source hashes, the exact Fable comparison, preservation checks and validation: [adoption notes](../volume-1-drafting/chapter-01-second-adoption-2026-11-14/ADOPTION_NOTES.md). No changes to read-only incoming sources or publishing infrastructure.
+
+## V1-033 — Chapter 1: adopt the Fable review without losing the corrections
+
+**14 November 2026 — addressed.** The supplied `fable/01-chapter.md` is now canonical, with only two source-note qualifications beyond it. Every body paragraph, closing line and incoming editorial/provenance comment is preserved. The seven OVERLAP reminders are restored and remain unresolved; two local Interlude 12 pointers supplement the broader forward map. The bold time reading and head-count intuition remain in the main text, alongside the earlier verified physics repairs.
+
+The revised symmetry-breaking asset is copied exactly and its potential-energy caption retained. The phase/probability asset is unchanged. No new broad trim or Born-rule rewrite was attempted; the author’s later literary pass may shorten those passages. The old figure generator now requires an explicit destination so its original rendering cannot overwrite the reviewed figure merely by running it with defaults. [Focused audit and adoption notes](../volume-1-drafting/chapter-01-review-adoption-2026-11-14/ADOPTION_NOTES.md) record provenance, preservation and validation. Publication remains separate.

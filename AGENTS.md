@@ -38,6 +38,7 @@ This is the working repository for Sam Seatt's *The Path of Many Arrows*. The au
 - Historical anchors, future gates, and source quotations require verification before being represented as established facts. Keep researched conditions, proposed design responses, and invented future scenes distinguishable.
 - Preserve factual autobiography without inventing details. Future vignettes are conjectural, with plausible dates, places, capabilities, and personal circumstances.
 - Preserve the author's voice while compressing repetition and prose that adds no thought, mechanism, evidence, scene, rhythm, or emotional development.
+- Preserve every OVERLAP, DIAGRAM and AI-draft comment in canonical text. Do not silently rename signature terms, rewrite closing lines, or delete vivid defensible prose to simplify qualifications. Keep interpretive wagers as the author's readings; correct factual errors locally, prefer source-note qualifications when sufficient, and record open obligations in `work/SPECULATION_LEDGER.md`. Follow the detailed preservation rule in `work/journal/README.md` (B-048).
 - Keep all research and manuscript editing local unless the author requests publication or communication to others.
 
 - Descriptive filename titles may change without changing manuscript identity. If a stored Word path is missing, rediscover the eligible source by its stable prefix (for example `7 24c -`), update the recorded path, and retain provenance. Archived Word prefixes remain frozen; canonical Markdown now uses the author-approved current numbering.
