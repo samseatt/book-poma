@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-15",
+  "unit_id": "introduction",
+  "base_commit": "648ccf45a6161c708e8bd3a8badf5b15e9d0a99d",
+  "incoming_path": "/Users/samseatt/projects/book_poma/sam/claude/fable/introduction.md",
+  "incoming_sha256": "19ff5e8aa15cc035f5ee3a3a496729fa082eb170fd78028e971e97ecf19b1c81",
+  "canonical_before_sha256": "b883bc58dc84ee7147adcb8b6e6c7038984e4dd0000f428f04f038b3218fb3e9",
+  "canonical_after_sha256": "14b72d6cf03258041ad4f08cbf244f9bfa3a86d6cb0bfbf59007a5a709c8730d",
+  "previous_manifest_hash": "b26cb3aa2cf12593442b38369e5f50a34f448467f98ff72c878e193394c354db",
+  "previous_manifest_hash_was_stale": true,
+  "changes": [
+    {
+      "kind": "B",
+      "before": "It took a couple of millennia (and the invention of calculus) to explain properly why the arrow arrives anyway.",
+      "after": "It took a couple of millennia (and the invention of calculus) to give a mathematical account of why the arrow arrives anyway.",
+      "reason": "Avoid treating the philosophical paradox as definitively settled by calculus."
+    },
+    {
+      "kind": "B/D",
+      "before": "Physics offers two principles that usually live in separate drawers, and read together, both stop at the present.",
+      "after": "I bring together two principles that usually live in separate drawers, and in my reading, both stop at the present.",
+      "reason": "Identify the author’s synthesis at its boundary; Occam is not mislabeled as a physical law. Preserve the entire ensuing wager."
+    }
+  ],
+  "preservation": {
+    "incoming_comments": 8,
+    "ending_exact": true,
+    "header_and_image_unchanged": true,
+    "incoming_body_recovered_exactly_when_disclosed_repairs_and_note_markers_are_reversed": true,
+    "canonical_essential_loss_found": false,
+    "new_diagram_needed": false
+  },
+  "sources": [
+    {
+      "note": "intro-zeno",
+      "url": "https://classics.mit.edu/Aristotle/physics.6.vi.html",
+      "locator": "Physics VI.9, 239b5–9 and 239b30–33",
+      "verified": "Arrow argument and Aristotle’s objection; calculus sentence is a bounded mathematical characterization, not a claim that no earlier response existed."
+    },
+    {
+      "note": "intro-eddington",
+      "url": "https://www.ucw.cz/~ps/typeset/eddington.pdf",
+      "locator": "chapter IV; paragraph beginning I shall use the phrase time’s arrow; linked edition title page 1929 and preface on 1927 lectures",
+      "verified": "Supports late-1920s naming; no unsupported exact first-use year inserted."
+    },
+    {
+      "note": "intro-regularity-wager",
+      "url": "https://gwern.net/doc/existential-risk/1974-carter.pdf",
+      "locator": "p. 291 Introduction, pp. 292–294 weak/strong forms",
+      "verified": "Observer-selection conditions, not guarantee of continued existence; author’s past/future distinction is his extension."
+    },
+    {
+      "note": "intro-regularity-wager",
+      "url": "https://arxiv.org/abs/physics/0001020",
+      "locator": "abstract, version 6 (2004 revision of 2000 submission)",
+      "verified": "Ensemble/simplicity argument explicitly conditional; does not validate the manuscript’s future probability."
+    },
+    {
+      "note": "intro-planetary-boundaries",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10499318/",
+      "locator": "abstract and discussion, Richardson et al. 2023, eadh2458",
+      "verified": "Supports coupled Earth-system pressure; no latest boundary count asserted, no commuting metric attributed to the study."
+    },
+    {
+      "note": "intro-alice-bob",
+      "url": "https://people.csail.mit.edu/rivest/Rsapaper.pdf",
+      "locator": "section II, sentence introducing A and B as Alice and Bob",
+      "verified": "Supports cryptographic names. No unsupported claim of exclusive or universal use."
+    }
+  ],
+  "validation": {
+    "canonical_check": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/introduction.md",
+      "sha256": "14b72d6cf03258041ad4f08cbf244f9bfa3a86d6cb0bfbf59007a5a709c8730d",
+      "defined_notes": 5,
+      "note_references": 5,
+      "parsed_notes": 5,
+      "html_note_backlinks": 5,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    "incoming_unchanged": true,
+    "narrative_word_count": 2613,
+    "scope": "Native note rendering, asset existence, manifest hash and preservation checks; no full Quarto rebuild or publication."
+  },
+  "publication": "not requested or performed"
+}

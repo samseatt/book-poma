@@ -425,3 +425,12 @@ A byte-for-byte working snapshot is [saved in the work area](../CODEX_MERGE_GUID
 **15 November 2026 — author clarification adopted.** The preceding model-ownership rule was too rigid. Sam prefers drawings from Codex for consistency when feasible, since Fable cannot place assets on his drive and requires manual handoffs. Draw straightforward authorized requests, including outstanding requests in scope. Flag genuinely ambiguous instructions, technical snags or cases better completed by the requestor; do not impose a blanket refusal to draw another model's proposal. The author manages the division of labor. This overrides B-049's drawing paragraph and section 5 of the supplied guideline where they conflict; other merge protections remain.
 
 The Prologue's approved replacement is a deep rectangular woven basket with one centered arched handle connecting the two long walls across their shorter separation. It remains a small opening icon. No contents, personal possessions or extra scene details are invented.
+
+
+## B-051 — Introduction: Fable’s many windows and reader contract
+
+**15 November 2026 — adopted under the author’s direct merge request.** The comparison found no essential canonical loss or new consequential decision requiring another approval round. Canonical `manuscripts/front-matter/introduction.md` now adopts the Fable revision. Kept the aircraft-window method, bold physics-to-economics bridge, Alice/Bob explanation, systems-lens roadmap, Gate/Breadboard framing and Carbon/Silicon/Sam authorship reflection. All old jokes, the image/header, eight incoming comments and the exact final line remain.
+
+Two local precision repairs: calculus supplies a mathematical account rather than a definitive philosophical settlement, and the anthropic/Occam synthesis is introduced as the author’s reading rather than as a pair of established physical principles. Five verified source notes support the background without certifying the wager. S015 logs the continuing-regularity proposal and the pending Volume III promise of competition among modeled possibilities before material commitments. No broad trim or new drawing.
+
+[Adoption notes and review](../front-matter-drafting/introduction-adoption-2026-11-15/ADOPTION_NOTES.md) record the source checks, preservation result and optional later condensation. Read-only incoming sources and publishing files remain unchanged. No publication or Publisher messaging.
