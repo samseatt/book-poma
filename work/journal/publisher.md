@@ -122,3 +122,11 @@ Interlude, Coda, Overture, and Epilogue pages were rendered and inspected.
 Print execution is explicitly disabled so indented prose cannot trigger an
 inferred Jupyter kernel. Canonical manuscript files were untouched by the
 publisher.
+
+## P-007 — Prologue page turn and epigraph handling
+
+**15 November 2026 — author-authorized coordination; implementation/validation in progress.** Sam explicitly requested Publisher help to preserve the Prologue's page break during the approved Fable merge. The editor messaged **DEVOPS - Cloudflare Publisher** (`01a08884-7b6d-70e1-971e-fb2a4af80b69`, local), limiting work to `quarto/`, local tests and rendering. No deployment or push was requested. The editor owns manuscript, asset, manifest and journal changes; the Publisher must wait for the editorial commit before staging/committing its disjoint changes.
+
+The break belongs after “The basket was still there.” and before “That boy was me.” Aim for opening scene on the recto and reveal on the following verso, while keeping HTML's scene separation clean. The old `[[PUB: PAGE-BREAK]]` was removed by annotation omission; Fable's HTML comment plus thematic rule did not force a print break. Both epigraph formats failed the old `transform_prologue` parser.
+
+Publisher recommends native Quarto `{{< pagebreak >}}`, now inserted by the editor. It is separately documented by [Quarto](https://quarto.org/docs/authoring/article-layout#page-breaks). The exact incoming page-break/provenance comments remain; no editorial instructions should become visible. Publisher is repairing parsing to accept leading comments and both epigraph forms. Final layout, source revision, checks and publishing commit will be recorded after they exist.

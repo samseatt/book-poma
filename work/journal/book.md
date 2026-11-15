@@ -419,3 +419,9 @@ A byte-for-byte working snapshot is [saved in the work area](../CODEX_MERGE_GUID
 **Chapter 1 checked by content, not dates:** current Fable and canonical body text are identical, including comments, closing and captions. Only the two already-disclosed footnote definitions differ. The supplied symmetry-breaking SVG is byte-identical to canonical. No Chapter 1 change is needed or made. The phase figure remains as adopted in `fcec668`.
 
 **A — one identified mechanical error corrected in Chapter Φ:** before: “this kind of reliably”; after: “this kind of reliability.” The rest of the paragraph and file are unchanged. This addresses the typo called out in the guideline without reopening Φ's arguments or performing another merge.
+
+## B-050 — Flexible drawings, with Codex as the preferred consistent source
+
+**15 November 2026 — author clarification adopted.** The preceding model-ownership rule was too rigid. Sam prefers drawings from Codex for consistency when feasible, since Fable cannot place assets on his drive and requires manual handoffs. Draw straightforward authorized requests, including outstanding requests in scope. Flag genuinely ambiguous instructions, technical snags or cases better completed by the requestor; do not impose a blanket refusal to draw another model's proposal. The author manages the division of labor. This overrides B-049's drawing paragraph and section 5 of the supplied guideline where they conflict; other merge protections remain.
+
+The Prologue's approved replacement is a deep rectangular woven basket with one centered arched handle connecting the two long walls across their shorter separation. It remains a small opening icon. No contents, personal possessions or extra scene details are invented.

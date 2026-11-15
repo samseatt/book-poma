@@ -353,3 +353,11 @@ The revised symmetry-breaking asset is copied exactly and its potential-energy c
 **15 November 2026 — addressed.** The new merge guideline identifies a genuine typo in Chapter Φ: A/error, “this kind of reliably” → “this kind of reliability.” Corrected that word only; all argument, narrative, comments and references remain unchanged. Updated the active manifest hash. This is not a new Φ adoption.
 
 Compared current Fable Chapter 1 with canonical by contents: all body text/comments match, the reviewed symmetry figure is an exact copy, and only the two disclosed source-note qualifications differ. Chapter 1 requires no further merge from that current incoming version. Standing guideline and drawing handoff are recorded in B-049.
+
+## V1-035 — Prologue: approved Fable adoption
+
+**15 November 2026 — editorial adoption addressed; Publisher layout validation in progress.** Accepted Fable's clearer opening, “sameness,” removal of the extra explanation about familiarity, and the closing basket callback. Restored the single word “recorded” in the experiential Big Bang passage. Personal details, their uncertainty, the Ark/Matryoshka/turtles imagery and the exact final sentence remain. All four incoming HTML comments survive.
+
+Replaced the old round basket icon with the author-requested deep rectangular basket and one central arched handle across the short span. The native Quarto `{{< pagebreak >}}` now precedes “That boy was me.” The German epigraph has a verified source bookmark; the English wording remains as supplied, with its exact translation provenance unresolved in the record. No new private detail or explanatory philosophy was added.
+
+[Adoption record and A–D change log](../volume-1-drafting/prologue-adoption-2026-11-15/ADOPTION_NOTES.md). The old `[[PUB: PAGE-BREAK]]` annotation is preserved there verbatim with its anchor before replacement. Source copies under `book_poma` remain unchanged. Publisher coordination and actual render results belong to P-007; no online publication is requested.

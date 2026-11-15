@@ -1,0 +1,59 @@
+{
+  "base_commit": "ff38ce5308b6a272cd59d006aa0d77d56f8cc3e4",
+  "inputs": [
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/fable/prologue.md",
+      "sha256": "4028d2399933038563dbf759149888b8244596410eb78adc4b30d8a88b2b16cc"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/prologue.md",
+      "sha256": "ae6e0b022ccd21ef253401d60bfdedaf3bd40d9a6883f47af8498b7d62858201"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/prologue/image-01.png",
+      "sha256": "0174d33d373e4cefc37590becfe1b300affd6d1b49bc53025fe17f0b62481d62"
+    }
+  ],
+  "date": "2026-11-15",
+  "unit_id": "prologue",
+  "incoming_unchanged": true,
+  "canonical_sha256": "670fd8b453175c6d4c9a5d81b647cdbd70c38add6316ab6a7bb750d3998397fa",
+  "previous_manifest_hash_was_stale": true,
+  "previous_manifest_hash": "64568f0ad52e90959b185fbc68658b511e9b35dcd7599ccfc01162f05725cc63",
+  "artwork": {
+    "source": "/Users/samseatt/.codex/generated_images/01a0e374-125a-7b93-a950-e125ddd03731/exec-4eaa4255-1bcd-4d1d-96ed-43a28c0675e2.png",
+    "canonical_path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/prologue/image-01.png",
+    "sha256": "1d59555433aa8f6627952613bf0da8702a99977637ecc513ce6a3a768cc86850",
+    "mode": "built-in image_gen; reference-based replacement",
+    "prompt": "Use case: precise-object-edit / illustration-story. Create the replacement small chapter-opening icon for a serious literary nonfiction book. The reference is the existing round wicker-basket illustration: retain its monochrome hand-drawn pen-and-ink, lightly engraved/crosshatched character on pure white, but replace its shape with an ordinary LARGE DEEP RECTANGULAR woven carrying basket. Body has four clearly straight sides and softened square corners, long rectangular mouth, substantial depth (not a shallow tray). Three-quarter view slightly from above so both rectangular opening and tall front and side walls read clearly. Add ONE simple strong arched handle in the MIDDLE, spanning the SHORT distance across the opening, attached to the centers of the two opposite long walls (the sides nearest each other). The handle rises well above the rim and is not stretched along the basket's long axis. Empty basket, no lid, no cloth, no objects inside, no decorations. Preserve white background and grayscale/black ink only, no color or text. Center the entire basket and handle with comfortable white margins, never crop. This will print at about one inch wide at the top of a page: prioritize readable silhouette, visible rectangular depth and a clean handle over dense black hatching or tiny detail. Avoid the heavy surrounding scratchy halo of the original; a very restrained contact shadow only. One basket only. No border, caption, logo or lettering."
+  },
+  "preserved": {
+    "incoming_comments": 4,
+    "closing": "This book is the story of those crossings, and of what became of the basket."
+  },
+  "source_verification": {
+    "german_epigraph": "verified, Patmos opening stanza lines 3–4; Hölderlinturm Tübingen",
+    "english_translation_provenance": "not established; unchanged and uncredited to any named translator"
+  },
+  "validation": {
+    "canonical_check": {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/prologue.md",
+      "sha256": "670fd8b453175c6d4c9a5d81b647cdbd70c38add6316ab6a7bb750d3998397fa",
+      "defined_notes": 1,
+      "note_references": 1,
+      "parsed_notes": 1,
+      "html_note_backlinks": 1,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    "story_matches_fable_except_recorded_and_break": true,
+    "ending_exact": true,
+    "incoming_comments_all_preserved": true,
+    "asset_full_size_inspected": true,
+    "small_print_placement": "pending Publisher proof",
+    "publication": "not requested or performed"
+  }
+}
