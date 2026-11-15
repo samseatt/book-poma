@@ -434,3 +434,8 @@ The Prologue's approved replacement is a deep rectangular woven basket with one 
 Two local precision repairs: calculus supplies a mathematical account rather than a definitive philosophical settlement, and the anthropic/Occam synthesis is introduced as the author’s reading rather than as a pair of established physical principles. Five verified source notes support the background without certifying the wager. S015 logs the continuing-regularity proposal and the pending Volume III promise of competition among modeled possibilities before material commitments. No broad trim or new drawing.
 
 [Adoption notes and review](../front-matter-drafting/introduction-adoption-2026-11-15/ADOPTION_NOTES.md) record the source checks, preservation result and optional later condensation. Read-only incoming sources and publishing files remain unchanged. No publication or Publisher messaging.
+
+
+## B-052 — Single-pass merges unless a decision is needed
+
+**15 November 2026 — active author direction.** The author finds the latest single-pass merges efficient and makes them the default. For a requested merge, compare and complete adoption in one pass when the source and decisions are clear. Use two passes only where author decision, action or attention is genuinely needed. Preserve the full editorial rigor: old humor and original ideas, memoir accuracy, protected comments and endings, ambitious interpretations, factual repair, reference and asset integrity, and scoped validation/commits. Review-only or explicitly step-one requests still do not authorize manuscript changes. This supersedes the mandatory separate approval-turn wording in earlier records; it does not authorize guessing when the source file contradicts its revision report.

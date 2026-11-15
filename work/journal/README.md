@@ -28,15 +28,17 @@ Nothing here runs automatically. Ask for a batch by scope, for example: “Proce
 
 The shared journal is the durable record; direct task messages can point to it when the author requests coordination. Only one session edits a shared file, stages or commits at a time. Read current files immediately before saving.
 
-## Current queue status — 5 November 2026
+## Historical queue checkpoint — 5 November 2026
 
-**Incoming-draft adoption is paused at the author's request while Codex completes V3's substantive content.** The two-stage process below remains the required return workflow. Canonical adoption has reached Chapter 5; its Alice remains open, and Interlude 5 is the next unadopted numbered unit. Resume from that checkpoint without automatically redoing C5. See [the active V3 completion and handoff plan](../VOLUME_III_COMPLETION_PLAN.md). After the V3 content pass, Sam will give a fixed manuscript snapshot and refreshed handoff to Claude; returned literary revisions will re-enter the same two-stage process. This pause does not pause the newly authorized V3 editorial work.
+**Incoming-draft adoption is paused at the author's request while Codex completes V3's substantive content.** The review-and-adopt process below remains the return workflow, now subject to the 15 November single-pass default. Canonical adoption has reached Chapter 5; its Alice remains open, and Interlude 5 is the next unadopted numbered unit. Resume from that checkpoint without automatically redoing C5. See [the active V3 completion and handoff plan](../VOLUME_III_COMPLETION_PLAN.md). After the V3 content pass, Sam will give a fixed manuscript snapshot and refreshed handoff to Claude; returned literary revisions will re-enter the same review-and-adopt process. This pause does not pause the newly authorized V3 editorial work.
 
-## Adopting an incoming chapter or interlude — two stages
+## Adopting an incoming chapter or interlude — review and adopt
 
-Author-approved process, 23 October 2026. Applies to Claude-assisted and other author-supplied replacement drafts. Comparison alone does not authorize replacing canonical text. Stage 1 is read-only: present the decision packet in chat, and do not edit or stage manuscript, journal or workflow files unless the author separately asks for a written record. Stage 2 records the settled decisions. The old `book_poma` tree remains read-only.
+Author-approved process, 23 October 2026; streamlined by the author on 15 November 2026 (B-052). Applies to Claude-assisted and other author-supplied replacement drafts. **A requested merge normally completes both stages in one pass.** Keep the comparison, voice protection, factual review, reference work and validation; do not add an approval round when no consequential choice needs the author. Use a separate decision pass only when author judgment, action or attention is genuinely required, including an incoming file that does not match the supplied revision report. Resolve independently what is already authorized.
 
-### Stage 1: compare and bring decisions to the author
+An explicit request for comparison or step one alone remains read-only: present the decision packet in chat, and do not edit or stage manuscript, journal or workflow files unless the author separately asks for a written record. Comparison alone does not authorize replacement. The old `book_poma` tree remains read-only.
+
+### Stage 1: compare; surface consequential decisions when needed
 
 Read the latest canonical unit, incoming draft, journal and author context in `work/claude/`, especially the updated style guide. Capture source paths, hashes and the repository revision. Compare the actual files, not an earlier session's recollection.
 
@@ -49,7 +51,7 @@ Present a short decision list with locations and a recommendation for each conse
 - Factual uncertainty, unsupported memoir detail, a changed temporal coincidence, and repairs that materially change meaning. Check public facts; ask the author about private recollections.
 - Voice, puns and intentional ambiguity that a tidy edit might erase. Preserve working sentences and protect the intellectual wager while distinguishing it from established findings. Ask what the passage accomplishes through meaning, rhythm, humor and roughness, then make the smallest repair that solves the actual problem. Substantial literary consolidation should be offered separately when the author reserves that judgment.
 
-Report if no consequential decisions are needed. Pause for the author's choices before adoption unless already approved in the current instruction. Record approved, declined, modified and deferred items. Do not ask again about decisions already made.
+If a merge is requested and no consequential decision needs the author, proceed directly to adoption and report the comparison outcome with the completed work. Otherwise, present the focused decision and pause only dependent work. Record approved, declined, modified and deferred items. Do not ask again about decisions already made.
 
 ### Stage 2: adopt, align and validate
 
@@ -80,7 +82,7 @@ Comments remain in canonical Markdown. They are editorial metadata, not book pro
 
 ### Author-adopted merge guideline — 15 November 2026
 
-Apply [the supplied Codex merge guidelines](../CODEX_MERGE_GUIDELINES.md) alongside the two stages above. Classify proposed/applied editorial changes as A (error), B (precision), C (style/vividness), or D (thesis/interpretation), with before/after text and disposition in the unit review log. C/D changes remain proposals for the author; a light conjectural label may be added within an authorized pass as the guideline allows. An uncertainty is not automatically an error. A source not found stays recorded as unverified pending the author's decision; do not falsely certify it or silently delete the underlying idea. Keep the speculation ledger focused on what the proposal would need to establish, not on making it conventional.
+Apply [the supplied Codex merge guidelines](../CODEX_MERGE_GUIDELINES.md) alongside the review and adoption stages above, normally completed in one pass for a requested merge. Classify proposed/applied editorial changes as A (error), B (precision), C (style/vividness), or D (thesis/interpretation), with before/after text and disposition in the unit review log. C/D changes remain proposals for the author; a light conjectural label may be added within an authorized pass as the guideline allows. An uncertainty is not automatically an error. A source not found stays recorded as unverified pending the author's decision; do not falsely certify it or silently delete the underlying idea. Keep the speculation ledger focused on what the proposal would need to establish, not on making it conventional.
 
 Protect the guideline's complete signature-term list, endings, personal material, comments and forward/backward pointers. Check dependent passages before proposing a deletion. Do not plant the snake/ouroboros, fold or Neusphere revelation before Coda I, or Neuma before Volume III; flag any existing conflict during the relevant review instead of launching an unrequested book-wide rewrite. Edge-case qualifications normally belong in notes; a condition essential to making the central claim true still needs to be intelligible to its reader. Current author instructions govern exceptions.
 

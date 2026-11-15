@@ -648,3 +648,8 @@ Each model normally draws its own proposed diagrams. Verify and place supplied a
 B-050 supersedes the rigid drawing-ownership reading in B-049. Sam prefers Codex as a consistent drawing source. Fulfill clear authorized requests; flag actual ambiguity or technical snags rather than reflexively returning a proposed figure to its originator.
 
 The approved Fable Prologue is adopted with “recorded” restored, its ending and all provenance comments intact, a verified German epigraph source note, and a deep rectangular basket icon with a centered handle. A native Quarto page-break shortcode replaces the ineffective separator before “That boy was me.” The author authorized Publisher coordination for actual layout handling; publishing work and its validation are tracked in P-007. Exact English-translation provenance remains an explicit source-note research item in the adoption record; no translator credit was invented.
+
+
+## Single-pass merge default — 15 November 2026
+
+Follow B-052. Sam explicitly endorses the recent direct merges and now wants review and adoption completed in one pass unless a consequential author decision, action or attention is needed. This supersedes older standing requirements for a separate approval turn, not the substance of comparison, factual checking, voice/idea preservation, reference reconciliation or validation. An explicit review-only/step-one request remains read-only. A mismatched or stale incoming file is a legitimate reason to clarify the source before dependent edits. No need to re-ask previously settled choices.
