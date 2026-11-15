@@ -161,3 +161,19 @@ The graph remains an explicit operation and a structural analogy, not proof of p
 ## Validation
 
 See `audit.json` for hashes, comment/ending/equation/asset preservation and the completed manuscript checker result. No image was redrawn. Existing source-note order is legal Markdown; rendering and backlinks are checked. The source folder and publishing infrastructure are unchanged. No publication or push.
+
+## Follow-up: actual reviewed Fable file received — 15 November 2026
+
+The author replaced the outdated Fable export and asked to reconcile it against canonical. The newly supplied file has SHA-256 `4c1acb220ca243944a3a22af7760cf00356f17cca52290537e8bb54ca392d77f`. It contains the corrected baseline, all five equations, the alarm markup and all 31 unchanged source notes. The earlier mismatch is now resolved; the old hash in `audit.json` describes only the former export.
+
+Adopted the actual incoming wording in five prose locations. These are authorized source adoptions (C/D), not new editorial rewrites. No substantive factual repair was necessary:
+
+- **Line graph:** “But the operation needn't give us a new shape” becomes “The operation needn't give us a new shape, though.” The skeleton passage now reads: “So the operation is the formal skeleton of the chapter's emergence picture, not the whole animal. On its own, it's just bookkeeping; a new level also needs enough nodes for crowd behavior, something that drives a transition, and some new behavior it makes possible.” This replaces the reconstruction's “This is…” and “The chapter also asks…” sentences; the ring counterexample stays.
+- **Second test:** “Then ask for a second test…” becomes “Then ask what further evidence would help, such as a second test…”; the condition about errors not simply repeating remains.
+- **Spin:** “Even a particle's spin…” becomes “Hilbert space isn't an extra room beside physical space, either; even a particle's spin…”; the rest of the sentence and the wager are unchanged.
+- **Hilbert closing:** the standalone “The most precise physical theory…” moves into the preceding paragraph after “Chapter 1 begins there,” beginning “For now it's enough to notice that the most precise physical theory…” The same interpretive point remains.
+- **Shortest description:** restores “Still, we have a way to bound the price of changing languages, rather than leaving simplicity entirely to taste.” The qualified “how much does it take to say this?” intuition moves before the Interlude 2 / Chapter 1 forward pointers, matching the incoming source.
+
+The radio question and many-windows callback already matched. Added all eight incoming review comments while retaining all 62 canonical comments; moved the earlier restoration marker to enclose the now-consolidated Hilbert closing paragraph. No source comment was removed. After ignoring comments and blank lines, the entire canonical file now matches the actual incoming file exactly, including source notes, equation text and image markup. The original ending and alarm SVG remain byte-for-byte unchanged.
+
+`reconciliation-audit.json` records the new source, preservation checks and mechanical validation. Source support is unchanged from the preceding review; no fresh literature audit was warranted or claimed for these wording changes. No source-folder edit or publication.

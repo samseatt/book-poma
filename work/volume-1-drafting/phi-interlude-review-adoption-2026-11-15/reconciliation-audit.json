@@ -1,0 +1,44 @@
+{
+  "base_commit": "d13057bc8a61d122f357e31b8adce571233af676",
+  "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-interlude.md",
+  "source_sha256": "4c1acb220ca243944a3a22af7760cf00356f17cca52290537e8bb54ca392d77f",
+  "canonical_before_sha256": "324b62733420be19ea4ebffe3cef4190106a17ec952a4abd08d1d133f4783391",
+  "canonical_after_sha256": "ad5bc5c9c441fe22a7a59935ac17ff2312b54959309b906bbf4a3a80f139df86",
+  "prior_comment_count": 62,
+  "incoming_comment_count": 54,
+  "final_comment_count": 70,
+  "date": "2026-11-15",
+  "unit_id": "v1-phi-interlude",
+  "purpose": "Reconcile the actual reviewed file after the author replaced the stale export",
+  "preservation": {
+    "entire_prose_notes_equations_and_image_markup_match_incoming_ignoring_comments_and_blank_lines": true,
+    "all_canonical_and_incoming_comments_retained_with_multiplicity": true,
+    "source_notes_unchanged": 31,
+    "display_equations_unchanged": 5,
+    "closing_unchanged": true
+  },
+  "figure": {
+    "path": "manuscripts/volume-1/assets/phi-interlude/alarms-and-base-rates.svg",
+    "sha256": "db9d4985c7e89f35df444448847fb02044e16a535529f6d777b305b182b531f2",
+    "unchanged": true
+  },
+  "references": "Unchanged; reuse the preceding review and 14 November verification records.",
+  "validation": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-interlude.md",
+    "sha256": "ad5bc5c9c441fe22a7a59935ac17ff2312b54959309b906bbf4a3a80f139df86",
+    "defined_notes": 31,
+    "note_references": 31,
+    "parsed_notes": 31,
+    "html_note_backlinks": 31,
+    "display_equations": 5,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+    ],
+    "errors": [],
+    "passed": true,
+    "definition_order_advisory": "Pre-existing legal Markdown ordering retained; rendered numbering and backlinks pass."
+  },
+  "incoming_unchanged": true,
+  "publication": "not requested or performed"
+}
