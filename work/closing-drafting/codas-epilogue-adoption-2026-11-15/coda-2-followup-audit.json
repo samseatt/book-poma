@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-15",
+  "unit_id": "v2-coda",
+  "base_revision": "b5eb0dd5adbea8788c0b84739d9bed4d18f25add",
+  "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/coda-2.md",
+  "source_sha256": "f8b46b3b3d59eabc18e9fdf654d1185e50bd8c4338302ed28e3663ee909c6f65",
+  "prior_canonical_sha256": "bc7a177129287e5c1533c795c2b7c29759a0343f08eb9a9284ddde71d048e463",
+  "adopted_sha256": "a1936caca8b2c609e0ae840f202b243f390320bf1afdcd3b1f3347e408bdc2e7",
+  "canonical_path": "manuscripts/volume-2/coda.md",
+  "footnote_before": "[^v2-coda-nagel]: Thomas Nagel, *The View from Nowhere* (Oxford University Press, 1986); Yuval Noah Harari, *Sapiens: A Brief History of Humankind* (2014), on money as a shared story; Gordon Gekko's \"Greed, for lack of a better word, is good\" is from Oliver Stone's *Wall Street* (1987). (AI-added, from memory; to be verified.)",
+  "footnote_after": "[^v2-coda-nagel]: Thomas Nagel, [*The View from Nowhere*](https://api.pageplace.de/preview/DT0400.9780199769926_A23609536/preview-9780199769926_A23609536.pdf) (Oxford University Press, 1986); Yuval Noah Harari, *Sapiens: A Brief History of Humankind* (2014), chapter 10, [\"The Scent of Money\"](https://www.ynharari.com/topic/money-and-politics/), on money and shared trust. Gordon Gekko's \"Greed, for lack of a better word, is good\" is from Oliver Stone's [*Wall Street*](https://catalog.afi.com/Film/57877-WALL-STREET) (1987).",
+  "source_evidence": [
+    {
+      "url": "https://api.pageplace.de/preview/DT0400.9780199769926_A23609536/preview-9780199769926_A23609536.pdf",
+      "supports": "Oxford title and copyright pages: first published 1986."
+    },
+    {
+      "url": "https://www.ynharari.com/topic/money-and-politics/",
+      "supports": "Author excerpt explicitly identified as chapter 10, The Scent of Money; money and trust."
+    },
+    {
+      "url": "https://catalog.afi.com/Film/57877-WALL-STREET",
+      "supports": "1987 film; director Oliver Stone; exact Gekko quotation in catalog history."
+    }
+  ],
+  "preservation": {
+    "all_comments_unchanged": true,
+    "ending_unchanged": true,
+    "source_unchanged": true
+  },
+  "validation": {
+    "passed": true,
+    "defined_notes": 8,
+    "note_references": 8,
+    "parsed_notes": 8,
+    "html_note_backlinks": 8,
+    "bookwide_note_collisions": [],
+    "missing_assets": [],
+    "active_manifest_hash_matches": true,
+    "git_diff_check_passed": true,
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown. Incoming placement retained."
+    ],
+    "scope": "Manuscript checks; no Quarto publication build."
+  }
+}
