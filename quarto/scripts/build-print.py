@@ -134,6 +134,48 @@ def wrap_leading_epigraph(body: str) -> str:
     )
 
 
+def split_markdown_blocks(text: str) -> list[str]:
+    """Split only at Markdown paragraph boundaries, retaining block contents."""
+    return [block for block in re.split(r"\n[ \t]*\n", text.strip()) if block.strip()]
+
+
+def is_html_comment(block: str) -> bool:
+    return bool(re.fullmatch(r"\s*<!--.*?-->\s*", block, re.DOTALL))
+
+
+def unquote_markdown(block: str) -> str:
+    return "\n".join(re.sub(r"^> ?", "", line) for line in block.splitlines())
+
+
+def extract_prologue_epigraph(body: str, path: Path) -> tuple[list[str], str, str]:
+    """Accept both supported Prologue epigraph layouts without rewriting prose.
+
+    The converted source may contain invisible provenance comments between the
+    opening image and epigraph. The epigraph itself may be one blockquote or two
+    italic paragraphs followed by a blockquoted attribution.
+    """
+    blocks = split_markdown_blocks(body)
+    comments: list[str] = []
+    while blocks and is_html_comment(blocks[0]):
+        comments.append(blocks.pop(0))
+    if not blocks:
+        raise SystemExit(f"Print Prologue epigraph not recognized: {path}")
+
+    if blocks[0].lstrip().startswith(">"):
+        epigraph_blocks = [unquote_markdown(blocks.pop(0))]
+    elif (
+        len(blocks) >= 3
+        and blocks[0].lstrip().startswith("*")
+        and blocks[1].lstrip().startswith("*")
+        and blocks[2].lstrip().startswith(">")
+    ):
+        epigraph_blocks = [blocks.pop(0), blocks.pop(0), unquote_markdown(blocks.pop(0))]
+    else:
+        raise SystemExit(f"Print Prologue epigraph not recognized: {path}")
+
+    return comments, "\n\n".join(epigraph_blocks), "\n\n".join(blocks)
+
+
 def transform_labelled(text: str, path: Path) -> str:
     pattern = re.compile(
         r"^" + re.escape(MARKER) + r"\n\n"
@@ -215,19 +257,17 @@ def transform_prologue(text: str, path: Path) -> str:
     match = pattern.match(text)
     if not match:
         raise SystemExit(f"Print Prologue opening not recognized: {path}")
-    blocks = match.group("body").split("\n\n")
-    if len(blocks) < 4 or not blocks[2].startswith(">"):
-        raise SystemExit(f"Print Prologue epigraph not recognized: {path}")
-    attribution = "\n".join(re.sub(r"^> ?", "", line) for line in blocks[2].splitlines())
-    epigraph = "\n\n".join([blocks[0], blocks[1], attribution])
-    rest = "\n\n".join(blocks[3:])
+    comments, epigraph, rest = extract_prologue_epigraph(match.group("body"), path)
+    preserved_comments = ("\n\n".join(comments) + "\n\n") if comments else ""
     return (
         f"{MARKER}\n\n# Prologue {{.unnumbered}}\n\n"
         "```{=latex}\n\\begin{pomanamedopening}\n```\n\n"
         f"{match.group('image')}\n\n"
         "```{=latex}\n\\pomanamedtitle{The Basket in the Sky}\n"
         "\\pomanamedlabel{Prologue}\n"
-        "\\end{pomanamedopening}\n\\begin{pomaepigraph}\n```\n\n"
+        "\\end{pomanamedopening}\n```\n\n"
+        + preserved_comments
+        + "```{=latex}\n\\begin{pomaepigraph}\n```\n\n"
         + epigraph
         + "\n\n```{=latex}\n\\end{pomaepigraph}\n```\n\n"
         + rest
