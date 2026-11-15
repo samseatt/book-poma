@@ -384,3 +384,7 @@ Beyond the incoming text, removed one accidental double period after the Fokker 
 ### V1-037 follow-up — reviewed source now received
 
 **15 November 2026.** Sam supplied the actual reviewed Fable file and requested reconciliation. Adopted its five small wording/placement differences from the pasted-review reconstruction, including the fuller evidence/test advice, explicit Hilbert-space distinction and shortest-description transition. The entire canonical text now matches the supplied file apart from retained additional provenance comments and blank-line placement. Both sets of comments, the 31 reference definitions, all equations, exact ending and alarm SVG are preserved. The source mismatch recorded above is resolved for the new source hash; the earlier audit remains historical. See the follow-up in the linked adoption notes and `reconciliation-audit.json`. No publication.
+
+## V1-038 — Coda I Fable adoption
+
+**15 November 2026.** Adopted *The Soil and the Shadow*: the fold, missing-organ/Neusphere reveal, Castlegar–Kelowna detour, domain amendments and practical sensing/action examples. Existing Mannaz artwork retained. Six inherited references checked and replaced with linked source notes; the basal-ganglia sentence received a narrow qualification. All incoming comments and closing wording remain. See [closing adoption notes](../closing-drafting/codas-epilogue-adoption-2026-11-15/ADOPTION_NOTES.md), B-053 and S016. No other V1 unit changed.

@@ -322,6 +322,10 @@ Design vertebra: simulation / enactment / release. The culmination of inhabitati
 
 Builder focus: simulation as rehearsal, sandboxed futures, inhabited worlds, AI and systems as future-holding media, and the sacred responsibility of making realities others may live inside.
 
-## Epilogue / Coda III --- The Basket We Carry
+## Coda III --- The Day and the Basket
 
-Returns to the opening basket and arrow. The trilogy closes by asking what legacy our released arrow leaves, what kind of future beings will inherit our designs, and whether the basket we carry can become the basket we weave.
+Gathers the volume’s design work into a proposal: values as a civilization’s senses, and the Neusphere as a capacity to understand them together. The Erlking’s rider remains in the forest, with the future still to be made.
+
+## Epilogue --- The Basket We Carry
+
+Carries the unfinished ride into the question of what survives a person, then returns to the basket, the Fokker and the first remembered light. The book ends with the narrator feeling himself become the plane.

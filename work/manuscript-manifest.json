@@ -75,7 +75,7 @@
     "volume_iii_comprehensive_claude_handoff": "work/handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md"
   },
   "counts": {
-    "main_manuscript_units": 120,
+    "main_manuscript_units": 121,
     "mapped_design_packets": 22,
     "by_kind": {
       "front-matter": 1,
@@ -86,7 +86,7 @@
       "cold-open": 36,
       "chapter": 36,
       "interlude": 36,
-      "coda": 2,
+      "coda": 3,
       "overture": 2,
       "epilogue": 1
     },
@@ -96,7 +96,7 @@
       "copy_docx_files": 56,
       "word_lock_files": 61
     },
-    "canonical_manuscript_units": 121,
+    "canonical_manuscript_units": 122,
     "supplemental_back_matter_units": 1
   },
   "pending_inclusion": [
@@ -159,7 +159,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/index.md",
-        "sha256": "9e7c5baca515b7e5d2bd93d1454ad048a50d2c3966378e8eceb7d86021c0546b"
+        "sha256": "61a0cf3d6a6c968b94be059e801de515f343060d967a6154acf65ac985ae265c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/2 Index.docx",
       "source_sha256_at_inventory": "3c6732b49f84d630ba0020cb5e5f60a41fd92f8fdc5cfc934aa380b4ffd8f8fe",
@@ -1319,7 +1319,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/coda.md",
-        "sha256": "4f6de477d766bec91b052cdfa43b41162f0ab5af93d3db215936f13bc599b5d0"
+        "sha256": "9371e80c9f70fc5e581b7b0d3dbc5c260a13b7dfaa15ab9acbad4d727946e717"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 Coda v1.docx",
       "source_sha256_at_inventory": "bc4bc944e95f42a68fb64b8aa09111539cf8f1db4c24decdb6130dd038efe439",
@@ -1337,7 +1337,10 @@
         "sha256": "bc4bc944e95f42a68fb64b8aa09111539cf8f1db4c24decdb6130dd038efe439"
       },
       "legacy_planned_markdown_path": "draft/volume-i/coda.md",
-      "canonical_markdown_path": "manuscripts/volume-1/coda.md"
+      "canonical_markdown_path": "manuscripts/volume-1/coda.md",
+      "current_header": {
+        "title": "The Soil and the Shadow"
+      }
     },
     {
       "unit_id": "v2-overture",
@@ -2450,7 +2453,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/coda.md",
-        "sha256": "24d4f7e2650d75ada74f57349296b93513c5d67e71a306f59b9818fe1741f035"
+        "sha256": "bc7a177129287e5c1533c795c2b7c29759a0343f08eb9a9284ddde71d048e463"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 Coda v2.docx",
       "source_sha256_at_inventory": "7f4189ffb2216aa27858dc183149dea796aac5f24d7bcd7b0dec60b86ed57fa5",
@@ -2468,7 +2471,10 @@
         "sha256": "7f4189ffb2216aa27858dc183149dea796aac5f24d7bcd7b0dec60b86ed57fa5"
       },
       "legacy_planned_markdown_path": "draft/volume-ii/coda.md",
-      "canonical_markdown_path": "manuscripts/volume-2/coda.md"
+      "canonical_markdown_path": "manuscripts/volume-2/coda.md",
+      "current_header": {
+        "title": "The Crack and the Claw"
+      }
     },
     {
       "unit_id": "v3-overture",
@@ -4124,6 +4130,32 @@
       }
     },
     {
+      "unit_id": "v3-coda",
+      "volume": "III",
+      "kind": "coda",
+      "original_chapter_id": null,
+      "status": "canonical-markdown",
+      "active_source": {
+        "format": "markdown",
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/coda.md",
+        "sha256": "a62db9200903015d6b4b43ad64fcb7765c3595df76b74ccc5793056775c9699c"
+      },
+      "provenance_source": "/Users/samseatt/projects/book_poma/sam/claude/fable/coda-3.md",
+      "source_sha256_at_adoption": "85be0f5879482088fd427769931e6589062c014523c144fdfd2d06ebc3764286",
+      "planned_markdown_path": "manuscripts/volume-3/coda.md",
+      "canonical_markdown_path": "manuscripts/volume-3/coda.md",
+      "design_packet": null,
+      "current_header": {
+        "label": "CODA TO VOLUME III",
+        "title": "The Day and the Basket"
+      },
+      "editorial_adoption": {
+        "date": "2026-11-15",
+        "origin": "New author-supplied Fable Markdown; no archived Word predecessor",
+        "record": "work/closing-drafting/codas-epilogue-adoption-2026-11-15/ADOPTION_NOTES.md"
+      }
+    },
+    {
       "unit_id": "epilogue",
       "volume": "III",
       "kind": "epilogue",
@@ -4132,7 +4164,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/back-matter/epilogue.md",
-        "sha256": "005ce06fccb523a0465d7f744e07f1a98382066ab238e79caaeeae478132c688"
+        "sha256": "18cc28dc72f46bbad869acaf776f3f40330d3df5dca6273c7ad0e969507c268f"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/8 Epilogue.docx",
       "source_sha256_at_inventory": "de415eb939b66e133a9fa3b1bd46bce938b51b1a3d869eba36cb6892ae45b2a9",
@@ -4157,7 +4189,10 @@
         "sha256": "de415eb939b66e133a9fa3b1bd46bce938b51b1a3d869eba36cb6892ae45b2a9"
       },
       "legacy_planned_markdown_path": "draft/epilogue.md",
-      "canonical_markdown_path": "manuscripts/back-matter/epilogue.md"
+      "canonical_markdown_path": "manuscripts/back-matter/epilogue.md",
+      "current_header": {
+        "title": "The Basket We Carry"
+      }
     }
   ],
   "filename_convention": "Initial 5/6/7 is a book-component sequence prefix pointing to Volume I/II/III content; the following number or Greek letter is original chapter identity; c/i identifies chapter/interlude. Word numbers were not normalized after the previous shuffle. Packet sequence filenames may differ; prev-N retains original identity. Title text after the stable unit prefix may change freely; rediscover the current eligible file by prefix and record its path, without treating it as a different chapter. Prefixes remain fixed until formally agreed renumbering.",

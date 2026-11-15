@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-15",
+  "base_commit": "4cea0cdc20c5b4b27308939f9579200b2a94bb92",
+  "record": "work/closing-drafting/codas-epilogue-adoption-2026-11-15",
+  "units": [
+    {
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/coda-1.md",
+      "source_sha256": "151a2f495337d882ce579ad50a5e37d43afa5529804550e48ced3186522b0ab1",
+      "canonical": "manuscripts/volume-1/coda.md",
+      "before_sha256": "fad540f28c1ac34d1c54e5a7dc17ccbdd76d14382570436861d6985fc7984b80",
+      "after_sha256": "9371e80c9f70fc5e581b7b0d3dbc5c260a13b7dfaa15ab9acbad4d727946e717",
+      "source_words": 3739,
+      "adopted_words_including_notes": 3983,
+      "source_comments": 14
+    },
+    {
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/coda-2.md",
+      "source_sha256": "b0112dc3ad292ae41a797a51503b665573292c6debf351a355294fe3ba660ea6",
+      "canonical": "manuscripts/volume-2/coda.md",
+      "before_sha256": "1baea6dbe44b6151b5b0989094c6b9ffc294210bc760008141bd22bbb9524c40",
+      "after_sha256": "bc7a177129287e5c1533c795c2b7c29759a0343f08eb9a9284ddde71d048e463",
+      "source_words": 2304,
+      "adopted_words_including_notes": 2801,
+      "source_comments": 2
+    },
+    {
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/coda-3.md",
+      "source_sha256": "85be0f5879482088fd427769931e6589062c014523c144fdfd2d06ebc3764286",
+      "canonical": "manuscripts/volume-3/coda.md",
+      "before_sha256": null,
+      "after_sha256": "a62db9200903015d6b4b43ad64fcb7765c3595df76b74ccc5793056775c9699c",
+      "source_words": 3582,
+      "adopted_words_including_notes": 3834,
+      "source_comments": 4
+    },
+    {
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/epilogue.md",
+      "source_sha256": "0fff2e0a70ddd5589ad30aa70491a0e796100e595350641a234e6461023d91c8",
+      "canonical": "manuscripts/back-matter/epilogue.md",
+      "before_sha256": "493e84a9ae3136865641045dd6637fdac3aff7e08a6955a3e45aaa4fe5f9efe8",
+      "after_sha256": "18cc28dc72f46bbad869acaf776f3f40330d3df5dca6273c7ad0e969507c268f",
+      "source_words": 1649,
+      "adopted_words_including_notes": 1982,
+      "source_comments": 5
+    }
+  ],
+  "changes": [
+    {
+      "unit": "coda-1.md",
+      "kind": "B",
+      "before": "as the brain's basal ganglia do, holding every movement back until one is selectively released.",
+      "after": "as the brain's basal ganglia help do, holding candidate movements back until one is selectively released.",
+      "reason": "Selective release is a useful circuit model, not a claim that all movement requires a universal basal-ganglia veto."
+    },
+    {
+      "unit": "coda-2.md",
+      "kind": "author-directed recovery",
+      "before": "Paragraph omitted by Fable.",
+      "after": "The more we stare at these scrappy and fuzzy domains of Volume I, the more Nagel’s View from Nowhere pops up. The inside view is restrictive; the outside view fatal. And the latter can be a problem if the goal is to sustain what we have, without inviting an all-out collapse. That’s the rub. For instance, you cannot run an economy from a pure view from nowhere. If everyone achieved total detached objectivity and stopped “believing” in Harari’s concept of money as a collective “story,” the economy would, in an extreme, theoretical case, begin to collapse. The system often relies on our subjective entrapment. This extends to other stories: flags, religion, norms. Investors, politicians, and priests confront this trouble in their own ways. Is Gordon Gekko’s greed somewhat good, should politicians sometimes lie, and can a priest who has studied physics and biology keep the old stories alive without some duplicity, or only by reinterpreting them?",
+      "reason": "Author explicitly requested retention on 15 November 2026. Original placement and wording restored."
+    },
+    {
+      "unit": "coda-2.md",
+      "kind": "A / author clarification",
+      "before": "blockade Iran's ports, freeze Tehran's economy into submission,",
+      "after": "freeze Tehran's economy into submission,",
+      "reason": "Author clarified that the blockade/chokepoint in this passage is Iran blocking Hormuz, not the US naval blockade of Iranian ports. Keep the late-February war context; do not substitute an April timeline."
+    },
+    {
+      "unit": "coda-3.md",
+      "kind": "asset/format",
+      "before": "![](assets/coda/image-01.png)",
+      "after": "![](assets/coda/image-01.png){width=1.75in}",
+      "reason": "New Dæg ornament at opening-icon scale, with a high-resolution original retained."
+    },
+    {
+      "unit": "epilogue.md",
+      "kind": "B",
+      "before": "with machines that can model anything,",
+      "after": "with machines that can model whole worlds,",
+      "reason": "Remove an unlimited computational claim without removing the simulation image."
+    },
+    {
+      "unit": "epilogue.md",
+      "kind": "B",
+      "before": "though, as the physicist Brian Greene has noted ruefully, not forever; even the universe's structures will eventually thin into stillness.",
+      "after": "though, as the physicist Brian Greene has noted ruefully, not necessarily forever; even the universe's structures may eventually thin into stillness.",
+      "reason": "Cosmic far-future scenarios are conditional; proton decay has not been observed."
+    },
+    {
+      "unit": "epilogue.md",
+      "kind": "B",
+      "before": "that Robin Dunbar estimated a human can actually know,",
+      "after": "that Robin Dunbar estimated a human can maintain stable relationships with,",
+      "reason": "Dunbar’s approximate network estimate is not a ceiling on people one can recognize or know over a lifetime."
+    }
+  ],
+  "asset": {
+    "path": "manuscripts/volume-3/assets/coda/image-01.png",
+    "sha256": "d058b27585d7a07bb517b8cbd9c2759a2dfa6669858b8d09eaea5c2a9d88fe2a",
+    "source": "/Users/samseatt/.codex/generated_images/01a0e374-125a-7b93-a950-e125ddd03731/exec-e328df1e-e9d6-4c58-bfed-55cb59c0674e.png",
+    "method": "Built-in image generation using canonical Coda I and II icons as style references",
+    "display_width": "1.75in",
+    "visual_review": "Viewed: two vertical posts connected by a full diagonal X; charcoal/wood-grain texture; white background."
+  },
+  "index_before_sha256": "45a5ec1f1ea8ce938736536ad22bfee9a6bc0721087f89dd1636506fc1a81274",
+  "index_after_sha256": "61a0cf3d6a6c968b94be059e801de515f343060d967a6154acf65ac985ae265c",
+  "validation": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/coda.md",
+      "sha256": "9371e80c9f70fc5e581b7b0d3dbc5c260a13b7dfaa15ab9acbad4d727946e717",
+      "defined_notes": 9,
+      "note_references": 9,
+      "parsed_notes": 9,
+      "html_note_backlinks": 9,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [
+        "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+      ],
+      "errors": [],
+      "passed": true
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/coda.md",
+      "sha256": "bc7a177129287e5c1533c795c2b7c29759a0343f08eb9a9284ddde71d048e463",
+      "defined_notes": 7,
+      "note_references": 7,
+      "parsed_notes": 7,
+      "html_note_backlinks": 7,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/coda.md",
+      "sha256": "a62db9200903015d6b4b43ad64fcb7765c3595df76b74ccc5793056775c9699c",
+      "defined_notes": 5,
+      "note_references": 5,
+      "parsed_notes": 5,
+      "html_note_backlinks": 5,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/back-matter/epilogue.md",
+      "sha256": "18cc28dc72f46bbad869acaf776f3f40330d3df5dca6273c7ad0e969507c268f",
+      "defined_notes": 6,
+      "note_references": 6,
+      "parsed_notes": 6,
+      "html_note_backlinks": 6,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/index.md",
+      "sha256": "61a0cf3d6a6c968b94be059e801de515f343060d967a6154acf65ac985ae265c",
+      "defined_notes": 0,
+      "note_references": 0,
+      "parsed_notes": 0,
+      "html_note_backlinks": 0,
+      "display_equations": 0,
+      "bookwide_note_collisions": [],
+      "warnings": [],
+      "errors": [],
+      "passed": true
+    }
+  ],
+  "unpublished": true
+}

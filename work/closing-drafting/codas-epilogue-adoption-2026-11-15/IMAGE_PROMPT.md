@@ -1,0 +1,7 @@
+# Dæg opening ornament
+
+Created 15 November 2026 with the built-in image-generation tool. Style references: canonical Volume I and II `assets/coda/image-01.png`. Those files were viewed and remain unchanged. Final asset: `manuscripts/volume-3/assets/coda/image-01.png`. Original high-resolution output is preserved byte-for-byte in that asset; display size is controlled in Markdown.
+
+## Prompt
+
+Create ONE new book chapter-opening rune icon to match the two supplied reference icons (style references only, do not reproduce their rune shapes). Subject: the Anglo-Saxon Dæg / Dagaz rune ᛞ, for day. Exact geometry: two straight parallel vertical posts, left and right, equal height; connect the top-left corner to bottom-right, and bottom-left to top-right, making a diagonal X between the posts. A symmetrical upright bow-tie/hourglass-on-its-side shape. NO horizontal top or bottom bars, no extra strokes, no letters, no caption. Match the hand-drawn dark graphite/charcoal, fine wood-grain crosshatching inside the thick strokes, subtle irregular pencil edges and understated slight depth of the two existing icons. Grayscale ONLY, no color. Pure white background, no paper texture outside the rune, no drop shadow. Center the rune on a square canvas, rune roughly 58% canvas width and 75% height with generous white margins, like the existing book ornaments. It must remain legible as a small icon above a coda title. Output a single clean finished icon.

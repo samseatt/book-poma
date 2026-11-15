@@ -1,0 +1,30 @@
+{
+  "check": "in-memory transformations only; no generated output changed",
+  "expected_unit_count_now": 122,
+  "units": [
+    {
+      "unit": "v1-coda",
+      "derived_target": "volume-1/coda-1.qmd",
+      "source_transformation": "pass",
+      "print_status": "pass"
+    },
+    {
+      "unit": "v2-coda",
+      "derived_target": "volume-2/coda-2.qmd",
+      "source_transformation": "pass",
+      "print_status": "pass"
+    },
+    {
+      "unit": "v3-coda",
+      "derived_target": "volume-3/coda-3.qmd",
+      "source_transformation": "pass",
+      "print_status": "Print named opening not recognized: volume-3/coda-3.qmd"
+    },
+    {
+      "unit": "epilogue",
+      "derived_target": "back-matter/epilogue.qmd",
+      "source_transformation": "pass",
+      "print_status": "pass"
+    }
+  ]
+}
