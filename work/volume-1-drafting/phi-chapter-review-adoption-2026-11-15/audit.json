@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-15",
+  "unit_id": "v1-phi-chapter",
+  "base_commit": "ad32037e97bd9b145c73e0d878a70724133f26af",
+  "incoming_path": "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-chapter.md",
+  "incoming_sha256": "566da36f549909d95d06f02332beed8cb58e81455f3c1866c38d19ecca41c515",
+  "canonical_before_sha256": "d8b6af5700c4c015e33feb0f9d426a38ea726d088ef074ba18cbb5396ed2341f",
+  "canonical_after_sha256": "ccdcb62f913c894c950b646963961474b9eb55cbff75a48a715f74d733950078",
+  "figure": {
+    "path": "manuscripts/volume-1/assets/phi-chapter/relations-become-nodes.svg",
+    "sha256": "45ea87885afcdda1b146edfe8e0878a641cfe589a438d95f4c296b012fbb2af4",
+    "markup_already_present_and_identical": true,
+    "unchanged": true,
+    "prior_visual_and_graph_audit": "work/volume-1-drafting/phi-diagram-2026-11-14.json"
+  },
+  "preservation": {
+    "incoming_comments": 16,
+    "all_incoming_and_prior_comments_preserved": true,
+    "old_reference_definitions_preserved": 26,
+    "incoming_recovered_by_reversing_punctuation_and_removing_new_reference_apparatus": true,
+    "exact_closing_preserved": true,
+    "alikeness_and_head_count_preserved": true
+  },
+  "source_checks": {
+    "reused": "work/volume-1-drafting/phi-reference-finalization-2026-10-15/reference-audit.json; work/volume-1-drafting/phi-diagram-2026-11-14.json; 14 November Ockham/Sober check",
+    "fresh": [
+      {
+        "url": "https://gwern.net/doc/existential-risk/1974-carter.pdf",
+        "locator": "pp. 291–294, observer selection",
+        "scope": "Selection conditions, not guaranteed continuation or survival"
+      },
+      {
+        "url": "https://arxiv.org/abs/physics/0001020",
+        "locator": "abstract and bibliographic record",
+        "scope": "Conditional ensemble/simplicity proposal; not verification of Sam’s continuation argument"
+      }
+    ]
+  },
+  "callbacks": {
+    "canonical_chapter_1_registration": true,
+    "incoming_fable_chapter_10_anthropic_seat": true
+  },
+  "validation": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-chapter.md",
+    "sha256": "ccdcb62f913c894c950b646963961474b9eb55cbff75a48a715f74d733950078",
+    "defined_notes": 27,
+    "note_references": 27,
+    "parsed_notes": 27,
+    "html_note_backlinks": 27,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+    ],
+    "errors": [],
+    "passed": true,
+    "definition_order_advisory": "Pre-existing legal Markdown ordering, retained to preserve source-note comments and definitions. Display numbering and backlinks follow use correctly."
+  },
+  "publication": "not requested or performed",
+  "incoming_unchanged": true
+}

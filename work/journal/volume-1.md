@@ -363,3 +363,12 @@ Replaced the old round basket icon with the author-requested deep rectangular ba
 [Adoption record and A–D change log](../volume-1-drafting/prologue-adoption-2026-11-15/ADOPTION_NOTES.md). The old `[[PUB: PAGE-BREAK]]` annotation is preserved there verbatim with its anchor before replacement. Source copies under `book_poma` remain unchanged. Publisher coordination and actual render results belong to P-007; no online publication is requested.
 
 Editorial adoption commit: `f32dfe1`; separate Publisher fix: `22df859`. The opening/reveal page turn was visually verified in both the isolated specimen and the full Volume I print layout. See P-007 for test results and the unrelated all-volume synchronization limitation. No publication occurred.
+
+
+## V1-036 — Chapter Φ: registration, anthropic seat and independent windows
+
+**15 November 2026 — Fable review re-merged at the author’s request.** Adopted the latest incoming Chapter Φ with its restored anthropic seat, explicit registration term, independent-windows paragraph and additional 15 November continuation/inertia argument. Corrected the old ∅ header to Φ as the incoming file does. “Reliability” was already fixed; retained it. The graph link, caption, attributes and original SVG had survived and are preserved unchanged. Kept the complete alikeness/Ockham passages, 26 prior source definitions, 16 incoming comments, earlier canonical comments and exact ending.
+
+Beyond the incoming text, removed one accidental double period after the Fokker joke and added one source note for the anthropic/continuation passage. The existing ledger now connects S001/S006/S015 to these additions. Checked the live registration callback in canonical Chapter 1 and the anthropic-seat callback in incoming Chapter 10; no downstream file was edited.
+
+[Adoption record](../volume-1-drafting/phi-chapter-review-adoption-2026-11-15/ADOPTION_NOTES.md) and its audit distinguish fresh checks from reused earlier source/figure verification. No broad condensation, image regeneration or publishing action.
