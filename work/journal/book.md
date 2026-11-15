@@ -405,3 +405,17 @@ Sam's intended mathematics claim concerns the universe as the source of the cons
 The recurring rule is now explicit in the working instructions: protect signature terms, closing lines, vivid defensible wording, all OVERLAP/DIAGRAM/AI-draft comments and interpretive risk. Put sufficient technical qualifications in footnotes instead of reflexively replacing the voice. This does not suspend factual checking. Chapter 1's two limited note repairs distinguish a tunneling illustration from a computed many-body probability and bound-level absorption from its exceptions.
 
 The supplied symmetry-breaking SVG and corrected caption replace the earlier figure; the phase figure is unchanged. Internal work-path comments remain source metadata, not printed prose. [Review adoption record](../volume-1-drafting/chapter-01-review-adoption-2026-11-14/ADOPTION_NOTES.md). No downstream chapter has been edited; the restored overlap notes remain pending work, including Interlude 12's Penrose sentence.
+
+## B-049 — Adopt Fable's merge guideline and drawing handoff
+
+**15 November 2026 — standing process adopted.** Sam supplies `book_poma/sam/claude/fable/codex-merge-guidelines.md` for remaining integrations. Its central distinction is authoritative: repair false facts and reasoning while preserving unconventional, honestly framed interpretations and the author's literary voice. Maintain the existing two-stage process. Detailed A–D review logs, exact protected terms/endings/comments, dependency checks, deliberate reveals and source-verification handling are now linked from the working instructions. These refine the process; they do not automatically authorize a future unit's adoption or every claim in the guideline's case study.
+
+A byte-for-byte working snapshot is [saved in the work area](../CODEX_MERGE_GUIDELINES.md). Source/snapshot SHA256: `bccad12846399a49ec20cc90f331f74643492bdab9dd7b39e18576901c309ea4`. Refresh deliberately if Sam supplies an updated version; the original remains read-only.
+
+**Application:** unverified means unresolved, not false and not certified. Prefer footnote qualifications, while ensuring a central claim is not misleading without an essential premise. Proposed substantive changes to voice or thesis return to Sam; do not neutralize them in the name of consensus. Greek-lettered units still have no Alice/Bob sections. All pre-existing memoir protections and factual standards remain.
+
+**Drawings:** the models do not normally draw or redraw each other's proposed diagrams. Verify and place the originating model's supplied asset; report problems for a creator/author correction, unless Sam authorizes local work. Do not recreate an unseen picture from prose alone. No message to another session or publication is authorized by this entry.
+
+**Chapter 1 checked by content, not dates:** current Fable and canonical body text are identical, including comments, closing and captions. Only the two already-disclosed footnote definitions differ. The supplied symmetry-breaking SVG is byte-identical to canonical. No Chapter 1 change is needed or made. The phase figure remains as adopted in `fcec668`.
+
+**A — one identified mechanical error corrected in Chapter Φ:** before: “this kind of reliably”; after: “this kind of reliability.” The rest of the paragraph and file are unchanged. This addresses the typo called out in the guideline without reopening Φ's arguments or performing another merge.

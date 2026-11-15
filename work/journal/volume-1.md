@@ -347,3 +347,9 @@ Details, source hashes, the exact Fable comparison, preservation checks and vali
 **14 November 2026 — addressed.** The supplied `fable/01-chapter.md` is now canonical, with only two source-note qualifications beyond it. Every body paragraph, closing line and incoming editorial/provenance comment is preserved. The seven OVERLAP reminders are restored and remain unresolved; two local Interlude 12 pointers supplement the broader forward map. The bold time reading and head-count intuition remain in the main text, alongside the earlier verified physics repairs.
 
 The revised symmetry-breaking asset is copied exactly and its potential-energy caption retained. The phase/probability asset is unchanged. No new broad trim or Born-rule rewrite was attempted; the author’s later literary pass may shorten those passages. The old figure generator now requires an explicit destination so its original rendering cannot overwrite the reviewed figure merely by running it with defaults. [Focused audit and adoption notes](../volume-1-drafting/chapter-01-review-adoption-2026-11-14/ADOPTION_NOTES.md) record provenance, preservation and validation. Publication remains separate.
+
+## V1-034 — Φ typo repair and Chapter 1 completion check
+
+**15 November 2026 — addressed.** The new merge guideline identifies a genuine typo in Chapter Φ: A/error, “this kind of reliably” → “this kind of reliability.” Corrected that word only; all argument, narrative, comments and references remain unchanged. Updated the active manifest hash. This is not a new Φ adoption.
+
+Compared current Fable Chapter 1 with canonical by contents: all body text/comments match, the reviewed symmetry figure is an exact copy, and only the two disclosed source-note qualifications differ. Chapter 1 requires no further merge from that current incoming version. Standing guideline and drawing handoff are recorded in B-049.
