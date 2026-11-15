@@ -372,3 +372,10 @@ Editorial adoption commit: `f32dfe1`; separate Publisher fix: `22df859`. The ope
 Beyond the incoming text, removed one accidental double period after the Fokker joke and added one source note for the anthropic/continuation passage. The existing ledger now connects S001/S006/S015 to these additions. Checked the live registration callback in canonical Chapter 1 and the anthropic-seat callback in incoming Chapter 10; no downstream file was edited.
 
 [Adoption record](../volume-1-drafting/phi-chapter-review-adoption-2026-11-15/ADOPTION_NOTES.md) and its audit distinguish fresh checks from reused earlier source/figure verification. No broad condensation, image regeneration or publishing action.
+
+
+## V1-037 — Interlude Φ: apply the supplied review without regressing the source
+
+**15 November 2026 — completed with express author approval.** The Fable-folder file did not match the pasted review and would remove the corrected equations, alarm diagram and technical repairs. Sam instructed the editor to apply the pasted changes directly to canonical. Restored the emergence skeleton, Hilbert closing and shortest-description intuition; clarified independent test errors and the spin example; added the chapter's procedural many-windows callback and harmonized the radio question. Preserved all 31 source definitions, five display equations, prior comments, the full closing and the unchanged alarm asset/markup.
+
+[Review/adoption record](../volume-1-drafting/phi-interlude-review-adoption-2026-11-15/ADOPTION_NOTES.md) contains before/after entries and evidence limits; its audit records the exact sources and validation. No new conjecture beyond the existing S008 wager, no broad trim, and no use of the stale incoming file as master. The old source file remains unchanged; consult this record before attempting to merge it again. No publication.

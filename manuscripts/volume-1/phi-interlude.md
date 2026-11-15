@@ -24,7 +24,9 @@ INTERLUDE Φ
 
 **Inquiry IV.** --- _On the mechanics of invisible atmospheric phenomena._
 
-> "Dad, where inside the radio is that thing that takes the wave thing and make it into sound? Why can't we see these waves, what would they look like if we could see them? Where do they come from? How does the antenna find them?"
+<!-- AI-assisted local review merge, 2026-11-15; author approved the pasted Fable changes. -->
+> "Dad, where inside the radio is that thing that takes the wave thing and makes it into sound? Why can't we see these waves, what would they look like if we could see them? Where do they come from? How does the antenna find them?"
+<!-- End AI-assisted local review merge, 2026-11-15. -->
 
 **Inquiry V.** --- _A proposal for an enclosed ecological experiment._
 
@@ -100,9 +102,11 @@ A graph is the simplest piece of furniture-free architecture: nodes, and edges c
 
 The chapter introduced a trick worth doing properly here, because the rest of the book leans on it. Take any graph and build a new one, its _line graph_, in which every edge of the old graph becomes a node, and two of these new nodes are connected whenever their old edges shared an endpoint.[^v1-phi-i-linegraph] Try it on the simplest interchange: four roads meeting at one roundabout. In the original graph, the roundabout is a hub with four spokes. In the line graph, the hub disappears entirely, and the four roads become four nodes, every one connected to every other, a tight little clique. The roundabout hasn't vanished, exactly; it has turned into the fact that every road is now a neighbor of every road. What used to be a place has become a relationship, and what used to be relationships have become the places.
 
+<!-- AI-assisted local review merge, 2026-11-15; author approved the pasted Fable changes. -->
 <!-- AI-assisted revision/addition, 2026-11-14. -->
-Do it again, and the line graph of the line graph is a structure of relations among relations. But the operation needn't give us a new shape. Four roads joined in a ring become four nodes joined in a ring: $L(C_4)\cong C_4$, where the sign means the connectivity is the same, even though roads and places have exchanged jobs. We can keep transforming and get nowhere (a small mathematical courtesy to the Still Arrow). That's a useful limit on the emergence picture from the chapter. On its own, it's just bookkeeping; the chapter's emergence picture also asks for enough nodes for crowd behavior and something that drives a transition. The new level still has to show what new behavior it makes possible. But "turning edges into nodes" isn't a metaphor I invented to make a point. It's an operation with rules, and it can be carried out by anyone with a pencil.
+Do it again, and the line graph of the line graph is a structure of relations among relations. But the operation needn't give us a new shape. Four roads joined in a ring become four nodes joined in a ring: $L(C_4)\cong C_4$, where the sign means the connectivity is the same, even though roads and places have exchanged jobs. We can keep transforming and get nowhere (a small mathematical courtesy to the Still Arrow). This is the formal skeleton of the chapter's emergence picture, not the whole animal. The chapter also asks for enough nodes for crowd behavior and something that drives a transition into new behavior. But "turning edges into nodes" isn't a metaphor I invented to make a point. It's an operation with rules, and it can be carried out by anyone with a pencil.
 <!-- End AI-assisted revision/addition, 2026-11-14. -->
+<!-- End AI-assisted local review merge, 2026-11-15. -->
 
 Logic performs a related separation of form from furniture. In the simplest setting, we can write:
 
@@ -149,9 +153,11 @@ Uncertainty needs arithmetic too. Probability works out how likely events are wi
 
 Here's an invented example. Take ten thousand machines, one hundred of which have a particular fault. A detector catches ninety of those hundred, which sounds excellent. It also falsely flags five percent of the 9,900 healthy machines, which sounds tolerable. Do the sums: 90 true alarms and 495 false ones. Among the 585 machines flagged, only about fifteen percent actually have the fault.
 
+<!-- AI-assisted local review merge, 2026-11-15; author approved the pasted Fable changes. -->
 <!-- AI-assisted revision/addition, 2026-11-14. -->
-So the detector catches ninety percent of faults, and yet a flagged machine is still far more likely to be healthy than faulty. Both statements are true because they answer different questions. The ingredient the careless reader forgot was how rare the fault was to begin with.[^v1-phi-i-bayes] (If a doctor ever tells you a positive result from a test that catches ninety percent of cases means you're ninety percent likely to be sick, it's worth asking, politely, how common the illness is. Then ask what further evidence would actually help; repeating the same mistake isn't a second opinion.)
+So the detector catches ninety percent of faults, and yet a flagged machine is still far more likely to be healthy than faulty. Both statements are true because they answer different questions. The ingredient the careless reader forgot was how rare the fault was to begin with.[^v1-phi-i-bayes] (If a doctor ever tells you a positive result from a test that catches ninety percent of cases means you're ninety percent likely to be sick, it's worth asking, politely, how common the illness is. Then ask for a second test whose errors don't simply repeat the first one's.)
 <!-- End AI-assisted revision/addition, 2026-11-14. -->
+<!-- End AI-assisted local review merge, 2026-11-15. -->
 
 Thomas Bayes gave his name to the reasoning that handles such reversals explicitly: evidence shifts the relative plausibility of competing explanations according to how well each one would have predicted it, starting from how plausible each was beforehand. The mathematics doesn't supply an honest starting point, a complete list of alternatives or a trustworthy sensor. It tells you what follows once you've supplied them. A bad premise can survive a very elegant update.
 
@@ -213,11 +219,17 @@ The brackets name states; $\alpha$ and $\beta$ are complex amplitudes. Measuring
 
 It's tempting to say all of this in a hushed voice, and physicists talk about Hilbert space as though they had moved there. But it's worth keeping two things apart. Hilbert space is mathematics, an exquisitely successful description of how quantum systems behave and what we'll observe when we measure them. What it says about what reality _is_, underneath the description, is the subject of interpretations that have been arguing, courteously and otherwise, for nearly a century.
 
+<!-- AI-assisted local review merge, 2026-11-15; author approved the pasted Fable changes. -->
 <!-- AI-assisted revision/addition, 2026-11-14. -->
-Here I want to stick my neck out. I suspect Hilbert space is a constrained expression of the broader possibility I've been reaching for: a region in which possibilities bear on one another consistently enough to acquire a mathematics. In that picture, mathematics arrives with the restrictions. It doesn't stand outside them issuing permits for a universe. Hilbert space already isn't an extra room beside physical space; even the spin of a particle has a state space. My further wager is that its structure tells us something about what possibility becomes under constraint, and perhaps about what we call reality from inside that constraint.[^v1-phi-i-possibility-wager]
+Here I want to stick my neck out. I suspect Hilbert space is a constrained expression of the broader possibility I've been reaching for: a region in which possibilities bear on one another consistently enough to acquire a mathematics. In that picture, mathematics arrives with the restrictions. It doesn't stand outside them issuing permits for a universe. Even a particle's spin, which has no location to speak of, gets a state space of its own. My further wager is that its structure tells us something about what possibility becomes under constraint, and perhaps about what we call reality from inside that constraint.[^v1-phi-i-possibility-wager]
+<!-- End AI-assisted local review merge, 2026-11-15. -->
 
 Think of a standing wave, provisionally. A repeated relation can have a short recipe; independently specifying every blip needed to imitate it may take a much longer one. That is where I want to try Occam's cheapness as an explanation for structure. Shorter has yet to earn *more likely*, and a wave image has yet to earn quantum amplitudes. But the question is substantial: is Hilbert structure an expression of possibility from which physical reality emerges, or something we can define only once a physical world has supplied its regularities? We are among those regularities, trying to inspect the arrangement that permits the inspection. Chapter 1 begins there.
 <!-- End AI-assisted revision/addition, 2026-11-14. -->
+
+<!-- AI-assisted review restoration, 2026-11-15; from the author-supplied Fable review. -->
+The most precise physical theory we have is written, at bottom, in the language of what could be.
+<!-- End AI-assisted review restoration, 2026-11-15. -->
 
 ## The Sentence with Its Own Address
 
@@ -255,9 +267,11 @@ $$
 K_U(x)=\min_{p:\,U(p)=x}|p|,
 $$
 
-where $|p|$ counts the program's bits. Ray Solomonoff, Andrei Kolmogorov and Gregory Chaitin developed the foundations of this way of counting in the 1960s.[^v1-phi-i-shortest] For two optimal description languages, $U$ and $V$, the difference obeys $|K_U(x)-K_V(x)|\leq c_{U,V}$: the translation overhead depends on the languages, not on the particular $x$. That constant can be large, and no algorithm finds the exact shortest description for every output. Still, we have a way to bound the price of changing languages, rather than leaving simplicity entirely to taste. Interlude 2 will put it to work on data. Chapter 1 has a larger use for it: a recipe for a world.
+<!-- AI-assisted local review merge, 2026-11-15; author approved the pasted Fable changes. -->
+where $|p|$ counts the program's bits. Ray Solomonoff, Andrei Kolmogorov and Gregory Chaitin developed the foundations of this way of counting in the 1960s.[^v1-phi-i-shortest] For two optimal description languages, $U$ and $V$, the difference obeys $|K_U(x)-K_V(x)|\leq c_{U,V}$: the translation overhead depends on the languages, not on the particular $x$. That constant can be large, and no algorithm finds the exact shortest description for every output. Interlude 2 will put it to work on data. Chapter 1 has a larger use for it: a recipe for a world. Up to that fixed translation cost, "how much does it take to say this?" is a fact about the thing more than about who is describing it.
 <!-- End AI-assisted revision/addition, 2026-11-14. -->
 <!-- End AI draft 2026-11-13. -->
+<!-- End AI-assisted local review merge, 2026-11-15. -->
 
 Then Turing showed where the machines run out of road. Suppose someone hands you a perfect program called the Decider, which can look at any program and any input and tell you, correctly, whether that program will eventually stop or run forever. Now build a deliberately contrary program (the teenager of computing). Given the code of some program, it asks the Decider whether that program would stop when fed its own code, and then does the opposite: if the answer is "stops," it loops forever, and if the answer is "loops forever," it stops. Finally, feed the contrary program its own code. Whatever the Decider predicts, the contrary program does the reverse. So the perfect Decider can't exist.[^v1-phi-i-halting] It's Gödel's trick again, a description turned back on itself, wearing overalls instead of a gown.
 
@@ -291,7 +305,9 @@ Suppose a model predicts how a steel beam will bend under a load. We work out th
 
 A fact doesn't become somebody's whim because establishing it took instruments and interpretation. The dependence tells us where to inspect the account. We can improve a procedure, compare independent approaches, find a source of error, or discover that something we thought general holds only within a narrower range. What I want science to replace in our myths is the privilege of being exempt from that work. The new account may be stranger than the old story, but it should come with better ways of finding out where it fails. Otherwise we've changed the costumes and kept the priesthood.
 
-The social side of inquiry matters for the same reason: an individual investigator is capable of attachment, exhaustion and self-deception, sometimes all before lunch. Someone else needs enough information to inspect the route: what was measured, how the data were handled, which assumptions went in, and what happened when the analysis was repeated. Reproducing a result from the same data and replicating it with new data test different parts of that route.[^v1-phi-i-reproduction]
+<!-- AI-assisted local review merge, 2026-11-15; author approved the pasted Fable changes. -->
+The social side of inquiry matters for the same reason: an individual investigator is capable of attachment, exhaustion and self-deception, sometimes all before lunch. Someone else needs enough information to inspect the route: what was measured, how the data were handled, which assumptions went in, and what happened when the analysis was repeated. Reproducing a result from the same data and replicating it with new data test different parts of that route.[^v1-phi-i-reproduction] It's the chapter's many windows, made procedural: an independent replication is a passenger at another window who never compared notes.
+<!-- End AI-assisted local review merge, 2026-11-15. -->
 
 The habit travels well outside the laboratory. A chart without its denominators, a result without its conditions, or a benchmark without the test that produced it can travel much faster than the knowledge it claims to carry. A fact should have a return address. Someone ought to be able to ask how it got here.
 
@@ -309,7 +325,9 @@ The detailed architectures can wait for later interludes. At this entrance to th
 
 ## The Instrument Goes Outside
 
-The boy's radio question deserves an answer by now. _Where inside the radio is the thing that takes the wave thing and makes it into sound? How does the antenna find them?_
+<!-- AI-assisted local review merge, 2026-11-15; author approved the pasted Fable changes. -->
+The boy's radio question deserves an answer by now. _Where inside the radio is that thing that takes the wave thing and makes it into sound? How does the antenna find them?_
+<!-- End AI-assisted local review merge, 2026-11-15. -->
 
 <!-- AI-assisted revision/addition, 2026-11-14. -->
 The antenna, it turns out, doesn't find anything. The air around it (and around you, as you read this) is crowded with radio waves from every station within range, all at once, and every one of them nudges the electrons in the antenna's metal. What a radio does is choose. A tuned circuit inside it resonates at one frequency, the way a child on a swing only goes higher if you push in time with the swing, so it responds strongly near the selected frequency and much less strongly away from it. In a simple AM receiver, another stage recovers the slow changes in amplitude that carry voice and music, and a speaker turns them into pressure in the air, which your ear turns back into something you'd call sound.[^v1-phi-i-radio] There isn't a single thing inside the radio that does all of it. There's an arrangement: a chain of relationships, each passing the message along to the next. The answer to the boy's question was structure, not furniture.

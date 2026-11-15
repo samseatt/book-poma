@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-15",
+  "unit_id": "v1-phi-interlude",
+  "base_commit": "3f3f7dfcc22ad5367724e9074d68c0d0b1c859d1",
+  "integration_source": "Author-pasted Fable review, explicitly authorized after the on-disk source mismatch was reported",
+  "unmerged_disk_source": {
+    "path": "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-interlude.md",
+    "sha256": "f0b9387646f4dbf27b0bb24d7fb27351972701157415f8345c01ae52a4aefe75",
+    "reason": "Does not contain the reviewed baseline or specified local revisions; preserved unchanged"
+  },
+  "canonical_before_sha256": "dee775ab997aa94fe875a9244dc30625a880e6ceb92f554f012846bc3a13c29a",
+  "canonical_after_sha256": "324b62733420be19ea4ebffe3cef4190106a17ec952a4abd08d1d133f4783391",
+  "local_changes": 8,
+  "figure": {
+    "path": "manuscripts/volume-1/assets/phi-interlude/alarms-and-base-rates.svg",
+    "sha256": "db9d4985c7e89f35df444448847fb02044e16a535529f6d777b305b182b531f2",
+    "unchanged": true,
+    "markup_unchanged": true,
+    "prior_audit": "work/volume-1-drafting/phi-interlude-adoption-2026-11-14/audit.json"
+  },
+  "preservation": {
+    "all_prior_comments": true,
+    "prior_comment_count": 46,
+    "all_note_definitions_identical": true,
+    "all_display_equations_identical": true,
+    "exact_closing_identical": true,
+    "no_unresolved_inline_annotations": true,
+    "exact_recovery_by_reversing_approved_changes_and_removing_new_markers": true,
+    "alarm_asset_hash_checked_after_write": true
+  },
+  "sources": {
+    "reused": "14 November adoption audit and its referenced earlier verification",
+    "fresh": [
+      "https://arxiv.org/html/2506.16180v1",
+      "https://ilorentz.org/quantumcomputers/literature/preskill_2_update.pdf",
+      "https://www.nationalacademies.org/read/25303/chapter/6"
+    ]
+  },
+  "validation": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-interlude.md",
+    "sha256": "324b62733420be19ea4ebffe3cef4190106a17ec952a4abd08d1d133f4783391",
+    "defined_notes": 31,
+    "note_references": 31,
+    "parsed_notes": 31,
+    "html_note_backlinks": 31,
+    "display_equations": 5,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+    ],
+    "errors": [],
+    "passed": true,
+    "definition_order_advisory": "Pre-existing legal Markdown order retained; rendered note numbering and backlinks pass."
+  },
+  "publication": "not requested or performed"
+}
