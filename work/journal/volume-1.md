@@ -388,3 +388,8 @@ Beyond the incoming text, removed one accidental double period after the Fokker 
 ## V1-038 — Coda I Fable adoption
 
 **15 November 2026.** Adopted *The Soil and the Shadow*: the fold, missing-organ/Neusphere reveal, Castlegar–Kelowna detour, domain amendments and practical sensing/action examples. Existing Mannaz artwork retained. Six inherited references checked and replaced with linked source notes; the basal-ganglia sentence received a narrow qualification. All incoming comments and closing wording remain. See [closing adoption notes](../closing-drafting/codas-epilogue-adoption-2026-11-15/ADOPTION_NOTES.md), B-053 and S016. No other V1 unit changed.
+
+
+## V1-039 — Interlude 1: Fable revision and three supplied diagrams
+
+**15 November 2026; adopted.** Merged `fable/01-interlude.md` as the canonical *Solid State Sparks — The Pocket Universe*. Added its three grayscale SVGs unchanged; retained the existing NOT-gate image/example, parents’ opening, Tiedemann/partial-credit humor and ending. The richer bands/donors, diode, switching-energy, growth and memory material stays. Small factual repairs concern crystal counting, resonance/Bloch scope, Dirac chronology, the diode’s charge sign, a full CMOS charge–discharge cycle, and the separate implantation mask. New references checked and linked; original markers preserved. Bob’s informational-gravity/copying argument is unchanged and recorded in S017. See [adoption notes](../volume-1-drafting/interlude-01-fable-adoption-2026-11-15/ADOPTION_NOTES.md), exact change log and reference audit. Single-pass merge; no publication.

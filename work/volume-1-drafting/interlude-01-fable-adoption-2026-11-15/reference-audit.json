@@ -1,0 +1,352 @@
+{
+  "date": "2026-11-15",
+  "unit_id": "v1-1-interlude",
+  "note_count": 28,
+  "new_note_count": 6,
+  "verification_policy": "Fresh verification of additions; explicitly reuse earlier source work for inherited claims. Evidence scope is stated per record, not represented as fresh full-text reading of all sources. Historical AI/source comments remain unchanged.",
+  "records": [
+    {
+      "note_id": "v1-i1-material",
+      "claim_scope": "The sand/wafer connection is a material lineage, not a claim that quartz already behaves like a semiconductor. Quartz is silicon dioxide; chipmaking requires reduction, purification and crystal growth to obtain electronic-grade silicon. See Intel, [*From Sand to Silicon: The Making of a Chip*](https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf) (2009), opening stages, “Sand,” “Melted Silicon” and “Monocrystalline Silicon Ingot.”",
+      "urls": [
+        "https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-material",
+      "prior_evidence_scope": "Earlier dossier: Intel process stages inspected. Reused, not a fresh full-document reading.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-bloch",
+      "claim_scope": "Felix Bloch, [“Über die Quantenmechanik der Elektronen in Kristallgittern”](https://doi.org/10.1007/BF01339455), *Zeitschrift für Physik* 52 (1929): 555–600; received 10 August 1928. The date in the prose refers to the work, rather than the journal issue. A Bloch state combines a plane-wave factor with a lattice-periodic factor; it need not behave like a free electron. See also MIT, [*Electrical, Optical, and Magnetic Properties of Materials*, lecture 9](https://ocw.mit.edu/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/49728ee6fbac8503c94b5a9aab74242c_lec9.pdf) (2007), Bloch theorem and band formation. Defects and surfaces can introduce states within the ideal bulk gap.",
+      "urls": [
+        "https://doi.org/10.1007/BF01339455",
+        "https://ocw.mit.edu/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/49728ee6fbac8503c94b5a9aab74242c_lec9.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-bloch",
+      "prior_evidence_scope": "Publisher metadata and abstract inspected this pass: received 1928, published 1929; full article paywalled. MIT Bloch/band notes inspected in earlier dossier.",
+      "current_evidence_scope": "Prior historical Bloch citation verification reused; Marzari lecture 9 reopened this pass to check the new displayed formula and band formation.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-wilson",
+      "claim_scope": "Alan H. Wilson, [“The Theory of Electronic Semi-Conductors”](https://doi.org/10.1098/rspa.1931.0162), *Proceedings of the Royal Society A* 133 (1931): 458–491. For the band-filling account used here, see MIT, [*Solid State Physics*, part I](https://web.mit.edu/6.732/www/new_part1.pdf), chapters 1–2. The musical comparison concerns available states and charge transport, not a literal absence of motion in an insulator. The figure’s approximate 9 eV quartz gap is also used in [‘Unraveling the electronic properties in SiO2 under ultrafast laser irradiation’](https://doi.org/10.1038/s41524-024-01350-2), *npj Computational Materials* (2024).",
+      "urls": [
+        "https://doi.org/10.1098/rspa.1931.0162",
+        "https://web.mit.edu/6.732/www/new_part1.pdf",
+        "https://doi.org/10.1038/s41524-024-01350-2"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-wilson",
+      "prior_evidence_scope": "Original-paper scan metadata and introduction indexed excerpt checked; not the full 35-page paper. MIT occupancy/gap explanation reused from earlier inspected source.",
+      "current_evidence_scope": "Prior Wilson/MIT evidence reused. New quartz ~9 eV value corroborated by the indexed primary article text of npj Computational Materials DOI 10.1038/s41524-024-01350-2 (comparison of aluminum, silicon and quartz); direct full-page access redirected to an inaccessible identity endpoint. This is an approximate figure value, not a new measurement or claim of full-article inspection.",
+      "definition_unchanged_from_canonical": false
+    },
+    {
+      "note_id": "v1-i1-doping",
+      "claim_scope": "Jesús del Alamo, MIT 6.012, [lecture 2, “Semiconductor Physics (I)”](https://web.mit.edu/6.012/www/SP07-L2.pdf) (2007), silicon bonding, intrinsic carriers, donors and acceptors. Four nearest neighbors in silicon's diamond lattice form a tetrahedral arrangement. Phosphorus donors and boron acceptors alter carrier populations; undoped silicon is not completely nonconducting.",
+      "urls": [
+        "https://web.mit.edu/6.012/www/SP07-L2.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-doping",
+      "prior_evidence_scope": "Earlier inspected MIT lecture 2, slides 2–5 and 8–15, reused.",
+      "current_evidence_scope": "Prior MIT lecture evidence reused and lecture 2 reopened for the new quantitative silicon/doping claims.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-ohl",
+      "claim_scope": "Ohl's light-sensitive silicon junction dates to February 1940; the Computer History Museum's [“Discovery of the P-N Junction”](https://www.computerhistory.org/siliconengine/discovery-of-the-p-n-junction/) recounts the impurity boundary and photovoltaic response. His [U.S. Patent 2,402,662, “Light-sensitive electric device”](https://patents.google.com/patent/US2402662A/en), was **filed** 27 May 1941 and **granted** 25 June 1946. A crack was the visible clue; the different doping on its sides supplied the electrical junction.",
+      "urls": [
+        "https://www.computerhistory.org/siliconengine/discovery-of-the-p-n-junction/",
+        "https://patents.google.com/patent/US2402662A/en"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-ohl",
+      "prior_evidence_scope": "Museum discovery account inspected during review; patent filing/grant metadata checked this pass. Do not claim a new reading of Crystal Fire.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-junction",
+      "claim_scope": "Del Alamo, MIT 6.012, [lecture 5, “P-N Junction Electrostatics”](https://web.mit.edu/6.012/www/SP07-L5.pdf) (2007), depletion-region charges and built-in potential. “Cancel” would obscure the mechanism: mobile electrons and holes recombine while fixed ionized dopants remain. Rectification is approximate; reverse leakage and breakdown matter.",
+      "urls": [
+        "https://web.mit.edu/6.012/www/SP07-L5.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-junction",
+      "prior_evidence_scope": "Earlier inspected MIT lecture 5 depletion/potential treatment reused.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-bardeen",
+      "claim_scope": "University of Illinois, [John Bardeen memorial biography](https://physics.illinois.edu/people/Memorials/bardeen): Madison birth and Wisconsin electrical-engineering degrees, B.S. 1928 and M.S. 1929. The Nobel Foundation records his Physics prizes in [1956](https://www.nobelprize.org/prizes/physics/1956/summary/) and [1972](https://www.nobelprize.org/prizes/physics/1972/summary/), and identifies him as the [only double Physics laureate](https://www.nobelprize.org/prizes/physics/facts-on-the-nobel-prize-in-physics/). The Tiedemann episode is the author's recollection.",
+      "urls": [
+        "https://physics.illinois.edu/people/Memorials/bardeen",
+        "https://www.nobelprize.org/prizes/physics/1956/summary/",
+        "https://www.nobelprize.org/prizes/physics/1972/summary/",
+        "https://www.nobelprize.org/prizes/physics/facts-on-the-nobel-prize-in-physics/"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-bardeen",
+      "prior_evidence_scope": "University biography used in earlier dossier; Nobel Foundation records checked during review/current search. Family/classroom memories remain author evidence.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-diode",
+      "claim_scope": "In the ideal diffusion model, $I=I_S\\left(e^{qV/(k_BT)}-1\\right)$: current $I$, reverse saturation current $I_S$, junction voltage $V$, elementary charge $q$, absolute temperature $T$ and Boltzmann constant $k_B$. See del Alamo, MIT 6.012, [lecture 14](https://web.mit.edu/6.012/www/SP07-L14.pdf) (2007), pp. 13–16. This is a model with a range of validity, not an exact law for every diode; recombination, series resistance, high injection and breakdown require further treatment. The tenfold increase per roughly 60 mV is the forward-current approximation at 300 K with ideality factor one; the depleted layer in the figure uses the approximation that mobile charge there is negligible.",
+      "urls": [
+        "https://web.mit.edu/6.012/www/SP07-L14.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-diode",
+      "prior_evidence_scope": "MIT lecture 14 pp. 13–16 inspected during comparison; ideal diffusion equation, scope and forward approximation checked.",
+      "current_evidence_scope": "Prior inspected MIT lecture 14 ideal-diode evidence reused; the added 59.53 mV/decade at 300 K computed independently. Depletion approximation and pre-breakdown reverse behavior supplied to the caption/note; drawing retained unchanged.",
+      "definition_unchanged_from_canonical": false
+    },
+    {
+      "note_id": "v1-i1-noise",
+      "claim_scope": "MIT 6.004, [“The Digital Abstraction,” section 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c2/c2s1/) (2017), voltage thresholds, noise margins and restoring behavior. Valid output ranges sit inside the corresponding accepted input ranges, providing tolerance for bounded disturbances between gates. Correct timing and other operating limits are still required.",
+      "urls": [
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c2/c2s1/"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-noise",
+      "prior_evidence_scope": "MIT digital abstraction sections on thresholds/noise margins/restoration inspected during comparison.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-transistor",
+      "claim_scope": "John Bardeen and Walter H. Brattain, [“The Transistor, a Semi-Conductor Triode”](https://doi.org/10.1103/PhysRev.74.230), *Physical Review* 74 (1948): 230–231. The Computer History Museum's [1947 milestone](https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/) distinguishes successful amplification on 16 December from the demonstration to lab officials on 23 December. The paper-clip assembly is visible in the annotated Bell Labs photograph reproduced in UCSB, [*Semiconductor Device Processing*, introductory lecture](https://courses.ece.ucsb.edu/ECE220/220A_F08Hu/lect1.pdf), slide 10; that slide's 1948 caption is not the discovery date. For the junction model, William Shockley, [“The Theory of p-n Junctions in Semiconductors and p-n Junction Transistors”](https://doi.org/10.1002/j.1538-7305.1949.tb03645.x), *Bell System Technical Journal* 28 (1949): 435–489.",
+      "urls": [
+        "https://doi.org/10.1103/PhysRev.74.230",
+        "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/",
+        "https://courses.ece.ucsb.edu/ECE220/220A_F08Hu/lect1.pdf",
+        "https://doi.org/10.1002/j.1538-7305.1949.tb03645.x"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-transistor",
+      "prior_evidence_scope": "Museum dated account and source list inspected this pass. Primary-photo reproduction in UCSB slide 10 inspected; dates on that slide not used. Physical Review paper identified through museum/publisher record; Shockley citation is historical bibliographic context, not a claim to a full new paper reading. Device mechanism also covered by earlier MIT BJT sources.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-mosfet",
+      "claim_scope": "The Computer History Museum's [“Metal Oxide Semiconductor (MOS) Transistor Demonstrated”](https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/) dates Atalla and Kahng's successful device to 1959 and its presentation to 1960. Its oxide-insulated gate overcame the surface-state obstacle to field control. The classic silicon-dioxide gate dielectric is described here; later devices also use other insulating materials.",
+      "urls": [
+        "https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-mosfet",
+      "prior_evidence_scope": "Museum account read this pass, first successful device 1959 and 1960 presentation. Classic mechanism covered by earlier MIT CMOS teaching sources.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-cmos",
+      "claim_scope": "MIT 6.004, [“CMOS Technology,” section 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/), and del Alamo, MIT 6.012, [lecture 13](https://web.mit.edu/6.012/www/SP07-L13.pdf) (2007), pp. 13–16. Low steady gate current alone does not make a circuit low-power. Complementary pull-up/pull-down networks suppress ideal static supply current; charging capacitances during switching and real-device leakage still dissipate power.",
+      "urls": [
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/",
+        "https://web.mit.edu/6.012/www/SP07-L13.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-cmos",
+      "prior_evidence_scope": "Earlier inspected MIT CMOS teaching and lecture 13 power sources reused.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-inverter",
+      "claim_scope": "Chris Terman, MIT 6.004, [“3.1 Annotated Slides”](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/) (Spring 2017), CMOS inverter and propagation-delay discussions. The book's original diagram uses ideal switches in settled states; it omits switching delay, transient current and leakage.",
+      "urls": [
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/"
+      ],
+      "basis": "unchanged verified inverter source",
+      "prior_record": "work/volume-1-drafting/interlude-01-finish-2026-10-23/finish-audit.json",
+      "prior_evidence_scope": {
+        "note_id": "v1-i1-inverter",
+        "source": "MIT 6.004 Computation Structures, Spring 2017, Chris Terman, 3.1 Annotated Slides",
+        "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c3/c3s1/",
+        "locator": "CMOS technology and inverter explanation; propagation delay discussion",
+        "accessed": "2026-10-23",
+        "status": "Supporting instructional text inspected directly",
+        "scope": "Complementary pMOS pullup and nMOS pulldown with shared input; settled low input yields high output and vice versa. Figure is an original ideal-switch illustration, not device geometry or a timing diagram.",
+        "limits": "No new audit of the entire unit; previous adoption source audit remains applicable. Transition overlap, delay, capacitance and leakage are omitted from the simplified illustration."
+      },
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-flipflop",
+      "claim_scope": "W. H. Eccles and F. W. Jordan, [British Patent GB148582A, “Improvements in ionic relays”](https://patents.google.com/patent/GB148582A/en), filed 21 June 1918, published 5 August 1920: mutually coupled thermionic devices retain either state. For the distinction between a bistable feedback loop, gated latch and clocked register, see MIT 6.004, [“Sequential Logic,” section 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c5/c5s1/). Terminology varies historically; two bare cross-coupled inverters are not by themselves a complete clocked flip-flop.",
+      "urls": [
+        "https://patents.google.com/patent/GB148582A/en",
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c5/c5s1/"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-flipflop",
+      "prior_evidence_scope": "GB148582A patent description and filing/publication metadata inspected this pass; MIT sequential logic read during comparison.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-dram",
+      "claim_scope": "Robert H. Dennard, [U.S. Patent 3,387,286, “Field-effect transistor memory”](https://patents.google.com/patent/US3387286A/en), filed 14 July 1967, granted 4 June 1968, abstract and description of the single-transistor/single-capacitor cell. Stored charge leaks and must be restored; the patent also discusses alternative embodiments, so not every figure depicts the familiar one-transistor cell.",
+      "urls": [
+        "https://patents.google.com/patent/US3387286A/en"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-dram",
+      "prior_evidence_scope": "US3387286A abstract, single-transistor/single-capacitor description and metadata inspected this pass.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-mbe",
+      "claim_scope": "A. Y. Cho and J. R. Arthur, [“Molecular beam epitaxy”](https://doi.org/10.1016/0079-6786(75)90005-9), *Progress in Solid State Chemistry* 10 (1975): **157–191**. See also Cho's [oral history with David Brock](https://archive.computerhistory.org/resources/access/text/2015/06/102702406-05-01-acc.pdf), Computer History Museum, 18 May 2010, pp. 24–25, on collaboration with Arthur, molecular beams and growth control. Epitaxy means crystallographic orientation inherited from a substrate; it does not promise a defect-free continuation or universal layer-by-layer growth.",
+      "urls": [
+        "https://doi.org/10.1016/0079-6786(75",
+        "https://archive.computerhistory.org/resources/access/text/2015/06/102702406-05-01-acc.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-mbe",
+      "prior_evidence_scope": "Publisher metadata/abstract for 1975 review checked, pp. 157–191; full review not read. Cho oral history pp. 24–25 inspected for collaboration and apparatus; earlier epitaxy mechanism source retained in prior dossier.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-fabrication",
+      "claim_scope": "Intel, [*From Sand to Silicon*](https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf) (2009), photoresist, exposure, washing and etching stages; ASML, [“6 crucial steps in semiconductor manufacturing”](https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps), lithography and etching. Positive and negative resists respond differently. Lithography patterns resist; subsequent etching, deposition or implantation uses that pattern. The transmission-mask example is not a description of reflective EUV optics.",
+      "urls": [
+        "https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf",
+        "https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-fabrication",
+      "prior_evidence_scope": "Earlier Intel and ASML process passages reused; positive/negative resist and lithography versus etch distinctions checked.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-monkey",
+      "claim_scope": "John McCarthy, “Situations, Actions, and Causal Laws,” Stanford Artificial Intelligence Project Memo 2 (1963), listed in his [author bibliography](https://www-formal.stanford.edu/jmc/sitcalc1/node22.html). For an explicit worked formulation, see Gerardo I. Simari, Diego R. García and Gabriel R. Filocamo, [“A General Approach to the Implementation of Action Theories”](https://www.cs.ox.ac.uk/people/gerardo.simari/personal/publications/Simari-Garcia-FilocamoWICC2003.pdf) (2003), section 3. Variants use a chair or box. The inflation comparison that follows is the author's conjectural analogy, not a result of AI planning or a probability calculation over universes.",
+      "urls": [
+        "https://www-formal.stanford.edu/jmc/sitcalc1/node22.html",
+        "https://www.cs.ox.ac.uk/people/gerardo.simari/personal/publications/Simari-Garcia-FilocamoWICC2003.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-monkey",
+      "prior_evidence_scope": "Author bibliography confirms McCarthy 1963 Memo 2. Original DTIC and archive PDF retrieval failed. Simari et al. 2003 sec. 3 explicitly describes the chair variant and attributes the predecessor. Bibliographic text in that later paper is garbled, so the original identity comes from McCarthy’s own list. No assertion of first invention of the animal puzzle.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-ic",
+      "claim_scope": "Kilby's first working circuit, tested 12 September 1958, used germanium and external connecting wires; see the Computer History Museum's [artifact record](https://www.computerhistory.org/revolution/digital-logic/12/276/1413). Robert Noyce's [U.S. Patent 2,981,877, “Semiconductor device-and-lead structure”](https://patents.google.com/patent/US2981877A/en), filed 30 July 1959, granted 25 April 1961, describes oxide insulation and metal leads, including aluminum. Jean Hoerni's [planar-process patent, U.S. 3,025,589](https://patents.google.com/patent/US3025589A/en), was filed 1 May 1959 and granted 20 March 1962. The components and interconnects form an integrated structure; they are not all carved from one homogeneous material.",
+      "urls": [
+        "https://www.computerhistory.org/revolution/digital-logic/12/276/1413",
+        "https://patents.google.com/patent/US2981877A/en",
+        "https://patents.google.com/patent/US3025589A/en"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-ic",
+      "prior_evidence_scope": "Earlier inspected artifact record, Noyce patent and Hoerni patent reused. No same-material interconnect inference.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-wheeler",
+      "claim_scope": "John Archibald Wheeler, “Information, Physics, Quantum: The Search for Links,” in *Proceedings of the 3rd International Symposium on Foundations of Quantum Mechanics in the Light of New Technology* (1989), pp. 354–368. The available [later reprint](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), section 19.2, sets out “it from bit”; its pagination differs from the proceedings. Wheeler offered a participatory, information-centered foundational program. The proposed tendency called “informational gravity” here is the author's, not Wheeler's result or an additional physical force.",
+      "urls": [
+        "https://scienceplusplus.org/visions/assets/Wheeler1989.pdf"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-wheeler",
+      "prior_evidence_scope": "Primary reprint section 19.2 inspected this pass; original 1989 proceedings metadata separately checked. Reprint page numbers not substituted for conference pagination.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-pattern-mechanisms",
+      "claim_scope": "For the distinct mechanisms: MIT Chemistry, [“Growing Quality Crystals”](https://chemistry.mit.edu/facilities-and-centers/x-ray-diffraction-facility/growing-quality-crystals/), “Saturation and Supersaturation” and “Nucleation”; MIT 6.004, [“Sequential Logic”](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c5/c5s1/), powered feedback; Bruce Alberts et al., [“DNA Replication Mechanisms”](https://www.ncbi.nlm.nih.gov/books/NBK26850/), *Molecular Biology of the Cell*, 4th ed. (2002), template-directed polymerization. These support the individual examples, not a common law that stable patterns inevitably spread.",
+      "urls": [
+        "https://chemistry.mit.edu/facilities-and-centers/x-ray-diffraction-facility/growing-quality-crystals/",
+        "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c5/c5s1/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK26850/"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-pattern-mechanisms",
+      "prior_evidence_scope": "MIT Chemistry saturation/nucleation passages read this pass; MIT powered feedback source previously inspected. Alberts template/polymerase/substrate passage available in indexed excerpt; direct NCBI page blocked by browser challenge. Full textbook chapter not read this pass.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-landauer",
+      "claim_scope": "Rolf Landauer, [“Irreversibility and Heat Generation in the Computing Process”](https://doi.org/10.1147/rd.53.0183), *IBM Journal of Research and Development* 5 (1961): 183–191; Charles H. Bennett, [“Notes on Landauer's Principle, Reversible Computation, and Maxwell's Demon”](https://arxiv.org/abs/physics/0210005), *Studies in History and Philosophy of Modern Physics* 34 (2003): 501–510. For ideal reset of an initially unknown, equally probable binary memory coupled to a thermal reservoir at temperature $T$, the familiar lower bound on average heat delivered to the reservoir is $Q\\geq k_BT\\ln 2$. Known or correlated bits and other physical arrangements require their information and entropy balances to be specified. This is not a universal cost of every act of forgetting, a claim that storage is free, or a proof that memory promotes growth.",
+      "urls": [
+        "https://doi.org/10.1147/rd.53.0183",
+        "https://arxiv.org/abs/physics/0210005"
+      ],
+      "basis": "prior verified source record, plus targeted fresh checks where stated",
+      "prior_record": "work/volume-1-drafting/interlude-01-adoption-2026-10-23/reference-audit.json#v1-i1-landauer",
+      "prior_evidence_scope": "Landauer publisher metadata checked; Bennett abstract and opening PDF pp. 1–2 inspected during comparison. Conditions and logical/physical distinction checked; not a full new reading of Landauer 1961.",
+      "definition_unchanged_from_canonical": true
+    },
+    {
+      "note_id": "v1-i1-darwinism",
+      "claim_scope": "Wojciech H. Zurek, [‘Quantum Darwinism’](https://doi.org/10.1038/nphys1202), *Nature Physics* 5 (2009): 181–188. For an experimental test of redundant records in a small spin environment, see T. K. Unden et al., [‘Revealing the Emergence of Classicality Using Nitrogen-Vacancy Centers’](https://doi.org/10.1103/PhysRevLett.123.140402), *Physical Review Letters* 123 (2019): 140402. The copied information concerns selected pointer states; arbitrary unknown quantum states cannot be freely cloned. The link to informational gravity remains the author’s conjecture. A short description of repeated structure is not by itself a probability measure over worlds or a physical mechanism of replication.",
+      "urls": [
+        "https://doi.org/10.1038/nphys1202",
+        "https://doi.org/10.1103/PhysRevLett.123.140402"
+      ],
+      "basis": "new source verification, 2026-11-15",
+      "current_evidence_scope": "Nature publisher abstract and metadata inspected for Zurek 2009; APS publisher abstract and metadata inspected for Unden et al. 2019, DOI 10.1103/PhysRevLett.123.140402. Experiment concerns redundant records of preferred states in a controlled NV/nuclear-spin system. No claim to have reread either full paper or that the experiment proves a cosmic recipe census.",
+      "definition_unchanged_from_canonical": false
+    },
+    {
+      "note_id": "v1-i1-transparency",
+      "claim_scope": "For Bloch states and the resulting dispersion, see Nicola Marzari, MIT 3.23, [lecture 9](https://ocw.mit.edu/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/49728ee6fbac8503c94b5a9aab74242c_lec9.pdf) (2007). The static periodic potential does not cause random resistive collisions in this independent-electron picture; it still determines bands, effective masses and diffraction. ‘Invisible’ is that limited analogy, not a claim that a lattice cannot be detected or that interacting, finite crystals must have zero resistance. Silicon’s two-atom primitive cell differs from its conventional cubic cell: the latter has eight atoms, a side of 0.543 nm and hence about $5 \\times 10^{22}$ atoms per cubic centimeter; see del Alamo, [lecture 2](https://web.mit.edu/6.012/www/SP07-L2.pdf), p. 3.",
+      "urls": [
+        "https://ocw.mit.edu/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/49728ee6fbac8503c94b5a9aab74242c_lec9.pdf",
+        "https://web.mit.edu/6.012/www/SP07-L2.pdf"
+      ],
+      "basis": "new source verification, 2026-11-15",
+      "current_evidence_scope": "MIT Marzari lecture 9 and del Alamo lecture 2 inspected this pass: Bloch phase, dispersion, lattice parameter, atomic density. Conventional-cell density checked independently. The metaphor is scoped to the static independent-electron account; no claim that the periodic potential is physically absent.",
+      "definition_unchanged_from_canonical": false
+    },
+    {
+      "note_id": "v1-i1-dirac",
+      "claim_scope": "P. A. M. Dirac, [‘A Theory of Electrons and Protons’](https://doi.org/10.1098/rspa.1930.0013), *Proceedings of the Royal Society A* 126 (1930): 360–365, and [‘Quantised Singularities in the Electromagnetic Field’](https://doi.org/10.1098/rspa.1931.0130), 133 (1931): 60–72. The latter replaces the proton identification with an anti-electron. A semiconductor hole is an effective excitation, not a positron; ‘cancel’ means recombination, not literal matter–antimatter annihilation. Efficient LEDs generally use direct-gap materials, unlike silicon. For silicon’s 1.12 eV gap and intrinsic carrier density near $10^{10}$ cm$^{-3}$ at 300 K, see C. A. Ross, MIT 3.15, [‘Carrier Fundamentals’](https://ocw.mit.edu/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/a3b94baf512eac5e3272b6f2f9b59467_lecture1.pdf), pp. 1–2. More fully, $n_i=\\sqrt{N_cN_v}\\,e^{-E_g/(2k_BT)}$, where $N_c,N_v$ are effective densities of states; the omitted prefactor itself varies with temperature. The exponential alone is not the fraction of atoms supplying carriers.",
+      "urls": [
+        "https://doi.org/10.1098/rspa.1930.0013",
+        "https://doi.org/10.1098/rspa.1931.0130",
+        "https://ocw.mit.edu/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/a3b94baf512eac5e3272b6f2f9b59467_lecture1.pdf"
+      ],
+      "basis": "new source verification, 2026-11-15",
+      "current_evidence_scope": "1930 publisher metadata and original-paper scan indexed excerpt; 1931 paper opening via McGill author-paper reproduction (https://www.physics.mcgill.ca/~keshav/551III/dirac1931.pdf), plus Royal Society metadata. Ross MIT carrier notes pp. 1–3 inspected for density, gap, effective state densities and direct/indirect distinction. CHM historical diode account (https://computerhistory.org/blog/who-invented-the-diode/) supplies Round 1907 and Losev chronology; semiconductor light emission preceded Dirac, so the unsupported priority clause was removed.",
+      "definition_unchanged_from_canonical": false
+    },
+    {
+      "note_id": "v1-i1-donor",
+      "claim_scope": "W. Kohn and J. M. Luttinger, [‘Theory of Donor States in Silicon’](https://doi.org/10.1103/PhysRev.98.915), *Physical Review* 98 (1955): 915–922. The hydrogen picture uses screened interaction and effective mass, not changed fundamental constants. An isotropic estimate with relative permittivity about 11.7 and mass about $0.26m_e$ gives a radius near 2.4 nm and binding near 0.026 eV; valley anisotropy and the donor’s immediate surroundings matter for the actual ground state. Phosphorus’s measured binding is about 0.045 eV; see Ross, [‘Carrier Fundamentals’](https://ocw.mit.edu/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/a3b94baf512eac5e3272b6f2f9b59467_lecture1.pdf), p. 1. At room temperature, dilute donors can be largely ionized even though this exceeds $k_BT$; state populations, not a hard energy cutoff, determine ionization. One-part-per-million doping gives about $5 \\times 10^{16}$ donors per cm$^3$. For the purity scale, Tokuyama specifies [eleven-nines polysilicon](https://www.tokuyama.co.jp/eng/products/electronic_materials/polysilicon.html/); purity specifications depend on the impurities counted.",
+      "urls": [
+        "https://doi.org/10.1103/PhysRev.98.915",
+        "https://ocw.mit.edu/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/a3b94baf512eac5e3272b6f2f9b59467_lecture1.pdf",
+        "https://www.tokuyama.co.jp/eng/products/electronic_materials/polysilicon.html/"
+      ],
+      "basis": "new source verification, 2026-11-15",
+      "current_evidence_scope": "Kohn–Luttinger publisher abstract/metadata inspected (six-valley anisotropic effective-mass model and ground-state limits); Ross MIT notes for P donor 45 meV and carrier densities. Tokuyama product page inspected for eleven-nines material. ETH dissertation indexed primary excerpt (https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/86236/eth-27658-02.pdf) corroborates epsilon 11.7, mass 0.26 and the 25.8 meV isotropic estimate. Radius and binding arithmetic independently checked. Do not mistake the simple 26 meV estimate for measured P binding.",
+      "definition_unchanged_from_canonical": false
+    },
+    {
+      "note_id": "v1-i1-czochralski",
+      "claim_scope": "J. Czochralski, [‘Ein neues Verfahren zur Messung der Kristallisationsgeschwindigkeit der Metalle’](https://doi.org/10.1515/zpch-1918-9212), *Zeitschrift für physikalische Chemie* 92 (1918): 219–221. The work dates to 1916; the pen-and-tin story is traditional and may be embellished. See [‘Jan Czochralski and His Method of Pulling Crystals’](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E735C7FCE5CFC8F1A8E9799CE07046E1/S0883769400015463a.pdf/jan-czochralski-and-his-method-of-pulling-crystals.pdf), *MRS Bulletin* (2004). Intel’s [*From Sand to Silicon*](https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf) (2009), ‘Monocrystalline Silicon Ingot,’ illustrates the hundred-kilogram scale; ingot dimensions and mass vary with the growth process.",
+      "urls": [
+        "https://doi.org/10.1515/zpch-1918-9212",
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E735C7FCE5CFC8F1A8E9799CE07046E1/S0883769400015463a.pdf/jan-czochralski-and-his-method-of-pulling-crystals.pdf",
+        "https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf"
+      ],
+      "basis": "new source verification, 2026-11-15",
+      "current_evidence_scope": "Original publisher metadata/method excerpt inspected: 1918, volume 92, pp. 219–221, DOI. MRS Bulletin historical article indexed passage corroborates 1916 work and 1918 publication. Pen anecdote remains traditional, not newly established personal history. Intel ingot/process stages reused from earlier inspected primary dossier for hundred-kilogram industrial scale; no universal size specification is claimed.",
+      "definition_unchanged_from_canonical": false
+    },
+    {
+      "note_id": "v1-i1-switchenergy",
+      "claim_scope": "Neil H. E. Weste and David Money Harris, *CMOS VLSI Design: A Circuits and Systems Perspective*, 4th ed. (Addison-Wesley, 2011), ch. 5; Harris’s accompanying [‘Power’ lecture](https://pages.hmc.edu/harris/cmosvlsi/4e/lect/lect7.pdf), pp. 5–8, derives $CV^2$ for a full charge–discharge cycle. The femtofarad/volt example is illustrative, not a specification for every gate. For the erasure bound, see Landauer (1961) and Bennett (2003), cited below: an ideal isothermal reset of one initially unknown, equally probable bit gives $k_BT\\ln 2$. Switching a load and erasing information are distinct operations; their energy scales are compared here, not equated.",
+      "urls": [
+        "https://pages.hmc.edu/harris/cmosvlsi/4e/lect/lect7.pdf"
+      ],
+      "basis": "new source verification, 2026-11-15",
+      "current_evidence_scope": "Harris author-hosted Power lecture pp. 5–8 inspected for charging/discharging losses and CV² per full cycle; fourth-edition official front matter inspected (2011). Existing Landauer/Bennett verification reused. Numeric ratio independently checked at 300 K. The comparison is of energy scales, not a claim every circuit transition irreversibly erases one bit.",
+      "definition_unchanged_from_canonical": false
+    }
+  ]
+}

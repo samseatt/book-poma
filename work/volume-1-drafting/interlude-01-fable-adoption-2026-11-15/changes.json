@@ -1,0 +1,110 @@
+[
+  {
+    "kind": "A",
+    "before": "for silicon, two atoms and a spacing of about half a nanometer, repeated some fifty billion trillion times in every cubic centimeter.",
+    "after": "for silicon, a two-atom motif on a lattice with a cubic spacing of about half a nanometer, making some fifty billion trillion atoms in every cubic centimeter.",
+    "reason": "The quoted density counts atoms, not repetitions of a two-atom cell. The conventional cubic cell contains eight atoms; the primitive cell contains two."
+  },
+  {
+    "kind": "B",
+    "before": "Only matching notes trade energy like this,",
+    "after": "Matching notes trade energy most readily,",
+    "reason": "Resonance favors matching frequencies; detuned coupled systems can also exchange energy."
+  },
+  {
+    "kind": "B",
+    "before": "It passes through billions of them as if through empty space. What resists it is only where the sameness fails:",
+    "after": "It passes through billions of them without the random collisions we might expect. In this picture, what resists it is where the sameness fails:",
+    "reason": "Periodic potentials still produce dispersion, effective mass, band gaps and diffraction. Preserve the invisibility metaphor, with the independent-electron model and limits in its note."
+  },
+  {
+    "kind": "A",
+    "before": "Paul Dirac had pictured antimatter in almost these terms, as holes in a filled sea, before anyone had made a semiconductor do it.",
+    "after": "Paul Dirac pictured antimatter in almost these terms, as holes in a filled sea.",
+    "reason": "Semiconductor electroluminescence preceded Dirac’s hole theory. Keep the useful analogy without the false historical priority."
+  },
+  {
+    "kind": "B",
+    "before": "How many such pairs does warm silicon hold? Boltzmann's relation",
+    "after": "How many such pairs does warm silicon hold per unit volume, a density we call $n_i$? Boltzmann's relation",
+    "reason": "Define the symbol in the displayed equation and distinguish density from a bare fraction. The temperature-dependent prefactor is supplied in the note."
+  },
+  {
+    "kind": "B",
+    "before": "$q$ the electron's charge, and $I_s$ a tiny leakage current fixed by the materials.",
+    "after": "$q$ the magnitude of the electron's charge, and $I_s$ a tiny leakage current set by the junction and its temperature.",
+    "reason": "The diode exponent uses positive elementary charge. Saturation current also depends on geometry and temperature."
+  },
+  {
+    "kind": "B",
+    "before": "Original schematic; the reverse current is drawn larger than life.",
+    "after": "Original schematic using the depletion approximation and ideal diode law; reverse current is exaggerated and breakdown is not shown.",
+    "reason": "Qualify the idealized empty depletion region and I–V drawing without altering the supplied artwork."
+  },
+  {
+    "kind": "B",
+    "before": "joules, per switch. Landauer's limit, the least heat that erasing one bit must cost at room temperature, is",
+    "after": "joules, per full cycle. Landauer's limit for erasing one unknown bit at room temperature is",
+    "reason": "CV² is the full charge/discharge cycle. The Landauer comparison concerns reset of an unknown bit under the conditions in the note, not all switching."
+  },
+  {
+    "kind": "B",
+    "before": "Today's switches sit something like a hundred thousand to a million times above that floor.",
+    "after": "At one femtofarad and one volt, our illustrative cycle sits roughly three hundred thousand times above that floor.",
+    "reason": "The ratio follows from the worked example (3.48×10^5 at 300 K); it is not a universal measured range for modern switches."
+  },
+  {
+    "kind": "B",
+    "before": "The same patterned film decides where the dopants go:",
+    "after": "A patterned film also decides where the dopants go:",
+    "reason": "The preceding resist has already been stripped; implantation can use a separate patterned mask."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-transparency]: Neil W. Ashcroft and N. David Mermin, *Solid State Physics* (1976), ch. 8 and 12, on Bloch electrons: in a perfectly periodic potential the stationary states carry current without degradation, and resistance arises from deviations from periodicity (lattice vibrations, impurities, defects). The diamond-cubic silicon lattice has a two-atom basis and a lattice constant of 0.543 nm, about $5 \\times 10^{22}$ atoms per cubic centimeter.",
+    "after": "[^v1-i1-transparency]: For Bloch states and the resulting dispersion, see Nicola Marzari, MIT 3.23, [lecture 9](https://ocw.mit.edu/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/49728ee6fbac8503c94b5a9aab74242c_lec9.pdf) (2007). The static periodic potential does not cause random resistive collisions in this independent-electron picture; it still determines bands, effective masses and diffraction. ‘Invisible’ is that limited analogy, not a claim that a lattice cannot be detected or that interacting, finite crystals must have zero resistance. Silicon’s two-atom primitive cell differs from its conventional cubic cell: the latter has eight atoms, a side of 0.543 nm and hence about $5 \\times 10^{22}$ atoms per cubic centimeter; see del Alamo, [lecture 2](https://web.mit.edu/6.012/www/SP07-L2.pdf), p. 3.",
+    "reason": "Replace the from-memory textbook citation with inspected teaching sources; retain the metaphor while distinguishing ballistic Bloch propagation from literal vacuum."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-dirac]: P. A. M. Dirac, “A Theory of Electrons and Protons,” *Proceedings of the Royal Society A* 126 (1930): 360–365. The correspondence between a semiconductor’s filled valence band and Dirac’s sea is an analogy with a shared mathematics, not an identity; modern quantum field theory no longer describes the vacuum as a filled sea. Silicon’s band gap is about 1.12 eV at room temperature and its intrinsic carrier density about $10^{10}$ per cubic centimeter; see S. M. Sze and Kwok K. Ng, *Physics of Semiconductor Devices*, 3rd ed. (2007).",
+    "after": "[^v1-i1-dirac]: P. A. M. Dirac, [‘A Theory of Electrons and Protons’](https://doi.org/10.1098/rspa.1930.0013), *Proceedings of the Royal Society A* 126 (1930): 360–365, and [‘Quantised Singularities in the Electromagnetic Field’](https://doi.org/10.1098/rspa.1931.0130), 133 (1931): 60–72. The latter replaces the proton identification with an anti-electron. A semiconductor hole is an effective excitation, not a positron; ‘cancel’ means recombination, not literal matter–antimatter annihilation. Efficient LEDs generally use direct-gap materials, unlike silicon. For silicon’s 1.12 eV gap and intrinsic carrier density near $10^{10}$ cm$^{-3}$ at 300 K, see C. A. Ross, MIT 3.15, [‘Carrier Fundamentals’](https://ocw.mit.edu/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/a3b94baf512eac5e3272b6f2f9b59467_lecture1.pdf), pp. 1–2. More fully, $n_i=\\sqrt{N_cN_v}\\,e^{-E_g/(2k_BT)}$, where $N_c,N_v$ are effective densities of states; the omitted prefactor itself varies with temperature. The exponential alone is not the fraction of atoms supplying carriers.",
+    "reason": "Verify Dirac’s two stages and define the semiconductor analogy and intrinsic-carrier prefactor without turning the main passage into a technical qualification."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-donor]: W. Kohn and J. M. Luttinger, “Theory of Donor States in Silicon,” *Physical Review* 98 (1955): 915–922. Silicon’s relative permittivity is about 11.7; the simple hydrogen-like estimate gives a binding energy of a few hundredths of an electron-volt and a radius of two to three nanometers, and the measured ionization energy of phosphorus in silicon is about 0.045 eV. Purity figures for electronic-grade silicon are commonly quoted as nine to eleven “nines.” A doping level of one part per million is about $5 \\times 10^{16}$ atoms per cubic centimeter, against an intrinsic carrier density near $10^{10}$.",
+    "after": "[^v1-i1-donor]: W. Kohn and J. M. Luttinger, [‘Theory of Donor States in Silicon’](https://doi.org/10.1103/PhysRev.98.915), *Physical Review* 98 (1955): 915–922. The hydrogen picture uses screened interaction and effective mass, not changed fundamental constants. An isotropic estimate with relative permittivity about 11.7 and mass about $0.26m_e$ gives a radius near 2.4 nm and binding near 0.026 eV; valley anisotropy and the donor’s immediate surroundings matter for the actual ground state. Phosphorus’s measured binding is about 0.045 eV; see Ross, [‘Carrier Fundamentals’](https://ocw.mit.edu/courses/3-15-electrical-optical-magnetic-materials-and-devices-fall-2006/a3b94baf512eac5e3272b6f2f9b59467_lecture1.pdf), p. 1. At room temperature, dilute donors can be largely ionized even though this exceeds $k_BT$; state populations, not a hard energy cutoff, determine ionization. One-part-per-million doping gives about $5 \\times 10^{16}$ donors per cm$^3$. For the purity scale, Tokuyama specifies [eleven-nines polysilicon](https://www.tokuyama.co.jp/eng/products/electronic_materials/polysilicon.html/); purity specifications depend on the impurities counted.",
+    "reason": "Verify the donor model, distinguish the simple estimate from measured phosphorus binding, and link a producer’s purity specification."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-czochralski]: J. Czochralski, “Ein neues Verfahren zur Messung der Kristallisationsgeschwindigkeit der Metalle,” *Zeitschrift für physikalische Chemie* 92 (1918): 219–221. The pen-and-tin story is traditional and may be embellished. Modern 300 mm silicon ingots run to roughly two meters and well over a hundred kilograms.",
+    "after": "[^v1-i1-czochralski]: J. Czochralski, [‘Ein neues Verfahren zur Messung der Kristallisationsgeschwindigkeit der Metalle’](https://doi.org/10.1515/zpch-1918-9212), *Zeitschrift für physikalische Chemie* 92 (1918): 219–221. The work dates to 1916; the pen-and-tin story is traditional and may be embellished. See [‘Jan Czochralski and His Method of Pulling Crystals’](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E735C7FCE5CFC8F1A8E9799CE07046E1/S0883769400015463a.pdf/jan-czochralski-and-his-method-of-pulling-crystals.pdf), *MRS Bulletin* (2004). Intel’s [*From Sand to Silicon*](https://download.intel.com/newsroom/kits/chipmaking/pdfs/Sand-to-Silicon_45nm-Version.pdf) (2009), ‘Monocrystalline Silicon Ingot,’ illustrates the hundred-kilogram scale; ingot dimensions and mass vary with the growth process.",
+    "reason": "Link the original paper and history; keep the anecdote explicitly traditional and use a sourced industrial scale rather than an uncited precise modern size."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-switchenergy]: Rolf Landauer, \"Irreversibility and Heat Generation in the Computing Process,\" *IBM Journal of Research and Development* 5 (1961): 183–191, for the erasure bound; for dynamic switching energy in CMOS, see Neil H. E. Weste and David Money Harris, *CMOS VLSI Design: A Circuits and Systems Perspective*, 4th ed. (Addison-Wesley, 2011), ch. 5. The femtojoule figure is an order-of-magnitude illustration for a logic gate with its local wiring; it varies widely with technology and load. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-i1-switchenergy]: Neil H. E. Weste and David Money Harris, *CMOS VLSI Design: A Circuits and Systems Perspective*, 4th ed. (Addison-Wesley, 2011), ch. 5; Harris’s accompanying [‘Power’ lecture](https://pages.hmc.edu/harris/cmosvlsi/4e/lect/lect7.pdf), pp. 5–8, derives $CV^2$ for a full charge–discharge cycle. The femtofarad/volt example is illustrative, not a specification for every gate. For the erasure bound, see Landauer (1961) and Bennett (2003), cited below: an ideal isothermal reset of one initially unknown, equally probable bit gives $k_BT\\ln 2$. Switching a load and erasing information are distinct operations; their energy scales are compared here, not equated.",
+    "reason": "Verify textbook edition and author lecture; replace the unverified tag with scoped evidence and distinguish the two energy costs."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-darwinism]: Wojciech H. Zurek, “Quantum Darwinism,” *Nature Physics* 5 (2009): 181–188. (AI draft 2026-11-12; unverified.) Quantum Darwinism is a research program with experimental support in small systems; the link to “informational gravity” and to Chapter 1's recipe census is the author's conjecture.",
+    "after": "[^v1-i1-darwinism]: Wojciech H. Zurek, [‘Quantum Darwinism’](https://doi.org/10.1038/nphys1202), *Nature Physics* 5 (2009): 181–188. For an experimental test of redundant records in a small spin environment, see T. K. Unden et al., [‘Revealing the Emergence of Classicality Using Nitrogen-Vacancy Centers’](https://doi.org/10.1103/PhysRevLett.123.140402), *Physical Review Letters* 123 (2019): 140402. The copied information concerns selected pointer states; arbitrary unknown quantum states cannot be freely cloned. The link to informational gravity remains the author’s conjecture. A short description of repeated structure is not by itself a probability measure over worlds or a physical mechanism of replication.",
+    "reason": "Verify theory and experimental foothold; preserve the conjecture and explain which kind of copying the evidence supports."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-diode]: In the ideal diffusion model, $I=I_S\\left(e^{qV/(k_BT)}-1\\right)$: current $I$, reverse saturation current $I_S$, junction voltage $V$, elementary charge $q$, absolute temperature $T$ and Boltzmann constant $k_B$. See del Alamo, MIT 6.012, [lecture 14](https://web.mit.edu/6.012/www/SP07-L14.pdf) (2007), pp. 13–16. This is a model with a range of validity, not an exact law for every diode; recombination, series resistance, high injection and breakdown require further treatment.",
+    "after": "[^v1-i1-diode]: In the ideal diffusion model, $I=I_S\\left(e^{qV/(k_BT)}-1\\right)$: current $I$, reverse saturation current $I_S$, junction voltage $V$, elementary charge $q$, absolute temperature $T$ and Boltzmann constant $k_B$. See del Alamo, MIT 6.012, [lecture 14](https://web.mit.edu/6.012/www/SP07-L14.pdf) (2007), pp. 13–16. This is a model with a range of validity, not an exact law for every diode; recombination, series resistance, high injection and breakdown require further treatment. The tenfold increase per roughly 60 mV is the forward-current approximation at 300 K with ideality factor one; the depleted layer in the figure uses the approximation that mobile charge there is negligible.",
+    "reason": "State the assumptions behind the new numerical example and diagram."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-i1-wilson]: Alan H. Wilson, [“The Theory of Electronic Semi-Conductors”](https://doi.org/10.1098/rspa.1931.0162), *Proceedings of the Royal Society A* 133 (1931): 458–491. For the band-filling account used here, see MIT, [*Solid State Physics*, part I](https://web.mit.edu/6.732/www/new_part1.pdf), chapters 1–2. The musical comparison concerns available states and charge transport, not a literal absence of motion in an insulator.",
+    "after": "[^v1-i1-wilson]: Alan H. Wilson, [“The Theory of Electronic Semi-Conductors”](https://doi.org/10.1098/rspa.1931.0162), *Proceedings of the Royal Society A* 133 (1931): 458–491. For the band-filling account used here, see MIT, [*Solid State Physics*, part I](https://web.mit.edu/6.732/www/new_part1.pdf), chapters 1–2. The musical comparison concerns available states and charge transport, not a literal absence of motion in an insulator. The figure’s approximate 9 eV quartz gap is also used in [‘Unraveling the electronic properties in SiO2 under ultrafast laser irradiation’](https://doi.org/10.1038/s41524-024-01350-2), *npj Computational Materials* (2024).",
+    "reason": "Provide a reference for the newly drawn quartz band-gap value."
+  }
+]

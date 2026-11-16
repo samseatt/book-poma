@@ -2,7 +2,7 @@
 
 Started 14 November 2026. This working ledger preserves the book's intellectual wagers for development, cross-volume connections and a later whole-book reckoning. A conjecture earns its place through the possibilities it opens and the argument it makes. Its entry here does not require weakening every sentence, moving it to Alice/Bob, or resolving it before the book can proceed.
 
-Current coverage is the Φ pair and the second integration of Chapter 1, including the adopted Fable-folder material. Other units will be added as reviewed; the older research drawers remain available for later backfill. This is not yet a complete inventory of the book.
+Current coverage includes the Φ pair, Chapter 1, Interlude 1, the Introduction and the codas, with their adopted Fable-folder material. Other units will be added as reviewed; the older research drawers remain available for later backfill. This is not yet a complete inventory of the book.
 
 ## How the ledger is used
 
@@ -292,3 +292,20 @@ The graph, Ockham/head-count and alikeness material remain intact. No speculativ
 **What would strengthen it:** define what each signal tracks, how it can be counterfeited, and which independent observations expose that failure. Compare plural/local signals without forcing one universal score. Give dissent, revision, exit and ecological constraints actual mechanisms; measure whether feedback improves outcomes beyond reporting satisfaction. Separate an empirically useful coordination layer from the stronger question of shared feeling. Coda I’s differential/private updates require a specified threat model and privacy budget; de-identification by itself supplies no mathematical guarantee. Its basal-ganglia gate is an architectural analogy, not a proof of civilizational safety.
 
 **Disposition:** preserve the bold main text, its conditional “would” and authorial interpretation. Add targeted source-note boundaries, not repeated disclaimers. The inside/outside-money paragraph in Coda II remains the author’s explicitly theoretical extension, not a theorem attributed to Nagel. See the [closing adoption record](closing-drafting/codas-epilogue-adoption-2026-11-15/ADOPTION_NOTES.md).
+
+
+## S017 Informational gravity: memory as a constraint on possible continuations
+
+**Location:** Interlude 1, “Bob, Through the Looking-Glass: Informational Gravity,” especially the 12 November Fable passage connecting Chapter 1’s census to copying. Adopted 15 November 2026. Related: S003 (head count/measure), S013 (foundry pattern), S015 (regularity continuing).
+
+**Strong proposal:** a retained arrangement can make further instances cheaper to specify and, given suitable resources, more likely to arise. Memory would then be an active constraint on a world’s continuations: the recipe census seen from inside time. The interlude explicitly calls this informational gravity without claiming an extra physical force. Preserve the offer and its main-text confidence; do not reduce it to the statement that familiar mechanisms exist.
+
+**Established footholds:** lattice regularity, template-directed growth, powered bistable feedback and DNA replication show different ways the past constrains subsequent structure. A conditional description can refer to an already specified pattern instead of re-itemizing it. Quantum Darwinism studies redundant environmental records of selected pointer information; Zurek’s framework and the Unden et al. NV-center experiment are relevant footholds, not proof of the author’s proposed common tendency. Landauer bounds specified erasures; it does not prove that remembering promotes replication.
+
+**Why speculative:** economical description is not a dynamics or probability measure. Repetition still needs a count, locations, exceptions and an agreed description language; “almost nothing extra” is a relative coding intuition. Cheap continuations can also be destructive, static or observer-incompatible. An ensemble weighting and conditioning rule would be needed to turn the recipe census into a predictive claim. Crystal growth, feedback and biological copying have distinct mechanisms and resource requirements. Quantum records concern selected observables, not unrestricted copying of unknown quantum states. The analogy alone does not derive a tendency across every domain.
+
+**Next useful research:** specify the retained pattern, environment, energy/material supply and alternatives. Compare conditional descriptions under one coding rule, then identify whether an added information-based prediction improves on ordinary kinetics, feedback or selection. Look for regimes where retention recruits growth, where it merely persists, and where it entrenches a cage. This last distinction is a useful bridge to Volume II and the later Neusphere design. It is an investigation to pursue, not an instruction to insert a disclaimer into every metaphor.
+
+**Companion scope:** the main interlude’s recipe/address and “invisible sameness” lines retain the foundry pattern. A periodic lattice still sets dispersion, gaps, effective mass and diffraction; their notes now make this distinction. A manufactured “pocket universe” has effective parameters within ordinary physics, not changed fundamental constants. These factual boundaries preserve, rather than settle, the interpretive comparison.
+
+**Disposition:** all incoming Bob prose retained verbatim. See [the adoption record](volume-1-drafting/interlude-01-fable-adoption-2026-11-15/ADOPTION_NOTES.md).
