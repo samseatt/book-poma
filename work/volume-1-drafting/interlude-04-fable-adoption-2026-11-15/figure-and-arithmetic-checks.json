@@ -1,0 +1,28 @@
+{
+  "roofline_ridge_ops_per_byte": 584.4155844155844,
+  "weight_passes_per_second": 110.0,
+  "training_bytes_405b": 6480000000000.0,
+  "training_b200_count_before_overheads": 36.0,
+  "kv_bytes_per_token": 327680,
+  "kv_bytes_32000_tokens": 10485760000,
+  "llama_training_flops": 3.7908e+25,
+  "hours_per_unexpected_interruption": 3.0930787589498805,
+  "figure_checks": [
+    {
+      "name": "roofline-workloads.svg",
+      "supplied_svg_unchanged": true,
+      "xml_valid": true,
+      "render": "roofline-workloads.png",
+      "render_inspected": true,
+      "no_clipping_or_label_overlap": true
+    },
+    {
+      "name": "bytes-per-parameter.svg",
+      "supplied_svg_unchanged": true,
+      "xml_valid": true,
+      "render": "bytes-per-parameter.png",
+      "render_inspected": true,
+      "no_clipping_or_label_overlap": true
+    }
+  ]
+}

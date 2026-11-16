@@ -1,0 +1,30 @@
+{
+  "baseline_commit": "adb85e7511d52669f6aa77a53926352023f04709",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md": "6395e9e3f6166b8c8571aaa0bb2982ab231ccadd459d823a506ff822d019f427",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/04-interlude.md": "25bb2c65ef6be7ebf50f826bae7aaba4499dba90cb327316939fb0df7ae88a4d",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "679f083504f67f8988db01d4fd478687491ada37a6afa152ae10ac9d992669b2",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "bfbbb1021821382eee8ca6e661b00d7cff4e9c3a7b2b36fd59e4b1145ec0b03f",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "9c764eb05b18e569a08a7eac2971f19918439be111dcaf6757fc4187a3702d1c",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/04-interlude/roofline-workloads.svg": "27429fdd5a5b33c2cacd7b3c66e7bc8926c00e40966927d94694da3631890813",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/04-interlude/bytes-per-parameter.svg": "ad1a217aef9904ac878be8f9dbf2f39f0c9462eb0948589c46105158cfee9820",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/04-interlude/semaphore-progress.svg": "b3de1d999e8c8bf29eccc07356737a96b834ac522158b88c805b8484f83b775c",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/04-interlude/training-serving.svg": "68bdc5c6d896525d67ecec34c63b97b7149040004195a8183ec5aaaa5e40102c"
+  },
+  "figures": {
+    "roofline-workloads.svg": "27429fdd5a5b33c2cacd7b3c66e7bc8926c00e40966927d94694da3631890813",
+    "bytes-per-parameter.svg": "ad1a217aef9904ac878be8f9dbf2f39f0c9462eb0948589c46105158cfee9820"
+  },
+  "new_manuscript_sha256": "f0d6a254b2978a959dcab808e923bb4f02c8fc49664b1cd5ac6b153f795d1dfd",
+  "word_counts": {
+    "old": 7390,
+    "incoming": 10575,
+    "merged": 10796
+  },
+  "protected": {
+    "all_comments": true,
+    "header": true,
+    "fpu_scene": true,
+    "closing_and_meditation": true
+  }
+}

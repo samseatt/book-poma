@@ -1,0 +1,788 @@
+{
+  "checked_at": "2026-11-15",
+  "policy": "Claim-level review; checked passages/abstracts and inherited evidence identified. Not certification of whole papers. Memoir remains author evidence.",
+  "new_incoming_notes": [
+    "v1-i4-6nd",
+    "v1-i4-accumulate",
+    "v1-i4-cards",
+    "v1-i4-collapse",
+    "v1-i4-contamination",
+    "v1-i4-dedup",
+    "v1-i4-drift",
+    "v1-i4-failures",
+    "v1-i4-fpsum",
+    "v1-i4-fusion",
+    "v1-i4-kvcache",
+    "v1-i4-launch",
+    "v1-i4-llama3",
+    "v1-i4-loader",
+    "v1-i4-orca",
+    "v1-i4-recompute",
+    "v1-i4-sculley",
+    "v1-i4-speculative",
+    "v1-i4-zero"
+  ],
+  "added_note": "v1-i4-roofline",
+  "notes": [
+    {
+      "note_id": "v1-i4-windows",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-windows",
+        "claim": "Windows retail release, 20 November 1985",
+        "evidence_checked": "Microsoft official chronology entry read; satire distinguished from historical dialogue.",
+        "citation_and_locator": "Microsoft, [“The History of Microsoft---1985”](https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1985), chronology entry for 20 November: retail Windows shipped on that date in 1985, extending MS-DOS. The creation dialogue is the author's comic framing, not a quotation from Gates.",
+        "source_urls": [
+          "https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1985"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Microsoft, [“The History of Microsoft---1985”](https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1985), chronology entry for 20 November: retail Windows shipped on that date in 1985, extending MS-DOS. The creation dialogue is the author's comic framing, not a quotation from Gates.",
+      "source_urls": [
+        "https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1985"
+      ]
+    },
+    {
+      "note_id": "v1-i4-cpp",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-cpp",
+        "claim": "October 1985 book, Simula/C influence, nonexclusive OO",
+        "evidence_checked": "Stroustrup primary history introduction and publication list inspected; no invention-of-OO claim.",
+        "citation_and_locator": "Bjarne Stroustrup, [“A History of C++: 1979–1991”](https://www.stroustrup.com/hopl2.pdf), introduction and §2.1; and his [publication list](https://www.stroustrup.com/papers.html), first-edition entry: *The C++ Programming Language* (Addison-Wesley, October 1985). C++ drew on Simula's classes while retaining C-style systems programming; it did not invent object orientation or require every program to use it.",
+        "source_urls": [
+          "https://www.stroustrup.com/hopl2.pdf",
+          "https://www.stroustrup.com/papers.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Bjarne Stroustrup, [“A History of C++: 1979–1991”](https://www.stroustrup.com/hopl2.pdf), introduction and §2.1; and his [publication list](https://www.stroustrup.com/papers.html), first-edition entry: *The C++ Programming Language* (Addison-Wesley, October 1985). C++ drew on Simula's classes while retaining C-style systems programming; it did not invent object orientation or require every program to use it.",
+      "source_urls": [
+        "https://www.stroustrup.com/hopl2.pdf",
+        "https://www.stroustrup.com/papers.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-ieee",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-ieee",
+        "claim": "Finite significand/exponent and IEEE rounding obligations",
+        "evidence_checked": "Goldberg full-text reprint, Rounding Error and Exactly Rounded Operations, inspected. IEEE 754-1985 bibliographic identity checked through this historical account; the standard was not read cover to cover.",
+        "citation_and_locator": "*IEEE Standard for Binary Floating-Point Arithmetic*, IEEE 754-1985. For representation and the standard's rounding requirements, see David Goldberg, [“What Every Computer Scientist Should Know About Floating-Point Arithmetic”](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html), *ACM Computing Surveys* 23(1), March 1991, 5–48, especially “Rounding Error” and “Exactly Rounded Operations,” reproduced in Oracle's *Numerical Computation Guide*. The LPU was a limited-precision teaching design, not a certified IEEE implementation.",
+        "source_urls": [
+          "https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "*IEEE Standard for Binary Floating-Point Arithmetic*, IEEE 754-1985. For representation and the standard's rounding requirements, see David Goldberg, [“What Every Computer Scientist Should Know About Floating-Point Arithmetic”](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html), *ACM Computing Surveys* 23(1), March 1991, 5–48, especially “Rounding Error” and “Exactly Rounded Operations,” reproduced in Oracle's *Numerical Computation Guide*.",
+      "source_urls": [
+        "https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-reuse",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note": "Author-authorized later FPU restoration note; OSTEP execution distinction. Unchanged from the canonical baseline; no new public source attributed to memoir."
+      },
+      "citation_and_locator": "The comparison concerns the author’s hardwired arithmetic path and revisable instruction sequences. Sequential hardware also uses clocks, state and repeated operations; software makes a sequence easier to revise without making it automatically correct or universally faster. “Symmetry breakings” is the author’s metaphor here. For the code/execution distinction, see Arpaci-Dusseau and Arpaci-Dusseau, [*Operating Systems: Three Easy Pieces*, chapter 4](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf), §§4.1–4.2.",
+      "source_urls": [
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-fuzz",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-fuzz",
+        "claim": "1988 origin of named project and author class timing",
+        "evidence_checked": "Miller primary foreword and autumn-1988 assignment, project 1, inspected. Author supplied his own 1989 course recollection; earlier random testing acknowledged.",
+        "citation_and_locator": "Barton P. Miller, [foreword on the origins of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html), opening account of the autumn 1988 thunderstorm, noisy 1200-baud connection and course project; the [original CS736 assignment](https://pages.cs.wisc.edu/~bart/fuzz/CS736-Projects-f1988.pdf), project 1, independently fixes the project to autumn 1988. The author's own class was in autumn 1989. Miller's account acknowledges earlier random-testing work; the claim here concerns this named research program.",
+        "source_urls": [
+          "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html",
+          "https://pages.cs.wisc.edu/~bart/fuzz/CS736-Projects-f1988.pdf"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Barton P. Miller, [foreword on the origins of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html), opening account of the autumn 1988 thunderstorm, noisy 1200-baud connection and course project; the [original CS736 assignment](https://pages.cs.wisc.edu/~bart/fuzz/CS736-Projects-f1988.pdf), project 1, independently fixes the project to autumn 1988. That CS736 project is the historical source for fuzzing, not the author's course: his introductory operating systems class was in autumn 1989. Miller's account acknowledges earlier random-testing work; the claim here concerns this named research program.",
+      "source_urls": [
+        "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html",
+        "https://pages.cs.wisc.edu/~bart/fuzz/CS736-Projects-f1988.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-toolchain",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "LLVM toolchain citation inherited; GCC official native-build instructions checked for three-stage bootstrap. Bürger 1786 primary text, pp. 54–55, read in Wikisource transcription: his arm lifts him and his horse by his hair. The episode is no longer attributed specifically to Raspe 1785.",
+      "citation_and_locator": "LLVM Project, [“Assembling a Complete Toolchain”](https://clang.llvm.org/docs/Toolchain.html), “Tools” and “Runtime libraries.” Compiler stages, assembly, linking and runtime support are separable responsibilities; implementations may combine stages. The discussion describes common execution arrangements, not a mandatory pipeline for every language. Self-hosting compilers such as GCC are built in stages, each compiled by the previous one; see GCC, [“Building a native compiler”](https://gcc.gnu.org/install/build.html). For the hair-pulling episode, see Gottfried August Bürger, [*Des Freyherrn von Münchhausen Wunderbare Reisen*](https://de.wikisource.org/wiki/Des_Freyherrn_von_M%C3%BCnchhausen_Wunderbare_Reisen#Seite_54) (1786), pp. 54–55, the German adaptation of Raspe's tales.",
+      "source_urls": [
+        "https://clang.llvm.org/docs/Toolchain.html",
+        "https://gcc.gnu.org/install/build.html",
+        "https://de.wikisource.org/wiki/Des_Freyherrn_von_M%C3%BCnchhausen_Wunderbare_Reisen#Seite_54"
+      ]
+    },
+    {
+      "note_id": "v1-i4-process",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-process",
+        "claim": "Process state, address space and thread state",
+        "evidence_checked": "OSTEP author-hosted chapters 4 and 26 inspected for these mechanisms. Schematic transition equation is explanatory notation, not a special physical law.",
+        "citation_and_locator": "Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, *Operating Systems: Three Easy Pieces* (online edition), [chapter 4, “The Abstraction: The Process”](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf), §§4.1–4.3; [chapter 26, “Concurrency: An Introduction”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf), opening account of thread state and shared address spaces. The state-transition equation is a schematic description, not a physical clock model.",
+        "source_urls": [
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf",
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, *Operating Systems: Three Easy Pieces* (online edition), [chapter 4, “The Abstraction: The Process”](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf), §§4.1–4.3; [chapter 26, “Concurrency: An Introduction”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf), opening account of thread state and shared address spaces. The state-transition equation is a schematic description, not a physical clock model.",
+      "source_urls": [
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf",
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-modules",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-modules",
+        "claim": "Information hiding and responsibility assignment",
+        "evidence_checked": "Parnas 1972 primary paper, opening/module comparison and bibliographic metadata inspected. Class/invariant examples are standard explanatory applications.",
+        "citation_and_locator": "D. L. Parnas, [“On the Criteria To Be Used in Decomposing Systems into Modules”](https://doi.org/10.1145/361598.361623), *Communications of the ACM* 15(12), December 1972, 1053–1058, especially “What Is Modularization?” and the information-hiding comparison ([paper](https://ckrybus.com/static/papers/decomposing_systems_into_modules_1972.pdf)). A module is a responsibility assignment, not necessarily just a subroutine. The classroom application is the author's retrospective connection.",
+        "source_urls": [
+          "https://doi.org/10.1145/361598.361623",
+          "https://ckrybus.com/static/papers/decomposing_systems_into_modules_1972.pdf"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "D. L. Parnas, [“On the Criteria To Be Used in Decomposing Systems into Modules”](https://doi.org/10.1145/361598.361623), *Communications of the ACM* 15(12), December 1972, 1053–1058, especially “What Is Modularization?” and the information-hiding comparison ([paper](https://ckrybus.com/static/papers/decomposing_systems_into_modules_1972.pdf)). A module is a responsibility assignment, not necessarily just a subroutine. The classroom application is the author's retrospective connection.",
+      "source_urls": [
+        "https://doi.org/10.1145/361598.361623",
+        "https://ckrybus.com/static/papers/decomposing_systems_into_modules_1972.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-os",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-os",
+        "claim": "Protected execution, context switching, address spaces",
+        "evidence_checked": "OSTEP author-hosted chapters 4, 6 and 13 relevant passages inspected; conventional OS model.",
+        "citation_and_locator": "Arpaci-Dusseau and Arpaci-Dusseau, *Operating Systems: Three Easy Pieces*, [chapter 4](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf), process states and time sharing; [chapter 6, “Mechanism: Limited Direct Execution”](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf), protected execution, traps and context switching; and [chapter 13, “The Abstraction: Address Spaces”](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf), private address-space abstraction.",
+        "source_urls": [
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf",
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf",
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Arpaci-Dusseau and Arpaci-Dusseau, *Operating Systems: Three Easy Pieces*, [chapter 4](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf), process states and time sharing; [chapter 6, “Mechanism: Limited Direct Execution”](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf), protected execution, traps and context switching; and [chapter 13, “The Abstraction: Address Spaces”](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf), private address-space abstraction.",
+      "source_urls": [
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf",
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf",
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-races",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-races",
+        "claim": "Interleaving and lost update",
+        "evidence_checked": "OSTEP chapter 26 relevant sections inspected. Counter example is original illustrative pseudoreasoning, not language-specific race semantics.",
+        "citation_and_locator": "Arpaci-Dusseau and Arpaci-Dusseau, [“Concurrency: An Introduction”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf), §§26.2–26.5. The seven-to-eight counter example illustrates a lost update under interleaving; it is not executable language-specific code or a claim that all races have this exact behavior.",
+        "source_urls": [
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Arpaci-Dusseau and Arpaci-Dusseau, [“Concurrency: An Introduction”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf), §§26.2–26.5. The seven-to-eight counter example illustrates a lost update under interleaving; it is not executable language-specific code or a claim that all races have this exact behavior.",
+      "source_urls": [
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-semaphore",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-semaphore",
+        "claim": "Wait/signal, mutex distinction, progress failures",
+        "evidence_checked": "OSTEP chapters 31 and 32 relevant passages inspected. Figure drawn here; not a reconstruction of the author assignment.",
+        "citation_and_locator": "Arpaci-Dusseau and Arpaci-Dusseau, [chapter 31, “Semaphores”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf), §§31.1–31.3, and [chapter 32, “Common Concurrency Problems”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf). A semaphore can synchronize events as well as limit access. The figure uses a one-token example and does not reconstruct the author's lost program; liveness depends on assumptions about the other participants and scheduling.",
+        "source_urls": [
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf",
+          "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Arpaci-Dusseau and Arpaci-Dusseau, [chapter 31, “Semaphores”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf), §§31.1–31.3, and [chapter 32, “Common Concurrency Problems”](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf). A semaphore can synchronize events as well as limit access. The figure uses a one-token example and does not reconstruct the author's lost program; liveness depends on assumptions about the other participants and scheduling.",
+      "source_urls": [
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf",
+        "https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-order",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-order",
+        "claim": "Causal partial ordering without one physical total clock",
+        "evidence_checked": "Lamport 1978 primary paper, first pages and Partial Ordering, inspected; later networking treatment retained.",
+        "citation_and_locator": "Leslie Lamport, [“Time, Clocks, and the Ordering of Events in a Distributed System”](https://lamport.azurewebsites.net/pubs/time-clocks.pdf), *Communications of the ACM* 21(7), July 1978, 558–565, especially “The Partial Ordering,” 558–559. The happens-before relation expresses causal constraints without assuming one physically synchronized clock orders every event.",
+        "source_urls": [
+          "https://lamport.azurewebsites.net/pubs/time-clocks.pdf"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Leslie Lamport, [“Time, Clocks, and the Ordering of Events in a Distributed System”](https://lamport.azurewebsites.net/pubs/time-clocks.pdf), *Communications of the ACM* 21(7), July 1978, 558–565, especially “The Partial Ordering,” 558–559. The happens-before relation expresses causal constraints without assuming one physically synchronized clock orders every event.",
+      "source_urls": [
+        "https://lamport.azurewebsites.net/pubs/time-clocks.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-testing",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-testing",
+        "claim": "Testing selected cases versus proof under assumptions",
+        "evidence_checked": "Dijkstra EWD249 author-archive transcription, second edition April 1970, On reliability mechanisms, inspected. No proof claim for the memoir project.",
+        "citation_and_locator": "Edsger W. Dijkstra, [*Notes on Structured Programming*, EWD249](https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249/EWD249.html), second edition, April 1970, “On reliability mechanisms.” Selected successful tests do not establish correctness for all permitted cases; a formal argument is also relative to its specification and assumptions. The memoir does not assert that exhaustive verification was performed.",
+        "source_urls": [
+          "https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249/EWD249.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Edsger W. Dijkstra, [*Notes on Structured Programming*, EWD249](https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249/EWD249.html), second edition, April 1970, “On reliability mechanisms.” Selected successful tests do not establish correctness for all permitted cases; a formal argument is also relative to its specification and assumptions. The memoir does not assert that exhaustive verification was performed.",
+      "source_urls": [
+        "https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249/EWD249.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-fuzz-results",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-fuzz-results",
+        "claim": "25–33% and seven UNIX variants in 1990 study",
+        "evidence_checked": "Miller/Fredriksen/So primary paper abstract/results and Miller foreword inspected. Statistic bounded to that study; not a contemporary failure rate.",
+        "citation_and_locator": "Barton P. Miller, Lars Fredriksen and Bryan So, [“An Empirical Study of the Reliability of UNIX Utilities”](https://www.cs.wisc.edu/paradyn/papers/fuzz.pdf), *Communications of the ACM* 33(12), December 1990, 32–44, abstract and results. The reported 25–33% concerns the utilities and systems in that study, not contemporary software generally. Miller's [foreword](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html) describes cause analysis and public release of tools and results.",
+        "source_urls": [
+          "https://www.cs.wisc.edu/paradyn/papers/fuzz.pdf",
+          "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Barton P. Miller, Lars Fredriksen and Bryan So, [“An Empirical Study of the Reliability of UNIX Utilities”](https://www.cs.wisc.edu/paradyn/papers/fuzz.pdf), *Communications of the ACM* 33(12), December 1990, 32–44, abstract and results. The reported 25–33% concerns the utilities and systems in that study, not contemporary software generally. Miller's [foreword](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html) describes cause analysis and public release of tools and results.",
+      "source_urls": [
+        "https://www.cs.wisc.edu/paradyn/papers/fuzz.pdf",
+        "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-software2",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Karpathy’s original 11 November 2017 essay read at the dataset/network-architecture distinction. Earlier historical citation retained.",
+      "citation_and_locator": "Andrej Karpathy, [“Software 2.0”](https://karpathy.medium.com/software-2-0-a64152b37c35), 11 November 2017, opening distinction between explicit source code and optimized neural-network weights, including his remark that the “source code” of Software 2.0 comprises the dataset and the network architecture. “Software 2.0” is his framing of a development paradigm, not a claim that the surrounding conventional code disappears.",
+      "source_urls": [
+        "https://karpathy.medium.com/software-2-0-a64152b37c35"
+      ]
+    },
+    {
+      "note_id": "v1-i4-software3",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-software3",
+        "claim": "Language-directed model programming as Software 3.0",
+        "evidence_checked": "Official YC recording metadata and indexed opening content checked, including the 1.0–3.0 framing. Full video not watched or transcribed in this pass; no direct quotation or current adoption statistic used.",
+        "citation_and_locator": "Andrej Karpathy, [“Software Is Changing (Again)”](https://www.youtube.com/watch?v=LCEmiRjPEtQ), Y Combinator AI Startup School keynote, 17 June 2025, opening discussion of Software 1.0–3.0 and programming in natural language. Prompting an LLM and having an LLM generate conventional source code are distinguished here; no industry-wide percentage of AI-written code is claimed.",
+        "source_urls": [
+          "https://www.youtube.com/watch?v=LCEmiRjPEtQ"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Andrej Karpathy, [“Software Is Changing (Again)”](https://www.youtube.com/watch?v=LCEmiRjPEtQ), Y Combinator AI Startup School keynote, 17 June 2025, opening discussion of Software 1.0–3.0 and programming in natural language. Prompting an LLM and having an LLM generate conventional source code are distinguished here; no industry-wide percentage of AI-written code is claimed.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=LCEmiRjPEtQ"
+      ]
+    },
+    {
+      "note_id": "v1-i4-frameworks",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-frameworks",
+        "claim": "Release years and framework responsibilities",
+        "evidence_checked": "Google release post and PyTorch first-anniversary post inspected; Abadi et al. primary abstract/publication record supports computation-system scope. Not a complete rereading of TensorFlow implementation paper.",
+        "citation_and_locator": "Google, [“TensorFlow---Google's latest machine learning system, open sourced for everyone”](https://opensource.googleblog.com/2015/11/tensorflow-googles-latest-machine.html), November 2015; PyTorch Team, [“PyTorch, a year in…”](https://pytorch.org/blog/a-year-in/), 19 January 2018, opening statement that public release was one year earlier. Martín Abadi et al., [*TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems*](https://arxiv.org/abs/1603.04467), 2016, describes the framework's computational interface and implementation.",
+        "source_urls": [
+          "https://opensource.googleblog.com/2015/11/tensorflow-googles-latest-machine.html",
+          "https://pytorch.org/blog/a-year-in/",
+          "https://arxiv.org/abs/1603.04467"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Google, [“TensorFlow---Google's latest machine learning system, open sourced for everyone”](https://opensource.googleblog.com/2015/11/tensorflow-googles-latest-machine.html), November 2015; PyTorch Team, [“PyTorch, a year in…”](https://pytorch.org/blog/a-year-in/), 19 January 2018, opening statement that public release was one year earlier. Martín Abadi et al., [*TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems*](https://arxiv.org/abs/1603.04467), 2016, describes the framework's computational interface and implementation.",
+      "source_urls": [
+        "https://opensource.googleblog.com/2015/11/tensorflow-googles-latest-machine.html",
+        "https://pytorch.org/blog/a-year-in/",
+        "https://arxiv.org/abs/1603.04467"
+      ]
+    },
+    {
+      "note_id": "v1-i4-autograd",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-autograd",
+        "claim": "Forward/backward chain rule and gradient computation",
+        "evidence_checked": "PyTorch official tutorial graph/gradient sections inspected. Nondifferentiable general software not promised gradients automatically.",
+        "citation_and_locator": "PyTorch, [“Automatic Differentiation with `torch.autograd`”](https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html), “Tensors, Functions and Computational graph,” “Computing Gradients” and “More on Computational Graphs.” Derivative rules and the chain rule supply gradients of the executed differentiable computation; arbitrary nondifferentiable software is not automatically made differentiable.",
+        "source_urls": [
+          "https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "PyTorch, [“Automatic Differentiation with `torch.autograd`”](https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html), “Tensors, Functions and Computational graph,” “Computing Gradients” and “More on Computational Graphs.” Derivative rules and the chain rule supply gradients of the executed differentiable computation; arbitrary nondifferentiable software is not automatically made differentiable.",
+      "source_urls": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-optimizer",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-optimizer",
+        "claim": "Gradients versus updates, Adam running statistics",
+        "evidence_checked": "PyTorch optimizer tutorial inspected; Adam original abstract/metadata checked for moment estimates. Algorithm locator retained for reader follow-through, not a claim of an algorithm reimplementation or full convergence audit.",
+        "citation_and_locator": "PyTorch, [“Optimizing Model Parameters”](https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html), “Optimization Loop” and “Optimizer”; Diederik P. Kingma and Jimmy Ba, [“Adam: A Method for Stochastic Optimization”](https://arxiv.org/abs/1412.6980), ICLR 2015, algorithm 1. Gradients, parameter updates and the objective being optimized are distinct; global optimality is not promised.",
+        "source_urls": [
+          "https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html",
+          "https://arxiv.org/abs/1412.6980"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "PyTorch, [“Optimizing Model Parameters”](https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html), “Optimization Loop” and “Optimizer”; Diederik P. Kingma and Jimmy Ba, [“Adam: A Method for Stochastic Optimization”](https://arxiv.org/abs/1412.6980), ICLR 2015, algorithm 1. Gradients, parameter updates and the objective being optimized are distinct; global optimality is not promised.",
+      "source_urls": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html",
+        "https://arxiv.org/abs/1412.6980"
+      ]
+    },
+    {
+      "note_id": "v1-i4-execution",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-execution",
+        "claim": "Framework dispatch and compiler/kernel optimization",
+        "evidence_checked": "Paszke et al. primary abstract/publication record and MLIR official overview inspected. Implementation detail not exhaustively audited; no hardware-specific speed claim.",
+        "citation_and_locator": "Adam Paszke et al., [“PyTorch: An Imperative Style, High-Performance Deep Learning Library”](https://arxiv.org/abs/1912.01703), NeurIPS 2019, design and implementation discussion; LLVM Project, [“MLIR: Multi-Level Intermediate Representation”](https://mlir.llvm.org/), compiler infrastructure and machine-learning computation. A GPU kernel is an executable routine, not the operating-system kernel. Optimization choices depend on framework, backend and workload.",
+        "source_urls": [
+          "https://arxiv.org/abs/1912.01703",
+          "https://mlir.llvm.org/"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Adam Paszke et al., [“PyTorch: An Imperative Style, High-Performance Deep Learning Library”](https://arxiv.org/abs/1912.01703), NeurIPS 2019, design and implementation discussion; LLVM Project, [“MLIR: Multi-Level Intermediate Representation”](https://mlir.llvm.org/), compiler infrastructure and machine-learning computation. A GPU kernel is an executable routine, not the operating-system kernel. Optimization choices depend on framework, backend and workload.",
+      "source_urls": [
+        "https://arxiv.org/abs/1912.01703",
+        "https://mlir.llvm.org/"
+      ]
+    },
+    {
+      "note_id": "v1-i4-checkpoint",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-checkpoint",
+        "claim": "State required to resume training",
+        "evidence_checked": "PyTorch general-checkpoint subsection inspected, including optimizer and epoch/progress; additional state depends on training setup.",
+        "citation_and_locator": "PyTorch, [“Saving and Loading Models”](https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html), “Saving & Loading a General Checkpoint for Inference and/or Resuming Training.” Optimizer state, epoch/progress and other state may be required in addition to parameters; a weight file alone is not a complete experimental record.",
+        "source_urls": [
+          "https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "PyTorch, [“Saving and Loading Models”](https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html), “Saving & Loading a General Checkpoint for Inference and/or Resuming Training.” Optimizer state, epoch/progress and other state may be required in addition to parameters; a weight file alone is not a complete experimental record.",
+      "source_urls": [
+        "https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-reproducibility",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-reproducibility",
+        "claim": "Seeds do not guarantee cross-platform/release identity",
+        "evidence_checked": "PyTorch official reproducibility opening and controls inspected; data/code/configuration requirement is broader experimental practice.",
+        "citation_and_locator": "PyTorch, [“Reproducibility”](https://docs.pytorch.org/docs/stable/notes/randomness.html), opening limitations and controls for nondeterministic operations. Identical seeds do not guarantee results across releases, platforms or CPU/GPU execution. The broader data/code/configuration record is an experimental requirement, not a claim that every present pipeline satisfies it.",
+        "source_urls": [
+          "https://docs.pytorch.org/docs/stable/notes/randomness.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "PyTorch, [“Reproducibility”](https://docs.pytorch.org/docs/stable/notes/randomness.html), opening limitations and controls for nondeterministic operations. Identical seeds do not guarantee results across releases, platforms or CPU/GPU execution. The broader data/code/configuration record is an experimental requirement, not a claim that every present pipeline satisfies it.",
+      "source_urls": [
+        "https://docs.pytorch.org/docs/stable/notes/randomness.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-sycophancy",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-sycophancy",
+        "claim": "Human preference contribution to agreement-seeking",
+        "evidence_checked": "Authors’ Anthropic research summary and primary preprint metadata/abstract inspected. Contributor, not sole cause or a diagnosis of a private conversation.",
+        "citation_and_locator": "Mrinank Sharma et al., [“Towards Understanding Sycophancy in Language Models”](https://arxiv.org/abs/2310.13548), 2023; [authors' research summary](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models). Human preferences and preference optimization can favor agreement over truth; the evidence identifies a contributor, not a unique explanation for any particular answer.",
+        "source_urls": [
+          "https://arxiv.org/abs/2310.13548",
+          "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Mrinank Sharma et al., [“Towards Understanding Sycophancy in Language Models”](https://arxiv.org/abs/2310.13548), 2023; [authors' research summary](https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models). Human preferences and preference optimization can favor agreement over truth; the evidence identifies a contributor, not a unique explanation for any particular answer.",
+      "source_urls": [
+        "https://arxiv.org/abs/2310.13548",
+        "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models"
+      ]
+    },
+    {
+      "note_id": "v1-i4-inference",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-inference",
+        "claim": "Loaded structure/parameters, gradients and inference",
+        "evidence_checked": "Official PyTorch loading and autograd documentation inspected. Product memory/fine-tuning distinction is explanatory; test-time training explicitly allowed as an alternative in note.",
+        "citation_and_locator": "PyTorch, [“Save and Load the Model”](https://docs.pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html), loading compatible model structure and parameters for inference, and [autograd tutorial](https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html), “Disabling Gradient Tracking.” The deployed-inference discussion assumes ordinary fixed-parameter serving; online adaptation and test-time training are possible alternatives. Retrieval and product memory are application mechanisms, distinct from parameter updates.",
+        "source_urls": [
+          "https://docs.pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html",
+          "https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "PyTorch, [“Save and Load the Model”](https://docs.pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html), loading compatible model structure and parameters for inference, and [autograd tutorial](https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html), “Disabling Gradient Tracking.” The deployed-inference discussion assumes ordinary fixed-parameter serving; online adaptation and test-time training are possible alternatives. Retrieval and product memory are application mechanisms, distinct from parameter updates.",
+      "source_urls": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html",
+        "https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-serving",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Kwon et al. primary abstract rechecked on 15 November: KV fragmentation, fixed-size paging analogy, flexible sharing and 2–4× throughput over compared systems. Prior section-level audit retained.",
+      "citation_and_locator": "Woosuk Kwon et al., [“Efficient Memory Management for Large Language Model Serving with PagedAttention”](https://arxiv.org/abs/2309.06180), SOSP 2023, §§2–4, especially autoregressive generation, batching, KV-cache management and scheduling. PagedAttention stores the key-value cache in fixed-size blocks mapped through block tables, by analogy with operating-system paging, and the authors report two- to four-fold throughput gains over the systems they compared. These support the execution account; the chapter does not claim every serving system uses this implementation or these exact optimizations.",
+      "source_urls": [
+        "https://arxiv.org/abs/2309.06180"
+      ]
+    },
+    {
+      "note_id": "v1-i4-tools",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-tools",
+        "claim": "Model tool-call/result interaction versus application authority",
+        "evidence_checked": "Toolformer original abstract and indexed primary introduction checked. Permissions/validation are normative application obligations, not proven by that paper.",
+        "citation_and_locator": "Timo Schick et al., [“Toolformer: Language Models Can Teach Themselves to Use Tools”](https://arxiv.org/abs/2302.04761), NeurIPS 2023, tool-call and result integration. Authorization, argument validation and side-effect control are obligations of the surrounding application; the paper's tool-use results do not establish those safeguards automatically.",
+        "source_urls": [
+          "https://arxiv.org/abs/2302.04761"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Timo Schick et al., [“Toolformer: Language Models Can Teach Themselves to Use Tools”](https://arxiv.org/abs/2302.04761), NeurIPS 2023, tool-call and result integration. Authorization, argument validation and side-effect control are obligations of the surrounding application; the paper's tool-use results do not establish those safeguards automatically.",
+      "source_urls": [
+        "https://arxiv.org/abs/2302.04761"
+      ]
+    },
+    {
+      "note_id": "v1-i4-dedup",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Lee et al. primary abstract read: roughly 10× less memorized output and fewer training steps in tested models/corpora. Scope qualifier preserved; no universal deduplication multiplier.",
+      "citation_and_locator": "Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini, [“Deduplicating Training Data Makes Language Models Better”](https://arxiv.org/abs/2107.06499), *Proceedings of ACL 2022*, abstract and §§5–6: models trained on deduplicated data emitted memorized text about ten times less often and needed fewer training steps for the same or better accuracy. The result concerns the corpora and models studied.",
+      "source_urls": [
+        "https://arxiv.org/abs/2107.06499"
+      ]
+    },
+    {
+      "note_id": "v1-i4-contamination",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Brown et al. primary full-text HTML v4, §2.2/§4 and Appendix C relevant passages read: faulty overlap removal, infeasible rerun and contamination analysis.",
+      "citation_and_locator": "Tom B. Brown et al., [“Language Models Are Few-Shot Learners”](https://arxiv.org/abs/2005.14165), *NeurIPS 2020*, §4 (“Measuring and Preventing Memorization of Benchmarks”) and Appendix C: a bug in the overlap filter left some benchmark contamination, retraining was judged infeasible because of cost, and the authors measured its effect instead.",
+      "source_urls": [
+        "https://arxiv.org/abs/2005.14165"
+      ]
+    },
+    {
+      "note_id": "v1-i4-loader",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Official PyTorch data-loading and CUDA semantics documentation read at multiprocess loading, pinning and asynchronous transfers. Murray et al. primary abstract read for pipeline design/bottlenecks. Overlap requires more than pinning alone.",
+      "citation_and_locator": "PyTorch, [`torch.utils.data` documentation](https://docs.pytorch.org/docs/stable/data.html), “Multi-process data loading” and “Memory Pinning”; Derek G. Murray et al., [“tf.data: A Machine Learning Data Processing Framework”](https://arxiv.org/abs/2101.12127), *Proceedings of the VLDB Endowment* 14(12) (2021), on input pipelines as a training bottleneck. Pinned (page-locked) host memory enables asynchronous transfers; overlap with computation also requires suitable stream scheduling and hardware, as described in PyTorch’s [CUDA semantics](https://docs.pytorch.org/docs/stable/notes/cuda.html). Whether a job is input-bound depends on its data, preprocessing and hardware.",
+      "source_urls": [
+        "https://docs.pytorch.org/docs/stable/data.html",
+        "https://arxiv.org/abs/2101.12127",
+        "https://docs.pytorch.org/docs/stable/notes/cuda.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-launch",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "PyTorch CUDA semantics (asynchronous execution, streams, graphs) and Alan Gray’s NVIDIA CUDA-graphs article read, including its V100 timing example rather than generated summary. Ansel et al. primary PyTorch 2 paper checked at dynamic bytecode/graph compilation; graph breaks and device dependence are not universalized.",
+      "citation_and_locator": "PyTorch, [“CUDA semantics”](https://docs.pytorch.org/docs/stable/notes/cuda.html), “Asynchronous execution” and “CUDA Graphs”; Alan Gray, NVIDIA, [“Getting Started with CUDA Graphs”](https://developer.nvidia.com/blog/cuda-graphs/) (2019), measured launch/launch-and-synchronization overhead in a V100 example; Jason Ansel et al., [“PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation”](https://pytorch.org/assets/pytorch2-2.pdf), *ASPLOS 2024*. “A few microseconds” is an order of magnitude for host-side launch cost; it varies with hardware, driver and framework.",
+      "source_urls": [
+        "https://docs.pytorch.org/docs/stable/notes/cuda.html",
+        "https://developer.nvidia.com/blog/cuda-graphs/",
+        "https://pytorch.org/assets/pytorch2-2.pdf"
+      ]
+    },
+    {
+      "note_id": "v1-i4-fusion",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Dao et al. primary abstract checked: I/O-aware exact attention, tiling, 3× GPT-2 training at sequence 1K versus reported baseline. Bias/ReLU traffic independently calculated: two 2-byte reads and two writes = 8 bytes; two operations / 8 = 0.25. Large-tensor and speedup qualifications added.",
+      "citation_and_locator": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra and Christopher Ré, [“FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness”](https://arxiv.org/abs/2205.14135), *NeurIPS 2022*, abstract and §4: exact attention computed in on-chip tiles, with up to about 3× faster GPT-2 training at sequence length 1K against the baseline implementation reported there. The bias-and-activation estimate is illustrative arithmetic: 2 operations per 8 bytes is 0.25 operations per byte, far below the ≈584 operations per byte ridge computed in Interlude 3 for dense FP8 Tensor Core work, and also below the much lower ridge of the general-purpose units that perform elementwise operations; small bias reads are ignored. The roofline figure uses the same two specifications.",
+      "source_urls": [
+        "https://arxiv.org/abs/2205.14135"
+      ]
+    },
+    {
+      "note_id": "v1-i4-6nd",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Kaplan et al. primary PDF pp. 5–6, §2.1/Table 1 checked: dominant nonembedding matrix computation ≈2N forward and ≈6N training per token. Context-dependent attention, embeddings and rematerialization are not included in the simple estimate.",
+      "citation_and_locator": "Jared Kaplan et al., [“Scaling Laws for Neural Language Models”](https://arxiv.org/abs/2001.08361) (2020), §2.1, estimating training compute as about $6N$ operations per token for a dense transformer, forward plus backward. The approximation omits embedding and context-length-dependent attention terms and does not apply directly to sparse mixture-of-experts models, where $N$ should be the parameters active per token.",
+      "source_urls": [
+        "https://arxiv.org/abs/2001.08361"
+      ]
+    },
+    {
+      "note_id": "v1-i4-llama3",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Meta primary full-text HTML v3 intro and §3.3/Table 4 read: 405B, 15.6T tokens, 3.8e25 FLOPs; 16,384 H100s at 41% MFU for 8K and 38% for 131K. PaLM primary HTML v5 Appendix B read: MFU excludes rematerialization; hardware FLOPs utilization is different. Independent 6ND calculation matches the reported order.",
+      "citation_and_locator": "Llama Team, AI @ Meta, [“The Llama 3 Herd of Models”](https://arxiv.org/abs/2407.21783) (2024), §3 (pretraining on about 15.6 trillion tokens, 3.8 × 10²⁵ FLOPs for the 405B model) and §3.3 (up to 16,000 H100 GPUs, BF16 model FLOPs utilization of roughly 38–43 percent). Model FLOPs utilization was introduced by Aakanksha Chowdhery et al., [“PaLM: Scaling Language Modeling with Pathways”](https://arxiv.org/abs/2204.02311) (2022), Appendix B: MFU counts the model’s useful forward/backward work and excludes rematerialization, unlike hardware FLOPs utilization. Llama 3 Table 4 reports 41% at 8K context and 38% at 131,072 tokens on 16,384 H100s; 43% is the smaller 8,192-GPU run.",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.21783",
+        "https://arxiv.org/abs/2204.02311"
+      ]
+    },
+    {
+      "note_id": "v1-i4-zero",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "ZeRO primary HTML v3 §3.1–3.2 read: 2-byte weights + 2-byte gradients + 12-byte master/moments = 16 bytes. Mixed Precision Training primary abstract read for FP32 master copy, FP16 weights/gradients and loss scaling. 405B ×16 /180GB =36 is arithmetic before overhead, not a claim Meta trained on B200s.",
+      "citation_and_locator": "Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase and Yuxiong He, [“ZeRO: Memory Optimizations Toward Training Trillion Parameter Models”](https://arxiv.org/abs/1910.02054), *SC20*, §3.1: mixed-precision Adam holds about $16\\Psi$ bytes for $\\Psi$ parameters; Paulius Micikevicius et al., [“Mixed Precision Training”](https://arxiv.org/abs/1710.03740), *ICLR 2018*, on the 32-bit master copy. Configurations vary: 8-bit optimizer states, other optimizers and sharding change the total per GPU. The 6.5 TB and thirty-six-GPU figures use decimal bytes: $405\\times10^9\\times16=6.48\\times10^{12}$. Dividing by the B200’s 180 GB gives 36 devices before activations, buffers and other overhead. This is an illustration, not Meta’s actual H100 training layout. The serving bars exclude scale metadata and runtime storage.",
+      "source_urls": [
+        "https://arxiv.org/abs/1910.02054",
+        "https://arxiv.org/abs/1710.03740"
+      ]
+    },
+    {
+      "note_id": "v1-i4-recompute",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Chen et al. primary abstract read: sublinear-memory training and approximately an extra forward pass. One forward ≈2N / standard train ≈6N =1/3. Selective policies differ.",
+      "citation_and_locator": "Tianqi Chen, Bing Xu, Chiyuan Zhang and Carlos Guestrin, [“Training Deep Nets with Sublinear Memory Cost”](https://arxiv.org/abs/1604.06174) (2016). “Roughly a third” assumes one extra forward pass (about $2N$ per token) against the $6N$ of a training step; selective recomputation can cost less.",
+      "source_urls": [
+        "https://arxiv.org/abs/1604.06174"
+      ]
+    },
+    {
+      "note_id": "v1-i4-failures",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Meta full text §3.3.4 read: 54-day window, 466 interruptions, 47 planned, 419 unexpected, about 78% hardware. 54×24/419 =3.09 hours. Distinguish this snapshot from entire run.",
+      "citation_and_locator": "Llama Team, “The Llama 3 Herd of Models,” §3.3.4, “Reliability and Operational Challenges”: 466 job interruptions in a 54-day snapshot of pretraining, 419 of them unexpected, about 78 percent attributed to confirmed or suspected hardware issues, with faulty GPUs the largest category.",
+      "source_urls": []
+    },
+    {
+      "note_id": "v1-i4-fpsum",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Goldberg and PyTorch reproducibility evidence inherited; Summers/Dinneen primary abstract read for optimization instability from small numerical differences. Nonassociativity is not restricted to last bits.",
+      "citation_and_locator": "David Goldberg, “What Every Computer Scientist Should Know About Floating-Point Arithmetic” (cited above), on rounding and the failure of associativity; PyTorch, [“Reproducibility”](https://docs.pytorch.org/docs/stable/notes/randomness.html), on nondeterministic operations such as atomic additions; Cecilia Summers and Michael J. Dinneen, [“Nondeterminism and Instability in Neural Network Optimization”](https://arxiv.org/abs/2103.04514), *ICML 2021*, on how tiny numerical differences grow during training. The link to the demo-day rounding corner is the author's.",
+      "source_urls": [
+        "https://docs.pytorch.org/docs/stable/notes/randomness.html",
+        "https://arxiv.org/abs/2103.04514"
+      ]
+    },
+    {
+      "note_id": "v1-i4-cards",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Mitchell et al. primary abstract read for model-card reporting. Gebru et al. primary arXiv v8 bibliographic record/abstract and authors’ Microsoft-hosted text checked; CACM DOI direct access returned 403. Publication details match arXiv record; no claim of reading the blocked publisher page.",
+      "citation_and_locator": "Margaret Mitchell et al., [“Model Cards for Model Reporting”](https://arxiv.org/abs/1810.03993), *FAT\\* 2019*; Timnit Gebru et al., [“Datasheets for Datasets”](https://doi.org/10.1145/3458723), *Communications of the ACM* 64(12) (2021). Fine-tuning and preference training are described in Interlude 11.",
+      "source_urls": [
+        "https://arxiv.org/abs/1810.03993",
+        "https://doi.org/10.1145/3458723"
+      ]
+    },
+    {
+      "note_id": "v1-i4-drift",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Gama et al. author accepted manuscript §§2.1–2.2 read: real drift p(y|X), virtual/input-distribution change and gradual/abrupt forms. Chaney et al. primary abstract read; recommender evidence is simulation, not a universal field measurement.",
+      "citation_and_locator": "João Gama, Indrė Žliobaitė, Albert Bifet, Mykola Pechenizkiy and Abdelhamid Bouchachia, [“A Survey on Concept Drift Adaptation”](https://doi.org/10.1145/2523813), *ACM Computing Surveys* 46(4) (2014); Allison J. B. Chaney, Brandon M. Stewart and Barbara E. Engelhardt, [“How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility”](https://arxiv.org/abs/1710.11214), *RecSys 2018*, on feedback loops. Terminology for drift varies across fields.",
+      "source_urls": [
+        "https://doi.org/10.1145/2523813",
+        "https://arxiv.org/abs/1710.11214"
+      ]
+    },
+    {
+      "note_id": "v1-i4-sculley",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Primary NeurIPS PDF §2.1 and Figure 1/§5 context checked: CACE and ML code surrounded by infrastructure. CACE is an engineering warning about learned entanglement, not a mathematical theorem of universal dependence.",
+      "citation_and_locator": "D. Sculley et al., [“Hidden Technical Debt in Machine Learning Systems”](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems), *NeurIPS 2015*, Figure 1 and §2.1 (“Entanglement,” the CACE principle). Interlude 6 introduces technical debt itself.",
+      "source_urls": [
+        "https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems"
+      ]
+    },
+    {
+      "note_id": "v1-i4-collapse",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Nature DOI publisher access unavailable; primary preprint arXiv HTML v3 relevant experiments read, including §6/Figure 10 pure and partial-original-data variants. Corrected incoming claim that all experiments replace all data. Bibliographic Nature title/page information retained; no universal inevitable-collapse inference.",
+      "citation_and_locator": "Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson and Yarin Gal, [“AI Models Collapse When Trained on Recursively Generated Data”](https://doi.org/10.1038/s41586-024-07566-y), *Nature* 631 (2024): 755–759. The [primary preprint](https://arxiv.org/html/2305.17493v3) studies recursive training, including both replacement and experiments retaining some original-distribution data. The results do not establish inevitable collapse for every synthetic-data recipe.",
+      "source_urls": [
+        "https://doi.org/10.1038/s41586-024-07566-y",
+        "https://arxiv.org/html/2305.17493v3"
+      ]
+    },
+    {
+      "note_id": "v1-i4-accumulate",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Gerstgrasser et al. primary abstract read: original real data plus accumulating synthetic generations versus replacement; bounded error in specified linear setting and multiple empirical model families. Does not settle arbitrary web-scale mixtures.",
+      "citation_and_locator": "Matthias Gerstgrasser et al., [“Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data”](https://arxiv.org/abs/2404.01413) (2024). The mitigation depends on the setting studied; the question remains open for web-scale training. The gravity reading is the author's.",
+      "source_urls": [
+        "https://arxiv.org/abs/2404.01413"
+      ]
+    },
+    {
+      "note_id": "v1-i4-roofline",
+      "status": "same-day-source-check-reused-and-arithmetic-rechecked",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Reused this date’s Interlude 3 primary-source check: Williams et al. 2009 pp. 66–67, NVIDIA DGX data sheet p. 8, Blackwell tuning guide. Recomputed dense roof (9 sparse /2 =4.5 PFLOP/s), bandwidth 7.7TB/s, ridge 584.4 ops/byte, weights-only 110 passes/s. Original SVG coordinates and labels inspected; render checked. Not an application benchmark.",
+      "citation_and_locator": "Samuel Williams, Andrew Waterman and David Patterson, [“Roofline: An Insightful Visual Performance Model for Multicore Architectures”](https://aiichironakano.github.io/cs596/Williams-Roofline-CACM09.pdf), *Communications of the ACM* 52(4) (2009), 65–76. The B200 illustration uses [NVIDIA’s DGX data sheet](https://dam-cdn.nvd.orangelogic.com/AssetLink/y441155802qub41q118b2852i557jem5.pdf), p. 8: 7.7 TB/s HBM bandwidth and half the 9 PFLOP/s sparse FP8 rating, or 4.5 PFLOP/s dense. Their ratio is about 584 operations/byte. The [Blackwell tuning guide](https://docs.nvidia.com/cuda/blackwell-tuning-guide/index.html) specifies 180 GB usable memory. At 70 GB per dense-model weight pass, 7.7 TB/s gives about 110 passes/s, assuming conventional one-token decoding on one GPU. Cache traffic, other operations and overhead lower the rate; batching, multiple GPUs and speculative decoding change the premise. Prefill processes prompt tokens in parallel but may be chunked. These are idealized ceilings, not measured application speeds.",
+      "source_urls": [
+        "https://aiichironakano.github.io/cs596/Williams-Roofline-CACM09.pdf",
+        "https://dam-cdn.nvd.orangelogic.com/AssetLink/y441155802qub41q118b2852i557jem5.pdf",
+        "https://docs.nvidia.com/cuda/blackwell-tuning-guide/index.html"
+      ]
+    },
+    {
+      "note_id": "v1-i4-orca",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Official USENIX authors’ abstract read for iteration-level scheduling, dynamic batching and heterogeneous requests. Batch count and throughput examples independently calculated, not presented as measured Orca performance.",
+      "citation_and_locator": "Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim and Byung-Gon Chun, [“Orca: A Distributed Serving System for Transformer-Based Generative Models”](https://www.usenix.org/conference/osdi22/presentation/yu), *OSDI 2022*, on iteration-level scheduling. Sixty-four tokens per pass is an idealization that holds only while arithmetic and cache memory keep up.",
+      "source_urls": [
+        "https://www.usenix.org/conference/osdi22/presentation/yu"
+      ]
+    },
+    {
+      "note_id": "v1-i4-kvcache",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Meta primary Table 3 checked: Llama 3 70B has 80 layers, 8 KV heads, 128 dimensions/head. 2×80×8×128×2 =327680 bytes/token; ×32000 =10.48576 decimal GB. No inference-memory equivalence to raw weight size.",
+      "citation_and_locator": "Per-token cache size is $2 \\times$ layers $\\times$ key-value heads $\\times$ head dimension $\\times$ bytes per value. For Llama 3 70B (80 layers, 8 key-value heads with grouped-query attention, head dimension 128; Llama Team, “The Llama 3 Herd of Models,” Table 3) at 2 bytes, that is 327,680 bytes per token, or about 10.5 GB for 32,000 tokens. Cache quantization and other architectures change the figure.",
+      "source_urls": []
+    },
+    {
+      "note_id": "v1-i4-speculative",
+      "status": "checked-this-pass",
+      "access_date": "2026-11-15",
+      "evidence_checked": "Leviathan et al. primary HTML v2 algorithm 1 and Appendix A.1 read: accept min(1,p/q), rejection from normalized positive p−q, target marginal preserved. Abstract reports 2–3× T5-XXL experiment. Chen et al. primary bibliographic record checked as parallel work; not a claim its full text was read.",
+      "citation_and_locator": "Yaniv Leviathan, Matan Kalman and Yossi Matias, [“Fast Inference from Transformers via Speculative Decoding”](https://arxiv.org/abs/2211.17192), *ICML 2023*, reporting 2–3× acceleration on T5-XXL with identical output distributions; Charlie Chen et al., [“Accelerating Large Language Model Decoding with Speculative Sampling”](https://arxiv.org/abs/2302.01318) (2023). For target probabilities $p$ and draft probabilities $q$, algorithm 1 accepts a proposed token with probability $\\min(1,p/q)$; on rejection it samples from the normalized positive part of $p-q$. This preserves the target distribution, not a prespecified identical random sample. Gains depend on draft acceptance and hardware.",
+      "source_urls": [
+        "https://arxiv.org/abs/2211.17192",
+        "https://arxiv.org/abs/2302.01318"
+      ]
+    },
+    {
+      "note_id": "v1-i4-landauer",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-landauer",
+        "claim": "Conditional kBT ln2 reset bound",
+        "evidence_checked": "Landauer primary indexed text/metadata and Bennett 2003 full-text opening explanation inspected; equiprobable, isothermal, no useful side-information conditions explicit.",
+        "citation_and_locator": "Rolf Landauer, [“Irreversibility and Heat Generation in the Computing Process”](https://doi.org/10.1147/rd.53.0183), *IBM Journal of Research and Development* 5(3), July 1961, 183–191; Charles H. Bennett, [“Notes on Landauer's Principle, Reversible Computation, and Maxwell's Demon”](https://arxiv.org/abs/physics/0210005), *Studies in History and Philosophy of Modern Physics* 34, 2003, 501–510, “Landauer's Principle.” The stated bound assumes an initially equiprobable bit and standard isothermal erasure with no exploitable side information. It is not a universal heat cost per instruction.",
+        "source_urls": [
+          "https://doi.org/10.1147/rd.53.0183",
+          "https://arxiv.org/abs/physics/0210005"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Rolf Landauer, [“Irreversibility and Heat Generation in the Computing Process”](https://doi.org/10.1147/rd.53.0183), *IBM Journal of Research and Development* 5(3), July 1961, 183–191; Charles H. Bennett, [“Notes on Landauer's Principle, Reversible Computation, and Maxwell's Demon”](https://arxiv.org/abs/physics/0210005), *Studies in History and Philosophy of Modern Physics* 34, 2003, 501–510, “Landauer's Principle.” The stated bound assumes an initially equiprobable bit and standard isothermal erasure with no exploitable side information. It is not a universal heat cost per instruction.",
+      "source_urls": [
+        "https://doi.org/10.1147/rd.53.0183",
+        "https://arxiv.org/abs/physics/0210005"
+      ]
+    },
+    {
+      "note_id": "v1-i4-bennett",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-bennett",
+        "claim": "Reversible calculation and uncomputation",
+        "evidence_checked": "Bennett 1973 primary abstract/metadata and 2003 author account inspected. Direct original-paper access was limited; no claim of full 1973 paper rereading. Ordinary physical dissipation remains.",
+        "citation_and_locator": "Charles H. Bennett, “Logical Reversibility of Computation,” *IBM Journal of Research and Development* 17(6), November 1973, 525–532, [doi:10.1147/rd.176.0525](https://doi.org/10.1147/rd.176.0525); see also his [2003 account](https://arxiv.org/html/physics/0210005v2), “Landauer's Principle.” Preserving information and uncomputing intermediate results establishes a logical possibility, not zero dissipation for an ordinary clocked computer operating at practical speed.",
+        "source_urls": [
+          "https://doi.org/10.1147/rd.176.0525",
+          "https://arxiv.org/html/physics/0210005v2"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Charles H. Bennett, “Logical Reversibility of Computation,” *IBM Journal of Research and Development* 17(6), November 1973, 525–532, [doi:10.1147/rd.176.0525](https://doi.org/10.1147/rd.176.0525); see also his [2003 account](https://arxiv.org/html/physics/0210005v2), “Landauer's Principle.” Preserving information and uncomputing intermediate results establishes a logical possibility, not zero dissipation for an ordinary clocked computer operating at practical speed.",
+      "source_urls": [
+        "https://doi.org/10.1147/rd.176.0525",
+        "https://arxiv.org/html/physics/0210005v2"
+      ]
+    },
+    {
+      "note_id": "v1-i4-thermo",
+      "status": "inherited-verified-reference",
+      "prior_record": "work/volume-1-drafting/interlude-04-adoption-2026-10-27/source-audit.json",
+      "inherited_evidence": {
+        "note_id": "v1-i4-thermo",
+        "claim": "Logical entropy, exported heat and total production differ",
+        "evidence_checked": "Sagawa 2014 primary full-text §§4 and 5.4 inspected. Physical distinctions do not derive the following managed-continuity hypothesis.",
+        "citation_and_locator": "Takahiro Sagawa, [“Thermodynamic and Logical Reversibilities Revisited”](https://arxiv.org/abs/1311.1886), *Journal of Statistical Mechanics*, P03025 (2014), §§4–5. Heat flow to a reservoir, logical entropy change and total entropy production are distinct. The subsequent proposal about managed continuity and agency is an open authorial inquiry, not a result of thermodynamics or an established test for consciousness.",
+        "source_urls": [
+          "https://arxiv.org/abs/1311.1886"
+        ],
+        "access_date": "2026-10-27"
+      },
+      "citation_and_locator": "Takahiro Sagawa, [“Thermodynamic and Logical Reversibilities Revisited”](https://arxiv.org/abs/1311.1886), *Journal of Statistical Mechanics*, P03025 (2014), §§4–5. Heat flow to a reservoir, logical entropy change and total entropy production are distinct. The subsequent proposal about managed continuity and agency is an open authorial inquiry, not a result of thermodynamics or an established test for consciousness.",
+      "source_urls": [
+        "https://arxiv.org/abs/1311.1886"
+      ]
+    }
+  ]
+}

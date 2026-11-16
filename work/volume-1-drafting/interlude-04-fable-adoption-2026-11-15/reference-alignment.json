@@ -1,0 +1,128 @@
+[
+  {
+    "id": "v1-i4-toolchain",
+    "before": "LLVM Project, [“Assembling a Complete Toolchain”](https://clang.llvm.org/docs/Toolchain.html), “Tools” and “Runtime libraries.” Compiler stages, assembly, linking and runtime support are separable responsibilities; implementations may combine stages. The discussion describes common execution arrangements, not a mandatory pipeline for every language. Self-hosting compilers such as GCC are built in stages, each compiled by the previous one; see GCC, [“Building a native compiler”](https://gcc.gnu.org/install/build.html). The tale of Munchausen pulling himself from a mire by his own hair is from Rudolf Erich Raspe's *Baron Munchausen's Narrative* (1785) and its later editions. (Additions AI-added; to be verified.)",
+    "after": "LLVM Project, [“Assembling a Complete Toolchain”](https://clang.llvm.org/docs/Toolchain.html), “Tools” and “Runtime libraries.” Compiler stages, assembly, linking and runtime support are separable responsibilities; implementations may combine stages. The discussion describes common execution arrangements, not a mandatory pipeline for every language. Self-hosting compilers such as GCC are built in stages, each compiled by the previous one; see GCC, [“Building a native compiler”](https://gcc.gnu.org/install/build.html). For the hair-pulling episode, see Gottfried August Bürger, [*Des Freyherrn von Münchhausen Wunderbare Reisen*](https://de.wikisource.org/wiki/Des_Freyherrn_von_M%C3%BCnchhausen_Wunderbare_Reisen#Seite_54) (1786), pp. 54–55, the German adaptation of Raspe's tales.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-dedup",
+    "before": "Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini, [“Deduplicating Training Data Makes Language Models Better”](https://arxiv.org/abs/2107.06499), *Proceedings of ACL 2022*, abstract and §§5–6: models trained on deduplicated data emitted memorized text about ten times less often and needed fewer training steps for the same or better accuracy. The result concerns the corpora and models studied. (AI-added, from memory; to be verified.)",
+    "after": "Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini, [“Deduplicating Training Data Makes Language Models Better”](https://arxiv.org/abs/2107.06499), *Proceedings of ACL 2022*, abstract and §§5–6: models trained on deduplicated data emitted memorized text about ten times less often and needed fewer training steps for the same or better accuracy. The result concerns the corpora and models studied.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-contamination",
+    "before": "Tom B. Brown et al., [“Language Models Are Few-Shot Learners”](https://arxiv.org/abs/2005.14165), *NeurIPS 2020*, §4 (“Measuring and Preventing Memorization of Benchmarks”) and Appendix C: a bug in the overlap filter left some benchmark contamination, retraining was judged infeasible because of cost, and the authors measured its effect instead. (AI-added, from memory; to be verified.)",
+    "after": "Tom B. Brown et al., [“Language Models Are Few-Shot Learners”](https://arxiv.org/abs/2005.14165), *NeurIPS 2020*, §4 (“Measuring and Preventing Memorization of Benchmarks”) and Appendix C: a bug in the overlap filter left some benchmark contamination, retraining was judged infeasible because of cost, and the authors measured its effect instead.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-loader",
+    "before": "PyTorch, [`torch.utils.data` documentation](https://docs.pytorch.org/docs/stable/data.html), “Multi-process data loading” and “Memory Pinning”; Derek G. Murray et al., [“tf.data: A Machine Learning Data Processing Framework”](https://arxiv.org/abs/2101.12127), *Proceedings of the VLDB Endowment* 14(12) (2021), on input pipelines as a training bottleneck. Pinned (page-locked) host memory allows asynchronous transfers; whether a given job is input-bound depends on its data, preprocessing and hardware. (AI-added, from memory; to be verified.)",
+    "after": "PyTorch, [`torch.utils.data` documentation](https://docs.pytorch.org/docs/stable/data.html), “Multi-process data loading” and “Memory Pinning”; Derek G. Murray et al., [“tf.data: A Machine Learning Data Processing Framework”](https://arxiv.org/abs/2101.12127), *Proceedings of the VLDB Endowment* 14(12) (2021), on input pipelines as a training bottleneck. Pinned (page-locked) host memory enables asynchronous transfers; overlap with computation also requires suitable stream scheduling and hardware, as described in PyTorch’s [CUDA semantics](https://docs.pytorch.org/docs/stable/notes/cuda.html). Whether a job is input-bound depends on its data, preprocessing and hardware.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-launch",
+    "before": "PyTorch, [“CUDA semantics”](https://docs.pytorch.org/docs/stable/notes/cuda.html), “Asynchronous execution” and “CUDA Graphs”; NVIDIA, *CUDA Programming Guide*, sections on streams and CUDA Graphs; Jason Ansel et al., [“PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation”](https://doi.org/10.1145/3620665.3640366), *ASPLOS 2024*. “A few microseconds” is an order of magnitude for host-side launch cost; it varies with hardware, driver and framework. (AI-added, from memory; to be verified.)",
+    "after": "PyTorch, [“CUDA semantics”](https://docs.pytorch.org/docs/stable/notes/cuda.html), “Asynchronous execution” and “CUDA Graphs”; Alan Gray, NVIDIA, [“Getting Started with CUDA Graphs”](https://developer.nvidia.com/blog/cuda-graphs/) (2019), measured launch/launch-and-synchronization overhead in a V100 example; Jason Ansel et al., [“PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation”](https://pytorch.org/assets/pytorch2-2.pdf), *ASPLOS 2024*. “A few microseconds” is an order of magnitude for host-side launch cost; it varies with hardware, driver and framework.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-fusion",
+    "before": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra and Christopher Ré, [“FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness”](https://arxiv.org/abs/2205.14135), *NeurIPS 2022*, abstract and §4: exact attention computed in on-chip tiles, with up to about 3× faster GPT-2 training at sequence length 1K against the baseline implementation reported there. The bias-and-activation estimate is illustrative arithmetic: 2 operations per 8 bytes is 0.25 operations per byte, far below the ≈584 operations per byte ridge computed in Interlude 3 for dense FP8 Tensor Core work, and also below the much lower ridge of the general-purpose units that perform elementwise operations; small bias reads are ignored. The roofline figure uses the same two specifications. (AI-added, from memory; to be verified.)",
+    "after": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra and Christopher Ré, [“FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness”](https://arxiv.org/abs/2205.14135), *NeurIPS 2022*, abstract and §4: exact attention computed in on-chip tiles, with up to about 3× faster GPT-2 training at sequence length 1K against the baseline implementation reported there. The bias-and-activation estimate is illustrative arithmetic: 2 operations per 8 bytes is 0.25 operations per byte, far below the ≈584 operations per byte ridge computed in Interlude 3 for dense FP8 Tensor Core work, and also below the much lower ridge of the general-purpose units that perform elementwise operations; small bias reads are ignored. The roofline figure uses the same two specifications.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-6nd",
+    "before": "Jared Kaplan et al., [“Scaling Laws for Neural Language Models”](https://arxiv.org/abs/2001.08361) (2020), §2.1, estimating training compute as about $6N$ operations per token for a dense transformer, forward plus backward. The approximation omits embedding and context-length-dependent attention terms and does not apply directly to sparse mixture-of-experts models, where $N$ should be the parameters active per token. (AI-added, from memory; to be verified.)",
+    "after": "Jared Kaplan et al., [“Scaling Laws for Neural Language Models”](https://arxiv.org/abs/2001.08361) (2020), §2.1, estimating training compute as about $6N$ operations per token for a dense transformer, forward plus backward. The approximation omits embedding and context-length-dependent attention terms and does not apply directly to sparse mixture-of-experts models, where $N$ should be the parameters active per token.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-llama3",
+    "before": "Llama Team, AI @ Meta, [“The Llama 3 Herd of Models”](https://arxiv.org/abs/2407.21783) (2024), §3 (pretraining on about 15.6 trillion tokens, 3.8 × 10²⁵ FLOPs for the 405B model) and §3.3 (up to 16,000 H100 GPUs, BF16 model FLOPs utilization of roughly 38–43 percent). Model FLOPs utilization was introduced by Aakanksha Chowdhery et al., [“PaLM: Scaling Language Modeling with Pathways”](https://arxiv.org/abs/2204.02311) (2022), Appendix B. (AI-added, from memory; to be verified.)",
+    "after": "Llama Team, AI @ Meta, [“The Llama 3 Herd of Models”](https://arxiv.org/abs/2407.21783) (2024), §3 (pretraining on about 15.6 trillion tokens, 3.8 × 10²⁵ FLOPs for the 405B model) and §3.3 (up to 16,000 H100 GPUs, BF16 model FLOPs utilization of roughly 38–43 percent). Model FLOPs utilization was introduced by Aakanksha Chowdhery et al., [“PaLM: Scaling Language Modeling with Pathways”](https://arxiv.org/abs/2204.02311) (2022), Appendix B: MFU counts the model’s useful forward/backward work and excludes rematerialization, unlike hardware FLOPs utilization. Llama 3 Table 4 reports 41% at 8K context and 38% at 131,072 tokens on 16,384 H100s; 43% is the smaller 8,192-GPU run.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-zero",
+    "before": "Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase and Yuxiong He, [“ZeRO: Memory Optimizations Toward Training Trillion Parameter Models”](https://arxiv.org/abs/1910.02054), *SC20*, §3.1: mixed-precision Adam holds about $16\\Psi$ bytes for $\\Psi$ parameters; Paulius Micikevicius et al., [“Mixed Precision Training”](https://arxiv.org/abs/1710.03740), *ICLR 2018*, on the 32-bit master copy. Configurations vary: 8-bit optimizer states, other optimizers and sharding change the total per GPU. The 6.5 TB and thirty-six-GPU figures are illustrative arithmetic against the B200's 180 GB. (AI-added, from memory; to be verified.)",
+    "after": "Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase and Yuxiong He, [“ZeRO: Memory Optimizations Toward Training Trillion Parameter Models”](https://arxiv.org/abs/1910.02054), *SC20*, §3.1: mixed-precision Adam holds about $16\\Psi$ bytes for $\\Psi$ parameters; Paulius Micikevicius et al., [“Mixed Precision Training”](https://arxiv.org/abs/1710.03740), *ICLR 2018*, on the 32-bit master copy. Configurations vary: 8-bit optimizer states, other optimizers and sharding change the total per GPU. The 6.5 TB and thirty-six-GPU figures use decimal bytes: $405\\times10^9\\times16=6.48\\times10^{12}$. Dividing by the B200’s 180 GB gives 36 devices before activations, buffers and other overhead. This is an illustration, not Meta’s actual H100 training layout. The serving bars exclude scale metadata and runtime storage.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-recompute",
+    "before": "Tianqi Chen, Bing Xu, Chiyuan Zhang and Carlos Guestrin, [“Training Deep Nets with Sublinear Memory Cost”](https://arxiv.org/abs/1604.06174) (2016). “Roughly a third” assumes one extra forward pass (about $2N$ per token) against the $6N$ of a training step; selective recomputation can cost less. (AI-added, from memory; to be verified.)",
+    "after": "Tianqi Chen, Bing Xu, Chiyuan Zhang and Carlos Guestrin, [“Training Deep Nets with Sublinear Memory Cost”](https://arxiv.org/abs/1604.06174) (2016). “Roughly a third” assumes one extra forward pass (about $2N$ per token) against the $6N$ of a training step; selective recomputation can cost less.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-failures",
+    "before": "Llama Team, “The Llama 3 Herd of Models,” §3.3.4, “Reliability and Operational Challenges”: 466 job interruptions in a 54-day snapshot of pretraining, 419 of them unexpected, about 78 percent attributed to confirmed or suspected hardware issues, with faulty GPUs the largest category. (AI-added, from memory; to be verified.)",
+    "after": "Llama Team, “The Llama 3 Herd of Models,” §3.3.4, “Reliability and Operational Challenges”: 466 job interruptions in a 54-day snapshot of pretraining, 419 of them unexpected, about 78 percent attributed to confirmed or suspected hardware issues, with faulty GPUs the largest category.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-fpsum",
+    "before": "David Goldberg, “What Every Computer Scientist Should Know About Floating-Point Arithmetic” (cited above), on rounding and the failure of associativity; PyTorch, [“Reproducibility”](https://docs.pytorch.org/docs/stable/notes/randomness.html), on nondeterministic operations such as atomic additions; Cecilia Summers and Michael J. Dinneen, [“Nondeterminism and Instability in Neural Network Optimization”](https://arxiv.org/abs/2103.04514), *ICML 2021*, on how tiny numerical differences grow during training. The link to the demo-day rounding corner is the author's. (AI-added, from memory; to be verified.)",
+    "after": "David Goldberg, “What Every Computer Scientist Should Know About Floating-Point Arithmetic” (cited above), on rounding and the failure of associativity; PyTorch, [“Reproducibility”](https://docs.pytorch.org/docs/stable/notes/randomness.html), on nondeterministic operations such as atomic additions; Cecilia Summers and Michael J. Dinneen, [“Nondeterminism and Instability in Neural Network Optimization”](https://arxiv.org/abs/2103.04514), *ICML 2021*, on how tiny numerical differences grow during training. The link to the demo-day rounding corner is the author's.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-cards",
+    "before": "Margaret Mitchell et al., [“Model Cards for Model Reporting”](https://arxiv.org/abs/1810.03993), *FAT\\* 2019*; Timnit Gebru et al., [“Datasheets for Datasets”](https://doi.org/10.1145/3458723), *Communications of the ACM* 64(12) (2021). Fine-tuning and preference training are described in Interlude 11. (AI-added, from memory; to be verified.)",
+    "after": "Margaret Mitchell et al., [“Model Cards for Model Reporting”](https://arxiv.org/abs/1810.03993), *FAT\\* 2019*; Timnit Gebru et al., [“Datasheets for Datasets”](https://doi.org/10.1145/3458723), *Communications of the ACM* 64(12) (2021). Fine-tuning and preference training are described in Interlude 11.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-drift",
+    "before": "João Gama, Indrė Žliobaitė, Albert Bifet, Mykola Pechenizkiy and Abdelhamid Bouchachia, [“A Survey on Concept Drift Adaptation”](https://doi.org/10.1145/2523813), *ACM Computing Surveys* 46(4) (2014); Allison J. B. Chaney, Brandon M. Stewart and Barbara E. Engelhardt, [“How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility”](https://arxiv.org/abs/1710.11214), *RecSys 2018*, on feedback loops. Terminology for drift varies across fields. (AI-added, from memory; to be verified.)",
+    "after": "João Gama, Indrė Žliobaitė, Albert Bifet, Mykola Pechenizkiy and Abdelhamid Bouchachia, [“A Survey on Concept Drift Adaptation”](https://doi.org/10.1145/2523813), *ACM Computing Surveys* 46(4) (2014); Allison J. B. Chaney, Brandon M. Stewart and Barbara E. Engelhardt, [“How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility”](https://arxiv.org/abs/1710.11214), *RecSys 2018*, on feedback loops. Terminology for drift varies across fields.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-sculley",
+    "before": "D. Sculley et al., [“Hidden Technical Debt in Machine Learning Systems”](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems), *NeurIPS 2015*, Figure 1 and §2.1 (“Entanglement,” the CACE principle). Interlude 6 introduces technical debt itself. (AI-added, from memory; to be verified.)",
+    "after": "D. Sculley et al., [“Hidden Technical Debt in Machine Learning Systems”](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems), *NeurIPS 2015*, Figure 1 and §2.1 (“Entanglement,” the CACE principle). Interlude 6 introduces technical debt itself.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-collapse",
+    "before": "Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson and Yarin Gal, [“AI Models Collapse When Trained on Recursively Generated Data”](https://doi.org/10.1038/s41586-024-07566-y), *Nature* 631 (2024): 755–759. The experiments replace each generation's data with the previous model's output; real deployments mix sources. (AI-added, from memory; to be verified.)",
+    "after": "Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson and Yarin Gal, [“AI Models Collapse When Trained on Recursively Generated Data”](https://doi.org/10.1038/s41586-024-07566-y), *Nature* 631 (2024): 755–759. The [primary preprint](https://arxiv.org/html/2305.17493v3) studies recursive training, including both replacement and experiments retaining some original-distribution data. The results do not establish inevitable collapse for every synthetic-data recipe.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-accumulate",
+    "before": "Matthias Gerstgrasser et al., [“Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data”](https://arxiv.org/abs/2404.01413) (2024). The mitigation depends on the setting studied; the question remains open for web-scale training. The gravity reading is the author's. (AI-added, from memory; to be verified.)",
+    "after": "Matthias Gerstgrasser et al., [“Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data”](https://arxiv.org/abs/2404.01413) (2024). The mitigation depends on the setting studied; the question remains open for web-scale training. The gravity reading is the author's.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-roofline",
+    "before": null,
+    "after": "Samuel Williams, Andrew Waterman and David Patterson, [“Roofline: An Insightful Visual Performance Model for Multicore Architectures”](https://aiichironakano.github.io/cs596/Williams-Roofline-CACM09.pdf), *Communications of the ACM* 52(4) (2009), 65–76. The B200 illustration uses [NVIDIA’s DGX data sheet](https://dam-cdn.nvd.orangelogic.com/AssetLink/y441155802qub41q118b2852i557jem5.pdf), p. 8: 7.7 TB/s HBM bandwidth and half the 9 PFLOP/s sparse FP8 rating, or 4.5 PFLOP/s dense. Their ratio is about 584 operations/byte. The [Blackwell tuning guide](https://docs.nvidia.com/cuda/blackwell-tuning-guide/index.html) specifies 180 GB usable memory. At 70 GB per dense-model weight pass, 7.7 TB/s gives about 110 passes/s, assuming conventional one-token decoding on one GPU. Cache traffic, other operations and overhead lower the rate; batching, multiple GPUs and speculative decoding change the premise. Prefill processes prompt tokens in parallel but may be chunked. These are idealized ceilings, not measured application speeds.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-orca",
+    "before": "Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim and Byung-Gon Chun, [“Orca: A Distributed Serving System for Transformer-Based Generative Models”](https://www.usenix.org/conference/osdi22/presentation/yu), *OSDI 2022*, on iteration-level scheduling. The decode ceiling is illustrative arithmetic: 7.7 TB/s ÷ 70 GB ≈ 110 weight passes per second, ignoring cache reads, overheads and multi-GPU serving. Sixty-four tokens per pass is an idealization that holds only while arithmetic and cache memory keep up. (AI-added, from memory; to be verified.)",
+    "after": "Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim and Byung-Gon Chun, [“Orca: A Distributed Serving System for Transformer-Based Generative Models”](https://www.usenix.org/conference/osdi22/presentation/yu), *OSDI 2022*, on iteration-level scheduling. Sixty-four tokens per pass is an idealization that holds only while arithmetic and cache memory keep up.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-kvcache",
+    "before": "Per-token cache size is $2 \\times$ layers $\\times$ key-value heads $\\times$ head dimension $\\times$ bytes per value. For Llama 3 70B (80 layers, 8 key-value heads with grouped-query attention, head dimension 128; Llama Team, “The Llama 3 Herd of Models,” Table 3) at 2 bytes, that is 327,680 bytes per token, or about 10.5 GB for 32,000 tokens. Cache quantization and other architectures change the figure. (AI-added, from memory; to be verified.)",
+    "after": "Per-token cache size is $2 \\times$ layers $\\times$ key-value heads $\\times$ head dimension $\\times$ bytes per value. For Llama 3 70B (80 layers, 8 key-value heads with grouped-query attention, head dimension 128; Llama Team, “The Llama 3 Herd of Models,” Table 3) at 2 bytes, that is 327,680 bytes per token, or about 10.5 GB for 32,000 tokens. Cache quantization and other architectures change the figure.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  },
+  {
+    "id": "v1-i4-speculative",
+    "before": "Yaniv Leviathan, Matan Kalman and Yossi Matias, [“Fast Inference from Transformers via Speculative Decoding”](https://arxiv.org/abs/2211.17192), *ICML 2023*, reporting 2–3× acceleration on T5-XXL with identical output distributions; Charlie Chen et al., [“Accelerating Large Language Model Decoding with Speculative Sampling”](https://arxiv.org/abs/2302.01318) (2023). Gains depend on how often the draft is accepted. (AI-added, from memory; to be verified.)",
+    "after": "Yaniv Leviathan, Matan Kalman and Yossi Matias, [“Fast Inference from Transformers via Speculative Decoding”](https://arxiv.org/abs/2211.17192), *ICML 2023*, reporting 2–3× acceleration on T5-XXL with identical output distributions; Charlie Chen et al., [“Accelerating Large Language Model Decoding with Speculative Sampling”](https://arxiv.org/abs/2302.01318) (2023). For target probabilities $p$ and draft probabilities $q$, algorithm 1 accepts a proposed token with probability $\\min(1,p/q)$; on rejection it samples from the normalized positive part of $p-q$. This preserves the target distribution, not a prespecified identical random sample. Gains depend on draft acceptance and hardware.",
+    "reason": "Verified reference and locator/assumptions aligned; see source-audit.json."
+  }
+]

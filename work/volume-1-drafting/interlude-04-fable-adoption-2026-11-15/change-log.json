@@ -1,0 +1,242 @@
+[
+  {
+    "kind": "B",
+    "reason": "Do not assert an unsupported majority or imply every compiler bootstraps itself.",
+    "before": "Most compilers are themselves compiled by earlier versions of themselves",
+    "after": "Self-hosting compilers can be compiled by earlier versions of themselves"
+  },
+  {
+    "kind": "B",
+    "reason": "Recover the important process/thread distinction from the previous canonical teaching.",
+    "before": "in which one or more threads each keep their own place in the instructions",
+    "after": "in which threads share the process's address space but each keep their own stack and place in the instructions"
+  },
+  {
+    "kind": "B",
+    "reason": "Shuffling does not establish representativeness or fairness.",
+    "before": "shuffled so that each batch is a fair sample rather than a chapter of one book",
+    "after": "shuffled to mix examples rather than simply follow one book"
+  },
+  {
+    "kind": "B",
+    "reason": "Pinned memory enables overlap; it does not guarantee the necessary scheduling.",
+    "before": "and stage each batch in pinned memory, which the GPU can copy from directly, so that the transfer overlaps the GPU's work on the previous batch",
+    "after": "and can stage batches in pinned memory, which allows asynchronous transfers to overlap the GPU's work on the previous batch"
+  },
+  {
+    "kind": "B",
+    "reason": "CUDA dispatch applies to the specified device, not every PyTorch operation.",
+    "before": "Write `y = x @ W`, a matrix product, in PyTorch's ordinary or *eager* mode.",
+    "after": "Write `y = x @ W`, a matrix product, in PyTorch's ordinary or *eager* mode, with the tensors on an NVIDIA GPU."
+  },
+  {
+    "kind": "B",
+    "reason": "Asynchronous is not literally instantaneous.",
+    "before": "and returns at once; Python runs ahead",
+    "after": "and returns without waiting for the GPU to finish; Python runs ahead"
+  },
+  {
+    "kind": "B",
+    "reason": "Host cost is workload/runtime dependent; retain the useful scale.",
+    "before": "Each launch costs the host a few microseconds.",
+    "after": "A launch can cost the host a few microseconds."
+  },
+  {
+    "kind": "B",
+    "reason": "Not every activation is a one-operation function.",
+    "before": "then applying an activation function costs about one operation per element for each step",
+    "after": "then applying a simple activation such as ReLU costs about one operation per element for each step"
+  },
+  {
+    "kind": "B",
+    "reason": "The traffic calculation is useful; the speedup is conditional and small kernels can be launch-bound.",
+    "before": "Such work is entirely memory-bound, so a single fused kernel that does both steps while each value sits in a register halves the traffic and roughly doubles the speed.",
+    "after": "For large enough tensors, memory dominates. A single fused kernel that does both steps while each value sits in a register halves this traffic and can approach twice the speed."
+  },
+  {
+    "kind": "B",
+    "reason": "Recover the old mechanism and calculus joke; the new cost calculation needs this explanation.",
+    "before": "Interlude 2 described the training step: a forward pass, a loss, a backward pass, an update. ",
+    "after": "Interlude 2 described the training step: a forward pass, a loss, a backward pass, an update. Automatic differentiation tracks the operations and their derivative rules; the backward pass uses the chain rule to calculate how a small change in each parameter would change the loss. It doesn't try a billion independent experiments, one per weight, and it doesn't discover the derivative by having an opinion about calculus.[^v1-i4-autograd]\n\n"
+  },
+  {
+    "kind": "B",
+    "reason": "Move the existing autograd reference to the restored explanation.",
+    "before": "[^v1-i4-autograd][^v1-i4-optimizer]",
+    "after": "[^v1-i4-optimizer]"
+  },
+  {
+    "kind": "B",
+    "reason": "6ND is the stated dominant-matrix transformer approximation, not every dense network.",
+    "before": "A forward pass through a dense network costs",
+    "after": "A forward pass through a dense transformer costs"
+  },
+  {
+    "kind": "B",
+    "reason": "Count training tokens processed, not necessarily unique tokens.",
+    "before": "on $D$ tokens takes about",
+    "after": "on $D$ tokens processed takes about"
+  },
+  {
+    "kind": "A",
+    "reason": "MFU measures useful model compute, not the fraction of hardware arithmetic that is busy.",
+    "before": "Its sixteen thousand GPUs kept roughly 40 percent of their peak arithmetic busy, a ratio called *model FLOPs utilization*. The rest went to waiting, communicating and the slope of the roofline.",
+    "after": "Across its sixteen thousand GPUs, the model's useful arithmetic reached roughly 40 percent of their peak throughput, a ratio called *model FLOPs utilization*. The gap includes recomputation, waiting, communication and memory limits."
+  },
+  {
+    "kind": "B",
+    "reason": "16 bytes is a configuration, not a universal training-state requirement.",
+    "before": "with the Adam optimizer typically keeps",
+    "after": "with the Adam optimizer, in a common configuration, keeps"
+  },
+  {
+    "kind": "B",
+    "reason": "Specify the two Adam statistics.",
+    "before": "Adam's two running averages of past gradients at 32 bits each",
+    "after": "Adam's running averages of gradients and squared gradients at 32 bits each"
+  },
+  {
+    "kind": "B",
+    "reason": "Weight-only bars do not represent total inference memory.",
+    "before": "serving the same model keeps only the weights, two bytes at 16-bit precision, one at 8-bit and half a byte at 4-bit. Original schematic of a common configuration; activations and the key-value cache are extra.",
+    "after": "serving needs no optimizer state, and raw weights occupy two bytes at 16-bit precision, one at 8-bit and half a byte at 4-bit. Original schematic of a common configuration; activations, the key-value cache and quantization metadata are extra."
+  },
+  {
+    "kind": "B",
+    "reason": "Distinguish the reliability snapshot from the entire run.",
+    "before": "In 54 days of training that largest Llama 3 model",
+    "after": "During a 54-day window of training that largest Llama 3 model"
+  },
+  {
+    "kind": "B",
+    "reason": "Nonassociativity can produce large errors too; retain the following last-bit example.",
+    "before": "$a+(b+c)$ in the last bits, and a parallel sum",
+    "after": "$a+(b+c)$, and a parallel sum"
+  },
+  {
+    "kind": "B",
+    "reason": "Drift can be abrupt or gradual.",
+    "before": "the inputs a deployed model meets slowly stop resembling",
+    "after": "the inputs a deployed model meets stop resembling"
+  },
+  {
+    "kind": "B",
+    "reason": "No general severity ranking follows from the drift definition.",
+    "before": "*Concept drift* is worse:",
+    "after": "*Concept drift* changes the target:"
+  },
+  {
+    "kind": "B",
+    "reason": "A cutoff does not prevent inference, in-context learning or retrieval of later facts.",
+    "before": "A language model's knowledge stops at its training cutoff.",
+    "after": "A frozen language model doesn't automatically learn what happens after its training cutoff."
+  },
+  {
+    "kind": "B",
+    "reason": "Match the accumulation experiment; retaining only a small fresh sample is not the same intervention.",
+    "before": "Keeping the original human data in the mix, and adding to it rather than replacing it, appears to prevent the worst of it.",
+    "after": "Keeping the original human data and accumulating later generations of data rather than replacing it appears to prevent the worst of it."
+  },
+  {
+    "kind": "B",
+    "reason": "Keep informational gravity while avoiding a universal claim about all copying.",
+    "before": "A copy of a copy is pulled toward the most common thing it has seen",
+    "after": "In this failure mode, a copy of a copy is pulled toward the most common thing it has seen"
+  },
+  {
+    "kind": "B",
+    "reason": "State the dense, memory-resident setting for the weight-traffic estimate.",
+    "before": "Then *decoding* begins, one token per step, and each step must stream every weight from HBM to do a single token's worth of arithmetic.",
+    "after": "Then *decoding* begins, one token per step. For a dense model too large for on-chip cache, each step streams its weights from HBM to do a single token's worth of arithmetic."
+  },
+  {
+    "kind": "B",
+    "reason": "An ideal single-token roof is not a universal serving bound; speculative decoding is the later exception.",
+    "before": "one user can't get much more than about a hundred tokens per second, however many multipliers sit idle.",
+    "after": "the weight-only ceiling for one user on one B200 is roughly a hundred tokens per second, however many multipliers sit idle.[^v1-i4-roofline]"
+  },
+  {
+    "kind": "B",
+    "reason": "The figure is a model, not measured performance.",
+    "before": "Where machine-learning workloads sit on the B200's roofline. Attainable throughput rises",
+    "after": "Idealized throughput ceilings for machine-learning workloads on the B200's roofline. The upper bound rises"
+  },
+  {
+    "kind": "B",
+    "reason": "KV cache stores K and V projections, not attention outputs.",
+    "before": "each conversation's intermediate attention results",
+    "after": "the keys and values for each conversation's earlier tokens"
+  },
+  {
+    "kind": "A",
+    "reason": "Distribution-preserving sampling requires acceptance ratios and corrected rejection sampling, not equality to a hypothetical sample.",
+    "before": "accepting those it would have produced and replacing the first it wouldn't",
+    "after": "accepting a prefix through a probability-corrected test and resampling at the first rejection"
+  },
+  {
+    "kind": "B",
+    "reason": "Match the equiprobable-bit assumption already present in the source note.",
+    "before": "for erasing a bit of unknown value",
+    "after": "for erasing a bit with two equally likely values"
+  },
+  {
+    "kind": "preservation",
+    "reason": "Keep both the original and expanded provenance comments.",
+    "before": "Earlier canonical comment absent from incoming.",
+    "after": "<!-- AI draft: execution, abstraction, concurrency and verification teaching; author-approved Stage 2, 27 October 2026. -->"
+  },
+  {
+    "kind": "A",
+    "reason": "The actual primary passage is in Bürger; do not assign the episode to Raspe 1785 without evidence.",
+    "before": "The tale of Munchausen pulling himself from a mire by his own hair is from Rudolf Erich Raspe's *Baron Munchausen's Narrative* (1785) and its later editions. (Additions AI-added; to be verified.)",
+    "after": "For the hair-pulling episode, see Gottfried August Bürger, [*Des Freyherrn von Münchhausen Wunderbare Reisen*](https://de.wikisource.org/wiki/Des_Freyherrn_von_M%C3%BCnchhausen_Wunderbare_Reisen#Seite_54) (1786), pp. 54–55, the German adaptation of Raspe's tales."
+  },
+  {
+    "kind": "B",
+    "reason": "Replace vague technical attribution with the source actually checked.",
+    "before": "NVIDIA, *CUDA Programming Guide*, sections on streams and CUDA Graphs;",
+    "after": "Alan Gray, NVIDIA, [“Getting Started with CUDA Graphs”](https://developer.nvidia.com/blog/cuda-graphs/) (2019), measured launch/launch-and-synchronization overhead in a V100 example;"
+  },
+  {
+    "kind": "B",
+    "reason": "Provide the primary full paper for the compiler mechanism.",
+    "before": "PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation”](https://doi.org/10.1145/3620665.3640366)",
+    "after": "PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation”](https://pytorch.org/assets/pytorch2-2.pdf)"
+  },
+  {
+    "kind": "B",
+    "reason": "Put scheduling conditions in the reference rather than interrupting the analogy.",
+    "before": "Pinned (page-locked) host memory allows asynchronous transfers; whether a given job is input-bound depends on its data, preprocessing and hardware.",
+    "after": "Pinned (page-locked) host memory enables asynchronous transfers; overlap with computation also requires suitable stream scheduling and hardware, as described in PyTorch’s [CUDA semantics](https://docs.pytorch.org/docs/stable/notes/cuda.html). Whether a job is input-bound depends on its data, preprocessing and hardware."
+  },
+  {
+    "kind": "B",
+    "reason": "Check the utilization definition and separate the reported configurations.",
+    "before": "Appendix B. (AI-added, from memory; to be verified.)",
+    "after": "Appendix B: MFU counts the model’s useful forward/backward work and excludes rematerialization, unlike hardware FLOPs utilization. Llama 3 Table 4 reports 41% at 8K context and 38% at 131,072 tokens on 16,384 H100s; 43% is the smaller 8,192-GPU run."
+  },
+  {
+    "kind": "B",
+    "reason": "State the assumptions behind the memory illustration.",
+    "before": "The 6.5 TB and thirty-six-GPU figures are illustrative arithmetic against the B200's 180 GB.",
+    "after": "The 6.5 TB and thirty-six-GPU figures use decimal bytes: $405\\times10^9\\times16=6.48\\times10^{12}$. Dividing by the B200’s 180 GB gives 36 devices before activations, buffers and other overhead. This is an illustration, not Meta’s actual H100 training layout. The serving bars exclude scale metadata and runtime storage."
+  },
+  {
+    "kind": "A",
+    "reason": "Do not misdescribe all experiments as pure replacement.",
+    "before": "The experiments replace each generation's data with the previous model's output; real deployments mix sources.",
+    "after": "The [primary preprint](https://arxiv.org/html/2305.17493v3) studies recursive training, including both replacement and experiments retaining some original-distribution data. The results do not establish inevitable collapse for every synthetic-data recipe."
+  },
+  {
+    "kind": "B",
+    "reason": "The calculation is now sourced at the claim in the dedicated roofline note.",
+    "before": "The decode ceiling is illustrative arithmetic: 7.7 TB/s ÷ 70 GB ≈ 110 weight passes per second, ignoring cache reads, overheads and multi-GPU serving. ",
+    "after": ""
+  },
+  {
+    "kind": "B",
+    "reason": "Explain the precise mechanism in the source note.",
+    "before": "Gains depend on how often the draft is accepted.",
+    "after": "For target probabilities $p$ and draft probabilities $q$, algorithm 1 accepts a proposed token with probability $\\min(1,p/q)$; on rejection it samples from the normalized positive part of $p-q$. This preserves the target distribution, not a prespecified identical random sample. Gains depend on draft acceptance and hardware."
+  }
+]

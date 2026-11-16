@@ -433,3 +433,10 @@ Verified the four incoming notes, extended the scaling reference, and clarified 
 Installed the three supplied SVGs unchanged and retained the original memory diagram. The network map remains a block diagram. Captions clarify approximate timescales, non-anatomical layout and epistemic openness. Verified twelve incoming reference notes and added two model/network notes. Local repairs cover Harlow and Ainsworth, heritability and maturation, learning/turnover/regret scope, and the newly contested failed-prophecy story. The force of the author’s proposal remains; S022 records its open research obligations.
 
 [Adoption record](../volume-1-drafting/chapter-04-fable-adoption-2026-11-15/ADOPTION_NOTES.md) contains exact edits, evidence scope, figure previews, reader-value assessment and checks. Incoming sources remain read-only. No publication.
+
+
+## V1-045 — Interlude 4: software machinery from training to serving
+
+**15 November 2026; adopted.** Merged Fable’s `04-interlude.md`, including the substantial software-to-ML expansion and both supplied SVGs unchanged. The original semaphore and training/serving figures remain. FPU account, personal humor, boombox closing, all markers and stable reference IDs are preserved; recovered the automatic-differentiation mechanism/calculus joke and shared-memory distinction.
+
+Verified nineteen new reference notes, checked three expanded older notes, and added a roofline source note. Narrow corrections address launch/fusion conditions, MFU, training/serving memory, drift, recursive data and distribution-preserving speculative decoding. Bob’s managed-continuity wager remains and is recorded as S023. See [adoption notes](../volume-1-drafting/interlude-04-fable-adoption-2026-11-15/ADOPTION_NOTES.md), exact change log, source audit and checks. No publication.
