@@ -1,0 +1,23 @@
+{
+  "incoming_comments_preserved": true,
+  "canonical_comments_preserved": true,
+  "incoming_comment_count": 47,
+  "opening_through_monster_unchanged": true,
+  "departure_upheaval_and_closing_byte_identical": true,
+  "all_46_old_notes_byte_identical": true,
+  "new_notes": 14,
+  "total_notes": 60,
+  "source_figures_unchanged": true,
+  "original_memory_figure_unchanged": true,
+  "figures_visually_reviewed": {
+    "two-clocks": "Logarithmic tick positions consistent with elapsed time; approximate bands; lower traces qualitative; replay arrows legible. Caption clarifies durations versus age of onset.",
+    "brain-networks": "Relationship diagram, not anatomy. Labels/arrows legible; primary switching source added; lower cortical/subcortical panel not described as anatomical depth.",
+    "open-closed-loop": "Both feedback paths clear; blocked evidence and self-fed check legible. Caption distinguishes epistemic openness from control-theory terminology."
+  },
+  "equation_check": "F maps combined state (s,w) and input x to next (s,w); no mathematical inconsistency or stochastic/agency proof implied.",
+  "word_counts_whitespace_including_notes": {
+    "canonical": 9901,
+    "incoming": 12356,
+    "adopted": 13076
+  }
+}

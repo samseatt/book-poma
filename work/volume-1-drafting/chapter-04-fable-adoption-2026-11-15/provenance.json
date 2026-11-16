@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-15",
+  "baseline_commit": "183eca4a494c8fca45126cb3870e040784f4bb85",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md": "bbac760de68ad16aa3b63cc12dddc9facd7c31e3972fd78e65f28f1024841008",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/04-chapter.md": "605d9b8adfaba2c388b1bcbb4fbe54ecf965adf728cd2e3254ba1236d1e41d0f",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "7b4f8ef197f5b389ec6032c5615eceffc3c0478782fc8db879a2364d56cc6cee",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "1a0e6a37faed1fb5ae9b23507165c22f8fa20087d2ad6c84f169bab8abc95734",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "44fe5bfbd1e8323e5a8e2677a9b50e238d3f33ba0cf80dbcbe95337d68761e1a",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/04-chapter/memory-reconstruction.svg": "5e0a224ff286dc31a52307f67bed24c71a697634b96d5dbf59deea3353176a6a",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/04-chapter/two-clocks.svg": "e5db9b3449d3e9f6b92336118135217de1ab3bee2be06c91604d20162af682af",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/04-chapter/open-closed-loop.svg": "a61eff6cbb5c6f653d7aaaec838e25f224778b93743756476259837ea7f4d7e8",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/04-chapter/brain-networks.svg": "b248e322e0225efc64b2bda4071ae1f7de54f8b22887734c4d36648d83f165c0"
+  },
+  "incoming_read_only": true,
+  "new_manuscript_sha256": "d9786f7a9825ca5ff900ca0fef233d97efaceb12d875dc84c6eceaf8673b0d23",
+  "figures": {
+    "two-clocks.svg": "e5db9b3449d3e9f6b92336118135217de1ab3bee2be06c91604d20162af682af",
+    "open-closed-loop.svg": "a61eff6cbb5c6f653d7aaaec838e25f224778b93743756476259837ea7f4d7e8",
+    "brain-networks.svg": "b248e322e0225efc64b2bda4071ae1f7de54f8b22887734c4d36648d83f165c0"
+  },
+  "all_supplied_figures_byte_identical": true
+}

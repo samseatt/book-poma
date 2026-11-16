@@ -425,3 +425,11 @@ Corrected the arithmetic and made narrow repairs around neuronal diversity, codi
 **15 November 2026; adopted.** Merged Fable’s `03-interlude.md`: switching-power equation, CUDA history, CPU/GPU division, matrix-work count, Roofline model, B200 interconnect figures and Chapter 3 manifold callback. Personal scenes, humor, Moore–Good timing, uptime and the closing remain; no essential old passage was lost.
 
 Verified the four incoming notes, extended the scaling reference, and clarified traffic counts, the Roofline ceiling and bidirectional link ratings. Preserved Bob’s exploratory architecture direction and recorded S021. The supplied B200 SVG is unchanged; Sam identifies it as Claude’s schematic from public descriptions, not NVIDIA artwork. It was independently checked against technical sources and rendered. Both older diagrams remain. [Adoption record](../volume-1-drafting/interlude-03-fable-adoption-2026-11-15/ADOPTION_NOTES.md) contains the exact repairs, source evidence and validation. No publication.
+
+## V1-044 — Chapter 4: carried possibility and the continuing person
+
+**15 November 2026; adopted.** Merged the latest Fable Chapter 4 with its fast/slow state equation, remembered alternatives, consolidation/turnover, self-binding, personality development, learned controllability, attachment, narrative identity and dissonance additions. Personal scenes, jokes, the Libet coincidence, Dahmer upheaval and ending remain intact. No essential old passage needed recovery; all comments and 46 inherited source definitions survive.
+
+Installed the three supplied SVGs unchanged and retained the original memory diagram. The network map remains a block diagram. Captions clarify approximate timescales, non-anatomical layout and epistemic openness. Verified twelve incoming reference notes and added two model/network notes. Local repairs cover Harlow and Ainsworth, heritability and maturation, learning/turnover/regret scope, and the newly contested failed-prophecy story. The force of the author’s proposal remains; S022 records its open research obligations.
+
+[Adoption record](../volume-1-drafting/chapter-04-fable-adoption-2026-11-15/ADOPTION_NOTES.md) contains exact edits, evidence scope, figure previews, reader-value assessment and checks. Incoming sources remain read-only. No publication.
