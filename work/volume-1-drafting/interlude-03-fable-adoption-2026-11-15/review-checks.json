@@ -1,0 +1,37 @@
+{
+  "all_incoming_comments_preserved": true,
+  "incoming_comment_count": 25,
+  "all_canonical_comments_preserved": true,
+  "memoir_opening_good_moore_and_uptime_unchanged": true,
+  "closing_byte_identical": true,
+  "original_two_figure_references_unchanged": true,
+  "supplied_figure_byte_identical": true,
+  "34_inherited_note_definitions_unchanged": true,
+  "scaling_note_original_text_preserved_with_addition": true,
+  "incoming_notes": 39,
+  "new_diagram_requests": [],
+  "figure_review": {
+    "status": "pass",
+    "renderer": "Chrome headless, 1000×580 PNG; viewed",
+    "checks": [
+      "two compute dies shown as one logical GPU",
+      "eight HBM sites; no literal floor-plan claim",
+      "SM squares are illustrative, not an actual count",
+      "L2, host outside package, die link and external NVLink distinct",
+      "arrows and labels legible; grayscale retained",
+      "original SVG and metadata unchanged"
+    ]
+  },
+  "independent_arithmetic": {
+    "fp8_dense_ridge_ops_per_byte": 584.4155844155844,
+    "ridge_using_rounded_8TBs": 562.5,
+    "weight_only_ops_per_one_byte_weight": 2,
+    "matrix_product_flops": "approximately 2mnk with conventional FMA counting",
+    "distinct_elements": "mk+kn+mn for AB with a new output; not actual memory traffic"
+  },
+  "word_counts_whitespace_including_notes": {
+    "canonical": 7691,
+    "incoming": 8591,
+    "adopted": 8849
+  }
+}

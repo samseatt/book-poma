@@ -418,3 +418,10 @@ Added the supplied training-loop diagram with limited connection/label repairs, 
 **15 November 2026; adopted.** Merged Fable’s `03-chapter.md`. The new four-question section links neural manifolds, genomic compression, reusable activity and developmental breaks to internal models and shared stories. No essential older text was lost; personal scenes, humor, Alice, Challenger and the ending remain unchanged. All incoming comments and callbacks remain.
 
 Corrected the arithmetic and made narrow repairs around neuronal diversity, coding, cortical plasticity and emergence. Verified the six incoming source notes and added one spike-code source; retained the 45 previously audited notes. S020 keeps the broader possibility/aboutness/consciousness wagers open. Retained the original neuron diagram and added a grayscale population-state/manifold illustration; Fable had not requested another diagram. [Adoption record](../volume-1-drafting/chapter-03-fable-adoption-2026-11-15/ADOPTION_NOTES.md) contains the exact change log, evidence scope, reader-value assessment and checks. Source folder remains read-only. No publication.
+
+
+## V1-043 — Interlude 3: CUDA, Roofline and the B200 package
+
+**15 November 2026; adopted.** Merged Fable’s `03-interlude.md`: switching-power equation, CUDA history, CPU/GPU division, matrix-work count, Roofline model, B200 interconnect figures and Chapter 3 manifold callback. Personal scenes, humor, Moore–Good timing, uptime and the closing remain; no essential old passage was lost.
+
+Verified the four incoming notes, extended the scaling reference, and clarified traffic counts, the Roofline ceiling and bidirectional link ratings. Preserved Bob’s exploratory architecture direction and recorded S021. The supplied B200 SVG is unchanged; Sam identifies it as Claude’s schematic from public descriptions, not NVIDIA artwork. It was independently checked against technical sources and rendered. Both older diagrams remain. [Adoption record](../volume-1-drafting/interlude-03-fable-adoption-2026-11-15/ADOPTION_NOTES.md) contains the exact repairs, source evidence and validation. No publication.

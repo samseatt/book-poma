@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-15",
+  "baseline_commit": "5dd4fd23e48b88714f2a2b310c9f4ffabe9c8c42",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-interlude.md": "d197da5ffc6f8cd2068fb9b3c97423f07b78c8baf0ca6ba5478e391fbe1e0a17",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/03-interlude.md": "304ccb37178401cfcbdec2e31a94914b7caae48fb0ca6b8c84b6753116f5885f",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/03-interlude/b200-package.svg": "14c0b637f86f3113f11f49147d2000891c544b0cce1f2e33be216ad2174690ea",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/03-interlude/instruction-and-memory.svg": "627a1da620e6fa84d2cf64cc4fc3c19585e475b2a91d6a7b687f4658ebb64110",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/03-interlude/gpu-data-reuse.svg": "89425f6fb9f2301bdde25b9b5cfd97ae841159fc9d3755c65dfae9563131f5de",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "f41e6b646ee0b0c79f0f823752929fbe43ee2a036cd4f42d4131dae7f4fdbea0",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "518612d884a3f7eff01f9e9696f9e15c34fb6f10f899f3ecc032c754809181d6",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "542835ea152cbd7acf1c9fee808c3856564fdbdaa6d60b9ec2739c1005babba0"
+  },
+  "incoming_read_only": true,
+  "incoming_figure_provenance": "Author clarification: Claude constructed this explanatory schematic from public sources, not from NVIDIA artwork. Technical depiction independently checked against primary documentation. No source-artwork provenance claim inferred.",
+  "new_manuscript_sha256": "b03ac4120bb49be8b334ce224fc783cb7721526a61431ecaf9b98b307065de53",
+  "figure_sha256": "14c0b637f86f3113f11f49147d2000891c544b0cce1f2e33be216ad2174690ea",
+  "figure_copied_byte_identically": true
+}
