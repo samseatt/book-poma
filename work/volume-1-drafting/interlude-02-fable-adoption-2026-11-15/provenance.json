@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-15",
+  "baseline_commit": "4ffb28bc78ab9b06584b836f5e6b3b59d7b94dd0",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-interlude.md": "283cfa10153008dd452be140caa4816087f09b0a2c6deb4926a50f896ebf1ec6",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/02-interlude.md": "c8f83f31b6f99a251bc53d474e218b8da184ad589b4b8cd485512141a892e871",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/02-interlude/training-loop.svg": "8290040d4b1434a7371b3a440cb13219ae297dd0909fc1d084713961930d847b",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/02-interlude/data-models.svg": "7d8991c7d0a36bc9903c898cc9fdf9538f230b3a6650046fcb291dc7845d3872",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "e4e009816c6b2ebddd9aff61c8ad4be7985fc66548cbbfc3b6924ebec6600636",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "b59a5d4be4f485b0fef1108ab6262e1a2f03bb4ecc3743b56948ed0852dc0fe9",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "8202f264726dcb0e78efb438248d3fe5eacbedf3f8efe369e859e2aad5bc3a1a"
+  },
+  "source_read_only": true,
+  "new_manuscript_sha256": "5067bb8a0890dd30d4d2ce3b173792c8c7b8fd4ff5438cd8e00902c3bda1fb33",
+  "source_figure_sha256": "8290040d4b1434a7371b3a440cb13219ae297dd0909fc1d084713961930d847b",
+  "adopted_figure_sha256": "8bde0c277e9e06159f2541f1c35d5e23723071e5a8a013eb71e1e43644380ec6",
+  "figure_provenance": "Fable layout and artwork retained; local arrow, split, model-boundary and layer-label clarity repairs. Byte-identical original with C2PA preserved in incoming-training-loop.svg; stale signature metadata omitted from the derivative."
+}

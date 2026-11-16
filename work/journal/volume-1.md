@@ -404,3 +404,10 @@ Added original grayscale sunlight/entropy and copying-fidelity diagrams, keeping
 ### V1-040 follow-up — charged-tRNA input clarified
 
 **15 November 2026.** Sam noticed the gene-expression diagram’s right-hand arrow appeared sourceless. Connected a labeled charged-tRNA box directly to the ribosome; aligned the other nearby arrow endpoints. Biology/source and rendered layout checked. Manuscript prose and caption remain unchanged. See the follow-up in the Chapter 2 adoption notes.
+
+
+## V1-041 — Interlude 2: Fable’s data foundry and learning loop
+
+**15 November 2026; adopted.** Merged Fable’s `02-interlude.md` with the four-question framework, genomic difference file, big-data/FAIR passage, JSON example, learning equations and MDL bridge. Kept personal material, timing coincidences, the existing database figure, Bob and the ending. All incoming comments remain; the author note converted by Fable to HTML has its original wording archived.
+
+Added the supplied training-loop diagram with limited connection/label repairs, preserving its original as provenance. Verified the five new source notes and scoped the channel/compression/MDL claims. Honored Sam’s earlier rejection of the CD analogy while retaining the two-bit genome calculation. No essential old passage needed recovery. S019 records the inside-world wager. See [adoption notes](../volume-1-drafting/interlude-02-fable-adoption-2026-11-15/ADOPTION_NOTES.md), exact change log, source audit and checks. No publication.

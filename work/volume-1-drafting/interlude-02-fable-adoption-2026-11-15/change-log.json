@@ -1,0 +1,116 @@
+[
+  {
+    "kind": "B",
+    "before": "why most of it is copies of other data.",
+    "after": "why so much of it is copies of other data.",
+    "reason": "IDC measures a yearly flow of created/copied/consumed data, not the currently stored stock; the dated estimate goes in the note."
+  },
+  {
+    "kind": "B",
+    "before": "the way every cell reads the same genetic code",
+    "after": "much as cells share a genetic code",
+    "reason": "Retains the shared-code analogy without implying a literally exceptionless genetic code."
+  },
+  {
+    "kind": "B",
+    "before": "A genomic variant file stores only the places where a person's genome departs from the reference",
+    "after": "A genomic variant file records differences called against a reference",
+    "reason": "A variant call is an inference; a variant-only file is not an exhaustive independently reconstructible record of all personal differences."
+  },
+  {
+    "kind": "Author decision + B",
+    "before": "roughly 760 megabytes: a little more than a compact disc holds, for half of a person's inherited text.",
+    "after": "roughly 760 megabytes for one haploid sequence, before any of the evidence in a sequencing file.",
+    "reason": "Honor the earlier explicit rejection of the CD analogy; keep the two-bit calculation and distinguish sequence representation from sequencing evidence."
+  },
+  {
+    "kind": "B",
+    "before": "For the classic channel with bandwidth $B$ and signal-to-noise ratio $S/N$",
+    "after": "For the classic white-Gaussian-noise channel with bandwidth $B$ and signal-to-noise ratio $S/N$",
+    "reason": "Shannon–Hartley is the additive white Gaussian noise model, not a universal capacity formula."
+  },
+  {
+    "kind": "B",
+    "before": "Any working compressor puts a ceiling on it",
+    "after": "Any working lossless compressor puts a ceiling on it",
+    "reason": "Only a lossless encoding plus its decoder recovers the original string exactly."
+  },
+  {
+    "kind": "B",
+    "before": "\"read_length\": 150",
+    "after": "\"read_length_bases\": 150",
+    "reason": "Make the example measurement unit explicit."
+  },
+  {
+    "kind": "B",
+    "before": "*Big data* followed, and with it a change of habit. Classical statistics sampled first and analyzed later; the new practice kept everything and asked later. A **data warehouse** applies its schema as data is written, so every row arrives shaped for its questions. A **data lake** stores records raw and applies structure when they're read",
+    "after": "*The big-data boom* followed, and with it a change of habit. Where sampling first had often been a necessity, the new ambition was to keep everything and ask later. A **data warehouse** typically applies its schema as data is written, so every row arrives shaped for its questions. A **data lake** can store records raw and apply structure when they're read",
+    "reason": "Do not imply Laney coined big data, all classical statistics sampled, all big-data systems keep everything, or a universal product boundary between lake and warehouse."
+  },
+  {
+    "kind": "B",
+    "before": "Jorma Rissanen's principle of minimum description length prefers the model that minimizes the bits needed to state the model plus the bits needed to state the data given the model",
+    "after": "In its two-part form, Jorma Rissanen's principle of minimum description length prefers the model that minimizes the bits needed to state the model plus the bits needed to state the data given the model",
+    "reason": "The stated formula is the two-part version; MDL also has refined formulations."
+  },
+  {
+    "kind": "B",
+    "before": "An overfitted model makes the second term tiny by making the first one enormous",
+    "after": "A memorizing model can make the second term tiny by making the first one enormous",
+    "reason": "This illustrates one route to overfitting, not a necessary property of every overfitted model."
+  },
+  {
+    "kind": "B",
+    "before": "while validation and test data stay outside it. Original schematic.",
+    "after": "while validation and test data stay outside parameter updates. Here $p$ is the probability assigned to the observed target. Original schematic.",
+    "reason": "Validation still influences model selection; the illustrated negative-log loss is for a probabilistic target, not every learning task."
+  },
+  {
+    "kind": "B",
+    "before": "a small neural network computing h equals sigma of W x plus b.",
+    "after": "a small neural network whose layers compute h equals sigma of W x plus b.",
+    "reason": "The formula describes an individual layer, while the drawing shows a stack."
+  },
+  {
+    "kind": "Reference verification",
+    "before": "[^v1-i2-copies]: IDC's \"Global DataSphere\" estimates have put the ratio of replicated to unique data at several to one, and rising, in recent years. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-i2-copies]: IDC, [“IDC's Global DataSphere Forecast Shows Continued Steady Growth in the Creation and Consumption of Data”](https://www.telecomtv.com/content/data-analytics/idcs-global-datasphere-forecast-shows-continued-steady-growth-in-the-creation-and-consumption-of-data-38614/), press release, 8 May 2020, reproduced by TelecomTV on 11 May. IDC estimated roughly nine replicated units per unique unit in its annual data-flow tally; this is not a ratio for all stored data. For the head count, $2^{40}=1{,}099{,}511{,}627{,}776$, comfortably above the roughly 117 billion people estimated by Toshiko Kaneda and Carl Haub, [“How Many People Have Ever Lived on Earth?”](https://www.prb.org/news/how-many-people-have-ever-lived-on-earth/) (Population Reference Bureau, 2022).",
+    "reason": "Replace the incoming memory-only note with verified bibliographic details and limited conditions relevant to the claim."
+  },
+  {
+    "kind": "Reference verification",
+    "before": "[^v1-i2-vcf]: Petr Danecek et al., \"The variant call format and VCFtools,\" *Bioinformatics* 27 (2011): 2156–2158; The 1000 Genomes Project Consortium, \"A global reference for human genetic variation,\" *Nature* 526 (2015): 68–74, which reports that a typical genome differs from the reference at roughly 4 to 5 million sites. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-i2-vcf]: Petr Danecek et al., [“The variant call format and VCFtools”](https://doi.org/10.1093/bioinformatics/btr330), *Bioinformatics* 27 (2011): 2156–2158; The 1000 Genomes Project Consortium, [“A global reference for human genetic variation”](https://doi.org/10.1038/nature15393), *Nature* 526 (2015): 68–74, reports 4.1–5.0 million differing sites in a typical genome. The compact record depends on a named reference and the variant-calling process; an absent variant entry need not establish that an unmeasured site matches. “Everything that's yours” concerns the sequence differences in this representation, not everything that makes a person.",
+    "reason": "Replace the incoming memory-only note with verified bibliographic details and limited conditions relevant to the claim."
+  },
+  {
+    "kind": "Reference verification",
+    "before": "[^v1-i2-bigdata]: Doug Laney, \"3D Data Management: Controlling Data Volume, Velocity, and Variety,\" META Group research note (6 February 2001). (AI-added, from memory; to be verified.)",
+    "after": "[^v1-i2-bigdata]: Doug Laney, [“3D Data Management: Controlling Data Volume, Velocity, and Variety”](https://diegonogare.net/wp-content/uploads/2020/08/3D-Data-Management-Controlling-Data-Volume-Velocity-and-Variety.pdf), META Group research note, 6 February 2001. The note sets out the three dimensions; it does not claim that all data should be retained. For the schema-on-read architecture, see AWS, [“Data lake characteristics”](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/characteristics-1.html). The warehouse/lake contrast describes common architectures; systems can combine them.",
+    "reason": "Replace the incoming memory-only note with verified bibliographic details and limited conditions relevant to the claim."
+  },
+  {
+    "kind": "Reference verification",
+    "before": "[^v1-i2-fair]: Mark D. Wilkinson et al., \"The FAIR Guiding Principles for scientific data management and stewardship,\" *Scientific Data* 3 (2016): 160018. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-i2-fair]: Mark D. Wilkinson et al., [“The FAIR Guiding Principles for scientific data management and stewardship”](https://doi.org/10.1038/sdata.2016.18), *Scientific Data* 3 (2016): 160018. The principles address use by machines as well as people. R1.2 calls for detailed provenance; A1.2 permits authentication and authorization where needed. “Accessible” does not mean that every dataset must be freely public.",
+    "reason": "Replace the incoming memory-only note with verified bibliographic details and limited conditions relevant to the claim."
+  },
+  {
+    "kind": "Reference verification",
+    "before": "[^v1-i2-mdl]: Jorma Rissanen, \"Modeling by shortest data description,\" *Automatica* 14 (1978): 465–471; Peter D. Grünwald, *The Minimum Description Length Principle* (MIT Press, 2007). (AI-added, from memory; to be verified.)",
+    "after": "[^v1-i2-mdl]: Jorma Rissanen, [“Modeling by shortest data description”](https://doi.org/10.1016/0005-1098(78)90005-5), *Automatica* 14 (1978): 465–471; Peter D. Grünwald, [*The Minimum Description Length Principle*](https://mitpress.mit.edu/9780262072816/the-minimum-description-length-principle/) (MIT Press, 2007). His [tutorial](https://arxiv.org/abs/math/0406077), especially §§1.3–1.4 and 2.4, distinguishes two-part coding from refined MDL. Here $L$ means code length in bits, not the earlier training loss; model and residual-data descriptions both count. The coding scheme matters, and parameter count alone is not description length.",
+    "reason": "Replace the incoming memory-only note with verified bibliographic details and limited conditions relevant to the claim."
+  },
+  {
+    "kind": "B / reference",
+    "before": "[^v1-i2-genome]: Sergey Nurk et al., [“The complete sequence of a human genome”](https://doi.org/10.1126/science.abj6987), *Science* 376 (2022): 44–53. The CHM13 reference spans about 3.055 billion base pairs. A reference assembly is not an individual’s complete diploid genome, and a genomic sequence is not sufficient by itself to generate an organism.",
+    "after": "[^v1-i2-genome]: Sergey Nurk et al., [“The complete sequence of a human genome”](https://doi.org/10.1126/science.abj6987), *Science* 376 (2022): 44–53. The CHM13 reference spans about 3.055 billion base pairs. A reference assembly is not an individual’s complete diploid genome, and a genomic sequence is not sufficient by itself to generate an organism. At two bits per base, 3.055 billion bases require 763.75 million bytes (decimal MB) for the sequence alone, excluding read coverage, quality scores, metadata and cellular state.",
+    "reason": "State the calculation or model assumptions in the source note, leaving the passage readable."
+  },
+  {
+    "kind": "B / reference",
+    "before": "[^v1-i2-shannon]: Claude E. Shannon, [“A Mathematical Theory of Communication”](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), *Bell System Technical Journal* 27 (1948): 379–423, 623–656. See the opening distinction between engineering and semantic questions, the entropy discussion and the coding theorems. Shannon credited John Tukey with “bit.”",
+    "after": "[^v1-i2-shannon]: Claude E. Shannon, [“A Mathematical Theory of Communication”](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf), *Bell System Technical Journal* 27 (1948): 379–423, 623–656. See the opening distinction between engineering and semantic questions, the entropy discussion and the coding theorems. Shannon credited John Tukey with “bit.” The capacity formula here is Theorem 17: bandwidth is in hertz, $S$ and $N$ are average signal and noise powers, and $S/N$ is a power ratio, not a decibel value. It assumes additive white Gaussian noise and an average-power constraint.",
+    "reason": "State the calculation or model assumptions in the source note, leaving the passage readable."
+  }
+]

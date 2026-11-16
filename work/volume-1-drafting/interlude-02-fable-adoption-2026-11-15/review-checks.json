@@ -1,0 +1,36 @@
+{
+  "incoming_comments": 30,
+  "all_incoming_comments_preserved": true,
+  "original_canonical_annotation_preserved_in_notes": true,
+  "opening_and_personal_scenes_unchanged": true,
+  "bob_identical_to_incoming": true,
+  "ending_identical_to_both_sources": true,
+  "canonical_header_retained": true,
+  "json_example_parses": true,
+  "note_definitions": 45,
+  "equations": {
+    "forty_bits_states": 1099511627776,
+    "raw_genome_MB": 763.75,
+    "loss_p_point8": 0.2231435513142097,
+    "loss_p_point2": 1.6094379124341003,
+    "gradient_descent": "theta and gradient share dimension; eta scales step; no global optimum guarantee",
+    "affine_layer": "W m×n, x n, b m, h m; nonlinear activation entrywise"
+  },
+  "new_svg_xml_valid": true,
+  "figure_render_pending": false,
+  "existing_data_models_sha256": "7d8991c7d0a36bc9903c898cc9fdf9538f230b3a6650046fcb291dc7845d3872",
+  "figure_review": {
+    "renderer": "Chrome headless; 1000×600 screenshot; viewed at full width",
+    "status": "pass",
+    "checked": [
+      "clear training/validation/test split",
+      "model return arrow ends at model boundary",
+      "no arrow runs through a label",
+      "formula describes a layer, not the whole stack",
+      "loss p defined by caption/description",
+      "validation guides settings; test stays withheld",
+      "inference strip fits; grayscale retained"
+    ],
+    "original_c2pa_retained_in_source_snapshot": true
+  }
+}
