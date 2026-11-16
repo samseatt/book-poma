@@ -1,0 +1,29 @@
+{
+  "baseline_commit": "c50629ded373c25b98d395534752e12dbc71b52c",
+  "author_instruction": "The forward and backward pass were trimmed on purpose; repeated Interlude 2 material should remain cut.",
+  "inputs": {
+    "manuscripts/volume-1/04-interlude.md": "f0d6a254b2978a959dcab808e923bb4f02c8fc49664b1cd5ac6b153f795d1dfd",
+    "work/manuscript-manifest.json": "062150a90079c1726415b0deb94aaa0cc607460cf2acc8442cbe259f27c0634e",
+    "work/journal/book.md": "ef584608ab5d18fea7ac0edce4e041bdfeebbd189f386d4f2dd64de04e7bffd1",
+    "work/journal/volume-1.md": "2f20ff3c4269a76a1fa55741c33bf9968a74e77beda37541e5f0032adba915d2",
+    "work/volume-1-drafting/interlude-04-fable-adoption-2026-11-15/ADOPTION_NOTES.md": "424ff5176f93004d9f6d40ee8c9fa7f67be38207d50371bb2be3782abaf0a655",
+    "work/volume-1-drafting/interlude-04-fable-adoption-2026-11-15/RECOVERY_NOTES.md": "533f79851add07c6fb4aba9fd7366a1b796b451008da5edbeb5f0f1b2b71a1f7"
+  },
+  "old_manuscript_sha256": "f0d6a254b2978a959dcab808e923bb4f02c8fc49664b1cd5ac6b153f795d1dfd",
+  "new_manuscript_sha256": "d05820cb4e4d2952b7e26b12abc65b0d3b32f01e4c5751d5ea7e103319152866",
+  "changes": [
+    {
+      "reason": "Author confirms deliberate removal of material already taught in Interlude 2. Remove only the editor’s restored explanation/joke; retain incoming cross-reference and training-cost mechanism.",
+      "before": "Interlude 2 described the training step: a forward pass, a loss, a backward pass, an update. Automatic differentiation tracks the operations and their derivative rules; the backward pass uses the chain rule to calculate how a small change in each parameter would change the loss. It doesn't try a billion independent experiments, one per weight, and it doesn't discover the derivative by having an opinion about calculus.[^v1-i4-autograd]\n\n",
+      "after": "Interlude 2 described the training step: a forward pass, a loss, a backward pass, an update. "
+    },
+    {
+      "reason": "Restore the autograd source marker to its incoming Fable location; definition unchanged.",
+      "before": "Adam's memory of earlier gradients is why the optimizer can outweigh the model.[^v1-i4-optimizer]",
+      "after": "Adam's memory of earlier gradients is why the optimizer can outweigh the model.[^v1-i4-autograd][^v1-i4-optimizer]"
+    }
+  ],
+  "removed_explanation_words": 51,
+  "note_definitions_unchanged": true,
+  "figures_unchanged": true
+}
