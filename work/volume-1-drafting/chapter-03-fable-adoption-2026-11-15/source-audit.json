@@ -1,0 +1,623 @@
+{
+  "date": "2026-11-15",
+  "unit": "v1-3-chapter",
+  "method": "45 inherited notes retain the 23 October audit with its original evidence scope. Six incoming notes were checked or calculated afresh; one supporting spike-code note was added. Primary papers/author copies and indexed primary abstracts were used; access limits are recorded. A citation is not certification of the author’s broader interpretation.",
+  "records": [
+    {
+      "note_id": "v1-c3-sacks",
+      "citation": "Gerald M. Edelman, quoted in Oliver Sacks, *Musicophilia: Tales of Music and the Brain* (Knopf, 2007), chapter 11, “In Living Stereo: Why We Have Two Ears,” p. 148. Sacks explicitly attributes both halves of the sentence to Edelman. [Text of the cited edition](https://bpb-us-w2.wpmucdn.com/portfolio.newschool.edu/dist/2/14941/files/2017/06/musicophilia-26piysz.pdf).",
+      "urls": [
+        "https://bpb-us-w2.wpmucdn.com/portfolio.newschool.edu/dist/2/14941/files/2017/06/musicophilia-26piysz.pdf"
+      ],
+      "evidence_depth": "primary-text passage",
+      "scope_and_limits": "Musicophilia chapter 11, printed p.148: Sacks explicitly credits Edelman. No claim to have traced Edelman’s earlier original publication.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-hubel",
+      "citation": "David H. Hubel and Torsten N. Wiesel, “Receptive fields of single neurones in the cat’s striate cortex,” *Journal of Physiology* 148 (1959): 574–591, [doi:10.1113/jphysiol.1959.sp006308](https://doi.org/10.1113/jphysiol.1959.sp006308); Wiesel and Hubel, “Single-cell responses in striate cortex of kittens deprived of vision in one eye,” *Journal of Neurophysiology* 26 (1963): 1003–1017, [doi:10.1152/jn.1963.26.6.1003](https://doi.org/10.1152/jn.1963.26.6.1003); Hubel and Wiesel, “Binocular interaction in striate cortex of kittens reared with artificial squint,” *Journal of Neurophysiology* 28 (1965): 1041–1059, [doi:10.1152/jn.1965.28.6.1041](https://doi.org/10.1152/jn.1965.28.6.1041). The year-of-birth conjunction is with the third paper, published in November 1965; orientation selectivity and monocular deprivation were earlier results.",
+      "urls": [
+        "https://doi.org/10.1113/jphysiol.1959.sp006308",
+        "https://doi.org/10.1152/jn.1963.26.6.1003",
+        "https://doi.org/10.1152/jn.1965.28.6.1041"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-kuffler",
+      "citation": "Stephen W. Kuffler, “Discharge patterns and functional organization of mammalian retina,” *Journal of Neurophysiology* 16 (1953): 37–68, [doi:10.1152/jn.1953.16.1.37](https://doi.org/10.1152/jn.1953.16.1.37). Center-surround receptive fields describe spatial antagonism, not a claim that every retinal cell transmits only differences.",
+      "urls": [
+        "https://doi.org/10.1152/jn.1953.16.1.37"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-signaling",
+      "citation": "Alan L. Hodgkin and Andrew F. Huxley, “A quantitative description of membrane current and its application to conduction and excitation in nerve,” *Journal of Physiology* 117 (1952): 500–544, [doi:10.1113/jphysiol.1952.sp004764](https://doi.org/10.1113/jphysiol.1952.sp004764); Michael London and Michael Häusser, “Dendritic computation,” *Annual Review of Neuroscience* 28 (2005): 503–532, [doi:10.1146/annurev.neuro.28.061604.135703](https://doi.org/10.1146/annurev.neuro.28.061604.135703); Thomas C. Südhof, [“A Molecular Machine for Neurotransmitter Release,” Nobel Lecture](https://www.nobelprize.org/uploads/2018/06/sudhof-lecture.pdf), 7 December 2013. The schematic depicts a common cortical arrangement and a glutamatergic chemical synapse, not all neuronal or synaptic types.",
+      "urls": [
+        "https://doi.org/10.1113/jphysiol.1952.sp004764",
+        "https://doi.org/10.1146/annurev.neuro.28.061604.135703",
+        "https://www.nobelprize.org/uploads/2018/06/sudhof-lecture.pdf"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-hebb",
+      "citation": "Donald O. Hebb, *The Organization of Behavior: A Neuropsychological Theory* (Wiley, 1949), p. 62. His postulate concerns a cell repeatedly participating in another cell’s firing. “Cells that fire together wire together” is a later shorthand, not a quotation from Hebb.",
+      "urls": [],
+      "evidence_depth": "classic-book attribution corroborated",
+      "scope_and_limits": "1949 postulate p.62 corroborated through a scholarly neuroscience source; original book not read in full. Later shorthand kept as paraphrase.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-nmda",
+      "citation": "L. Nowak et al., “Magnesium gates glutamate-activated channels in mouse central neurones,” *Nature* 307 (1984): 462–465, [doi:10.1038/307462a0](https://doi.org/10.1038/307462a0); M. L. Mayer, G. L. Westbrook and P. B. Guthrie, “Voltage-dependent block by Mg2+ of NMDA responses in spinal cord neurones,” *Nature* 309 (1984): 261–263, [doi:10.1038/309261a0](https://doi.org/10.1038/309261a0). For the different mechanisms and conditions of strengthening and weakening, Robert C. Malenka and Mark F. Bear, “LTP and LTD: an embarrassment of riches,” *Neuron* 44 (2004): 5–21, [doi:10.1016/j.neuron.2004.09.012](https://doi.org/10.1016/j.neuron.2004.09.012). NMDA-dependent plasticity is one important family, not the mechanism of every memory.",
+      "urls": [
+        "https://doi.org/10.1038/307462a0",
+        "https://doi.org/10.1038/309261a0",
+        "https://doi.org/10.1016/j.neuron.2004.09.012"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-ann",
+      "citation": "Blake A. Richards et al., “A deep learning framework for neuroscience,” *Nature Neuroscience* 22 (2019): 1761–1770, [doi:10.1038/s41593-019-0520-2](https://doi.org/10.1038/s41593-019-0520-2). The comparison distinguishes learning objectives, architectures and learning rules; it does not establish that the brain implements ordinary artificial-network backpropagation. See also London and Häusser on dendritic computation.",
+      "urls": [
+        "https://doi.org/10.1038/s41593-019-0520-2"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-pruning",
+      "citation": "Peter R. Huttenlocher, “Synaptic density in human frontal cortex: developmental changes and effects of aging,” *Brain Research* 163 (1979): 195–205, [doi:10.1016/0006-8993(79)90349-4](https://doi.org/10.1016/0006-8993(79)90349-4). This study concerns a sampled frontal cortical layer across ages; developmental schedules vary by region. Pruning is not simply the removal of every unused connection.",
+      "urls": [
+        "https://doi.org/10.1016/0006-8993(79"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-count",
+      "citation": "Frederico A. C. Azevedo et al., “Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain,” *Journal of Comparative Neurology* 513 (2009): 532–541, [doi:10.1002/cne.21974](https://doi.org/10.1002/cne.21974). The reported estimate is approximately 86 billion neurons. The synapse count is an order-of-magnitude estimate, not a direct census from this study.",
+      "urls": [
+        "https://doi.org/10.1002/cne.21974"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-volume",
+      "citation": "Holly M. Dunsworth et al., “Metabolic hypothesis for human altriciality,” *PNAS* 109 (2012): 15212–15216, [doi:10.1073/pnas.1205282109](https://doi.org/10.1073/pnas.1205282109). This challenges a pelvic-constraint-only account of birth timing. For the broad fossil trajectory rather than a uniform increase in every lineage, see the [Smithsonian Human Origins brain account](https://humanorigins.si.edu/human-characteristics/brains).",
+      "urls": [
+        "https://doi.org/10.1073/pnas.1205282109",
+        "https://humanorigins.si.edu/human-characteristics/brains"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-mountcastle",
+      "citation": "Vernon B. Mountcastle, “Modality and topographic properties of single neurons of cat’s somatic sensory cortex,” *Journal of Neurophysiology* 20 (1957): 408–434, [doi:10.1152/jn.1957.20.4.408](https://doi.org/10.1152/jn.1957.20.4.408); his later common-operation proposal appears in “An organizing principle for cerebral function,” in *The Mindful Brain* (MIT Press, 1978). For a concrete contrast in cortical organization, Kenichi Ohki et al., “Functional imaging with cellular resolution reveals precise micro-architecture in visual cortex,” *Nature* 433 (2005): 597–603, [doi:10.1038/nature03274](https://doi.org/10.1038/nature03274). Ordered orientation maps in cat cortex differ from the intermingled preferences observed in rat cortex.",
+      "urls": [
+        "https://doi.org/10.1152/jn.1957.20.4.408",
+        "https://doi.org/10.1038/nature03274"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-notch2nl",
+      "citation": "Ian T. Fiddes et al., “Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis,” *Cell* 173 (2018): 1356–1369.e22, [doi:10.1016/j.cell.2018.03.051](https://doi.org/10.1016/j.cell.2018.03.051). Experimental effects on progenitor behavior support a proposed evolutionary contribution, not a complete explanation of human brain expansion.",
+      "urls": [
+        "https://doi.org/10.1016/j.cell.2018.03.051"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-wrangham",
+      "citation": "Richard Wrangham, *Catching Fire: How Cooking Made Us Human* (Basic Books, 2009); Leslie C. Aiello and Peter Wheeler, “The Expensive-Tissue Hypothesis: The Brain and the Digestive System in Human and Primate Evolution,” *Current Anthropology* 36 (1995): 199–221, [doi:10.1086/204350](https://doi.org/10.1086/204350). These are related energetic hypotheses, not identical claims or settled dates for the origin of cooking.",
+      "urls": [
+        "https://doi.org/10.1086/204350"
+      ],
+      "evidence_depth": "hypothesis bibliography",
+      "scope_and_limits": "Named works retained as hypotheses; this pass does not settle cooking chronology or claim full rereading of either.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-twoorgans",
+      "citation": "Rayyan T. Jokhai, Carolyn E. Dundes et al., “Two parallel neural ectoderm progenitors contribute to the developing brain,” *Nature Neuroscience*, published online 18 September 2026, [doi:10.1038/s41593-026-02433-7](https://doi.org/10.1038/s41593-026-02433-7). The findings concern distinct developmental progenitors; the composite-organ evolutionary interpretation is the authors’ proposal. “Hindbrain” and “brainstem” are not interchangeable anatomical categories.",
+      "urls": [
+        "https://doi.org/10.1038/s41593-026-02433-7"
+      ],
+      "evidence_depth": "publisher abstract and metadata",
+      "scope_and_limits": "18 September 2026 paper abstract directly inspected. Full article paywalled; claims limited to the accessible abstract, not the sensational headline.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-networks",
+      "citation": "Luiz Pessoa, “A Network Model of the Emotional Brain,” *Trends in Cognitive Sciences* 21 (2017): 357–371, [PubMed 28363681](https://pubmed.ncbi.nlm.nih.gov/28363681/); Michael M. Halassa and Sabine Kastner, “Thalamic functions in distributed cognitive control,” *Nature Neuroscience* 20 (2017): 1669–1679, [doi:10.1038/s41593-017-0020-1](https://doi.org/10.1038/s41593-017-0020-1); Randy L. Buckner et al., “The organization of the human cerebellum estimated by intrinsic functional connectivity,” *Journal of Neurophysiology* 106 (2011): 2322–2345, [PubMed 21795627](https://pubmed.ncbi.nlm.nih.gov/21795627/). The final study maps functional coupling; correlated activity alone is not a causal map of every circuit.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/28363681/",
+        "https://doi.org/10.1038/s41593-017-0020-1",
+        "https://pubmed.ncbi.nlm.nih.gov/21795627/"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-chalmers",
+      "citation": "David J. Chalmers, [“Facing Up to the Problem of Consciousness”](https://consc.net/papers/facing.html), *Journal of Consciousness Studies* 2(3) (1995): 200–219. “Easy” designates functional explanation in principle, not a claim that the scientific work is easy.",
+      "urls": [
+        "https://consc.net/papers/facing.html"
+      ],
+      "evidence_depth": "author original text",
+      "scope_and_limits": "Hard/easy distinction checked in original author-hosted text; author inversion remains conjecture.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-dennett",
+      "citation": "Daniel C. Dennett, “Facing up to the hard question of consciousness,” *Philosophical Transactions of the Royal Society B* 373 (2018): 20170342, [doi:10.1098/rstb.2017.0342](https://doi.org/10.1098/rstb.2017.0342). Dennett’s resistance to the hard-problem framing is not an endorsement of the author’s specific coupling conjecture.",
+      "urls": [
+        "https://doi.org/10.1098/rstb.2017.0342"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-meta",
+      "citation": "David J. Chalmers, [“The Meta-Problem of Consciousness”](https://consc.net/papers/metaproblem.pdf), *Journal of Consciousness Studies* 25(9–10) (2018): 6–61; Keith Frankish, [“Illusionism as a Theory of Consciousness”](https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf), *Journal of Consciousness Studies* 23(11–12) (2016): 11–39. Chalmers distinguishes explaining judgments about consciousness from explaining consciousness itself.",
+      "urls": [
+        "https://consc.net/papers/metaproblem.pdf",
+        "https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf"
+      ],
+      "evidence_depth": "author original texts",
+      "scope_and_limits": "Chalmers author paper and Frankish author eprint distinguish the meta-problem and illusionism.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-cerebellum",
+      "citation": "Azevedo et al. (2009), cited above, places most brain neurons in the cerebellum. Feng Yu et al., “A new case of complete primary cerebellar agenesis: clinical and imaging findings in a living patient,” *Brain* 138 (2015): e353, first published online in 2014, [doi:10.1093/brain/awu239](https://doi.org/10.1093/brain/awu239), reports preserved conscious life with developmental and neurological impairments. This does not establish that an adult could lose the cerebellum without consequence. For cerebellar-cortical coupling, see Buckner et al. (2011), cited above.",
+      "urls": [
+        "https://doi.org/10.1093/brain/awu239"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-dehaene",
+      "citation": "Stanislas Dehaene and Jean-Pierre Changeux, “Experimental and theoretical approaches to conscious processing,” *Neuron* 70 (2011): 200–227, [doi:10.1016/j.neuron.2011.03.018](https://doi.org/10.1016/j.neuron.2011.03.018). Global neuronal workspace and ignition are a theoretical account linked to experimental findings; neither the account nor a particular latency is a settled definition of experience.",
+      "urls": [
+        "https://doi.org/10.1016/j.neuron.2011.03.018"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-kin",
+      "citation": "These are intellectual relatives, not evidence that the author’s conjecture is already established: Stephen Grossberg, *Conscious Mind, Resonant Brain* (Oxford University Press, 2021); Gerald M. Edelman and Giulio Tononi, *A Universe of Consciousness* (Basic Books, 2000); Douglas R. Hofstadter, *I Am a Strange Loop* (Basic Books, 2007); Antonio Damasio, *Self Comes to Mind* (Pantheon, 2010); Anil Seth, *Being You* (Faber & Faber, 2021). The two-ingredient framing and feeling-as-ripple formulation are the author’s. Grossberg does not identify every neural resonance with consciousness.",
+      "urls": [],
+      "evidence_depth": "intellectual-lineage bibliography",
+      "scope_and_limits": "Grossberg author/publisher descriptions and author material inspected; other named books retained as bibliographic antecedents, not freshly read in full or claimed to prove this conjecture.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-dreams",
+      "citation": "Eugene Aserinsky and Nathaniel Kleitman, “Regularly occurring periods of eye motility, and concomitant phenomena, during sleep,” *Science* 118 (1953): 273–274, [doi:10.1126/science.118.3062.273](https://doi.org/10.1126/science.118.3062.273); Allen R. Braun et al., “Regional cerebral blood flow throughout the sleep-wake cycle. An H2(15)O PET study,” *Brain* 120 (1997): 1173–1197, [doi:10.1093/brain/120.7.1173](https://doi.org/10.1093/brain/120.7.1173). REM is not synonymous with all dreaming, and sleep does not abolish sensory or bodily input.",
+      "urls": [
+        "https://doi.org/10.1126/science.118.3062.273",
+        "https://doi.org/10.1093/brain/120.7.1173"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-hoel",
+      "citation": "J. Allan Hobson, “REM sleep and dreaming: towards a theory of protoconsciousness,” *Nature Reviews Neuroscience* 10 (2009): 803–813, [doi:10.1038/nrn2716](https://doi.org/10.1038/nrn2716); Erik Hoel, “The overfitted brain: Dreams evolved to assist generalization,” *Patterns* 2(5) (2021): 100244, [doi:10.1016/j.patter.2021.100244](https://doi.org/10.1016/j.patter.2021.100244). Both are explanatory proposals; the anti-overfitting function is not an established result about why dreams evolved.",
+      "urls": [
+        "https://doi.org/10.1038/nrn2716",
+        "https://doi.org/10.1016/j.patter.2021.100244"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-cnn",
+      "citation": "Matthew D. Zeiler and Rob Fergus, “Visualizing and Understanding Convolutional Networks,” *ECCV* (2014), [author preprint](https://arxiv.org/abs/1311.2901); Alexander Mordvintsev, Christopher Olah and Mike Tyka, [“Inceptionism: Going Deeper into Neural Networks”](https://research.google/blog/inceptionism-going-deeper-into-neural-networks/), Google Research, 18 June 2015. DeepDream uses gradients to alter the input so selected learned features become stronger; it does not simply reverse a biological-style perceptual process.",
+      "urls": [
+        "https://arxiv.org/abs/1311.2901",
+        "https://research.google/blog/inceptionism-going-deeper-into-neural-networks/"
+      ],
+      "evidence_depth": "original developer explanation and research metadata",
+      "scope_and_limits": "Google original account checked: gradient-based input modification, not running perceptual layers backward in a literal biological sense. Zeiler/Fergus retained as research antecedent.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-eagleman",
+      "citation": "David Eagleman, *Livewired: The Inside Story of the Ever-Changing Brain* (Pantheon, 2020); [author’s account](https://eagleman.com/books/livewired/). Plasticity varies with age, circuit, experience and injury; continuing capacity does not mean unlimited rewiring.",
+      "urls": [
+        "https://eagleman.com/books/livewired/"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-darwinism",
+      "citation": "Gerald M. Edelman, *Neural Darwinism: The Theory of Neuronal Group Selection* (Basic Books, 1987); “Neural Darwinism: selection and reentrant signaling in higher brain function,” *Neuron* 10 (1993): 115–125, [PubMed 8094962](https://pubmed.ncbi.nlm.nih.gov/8094962/). This is a selectionist theory of neural organization, not literal organismal evolution occurring inside each brain.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/8094962/"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-reward",
+      "citation": "Wolfram Schultz, Peter Dayan and P. Read Montague, “A Neural Substrate of Prediction and Reward,” *Science* 275 (1997): 1593–1599, [author-hosted paper](https://www.gatsby.ucl.ac.uk/~dayan/papers/sdm97.html), [doi:10.1126/science.275.5306.1593](https://doi.org/10.1126/science.275.5306.1593). The response pattern supports reward-prediction-error accounts for the studied dopamine neurons; it is not a description of all dopamine activity or all learning. For a cellular reinforcement-learning experiment, J. N. Reynolds, B. I. Hyland and J. R. Wickens, “A cellular mechanism of reward-related learning,” *Nature* 413 (2001): 67–70, [doi:10.1038/35092560](https://doi.org/10.1038/35092560).",
+      "urls": [
+        "https://www.gatsby.ucl.ac.uk/~dayan/papers/sdm97.html",
+        "https://doi.org/10.1126/science.275.5306.1593",
+        "https://doi.org/10.1038/35092560"
+      ],
+      "evidence_depth": "primary experimental/research accounts",
+      "scope_and_limits": "Schultz/Dayan/Montague author-hosted paper and Reynolds et al. PubMed abstract checked. No dopamine-equals-pleasure claim.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-memory",
+      "citation": "Mark D’Esposito and Bradley R. Postle, “The Cognitive Neuroscience of Working Memory,” *Annual Review of Psychology* 66 (2015): 115–142, [doi:10.1146/annurev-psych-010814-015031](https://doi.org/10.1146/annurev-psych-010814-015031); Larry R. Squire and Adam J. O. Dede, “Conscious and Unconscious Memory Systems,” *Cold Spring Harbor Perspectives in Biology* 7 (2015): a021667, [doi:10.1101/cshperspect.a021667](https://doi.org/10.1101/cshperspect.a021667); Neal J. Cohen and Larry R. Squire, “Preserved learning and retention of pattern-analyzing skill in amnesia: dissociation of knowing how and knowing that,” *Science* 210 (1980): 207–210, [doi:10.1126/science.7414331](https://doi.org/10.1126/science.7414331). Different forms of memory can dissociate without being perfectly isolated modules.",
+      "urls": [
+        "https://doi.org/10.1146/annurev-psych-010814-015031",
+        "https://doi.org/10.1101/cshperspect.a021667",
+        "https://doi.org/10.1126/science.7414331"
+      ],
+      "evidence_depth": "research abstracts and scholarly review passages",
+      "scope_and_limits": "Working-memory and memory-systems accounts plus Cohen/Squire experimental abstract checked; preserves dissociation without anatomical cupboards.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-schemas",
+      "citation": "Dorothy Tse et al., “Schemas and memory consolidation,” *Science* 316 (2007): 76–82, [doi:10.1126/science.1135935](https://doi.org/10.1126/science.1135935). Rats learned flavor-place associations within an established framework; the experiment is not a direct test of literary narrative. The compression comparison is the author’s explanatory extension. For reconstructive remembering and future simulation, Daniel L. Schacter and Donna Rose Addis, “The cognitive neuroscience of constructive memory: remembering the past and imagining the future,” *Philosophical Transactions of the Royal Society B* 362 (2007): 773–786, [doi:10.1098/rstb.2007.2087](https://doi.org/10.1098/rstb.2007.2087).",
+      "urls": [
+        "https://doi.org/10.1126/science.1135935",
+        "https://doi.org/10.1098/rstb.2007.2087"
+      ],
+      "evidence_depth": "primary experimental abstract and author review passages",
+      "scope_and_limits": "Tse experiment is rat flavor-place learning; extension to narrative compression explicitly an analogy.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-predictive",
+      "citation": "Rajesh P. N. Rao and Dana H. Ballard, “Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects,” *Nature Neuroscience* 2 (1999): 79–87, [doi:10.1038/4580](https://doi.org/10.1038/4580). This is an influential computational account, not proof that every brain operation minimizes the same prediction error.",
+      "urls": [
+        "https://doi.org/10.1038/4580"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-seth",
+      "citation": "Anil Seth, *Being You: A New Science of Consciousness* (Faber & Faber, 2021). “Controlled hallucination” is used here as his explanatory phrase, not a claim that he originated every earlier use of it or that ordinary perception lacks an external cause.",
+      "urls": [],
+      "evidence_depth": "book attribution, limited",
+      "scope_and_limits": "Book identity and known explanatory phrase retained; not freshly read in full and no priority claim made.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-damasio",
+      "citation": "Antonio R. Damasio, *Descartes’ Error* (Putnam, 1994), on the somatic-marker hypothesis; Antonio Damasio and Gil B. Carvalho, “The nature of feelings: evolutionary and neurobiological origins,” *Nature Reviews Neuroscience* 14 (2013): 143–152, [doi:10.1038/nrn3403](https://doi.org/10.1038/nrn3403); A. D. Craig, “How do you feel? Interoception: the sense of the physiological condition of the body,” *Nature Reviews Neuroscience* 3 (2002): 655–666, [doi:10.1038/nrn894](https://doi.org/10.1038/nrn894). These connect bodily regulation and feeling without making every emotion merely an automatic reflex.",
+      "urls": [
+        "https://doi.org/10.1038/nrn3403",
+        "https://doi.org/10.1038/nrn894"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-barrett",
+      "citation": "Lisa Feldman Barrett, “The theory of constructed emotion: an active inference account of interoception and categorization,” *Social Cognitive and Affective Neuroscience* 12 (2017): 1–23, [doi:10.1093/scan/nsw154](https://doi.org/10.1093/scan/nsw154); Seth, *Being You* (2021). Constructed and predictive accounts are influential theories, not an uncontested definition of emotion.",
+      "urls": [
+        "https://doi.org/10.1093/scan/nsw154"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-tools",
+      "citation": "Sonia Harmand et al., “3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya,” *Nature* 521 (2015): 310–315, [doi:10.1038/nature14464](https://doi.org/10.1038/nature14464). The artifacts do not establish exactly what their makers consciously imagined.",
+      "urls": [
+        "https://doi.org/10.1038/nature14464"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-stout",
+      "citation": "Dietrich Stout and Thierry Chaminade, “Stone tools, language and the brain in human evolution,” *Philosophical Transactions of the Royal Society B* 367 (2012): 75–87, [doi:10.1098/rstb.2011.0099](https://doi.org/10.1098/rstb.2011.0099). Modern experimental archaeology and imaging inform hypotheses about extinct toolmakers; they cannot directly record those makers’ mental states.",
+      "urls": [
+        "https://doi.org/10.1098/rstb.2011.0099"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-gesture",
+      "citation": "Susan Goldin-Meadow, Howard Nusbaum, Spencer D. Kelly and Susan Wagner, “Explaining math: gesturing lightens the load,” *Psychological Science* 12 (2001): 516–522, [doi:10.1111/1467-9280.00395](https://doi.org/10.1111/1467-9280.00395). Participants explained mathematics while retaining a separate memory load. This supports a cognitive role for gesture; it does not date gesture’s evolutionary priority over language.",
+      "urls": [
+        "https://doi.org/10.1111/1467-9280.00395"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-drafts",
+      "citation": "Daniel C. Dennett, *Consciousness Explained* (Little, Brown, 1991), especially chapter 5, “Multiple Drafts versus the Cartesian Theater.” The model should not be conflated with a single final cortical broadcast or an anatomically localized inner observer.",
+      "urls": [],
+      "evidence_depth": "classic-theory attribution",
+      "scope_and_limits": "Multiple Drafts is distinguished from a final theater or one global broadcast; no fresh full reading of the 1991 book.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-theories",
+      "citation": "Bernard J. Baars, *A Cognitive Theory of Consciousness* (Cambridge University Press, 1988); Dehaene and Changeux (2011), cited above; David M. Rosenthal, *Consciousness and Mind* (Oxford University Press, 2005); Thomas Metzinger, *Being No One* (MIT Press, 2003); Giulio Tononi, “Consciousness as Integrated Information: a Provisional Manifesto,” *Biological Bulletin* 215 (2008): 216–242, [doi:10.2307/25470707](https://doi.org/10.2307/25470707). These accounts differ in their proposed criteria. IIT’s symbol Φ is unrelated to this book’s opening chapter.",
+      "urls": [
+        "https://doi.org/10.2307/25470707"
+      ],
+      "evidence_depth": "mixed primary theory and bibliography",
+      "scope_and_limits": "Tononi original publisher text and Dehaene review checked; Baars, Rosenthal and Metzinger retained as bibliographic antecedents, without fabricated page locators.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-consciousness-test",
+      "citation": "COGITATE Consortium et al., “Adversarial testing of global neuronal workspace and integrated information theories of consciousness,” *Nature* 642 (2025): 133–142, [doi:10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1). The preregistered comparison challenged selected predictions of both theories; it neither settled consciousness nor established that every version of either theory is false.",
+      "urls": [
+        "https://doi.org/10.1038/s41586-025-08888-1"
+      ],
+      "evidence_depth": "indexed primary abstract and metadata",
+      "scope_and_limits": "Nature indexed article inspected; direct open failed. Only reported challenges to selected GNWT/IIT predictions stated, not a winner or universal falsification.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-james",
+      "citation": "William James, *The Principles of Psychology*, vol. 1 (Henry Holt, 1890), [chapter XV, “The Perception of Time”](https://psychclassics.yorku.ca/James/Principles/prin15.htm). James credits E. R. Clay with “specious present.” The discussion does not establish one fixed integration window for every perceptual task.",
+      "urls": [
+        "https://psychclassics.yorku.ca/James/Principles/prin15.htm"
+      ],
+      "evidence_depth": "primary historical text",
+      "scope_and_limits": "Chapter XV inspected; E. R. Clay credited and no single universal duration assigned.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-foresight",
+      "citation": "C. R. Raby, D. M. Alexis, Anthony Dickinson and Nicola S. Clayton, “Planning for the future by western scrub-jays,” *Nature* 445 (2007): 919–921, [doi:10.1038/nature05575](https://doi.org/10.1038/nature05575). The birds anticipated future feeding conditions; this does not establish that they experience an imagined future as humans do. For shared human memory/simulation networks, see Schacter and Addis (2007), cited above.",
+      "urls": [
+        "https://doi.org/10.1038/nature05575"
+      ],
+      "evidence_depth": "primary-source metadata and accessible abstract or passages",
+      "scope_and_limits": "Citation identity and the specific claim were checked through journal, author or institutional material. This is not a claim that the entire work was read.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-faith",
+      "citation": "National Hurricane Center, [“The Hurricane Season of 1966,” *Monthly Weather Review*](https://www.nhc.noaa.gov/data/mwreview/1966.pdf); NOAA Atlantic Oceanographic and Meteorological Laboratory, [“50th anniversary of Hurricane Faith”](https://www.aoml.noaa.gov/hurricane_blog/50th-anniversary-of-hurricane-faith/). These establish the August–September 1966 storm, not the details of the family flight. The crossing and its weather are the author’s family account.",
+      "urls": [
+        "https://www.nhc.noaa.gov/data/mwreview/1966.pdf",
+        "https://www.aoml.noaa.gov/hurricane_blog/50th-anniversary-of-hurricane-faith/"
+      ],
+      "evidence_depth": "official historical sources plus author memoir",
+      "scope_and_limits": "NOAA/NHC storm timing checked. Family flight circumstances remain author testimony, not externally verified.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-mcauliffe",
+      "citation": "NASA, [“35 Years Ago: Remembering Challenger and Her Crew”](https://www.nasa.gov/history/35-years-ago-remembering-challenger-and-her-crew/), 28 January 2021. Christa McAuliffe was selected for the Teacher in Space Project and planned lessons from orbit. The dorm scene and roommate’s words are the author’s recollection.",
+      "urls": [
+        "https://www.nasa.gov/history/35-years-ago-remembering-challenger-and-her-crew/"
+      ],
+      "evidence_depth": "official NASA history plus memoir",
+      "scope_and_limits": "Teacher in Space and January 1986 accident checked against NASA. Roommate dialogue and lounge scene remain author testimony.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-vaughan",
+      "citation": "Diane Vaughan, *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA* (University of Chicago Press, 1996), on the normalization of deviance in organizational decision-making. [Publisher’s later enlarged edition and description](https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html).",
+      "urls": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html"
+      ],
+      "evidence_depth": "publisher account",
+      "scope_and_limits": "Publisher description supports normalization-of-deviance framing; link is to later enlarged edition, original book first published 1996.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-rogers",
+      "citation": "*Report of the Presidential Commission on the Space Shuttle Challenger Accident* (1986), vol. 1, [chapter 5, “The Contributing Cause of the Accident”](https://www.nasa.gov/history/rogersrep/v1ch5.htm), particularly the 27 January teleconference and Morton Thiokol management’s reversal of its initial no-launch recommendation. The launch and breakup occurred on 28 January 1986, after the author’s 1985 move; that sequence is intentional in this chapter’s upheaval.",
+      "urls": [
+        "https://www.nasa.gov/history/rogersrep/v1ch5.htm"
+      ],
+      "evidence_depth": "primary commission account",
+      "scope_and_limits": "NASA reproduction of Rogers Commission chapter 5 consulted for teleconference, engineering objections and management reversal.",
+      "verification_date": "2026-10-23",
+      "current_pass": "Citation and claim retained unchanged; previous audit carried forward, not represented as a fresh full-text reread."
+    },
+    {
+      "note_id": "v1-c3-wirings",
+      "citation": "For $N=10^{14}$ fixed binary sites, $\\lfloor N\\log_{10}2\\rfloor+1\\approx3.0\\times10^{13}$ is the number of decimal digits in $2^N$. This is a count in a toy description, not a count of viable brains or independent memories. Allowing graded strengths adds possibilities at a specified precision, while developmental, anatomical and dynamical constraints remove many combinations; there is no model-independent “true count” to substitute. The synapse total is an order-of-magnitude estimate; see the neuron-count note.",
+      "urls": [],
+      "consulted_urls": [],
+      "verification_date": "2026-11-15",
+      "evidence_depth": "Independent arithmetic; no external theorem beyond binary counting",
+      "scope_and_limits": "For N fixed binary sites, floor(N log10 2)+1 gives decimal digits. Approximately 3.0103e13 digits. This is neither a count of biologically accessible connectomes nor independent memories."
+    },
+    {
+      "note_id": "v1-c3-manifold",
+      "citation": "Juan A. Gallego et al., [“Neural Manifolds for the Control of Movement”](https://doi.org/10.1016/j.neuron.2017.05.025), *Neuron* 94 (2017): 978–984; Mark M. Churchland et al., [“Neural population dynamics during reaching”](https://doi.org/10.1038/nature11129), *Nature* 487 (2012): 51–56; John P. Cunningham and Byron M. Yu, [“Dimensionality reduction for large-scale neural recordings”](https://doi.org/10.1038/nn.3776), *Nature Neuroscience* 17 (2014): 1500–1509. Low-dimensional structure describes a substantial component of recorded activity; estimated dimension depends on task, sampling, noise and method. It need not be a literal flat sheet, nor mark states that the brain can never visit. The electronic-band comparison is this chapter's analogy, not an equivalence between energy gaps and neural manifolds.",
+      "urls": [
+        "https://doi.org/10.1016/j.neuron.2017.05.025",
+        "https://doi.org/10.1038/nature11129",
+        "https://doi.org/10.1038/nn.3776"
+      ],
+      "consulted_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/28595054/",
+        "https://gallego.bg.ic.ac.uk/publications/",
+        "https://pubmed.ncbi.nlm.nih.gov/22722855/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/3393826/",
+        "https://pubmed.ncbi.nlm.nih.gov/25151264/",
+        "https://www.cnbc.cmu.edu/braingroup/papers/cunningham_yu_2014.pdf"
+      ],
+      "verification_date": "2026-11-15",
+      "evidence_depth": "Primary abstracts, original-paper indexed passages and figure descriptions; bibliographic metadata",
+      "scope_and_limits": "Gallego et al.: low-dimensional activity associated with movement; original text distinguishes latent structure, task and sampling. Churchland et al.: recurrent population dynamics during reaching, displayed in reduced coordinates. Cunningham and Yu: methods and interpretation of dimensionality reduction. No fresh full-text review of all three papers is claimed. The PMC Gallego page was blocked by a challenge, but primary indexed text and the author publication list corroborated the scope. The exact ten-coordinate claim was not retained as a general property of cortex."
+    },
+    {
+      "note_id": "v1-c3-bottleneck",
+      "citation": "At two bits per base, $3.1\\times10^9$ bases require $7.75\\times10^8$ bytes for one sequence. An arbitrary partner among $10^{11}$ neurons needs about $\\log_2 10^{11}\\approx37$ bits; rounding up to five bytes gives $5\\times10^{14}$ bytes for $10^{14}$ entries, roughly $6.5\\times10^5$ times the sequence size. The toy list ignores strengths, positions and further overhead; structured wiring can be compressed. Anthony M. Zador, [“A critique of pure learning and what artificial neural networks can learn from animal brains”](https://doi.org/10.1038/s41467-019-11786-6), *Nature Communications* 10 (2019): 3770, argues for inherited wiring rules through this bottleneck, not the absence of innate circuitry. For retinal counts, C. A. Curcio et al., [“Human photoreceptor topography”](https://pubmed.ncbi.nlm.nih.gov/2324310/), *Journal of Comparative Neurology* 292 (1990): 497–523, found means of 92 million rods and 4.6 million cones; Curcio and K. A. Allen, [“Topography of ganglion cells in human retina”](https://christineacurcio.com/GanglionCellTopography/Curcio_JCompNeurol1990_GCtopo_searchable.pdf), *Journal of Comparative Neurology* 300 (1990): 5–25, found about 0.7–1.5 million ganglion cells. The rough hundred-to-one ratio is whole-eye convergence, not a uniform ratio across the retina or a measured bit-rate compression factor.",
+      "urls": [
+        "https://doi.org/10.1038/s41467-019-11786-6",
+        "https://pubmed.ncbi.nlm.nih.gov/2324310/",
+        "https://christineacurcio.com/GanglionCellTopography/Curcio_JCompNeurol1990_GCtopo_searchable.pdf"
+      ],
+      "consulted_urls": [
+        "https://repository.cshl.edu/id/eprint/38307/1/2019.Zador.ArtificialNeuralNetworks.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/2324310/",
+        "https://christineacurcio.com/GanglionCellTopography/Curcio_JCompNeurol1990_GCtopo_searchable.pdf"
+      ],
+      "verification_date": "2026-11-15",
+      "evidence_depth": "Original author paper and primary retinal-count abstracts; independent arithmetic",
+      "scope_and_limits": "Zador author PDF: genetic capacity implies compressed, strongly structured innate wiring rules. It does not imply a blank cortex. Curcio et al. abstract: means of 92 million rods and 4.6 million cones. Curcio/Allen PDF abstract: about 0.7–1.5 million ganglion cells, with nonuniform retinal distributions. The whole-eye count ratio is not a measured information-compression factor. Computed 5e14 / 7.75e8 = 645161.29; strengths and positions absent from the toy list."
+    },
+    {
+      "note_id": "v1-c3-rewiring",
+      "citation": "Mriganka Sur, Preston E. Garraghty and Anna W. Roe, [“Experimentally induced visual projections into auditory thalamus and cortex”](https://web.mit.edu/surlab/publications/1988_SurGarraghtyRoe.pdf), *Science* 242 (1988): 1437–1441; Jitendra Sharma, Alessandra Angelucci and Mriganka Sur, [“Induction of visual orientation modules in auditory cortex”](https://doi.org/10.1038/35009043), *Nature* 404 (2000): 841–847; Laurie von Melchner, Sarah L. Pallas and Mriganka Sur, [“Visual behaviour mediated by retinal projections directed to the auditory pathway”](https://doi.org/10.1038/35009102), *Nature* 404 (2000): 871–876. The rerouted pathway supported visual responses, map organization and behavior, but did not become identical to normal visual cortex. Nor is developing cortex wholly uncommitted: Xuyu Qian et al., [“Spatial transcriptomics reveals human cortical layer and area specification”](https://doi.org/10.1038/s41586-025-09010-1), *Nature* 644 (2025): 153–163, documents molecular area differences before birth. Inputs reshape a developmentally structured substrate.",
+      "urls": [
+        "https://web.mit.edu/surlab/publications/1988_SurGarraghtyRoe.pdf",
+        "https://doi.org/10.1038/35009043",
+        "https://doi.org/10.1038/35009102",
+        "https://doi.org/10.1038/s41586-025-09010-1"
+      ],
+      "consulted_urls": [
+        "https://web.mit.edu/surlab/publications/1988_SurGarraghtyRoe.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/10786784/",
+        "https://cs.brown.edu/people/tdean/projects/cortex/course/suggested_reading_list/supplements/documents/vonMelchneretalNATURE-00.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/40369074/"
+      ],
+      "verification_date": "2026-11-15",
+      "evidence_depth": "1988 original paper passages; 2000 primary abstract and original behavioral paper; 2025 primary abstract",
+      "scope_and_limits": "Sur et al. 1988: retinal inputs redirected to auditory thalamus, with visual cortical responses and spatial organization. Sharma et al. 2000: orientation modules with differences from normal V1. Von Melchner et al. 2000, pp.871–872 abstract/introduction: visual discrimination via rewired pathway, lower acuity than normal. These are several studies beginning in 1988, not one experiment establishing all results in that year. Qian et al. 2025 abstract: prenatal molecular laminar and areal organization; it supports a structured developmental substrate, not a claim that all area differences are solely genetically determined."
+    },
+    {
+      "note_id": "v1-c3-critical",
+      "citation": "For the deprivation experiments, see the Hubel–Wiesel note above. Takao K. Hensch, [“Critical period plasticity in local cortical circuits”](https://doi.org/10.1038/nrn1787), *Nature Reviews Neuroscience* 6 (2005): 877–888, discusses maturation of inhibition and mechanisms that open and close periods of heightened plasticity. Windows differ by system, and some functions can partly recover or plasticity can be reopened under particular conditions. The frozen-accident comparison is the chapter's analogy; it does not mean all childhood learning becomes permanently inaccessible to revision.",
+      "urls": [
+        "https://doi.org/10.1038/nrn1787"
+      ],
+      "consulted_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/16261181/",
+        "https://henschlab.mcb.harvard.edu/papers/"
+      ],
+      "verification_date": "2026-11-15",
+      "evidence_depth": "Primary review abstract and author publication listing; inherited Hubel–Wiesel source retained",
+      "scope_and_limits": "Hensch 2005 abstract supports inhibitory maturation and mechanisms regulating critical-period plasticity. Bibliographic metadata checked. No new full-text review claimed; publisher access failed. Reopening is conditional, not a promise of universal reversal. Frozen accident remains an analogy."
+    },
+    {
+      "note_id": "v1-c3-emergence",
+      "citation": "Mark A. Bedau, [“Weak Emergence”](https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/1997/bedau1997a.pdf), *Philosophical Perspectives* 11 (1997): 375–399, defines a simulation-dependent form; David J. Chalmers, [“Strong and Weak Emergence”](https://consc.net/papers/emergence.pdf), in Philip Clayton and Paul Davies, eds., *The Re-Emergence of Emergence* (Oxford University Press, 2006), uses a broader notion of weak emergence and distinguishes emergent qualities from downward causal powers. He regards consciousness as a clear candidate for strong emergence, the position Alice disputes. The chapter's aboutness boundary and its expectation of weak emergence in brains are the author's readings, not conclusions of either paper.",
+      "urls": [
+        "https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/1997/bedau1997a.pdf",
+        "https://consc.net/papers/emergence.pdf"
+      ],
+      "consulted_urls": [
+        "https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/1997/bedau1997a.pdf",
+        "https://people.reed.edu/~mab/publications/emergence.html",
+        "https://consc.net/papers/emergence.pdf"
+      ],
+      "verification_date": "2026-11-15",
+      "evidence_depth": "Original philosophical papers: definitions and relevant argument passages",
+      "scope_and_limits": "Bedau 1997, formal weak-emergence definition: derivation by simulation, not merely practical difficulty. Chalmers distinguishes broader weak emergence from in-principle nondeducibility and distinguishes qualities from new downward causal powers; consciousness is his proposed strong case. Neither proves the chapter’s aboutness boundary or its physicalist wager."
+    },
+    {
+      "note_id": "v1-c3-spike-code",
+      "citation": "All-or-none spike generation does not make every action-potential waveform identical or exclude analog influences on synaptic transmission. Henrik Alle and Jörg R. P. Geiger, [“Combined analog and action potential coding in hippocampal mossy fibers”](https://doi.org/10.1126/science.1119055), *Science* 311 (2006): 1290–1293, showed that subthreshold signals reaching presynaptic terminals can modulate spike-evoked transmitter release. The event/timing distinction is a useful coding description, not a complete account of the cell.",
+      "urls": [
+        "https://doi.org/10.1126/science.1119055"
+      ],
+      "consulted_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/16513983/"
+      ],
+      "verification_date": "2026-11-15",
+      "evidence_depth": "Primary research abstract and bibliographic record",
+      "scope_and_limits": "Alle/Geiger 2006: subthreshold signals can reach mossy-fiber terminals and modulate spike-evoked release. Supports analog influence alongside action potentials; does not make a universal claim about how all neurons encode information. All-or-none does not entail identical waveforms. Retain the useful event/timing description rather than claiming amplitude carries nothing."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-15",
+  "baseline_commit": "c14e97d73ab2b8eff8e8ba0b23896c2e28014e6f",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md": "054f5191b58ae9d04ed5da74cc9244812c8b637e2982e30bab77c8e43c5367c3",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/03-chapter.md": "c82a6a6b0984a85633bcb709af18dc2b53d259df28e9ae5d1e823e87c8bac658",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/03-chapter/neuron-synapse-circuit.svg": "65e58250238081575ef7986d55cde80f3ada81521558adc9ffdd262f7cf04bbe",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "0865d58bfe19e6212d101adcfccb937b026ebfe0e2d0f094a78341b97dc0b84c",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "4b5ce2ccea3a2fd2599ea3b195b073ec057cb3ce7a660fe2aac181796303e23e",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "12bb1e485d6ed3d49fb848816891da20867ae4700ce88d2fd7512a56acfc1ba6"
+  },
+  "incoming_read_only": true,
+  "original_figures_retained": true,
+  "incoming_diagram_requests": [],
+  "new_figure": "Original neural-manifold teaching schematic authorized by the user; no Fable diagram request or supplied asset.",
+  "new_manuscript_sha256": "3d3325802844a5e305b0d365564f6513027d1801ea33ce8401eec8f950f20b28",
+  "new_figure_sha256": "80a22819ea864d42d5cd91da974af9f0ed9afa0f991e83387016920aa445304d"
+}

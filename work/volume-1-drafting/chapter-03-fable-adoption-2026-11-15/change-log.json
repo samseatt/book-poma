@@ -1,0 +1,212 @@
+[
+  {
+    "kind": "B",
+    "before": "Give each of the hundred trillion synapses in my head only two states, present or absent, and the number of distinct wirings is",
+    "after": "Give each of a hundred trillion fixed synaptic sites only two states, present or absent, and the number of nominal wirings is",
+    "reason": "Specify what the binary count counts; it is neither all possible connectomes nor a measured memory capacity."
+  },
+  {
+    "kind": "B",
+    "before": "Record hundreds of neurons in a cortex while an animal does something, and the population doesn't roam the enormous space available to it. Its activity stays on a thin sheet inside that space, a handful of dimensions wide, which neuroscientists call a neural manifold; ten or so coordinates can carry most of what a motor cortex is doing while an arm reaches.",
+    "after": "Record hundreds of neurons in motor cortex during a constrained reaching task, and much of the population's activity can lie near a thin sheet inside the enormous space available to it. Neuroscientists call this a neural manifold; a handful of coordinates can capture much of the recorded variation while an arm reaches.",
+    "reason": "Recorded task-dependent low dimensionality does not fix a dimension for cortex or prove that unobserved states are impossible. Retain the sheet intuition."
+  },
+  {
+    "kind": "B",
+    "before": "A crystal's electrons could in principle take any energy, and what the lattice permits is bands with gaps between them. A cortex's neurons could in principle fire in any combination, and what the wiring permits is a manifold with the rest of the space standing empty.",
+    "after": "A free electron has a continuum of kinetic energies; a crystal's lattice reorganizes the available energies into bands with gaps between them. A cortex's neurons admit an enormous count of firing combinations, while wiring, inputs and the task can concentrate activity near a manifold, leaving much of that space unvisited.",
+    "reason": "Keep the bands/manifold analogy while distinguishing forbidden energies from activity not visited in a particular task."
+  },
+  {
+    "kind": "B",
+    "before": "A genome that wants to try something new has to build it, and building takes a generation.",
+    "after": "For evolution to try an inherited variation, it has to build with it.",
+    "reason": "The comparison concerns inherited evolutionary change, not every genomic or cellular response, which can operate within a generation."
+  },
+  {
+    "kind": "B",
+    "before": "The hardware is the same at breakfast and at midnight",
+    "after": "Much of the hardware is the same at breakfast and at midnight",
+    "reason": "Preserve fast state reuse without contradicting the later discussion of ongoing physical plasticity."
+  },
+  {
+    "kind": "B",
+    "before": "My genome is some three billion letters, under a billion bytes.",
+    "after": "One haploid copy of my genome is some three billion letters, under a billion bytes.",
+    "reason": "Align the two-bit sequence calculation with the haploid representation used in Interlude 2."
+  },
+  {
+    "kind": "A",
+    "before": "10^{14} \\times 5 \\text{ bytes} \\;\\approx\\; 10^{15} \\text{ bytes}",
+    "after": "10^{14} \\times 5 \\text{ bytes} \\;=\\; 5\\times10^{14} \\text{ bytes}",
+    "reason": "Correct the displayed multiplication; the inputs themselves remain rounded estimates."
+  },
+  {
+    "kind": "B",
+    "before": "six orders of magnitude more than the genome holds",
+    "after": "roughly six orders of magnitude more than the genome holds",
+    "reason": "The toy list / haploid sequence ratio is approximately 6.5×10^5, not exactly a million."
+  },
+  {
+    "kind": "B",
+    "before": "the recipe can only be a set of growth rules, and the addresses have to be written by something that isn't the genome.",
+    "after": "the recipe has to include growth rules, and the addresses cannot all be written out in it one by one.",
+    "reason": "Genetically specified guidance and innate structure still contribute to connectivity; a compression argument does not put every address outside genetic influence."
+  },
+  {
+    "kind": "A",
+    "before": "which this chapter named in its second paragraph and then walked past",
+    "after": "which this chapter named in its opening pages and then walked past",
+    "reason": "The contrast passage is in the opening, but not literally the second paragraph."
+  },
+  {
+    "kind": "B",
+    "before": "The retina doesn't report light; it reports contrast.",
+    "after": "The retina doesn't merely report light; much of its traffic reports contrast.",
+    "reason": "Center-surround coding does not exhaust retinal output or erase luminance information."
+  },
+  {
+    "kind": "B",
+    "before": "a squeeze of a hundred to one, and no scene passes through a neck like that by being sent. It passes by having its differences sent. Riding the delta isn't a flourish of the retina's. It's the only affordable way to carry a world",
+    "after": "a squeeze of about a hundred to one. Much of the scene travels through that neck as differences, rather than as a point-for-point copy. Riding the delta isn't a flourish of the retina's. It's an economical way to carry a world",
+    "reason": "A whole-eye cell-count ratio is not a proof that only contrast can be sent, nor an exact information compression ratio; the delta remains central."
+  },
+  {
+    "kind": "A",
+    "before": "One kind of cell, firing one kind of all-or-none spike:",
+    "after": "Different kinds of cell, reusing a common all-or-none mechanism:",
+    "reason": "Neurons are heterogeneous; the shared spike mechanism is the defensible sameness."
+  },
+  {
+    "kind": "B",
+    "before": "Because every spike is the same size, amplitude carries nothing at all, and the whole message lives in which cell fired and when, which makes the signal digital in amplitude and analog in time.",
+    "after": "In the usual spike-train description, the message lives in which cell fired and when: digital in the event, analog in its timing.[^v1-c3-spike-code]",
+    "reason": "All-or-none is an approximation about generation, not identity of every waveform or exclusion of analog modulation. Keep the digital/analog distinction with mechanisms in a note."
+  },
+  {
+    "kind": "B",
+    "before": "the cortical sheet is six layers deep nearly everywhere",
+    "after": "the neocortical sheet follows a six-layer plan",
+    "reason": "The recurring plan admits different cell types, laminar thicknesses and area-specific organization."
+  },
+  {
+    "kind": "B",
+    "before": "In the late 1980s Mriganka Sur and his colleagues rerouted",
+    "after": "In studies beginning in the late 1980s, Mriganka Sur and his colleagues rerouted",
+    "reason": "The account draws on 1988 work and later orientation-map / behavioral studies, not one experiment on one date."
+  },
+  {
+    "kind": "B",
+    "before": "what any patch becomes is decided at its door, by whatever turns up there.",
+    "after": "what a patch becomes is partly decided at its door, by what turns up there.",
+    "reason": "Experience matters greatly, but cortical area identity also develops under intrinsic molecular constraints."
+  },
+  {
+    "kind": "B",
+    "before": "the recipe builds a general-purpose sheet and then declines to say what any part of it means.",
+    "after": "the recipe builds a reusable, already biased sheet and then declines to settle all its later meanings.",
+    "reason": "Preserve the recipe/meaning metaphor without making cortex a wholly blank general-purpose sheet."
+  },
+  {
+    "kind": "B",
+    "before": "a symmetric body grows an asymmetric brain",
+    "after": "a roughly bilateral body grows an asymmetric brain",
+    "reason": "The body is not perfectly symmetric; internal asymmetries are substantial."
+  },
+  {
+    "kind": "B",
+    "before": "onto the same uncommitted tissue",
+    "after": "onto still-adaptable tissue",
+    "reason": "Avoid reintroducing the claim of initially uncommitted cortex."
+  },
+  {
+    "kind": "B",
+    "before": "and a refuted hypothesis is a death.",
+    "after": "and a refuted hypothesis can be a death.",
+    "reason": "Evolutionary failure need not be death; reproductive success also varies. Preserve the risk contrast."
+  },
+  {
+    "kind": "B",
+    "before": "An experiment that would have cost a skull cost a few hundred milliseconds of his own activity instead.",
+    "after": "An experiment that could have cost a skull cost a little neural activity instead.",
+    "reason": "No measured duration or certain counterfactual injury is available for the author’s childhood recollection."
+  },
+  {
+    "kind": "B",
+    "before": "Cut the correction and the machinery doesn't stop",
+    "after": "Loosen that outside correction and the machinery doesn't stop",
+    "reason": "Dreaming changes external constraint without abolishing bodily inputs or internal feedback."
+  },
+  {
+    "kind": "B",
+    "before": "the sheet, tiled and uncommitted",
+    "after": "the sheet, tiled and still adaptable",
+    "reason": "Keep the two-stroke image consistent with innate developmental biases."
+  },
+  {
+    "kind": "D — light attribution only",
+    "before": "But it is the first floor whose states are *about* something.",
+    "after": "But, on the reading I am trying here, it is the first floor whose states are *about* something.",
+    "reason": "The location of the boundary of aboutness is a philosophical proposal, not a settled finding that non-neural life has no norm-sensitive representation. Preserve the whole argument."
+  },
+  {
+    "kind": "A/B",
+    "before": "Philosophers separate weak emergence, where the higher description follows from the lower one but could not be derived in practice without simply running it, from strong emergence, where genuinely new causal powers arrive.",
+    "after": "One demanding sense of weak emergence says the higher description follows from the lower one, but only by running the process or a simulation. Strong emergence says something at the higher level is not deducible even in principle from the lower one.",
+    "reason": "Distinguish Bedau’s simulation criterion from broader weak-emergence usage; Chalmers allows strong emergent qualities without new downward causal powers."
+  },
+  {
+    "kind": "D — light attribution only",
+    "before": "Everything in this book so far has been weak, and I expect a brain is too.",
+    "after": "I have treated everything in this book so far as weakly emergent, and I expect a brain is too.",
+    "reason": "Retain the physicalist wager as the author’s position rather than an established proof of reduction."
+  },
+  {
+    "kind": "B",
+    "before": "a shape held in common not by any medium but by brains agreeing to model it the same way.",
+    "after": "a shape held in common not by one particular medium but by brains agreeing to model it the same way.",
+    "reason": "The shared pattern need not belong to one medium; it still has physical realizations."
+  },
+  {
+    "kind": "Reference / A-B",
+    "before": "[^v1-c3-wirings]: The figure is a deliberate overcount, to make the point about reachability: $\\log_{10} 2^{10^{14}} = 10^{14}\\log_{10}2 \\approx 3.0\\times10^{13}$ digits. The synapse figure is an order-of-magnitude estimate (see the note on neuron counts above). Treating a synapse as simply present or absent ignores graded strength, which makes the true count larger and the argument stronger. (AI-added; arithmetic checked.)",
+    "after": "[^v1-c3-wirings]: For $N=10^{14}$ fixed binary sites, $\\lfloor N\\log_{10}2\\rfloor+1\\approx3.0\\times10^{13}$ is the number of decimal digits in $2^N$. This is a count in a toy description, not a count of viable brains or independent memories. Allowing graded strengths adds possibilities at a specified precision, while developmental, anatomical and dynamical constraints remove many combinations; there is no model-independent “true count” to substitute. The synapse total is an order-of-magnitude estimate; see the neuron-count note.",
+    "reason": "Verify the new note and state the scope of its evidence; exact details are in source-audit.json."
+  },
+  {
+    "kind": "Reference / A-B",
+    "before": "[^v1-c3-manifold]: Juan A. Gallego et al., \"Neural Manifolds for the Control of Movement,\" *Neuron* 94 (2017): 978–984; Mark M. Churchland et al., \"Neural population dynamics during reaching,\" *Nature* 487 (2012): 51–56; John P. Cunningham and Byron M. Yu, \"Dimensionality reduction for large-scale neural recordings,\" *Nature Neuroscience* 17 (2014): 1500–1509. Reported dimensionality depends on the task, the number of neurons recorded and the method; it is not a fixed property of a cortex, and it tends to grow with task complexity. The comparison with electronic bands is this chapter's analogy. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c3-manifold]: Juan A. Gallego et al., [“Neural Manifolds for the Control of Movement”](https://doi.org/10.1016/j.neuron.2017.05.025), *Neuron* 94 (2017): 978–984; Mark M. Churchland et al., [“Neural population dynamics during reaching”](https://doi.org/10.1038/nature11129), *Nature* 487 (2012): 51–56; John P. Cunningham and Byron M. Yu, [“Dimensionality reduction for large-scale neural recordings”](https://doi.org/10.1038/nn.3776), *Nature Neuroscience* 17 (2014): 1500–1509. Low-dimensional structure describes a substantial component of recorded activity; estimated dimension depends on task, sampling, noise and method. It need not be a literal flat sheet, nor mark states that the brain can never visit. The electronic-band comparison is this chapter's analogy, not an equivalence between energy gaps and neural manifolds.",
+    "reason": "Verify the new note and state the scope of its evidence; exact details are in source-audit.json."
+  },
+  {
+    "kind": "Reference / A-B",
+    "before": "[^v1-c3-bottleneck]: About $3.1\\times10^{9}$ bases at two bits each is about $7.75\\times10^{8}$ bytes. Naming one partner among about $10^{11}$ neurons needs $\\log_2 10^{11} \\approx 37$ bits, a little under five bytes. This ignores synaptic strength and location, so it understates the gap. For the argument that the genome must specify wiring rules rather than a wiring list, see Anthony M. Zador, \"A critique of pure learning and what artificial neural networks can learn from animal brains,\" *Nature Communications* 10 (2019): 3770. (AI-added, from memory; to be verified. The photoreceptor and ganglion-cell figures in the following paragraph are standard textbook approximations, roughly 100–125 million and 1–1.2 million per eye.)",
+    "after": "[^v1-c3-bottleneck]: At two bits per base, $3.1\\times10^9$ bases require $7.75\\times10^8$ bytes for one sequence. An arbitrary partner among $10^{11}$ neurons needs about $\\log_2 10^{11}\\approx37$ bits; rounding up to five bytes gives $5\\times10^{14}$ bytes for $10^{14}$ entries, roughly $6.5\\times10^5$ times the sequence size. The toy list ignores strengths, positions and further overhead; structured wiring can be compressed. Anthony M. Zador, [“A critique of pure learning and what artificial neural networks can learn from animal brains”](https://doi.org/10.1038/s41467-019-11786-6), *Nature Communications* 10 (2019): 3770, argues for inherited wiring rules through this bottleneck, not the absence of innate circuitry. For retinal counts, C. A. Curcio et al., [“Human photoreceptor topography”](https://pubmed.ncbi.nlm.nih.gov/2324310/), *Journal of Comparative Neurology* 292 (1990): 497–523, found means of 92 million rods and 4.6 million cones; Curcio and K. A. Allen, [“Topography of ganglion cells in human retina”](https://christineacurcio.com/GanglionCellTopography/Curcio_JCompNeurol1990_GCtopo_searchable.pdf), *Journal of Comparative Neurology* 300 (1990): 5–25, found about 0.7–1.5 million ganglion cells. The rough hundred-to-one ratio is whole-eye convergence, not a uniform ratio across the retina or a measured bit-rate compression factor.",
+    "reason": "Verify the new note and state the scope of its evidence; exact details are in source-audit.json."
+  },
+  {
+    "kind": "Reference / A-B",
+    "before": "[^v1-c3-rewiring]: Mriganka Sur, Preston E. Garraghty and Anna W. Roe, \"Experimentally induced visual projections into auditory thalamus and cortex,\" *Science* 242 (1988): 1437–1441; Jitendra Sharma, Alessandra Angelucci and Mriganka Sur, \"Induction of visual orientation modules in auditory cortex,\" *Nature* 404 (2000): 841–847; Laurie von Melchner, Sarah L. Pallas and Mriganka Sur, \"Visual behaviour mediated by retinal projections directed to the auditory pathway,\" *Nature* 404 (2000): 871–876. The rewired cortex is not equivalent to normal visual cortex; it is visual enough to make the point. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c3-rewiring]: Mriganka Sur, Preston E. Garraghty and Anna W. Roe, [“Experimentally induced visual projections into auditory thalamus and cortex”](https://web.mit.edu/surlab/publications/1988_SurGarraghtyRoe.pdf), *Science* 242 (1988): 1437–1441; Jitendra Sharma, Alessandra Angelucci and Mriganka Sur, [“Induction of visual orientation modules in auditory cortex”](https://doi.org/10.1038/35009043), *Nature* 404 (2000): 841–847; Laurie von Melchner, Sarah L. Pallas and Mriganka Sur, [“Visual behaviour mediated by retinal projections directed to the auditory pathway”](https://doi.org/10.1038/35009102), *Nature* 404 (2000): 871–876. The rerouted pathway supported visual responses, map organization and behavior, but did not become identical to normal visual cortex. Nor is developing cortex wholly uncommitted: Xuyu Qian et al., [“Spatial transcriptomics reveals human cortical layer and area specification”](https://doi.org/10.1038/s41586-025-09010-1), *Nature* 644 (2025): 153–163, documents molecular area differences before birth. Inputs reshape a developmentally structured substrate.",
+    "reason": "Verify the new note and state the scope of its evidence; exact details are in source-audit.json."
+  },
+  {
+    "kind": "Reference / A-B",
+    "before": "[^v1-c3-critical]: For the original deprivation experiments, see the Hubel and Wiesel note above. On the cellular mechanisms of critical periods and their partial reopening, Takao K. Hensch, \"Critical period plasticity in local cortical circuits,\" *Nature Reviews Neuroscience* 6 (2005): 877–888. Windows differ by system; some can be partly reopened in adults. Calling a critical period a frozen accident is this chapter's analogy, not a term of art. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c3-critical]: For the deprivation experiments, see the Hubel–Wiesel note above. Takao K. Hensch, [“Critical period plasticity in local cortical circuits”](https://doi.org/10.1038/nrn1787), *Nature Reviews Neuroscience* 6 (2005): 877–888, discusses maturation of inhibition and mechanisms that open and close periods of heightened plasticity. Windows differ by system, and some functions can partly recover or plasticity can be reopened under particular conditions. The frozen-accident comparison is the chapter's analogy; it does not mean all childhood learning becomes permanently inaccessible to revision.",
+    "reason": "Verify the new note and state the scope of its evidence; exact details are in source-audit.json."
+  },
+  {
+    "kind": "Reference / A-B",
+    "before": "[^v1-c3-emergence]: Mark A. Bedau, \"Weak Emergence,\" *Philosophical Perspectives* 11 (1997): 375–399; David J. Chalmers, \"Strong and Weak Emergence,\" in Philip Clayton and Paul Davies, eds., *The Re-Emergence of Emergence* (Oxford University Press, 2006). Chalmers himself holds that consciousness may be the one case of strong emergence, which is a position Alice argues against. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c3-emergence]: Mark A. Bedau, [“Weak Emergence”](https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/1997/bedau1997a.pdf), *Philosophical Perspectives* 11 (1997): 375–399, defines a simulation-dependent form; David J. Chalmers, [“Strong and Weak Emergence”](https://consc.net/papers/emergence.pdf), in Philip Clayton and Paul Davies, eds., *The Re-Emergence of Emergence* (Oxford University Press, 2006), uses a broader notion of weak emergence and distinguishes emergent qualities from downward causal powers. He regards consciousness as a clear candidate for strong emergence, the position Alice disputes. The chapter's aboutness boundary and its expectation of weak emergence in brains are the author's readings, not conclusions of either paper.",
+    "reason": "Verify the new note and state the scope of its evidence; exact details are in source-audit.json."
+  },
+  {
+    "kind": "B / supporting reference",
+    "before": "",
+    "after": "[^v1-c3-spike-code]: All-or-none spike generation does not make every action-potential waveform identical or exclude analog influences on synaptic transmission. Henrik Alle and Jörg R. P. Geiger, [“Combined analog and action potential coding in hippocampal mossy fibers”](https://doi.org/10.1126/science.1119055), *Science* 311 (2006): 1290–1293, showed that subthreshold signals reaching presynaptic terminals can modulate spike-evoked transmitter release. The event/timing distinction is a useful coding description, not a complete account of the cell.",
+    "reason": "Add evidence for the narrow spike-code qualification."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
+  "sha256": "3d3325802844a5e305b0d365564f6513027d1801ea33ce8401eec8f950f20b28",
+  "defined_notes": 52,
+  "note_references": 52,
+  "parsed_notes": 52,
+  "html_note_backlinks": 52,
+  "display_equations": 2,
+  "bookwide_note_collisions": [],
+  "warnings": [
+    "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+  ],
+  "errors": [],
+  "passed": true
+}

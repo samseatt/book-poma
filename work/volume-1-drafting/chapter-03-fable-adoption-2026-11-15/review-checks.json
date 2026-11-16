@@ -1,0 +1,37 @@
+{
+  "incoming_comment_count": 7,
+  "all_incoming_comments_preserved": true,
+  "personal_scenes_and_challenger_ending_unchanged": true,
+  "alice_unchanged_from_both_sources": true,
+  "existing_neuron_figure_markup_unchanged": true,
+  "header_identity_unchanged": true,
+  "original_45_notes_preserved": true,
+  "math": {
+    "binary_configuration_digits_approx": 30102999566398.12,
+    "bits_per_named_partner": 36.541209043760986,
+    "rounded_partner_list_bytes": 500000000000000.0,
+    "haploid_bytes": 775000000.0,
+    "list_to_sequence_ratio": 645161.2903225806
+  },
+  "new_figure_review_pending": false,
+  "new_figure_review": {
+    "status": "pass",
+    "renderer": "Chrome headless, 1200×500 PNG; visually inspected",
+    "meaning": "Three neuronal activity coordinates restricted by r3=(r1+r2)/2 require two independent coordinates. The same twelve synthetic states appear in both panels. This is a teaching construction, not recorded brain data.",
+    "checks": [
+      "rank-two basis and point correspondence checked by generator",
+      "activity coordinates distinguish states from wiring",
+      "labels, axis arrows, points and grid legible without collisions",
+      "grayscale, explicit synthetic-data caption and alt text",
+      "curvature, noise and task dependence acknowledged; no claim that unvisited states are impossible"
+    ]
+  },
+  "original_45_notes_byte_identical": true,
+  "all_52_notes_audited_or_prior_audit_explicitly_carried": true,
+  "new_diagram_requests_in_incoming": 0,
+  "word_counts_whitespace_including_notes": {
+    "canonical_before": 10522,
+    "fable": 12968,
+    "adopted": 13295
+  }
+}

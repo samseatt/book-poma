@@ -411,3 +411,10 @@ Added original grayscale sunlight/entropy and copying-fidelity diagrams, keeping
 **15 November 2026; adopted.** Merged Fable’s `02-interlude.md` with the four-question framework, genomic difference file, big-data/FAIR passage, JSON example, learning equations and MDL bridge. Kept personal material, timing coincidences, the existing database figure, Bob and the ending. All incoming comments remain; the author note converted by Fable to HTML has its original wording archived.
 
 Added the supplied training-loop diagram with limited connection/label repairs, preserving its original as provenance. Verified the five new source notes and scoped the channel/compression/MDL claims. Honored Sam’s earlier rejection of the CD analogy while retaining the two-bit genome calculation. No essential old passage needed recovery. S019 records the inside-world wager. See [adoption notes](../volume-1-drafting/interlude-02-fable-adoption-2026-11-15/ADOPTION_NOTES.md), exact change log, source audit and checks. No publication.
+
+
+## V1-042 — Chapter 3: possibility brought indoors
+
+**15 November 2026; adopted.** Merged Fable’s `03-chapter.md`. The new four-question section links neural manifolds, genomic compression, reusable activity and developmental breaks to internal models and shared stories. No essential older text was lost; personal scenes, humor, Alice, Challenger and the ending remain unchanged. All incoming comments and callbacks remain.
+
+Corrected the arithmetic and made narrow repairs around neuronal diversity, coding, cortical plasticity and emergence. Verified the six incoming source notes and added one spike-code source; retained the 45 previously audited notes. S020 keeps the broader possibility/aboutness/consciousness wagers open. Retained the original neuron diagram and added a grayscale population-state/manifold illustration; Fable had not requested another diagram. [Adoption record](../volume-1-drafting/chapter-03-fable-adoption-2026-11-15/ADOPTION_NOTES.md) contains the exact change log, evidence scope, reader-value assessment and checks. Source folder remains read-only. No publication.
