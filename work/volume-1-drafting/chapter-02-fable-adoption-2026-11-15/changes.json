@@ -1,0 +1,236 @@
+[
+  {
+    "kind": "A",
+    "before": "Chemistry is very nearly indifferent to the order of the letters: one sequence is about as stable as another. If it weren't, if the bonding favored some orders over others, the strand would settle into its favorite and say the same thing forever, like salt.",
+    "after": "Chemistry does not dictate one order of the letters: the same backbone accepts an enormous range of sequences. If the bonding dictated the message, the strand would say the same thing forever, like salt.",
+    "reason": "Sequence-dependent stacking and pairing affect stability; a preference does not force all strands to one sequence. Preserve the underdetermination/message argument."
+  },
+  {
+    "kind": "B",
+    "before": "and everything alive (and every hurricane, for that matter) runs on the difference.",
+    "after": "and most of the biosphere (and every hurricane, for that matter) runs on the difference.",
+    "reason": "Some ecosystems use geothermal or chemical energy independently of sunlight."
+  },
+  {
+    "kind": "B",
+    "before": "The most ancient way cells take carbon from the world",
+    "after": "One candidate for the most ancient way cells take carbon from the world",
+    "reason": "Wood–Ljungdahl primacy is a hypothesis, not settled chronology."
+  },
+  {
+    "kind": "A",
+    "before": "Life shows up in the rocks within a few hundred million years of there being oceans to live in,",
+    "after": "Life shows up in the rocks within the first billion years of there being oceans to live in, perhaps much sooner,",
+    "reason": "Widely accepted life by about 3.5 Ga and liquid-water evidence by about 4.3–4.4 Ga do not establish a gap of only a few hundred million years."
+  },
+  {
+    "kind": "B",
+    "before": "An embryo is that sentence performed.",
+    "after": "An embryo is that sentence performed.[^v1-c2-copying-wager]",
+    "reason": "Keep the author’s grown-observer wager; distinguish a generative account from the origin-independent description of an identical finished object in a note."
+  },
+  {
+    "kind": "B",
+    "before": "How well it is caught sets a hard limit. Manfred Eigen showed that a genome of $L$ letters, copied with an error rate of $\\mu$ per letter, holds together only if",
+    "after": "Copying fidelity can set a limit. In Manfred Eigen's simplest model, a favored sequence of $L$ letters, copied with an error rate of $\\mu$ per letter, retains its advantage only if",
+    "reason": "Scope the threshold to the favored-sequence model, not every genome and fitness landscape."
+  },
+  {
+    "kind": "B",
+    "before": "Viruses that copy carelessly, with an error every ten thousand letters or so, have genomes about ten thousand letters long. My cells proofread down to about one in a billion and can afford three billion. The size of every living recipe is set by the quality of its repair.",
+    "after": "Many RNA viruses that copy carelessly, with an error every ten thousand letters or so, have genomes about ten thousand letters long. My cells proofread and repair down to about one in a billion and can afford three billion. How much inherited detail can persist depends on how well it is copied and repaired.",
+    "reason": "Retain the order-of-magnitude comparison; distinguish RNA viruses, proofreading plus repair, and a constraint from a universal genome-size law."
+  },
+  {
+    "kind": "B",
+    "before": "and ordinary chemistry makes both hands in equal numbers.",
+    "after": "and chemistry in an otherwise unhanded setting makes both hands in equal numbers.",
+    "reason": "Chiral catalysts, substrates and environments can bias chemical synthesis; the parity-violation edge case stays in the note."
+  },
+  {
+    "kind": "A",
+    "before": "And the search can't jump. A mutation changes a letter or two, so each generation can only try the arrangements next door to one that already works, and every stop along the way has to be alive.",
+    "after": "With single-letter mutations, the search moves locally: each generation tries arrangements next door to one that already works, and every stop along a surviving lineage has to be alive.",
+    "reason": "Mutations also include duplications and rearrangements; recombination and gene transfer make larger moves. Keep the word-ladder example in its proper scope."
+  },
+  {
+    "kind": "B",
+    "before": "Physicists call the bundle a dressed particle, and it is the only kind anyone finds in there.",
+    "after": "Physicists call the bundle a dressed particle: the response comes with what we measure.",
+    "reason": "Keep the dressed-genome analogy without implying every electronic state has a well-defined quasiparticle description; separate band mass and many-body dressing in its note."
+  },
+  {
+    "kind": "A",
+    "before": "Each split was a choice among equals, made once and everywhere, and everything since has lived downstream of it.",
+    "after": "Each split changed what could happen next, and everything since has lived downstream of it.",
+    "reason": "An electroweak vacuum orientation is gauge-equivalent, not a distinct historical choice made once everywhere. Preserve the downstream branching analogy."
+  },
+  {
+    "kind": "B",
+    "before": "Take a species. It is a sameness held in place by exchange:",
+    "after": "Take a sexually reproducing species. It is a sameness held in place by exchange:",
+    "reason": "Gene-flow account does not describe all asexual species."
+  },
+  {
+    "kind": "B",
+    "before": "Each half drifts on its own, and one day the two can no longer breed with each other.",
+    "after": "Each half evolves on its own, and the two may become unable to breed with each other.",
+    "reason": "Isolation does not guarantee reproductive incompatibility; selection as well as drift contributes."
+  },
+  {
+    "kind": "B",
+    "before": "where proteins are laid down once and never replaced,",
+    "after": "where some proteins remain for a lifetime with little or no replacement,",
+    "reason": "The long-lived fractions support age-related racemization; not every protein in these tissues has zero turnover."
+  },
+  {
+    "kind": "B",
+    "before": "Animals as different as Marty and me share most of our body-building genes.",
+    "after": "Animals as different as Marty and me share much of our body-building toolkit.",
+    "reason": "Deep homology supports a conserved regulatory toolkit, not an unspecified numerical majority of all body-building genes."
+  },
+  {
+    "kind": "A",
+    "before": "Nick Lane and William Martin have argued that a bacterium can't afford a large genome because it can't power one: it makes its energy at its outer membrane, and a bigger cell has relatively less membrane to go around.",
+    "after": "Nick Lane and William Martin have argued that bacterial genome expansion runs into a power budget: respiratory energy is made at the cell membrane, and a bigger cell has relatively less membrane to go around.",
+    "reason": "Respiration uses the cytoplasmic membrane, not the Gram-negative outer membrane; their hypothesis concerns energetic scaling, not an absolute inability to have large genomes."
+  },
+  {
+    "kind": "B",
+    "before": "and by their estimate has something like two hundred thousand times more energy to spend per gene.",
+    "after": "and in their comparison with a scaled-up bacterium has something like two hundred thousand times more energy to spend per gene.",
+    "reason": "The 200,000-fold number is the authors’ scaling comparison, not a measured universal eukaryote-to-bacterium ratio."
+  },
+  {
+    "kind": "B",
+    "before": "noticed that life's largest steps all have this shape:",
+    "after": "noticed that many of life's largest steps share this shape:",
+    "reason": "The authors’ transition list also includes changes in information transmission not reducible to independent replicators joining a larger unit."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-polanyi]: Michael Polanyi, “Life’s Irreducible Structure,” *Science* 160 (1968): 1308–1312, argues that a sequence fixed by bonding energies could carry no information. Neighboring bases do differ somewhat in stacking energy, which is why “very nearly indifferent” is the accurate phrase; the differences are small compared with the bonds that hold the backbone together and do not dictate sequence.",
+    "after": "[^v1-c2-polanyi]: Michael Polanyi, [“Life’s Irreducible Structure”](https://pubmed.ncbi.nlm.nih.gov/5651890/), *Science* 160 (1968): 1308–1312, on sequence as a constraint not specified by the general bonding rules. “Physics has no opinion” means that those rules do not uniquely dictate a message, not that all sequences have equal energies or escape physics. Base pairing and stacking are sequence-dependent: John SantaLucia Jr., [“A unified view of polymer, dumbbell, and oligonucleotide DNA nearest-neighbor thermodynamics”](https://doi.org/10.1073/pnas.95.4.1460), *PNAS* 95 (1998): 1460–1465.",
+    "reason": "Verify Polanyi and replace the inaccurate energetic-indifference defense with measured sequence-dependent thermodynamics."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-photons]: Roger Penrose, *The Emperor’s New Mind* (1989), ch. 7; Charles H. Lineweaver and Chas A. Egan, “Life, gravity and the second law of thermodynamics,” *Physics of Life Reviews* 5 (2008): 225–242. The ratio follows from the mean energy of a thermal photon being proportional to temperature: about 5,800 K for sunlight against roughly 255–290 K for the Earth’s outgoing radiation, depending on the level considered. Geothermal and chemical gradients, including those at hydrothermal vents, are a much smaller, separate budget.",
+    "after": "[^v1-c2-photons]: Charles H. Lineweaver and Chas A. Egan, [“Life, gravity and the second law of thermodynamics”](https://www.mso.anu.edu.au/~charley/papers/LineweaverEgan2008v2.pdf), *Physics of Life Reviews* 5 (2008): 225–242, equations 6–7 and their discussion; see also Roger Penrose, *The Emperor’s New Mind* (1989), ch. 7. For a thermal spectrum the mean photon energy is proportional to temperature. Comparing absorbed sunlight near 5,800 K with outgoing thermal radiation near an effective 255 K gives roughly twenty photons out per photon absorbed, at approximate energy balance; reflected sunlight is excluded. “Twenty ways” pictures the redistribution, not an exact count of microstates. The Earth can temporarily retain energy, as it does while warming. Geothermal and chemical gradients supply a smaller, separate budget.",
+    "reason": "Verify the thermal estimate and preserve the vivid entropy picture with energy-balance, reflection and photon/statistical-state limits in the note."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-benard]: Henri Bénard’s experiments date to 1900; Lord Rayleigh gave the theory of the convective threshold in 1916. Ilya Prigogine received the 1977 Nobel Prize in Chemistry for work on dissipative structures; see G. Nicolis and I. Prigogine, *Self-Organization in Nonequilibrium Systems* (1977). The statement that life is the only dissipative structure keeping a heritable description of itself is the author’s gloss. Whether a general thermodynamic principle favors such structures is debated.",
+    "after": "[^v1-c2-benard]: Bénard’s thin-layer experiments date to 1900; Lord Rayleigh’s [1916 analysis](https://fig.if.usp.br/~marchett/fluidos/convection_rayleigh-1916.pdf), *Philosophical Magazine* 32: 529–546, treats buoyancy-driven convection. A free surface can add surface-tension-driven flow (Bénard–Marangoni convection); the pattern depends on the boundaries and fluid. Ilya Prigogine received the [1977 Nobel Prize in Chemistry](https://www.nobelprize.org/prizes/chemistry/1977/summary/) for nonequilibrium thermodynamics, particularly dissipative structures. G. Nicolis and I. Prigogine, *Self-Organization in Nonequilibrium Systems* (1977), develops the framework. The recipe claim is the author’s gloss; neither the example nor a faster heat flux proves a universal principle selecting life.",
+    "reason": "Distinguish the two convection mechanisms and source the historical/framework claims without changing the narrative analogy."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-acetyl]: William Martin and Michael J. Russell, “On the origin of biochemistry at an alkaline hydrothermal vent,” *Philosophical Transactions of the Royal Society B* 362 (2007): 1887–1925, on the acetyl-CoA (Wood–Ljungdahl) pathway and its iron–nickel–sulfur enzymes. That this pathway is the most ancient route of carbon fixation is a widely held but not universal view, and the resemblance between enzyme clusters and vent minerals is suggestive, not a demonstrated line of descent.",
+    "after": "[^v1-c2-acetyl]: William Martin and Michael J. Russell, [“On the origin of biochemistry at an alkaline hydrothermal vent”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2442388/), *Philosophical Transactions of the Royal Society B* 362 (2007): 1887–1925, on the acetyl-CoA (Wood–Ljungdahl) pathway, hydrogen-dependent carbon fixation and iron–nickel–sulfur catalysts. Its proposed antiquity and the mineral-to-enzyme continuity are hypotheses, not a demonstrated genealogy. Thermodynamic favorability also does not remove the need for suitable catalysts and concentrations.",
+    "reason": "Link the original vent proposal and maintain its hypothetical status."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-early]: Charles H. Lineweaver and Tamara M. Davis, “Does the Rapid Appearance of Life on Earth Suggest that Life Is Common in the Universe?”, *Astrobiology* 2 (2002): 293–304; David S. Spiegel and Edwin L. Turner, “Bayesian analysis of the astrobiological implications of life’s early emergence on Earth,” *PNAS* 109 (2012): 395–400, for the selection effect. Evidence of life is widely accepted by about 3.5 billion years ago, with older claims contested; zircons suggest liquid water by about 4.3 billion years ago.",
+    "after": "[^v1-c2-early]: Charles H. Lineweaver and Tamara M. Davis, “Does the Rapid Appearance of Life on Earth Suggest that Life Is Common in the Universe?”, *Astrobiology* 2 (2002): 293–304; David S. Spiegel and Edwin L. Turner, [“Bayesian analysis of the astrobiological implications of life’s early emergence on Earth”](https://arxiv.org/abs/1107.3835), *PNAS* 109 (2012): 395–400. The latter shows why the inference depends on observer selection and prior assumptions. Widely accepted evidence of life by about 3.5 billion years ago and evidence suggesting liquid water by about 4.3–4.4 billion years ago leave a broad interval; older life claims could shorten it. Neither date identifies the first habitable day or the first organism. Our presence does not establish that all observers require the same evolutionary delay.",
+    "reason": "Correct the unsupported narrow emergence interval and retain the explicit selection-effect qualification."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-library]: Dawkins makes the point about possible people in the passage that follows the epigraph. For a genome of about 3.1 billion letters, $4^{3.1\\times10^{9}}\\approx10^{1.9\\times10^{9}}$. The estimate of $10^{80}$ atoms is an order-of-magnitude figure for the observable universe. Daniel C. Dennett calls the space of all possible genomes the “Library of Mendel” in *Darwin’s Dangerous Idea* (1995), ch. 5.",
+    "after": "[^v1-c2-library]: Dawkins makes the possible-people point in the passage following the epigraph. For about 3.1 billion letters, $4^{3.1\\times10^{9}}=10^{1.866\\ldots\\times10^{9}}$: nearly two billion decimal digits, counting all strings, not just viable genomes. Similarly, $20^{100}=10^{130.103\\ldots}$. The $10^{80}$ atoms figure is an order-of-magnitude comparison for the observable universe. Daniel C. Dennett calls the genome library the “Library of Mendel” in *Darwin’s Dangerous Idea* (1995), ch. 5. Raw two-bit encoding of a haploid genome takes roughly 0.8 gigabytes; sequencing files and the cellular information needed to interpret DNA are separate matters.",
+    "reason": "Check both combinatorial calculations and distinguish encoded sequence from biological completeness or sequencing-file size."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-eigen]: Manfred Eigen, “Selforganization of matter and the evolution of biological macromolecules,” *Naturwissenschaften* 58 (1971): 465–523. The threshold is $L_{\\max}\\approx\\ln\\sigma/\\mu$, where $\\sigma$ is the selective advantage of the best sequence over the average of its mutants; the text drops the logarithmic factor. The model is idealized, and real limits on genome size involve other factors as well. RNA-virus mutation rates run from roughly $10^{-6}$ to $10^{-4}$ per letter per replication.",
+    "after": "[^v1-c2-eigen]: Manfred Eigen, [“Selforganization of matter and the evolution of biological macromolecules”](https://pubmed.ncbi.nlm.nih.gov/4942363/), *Naturwissenschaften* 58 (1971): 465–523; his [“Error catastrophe and antiviral strategy”](https://pmc.ncbi.nlm.nih.gov/articles/PMC129678/) (2002) revisits the mechanism. In a simple favored-sequence model, neglecting back mutation, faithful-copy probability is $Q=(1-\\mu)^L$. A reproductive advantage $\\sigma$ survives copying losses when $\\sigma Q>1$, giving $L<\\ln\\sigma/[-\\ln(1-\\mu)]\\approx\\ln\\sigma/\\mu$. This is not a universal genome-size ceiling: fitness landscapes, recombination and neutral variation matter. For RNA-virus rates and their measurement units, see Rafael Sanjuán et al., [“Viral Mutation Rates”](https://doi.org/10.1128/JVI.00694-10), *Journal of Virology* 84 (2010): 9733–9748. The one-in-a-billion cellular figure includes proofreading and repair; see [“DNA Replication Mechanisms”](https://www.ncbi.nlm.nih.gov/books/NBK26850/). Three billion is the approximate haploid human sequence length, not a deduction from Eigen’s formula.",
+    "reason": "Verify the threshold algebra, model scope and replication comparisons; prevent the new figure from suggesting a universal biological bound."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-chirality]: Glycine has no handedness, and a few right-handed amino acids occur in bacterial cell walls and elsewhere. On how a small or chance imbalance can amplify itself, see F. C. Frank, “On spontaneous asymmetric synthesis,” *Biochimica et Biophysica Acta* 11 (1953): 459–463. The weak nuclear force does make the two hands differ in energy, by an amount most researchers consider far too small to have decided the matter; the origin of life’s handedness remains open.",
+    "after": "[^v1-c2-chirality]: Glycine is achiral, and D-amino acids occur in bacterial cell walls and elsewhere. F. C. Frank, [“On spontaneous asymmetric synthesis”](https://pubmed.ncbi.nlm.nih.gov/13105666/), *Biochimica et Biophysica Acta* 11 (1953): 459–463, models amplification of an initial imbalance. The equal-hands picture assumes an otherwise achiral environment; chiral catalysts and substrates can favor one hand. The weak interaction introduces tiny parity-violating energy differences, whose role in biological homochirality remains unsettled. The historical origin of life’s preference is still open.",
+    "reason": "Verify the amplification model without claiming an established explanation of homochirality."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-frozen]: F. H. C. Crick, “The origin of the genetic code,” *Journal of Molecular Biology* 38 (1968): 367–379; Murray Gell-Mann, *The Quark and the Jaguar* (1994), on frozen accidents. Mitochondria and some organisms use slightly variant codes. That biology is “mostly address” is the author’s framing in Chapter 1’s terms.",
+    "after": "[^v1-c2-frozen]: F. H. C. Crick, [“The origin of the genetic code”](https://pubmed.ncbi.nlm.nih.gov/4887876/), *Journal of Molecular Biology* 38 (1968): 367–379; Murray Gell-Mann, *The Quark and the Jaguar* (1994), and his [“What is complexity?”](https://www.its.caltech.edu/~matilde/GellMannComplexity.pdf), on frozen accidents. Mitochondria and some organisms use variant codes. “Choices made once” compresses a history that could include selection, gradual code evolution and early exchange, not a demonstrated single neutral lottery. That biology is “mostly address” is the author’s framing, not a calculated proportion.",
+    "reason": "Verify the attributions and keep the historical address thesis distinct from a literal one-event origin story."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-proteinspace]: John Maynard Smith, “Natural Selection and the Concept of a Protein Space,” *Nature* 225 (1970): 563–564. Recombination, duplication and insertion make larger moves than single-letter changes, but each viable result still neighbors a viable parent. Stuart Kauffman’s phrase for the reachable neighbors is the “adjacent possible”: *Investigations* (2000).",
+    "after": "[^v1-c2-proteinspace]: John Maynard Smith, [“Natural Selection and the Concept of a Protein Space”](https://doi.org/10.1038/225563a0), *Nature* 225 (1970): 563–564. WORD → WORE → GORE → GONE → GENE changes one letter at each step. It illustrates local mutational access, not a rule forbidding larger evolutionary moves: recombination, duplication, rearrangement and horizontal transfer change what counts as an accessible neighbor. Stuart Kauffman develops the “adjacent possible” in *Investigations* (2000).",
+    "reason": "Verify the word ladder and prevent its geometry from becoming a false universal account of mutation."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-neutral]: Peter Schuster et al., “From sequences to shapes and back: a case study in RNA secondary structures,” *Proceedings of the Royal Society B* 255 (1994): 279–284; Andreas Wagner, *Arrival of the Fittest* (2014). Neutral networks are best established for RNA structures and in computational models; how far they extend for proteins and regulatory circuits is an active research question.",
+    "after": "[^v1-c2-neutral]: Peter Schuster, Walter Fontana, Peter F. Stadler and Ivo L. Hofacker, [“From sequences to shapes and back: a case study in RNA secondary structures”](https://pubmed.ncbi.nlm.nih.gov/7517565/), *Proceedings of the Royal Society B* 255 (1994): 279–284; Andreas Wagner, *Arrival of the Fittest* (2014). Different sequences can share a fold or retain a function, opening connected neutral routes in suitable sequence landscapes. The cited study models RNA secondary structure; it does not establish that every protein or function has a traversable neutral network.",
+    "reason": "Confirm the study and keep the reach of its RNA model explicit."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-dressed]: The quasiparticle concept is due to Lev Landau; see Neil W. Ashcroft and N. David Mermin, *Solid State Physics* (1976), ch. 17. An electron moving with its accompanying lattice distortion is called a polaron. The comparison of a genome and its expression to a dressed particle is the author’s analogy.",
+    "after": "[^v1-c2-dressed]: Neil W. Ashcroft and N. David Mermin, *Solid State Physics* (1976), ch. 17, explains Landau’s quasiparticle picture. Band effective mass already arises for an electron in a periodic potential; additional many-body interactions dress its behavior further. An electron accompanied by lattice distortion is a polaron. Such effective descriptions have regimes of validity; “dressed” does not mean that every electronic state is a stable little object. The genome–expression comparison is the author’s analogy, not an equivalence of biological and quantum dynamics.",
+    "reason": "Distinguish band mass from many-body dressing while preserving the suggestive biological comparison."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-niche]: F. John Odling-Smee, Kevin N. Laland and Marcus W. Feldman, *Niche Construction: The Neglected Process in Evolution* (2003); for the dispute over how much it changes evolutionary theory, see Kevin Laland et al. and Gregory A. Wray et al., “Does evolutionary theory need a rethink?”, *Nature* 514 (2014): 161–164.",
+    "after": "[^v1-c2-niche]: F. John Odling-Smee, Kevin N. Laland and Marcus W. Feldman, *Niche Construction: The Neglected Process in Evolution* (2003); see Laland, Matthews and Feldman’s [“An introduction to niche construction theory”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4922671/) (2016). For the dispute about its theoretical implications, see Kevin Laland et al. and Gregory A. Wray et al., [“Does evolutionary theory need a rethink?”](https://www.nature.com/articles/514161a), *Nature* 514 (2014): 161–164. Organisms changing selection conditions is an empirical foothold; the broader field/ripple interpretation remains this book’s.",
+    "reason": "Add accessible author-level evidence for niche construction and distinguish observation from the larger interpretation."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-hybrid]: N. H. Barton and G. M. Hewitt, “Analysis of hybrid zones,” *Annual Review of Ecology and Systematics* 16 (1985): 113–148, on \"tension zones\" held in place by selection against hybrids and dispersal; the classic cases include the fire-bellied toads *Bombina* and the grasshopper *Chorthippus parallelus*. The reaction–diffusion equation for such a zone has the same form as the one for a wall between two phases. Reading species as domains and speciation as symmetry breaking is this chapter's analogy, not the field's. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c2-hybrid]: N. H. Barton, [“The dynamics of hybrid zones”](https://doi.org/10.1038/hdy.1979.87), *Heredity* 43 (1979): 341–359, especially pp. 342–345; N. H. Barton and G. M. Hewitt, “Analysis of hybrid zones,” *Annual Review of Ecology and Systematics* 16 (1985): 113–148. In a one-locus model with constant dispersal and symmetric disadvantage to heterozygotes, $\\partial_t p=D\\partial_{xx}p+s p(1-p)(2p-1)$. Setting $u=2p-1$ gives $\\partial_t u=D\\partial_{xx}u+(s/2)(u-u^3)$, the familiar scalar double-well reaction–diffusion form, with a tanh-shaped interface. This is a genuine mathematical bridge, not a claim that all magnetic walls or species follow one equation. Hybrid zones can also move, and not all arise from hybrid disadvantage. Reading speciation as symmetry breaking is the author’s extension; biological alternatives need not be equally fit, and a Higgs field’s gauge-equivalent orientations are not distinct historical choices.",
+    "reason": "Verify the useful mathematical connection explicitly and remove the from-memory tag; bound the physics/biology analogy without erasing it."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-racemization]: P. E. Hare and P. H. Abelson, “Racemization of amino acids in fossil shells,” *Carnegie Institution of Washington Year Book* 66 (1968): 526–528; Jeffrey L. Bada, “Amino acid racemization dating of fossil bones,” *Annual Review of Earth and Planetary Sciences* 13 (1985): 241–268; on aspartic acid in teeth and the eye lens, P. M. Helfman and J. L. Bada, “Aspartic acid racemisation in dentine as a measure of ageing,” *Nature* 262 (1976): 279–281. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c2-racemization]: Jeffrey L. Bada, [“Amino acid racemization dating of fossil bones”](https://doi.org/10.1146/annurev.ea.13.050185.001325), *Annual Review of Earth and Planetary Sciences* 13 (1985): 241–268; P. M. Helfman and J. L. Bada, [“Aspartic acid racemisation in dentine as a measure of ageing”](https://doi.org/10.1038/262279b0), *Nature* 262 (1976): 279–281. For the lens, a separate source is P. J. van den Oetelaar and H. J. Hoenders, [“Racemization of aspartyl residues in proteins from normal and cataractous human lenses”](https://pubmed.ncbi.nlm.nih.gov/2924808/), *Experimental Eye Research* 48 (1989): 209–214. Rates depend on temperature, preservation and molecular context; age estimates require calibration. Racemization already occurs in living tissues, and residues in proteins need not reach a simple 50:50 mixture. “Death is the symmetry coming back” is the author’s reading of lost maintenance, not a literal equilibrium phase transition or a claim that every dead organism rapidly racemizes.",
+    "reason": "Correct the teeth-only citation used for the lens, replace the unverified shell citation with the checked review, and preserve the death/symmetry reading with its limits."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-deephomology]: Georg Halder, Patrick Callaerts and Walter J. Gehring, “Induction of ectopic eyes by targeted expression of the eyeless gene in Drosophila,” *Science* 267 (1995): 1788–1792, including the experiment with the mouse gene Pax6; Neil Shubin, Cliff Tabin and Sean Carroll, “Deep homology and the origins of evolutionary novelty,” *Nature* 457 (2009): 818–823. Shared regulatory genes do not mean the eyes themselves descend from one ancestral eye.",
+    "after": "[^v1-c2-deephomology]: Georg Halder, Patrick Callaerts and Walter J. Gehring, [“Induction of ectopic eyes by targeted expression of the eyeless gene in Drosophila”](https://pubmed.ncbi.nlm.nih.gov/7892602/), *Science* 267 (1995): 1788–1792, including the mouse Pax6 experiment; Callaerts, Halder and Gehring, [“PAX-6 in Development and Evolution”](https://web.stanford.edu/class/cs379c/archive/2012/suggested_reading_list/supplements/documents/CallaertsetalARN-97.pdf), *Annual Review of Neuroscience* 20 (1997): 483–532. Neil Shubin, Cliff Tabin and Sean Carroll, “Deep homology and the origins of evolutionary novelty,” *Nature* 457 (2009): 818–823, develops the broader distinction. Shared regulators do not imply one ancestral eye of the same form, nor that regulatory timing is the only evolutionary difference. The host tissue supplies the downstream machinery.",
+    "reason": "Verify the conserved switch/host-program distinction and avoid treating deep homology as identical anatomical ancestry."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-energy]: Nick Lane and William Martin, “The energetics of genome complexity,” *Nature* 467 (2010): 929–934. For a critique of the calculation, see Michael Lynch and Georgi K. Marinov, “The bioenergetic costs of a gene,” *PNAS* 112 (2015): 15690–15695. Some bacteria form simple multicellular structures; complex bodies with differentiated organs are known only among eukaryotes.",
+    "after": "[^v1-c2-energy]: Nick Lane and William Martin, [“The energetics of genome complexity”](https://nick-lane.net/wp-content/uploads/2016/12/Lane-Martin-Nature-hypothesis.pdf), *Nature* 467 (2010): 929–934, especially their scaling calculation. The roughly 200,000-fold figure compares a eukaryotic arrangement with a bacterium hypothetically enlarged to comparable size; it is not a universal measured ratio between ordinary cells. Michael Lynch and Georgi K. Marinov, [“The bioenergetic costs of a gene”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4697398/), *PNAS* 112 (2015): 15690–15695, challenges the proposed energetic barrier. Bacteria can have extensive internal membranes and form multicellular structures. Complex bodies with differentiated organs are known among eukaryotes; this association alone does not settle why that evolutionary transition happened.",
+    "reason": "Specify what the large ratio compares and retain the live scientific disagreement."
+  },
+  {
+    "kind": "B",
+    "before": "[^v1-c2-transitions]: John Maynard Smith and Eörs Szathmáry, *The Major Transitions in Evolution* (1995). Their list also includes the origin of the genetic code, of sex and of language. The link to the line-graph picture of Chapter Φ is the author’s.",
+    "after": "[^v1-c2-transitions]: John Maynard Smith and Eörs Szathmáry, *The Major Transitions in Evolution* (1995); Eörs Szathmáry and John Maynard Smith, [“The major evolutionary transitions”](https://doi.org/10.1038/374227a0), *Nature* 374 (1995): 227–232. Integration of formerly independent replicators recurs across many transitions, but their list also includes the genetic code, sex and language. The link to Chapter Φ’s line graph is the author’s proposal; a graph transformation alone does not supply coordinated reproduction, conflict control or a new evolutionary individual.",
+    "reason": "Verify the transition framework while preserving the cross-domain relational-individual proposal."
+  },
+  {
+    "kind": "B",
+    "before": "Chapter 1 said the stretching of space wound the clock, and left a hot star in a cold sky. This is where the winding gets spent.",
+    "after": "Chapter 1 said the stretching of space wound the clock, and left a hot star in a cold sky. This is where the winding gets spent.\n\n<!-- AI-assisted diagram, 2026-11-15: solar energy balance and photon-number/entropy distinction. -->\n![Sunlight and outgoing heat carry roughly the same energy at approximate balance, but in different numbers of photons. Cooler thermal radiation spreads that energy among many more photons and exports more entropy. This thermal estimate excludes reflected sunlight; it does not trace individual photons through a food chain.](assets/02-chapter/sunlight-entropy.svg){#fig-c2-sunlight-entropy width=95%}",
+    "reason": "Add the requested pedagogic illustration of the new energy/entropy mechanism."
+  },
+  {
+    "kind": "B",
+    "before": "How much inherited detail can persist depends on how well it is copied and repaired.",
+    "after": "How much inherited detail can persist depends on how well it is copied and repaired.\n\n<!-- AI-assisted diagram, 2026-11-15: illustrative favored-sequence model, not a universal genome-size bound. -->\n![Copying can consume a reproductive advantage. Here the favored sequence reproduces twice as fast, but only a fraction Q of its copies remain faithful. Once 2Q falls below the background rate of one, that sequence cannot maintain its advantage in this simple model. The curve assumes independent copying errors and negligible back mutation.](assets/02-chapter/copying-fidelity.svg){#fig-c2-copying-fidelity width=90%}",
+    "reason": "Make the model’s mechanism and scope visible instead of leaving an unexplained genome-length bound."
+  },
+  {
+    "kind": "B",
+    "before": "<!-- NEW SOURCE NOTES, AI draft 2026-11-13; given from memory, to be verified before print. -->",
+    "after": "<!-- Source verification updated 2026-11-15: work/volume-1-drafting/chapter-02-fable-adoption-2026-11-15/reference-audit.json. The historical draft/source markers are retained; current verification and its limits are recorded in that audit. -->\n\n<!-- NEW SOURCE NOTES, AI draft 2026-11-13; given from memory, to be verified before print. -->",
+    "reason": "Record resolution without erasing the source-note provenance marker."
+  }
+]

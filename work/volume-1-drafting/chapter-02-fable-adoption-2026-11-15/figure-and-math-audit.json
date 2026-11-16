@@ -1,0 +1,34 @@
+{
+  "figures": [
+    {
+      "name": "copying-fidelity.svg",
+      "sha256": "2194eec86ba088e978183021d897a4e41ca82268f9350ccbc0133b9a3f04c3f3",
+      "viewBox": "0 0 1000 580",
+      "source": "Original grayscale teaching diagram, Codex, 2026-11-15; equations and scope matched to cited sources.",
+      "visual_verification": "Headless Chrome native-size preview inspected. Quick Look cropped the preview and was not used for final layout approval."
+    },
+    {
+      "name": "sunlight-entropy.svg",
+      "sha256": "c8d14c73720b8f6d89ba286e0d0fc52afe805077fa99b029f1298a572ed9bd57",
+      "viewBox": "0 0 1000 500",
+      "source": "Original grayscale teaching diagram, Codex, 2026-11-15; equations and scope matched to cited sources.",
+      "visual_verification": "Headless Chrome native-size preview inspected. Quick Look cropped the preview and was not used for final layout approval."
+    }
+  ],
+  "checks": {
+    "protein_log10": 130.10299956639813,
+    "genome_log10": 1866385973.1166835,
+    "haploid_raw_bytes": 775000000.0,
+    "solar_photon_ratio_5800_to_255": 22.745098039215687,
+    "favored_model_crossing_muL_sigma2": 0.6931471805599453,
+    "at_crossing_sigma_Q": 1.0,
+    "word_ladder_Hamming_distances": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "hybrid_transform": "With u=2p\u22121, 2s p(1\u2212p)(2p\u22121)=(s/2)(u\u2212u^3); diffusion term becomes D u_xx."
+  },
+  "existing_gene_expression_unchanged_sha256": "91e9a7df33780a593c511d29fa846ff8d0ed92fc97336205f0e6c69a4f4b40d3"
+}

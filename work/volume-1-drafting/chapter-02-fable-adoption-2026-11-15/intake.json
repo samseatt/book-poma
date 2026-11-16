@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-15",
+  "unit_id": "v1-2-chapter",
+  "base_commit": "e4640cd73faff0ef86780e088ce728414e535bbc",
+  "inputs": {
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/02-chapter.md": "b73df87c2d61a84ecb3e5506dff9b447ea5ab33da8b3544fb3d901b894ee8260",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md": "4dddeff4ac7334c0b0cb176d75560257d205d7ac17e3a67a53d8d7d0d1d95d8a",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "9ee09a10d39bbeb01d5c0ae76eb40d38184d8c2022b3959478f000d25e7c13e0",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "9604f9494584ea0bfd2ac2feb5d575f92a0b1dbe6aacc4900fdb9acd61e5ff96",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "9cfbacb212408b4db7e8025f3182fa267d5ed64825ca1647222965e7b2aef921",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/02-chapter/gene-expression.svg": "91e9a7df33780a593c511d29fa846ff8d0ed92fc97336205f0e6c69a4f4b40d3"
+  },
+  "counts": {
+    "canonical_words": 10716,
+    "incoming_words": 14402,
+    "merged_words": 15096,
+    "prior_notes": 45,
+    "merged_notes": 64
+  },
+  "protected": {
+    "incoming_comments": true,
+    "canonical_comments": true,
+    "opening_verbatim": true,
+    "closing_sections_verbatim": true,
+    "old_notes_retained": true
+  }
+}

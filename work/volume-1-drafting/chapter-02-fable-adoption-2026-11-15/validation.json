@@ -1,0 +1,26 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
+  "sha256": "85fa7659b4f0844375964d6dceb50b925c1bd022ab9eadc900dcf6d67a1ecc8f",
+  "defined_notes": 64,
+  "note_references": 64,
+  "parsed_notes": 64,
+  "html_note_backlinks": 64,
+  "display_equations": 3,
+  "bookwide_note_collisions": [],
+  "warnings": [
+    "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+  ],
+  "errors": [],
+  "passed": true,
+  "command": "python3 work/editorial-tools/check_manuscript.py manuscripts/volume-1/02-chapter.md",
+  "observed_on": "2026-11-15",
+  "additional_checks": {
+    "all_prior_and_incoming_HTML_comments_retained": true,
+    "source_tree_unchanged": true,
+    "existing_gene_expression_unchanged": true,
+    "new_SVGs_visually_reviewed": true,
+    "new_SVG_XML_checked": true,
+    "numerical_checks": "figure-and-math-audit.json",
+    "opening_and_closing_protection": "intake.json"
+  }
+}
