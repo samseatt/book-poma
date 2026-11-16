@@ -14,7 +14,7 @@ INTERLUDE 4
 
 Within months of my arrival in the New World, God created Windows, and saw that it was almost good. Or at least Bill Gates did, slipping the first version of a graphical world on top of MS-DOS and announcing to the machines: *You may now have a personality*, especially if one could bestow the title of personality on a series of immediate, catastrophic existential crises.[^v1-i4-windows] "And on the next business day," said Bill, "let there be rectangles." And there were rectangles (flat, flickery, vaguely nauseating), and he saw that they were... fine. Fine for now.
 
-That same autumn, Bjarne Stroustrup of Bell Labs published *The C++ Programming Language*. October brought the book; November brought Windows. Gates was putting a new face on the machine while Stroustrup was giving programmers a more ambitious way to arrange its insides. C++ brought classes and other organizational tools to C-style systems programming, with no requirement that every program become an object-oriented sermon.[^v1-i4-cpp]
+That same autumn, Bjarne Stroustrup of Bell Labs published *The C++ Programming Language*. October brought the book; November brought Windows. Gates was putting a new face on the machine while Stroustrup was giving programmers a more ambitious way to arrange its insides. C++ brought classes and other organizational tools to C-style systems programming, with no requirement that every program become an object-oriented pantheon.[^v1-i4-cpp]
 
 For most people, these were industry developments. For me, they were trumpets announcing my next professional reincarnation: the age of software, the psyche of the machine, the invisible supervisor that would one day outrank gods, parents and academic advisors.
 
