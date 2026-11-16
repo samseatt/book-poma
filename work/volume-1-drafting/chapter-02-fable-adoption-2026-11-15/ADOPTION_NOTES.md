@@ -45,3 +45,10 @@ One especially useful foothold emerged: under simple one-locus assumptions, Bart
 ## Validation and provenance
 
 `intake.json` records source/baseline hashes and the prior commit. `figure-and-math-audit.json` records image hashes and numerical checks. `validation.json` records the native Markdown/Pandoc audit. Only the chapter, its two new assets, these editorial records, its manifest hash, V1-040 and S018 belong to this adoption. Nothing was published.
+
+
+## Follow-up: the ribosome’s right-hand input
+
+**15 November 2026, author-identified clarity fix.** The incoming arrow was intended to represent amino-acid-bearing tRNAs, but its line began in empty space beside an unconnected label. Replaced that label with a distinct **charged tRNAs (amino acids attached)** box and drew one continuous path from its right edge into the ribosome. Also aligned the mRNA, RNA-processing and translation arrow endpoints with their actual boxes. The rest of the diagram, coding example and manuscript text are unchanged. This is a local B-class visual precision repair, not a new biological claim.
+
+Checked the existing [NHGRI tRNA source](https://www.genome.gov/genetics-glossary/Transfer-RNA-tRNA), SVG structure and arrow endpoints; visually inspected the browser-rendered result at native dimensions. Before asset SHA-256: `91e9a7df33780a593c511d29fa846ff8d0ed92fc97336205f0e6c69a4f4b40d3`. After: `24f0d8f84d441987d35c74033a0ebc06fb0ce38e09ec8a03a410b056caadb73c`. The earlier adoption audit remains an accurate record of the unchanged figure at that earlier milestone.
