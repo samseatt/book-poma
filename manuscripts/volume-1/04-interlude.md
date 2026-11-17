@@ -107,7 +107,7 @@ Patrick found the bill for my abstraction at the bottom of the third loop. I had
 
 ### The Quiet Tyrants Beneath Our Lives
 
-Calling Windows an operating system is more a gesture of courtesy. It is, in truth, a benevolent autocrat with a user-friendly smile. UNIX is the older, stricter variety: think Kant with an obtuse command line.
+Calling Windows an operating system is more a gesture of courtesy. It is, in truth, a benevolent autocrat with a user-friendly smile. UNIX is the older, stricter variety: think Kant with an even more obtuse command line.
 
 Bart Miller's class lived underneath such programs, in the operating system, which coordinates work that wants the same machine. A scheduler decides which thread runs next; virtual memory gives each process a private-looking address space, mapped page by page onto shared physical memory through a table the process never sees.[^v1-i4-os] Hold on to those pages. They will return, unexpectedly, inside the machines that serve language models.
 
@@ -250,7 +250,7 @@ As I remember it, that was the entire instruction. It traveled with me like a re
 
 The strange trio kept moving. We hurried past Rushmore; Yellowstone and Jackson Hole also put on a good face. Idaho stayed private for hours, which was quite decent of her. Utah, Nevada, and I'll stop here, before it starts to sound like a Beach Boys song gone inland, a tour bus taking the long way back to Southern California. Relax, Sammy: all you've got is an unplugged boombox. Yet somewhere in that emptiness, we had become the couriers of our shared past, escorting our collective soundtrack toward the next stage of our engineering futures, one hop at a time, before any of us reached our time-to-live.
 
-And finally, Los Angeles, where psychology became sociology at the scale of a city. Inside USC's classrooms, we would soon diagram the seven layers of the OSI networking reference model. Outside, a city was running a network protocol of its own, with emotional packets, dropped acknowledgments and escalating retransmissions. I had carried two lessons across the last state line, along with the boombox: every bug is an invitation to understand why something misfired before judging the misfire, and every line of code, like every human choice, is a moral act disguised as syntax.
+Finally, our little deuce coupe reached Los Angeles, where psychology became sociology at the scale of a city. That was no Kokomo. Inside USC's classrooms, we would soon diagram the seven layers of the OSI networking reference model. Outside, a city was running a network protocol of its own, with emotional packets, dropped acknowledgments and escalating retransmissions. I had carried two lessons across the last state line, along with the boombox: every bug is an invitation to understand why something misfired before judging the misfire, and every line of code, like every human choice, is a moral act disguised as syntax.
 
 ![](../assets/shared/separator.png)
 
