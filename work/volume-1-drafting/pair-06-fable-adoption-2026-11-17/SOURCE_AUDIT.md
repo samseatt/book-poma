@@ -1,0 +1,349 @@
+# Source audit — Chapter 6 and Interlude 6
+
+Reviewed 17 November 2026. Stable native footnotes remain self-contained. This record distinguishes checked mechanisms, primary-source excerpts, bibliographic corroboration, and outstanding edition-level locators. It does not certify private recollections or assert that all cited books were read in full.
+
+## Specific remaining locator tasks
+
+- **v1-c6-heidegger**: Passage and meaning checked in Groth translation, PDF p.35 (GA9 p.342). Groth uses tender, not shepherd. Familiar epigraph retained; exact older English translation/edition still needs a final print locator. Do not attribute the exact English wording to Groth.
+- **v1-c6-sectors**: Retained inherited historical attribution: Fisher 1935, Clark 1940, Fourastie 1949. General three-sector distinction is sound; original editions/page locators not inspected in this pass.
+- **v1-c6-whitworth**: 1841 ICE paper corroborated in historical reprint/search evidence; broad standardization claim retained. Hounshell book not read in full; edition/page locator for Whitney myth remains a print-level task.
+- **v1-c6-container**: Publisher and book excerpt confirm date, route and 58 containers. Loading-cost comparison is the familiar Levinson account; exact original-page locator not recovered in this pass. Costs are ship loading, not total freight.
+
+## Note-by-note evidence scope
+
+### v1-c6-heidegger
+
+Passage and meaning checked in Groth translation, PDF p.35 (GA9 p.342). Groth uses tender, not shepherd. Familiar epigraph retained; exact older English translation/edition still needs a final print locator. Do not attribute the exact English wording to Groth.
+
+Martin Heidegger, "Letter on Humanism" (written 1946, first published 1947). The epigraph uses the familiar English rendering of the passage beginning *Der Mensch ist nicht der Herr des Seienden. Der Mensch ist der Hirt des Seins*; compare the passage in [Miles Groth’s translation](https://wagner.edu/psychology/files/2013/01/Heidegger-Letter-On-Humanism-Translation-GROTH.pdf). English translations differ in their rendering of *Sein* and *Seiendes*.
+
+### v1-c6-1992
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+For the February floods, see NOAA, [*Storm Data*, February 1992](https://www.ncei.noaa.gov/pub/data/swdi/stormevents/pub-pdf/storm_1992_02.pdf), Southern California entries. The magnitude 6.1 Joshua Tree earthquake struck on 22 April; the Los Angeles riots began on 29 April. The [USGS Landers account](https://www.usgs.gov/programs/earthquake-hazards/science/m73-june-28-1992-landers-earthquake) places Joshua Tree in the sequence leading to June’s earthquake.
+
+### v1-c6-endeavour
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Endeavour (OV-105) first launched on [STS-49, 7 May 1992](https://www.nasa.gov/mission/sts-49/). Authorized in 1987 as Challenger’s replacement, it used structural spares produced for the earlier orbiters; see NASA’s [Space Shuttle historic-properties synthesis report](https://historicproperties.arc.nasa.gov/downloads/shuttle_synthesisreport.pdf). Its retirement home is the California Science Center in Exposition Park, across from USC.
+
+### v1-c6-landers
+
+USGS original report preserves historical 6.5 Big Bear estimate; later 6.3 moment magnitude distinguished in note. Sixty-day interval independently computed.
+
+The [USGS contemporary report](https://pubs.usgs.gov/of/1993/0227/report.pdf) gives Landers at 4:57 a.m. and Big Bear at 8:05 a.m. on 28 June 1992. The chapter retains the contemporary 6.5 magnitude reported for Big Bear; later moment-magnitude summaries give 6.3. Landers was magnitude 7.3. The date is sixty days after 29 April.
+
+### v1-c6-wright
+
+Original 1936 aircraft labor study checked; cumulative-average versus unit-cost distinction retained in note. Figure is illustrative, all plotted quantities checked independently.
+
+T. P. Wright, ["Factors Affecting the Cost of Airplanes"](https://pdodds.w3.uvm.edu/research/papers/others/1936/wright1936a.pdf), *Journal of the Aeronautical Sciences* 3(4) (1936): 122–128. Wright’s original treatment used cumulative-average labor cost; modern experience curves also fit unit costs. A constant fractional fall with each doubling corresponds to a power law. The figure’s 20 and 5 percent rates are illustrative, not universal estimates.
+
+### v1-c6-lockin
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Paul A. David, "Clio and the Economics of QWERTY" (1985), *American Economic Review* 75(2): 332–337; W. Brian Arthur, "Competing Technologies, Increasing Returns, and Lock-In by Historical Events" (1989), *Economic Journal* 99: 116–131. The QWERTY account has been disputed; see S. J. Liebowitz and Stephen E. Margolis, "The Fable of the Keys" (1990), *Journal of Law and Economics* 33: 1–25. Arthur’s [original paper](https://sites.santafe.edu/~wbarthur/Papers/EJ.pdf) formalizes the increasing-returns mechanism; the keyboard example remains explicitly disputed.
+
+### v1-c6-maize
+
+Primary abstracts checked for tb1/tga1 and 2002 ancestry result; 2025 primary study supports preexisting tga1 variation. Keep selection/constraint analogy separate from a claim that human procedure is literally encoded in DNA.
+
+Yoshihiro Matsuoka et al., ["A single domestication for maize shown by multilocus microsatellite genotyping"](https://pubmed.ncbi.nlm.nih.gov/11983901/), *PNAS* 99 (2002): 6080–6084; John Doebley, Adrian Stec and Lauren Hubbard, ["The evolution of apical dominance in maize"](https://pubmed.ncbi.nlm.nih.gov/9087405/), *Nature* 386 (1997): 485–488; Huai Wang et al., ["The origin of the naked grains of maize"](https://www.nature.com/articles/nature03863), *Nature* 436 (2005): 714–719. These identify major effects of *tb1* and *tga1*, not a two-gene explanation of all domestication. Regina A. Fairbanks and Jeffrey Ross-Ibarra, ["An ancient origin of the naked grains of maize"](https://pmc.ncbi.nlm.nih.gov/articles/PMC12207465/) (2025), find that the maize-associated *tga1* variant substantially predates domestication: selection can recruit existing variation, not merely await a new mutation.
+
+### v1-c6-arthur
+
+Patent paper supports recombination; Arthur/Kauffman books retained as conceptual sources. Reachable space expands, not necessarily all logically possible states. The foundry reading is the author's.
+
+W. Brian Arthur, *The Nature of Technology: What It Is and How It Evolves* (Free Press, 2009). For patent evidence, Hyejin Youn et al., ["Invention as a combinatorial process: evidence from US patents"](https://arxiv.org/abs/1406.2938), *Journal of the Royal Society Interface* 12 (2015): 20150272. On the adjacent possible, Stuart Kauffman, *Investigations* (Oxford University Press, 2000). Recombination supports the chapter’s picture; it does not prove that technology alone expands what is physically possible.
+
+### v1-c6-wrightlaw
+
+2013 original research, 2022 author repository and 2010 nuclear-cost article checked. Learning rates vary; no universal 20% and no measured 5% megaproject class.
+
+Béla Nagy et al., ["Statistical basis for predicting technological progress"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052669), *PLOS ONE* 8 (2013): e52669; Rupert Way et al., ["Empirically grounded technology forecasts and the energy transition"](https://ora.ox.ac.uk/objects/uuid:17256b64-f822-40ef-8770-5d0fa1ddc73e), *Joule* 6 (2022): 2057–2082. Rates differ by technology and circumstance. Arnulf Grübler, ["The costs of the French nuclear scale-up: A case of negative learning by doing"](https://www.sciencedirect.com/science/article/abs/pii/S0301421510003526), *Energy Policy* 38 (2010): 5174–5188, supplies a counterexample to automatic cost reduction, not a general measured rate for all megaprojects.
+
+### v1-c6-monoculture
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Cormac Ó Gráda, *Black ’47 and Beyond* (Princeton University Press, 1999), on potato dependence and the Irish famine; biological susceptibility alone does not explain the famine’s social consequences. For bananas, Randy C. Ploetz, ["Fusarium Wilt of Banana"](https://apsjournals.apsnet.org/doi/epdf/10.1094/phyto-04-15-0101-rvw), *Phytopathology* 105 (2015): 1512–1521. Gros Michel lost its dominant export role but was not extinguished; Cavendish’s resistance to race 1 does not confer resistance to tropical race 4.
+
+### v1-c6-specialization
+
+Both original papers identified and examined at abstract/model level; corrected singular reinforcement in 1998 title. Insect models do not prove a universal account of human occupational roles.
+
+Eric Bonabeau, Guy Theraulaz and Jean-Louis Deneubourg, ["Quantitative study of the fixed threshold model for the regulation of division of labour in insect societies"](https://crca.cbi-toulouse.fr/wp-content/uploads/2018/06/16.pdf), *Proceedings of the Royal Society B* 263 (1996): 1565–1569; Guy Theraulaz, Eric Bonabeau and Jean-Louis Deneubourg, ["Response threshold reinforcement and division of labour in insect societies"](https://crca.cbi-toulouse.fr/wp-content/uploads/2018/06/18.pdf), *Proceedings of the Royal Society B* 265 (1998): 327–332. These are models of insect colonies; human specialization also runs through markets, institutions and training.
+
+### v1-c6-market
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Adam Smith, *The Wealth of Nations* (1776), Book I, chapters 1 and 3, [full text](https://www.gutenberg.org/ebooks/3300). Chapter 3 is "That the Division of Labour is limited by the Extent of the Market." The pin comparison uses Smith’s illustrative figures: ten workers together making about 48,000 pins a day, against fewer than twenty apiece working separately. It is not a controlled modern productivity estimate.
+
+### v1-c6-hot
+
+Primary 1999/2002 research supports designed robustness and hidden fragility; not a theorem that all control necessarily raises fragility or that precision failure is chaos.
+
+J. M. Carlson and John Doyle, ["Highly optimized tolerance: A mechanism for power laws in designed systems"](https://pdodds.w3.uvm.edu/teaching/courses/2008-01UVM-295/docs/papers/1999/carlson1999a.pdf), *Physical Review E* 60 (1999): 1412–1427; ["Complexity and robustness"](https://pmc.ncbi.nlm.nih.gov/articles/PMC128573/), *PNAS* 99, suppl. 1 (2002): 2538–2545. Robustness to anticipated disturbances can coexist with sensitivity to unanticipated ones; this does not make every failure unavoidable or every safeguard counterproductive.
+
+### v1-c6-max
+
+Official House investigation and NTSB final door-plug report checked for separate events/mechanisms.
+
+Lion Air Flight 610 (October 2018) and Ethiopian Airlines Flight 302 (March 2019) crashed after the 737 MAX's MCAS software, relying on a single angle-of-attack sensor, repeatedly pushed the nose down; see the U.S. House Committee on Transportation and Infrastructure's final report (2020). A door plug detached from Alaska Airlines Flight 1282, a 737 MAX 9, in January 2024. [House investigation and final report](https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation); [NTSB report on the door-plug separation](https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2504.pdf). The design/certification and manufacturing failures are distinct.
+
+### v1-c6-perrow
+
+Original 1984 publication and chapter distinction checked; framework retained. Not evidence that every complex system must fail or that all accidents share one mechanism.
+
+Charles Perrow, *Normal Accidents: Living with High-Risk Technologies* (1984). See particularly the distinction between complex interactions and tight coupling in chapters 2–3. These are risk conditions, not proof that every complex system must fail.
+
+### v1-c6-chaos
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+James Gleick, *Chaos: Making a New Science* (1987); Edward Lorenz, "Predictability: Does the Flap of a Butterfly’s Wings in Brazil Set Off a Tornado in Texas?" (1972). The mathematical foundation is Lorenz’s ["Deterministic Nonperiodic Flow"](https://doi.org/10.1175/1520-0469(1963)020%3C0130:DNF%3E2.0.CO;2), *Journal of the Atmospheric Sciences* 20 (1963): 130–141: sensitivity limits prediction from finite-precision initial data, not the existence of deterministic rules.
+
+### v1-c6-langer
+
+Original study supports valuation/control-illusion experiment. It does not measure the whole industrial world; that extrapolation stays Alice's wager.
+
+Ellen J. Langer, ["The illusion of control"](https://nuovoeutile.it/wp-content/uploads/2014/10/Langer1975_IllusionofControl.pdf), *Journal of Personality and Social Psychology* 32 (1975): 311–328. Choice and other cues associated with skill affected participants’ valuation and expectations in chance situations; they did not improve the underlying odds.
+
+### v1-c6-bainbridge
+
+Original article metadata and abstract checked; rare intervention / loss of practice is the supported mechanism. Ignorance-preserving organization is a further proposal.
+
+Lisanne Bainbridge, ["Ironies of automation"](https://doi.org/10.1016/0005-1098(83)90046-8), *Automatica* 19(6) (1983): 775–779. Automation can remove the practice on which exceptional human intervention depends. Alice’s further proposal—keeping ignorance visible and testing the system’s own success story—is the author’s design wager.
+
+### v1-c6-dekker
+
+2007 original title/copyright and author/publisher description checked. General account of just culture retained; no blanket claim of blamelessness. No complete rereading of book.
+
+Sidney Dekker, *Just Culture: Balancing Safety and Accountability* (2007). [2007 edition](https://books.google.com/books/about/Just_Culture.html?id=uoslAQAAMAAJ). Learning and accountability must be balanced; just culture does not mean that all conduct is blameless.
+
+### v1-c6-harari
+
+Author's own book description corroborates provocative attribution. Not certified as universal archaeological fact.
+
+Yuval Noah Harari, *Sapiens: A Brief History of Humankind* (2011; English 2014), chapter 5. The claim is contested by archaeologists and historians. Harari reiterates that reading in his [own account of the book](https://www.ynharari.com/book/sapiens/); it is attributed here, not treated as a universal archaeological finding.
+
+### v1-c6-smith
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Book I, chapter 1. [Original text](https://www.gutenberg.org/ebooks/3300), Book I, chapter 1; specialization long predates Smith’s account.
+
+### v1-c6-ford
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Frederick Winslow Taylor, *The Principles of Scientific Management* (1911). Ford's moving assembly line at Highland Park (1913–1914) cut Model T chassis assembly from about 12.5 hours to about 93 minutes. The Henry Ford’s [archive account](https://www.thehenryford.org/collections/explore/articles/detail/articles/2021/07/22/ford-methods-and-the-ford-shops) supplies the assembly-line context. The 93 minutes concerns chassis assembly, not every operation from raw material to finished car.
+
+### v1-c6-fuller
+
+Fuller's own 1975 lecture corroborates 1940 Fortune comparison. Illustration is 10kW/100W, not proof of modern per-country labor equivalence.
+
+R. Buckminster Fuller’s 1940 *Fortune* comparison is described in his own [*Everything I Know*, section 3](https://www.bfi.org/about-fuller/everything-i-know/section-3/). Definitions of an "energy slave" differ. As an illustrative power comparison, 10 kilowatts per person divided by 100 watts is a hundred continuous workers; primary energy is not all converted into useful mechanical work, and real workers cannot labor around the clock. This is a scale metaphor, not an equivalence of human lives or working conditions.
+
+### v1-c6-smil
+
+Book attribution retained; power arithmetic separately checked. This pass did not read the complete book or reconstruct a modern national energy balance.
+
+Vaclav Smil, *Energy and Civilization: A History* (2017). The power comparison concerns energy throughput and its conversion, not interchangeable measurements of primary energy, useful work and human metabolism.
+
+### v1-c6-prigogine
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Ilya Prigogine, [Nobel lecture, "Time, Structure and Fluctuations"](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf) (1977); Ilya Prigogine and Isabelle Stengers, *Order Out of Chaos* (1984). Dissipative structures require sustained flows under suitable conditions. Reading industry through this framework is the author’s extension, not a claim that an economy is one of Prigogine’s experimentally characterized structures.
+
+### v1-c6-sectors
+
+Retained inherited historical attribution: Fisher 1935, Clark 1940, Fourastie 1949. General three-sector distinction is sound; original editions/page locators not inspected in this pass.
+
+The three-sector model was developed by Allan Fisher (1935), Colin Clark (*The Conditions of Economic Progress*, 1940) and Jean Fourastié (1949).
+
+### v1-c6-whitworth
+
+1841 ICE paper corroborated in historical reprint/search evidence; broad standardization claim retained. Hounshell book not read in full; edition/page locator for Whitney myth remains a print-level task.
+
+Joseph Whitworth, "On a Uniform System of Screw Threads" (1841), Institution of Civil Engineers. On interchangeable parts, see David A. Hounshell, *From the American System to Mass Production, 1800–1932* (1984); the popular credit to Eli Whitney is largely a myth.
+
+### v1-c6-container
+
+Publisher and book excerpt confirm date, route and 58 containers. Loading-cost comparison is the familiar Levinson account; exact original-page locator not recovered in this pass. Costs are ship loading, not total freight.
+
+Marc Levinson, *The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger* (2006). The Ideal X sailed from Newark to Houston on 26 April 1956; Levinson reports loading costs of about $5.86 per ton for loose cargo in 1956 versus about $0.16 per ton for containers. [Publisher’s account](https://press.princeton.edu/books/paperback/9780691170817/the-box). The cost comparison is for ship loading, not the full door-to-door cost of freight.
+
+### v1-c6-pencil
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Leonard E. Read, "I, Pencil: My Family Tree as Told to Leonard E. Read" (1958), *The Freeman*. [Original essay, republished by FEE](https://fee.org/articles/i-pencil/). Its interpretation of decentralized coordination is an argument, not a controlled comparison of economic systems.
+
+### v1-c6-toaster
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Thomas Thwaites, *The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch* (2011). His [project portfolio](https://www.thomasthwaites.com/folio5/wp-content/uploads/2019/07/Thomas_Thwaites_Work_Samples.pdf) records the £1,187.54 cost. His [first-person account](https://beyondtellerrand.com/events/dusseldorf-2023/speakers/thomas-thwaites) explains the eventual use of recycled plastic; the project did not successfully refine plastic from crude oil.
+
+### v1-c6-polanyi
+
+Original excerpt inspected through indexed text; famous opening aphorism and tacit integration/face example supported. No claim that all knowledge is forever inexpressible.
+
+Michael Polanyi, *The Tacit Dimension* (1966). See the opening discussion of tacit knowing, especially the face-recognition example, in this [book excerpt](https://www.sjsu.edu/people/john.estill/courses/158-s15/The_Tacit_Dimension_Polanyi.pdf).
+
+### v1-c6-toyota
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production* (1978; English 1988). See Toyota’s [institutional history](https://www.toyota-global.com/company/history_of_toyota/75years/text/entering_the_automotive_business/chapter1/section4/item4.html) and the firsthand NUMMI account below.
+
+### v1-c6-takt
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production* (Productivity Press, 1988; Japanese original 1978). Takt time is available production time divided by customer demand. Toyota’s [history of its production system](https://www.toyota-global.com/company/history_of_toyota/75years/text/entering_the_automotive_business/chapter1/section4/item4.html) describes the relation of flow, takt and just-in-time production. *Takt* means beat or measure.
+
+### v1-c6-deming
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+W. Edwards Deming, *Out of the Crisis* (1986), revised from the 1982 *Quality, Productivity, and Competitive Position*; see the [National Diet Library edition record](https://ndlsearch.ndl.go.jp/books/R100000002-I000003164073). [JUSE’s account](https://www.juse.or.jp/deming_en/award/) records his 1950 visit; the Deming Prize was established in 1951.
+
+### v1-c6-nummi
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+John Shook, ["How to Change a Culture: Lessons from NUMMI"](https://www.lean.org/downloads/35.pdf), *MIT Sloan Management Review* 51(2) (2010): 63–68. Shook’s firsthand account connects changes in work and management to changes in culture. NUMMI, the GM–Toyota joint venture in Fremont, operated from 1984 to 2010; the lesson is not that keeping workers automatically guarantees success.
+
+### v1-c6-northridge
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+The [California Geological Survey account](https://conservation.ca.gov/cgs/earthquakes/northridge) dates the magnitude 6.7 Northridge earthquake to 17 January 1994, at 4:31 a.m. Death and loss estimates vary with what is counted; the commonly cited toll is 57, including sixteen at Northridge Meadows, and damage was in the tens of billions of dollars. See also the [USGS overview](https://pubs.usgs.gov/of/1996/ofr-96-0263/introduc.htm). The author’s private movements and apartment recollections are personal testimony.
+
+### v1-c6-welds
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+FEMA-350, *Recommended Seismic Design Criteria for New Steel Moment-Frame Buildings* (2000), arose from the SAC research program following brittle connection fractures at Northridge; see the [NEHRP steel guidance collection](https://nehrp.gov/library/guidance_steel.htm) and [NIST’s account of pre-Northridge connections](https://www.nist.gov/programs-projects/seismic-assessment-and-retrofit-pre-northridge-earthquake-panel-zones-steel-moment).
+
+### v1-c6-rebuild
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+The [Federal Highway Administration case study of emergency recovery incentives](https://rosap.ntl.bts.gov/view/dot/39118/dot_39118_DS1.pdf) records the Santa Monica Freeway reopening in April 1994, seventy-four days ahead of the contract schedule, with an early-completion incentive paid to C. C. Myers.
+
+### v1-i6-debt
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Ward Cunningham, ["The WyCash Portfolio Management System"](https://c2.com/doc/oopsla92.html), OOPSLA ’92 experience report (1992). Shipping early can buy learning; debt accumulates when the implementation fails to incorporate the improved understanding. Refactoring repays it.
+
+### v1-i6-servo
+
+1990 patent supports representative interferometer/clock-head architecture, not identity of Sam's fixture or proprietary language. Mamun/Guo/Bi retained as broader reading. Private details remain testimony.
+
+For a contemporary example of laser-interferometer servo positioning and clock-track writing, see [U.S. Patent 4,920,442](https://patents.google.com/patent/US4920442A/en) (1990). Abdullah Al Mamun, GuoXiao Guo and Chao Bi, *Hard Disk Drive: Mechatronics and Control* (2007), provides the wider control context. The chapter describes a representative external servo-writer arrangement, not a recovered specification of the author’s particular fixture; equipment and proprietary language remain unidentified.
+
+### v1-i6-visicalc
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Dan Bricklin’s [first-person development history](https://www.bricklin.com/history/saiproduct1_m.htm) records VisiCalc for the Apple II shipping in October 1979. The claim here concerns a decisive personal-computer application, not the invention of all software or all electronic tabulation.
+
+### v1-i6-recalculation
+
+Official implementation documentation read; circular reference can have deliberate iterative evaluation rather than universally impossible calculation.
+
+Microsoft’s [Excel recalculation documentation](https://learn.microsoft.com/office/client-developer/excel/excel-recalculation) explains dependency trees and calculation chains. [Iteration settings](https://support.microsoft.com/en-us/excel/change-formula-recalculation-iteration-or-precision-in-excel) permit some circular references to be solved by repeated calculation; convergence depends on the formulas and settings.
+
+### v1-i6-wal
+
+ARIES and official PostgreSQL implementation account checked. Durability/ordering/recovery qualify physically partial writes.
+
+C. Mohan et al., ["ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging"](https://www.cs.cmu.edu/~15849g/readings/mohan92.pdf), *ACM Transactions on Database Systems* 17(1) (1992): 94–162; Jim Gray and Andreas Reuter, *Transaction Processing: Concepts and Techniques* (1993). For a concise implementation account, see [PostgreSQL’s WAL introduction](https://www.postgresql.org/docs/current/wal-intro.html). Relevant log records reach durable storage before the associated data-page changes; commit and recovery make transaction guarantees visible despite partial physical writes. Logging is not an independent backup.
+
+### v1-i6-backup
+
+US-CERT source supports 3-2-1; prevent/recover distinction maintained. Personal backup scenes are not externally verifiable from this source.
+
+Paul Ruggiero and Matthew A. Heckathorn, [*Data Backup Options*](https://www.cisa.gov/sites/default/files/publications/data_backup_options.pdf), US-CERT (2012), describes the 3-2-1 rule: three copies, two media types, one off-site. Independent access and tested restoration matter as well as the count. Backups address recovery; validation, permissions and confirmation can also prevent some destructive mistakes.
+
+### v1-i6-unix
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+M. D. McIlroy, E. N. Pinson and B. A. Tague, "UNIX Time-Sharing System: Foreword" (1978), *Bell System Technical Journal* 57(6): 1899–1904. Pipes were added to Unix in 1973 at McIlroy's urging. [Original publication](https://onlinelibrary.wiley.com/doi/10.1002/j.1538-7305.1978.tb02135.x).
+
+### v1-i6-gabriel
+
+Author's retrospective consulted; date is spring1989 talk. Removed unverified 1991 AI Expert publication assertion from source note.
+
+Richard P. Gabriel, ["The Rise of Worse Is Better"](https://dreamsongs.com/WorseIsBetter.html), originally part of "Lisp: Good News, Bad News, How to Win Big." Gabriel’s retrospective dates the talk to spring 1989. His comparison concerns tradeoffs among implementation simplicity, correctness, consistency and completeness—not indiscriminate tolerance of bugs.
+
+### v1-i6-sap
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+SAP’s [company history, 1991–2000](https://www.sap.com/about/company/history/1991-2000.html), records the 1992 release of R/3 and its client-server architecture.
+
+### v1-i6-workflow
+
+1995 WfMC reference model identified; diagram is schematic not BPMN. Retry depends on known failed or duplicate-safe effect.
+
+David Hollingsworth, [*The Workflow Reference Model*](https://wfmc.org/wp-content/uploads/2022/09/tc003v11.pdf), Workflow Management Coalition, TC00-1003, issue 1.1 (19 January 1995). The schematic is an illustrative business workflow, not a BPMN specification. The retry rule depends on a known failed effect or a duplicate-safe operation; a timeout alone does not prove failure.
+
+### v1-i6-compensation
+
+Original 1987 Princeton report abstract indexed and read; direct full-text retrieval blocked. Compensation concept verified at abstract level; no page-specific claim supplied.
+
+Hector Garcia-Molina and Kenneth Salem, ["Sagas"](https://www.cs.princeton.edu/techreports/1987/070.pdf) (1987), on breaking long-lived transactions into steps with compensating transactions. Compensation makes an appropriate subsequent change; it does not erase an external physical event. A parcel’s return is not the same event as never dispatching it.
+
+### v1-i6-conway
+
+Original author-hosted paper and 2012 empirical paper checked; structural mirroring does not establish private distrust.
+
+Melvin E. Conway, ["How Do Committees Invent?"](https://melconway.com/Home/Committees_Paper.html), *Datamation* 14(4) (1968): 28–31; Alan MacCormack, Carliss Baldwin and John Rusnak, ["Exploring the duality between product and organizational architectures"](https://doi.org/10.1016/j.respol.2012.04.011), *Research Policy* 41(8) (2012): 1309–1324. The mirroring hypothesis concerns organizational and technical structure; it does not by itself reveal whether two departments trust each other.
+
+### v1-i6-linux
+
+Kernel 0.12 release notes directly read; distinguish GPL change in 1992 from original 1991 release. GPL FAQ checked for distribution versus private modification.
+
+Linus Torvalds announced Linux in August 1991 and released it under the GNU General Public License in 1992. The GNU project was launched by Richard Stallman in 1983. The [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic) explains that the source-sharing obligations concern conveying covered software, not an obligation to publish every private modification. The kernel archive preserves the [0.12 release notes](https://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12), including the proposed shift to GNU copyleft effective that February; the earlier 1991 license was different.
+
+### v1-i6-expert
+
+MYCIN evaluation and backward chaining checked against original authors and JAMA record; R1 original paper checked. XCON later savings are reported company estimates; 1989 paper metadata/search excerpt checked, not a fresh independent financial audit.
+
+Edward H. Shortliffe, *Computer-Based Medical Consultations: MYCIN* (1976); Bruce G. Buchanan and Edward H. Shortliffe, [*Rule-Based Expert Systems*, chapter 1](https://shortliffe.net/Buchanan-Shortliffe-1984/Chapter-01.pdf) (1984). Victor L. Yu et al., ["Antimicrobial Selection by a Computer: A Blinded Evaluation by Infectious Diseases Experts"](https://doi.org/10.1001/jama.1979.03300120033020), *JAMA* 242(12) (1979): 1279–1282, evaluated recommendations for ten meningitis cases, not outcomes in a clinical deployment. The rule in the text is a toy example, not prescribing advice or a verbatim MYCIN rule. John McDermott, ["R1: A Rule-Based Configurer of Computer Systems"](https://web.cs.wpi.edu/Research/aidg/CS540/papers/McDermott-R1-XCON.pdf), *Artificial Intelligence* 19 (1982): 39–88; Virginia E. Barker and Dennis E. O’Connor, "Expert Systems for Configuration at Digital: XCON and Beyond," *Communications of the ACM* 32(3) (1989): 298–318. Savings are contemporary estimates, not audited causal estimates. The commercial contraction did not make rule-based systems disappear.
+
+### v1-i6-shakey
+
+SRI original project report checked; A* and STRIPS distinguished, shortest-path conditions retained in note.
+
+Nils J. Nilsson, ed., [*Shakey the Robot*](https://www.sri.com/wp-content/uploads/2021/12/629.pdf), SRI Technical Note 323 (1984); Richard E. Fikes and Nils J. Nilsson, "STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving," *Artificial Intelligence* 2 (1971): 189–208; Peter E. Hart, Nils J. Nilsson and Bertram Raphael, "A Formal Basis for the Heuristic Determination of Minimum Cost Paths," *IEEE Transactions on Systems Science and Cybernetics* 4(2) (1968): 100–107. A* uses accumulated path cost plus an estimate of what remains. Shortest-path guarantees require suitable costs, an admissible heuristic and correct handling of revisited states; STRIPS is a planning formalism, not another name for A*.
+
+### v1-i6-learning
+
+Citation and relevant factual claim reviewed against source material/records; no claim that every page of a cited book was reread.
+
+Mehran Sahami et al., ["A Bayesian Approach to Filtering Junk E-Mail"](https://cdn.aaai.org/Workshops/1998/WS-98-05/WS98-05-009.pdf) (1998); Greg Linden, Brent Smith and Jeremy York, ["Amazon.com Recommendations: Item-to-Item Collaborative Filtering"](https://doi.org/10.1109/MIC.2003.1167344), *IEEE Internet Computing* 7(1) (2003): 76–80. These demonstrate distinct ways of embedding learned statistical structure in applications, not one universal algorithm.
+
+### v1-i6-spam
+
+1998 primary paper checked: conditional independence given class, cost-sensitive classification. Schematic fraud curves not calibrated probabilities or population frequencies.
+
+Mehran Sahami et al., ["A Bayesian Approach to Filtering Junk E-Mail"](https://cdn.aaai.org/Workshops/1998/WS-98-05/WS98-05-009.pdf) (1998). Naive Bayes treats the features as conditionally independent given the class; it does not claim that words in ordinary language are unconditionally independent. A classification score need not be a calibrated probability. The review thresholds are policy choices informed by evidence, consequences and review capacity.
+
+### v1-i6-marx
+
+Original chapter10 passage read; subject of quoted dead-labour formulation is capital. Frozen/liquid labor and obligations architecture are the author's proposal, not Marx's.
+
+Karl Marx, [*Capital*, Volume I, chapter 10](https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm) (1867), calls capital "dead labour." The extension to applications as frozen labor and agents as liquid labor, and the proposal to separate revisable procedures from durable obligations, are the author’s. On tight coupling, Charles Perrow, *Normal Accidents* (1984), chapter 3: consequential dependencies, time pressure and limited slack matter, not merely whether calls are chained.
+

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "assets/06-interlude/order-workflow.svg",
+    "changes": "Retry belongs to the approved/unshipped state; explicit within-limit/over-limit boundary and dispatch confirmation.",
+    "stale_signed_metadata_removed": true,
+    "sha256": "fd9fd88082aae85671766b560ec48166cc8d62f929f63d92e97f95097df26ace"
+  },
+  {
+    "file": "assets/06-interlude/score-thresholds.svg",
+    "changes": "Distinguish scores from calibrated probabilities; human review is another check, not certainty; schematic frequencies.",
+    "stale_signed_metadata_removed": true,
+    "sha256": "26d0b7e9756a03fce090f1fdfc10ca7b7546a5236a15dc2a6f7712a41a0208dc"
+  },
+  {
+    "file": "assets/06-chapter/learning-curve.svg",
+    "changes": "Remove unsupported assignment of the 5% curve to megaprojects; retain curve geometry.",
+    "stale_signed_metadata_removed": true,
+    "sha256": "5d5981e2ac990f53495ef317df36aea2f7b997e7b8e4c69e8ecbc8f2c48044c4"
+  }
+]

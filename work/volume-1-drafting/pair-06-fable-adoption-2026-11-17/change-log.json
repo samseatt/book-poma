@@ -1,0 +1,1090 @@
+[
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "My coworker spent days with recovery tools, the Norton Utilities kind that promised to unerase and even unformat, trying to piece together whatever scrambled sectors he could, with very limited success.",
+    "after": "My boss took on the recovery himself, spending days with tools of the Norton Utilities kind that promised to unerase and even unformat, trying to piece the business back together. It wasn't in his calendar, but neither was losing a customer's business. It also freed my coworker to serve the other customers. The recovery had very limited success.",
+    "reason": "Author confirms boss, not coworker, performed the recovery.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "an owner who chose to fix the system rather than sacrifice the person at the keyboard.",
+    "after": "an owner who took responsibility rather than sacrifice the person at the keyboard.",
+    "reason": "No invented preventive process changes.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "formatting its hard drive: wiping the disk and preparing it to receive data.",
+    "after": "formatting its hard drive: preparing it to receive data and making any existing files inaccessible.",
+    "reason": "DOS formatting need not overwrite every user-data sector.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Every shortcut taken to ship sooner, he explained, is a loan against the future, and the interest is paid in every later change that becomes slower and riskier because of it. He meant it as a warning, the engineering equivalent of:",
+    "after": "An early version can buy time to learn; the debt comes when the code still embodies an understanding you've outgrown. Refactoring pays it down. Leave it there, and every later change pays interest in workarounds. There was a warning in it, the engineering equivalent of:",
+    "reason": "Recover Cunningham learning/refactoring nuance, not just bad shortcuts.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "But the phrase metastasized instantly.",
+    "after": "But the phrase eventually metastasized.",
+    "reason": "Avoid unsupported instantaneous adoption.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Its job was the first one any hard drive needs done, before it can store a single byte. A disk's surface is blank magnetic coating; nothing on it tells the drive's head where it is. So before a drive can be formatted, let alone used, a pattern has to be written onto every surface:",
+    "after": "Its job came before the formatting that had gone so wrong in Los Angeles: giving a hard drive its bearings. A blank magnetic surface carries no track addresses for the head to follow. In a common arrangement, position information is written onto the data surfaces:",
+    "reason": "General embedded-servo mechanism; do not universalize one layout.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Writing them takes several parts working in concert.",
+    "after": "Writing them takes several parts working in concert. The general mechanism is worth opening up; the precise fixtures varied.",
+    "reason": "Separate illustrative technical explanation from exact equipment testimony.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "each fringe is a fraction of the light's wavelength, so the count gives the position to a small fraction of a micron.",
+    "after": "each cycle registers a known fraction of a wavelength in displacement, so counting and subdividing the fringes can resolve movement far smaller than a micron.",
+    "reason": "Fringes measure displacement; resolution depends on geometry/interpolation.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "And software, my software, coordinated the whole performance: reading the laser's count, commanding the push, deciding when the position was right, and writing the pattern, track after track, surface after surface, until the disk knew its own geography.",
+    "after": "Software coordinates the whole performance: reading the position, commanding the movement, checking that it has settled, and triggering the writing, track after track, until the disk knows its own geography. I worked on that coordinating program, in a proprietary language whose name has escaped me. The part that hasn't is the trick: the drive's own head wrote the tracks it would later need to follow.",
+    "reason": "Author worked on program; no invented claim of sole authorship or exact proprietary implementation.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "C",
+    "before": "For most of computing's early history, a program was something you wrote for a particular machine to do a particular job. The idea that a program could be a product, something ordinary people would buy a computer *in order to run*, arrived with a single piece of software. In 1979, VisiCalc, the first electronic spreadsheet, appeared for the Apple II.[^v1-i6-visicalc] Accountants and small-business owners who had spent days recalculating paper ledgers by hand could now change one number and watch every dependent figure update itself. People walked into computer stores and asked for \"the VisiCalc machine.\" The industry coined a term for software like that: the killer app, an application so useful that it sells the hardware it runs on.",
+    "after": "In 1979, VisiCalc gave the Apple II a reason to sit on a small-business owner's desk. Change one number, and every dependent figure recalculated itself.[^v1-i6-visicalc] It became the classic *killer app*: software so useful that people bought the hardware to run it.",
+    "reason": "Author questions value/word count: retain explanatory hinge, remove historical padding and false first-product claim.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "In such a loop, the deciding is done by the person at the keyboard.",
+    "after": "In the familiar desktop version, the person at the keyboard chooses the task, though timers and other programs can trigger actions too.",
+    "reason": "Event loops are not intrinsically human-controlled.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Ask a cell to depend on itself, and the spreadsheet refuses, with a warning named for the problem: a circular reference.",
+    "after": "Ask a cell to depend on itself, and the spreadsheet normally warns of a circular reference; deliberate loops need an iterative calculation mode with a stopping rule.[^v1-i6-recalculation]",
+    "reason": "Circular dependencies can be intentionally iterated.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Before touching the records, the database writes its intention to a log, in order, and makes sure the log has reached the disk; only then does it change the data itself. If the power fails halfway, the log tells it on restart exactly which changes finished and which must be undone. The ledger can be interrupted, but it can't be left half-written.",
+    "after": "With write-ahead logging, the record of a change must reach durable storage before the corresponding changed data page does. A commit record marks the transaction's success. After a crash, recovery uses the log to restore committed work not yet reflected in the data files and undo or exclude unfinished work. The ledger may be physically half-written when the power goes out; recovery keeps that half-change from becoming its settled account.",
+    "reason": "Correct WAL ordering and recovery/commit explanation.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "The only defense against an instruction that's valid and wrong is a copy kept where the instruction can't reach, and that man's business had none. Serious systems keep several, at least one of them far away, out of reach of the same mistake.",
+    "after": "Checking the target and restricting destructive commands can prevent the mistake. Once it has happened, a copy kept where the instruction can't reach may be the only way back, and that man's business had none. Serious systems keep several, including copies isolated from the same failure, and test whether they can actually restore them.",
+    "reason": "Backup is recovery, not sole prevention.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "C",
+    "before": "Serious systems keep several, including copies isolated from the same failure, and test whether they can actually restore them.[^v1-i6-backup]",
+    "after": "Serious systems keep several, including copies isolated from the same failure, and test whether they can actually restore them.[^v1-i6-backup]\n\n<!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->\nI had already spent graveyard shifts in the server rooms at USC, monitoring CPU loads and feeding magnetic tapes into backup drives. The room felt like a high-tech wine cellar: over-refrigerated, with cabinets demanding a specific vintage of respect. DEC VAX machines stood among the Unix boxes. Backups had been part of my night's work. In that shop, I saw the business that could vanish when they weren't part of anyone's.\n<!-- End AI-assisted integration 2026-11-17. -->",
+    "reason": "Restore author-confirmed USC backup work as earlier flashback, not new 1993 employment.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "His answer was a phrase that stuck: worse is better.",
+    "after": "His answer was a phrase that stuck: worse is better. The provocation was about which compromises let a system survive and improve, not a license to ship arbitrary wrong answers.",
+    "reason": "Preserve design tradeoff without equating functional wrongness with success.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "A clumsy interface between two parts of a program often marks two groups who never quite trusted each other.",
+    "after": "A clumsy interface between two parts of a program can mark two groups who rarely communicated; it doesn't, by itself, tell us why.",
+    "reason": "Architecture not a diagnosis of private distrust.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "provided they shared their changes too.",
+    "after": "with source-sharing obligations when they distributed modified versions.",
+    "reason": "GPL does not require publishing private modifications.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Stitched into the GNU fabric, it grew into a complete system built by an army of volunteers, with no central owner at all. While corporations were consolidating their software into enterprise machines, a commons was being built in the open, governed not by contracts but by reputation and shared norms, the kind of self-governing commons Elinor Ostrom would have recognized. Two architectures, two moralities: hierarchy versus heterarchy, contracts versus trust, uptime versus uptime-ish. Both right. Both wrong. Both human.",
+    "after": "Stitched into the GNU fabric, it grew into a complete system with many contributors and copyright holders. While corporations were consolidating their software into enterprise machines, a commons was being built in the open. It had maintainers with real authority, a license with legal teeth, and reputation and shared norms doing work that a contract alone couldn't. The kind of commons Elinor Ostrom would have recognized had rules, not an exemption from them. Hierarchy and heterarchy, contracts and trust, in different proportions. Uptime versus uptime-ish, depending on who was minding it. Both right. Both wrong. Both human.",
+    "reason": "Commons has layered governance and licensing; keep humor and contrast.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "*if* the infection is in the blood *and* the organism is rod-shaped, *then* suspect this family of bacteria, with this much confidence.",
+    "after": "*if* these laboratory findings and patient characteristics hold, *then* give this candidate organism a certain degree of support.",
+    "reason": "Illustrative rule should not suggest rod shape and blood alone identify bacterial family.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "The other was an inference engine that chained them, firing every rule whose conditions held, adding its conclusion to what was known, and firing again, until nothing new appeared or the question was answered. One such system recommended treatments for blood infections about as well as the specialists it was tested against.",
+    "after": "The other was an inference engine that chained them. It could work forward from known facts to conclusions, or backward from a question to the evidence needed to answer it. MYCIN mainly worked backward; in a blinded evaluation of ten meningitis cases, experts rated its antibiotic recommendations at least as highly as those of the specialists compared with it. That was a test of recommendations, not proof of better patient outcomes.",
+    "reason": "Correct backward chaining and actual clinical evaluation scope.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Then the rules ran out.",
+    "after": "Then the limits of hand-written rules became expensive.",
+    "reason": "Expert systems did not literally cease functioning or exhaust all rules.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "maintaining the knowledge bases became an industry of its own, then a cemetery.",
+    "after": "maintaining the knowledge bases became an industry of its own, then a cemetery for many of its vendors. The useful rules survived them.",
+    "reason": "Market collapse not extinction of rule-based computation.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "The search method its makers devised for it, called A*,",
+    "after": "One search method developed in that project, called A*,",
+    "reason": "Separate A* path search from STRIPS high-level planning.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Take the spam filter, the first learned component many people trained without knowing it. It keeps,",
+    "after": "Take an early Bayesian spam filter, a learned component many people trained without knowing it. It keeps,",
+    "reason": "Specify illustrative filter family.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Every click on *junk* updates the tallies,",
+    "after": "A click on *junk* can update the tallies,",
+    "reason": "Updates implementation-dependent.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "The filter also shows the pattern underneath nearly every learned application.",
+    "after": "The filter also shows a pattern underneath many learned applications.",
+    "reason": "Not all ML outputs are scalar classification scores.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "A bank's fraud model works the same way. Above one threshold, a transaction is blocked; below another, it goes through; in the band between, it waits for an analyst, or for a text message to the cardholder. The uncertain middle goes to a person.",
+    "after": "A bank can arrange its fraud checks the same way. Above one threshold, a transaction is blocked; below another, it goes through; in the band between, it waits for an analyst, or for a text message to the cardholder. Review brings another source of evidence, not a guarantee that the person will be right.",
+    "reason": "Policy example not universal banking behavior; humans also err.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "dependable across everything resembling its training, and unpredictable at the edges.",
+    "after": "often strongest on the conditions represented in its training, and vulnerable when those conditions change. Even familiar-looking cases can fool it.",
+    "reason": "Avoid in-distribution reliability guarantee.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Engineers call such a thing a *workflow*, and Interlude 20 will set it beside a newer kind of software that chooses its own path.[^v1-i6-workflow]",
+    "after": "Engineers call such a thing a *workflow*, and Interlude 20 will set it beside a newer kind of software that chooses its own path.[^v1-i6-workflow]\n\nA database can roll back a transaction; it cannot unship a parcel. Work that has crossed into the world needs a compensating action, a return or a refund, and sometimes a loss that no later step can erase. If a carrier times out, the parcel may already be on its way. Check what happened before trying again, or give repeated requests the same identity so they cannot create a second shipment.[^v1-i6-compensation]",
+    "reason": "Author-approved cross-boundary recovery and retry mechanism.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Frozen labor can notice only what its makers thought to check.",
+    "after": "A fixed check can catch only what it was built to recognize.",
+    "reason": "Conventional computation can include learning/planning; keep fixed-check example narrow.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "A confirmation guards against a slip of the hand. It can't guard against a mistaken belief.",
+    "after": "A confirmation can catch a slip of the hand. It may only confirm a mistaken belief.",
+    "reason": "Confirmation can sometimes correct mistaken belief; not categorically unable.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "an agent isn't handed a procedure; it's handed a goal",
+    "after": "an agent can be handed a goal rather than every step",
+    "reason": "Agents still execute software and may receive prescribed procedures.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "An agent that chains applications without pausing between them becomes tightly coupled in Perrow's sense:",
+    "after": "An agent can create tight coupling when later actions depend immediately on earlier ones, with little slack to interrupt or recover:",
+    "reason": "Absence of a pause alone is not Perrow tight coupling.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "when the work goes wrong, do you blame the hand at the keyboard, or fix the system that let one keystroke erase a business?",
+    "after": "when the work goes wrong, do you sacrifice the hand at the keyboard, or take responsibility for what has happened? Then comes the question his recovery work couldn't settle by itself: how do you keep the next business from being erased?",
+    "reason": "Boss accepted responsibility and performed recovery; no invented systems redesign.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "In frozen software they lived in the procedure: the rule was the code, and the code was the same every time it ran.",
+    "after": "In much frozen software they were buried in the procedure, though databases and operating systems already enforced some rules outside it.",
+    "reason": "External constraints predate agentic software; no false novelty.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "at least makes behavior checkable, so that what comes out can be verified without trusting what happens inside.",
+    "after": "makes specified behavior checkable, though checking an output's shape is easier than checking its truth or consequences.",
+    "reason": "API syntax does not guarantee semantics/checkability of all behavior.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "The threshold holds a promise about doubt: the uncertain middle goes to a person.",
+    "after": "The threshold holds a promise about doubt: cases in the review band must receive another check.",
+    "reason": "No implication human review resolves all overlap or uncertainty.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "which reads a failure as information about where an obligation was missing rather than as a verdict on the hand that slipped.",
+    "after": "which investigates how an obligation was missing, defeated or impossible to meet before passing a verdict on the hand that slipped.",
+    "reason": "Just culture not blanket immunity; failed outcomes do not always mean missing obligation.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "He liked me, inexplicably. And so he taught me. He became my bridge from academia to enterprise.",
+    "after": "He liked me, inexplicably. And so he taught me. He became my bridge from academia to enterprise.\n\n<!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->\nOn many mornings, he'd shoo me out the door. \"Stop dropping résumés in the lobby. Find the hiring managers. Monday they're too busy; Friday they're too free. Go Tuesday, Wednesday, Thursday.\"\n\nHe saw a go-getter in my design, but the implementation was becoming problematic. Every day felt like Monday and Friday simultaneously. I complied anyway, though without enthusiasm:\n\n- **Managers met: zero.**\n- **Résumés dropped: some.**\n- **Parking lots admired: all of them.**\n\nLooking back, it hits me that my actual *modus operandi* had very little to do with a career, contacts, or duty. I was a **journalist of wonderment**—someone who just wanted to observe the spectacular show from the inside. At least, as far as 'inside' meant the lobbies and the visitor parking lots. The invisible hand wasn't economic; it was just the rhythm of my heart and a mind stuck on its own frequency. Psychology was running a different algorithm in the background.\n<!-- End AI-assisted integration 2026-11-17. -->",
+    "reason": "Author-approved transfer from old interlude to civilizational chapter.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "But the invincible heart trumped the invisible hand.",
+    "after": "But the invincible heart trumped the invisible hand: once again, grace over race.",
+    "reason": "Restore authored joke from canon.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "So I dropped the blender and followed my heart.",
+    "after": "So I dropped the entire freaking blender and followed my heart.",
+    "reason": "Restore authored self-mockery from canon.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A",
+    "before": "south along the coast to Santa Barbara, where the laser equipment for our project was made",
+    "after": "south along the coast to Goleta, near Santa Barbara, where the laser equipment for our project was made",
+    "reason": "Author confirms equipment location; no supplier/company identification.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "Industry begins when a model leaves the heads altogether and runs in the world.",
+    "after": "Industry begins when a model takes up residence beyond the heads and runs in the world.",
+    "reason": "Keep externalized procedure thesis without denying tacit knowledge.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "and unlike Chapter 2's sequence space or Chapter 5's space of agreements, it grows as it's explored.",
+    "after": "and its reachable part grows as it's explored, as earlier biological and social inventions also opened paths that had not been available before.",
+    "reason": "Accessible adjacent possibilities grow; not a proof of enlarging logical possibility or static biology.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "A common learning rate cuts it by a fifth per doubling,",
+    "after": "An illustrative learning rate cuts it by a fifth per doubling,",
+    "reason": "20% is an example, not universal empirical constant.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "the labor required for each one fell by a steady percentage",
+    "after": "the average labor required per plane fell by a steady percentage",
+    "reason": "Wright cumulative-average history vs subsequent unit-cost formulation.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A",
+    "before": "Ireland's rural poor lived largely on one potato variety, grown from tubers rather than seed, so that its plants were in effect clones, and in 1845 a single pathogen met a nation of identical plants.",
+    "after": "Many of Ireland's rural poor depended heavily on the potato, including the high-yielding Lumper, propagated by planting tubers. In 1845, blight met a crop with dangerously widespread susceptibility; the country did not have to be one clone to share a catastrophe.",
+    "reason": "Ireland grew multiple cultivars; preserve vulnerability without single-clone falsehood.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A",
+    "before": "Then, in the eighteenth century, the machine learned to divide itself.",
+    "after": "The division was ancient; in the eighteenth century, Adam Smith gave it its most famous workshop demonstration.",
+    "reason": "Specialization predates eighteenth century.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "Adam Smith gave it its most famous workshop demonstration. Adam Smith described",
+    "after": "Adam Smith gave it its most famous workshop demonstration. He described",
+    "reason": "Repair seam after correction.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A",
+    "before": "refining his own plastic from oil.",
+    "after": "trying to make his own plastic and eventually settling for recycled waste.",
+    "reason": "Thwaites did not refine oil into plastic.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A",
+    "before": "the near-meltdown at Three Mile Island",
+    "after": "the partial meltdown at Three Mile Island",
+    "reason": "TMI core actually partially melted.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "the way DNA's redundancy is woven into the code rather than bolted onto it",
+    "after": "the way cells combine proofreading, repair and regulation to keep copying and living",
+    "reason": "Biological reliability not merely genetic-code redundancy.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "the way DNA weaves redundancy into its code",
+    "after": "the way cells protect DNA through proofreading and repair",
+    "reason": "Same mechanism repair at later recurrence.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "Specialization multiplied output beyond anything individual skill could reach, and it turned work into a system.",
+    "after": "Specialization multiplied output beyond anything individual skill could reach, and it turned work into a system.\n\n<!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->\nFragmentation also makes it easy for responsibility to evaporate. Each worker can honestly say, *\"My part passed inspection.\"* The failure lives in the gaps between parts, in the coordination layer that is everyone's job and no one's title.\n<!-- End AI-assisted integration 2026-11-17. -->",
+    "reason": "Restore essential canonical coordination-failure argument; mechanism remains in interlude.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "the Adam of my opening line, cast out of the forager's paradise into the farmer's toil, is its oldest story.",
+    "after": "the Adam of my opening line, cast out of the forager's paradise into the farmer's toil, is its oldest story.\n\n<!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->\nDomestication was not just control; it was coupling. We changed the plants and animals, and the arrangement changed us: our food, our exposure to disease, our calendars and the days we could call our own. The farmer domesticated the field and then had to report to it.\n<!-- End AI-assisted integration 2026-11-17. -->",
+    "reason": "Recover reciprocal domestication; no unsupported one-cause genetic specifics.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "Their solidity is a rate, not a substance.",
+    "after": "Their solidity is a rate, not a substance.\n\n<!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->\nAnd the surroundings are not an empty wastebasket. A factory can improve its own yield while exporting the damage into someone else's river or lungs. Calling it efficient tells us little until we ask where the accounting stops.\n<!-- End AI-assisted integration 2026-11-17. -->",
+    "reason": "Restore exported-cost/system-boundary argument.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "That's a lesson the later volumes of this book will carry well beyond the factory floor.",
+    "after": "That's a lesson the later volumes of this book will carry well beyond the factory floor.\n\n<!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->\nEvery design still chooses a version of *good enough*: how much failure, delay or wear it will tolerate, and at whose expense. The person accepting the risk is not always the person who bears it. Quality has a moral boundary as well as a technical one.\n<!-- End AI-assisted integration 2026-11-17. -->",
+    "reason": "Restore ethics of good enough without extending I6 mechanics.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "It's a fair summary of what this chapter is about.",
+    "after": "Years later, Endeavour would find its home across the road from USC. It's a fair summary of what this chapter is about.",
+    "reason": "Recover personally meaningful Endeavour/USC return without current exhibition claim.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "D",
+    "before": "## Alice, Down the Rabbit Hole: Robust Yet Fragile\n\n*The twist, in one line: the better we engineer against the shocks we expect, the more fragile we become to the ones we don't, so control is real, but its illusion grows faster.*\n\n",
+    "after": "## The Edges of Control\n\n",
+    "reason": "Author approved earlier review: established HOT/accident/chaos material belongs in main exposition.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "D",
+    "before": "Put together, they describe a civilization",
+    "after": "## Alice, Down the Rabbit Hole: Robust Yet Fragile\n\n*The twist, in one line: the better we engineer against the shocks we expect, the more fragile we become to the ones we don't, so control is real, but its illusion grows faster.*\n\nPut together, they describe a civilization",
+    "reason": "Keep Alice heading and thesis; place at synthesis beyond established background.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "Robust yet fragile isn't a design flaw. It's the price of design.",
+    "after": "Robust yet fragile isn't always a design flaw. It can be the price of optimizing for the world we expect.",
+    "reason": "Tradeoff not excuse for avoidable defects or universal theorem.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "given enough time, small failures will eventually line up.",
+    "after": "small failures can line up in ways the system's safeguards don't contain.",
+    "reason": "Avoid certain catastrophe for every complex system.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "Chaos is why precision can never be complete.",
+    "after": "Chaos limits how far finite precision can carry prediction.",
+    "reason": "Sensitivity limits predictive horizon, not all measurement or engineering control.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "The alternative isn't to stop building. It's to build differently:",
+    "after": "The practical response isn't to stop building. It's to build differently:",
+    "reason": "Established response clearly separate from novel conjecture.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "before": "Industry is that experiment at the scale of a planet: a great deal of real control, and an even greater feeling of it.",
+    "after": "Industry is that experiment at the scale of a planet: a great deal of real control, and an even greater feeling of it.\n\n<!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->\nThe old irony of automation is that reliable machinery leaves its human operator least practiced when the exceptional moment finally arrives.[^v1-c6-bainbridge] My further wager is that an organization needs a way to keep its ignorance visible even while its output improves. Can it preserve encounters with its limits—through rehearsals, near misses and dissent—without turning those encounters into another reassuring score? The test would be whether it still notices a changing world, not whether it passes the exercise it wrote for itself.\n<!-- End AI-assisted integration 2026-11-17. -->",
+    "reason": "Sharpen approved Alice direction while crediting established automation irony, without presenting conjecture as proved.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "that vanish the moment it stops.",
+    "after": "that cannot sustain themselves once the driving flows stop.",
+    "reason": "Dissipative patterns relax on finite timescales.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "It was the first time work, rather than wandering, organized a human life,",
+    "after": "Work increasingly followed the field's calendar rather than the forager's movements,",
+    "reason": "Foragers also work and organize their lives; retain agriculture interpretation.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "Before the nineteenth century, every bolt was made to fit its own nut,",
+    "after": "Before common standards spread, bolts and nuts often had to be matched within a workshop,",
+    "reason": "Avoid universal chronology ignoring earlier standardization.",
+    "disposition": "applied; author-authorized merge"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "A person working hard all day produces about a hundred watts,",
+    "after": "A person doing sustained physical work can deliver roughly a hundred watts of mechanical power,",
+    "reason": "Distinguish useful mechanical output from total metabolic power and an implausible continuous all-day maximum.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "a fungus drove out of commercial growing",
+    "after": "a fungus drove out of its dominant place in the export trade",
+    "reason": "Gros Michel continues to be cultivated; commercial displacement was not extinction.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "At a typical 20 percent, a thousand units bring the cost to about a tenth of the first, a million to about a hundredth. Large one-off projects learn far more slowly.",
+    "after": "At the illustrative 20 percent shown here, a thousand units bring the cost to about a tenth of the first, a million to about a hundredth. The dashed line illustrates a slower rate, not a measured class of projects.",
+    "reason": "Match illustrative figure to empirical heterogeneity.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "labeled slow learners such as large one-off projects",
+    "after": "labeled illustrative slower learning",
+    "reason": "Correct figure alt text.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "joined by arrows labeled under limit, scanned out, delivered and paid in full.",
+    "after": "joined by arrows labeled within limit, dispatch confirmed, delivered and paid in full.",
+    "reason": "Close threshold equality gap and show confirmed dispatch.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "A loop under shipped is labeled carrier error: retry, only if the first try is known to have failed.",
+    "after": "A loop under approved is labeled dispatch failed: retry, only after confirming that nothing shipped.",
+    "reason": "A failed dispatch cannot return to an already-shipped state.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "a failed shipment is retried only when the first attempt is known to have failed.",
+    "after": "a failed dispatch is retried only after confirming that nothing shipped.",
+    "reason": "Avoid duplicate dispatch after uncertain outcome.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "two thresholds make three outcomes, and the uncertain middle goes to a person.",
+    "after": "two policy thresholds make three outcomes, with a review band between them. Review adds a check; it does not guarantee a correct decision.",
+    "reason": "Score is not calibrated certainty and human review is fallible.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A",
+    "before": "A note in the middle band reads overlap: the model can't tell.",
+    "after": "A note in the middle band reads review band: an additional check. The curves are schematic score distributions, not measured fraud prevalence.",
+    "reason": "Overlap is not restricted to the middle nor inability to discriminate.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-heidegger]: Martin Heidegger, \"Letter on Humanism\" (1947); translations vary.",
+    "after": "[^v1-c6-heidegger]: Martin Heidegger, \"Letter on Humanism\" (written 1946, first published 1947). The epigraph uses the familiar English rendering of the passage beginning *Der Mensch ist nicht der Herr des Seienden. Der Mensch ist der Hirt des Seins*; compare the passage in [Miles Groth’s translation](https://wagner.edu/psychology/files/2013/01/Heidegger-Letter-On-Humanism-Translation-GROTH.pdf). English translations differ in their rendering of *Sein* and *Seiendes*.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-takt]: Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production* (Productivity Press, 1988; Japanese original 1978). Takt time is available production time divided by customer demand; the term is usually traced to German aircraft manufacturing in the 1930s. *Takt* means beat or measure, as in a conductor's baton.",
+    "after": "[^v1-c6-takt]: Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production* (Productivity Press, 1988; Japanese original 1978). Takt time is available production time divided by customer demand. Toyota’s [history of its production system](https://www.toyota-global.com/company/history_of_toyota/75years/text/entering_the_automotive_business/chapter1/section4/item4.html) describes the relation of flow, takt and just-in-time production. *Takt* means beat or measure.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-1992]: Severe storms flooded parts of Southern California in February 1992; the magnitude 6.1 Joshua Tree earthquake struck on 22 April 1992; the Los Angeles riots began on 29 April 1992.",
+    "after": "[^v1-c6-1992]: For the February floods, see NOAA, [*Storm Data*, February 1992](https://www.ncei.noaa.gov/pub/data/swdi/stormevents/pub-pdf/storm_1992_02.pdf), Southern California entries. The magnitude 6.1 Joshua Tree earthquake struck on 22 April; the Los Angeles riots began on 29 April. The [USGS Landers account](https://www.usgs.gov/programs/earthquake-hazards/science/m73-june-28-1992-landers-earthquake) places Joshua Tree in the sequence leading to June’s earthquake.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-endeavour]: Space Shuttle Endeavour (OV-105) was authorized in 1987 to replace Challenger, built largely from structural spares produced during the construction of Discovery and Atlantis, and first launched on mission STS-49 on 7 May 1992. It is now displayed at the California Science Center in Exposition Park, across from USC.",
+    "after": "[^v1-c6-endeavour]: Endeavour (OV-105) first launched on [STS-49, 7 May 1992](https://www.nasa.gov/mission/sts-49/). Authorized in 1987 as Challenger’s replacement, it used structural spares produced for the earlier orbiters; see NASA’s [Space Shuttle historic-properties synthesis report](https://historicproperties.arc.nasa.gov/downloads/shuttle_synthesisreport.pdf). Its retirement home is the California Science Center in Exposition Park, across from USC.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-landers]: The magnitude 7.3 Landers earthquake struck at 4:57 a.m. on 28 June 1992, and the magnitude 6.5 Big Bear earthquake about three hours later. See U.S. Geological Survey summaries.",
+    "after": "[^v1-c6-landers]: The [USGS contemporary report](https://pubs.usgs.gov/of/1993/0227/report.pdf) gives Landers at 4:57 a.m. and Big Bear at 8:05 a.m. on 28 June 1992. The chapter retains the contemporary 6.5 magnitude reported for Big Bear; later moment-magnitude summaries give 6.3. Landers was magnitude 7.3. The date is sixty days after 29 April.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-wright]: T. P. Wright, \"Factors Affecting the Cost of Airplanes\" (1936), *Journal of the Aeronautical Sciences* 3(4): 122–128.",
+    "after": "[^v1-c6-wright]: T. P. Wright, [\"Factors Affecting the Cost of Airplanes\"](https://pdodds.w3.uvm.edu/research/papers/others/1936/wright1936a.pdf), *Journal of the Aeronautical Sciences* 3(4) (1936): 122–128. Wright’s original treatment used cumulative-average labor cost; modern experience curves also fit unit costs. A constant fractional fall with each doubling corresponds to a power law. The figure’s 20 and 5 percent rates are illustrative, not universal estimates.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-hot]: J. M. Carlson and John Doyle, \"Highly optimized tolerance: A mechanism for power laws in designed systems\" (1999), *Physical Review E* 60: 1412; \"Complexity and robustness\" (2002), *PNAS* 99 (suppl. 1): 2538–2545.",
+    "after": "[^v1-c6-hot]: J. M. Carlson and John Doyle, [\"Highly optimized tolerance: A mechanism for power laws in designed systems\"](https://pdodds.w3.uvm.edu/teaching/courses/2008-01UVM-295/docs/papers/1999/carlson1999a.pdf), *Physical Review E* 60 (1999): 1412–1427; [\"Complexity and robustness\"](https://pmc.ncbi.nlm.nih.gov/articles/PMC128573/), *PNAS* 99, suppl. 1 (2002): 2538–2545. Robustness to anticipated disturbances can coexist with sensitivity to unanticipated ones; this does not make every failure unavoidable or every safeguard counterproductive.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-chaos]: James Gleick, *Chaos: Making a New Science* (1987); Edward Lorenz's 1972 talk, \"Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas?\"",
+    "after": "[^v1-c6-chaos]: James Gleick, *Chaos: Making a New Science* (1987); Edward Lorenz, \"Predictability: Does the Flap of a Butterfly’s Wings in Brazil Set Off a Tornado in Texas?\" (1972). The mathematical foundation is Lorenz’s [\"Deterministic Nonperiodic Flow\"](https://doi.org/10.1175/1520-0469(1963)020%3C0130:DNF%3E2.0.CO;2), *Journal of the Atmospheric Sciences* 20 (1963): 130–141: sensitivity limits prediction from finite-precision initial data, not the existence of deterministic rules.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-langer]: Ellen J. Langer, \"The illusion of control\" (1975), *Journal of Personality and Social Psychology* 32: 311–328.",
+    "after": "[^v1-c6-langer]: Ellen J. Langer, [\"The illusion of control\"](https://nuovoeutile.it/wp-content/uploads/2014/10/Langer1975_IllusionofControl.pdf), *Journal of Personality and Social Psychology* 32 (1975): 311–328. Choice and other cues associated with skill affected participants’ valuation and expectations in chance situations; they did not improve the underlying odds.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-northridge]: The magnitude 6.7 Northridge earthquake struck on 17 January 1994. Sixteen people died in the collapse of the Northridge Meadows apartments; total deaths are usually given as 57 to about 60, with damage estimated at $20–40 billion. Sections of Interstate 10 and the Interstate 5 / State Route 14 interchange collapsed. See U.S. Geological Survey and California Seismic Safety Commission reports.",
+    "after": "[^v1-c6-northridge]: The [California Geological Survey account](https://conservation.ca.gov/cgs/earthquakes/northridge) dates the magnitude 6.7 Northridge earthquake to 17 January 1994, at 4:31 a.m. Death and loss estimates vary with what is counted; the commonly cited toll is 57, including sixteen at Northridge Meadows, and damage was in the tens of billions of dollars. See also the [USGS overview](https://pubs.usgs.gov/of/1996/ofr-96-0263/introduc.htm). The author’s private movements and apartment recollections are personal testimony.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-welds]: The discovery of brittle fractures in welded steel moment-frame connections after Northridge led to the SAC Joint Venture research program and revised design standards; see FEMA-350 (2000).",
+    "after": "[^v1-c6-welds]: FEMA-350, *Recommended Seismic Design Criteria for New Steel Moment-Frame Buildings* (2000), arose from the SAC research program following brittle connection fractures at Northridge; see the [NEHRP steel guidance collection](https://nehrp.gov/library/guidance_steel.htm) and [NIST’s account of pre-Northridge connections](https://www.nist.gov/programs-projects/seismic-assessment-and-retrofit-pre-northridge-earthquake-panel-zones-steel-moment).",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-rebuild]: The damaged section of the Santa Monica Freeway reopened in April 1994, about 74 days ahead of the contract schedule, after the contractor, C. C. Myers, earned an incentive bonus for early completion.",
+    "after": "[^v1-c6-rebuild]: The [Federal Highway Administration case study of emergency recovery incentives](https://rosap.ntl.bts.gov/view/dot/39118/dot_39118_DS1.pdf) records the Santa Monica Freeway reopening in April 1994, seventy-four days ahead of the contract schedule, with an early-completion incentive paid to C. C. Myers.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-fuller]: R. Buckminster Fuller introduced \"energy slaves\" in a 1940 *Fortune* feature on world energy. Estimates of the modern equivalent vary with assumptions; average U.S. primary energy use of roughly 10 kilowatts per person corresponds to about a hundred laborers working continuously at 100 watts.",
+    "after": "[^v1-c6-fuller]: R. Buckminster Fuller’s 1940 *Fortune* comparison is described in his own [*Everything I Know*, section 3](https://www.bfi.org/about-fuller/everything-i-know/section-3/). Definitions of an \"energy slave\" differ. As an illustrative power comparison, 10 kilowatts per person divided by 100 watts is a hundred continuous workers; primary energy is not all converted into useful mechanical work, and real workers cannot labor around the clock. This is a scale metaphor, not an equivalence of human lives or working conditions.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-prigogine]: Ilya Prigogine, Nobel Prize in Chemistry 1977, for contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures; see Ilya Prigogine and Isabelle Stengers, *Order Out of Chaos* (1984). The reading of industry as a dissipative structure is the author's.",
+    "after": "[^v1-c6-prigogine]: Ilya Prigogine, [Nobel lecture, \"Time, Structure and Fluctuations\"](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf) (1977); Ilya Prigogine and Isabelle Stengers, *Order Out of Chaos* (1984). Dissipative structures require sustained flows under suitable conditions. Reading industry through this framework is the author’s extension, not a claim that an economy is one of Prigogine’s experimentally characterized structures.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-toaster]: Thomas Thwaites, *The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch* (2011).",
+    "after": "[^v1-c6-toaster]: Thomas Thwaites, *The Toaster Project: Or a Heroic Attempt to Build a Simple Electric Appliance from Scratch* (2011). His [project portfolio](https://www.thomasthwaites.com/folio5/wp-content/uploads/2019/07/Thomas_Thwaites_Work_Samples.pdf) records the £1,187.54 cost. His [first-person account](https://beyondtellerrand.com/events/dusseldorf-2023/speakers/thomas-thwaites) explains the eventual use of recycled plastic; the project did not successfully refine plastic from crude oil.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-deming]: W. Edwards Deming, *Out of the Crisis* (1982). Deming lectured to Japanese engineers and executives beginning in 1950; the Deming Prize was established in his honor in 1951.",
+    "after": "[^v1-c6-deming]: W. Edwards Deming, *Out of the Crisis* (1986), revised from the 1982 *Quality, Productivity, and Competitive Position*; see the [National Diet Library edition record](https://ndlsearch.ndl.go.jp/books/R100000002-I000003164073). [JUSE’s account](https://www.juse.or.jp/deming_en/award/) records his 1950 visit; the Deming Prize was established in 1951.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-nummi]: New United Motor Manufacturing, Inc. (NUMMI), the GM–Toyota joint venture in Fremont, California, operated from 1984 to 2010. See, e.g., John Shook, \"How to Change a Culture: Lessons from NUMMI\" (2010), *MIT Sloan Management Review* 51(2).",
+    "after": "[^v1-c6-nummi]: John Shook, [\"How to Change a Culture: Lessons from NUMMI\"](https://www.lean.org/downloads/35.pdf), *MIT Sloan Management Review* 51(2) (2010): 63–68. Shook’s firsthand account connects changes in work and management to changes in culture. NUMMI, the GM–Toyota joint venture in Fremont, operated from 1984 to 2010; the lesson is not that keeping workers automatically guarantees success.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-maize]: On teosinte as maize's wild ancestor and a single domestication in southern Mexico, Yoshihiro Matsuoka et al., \"A single domestication for maize shown by multilocus microsatellite genotyping,\" *PNAS* 99 (2002): 6080–6084. The genes are *teosinte branched1* (John Doebley, Adrian Stec and Lauren Hubbard, \"The evolution of apical dominance in maize,\" *Nature* 386 (1997): 485–488) and *teosinte glume architecture1* (Huai Wang et al., \"The origin of the naked grains of maize,\" *Nature* 436 (2005): 714–719). Dogs were domesticated before agriculture. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c6-maize]: Yoshihiro Matsuoka et al., [\"A single domestication for maize shown by multilocus microsatellite genotyping\"](https://pubmed.ncbi.nlm.nih.gov/11983901/), *PNAS* 99 (2002): 6080–6084; John Doebley, Adrian Stec and Lauren Hubbard, [\"The evolution of apical dominance in maize\"](https://pubmed.ncbi.nlm.nih.gov/9087405/), *Nature* 386 (1997): 485–488; Huai Wang et al., [\"The origin of the naked grains of maize\"](https://www.nature.com/articles/nature03863), *Nature* 436 (2005): 714–719. These identify major effects of *tb1* and *tga1*, not a two-gene explanation of all domestication. Regina A. Fairbanks and Jeffrey Ross-Ibarra, [\"An ancient origin of the naked grains of maize\"](https://pmc.ncbi.nlm.nih.gov/articles/PMC12207465/) (2025), find that the maize-associated *tga1* variant substantially predates domestication: selection can recruit existing variation, not merely await a new mutation.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-arthur]: W. Brian Arthur, *The Nature of Technology: What It Is and How It Evolves* (Free Press, 2009). For evidence that invention is combinatorial, Hyejin Youn et al., \"Invention as a combinatorial process: evidence from US patents,\" *Journal of the Royal Society Interface* 12 (2015): 20150272; on the \"adjacent possible,\" Stuart Kauffman, *Investigations* (Oxford University Press, 2000). (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c6-arthur]: W. Brian Arthur, *The Nature of Technology: What It Is and How It Evolves* (Free Press, 2009). For patent evidence, Hyejin Youn et al., [\"Invention as a combinatorial process: evidence from US patents\"](https://arxiv.org/abs/1406.2938), *Journal of the Royal Society Interface* 12 (2015): 20150272. On the adjacent possible, Stuart Kauffman, *Investigations* (Oxford University Press, 2000). Recombination supports the chapter’s picture; it does not prove that technology alone expands what is physically possible.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-wrightlaw]: For Wright's law across technologies, Béla Nagy, J. Doyne Farmer, Quan M. Bui and Jessika E. Trancik, \"Statistical basis for predicting technological progress,\" *PLOS ONE* 8 (2013): e52669; for solar modules, Rupert Way, Matthew C. Ives, Penny Mealy and J. Doyne Farmer, \"Empirically grounded technology forecasts and the energy transition,\" *Joule* 6 (2022): 2057–2082. The learning rate varies by technology and some large one-off projects show little or negative learning; see Arnulf Grübler, \"The costs of the French nuclear scale-up: A case of negative learning by doing,\" *Energy Policy* 38 (2010): 5174–5188. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c6-wrightlaw]: Béla Nagy et al., [\"Statistical basis for predicting technological progress\"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052669), *PLOS ONE* 8 (2013): e52669; Rupert Way et al., [\"Empirically grounded technology forecasts and the energy transition\"](https://ora.ox.ac.uk/objects/uuid:17256b64-f822-40ef-8770-5d0fa1ddc73e), *Joule* 6 (2022): 2057–2082. Rates differ by technology and circumstance. Arnulf Grübler, [\"The costs of the French nuclear scale-up: A case of negative learning by doing\"](https://www.sciencedirect.com/science/article/abs/pii/S0301421510003526), *Energy Policy* 38 (2010): 5174–5188, supplies a counterexample to automatic cost reduction, not a general measured rate for all megaprojects.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-monoculture]: On the Lumper potato and the famine, Cormac Ó Gráda, *Black '47 and Beyond: The Great Irish Famine in History, Economy, and Memory* (Princeton University Press, 1999). On the Gros Michel banana, lost to Fusarium wilt, and the threat to its clonal successor, the Cavendish, from Tropical Race 4, see Dan Koeppel, *Banana: The Fate of the Fruit That Changed the World* (2008). (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c6-monoculture]: Cormac Ó Gráda, *Black ’47 and Beyond* (Princeton University Press, 1999), on potato dependence and the Irish famine; biological susceptibility alone does not explain the famine’s social consequences. For bananas, Randy C. Ploetz, [\"Fusarium Wilt of Banana\"](https://apsjournals.apsnet.org/doi/epdf/10.1094/phyto-04-15-0101-rvw), *Phytopathology* 105 (2015): 1512–1521. Gros Michel lost its dominant export role but was not extinguished; Cavendish’s resistance to race 1 does not confer resistance to tropical race 4.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-specialization]: Eric Bonabeau, Guy Theraulaz and Jean-Louis Deneubourg, \"Quantitative study of the fixed threshold model for the regulation of division of labour in insect societies,\" *Proceedings of the Royal Society B* 263 (1996): 1565–1569; Guy Theraulaz, Eric Bonabeau and Jean-Louis Deneubourg, \"Response threshold reinforcements and division of labour in insect societies,\" *Proceedings of the Royal Society B* 265 (1998): 327–332. These are models of insect colonies; human specialization also runs through markets, institutions and training. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c6-specialization]: Eric Bonabeau, Guy Theraulaz and Jean-Louis Deneubourg, [\"Quantitative study of the fixed threshold model for the regulation of division of labour in insect societies\"](https://crca.cbi-toulouse.fr/wp-content/uploads/2018/06/16.pdf), *Proceedings of the Royal Society B* 263 (1996): 1565–1569; Guy Theraulaz, Eric Bonabeau and Jean-Louis Deneubourg, [\"Response threshold reinforcement and division of labour in insect societies\"](https://crca.cbi-toulouse.fr/wp-content/uploads/2018/06/18.pdf), *Proceedings of the Royal Society B* 265 (1998): 327–332. These are models of insect colonies; human specialization also runs through markets, institutions and training.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "A/B",
+    "before": "[^v1-c6-market]: Adam Smith, *The Wealth of Nations* (1776), Book I, chapter 3, \"That the Division of Labour is limited by the Extent of the Market.\" The productivity comparison uses Smith's figures from Book I, chapter 1, cited above: about 4,800 pins per worker per day against fewer than twenty working alone. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c6-market]: Adam Smith, *The Wealth of Nations* (1776), Book I, chapters 1 and 3, [full text](https://www.gutenberg.org/ebooks/3300). Chapter 3 is \"That the Division of Labour is limited by the Extent of the Market.\" The pin comparison uses Smith’s illustrative figures: ten workers together making about 48,000 pins a day, against fewer than twenty apiece working separately. It is not a controlled modern productivity estimate.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "",
+    "after": "[^v1-c6-bainbridge]: Lisanne Bainbridge, [\"Ironies of automation\"](https://doi.org/10.1016/0005-1098(83)90046-8), *Automatica* 19(6) (1983): 775–779. Automation can remove the practice on which exceptional human intervention depends. Alice’s further proposal—keeping ignorance visible and testing the system’s own success story—is the author’s design wager.",
+    "reason": "New source supporting approved addition.",
+    "disposition": "applied"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-servo]: On servo writing for hard disk drives, including push-pin positioning through a port in the head-disk assembly, laser-interferometer position measurement and clock-track timing, see, e.g., Abdullah Al Mamun, GuoXiao Guo and Chao Bi, *Hard Disk Drive: Mechatronics and Control* (2007). Details of the specific equipment Sam worked on are omitted.",
+    "after": "[^v1-i6-servo]: For a contemporary example of laser-interferometer servo positioning and clock-track writing, see [U.S. Patent 4,920,442](https://patents.google.com/patent/US4920442A/en) (1990). Abdullah Al Mamun, GuoXiao Guo and Chao Bi, *Hard Disk Drive: Mechatronics and Control* (2007), provides the wider control context. The chapter describes a representative external servo-writer arrangement, not a recovered specification of the author’s particular fixture; equipment and proprietary language remain unidentified.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-visicalc]: Dan Bricklin and Bob Frankston's VisiCalc was released for the Apple II in 1979.",
+    "after": "[^v1-i6-visicalc]: Dan Bricklin’s [first-person development history](https://www.bricklin.com/history/saiproduct1_m.htm) records VisiCalc for the Apple II shipping in October 1979. The claim here concerns a decisive personal-computer application, not the invention of all software or all electronic tabulation.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-sap]: SAP released R/3, its client-server enterprise resource planning system, in 1992.",
+    "after": "[^v1-i6-sap]: SAP’s [company history, 1991–2000](https://www.sap.com/about/company/history/1991-2000.html), records the 1992 release of R/3 and its client-server architecture.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-debt]: Ward Cunningham, \"The WyCash Portfolio Management System,\" experience report, OOPSLA '92 (1992).",
+    "after": "[^v1-i6-debt]: Ward Cunningham, [\"The WyCash Portfolio Management System\"](https://c2.com/doc/oopsla92.html), OOPSLA ’92 experience report (1992). Shipping early can buy learning; debt accumulates when the implementation fails to incorporate the improved understanding. Refactoring repays it.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-learning]: Early examples include Bayesian spam filtering (M. Sahami et al., 1998; Paul Graham, \"A Plan for Spam,\" 2002) and Amazon's item-to-item collaborative filtering (Greg Linden, Brent Smith and Jeremy York, *IEEE Internet Computing* 7(1), 2003).",
+    "after": "[^v1-i6-learning]: Mehran Sahami et al., [\"A Bayesian Approach to Filtering Junk E-Mail\"](https://cdn.aaai.org/Workshops/1998/WS-98-05/WS98-05-009.pdf) (1998); Greg Linden, Brent Smith and Jeremy York, [\"Amazon.com Recommendations: Item-to-Item Collaborative Filtering\"](https://doi.org/10.1109/MIC.2003.1167344), *IEEE Internet Computing* 7(1) (2003): 76–80. These demonstrate distinct ways of embedding learned statistical structure in applications, not one universal algorithm.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-marx]: Karl Marx, *Capital*, Volume I (1867), chapter 10: \"Capital is dead labour, that, vampire-like, only lives by sucking living labour.\" The reading of applications as frozen labor and agents as liquid labor, and the conjecture about where obligations should live, are the author's. On tight coupling, Charles Perrow, *Normal Accidents* (1984), ch. 3.",
+    "after": "[^v1-i6-marx]: Karl Marx, [*Capital*, Volume I, chapter 10](https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm) (1867), calls capital \"dead labour.\" The extension to applications as frozen labor and agents as liquid labor, and the proposal to separate revisable procedures from durable obligations, are the author’s. On tight coupling, Charles Perrow, *Normal Accidents* (1984), chapter 3: consequential dependencies, time pressure and limited slack matter, not merely whether calls are chained.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-gabriel]: Richard P. Gabriel, \"Lisp: Good News, Bad News, How to Win Big\" (1989; published in *AI Expert*, 1991), section \"The Rise of Worse Is Better.\"",
+    "after": "[^v1-i6-gabriel]: Richard P. Gabriel, [\"The Rise of Worse Is Better\"](https://dreamsongs.com/WorseIsBetter.html), originally part of \"Lisp: Good News, Bad News, How to Win Big.\" Gabriel’s retrospective dates the talk to spring 1989. His comparison concerns tradeoffs among implementation simplicity, correctness, consistency and completeness—not indiscriminate tolerance of bugs.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-conway]: Melvin E. Conway, \"How Do Committees Invent?\" (1968), *Datamation* 14(4): 28–31; named \"Conway's law\" by Frederick P. Brooks Jr. in *The Mythical Man-Month* (1975). For empirical support, see Alan MacCormack, Carliss Baldwin and John Rusnak, \"Exploring the duality between product and organizational architectures\" (2012), *Research Policy* 41(8): 1309–1324.",
+    "after": "[^v1-i6-conway]: Melvin E. Conway, [\"How Do Committees Invent?\"](https://melconway.com/Home/Committees_Paper.html), *Datamation* 14(4) (1968): 28–31; Alan MacCormack, Carliss Baldwin and John Rusnak, [\"Exploring the duality between product and organizational architectures\"](https://doi.org/10.1016/j.respol.2012.04.011), *Research Policy* 41(8) (2012): 1309–1324. The mirroring hypothesis concerns organizational and technical structure; it does not by itself reveal whether two departments trust each other.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-wal]: Jim Gray and Andreas Reuter, *Transaction Processing: Concepts and Techniques* (Morgan Kaufmann, 1993); C. Mohan et al., \"ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging\" (1992), *ACM Transactions on Database Systems* 17(1): 94–162. The properties are often summarized as ACID (atomicity, consistency, isolation, durability), a term from Theo Härder and Andreas Reuter (1983). Real systems differ in how they log, redo and undo.",
+    "after": "[^v1-i6-wal]: C. Mohan et al., [\"ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging\"](https://www.cs.cmu.edu/~15849g/readings/mohan92.pdf), *ACM Transactions on Database Systems* 17(1) (1992): 94–162; Jim Gray and Andreas Reuter, *Transaction Processing: Concepts and Techniques* (1993). For a concise implementation account, see [PostgreSQL’s WAL introduction](https://www.postgresql.org/docs/current/wal-intro.html). Relevant log records reach durable storage before the associated data-page changes; commit and recovery make transaction guarantees visible despite partial physical writes. Logging is not an independent backup.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-backup]: A common rule of thumb is \"3-2-1\": three copies, on two kinds of media, one of them off-site; see, e.g., the U.S. Cybersecurity and Infrastructure Security Agency's guidance on data backup. Copies that are writable by the same credentials or commands as the original can be lost to the same mistake.",
+    "after": "[^v1-i6-backup]: Paul Ruggiero and Matthew A. Heckathorn, [*Data Backup Options*](https://www.cisa.gov/sites/default/files/publications/data_backup_options.pdf), US-CERT (2012), describes the 3-2-1 rule: three copies, two media types, one off-site. Independent access and tested restoration matter as well as the count. Backups address recovery; validation, permissions and confirmation can also prevent some destructive mistakes.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-workflow]: Workflow Management Coalition, *The Workflow Reference Model* (1995); Object Management Group, *Business Process Model and Notation* (BPMN) 2.0 (2011). The retry rule reflects the idempotence discussed in Interlude 4: a step that changes the world should be repeated only when its first attempt is known not to have taken effect, or when repeating it is harmless.",
+    "after": "[^v1-i6-workflow]: David Hollingsworth, [*The Workflow Reference Model*](https://wfmc.org/wp-content/uploads/2022/09/tc003v11.pdf), Workflow Management Coalition, TC00-1003, issue 1.1 (19 January 1995). The schematic is an illustrative business workflow, not a BPMN specification. The retry rule depends on a known failed effect or a duplicate-safe operation; a timeout alone does not prove failure.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-expert]: Edward H. Shortliffe, *Computer-Based Medical Consultations: MYCIN* (Elsevier, 1976); Victor L. Yu et al., \"Antimicrobial Selection by a Computer: A Blinded Evaluation by Infectious Diseases Experts\" (1979), *JAMA* 242(12): 1279–1282; John McDermott, \"R1: A Rule-Based Configurer of Computer Systems\" (1982), *Artificial Intelligence* 19: 39–88; Virginia E. Barker and Dennis E. O'Connor, \"Expert Systems for Configuration at Digital: XCON and Beyond\" (1989), *Communications of the ACM* 32(3): 298–318. Reported savings vary by source and year. The rule shown is paraphrased in MYCIN's style. On the collapse of the expert-system market and the second AI winter, see Daniel Crevier, *AI: The Tumultuous History of the Search for Artificial Intelligence* (1993).",
+    "after": "[^v1-i6-expert]: Edward H. Shortliffe, *Computer-Based Medical Consultations: MYCIN* (1976); Bruce G. Buchanan and Edward H. Shortliffe, [*Rule-Based Expert Systems*, chapter 1](https://shortliffe.net/Buchanan-Shortliffe-1984/Chapter-01.pdf) (1984). Victor L. Yu et al., [\"Antimicrobial Selection by a Computer: A Blinded Evaluation by Infectious Diseases Experts\"](https://doi.org/10.1001/jama.1979.03300120033020), *JAMA* 242(12) (1979): 1279–1282, evaluated recommendations for ten meningitis cases, not outcomes in a clinical deployment. The rule in the text is a toy example, not prescribing advice or a verbatim MYCIN rule. John McDermott, [\"R1: A Rule-Based Configurer of Computer Systems\"](https://web.cs.wpi.edu/Research/aidg/CS540/papers/McDermott-R1-XCON.pdf), *Artificial Intelligence* 19 (1982): 39–88; Virginia E. Barker and Dennis E. O’Connor, \"Expert Systems for Configuration at Digital: XCON and Beyond,\" *Communications of the ACM* 32(3) (1989): 298–318. Savings are contemporary estimates, not audited causal estimates. The commercial contraction did not make rule-based systems disappear.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-shakey]: Nils J. Nilsson, \"Shakey the Robot,\" SRI International Technical Note 323 (1984); Richard E. Fikes and Nils J. Nilsson, \"STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving\" (1971), *Artificial Intelligence* 2: 189–208; Peter E. Hart, Nils J. Nilsson and Bertram Raphael, \"A Formal Basis for the Heuristic Determination of Minimum Cost Paths\" (1968), *IEEE Transactions on Systems Science and Cybernetics* 4(2): 100–107. A* extends Dijkstra's algorithm with an estimate of the remaining distance; with an estimate that never overestimates, it still finds a shortest path.",
+    "after": "[^v1-i6-shakey]: Nils J. Nilsson, ed., [*Shakey the Robot*](https://www.sri.com/wp-content/uploads/2021/12/629.pdf), SRI Technical Note 323 (1984); Richard E. Fikes and Nils J. Nilsson, \"STRIPS: A New Approach to the Application of Theorem Proving to Problem Solving,\" *Artificial Intelligence* 2 (1971): 189–208; Peter E. Hart, Nils J. Nilsson and Bertram Raphael, \"A Formal Basis for the Heuristic Determination of Minimum Cost Paths,\" *IEEE Transactions on Systems Science and Cybernetics* 4(2) (1968): 100–107. A* uses accumulated path cost plus an estimate of what remains. Shortest-path guarantees require suitable costs, an admissible heuristic and correct handling of revisited states; STRIPS is a planning formalism, not another name for A*.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "A/B",
+    "before": "[^v1-i6-spam]: The simplest such filters are \"naive Bayes\" classifiers, which treat each word's evidence as independent; see Mehran Sahami et al., \"A Bayesian Approach to Filtering Junk E-Mail\" (1998), AAAI Workshop on Learning for Text Categorization. Modern filters combine many signals beyond words.",
+    "after": "[^v1-i6-spam]: Mehran Sahami et al., [\"A Bayesian Approach to Filtering Junk E-Mail\"](https://cdn.aaai.org/Workshops/1998/WS-98-05/WS98-05-009.pdf) (1998). Naive Bayes treats the features as conditionally independent given the class; it does not claim that words in ordinary language are unconditionally independent. A classification score need not be a calibrated probability. The review thresholds are policy choices informed by evidence, consequences and review capacity.",
+    "reason": "Reference alignment: checked source, scope, chronology or citation details.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "",
+    "after": "[^v1-i6-recalculation]: Microsoft’s [Excel recalculation documentation](https://learn.microsoft.com/office/client-developer/excel/excel-recalculation) explains dependency trees and calculation chains. [Iteration settings](https://support.microsoft.com/en-us/excel/change-formula-recalculation-iteration-or-precision-in-excel) permit some circular references to be solved by repeated calculation; convergence depends on the formulas and settings.",
+    "reason": "New source supporting approved addition.",
+    "disposition": "applied"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "",
+    "after": "[^v1-i6-compensation]: Hector Garcia-Molina and Kenneth Salem, [\"Sagas\"](https://www.cs.princeton.edu/techreports/1987/070.pdf) (1987), on breaking long-lived transactions into steps with compensating transactions. Compensation makes an appropriate subsequent change; it does not erase an external physical event. A parcel’s return is not the same event as never dispatching it.",
+    "reason": "New source supporting approved addition.",
+    "disposition": "applied"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-lockin]: Paul A. David, \"Clio and the Economics of QWERTY\" (1985), *American Economic Review* 75(2): 332–337; W. Brian Arthur, \"Competing Technologies, Increasing Returns, and Lock-In by Historical Events\" (1989), *Economic Journal* 99: 116–131. The QWERTY account has been disputed; see S. J. Liebowitz and Stephen E. Margolis, \"The Fable of the Keys\" (1990), *Journal of Law and Economics* 33: 1–25.",
+    "after": "[^v1-c6-lockin]: Paul A. David, \"Clio and the Economics of QWERTY\" (1985), *American Economic Review* 75(2): 332–337; W. Brian Arthur, \"Competing Technologies, Increasing Returns, and Lock-In by Historical Events\" (1989), *Economic Journal* 99: 116–131. The QWERTY account has been disputed; see S. J. Liebowitz and Stephen E. Margolis, \"The Fable of the Keys\" (1990), *Journal of Law and Economics* 33: 1–25. Arthur’s [original paper](https://sites.santafe.edu/~wbarthur/Papers/EJ.pdf) formalizes the increasing-returns mechanism; the keyboard example remains explicitly disputed.",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-perrow]: Charles Perrow, *Normal Accidents: Living with High-Risk Technologies* (1984).",
+    "after": "[^v1-c6-perrow]: Charles Perrow, *Normal Accidents: Living with High-Risk Technologies* (1984). See particularly the distinction between complex interactions and tight coupling in chapters 2–3. These are risk conditions, not proof that every complex system must fail.",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-smith]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Book I, chapter 1.",
+    "after": "[^v1-c6-smith]: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Book I, chapter 1. [Original text](https://www.gutenberg.org/ebooks/3300), Book I, chapter 1; specialization long predates Smith’s account.",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-ford]: Frederick Winslow Taylor, *The Principles of Scientific Management* (1911). Ford's moving assembly line at Highland Park (1913–1914) cut Model T chassis assembly from about 12.5 hours to about 93 minutes.",
+    "after": "[^v1-c6-ford]: Frederick Winslow Taylor, *The Principles of Scientific Management* (1911). Ford's moving assembly line at Highland Park (1913–1914) cut Model T chassis assembly from about 12.5 hours to about 93 minutes. The Henry Ford’s [archive account](https://www.thehenryford.org/collections/explore/articles/detail/articles/2021/07/22/ford-methods-and-the-ford-shops) supplies the assembly-line context. The 93 minutes concerns chassis assembly, not every operation from raw material to finished car.",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-smil]: Vaclav Smil, *Energy and Civilization: A History* (2017).",
+    "after": "[^v1-c6-smil]: Vaclav Smil, *Energy and Civilization: A History* (2017). The power comparison concerns energy throughput and its conversion, not interchangeable measurements of primary energy, useful work and human metabolism.",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-toyota]: Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production* (1978; English 1988).",
+    "after": "[^v1-c6-toyota]: Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production* (1978; English 1988). See Toyota’s [institutional history](https://www.toyota-global.com/company/history_of_toyota/75years/text/entering_the_automotive_business/chapter1/section4/item4.html) and the firsthand NUMMI account below.",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "[^v1-i6-unix]: M. D. McIlroy, E. N. Pinson and B. A. Tague, \"UNIX Time-Sharing System: Foreword\" (1978), *Bell System Technical Journal* 57(6): 1899–1904. Pipes were added to Unix in 1973 at McIlroy's urging.",
+    "after": "[^v1-i6-unix]: M. D. McIlroy, E. N. Pinson and B. A. Tague, \"UNIX Time-Sharing System: Foreword\" (1978), *Bell System Technical Journal* 57(6): 1899–1904. Pipes were added to Unix in 1973 at McIlroy's urging. [Original publication](https://onlinelibrary.wiley.com/doi/10.1002/j.1538-7305.1978.tb02135.x).",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "[^v1-i6-linux]: Linus Torvalds announced Linux in August 1991 and released it under the GNU General Public License in 1992. The GNU project was launched by Richard Stallman in 1983.",
+    "after": "[^v1-i6-linux]: Linus Torvalds announced Linux in August 1991 and released it under the GNU General Public License in 1992. The GNU project was launched by Richard Stallman in 1983. The [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic) explains that the source-sharing obligations concern conveying covered software, not an obligation to publish every private modification.",
+    "reason": "Provide source link or constrain what the citation establishes.",
+    "disposition": "applied; approved local repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "Challenger was one, and Diane Vaughan's account",
+    "after": "Challenger adds an organizational warning: Diane Vaughan's account",
+    "reason": "Do not classify Challenger as a settled example of Perrow normal accidents; preserve Vaughan normalization link.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "Normal accidents are why complex systems fail even when nothing unusual happens. Robust-yet-fragile design explains why, when precision does run out, the failure tends to be large.",
+    "after": "Normal accidents concern small failures interacting in ways nobody expected. Robust-yet-fragile design exposes another edge: the disturbance our optimization left us least prepared to meet. Those mechanisms can overlap; they aren't the same mechanism.",
+    "reason": "Keep distinction between chaotic prediction horizon, complex/tightly coupled accidents and HOT fragility; no universal inference that loss of precision causes large failure.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "Karl Marx called machinery \"dead labor\":",
+    "after": "Marx’s \"dead labor\" lives in machinery:",
+    "reason": "His quoted sentence defines capital as dead labour; machinery is an embodiment, not the literal quoted subject.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-max]: Lion Air Flight 610 (October 2018) and Ethiopian Airlines Flight 302 (March 2019) crashed after the 737 MAX's MCAS software, relying on a single angle-of-attack sensor, repeatedly pushed the nose down; see the U.S. House Committee on Transportation and Infrastructure's final report (2020). A door plug detached from Alaska Airlines Flight 1282, a 737 MAX 9, in January 2024.",
+    "after": "[^v1-c6-max]: Lion Air Flight 610 (October 2018) and Ethiopian Airlines Flight 302 (March 2019) crashed after the 737 MAX's MCAS software, relying on a single angle-of-attack sensor, repeatedly pushed the nose down; see the U.S. House Committee on Transportation and Infrastructure's final report (2020). A door plug detached from Alaska Airlines Flight 1282, a 737 MAX 9, in January 2024. [House investigation and final report](https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation); [NTSB report on the door-plug separation](https://www.ntsb.gov/investigations/AccidentReports/Reports/AIR2504.pdf). The design/certification and manufacturing failures are distinct.",
+    "reason": "Complete citation link and source scope.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-dekker]: Sidney Dekker, *Just Culture: Balancing Safety and Accountability* (2007).",
+    "after": "[^v1-c6-dekker]: Sidney Dekker, *Just Culture: Balancing Safety and Accountability* (2007). [2007 edition](https://books.google.com/books/about/Just_Culture.html?id=uoslAQAAMAAJ). Learning and accountability must be balanced; just culture does not mean that all conduct is blameless.",
+    "reason": "Complete citation link and source scope.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-harari]: Yuval Noah Harari, *Sapiens: A Brief History of Humankind* (2011; English 2014), chapter 5. The claim is contested by archaeologists and historians.",
+    "after": "[^v1-c6-harari]: Yuval Noah Harari, *Sapiens: A Brief History of Humankind* (2011; English 2014), chapter 5. The claim is contested by archaeologists and historians. Harari reiterates that reading in his [own account of the book](https://www.ynharari.com/book/sapiens/); it is attributed here, not treated as a universal archaeological finding.",
+    "reason": "Complete citation link and source scope.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-container]: Marc Levinson, *The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger* (2006). The Ideal X sailed from Newark to Houston on 26 April 1956; Levinson reports loading costs of about $5.86 per ton for loose cargo in 1956 versus about $0.16 per ton for containers.",
+    "after": "[^v1-c6-container]: Marc Levinson, *The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger* (2006). The Ideal X sailed from Newark to Houston on 26 April 1956; Levinson reports loading costs of about $5.86 per ton for loose cargo in 1956 versus about $0.16 per ton for containers. [Publisher’s account](https://press.princeton.edu/books/paperback/9780691170817/the-box). The cost comparison is for ship loading, not the full door-to-door cost of freight.",
+    "reason": "Complete citation link and source scope.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-pencil]: Leonard E. Read, \"I, Pencil: My Family Tree as Told to Leonard E. Read\" (1958), *The Freeman*.",
+    "after": "[^v1-c6-pencil]: Leonard E. Read, \"I, Pencil: My Family Tree as Told to Leonard E. Read\" (1958), *The Freeman*. [Original essay, republished by FEE](https://fee.org/articles/i-pencil/). Its interpretation of decentralized coordination is an argument, not a controlled comparison of economic systems.",
+    "reason": "Complete citation link and source scope.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "before": "[^v1-c6-polanyi]: Michael Polanyi, *The Tacit Dimension* (1966).",
+    "after": "[^v1-c6-polanyi]: Michael Polanyi, *The Tacit Dimension* (1966). See the opening discussion of tacit knowing, especially the face-recognition example, in this [book excerpt](https://www.sjsu.edu/people/john.estill/courses/158-s15/The_Tacit_Dimension_Polanyi.pdf).",
+    "reason": "Complete citation link and source scope.",
+    "disposition": "applied; local factual/precision repair"
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "before": "[^v1-i6-linux]: Linus Torvalds announced Linux in August 1991 and released it under the GNU General Public License in 1992. The GNU project was launched by Richard Stallman in 1983. The [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic) explains that the source-sharing obligations concern conveying covered software, not an obligation to publish every private modification.",
+    "after": "[^v1-i6-linux]: Linus Torvalds announced Linux in August 1991 and released it under the GNU General Public License in 1992. The GNU project was launched by Richard Stallman in 1983. The [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic) explains that the source-sharing obligations concern conveying covered software, not an obligation to publish every private modification. The kernel archive preserves the [0.12 release notes](https://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12), including the proposed shift to GNU copyleft effective that February; the earlier 1991 license was different.",
+    "reason": "Complete citation link and source scope.",
+    "disposition": "applied; local factual/precision repair"
+  }
+]

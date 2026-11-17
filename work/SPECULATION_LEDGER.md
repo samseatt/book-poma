@@ -428,3 +428,32 @@ The graph, Ockham/head-count and alikeness material remain intact. No speculativ
 **Useful next work:** build a bounded comparison with the same agents/resources under centralized coordination, ordinary distributed consensus plus policy, and a negotiated civic arrangement. Vary common-model dependence, delayed consequences, conflicting objectives and adversarial participation. Measure correction, coordination cost, preserved disagreement, exit, distribution of burdens and irreversible harms. Test whether local rules remain contestable and whether validators/chaperones protect participants rather than reinforcing established winners. Specify the minimal shared commitments and the procedure for revising them; don't count any coordinated outcome as confirmation.
 
 **Disposition:** preserve the bold hourglass/civic proposal and its exact ending. Supporting technical repairs strengthen the analogy without pretending to prove it. See the [adoption notes](volume-1-drafting/interlude-05-fable-adoption-2026-11-16/ADOPTION_NOTES.md).
+
+
+## S026 — Success can starve the evidence against control
+
+**Recorded:** 17 November 2026, Chapter 6 adoption. **Status:** retain and develop Alice’s wager; preserve the four-question industry foundry in the main argument.
+
+**The offer:** industrial procedures make a pattern runnable beyond an individual mind. Repetition can make production cheaper, while specialization and standards make a larger coordinated structure possible. The stronger Alice claim is that successful engineering can deprive its operators and institutions of encounters with their limits, allowing confidence to outpace actual control. Design should keep ignorance visible without making its exercises another reassuring score.
+
+**Supported footing:** empirical learning curves, recombination of technologies, response-threshold models in insect societies, HOT robustness/fragility, Perrow’s interaction/coupling account, normalization of deviance, Langer’s control-illusion experiments and Bainbridge’s loss of practiced intervention. These are distinct mechanisms, not one universal law. Industrial energy flows support a thermodynamic analogy, not a full thermodynamic theory of institutions.
+
+**Why still speculative:** fewer failures can accurately indicate safer operation; success need not inevitably suppress learning, and new sensors or drills can reveal limits. Neither HOT nor chaos establishes that the illusion of control grows faster than control at civilization scale. The “last emergence before stories,” procedures borrowed into genomes, and possibility-space foundry are philosophical organizing claims; they are not proofs of a sharp natural domain boundary or new physical laws. Standards and diversity can also improve robustness together.
+
+**Useful next work:** compare similarly reliable systems with different exposure to near misses, outside challenges and independent rehearsal. Measure calibration under shifted conditions, detection of novel failure modes, recovery and preserved dissent rather than merely exercise scores. Test whether success suppresses useful evidence beyond ordinary skill decay and organizational incentives. A counterexample should constrain the claim, not be redescribed as another cage.
+
+**Disposition:** retain the thesis and humor. Known mechanisms now precede Alice; her proposed organizational response remains an open research/design offer. See the [pair adoption record](volume-1-drafting/pair-06-fable-adoption-2026-11-17/ADOPTION_NOTES.md).
+
+## S027 — Freeze the promises, thaw the procedure
+
+**Recorded:** 17 November 2026, Interlude 6 adoption. **Status:** adopt Fable’s revised Bob and keep the author’s exploratory direction. Related: S023 (managed continuity), S025 (civic waist).
+
+**The offer:** agents turn fixed application work into “liquid labor.” If the procedure can rewrite its own steps, durable obligations should be enforced somewhere that particular replanning process cannot rewrite at will: atomic ledgers, approval gates, review policies and checkable contracts. Work can adapt without dissolving accountability. Who holds the freezer, and how much can be frozen, remain the live questions.
+
+**Supported footing:** transactions/recovery, privilege separation, workflows, compensation, idempotence, external policy enforcement and cost-sensitive decision thresholds already exist in conventional software. Agentic tool use creates new combinations and attack paths; it does not invent all external constraints. APIs expose checkable claims but do not guarantee truth or harmless consequences. Human review adds evidence and authority, not certainty.
+
+**Why still speculative:** formalizing an obligation may omit the very circumstance that matters; a perfect shape/type check can approve a harmful act. The enforcement layer may be bypassed, captured, fail with the same infrastructure, or encode outdated promises. Tight coupling is about dependencies/time/slack, not every sequence of API calls. The proposed division is a design synthesis to test, not a proof of safety, an established theory of labor or an instruction that constitutions must never change.
+
+**Useful next work:** compare a bounded adaptive workflow with constraints embedded in its prompt/procedure, conventional external enforcement, and a contestable layered obligations system. Inject ambiguous completion, duplicate calls, partial physical success, incompatible duties and malicious inputs. Measure prevented harm, false blocks, recovery, escalation burden and who can legitimately revise the promise. Require explicit governance for revision, separate from task-level replanning. Connect to later justice-as-assurance and commons diagnosis rather than treating the freezer as an unquestionable king.
+
+**Disposition:** keep the exact freeze/thaw formulation, opening and closing ceremony, and unresolved freezer question. Local repairs support the wager without pretending to prove it. See the [pair adoption record](volume-1-drafting/pair-06-fable-adoption-2026-11-17/ADOPTION_NOTES.md).

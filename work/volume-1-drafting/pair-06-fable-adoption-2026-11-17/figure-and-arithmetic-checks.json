@@ -1,0 +1,17 @@
+{
+  "learning_exponent_20pct": 0.3219280948873623,
+  "ratio_at_1000": 0.1081971236125284,
+  "ratio_at_million": 0.011706617558024749,
+  "ratio_5pct_at_million": 0.3597464453215755,
+  "days_riots_to_landers": 60,
+  "days_riots_to_endeavour": 8,
+  "power_ratio_illustration": 100.0,
+  "figures_visually_checked": [
+    "learning-curve.png",
+    "order-workflow.png",
+    "score-thresholds.png"
+  ],
+  "workflow_failed_dispatch_state": "approved/unshipped",
+  "score_not_claimed_calibrated": true,
+  "all_curves_illustrative": true
+}

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">The arrow turns around</title>
+<desc id="desc">A log-log plot of cost per unit against cumulative units produced, from one to a million. A straight descending line shows a learning rate of 20 percent: each doubling of cumulative output multiplies cost by 0.8, so a thousand units cost about a tenth as much each as the first, and a million about a hundredth. A flatter dashed line illustrates costs falling 5 percent per doubling; it is not a measured class of projects. Illustrative values; the regularity is empirical, not a law of nature.</desc>
+<rect width="1000" height="600" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#171717;text-anchor:middle}.title{font-size:28px;font-weight:700}.label{font-size:18px}.small{font-size:16px;fill:#444}.tick{font-size:16px;fill:#444}.axis{stroke:#222;stroke-width:2;fill:none}.grid{stroke:#e4e4e4;stroke-width:1}.main{stroke:#111;stroke-width:3.4;fill:none}.slow{stroke:#888;stroke-width:2.4;stroke-dasharray:8 6;fill:none}.pt{fill:#555;stroke:#fff;stroke-width:2.5}.lead{stroke:#666;stroke-width:1.3;fill:none}</style>
+<text class="title" x="500" y="44">The arrow turns around</text>
+<line class="grid" x1="150.0" y1="100" x2="150.0" y2="500"/><text class="tick" x="150.0" y="526">1</text>
+<line class="grid" x1="280.0" y1="100" x2="280.0" y2="500"/><text class="tick" x="280.0" y="526">10</text>
+<line class="grid" x1="410.0" y1="100" x2="410.0" y2="500"/><text class="tick" x="410.0" y="526">100</text>
+<line class="grid" x1="540.0" y1="100" x2="540.0" y2="500"/><text class="tick" x="540.0" y="526">1,000</text>
+<line class="grid" x1="670.0" y1="100" x2="670.0" y2="500"/><text class="tick" x="670.0" y="526">10,000</text>
+<line class="grid" x1="800.0" y1="100" x2="800.0" y2="500"/><text class="tick" x="800.0" y="526">100,000</text>
+<line class="grid" x1="930.0" y1="100" x2="930.0" y2="500"/><text class="tick" x="930.0" y="526">1,000,000</text>
+<line class="grid" x1="150" y1="100.0" x2="930" y2="100.0"/><text class="tick" x="138" y="105.0" style="text-anchor:end">1</text>
+<line class="grid" x1="150" y1="300.0" x2="930" y2="300.0"/><text class="tick" x="138" y="305.0" style="text-anchor:end">0.1</text>
+<line class="grid" x1="150" y1="500.0" x2="930" y2="500.0"/><text class="tick" x="138" y="505.0" style="text-anchor:end">0.01</text>
+<path class="axis" d="M150,90 V500 H940"/>
+<text class="label" x="540.0" y="556">cumulative units produced</text>
+<text class="label" transform="translate(58,300.0) rotate(-90)">cost per unit (first unit = 1)</text>
+<path class="main" d="M150.0,100.0 L930.0,486.3"/>
+<path class="slow" d="M150.0,100.0 L930.0,188.8"/>
+<text class="small" x="732.0" y="200.3">illustrative slower learning:</text><text class="small" x="732.0" y="220.3">cost × 0.95 per doubling</text>
+<text class="label" transform="translate(342.0,179.1) rotate(26.3)">each doubling: cost × 0.8</text>
+<circle class="pt" cx="150.0" cy="100.0" r="8"/>
+<text class="label" x="164.0" y="86.0" style="text-anchor:start">first unit</text>
+<circle class="pt" cx="540.0" cy="293.2" r="8"/>
+<text class="label" x="528.0" y="337.2" style="text-anchor:end">1,000 made: about a tenth</text>
+<circle class="pt" cx="930.0" cy="486.3" r="8"/><path class="lead" d="M924.0,478.3 L870,342"/><text class="label" x="965" y="312" style="text-anchor:end">1,000,000 made:</text><text class="label" x="965" y="334" style="text-anchor:end">about a hundredth</text>
+<text class="small" x="500" y="590">Illustrative values. Wright's law is an observed regularity, not a law of nature.</text>
+</svg>

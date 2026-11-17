@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "incoming_comments_retained": true,
+    "canonical_comments_retained": true,
+    "incoming_ending_exact": true,
+    "canonical_ending_exact": false,
+    "incoming_heading_retained": true,
+    "words_incoming": 8085,
+    "words_adopted": 9209,
+    "sha256": "c24f9a1888b6c0509877281edba9049855f0058cf7ee4d08ff8e2dc25e8d3e37"
+  },
+  "interlude": {
+    "incoming_comments_retained": true,
+    "canonical_comments_retained": true,
+    "incoming_ending_exact": true,
+    "canonical_ending_exact": false,
+    "incoming_heading_retained": true,
+    "words_incoming": 6402,
+    "words_adopted": 6968,
+    "sha256": "c010b2ae8b64b3e70f8ddf28f62220a5bc92ff3094138ac02a35dd67c6454106"
+  }
+}

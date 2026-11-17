@@ -1,0 +1,32 @@
+{
+  "chapter": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-chapter.md",
+    "sha256": "c24f9a1888b6c0509877281edba9049855f0058cf7ee4d08ff8e2dc25e8d3e37",
+    "defined_notes": 38,
+    "note_references": 38,
+    "parsed_notes": 38,
+    "html_note_backlinks": 38,
+    "display_equations": 1,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "interlude": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-interlude.md",
+    "sha256": "c010b2ae8b64b3e70f8ddf28f62220a5bc92ff3094138ac02a35dd67c6454106",
+    "defined_notes": 18,
+    "note_references": 18,
+    "parsed_notes": 18,
+    "html_note_backlinks": 18,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "source_tree_unchanged": true,
+  "svg_xml_valid": true,
+  "rendered_figures_reviewed": true,
+  "diff_whitespace_clean": true
+}

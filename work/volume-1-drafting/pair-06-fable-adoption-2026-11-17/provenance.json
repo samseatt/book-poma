@@ -1,0 +1,13 @@
+{
+  "repo": "/Users/samseatt/projects/book-poma",
+  "head": "178a05dc0287f670d15a53f4f148e8b87d1766a7",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-chapter.md": "58c2badd55f3fe92dca2189a485547a7b9f4889ac2071e3638ccd12060ee22c8",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-interlude.md": "a21289d440f4486a5e158dcdb4da1a7df8446c7ccd92eb2fe64b18af984334e5",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/chapter-6.md": "07e8ef13d39d67b00d54c9ec25cbeb48318972ae501bf9a47f58ea6f916dfc63",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-6.md": "e5cb4c05f2203fb6c2a84dc4abb90e4c21560064061cc77c9a1fb627b02042ad",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/06-chapter/learning-curve.svg": "2ba4f625f265eb4db75a2832134382bd7c208bc359ab78682c2da2c02426fb46",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/06-interlude/order-workflow.svg": "22322ab0aa4d35370e1d1af35e24c3359cf92aeea1a3590aa0cdee9a8447833b",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/06-interlude/score-thresholds.svg": "910b8a7de75a8563dd5a84a3aa5390411ba700cce3c66be4bddb44d5d048461e"
+  }
+}
