@@ -1,0 +1,17 @@
+{
+  "incoming_comments_preserved": 12,
+  "footnotes": 44,
+  "all_ids_defined_and_used": true,
+  "class_story_exact": true,
+  "proposal_exact_except_technical_end_to_end_bridge": true,
+  "incoming_closing_and_meditation_exact": true,
+  "author_chapters_verbatim": {
+    "03-chapter.md": true,
+    "04-chapter.md": true
+  },
+  "word_counts_whitespace_main_including_captions": {
+    "canonical.md": 3214,
+    "incoming.md": 7078,
+    "merged.md": 7222
+  }
+}

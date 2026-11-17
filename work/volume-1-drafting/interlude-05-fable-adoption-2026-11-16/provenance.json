@@ -1,0 +1,25 @@
+{
+  "head": "17bcdc032cea6084722e1b108b5b34ce25f7e14e",
+  "status": " M manuscripts/volume-1/03-chapter.md\n M manuscripts/volume-1/04-chapter.md\n M manuscripts/volume-1/04-interlude.md\n",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-interlude.md": "cbd6332a20be3b0ace16fd4265184cccddd8d43cbeac3e2bf79f73e10d1e2d7d",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-5.md": "80ebe9cfd899e22ce637ad65161972ab324232d1bf415cb5aa405364e06d9552",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/05-interlude/three-networks.svg": "0243de9c701936bffec155b5aa4b5c58f7dbc0c9c8b204580c35cdd7a99efa84",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/05-interlude/ring-allreduce.svg": "f52d0b8e38e33421077fc0058ece6af586dc7450016a27827d53b29e8c68ef1a",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md": "6f9e2ed343ac3a8f7081d6ff6d684b8d1abfee3a666440a31bf180bd5409170c",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md": "3d11ebfd9ac12b63933b8eb8292baf734833a0305767a8b5820a1952f5f3eba9",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md": "b0269385a0b33d6ff0b7d67478231e6c62713db07b669e8f97bcb247a7a582ad",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "3801a115b546831a9a12b0a824b17f8b4e4b1dfc2e423986e58dfbd05597bf4b",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "579a7470c316dd9edc275c7167b275fa61fdbffa5dde070721c613a898d5f4aa",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "129c8b0f41cae8a57a03eebdf9b75fd330b754aae088978a53a04f40070ea80e"
+  },
+  "recorded_date": "2026-11-16",
+  "installed": {
+    "manuscripts/volume-1/05-interlude.md": "cfd31eb685ed4385cf478048bf0640e43c005c11cade39af2d8c200036761234",
+    "manuscripts/volume-1/assets/05-interlude/three-networks.svg": "a261371142f19bd5d96e9fe73892a77164d7f9a4ca444ad5080ff46616e4f2ac",
+    "manuscripts/volume-1/assets/05-interlude/ring-allreduce.svg": "a445f13b65c3be50897da4991bb1417072f8b8f25a842f7642456e5d3ae792b7",
+    "manuscripts/volume-1/03-chapter.md": "6f9e2ed343ac3a8f7081d6ff6d684b8d1abfee3a666440a31bf180bd5409170c",
+    "manuscripts/volume-1/04-chapter.md": "3d11ebfd9ac12b63933b8eb8292baf734833a0305767a8b5820a1952f5f3eba9"
+  },
+  "figures": "Edited derivatives of supplied SVGs. Signed source files unchanged; stale embedded credential metadata omitted in derivatives. Grayscale style retained."
+}

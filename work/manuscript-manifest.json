@@ -739,7 +739,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
-        "sha256": "3d3325802844a5e305b0d365564f6513027d1801ea33ce8401eec8f950f20b28"
+        "sha256": "6f9e2ed343ac3a8f7081d6ff6d684b8d1abfee3a666440a31bf180bd5409170c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 3c - The Promethean Bargain — The Brain as Creation’s Engine.docx",
       "source_sha256_at_inventory": "dfd990117b8345e579fff259a1243eef5004f5d9d9fcfece72c08e4056df9def",
@@ -826,7 +826,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md",
-        "sha256": "d9786f7a9825ca5ff900ca0fef233d97efaceb12d875dc84c6eceaf8673b0d23"
+        "sha256": "3d11ebfd9ac12b63933b8eb8292baf734833a0305767a8b5820a1952f5f3eba9"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 4c - The Monster Within — Psychology, Morality, and the Dance of Free Will.docx",
       "source_sha256_at_inventory": "8782d7c4a9297bcc18d6cea0ae650add96dfdd4ed0c33366bfd3f419f867ec6f",
@@ -942,7 +942,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-interlude.md",
-        "sha256": "cbd6332a20be3b0ace16fd4265184cccddd8d43cbeac3e2bf79f73e10d1e2d7d"
+        "sha256": "cfd31eb685ed4385cf478048bf0640e43c005c11cade39af2d8c200036761234"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 5i - Connected Currents — Computer Networks and Distributed Compuring.docx",
       "source_sha256_at_inventory": "4c453fd3acd71bd64502099ff14a726b5db166e64ca55a36fe86f5a173c52bfa",

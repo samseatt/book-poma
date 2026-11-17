@@ -457,3 +457,16 @@ Verified nineteen new reference notes, checked three expanded older notes, and a
 Kept the four-question social foundry, threshold model and expanded Alice. Corrected arithmetic, fixed-point language and small scientific scope claims; verified seven incoming notes and added the exact Genesis 8:17 attribution. S024 records the coupling/dimensionality/micro-ideology and machine-bridge proposals. Sam’s flexible mechanism-first attribution preference is B-055.
 
 Installed the supplied threshold-cascade SVG unchanged after visual and numerical checks; retained the original social-relations diagram. The [adoption record](../volume-1-drafting/chapter-05-fable-adoption-2026-11-16/ADOPTION_NOTES.md) contains exact repairs, preservation checks, source audit, previous Alice and figure preview. Chapter 3, Chapter 4 and Interlude 4’s unrelated working edits remain untouched and outside the commit. No publication.
+
+
+## V1-047 — Interlude 5: networks, distributed AI and civics
+
+**16 November 2026; adopted.** Merged Fable's `interlude-5.md` and two supplied grayscale SVGs. This replaces the older, much shorter canonical draft with substantive networking, wireless, distributed consensus, distributed training/serving, USC-course and multimedia-proposal material. The personal class story and closing remain exact; the proposal changes only in its technical end-to-end interpretation. All incoming comments survive. Recovered the abstraction/blindness sentence and the accurate end-of-1990 Web/USC-arrival coincidence.
+
+Reviewed and linked all 42 incoming source notes; added F-16 channel and Web notes. Corrected TCP/DNS details, FLP safety-versus-progress, Byzantine assumptions, ZeRO state ownership, ring traffic, bandwidth direction and RDMA scope. Figures retain Fable's design with small label/routing corrections and were rendered and checked. Bob's civic wager remains; S025 records its research obligations. A promising Dijkstra/Fokker connection is saved as an optional later thread, not inserted.
+
+The [adoption record](../volume-1-drafting/interlude-05-fable-adoption-2026-11-16/ADOPTION_NOTES.md) includes exact repairs, evidence scope, recovery notes, figure previews and preservation checks. Source tree and publisher configuration untouched. No publication.
+
+### V1-047 — author's Chapter 3 and 4 refinements included
+
+Also reviewed and committed Sam's existing Chapter 3 opening changes (first sensation/registration and poetic entry into the brain's domain) and Chapter 4 room-arrival changes (sentence rhythm, clothes, wolf poster, dartboard and silicon-chip wording). Both retained **verbatim**. The prenatal-wiring qualification in Chapter 3 remains; Chapter 4's added details remain author testimony. Updated all three active manuscript checksums. The unrelated dirty Interlude 4 remains untouched and outside this commit.

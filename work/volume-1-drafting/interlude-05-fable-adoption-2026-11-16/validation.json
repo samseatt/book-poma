@@ -1,0 +1,47 @@
+{
+  "03-chapter": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
+    "sha256": "6f9e2ed343ac3a8f7081d6ff6d684b8d1abfee3a666440a31bf180bd5409170c",
+    "defined_notes": 52,
+    "note_references": 52,
+    "parsed_notes": 52,
+    "html_note_backlinks": 52,
+    "display_equations": 2,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+    ],
+    "errors": [],
+    "passed": true
+  },
+  "04-chapter": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md",
+    "sha256": "3d11ebfd9ac12b63933b8eb8292baf734833a0305767a8b5820a1952f5f3eba9",
+    "defined_notes": 60,
+    "note_references": 60,
+    "parsed_notes": 60,
+    "html_note_backlinks": 60,
+    "display_equations": 1,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+    ],
+    "errors": [],
+    "passed": true
+  },
+  "05-interlude": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-interlude.md",
+    "sha256": "cfd31eb685ed4385cf478048bf0640e43c005c11cade39af2d8c200036761234",
+    "defined_notes": 44,
+    "note_references": 44,
+    "parsed_notes": 44,
+    "html_note_backlinks": 44,
+    "display_equations": 3,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+    ],
+    "errors": [],
+    "passed": true
+  }
+}

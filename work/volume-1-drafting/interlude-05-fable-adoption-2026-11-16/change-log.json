@@ -1,0 +1,302 @@
+[
+  {
+    "classification": "B",
+    "reason": "Distinguish control channels from a universal count of flight computers; retain the course recollection.",
+    "before": "(the F-16 flew on four)",
+    "after": "(the F-16 used four redundant control channels)[^v1-i5-f16]"
+  },
+  {
+    "classification": "B",
+    "reason": "NP-hardness does not mean every individual instance is intractable.",
+    "before": "no known method could solve them exactly in any reasonable time, the kind computer scientists call NP-hard",
+    "after": "no known method could solve all their instances exactly in reasonable time, the kind computer scientists call NP-hard"
+  },
+  {
+    "classification": "B",
+    "reason": "OSI protocols were implemented; preserve the cathedral joke without erasing those deployments.",
+    "before": "a cathedral of specification that everyone learned and almost no one built",
+    "after": "a cathedral of specification that everyone learned and few deployed in full"
+  },
+  {
+    "classification": "C — canonical recovery authorized by the review-and-adopt workflow",
+    "reason": "Recover the older abstraction/blindness thread and the Web coincidence; distinguish 1990 implementation from 1991 public announcement and 1992 riots.",
+    "before": "And at the top sit the applications we actually use: email, file transfer, eventually the web.",
+    "after": "And at the top sit the applications we actually use: email, file transfer, eventually the web. Every time you build a layer to hide complexity, you create a power, a blindness, and a place where bugs can hide.\n\nBy the end of 1990, the year I arrived at USC, Tim Berners-Lee had the first web browser and server running at CERN. The internet was learning to connect documents as well as machines.[^v1-i5-web]"
+  },
+  {
+    "classification": "A",
+    "reason": "TCP sequence numbers count bytes, not packets.",
+    "before": "which numbers every packet",
+    "after": "which numbers the bytes in its stream"
+  },
+  {
+    "classification": "B",
+    "reason": "Not every real-time application uses UDP; UDP applications may add their own delivery machinery.",
+    "before": "programs skip TCP and use the bare datagrams of UDP",
+    "after": "programs often skip TCP and use the bare datagrams of UDP"
+  },
+  {
+    "classification": "B",
+    "reason": "State the recurrence model; keep the Marina joke and geometry lesson.",
+    "before": "a random walker on a flat grid will, with certainty, eventually return home",
+    "after": "a simple, unbiased random walker on an infinite flat grid will, with probability one, eventually return home"
+  },
+  {
+    "classification": "A",
+    "reason": "32,000/40 = 800; the original paper itself rounds this to a thousand.",
+    "before": "a thousandfold drop",
+    "after": "an eight-hundredfold drop"
+  },
+  {
+    "classification": "B",
+    "reason": "Identify the idealized congestion-avoidance phase, not every TCP behavior.",
+    "before": "The rule fits on one line.",
+    "after": "The classic congestion-avoidance rule fits on one line."
+  },
+  {
+    "classification": "B",
+    "reason": "Match equation units and distinguish fast recovery from timeout/slow start.",
+    "before": "Every round trip that goes well adds about one packet to $w$; a loss, read as a sign that the path is full, cuts it in half:",
+    "after": "Measured in packet-sized segments, $w$ grows by about one each round trip that goes well; a loss detected before a timeout cuts it in half:"
+  },
+  {
+    "classification": "B",
+    "reason": "Fairness needs common feedback and comparable round-trip times; conditions in source note.",
+    "before": "Over many rounds, senders sharing a link drift toward equal shares, and nobody has to assign them.",
+    "after": "In this idealized case, senders sharing a link drift toward equal shares, and nobody has to assign them."
+  },
+  {
+    "classification": "B",
+    "reason": "Wi-Fi avoids collisions rather than detecting them while transmitting.",
+    "before": "wireless networks, which did the same over radio",
+    "after": "wireless networks, which inherited the shared-medium problem over radio"
+  },
+  {
+    "classification": "B",
+    "reason": "Possible connectivity is not universal actual reachability.",
+    "before": "Each machine that joins a network can reach every machine already on it",
+    "after": "Each machine that joins an open network can potentially reach every machine already on it"
+  },
+  {
+    "classification": "B",
+    "reason": "Noise and fading can also lose frames/acknowledgments.",
+    "before": "treat a missing acknowledgment as a collision.",
+    "after": "treat a missing acknowledgment as a possible collision."
+  },
+  {
+    "classification": "B",
+    "reason": "79-channel / 1,600-hop description is Classic, not BLE.",
+    "before": "Bluetooth found another way through",
+    "after": "Classic Bluetooth found another way through"
+  },
+  {
+    "classification": "B",
+    "reason": "LoRa is a modulation/radio technology with several available rates.",
+    "before": "Long-range protocols such as LoRa spread a few hundred bits per second across a wide band",
+    "after": "Long-range radios such as LoRa can spread a few hundred bits per second across a wide band"
+  },
+  {
+    "classification": "A",
+    "reason": "HOSTS.TXT was fetched via FTP; not emailed as asserted.",
+    "before": "editing the file and mailing it out again.",
+    "after": "editing the file and redistributing it."
+  },
+  {
+    "classification": "A",
+    "reason": "Repair DNS resolution direction and caching.",
+    "before": "and every lookup climbs it as far as it needs to.",
+    "after": "and a lookup follows referrals down the tree, skipping steps when an answer is cached."
+  },
+  {
+    "classification": "A",
+    "reason": "Lamport gives a partial causal order and clocks consistent with it, not an impossibility of shared now or discovery of all event ordering.",
+    "before": "In 1978 he showed that in a distributed system there is no single \"now\" that every machine can agree on; what can be agreed on is the order of events, which happened before which, and he showed how machines can keep consistent \"logical clocks\" that track that order without any master clock at all.",
+    "after": "In 1978 he began without a perfect shared \"now\" and built from what machines could establish: one event happened before another because a message or a local sequence linked them. His \"logical clocks\" respect that causal order without any master clock at all; unrelated events need not have a causal order between them."
+  },
+  {
+    "classification": "B",
+    "reason": "One-third bound depends on oral/unsigned messages and timing/reliable channels; authenticated version differs.",
+    "before": "They proved that agreement is possible only if fewer than a third of the generals are traitors. A system can tolerate a certain amount of betrayal, and no more.",
+    "after": "In their unsigned-message model, agreement is possible only if fewer than a third of the generals are traitors. How much betrayal a system can tolerate depends on what its messages can prove."
+  },
+  {
+    "classification": "B",
+    "reason": "FLP is nontermination under asynchronous crash failure, not inevitable disagreement.",
+    "before": "in a fully asynchronous system, where messages can be delayed indefinitely, no method can guarantee that the machines will reach agreement if even a single one of them might fail.",
+    "after": "in a fully asynchronous system, where message delays have no known upper bound, no deterministic method can guarantee that the machines will finish reaching agreement if even a single one of them might crash."
+  },
+  {
+    "classification": "A",
+    "reason": "Preserve the philosophical tension while separating agreement/safety from termination/liveness.",
+    "before": "Every practical consensus protocol since, including the famous Paxos, which Lamport described around the time I arrived at USC though it wasn't widely published for years, works by quietly sidestepping that impossibility: assuming that delays are eventually bounded, or settling for agreement that's merely very likely. Perfect agreement among the fallible is impossible; good-enough agreement is engineering.",
+    "after": "Practical consensus protocols find ways around that impasse: enough timely communication to make progress, or randomness that changes the termination guarantee. Paxos, which Lamport described around the time I arrived at USC though it wasn't widely published for years, protects agreement even when messages are delayed; making it finish requires more. Agreement needn't be approximate. Guaranteeing that it arrives is the hard part."
+  },
+  {
+    "classification": "B",
+    "reason": "The cited YouTube/Meta cases support global service outages, not whole countries.",
+    "before": "a single misconfigured announcement has knocked whole countries offline.",
+    "after": "a bad announcement has made a global service unreachable."
+  },
+  {
+    "classification": "B",
+    "reason": "Gradient synchronization precedes the shared update; avoid confusing local updates with gradient aggregation.",
+    "before": "and after every step they all compare notes, averaging the adjustments each would make to the weights so that every copy stays identical.",
+    "after": "and after each backward pass they compare notes, averaging the gradients before updating the weights so that every copy stays identical."
+  },
+  {
+    "classification": "B",
+    "reason": "Tensor and pipeline parallelism are two types of model parallelism, not three mutually exclusive umbrella types.",
+    "before": "In model parallelism, the model itself is too large for one chip, so its layers, or even the individual grids of numbers within a layer, are split across many chips that must exchange partial results constantly.",
+    "after": "In tensor parallelism, the individual grids of numbers within a layer are split across chips that must exchange partial results constantly."
+  },
+  {
+    "classification": "A",
+    "reason": "ZeRO does not fetch other ranks' optimizer states; full 16-byte partitioning needs stage 3, with temporary gathered buffers still needed.",
+    "before": "Data parallelism also allows a saving: instead of every chip keeping the whole optimizer state, each keeps a slice and fetches the rest when it's needed, so those 16 bytes per parameter are divided among the chips rather than repeated on each.",
+    "after": "Data parallelism also allows a saving: each chip can keep and update only its slice of the optimizer state. ZeRO extends this partitioning to gradients and then parameters, gathering weights when a layer needs them. At that fullest stage, those 16 bytes per parameter are shared across chips rather than repeated on each."
+  },
+  {
+    "classification": "A",
+    "reason": "Exact finite-N traffic, matching diagram and formula.",
+    "before": "bytes, almost exactly $2S$ whether the ring has eight chips or eight thousand.",
+    "after": "bytes: $1.75S$ with eight chips, approaching $2S$ as the ring grows."
+  },
+  {
+    "classification": "B",
+    "reason": "Per-rank volume stays bounded; total traffic and latency grow.",
+    "before": "The bandwidth bill depends on each link, not on the size of the crowd.",
+    "after": "The traffic per chip stays bounded even as the crowd grows; the total traffic does not."
+  },
+  {
+    "classification": "A",
+    "reason": "Correct figure alternative text with finite-N traffic.",
+    "before": "about 2S for any N.",
+    "after": "1.5S for four GPUs and approaching 2S as N grows."
+  },
+  {
+    "classification": "B",
+    "reason": "Aggregate directional NVLink is a best-case lower bound, not achieved bandwidth on any one ring edge.",
+    "before": "so each chip sends about 280 gigabytes every step. Over NVLink, at roughly 900 gigabytes per second in each direction, that takes about a third of a second; over a 400-gigabit network port, 50 gigabytes per second, more than five.",
+    "after": "so a large ring sends nearly 280 gigabytes per chip per step. If it could use a Blackwell GPU's full outgoing NVLink bandwidth, roughly 900 gigabytes per second across all its links, the transfer alone would take at least a third of a second; over a 400-gigabit network port, 50 gigabytes per second, more than five."
+  },
+  {
+    "classification": "B",
+    "reason": "Scaled work does not automatically eliminate serialization.",
+    "before": "and the serial fraction shrinks.",
+    "after": "and the serial fraction can shrink."
+  },
+  {
+    "classification": "B",
+    "reason": "The 63% calculation requires independent slow-server events.",
+    "before": "if one server in a hundred is slow at any moment, a request that must touch a hundred servers will be slowed nearly two times in three.",
+    "after": "if each server independently has a one-in-a-hundred chance of being slow, a request that must touch a hundred will be slowed nearly two times in three."
+  },
+  {
+    "classification": "B",
+    "reason": "Make bandwidth direction explicit and remove stale claim that 72 is the largest possible domain.",
+    "before": "the 1.8 terabytes per second of Interlude 3, through switches that let dozens of GPUs behave almost like one large one; the largest such domains join seventy-two.",
+    "after": "the 1.8 terabytes per second of Interlude 3 counted across both directions, through switches that let dozens of GPUs behave almost like one large one; the GB200 NVL72, for example, joins seventy-two."
+  },
+  {
+    "classification": "B",
+    "reason": "Non-oversubscribed topology/capacity conditions; ports and topologies vary.",
+    "before": "typically giving each GPU its own 400- or 800-gigabit port, built as a fat tree of switches so that any half of the machines can talk to the other half at full speed.",
+    "after": "often giving each GPU its own 400- or 800-gigabit port, built as a fat tree of switches that, with enough uplink capacity, lets any half of the machines talk to the other half at full speed."
+  },
+  {
+    "classification": "B",
+    "reason": "Qualify schematic comparison and bandwidth label.",
+    "before": "Side notes contrast the internet, which infers congestion from loss and backs off, with the RDMA fabric, which avoids loss using credits or pauses.",
+    "after": "Side notes contrast classic loss-based TCP with an RDMA fabric that uses credits or pauses and congestion signals to prevent buffer overflow. NVLink bandwidth is bidirectional; GPU wiring is schematic, not a daisy chain."
+  },
+  {
+    "classification": "B",
+    "reason": "Do not erase zero-copy, offload, ECN or modern congestion algorithms.",
+    "before": "TCP runs in the operating system's kernel, copies data between buffers and learns about congestion by losing packets; at these speeds, each of those is too slow.",
+    "after": "Conventional TCP stacks involve the operating system's kernel and often copy data between buffers; classic congestion control learns by losing packets. At these speeds, those overheads become expensive."
+  },
+  {
+    "classification": "B",
+    "reason": "RDMA bypasses the data path, not setup, registration, authorization or all CPU involvement.",
+    "before": "without involving either computer's processor or operating system.",
+    "after": "without asking either computer's processor or operating system to handle each transfer, once the memory and permissions have been registered."
+  },
+  {
+    "classification": "A",
+    "reason": "Other causes of packet loss remain possible.",
+    "before": "InfiniBand avoids loss altogether with credit-based flow control",
+    "after": "InfiniBand prevents buffer-overflow loss with credit-based flow control"
+  },
+  {
+    "classification": "A",
+    "reason": "Clusters have multiple dynamic workloads, not one preordained schedule.",
+    "before": "with one owner, one workload and a schedule known in advance.",
+    "after": "with one operator and much tighter control over the roads."
+  },
+  {
+    "classification": "B",
+    "reason": "This traffic pattern belongs to tensor parallelism, not all model splits.",
+    "before": "A model too large for one GPU is split across several over NVLink, so every generated token requires an all-reduce at nearly every layer, inside the rack.",
+    "after": "With tensor-parallel serving, a model is split across several GPUs over NVLink, and generating each token requires collective exchanges at nearly every layer, inside the rack."
+  },
+  {
+    "classification": "A",
+    "reason": "Time to first token also includes admission/scheduling delay.",
+    "before": "which is the network round trip plus the prefill",
+    "after": "which includes network travel, queueing and the prefill"
+  },
+  {
+    "classification": "B",
+    "reason": "Do not equate end-to-end correctness arguments with assuming infinite endpoint computation.",
+    "before": "And my guiding rule, keep the network simple and put the intelligence at the ends, had a name I learned only later: the end-to-end principle, one of the internet's founding ideas.",
+    "after": "My guiding rule had a relative I learned about later: the end-to-end principle, one of the internet's founding ideas. Some guarantees, such as whether the right file arrived intact, can only be completed at the ends. My unlimited-computation wager went further."
+  },
+  {
+    "classification": "B",
+    "reason": "Separate the decentralization of consensus from Bob's richer governance proposal.",
+    "before": "They solve a narrow problem superbly:",
+    "after": "Consensus itself needn't be centralized. These protocols solve a narrow problem superbly:"
+  },
+  {
+    "classification": "B",
+    "reason": "Ostrom's polycentric systems can include public authorities and private owners.",
+    "before": "manage shared resources without either a central authority or private ownership",
+    "after": "manage shared resources without relying solely on central command or privatization"
+  },
+  {
+    "classification": "A",
+    "reason": "Direct repeated-game reciprocity, not necessarily third-party reputation.",
+    "before": "the reputations that let cooperation evolve in Robert Axelrod's experiments",
+    "after": "the remembered reciprocity that let cooperation evolve in Robert Axelrod's experiments"
+  },
+  {
+    "classification": "B",
+    "reason": "Place the recovered Web connection after the OSI explanation so “codified this” still points to the layers, not the Web.",
+    "before": "Web paragraph between layer explanation and OSI.",
+    "after": "Web paragraph after OSI/Clark paragraph."
+  },
+  {
+    "classification": "B",
+    "reason": "Remove repetition introduced by the DNS correction.",
+    "before": "Responsibility is delegated down the tree, and a lookup follows referrals down the tree, skipping steps when an answer is cached.",
+    "after": "Responsibility is delegated down the tree; a lookup follows referrals, skipping steps when an answer is cached."
+  },
+  {
+    "classification": "B",
+    "reason": "Remove repeated “began” introduced by the Lamport correction.",
+    "before": "In 1978 he began without a perfect shared \"now\"",
+    "after": "In 1978 he worked without a perfect shared \"now\""
+  },
+  {
+    "classification": "B",
+    "reason": "Match the cited June source's 24k description without adding unsupported precision.",
+    "before": "documents separate 24,576-GPU RoCE and InfiniBand clusters",
+    "after": "documents separate roughly 24,000-GPU RoCE and InfiniBand clusters"
+  },
+  {
+    "classification": "B",
+    "reason": "Link the explicit bidirectional per-GPU specification.",
+    "before": "NVIDIA, [GB200 NVL72 specifications](https://www.nvidia.com/en-us/data-center/gb200-nvl72/):",
+    "after": "NVIDIA, [GB200 NVL72 specifications](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) and [DGX GB200 datasheet](https://resources.nvidia.com/en-us-dgx-platform/dgx-superpod-gb200-datasheet):"
+  }
+]

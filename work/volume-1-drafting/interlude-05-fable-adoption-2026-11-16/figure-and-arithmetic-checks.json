@@ -1,0 +1,22 @@
+{
+  "ring_reduce_scatter_owner_by_rank": {
+    "0": 1,
+    "1": 2,
+    "2": 3,
+    "3": 0
+  },
+  "ring_all_gather_every_rank_has_every_chunk": true,
+  "bytes_per_rank_over_S": {
+    "4": 1.5,
+    "8": 1.75,
+    "8000": 1.99975
+  },
+  "congestion_drop_factor": 800.0,
+  "gradient_GB_70B_bfloat16": 140.0,
+  "ideal_transfer_seconds_900GBps": 0.3111111111111111,
+  "ideal_transfer_seconds_400Gbps": 5.6,
+  "amdahl_p99_N10000": 99.01970492127933,
+  "tail_probability_independent_100": 0.6339676587267709,
+  "svg_xml_valid": true,
+  "visual_review": "Both corrected PNGs inspected: readable grayscale; no label overlaps; ring state/phase labels agree. Direct switch-to-GPU paths replace apparent daisy chains. Ring SVG description corrected after visual pass; no visible change."
+}

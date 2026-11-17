@@ -1,358 +1,289 @@
 ![](../assets/shared/interlude-gear.png)
 
+<!-- AI-assisted: restored from Sam's earlier draft and new notes; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
+
 INTERLUDE 5
 
 # Connected Currents
 
-*Computer Networks & Distributed Computing*
+*Computer Networks and Distributed Computing*
 
 *NETWORK*
 
-At USC, everything I studied seemed to be quietly conspiring toward the same theme: **connection**. Not just electrical or logical connection, but the larger, cosmic kind --- the sort that takes strangers, transistors, and entire cities and tries to stitch something coherent out of them.
+At USC, everything I studied seemed to be quietly conspiring toward the same theme: connection. Not just the electrical kind, but the larger kind that takes strangers, transistors and entire cities and tries to stitch something coherent out of them.
 
-The computer-networks course said the quiet part out loud --- complete with packets, protocols, and the seven-layer OSI model stacked like a wedding cake nobody ever eats past layer three. But my other classes were in on the plot as well:
+Almost every graduate course turned out to be a course in networks wearing a different name. Database systems led me straight into distributed databases, where the same record lives in several places and must somehow stay one record. Advanced operating systems were really about distributed systems: many computers pretending, with varying success, to be one. Advanced computer architecture was about connecting processors so they could share a problem without tripping over each other. Real-time systems covered, among other things, the redundant flight computers that keep a fighter jet in the air when one of them fails (the F-16 used four redundant control channels)[^v1-i5-f16], and laid the foundations for the kind of sensor networks I'd build decades later. Neural networks were networking of another kind entirely. Even the artificial intelligence programs we wrote in Lisp, for all their innocence, knitted semantic networks of concepts as they grew. Computer vision wove networks of information through pixels, to stitch the feeds from a pair of stereo cameras into a single picture with depth. And on the chip-design side, placing and wiring millions of transistors on a single slice of silicon kept running into problems so hard that no known method could solve all their instances exactly in reasonable time, the kind computer scientists call NP-hard. Everything was a network. The only question was what was being connected, and how badly.
 
--   Operating systems constantly fretted over distributed processes.
+In the course catalog I received at orientation, two of the university's outposts caught my eye. One, the medical campus east of downtown, made obvious sense. The other was an institute in Marina del Rey, the Information Sciences Institute, apparently related to my own field but nowhere near the computer science building on the main campus. It turned out to be about a five-minute walk from Moose McGillicuddy's, one of our favorite nighttime haunts, though I never once made the walk. What were they doing out there? Once or twice, in daylight, I wondered. (At night, I had my own neighborhood's alien abductions to ponder.) In my imagination it became USC's Area 51, or its Los Alamos. I was exaggerating, of course. Only much later did I learn whose work was going on there, and realize I hadn't been exaggerating by as much as I'd thought.
 
--   Databases sighed romantically about remote transactions.
+## A Class Too Kind
 
--   VLSI threw entire forests of transistors onto silicon until it resembled the map of Los Angeles at rush hour --- except with slightly fewer accidents.
+Before any of the advanced courses, I had to straighten out a prerequisite: an undergraduate course in computer networks, built on Andrew Tanenbaum's classic textbook.[^v1-i5-tanenbaum] It was taught by a visiting professor, a thoroughly nice man with a warm accent and a generous heart. Out of sheer kindness, he let everyone who wanted to enroll do so.
 
--   And artificial neural networks --- philosophical cousins to sociology --- gathered small, confused nodes and encouraged them to come to consensus before the universe timed out.
+The class promptly demonstrated its own subject matter. The shared lab machines groaned under the load. The graders, swamped, fell behind. I decided I'd learn more by reading Tanenbaum in peace than by squeezing into an overcrowded lecture hall, so I skipped classes, a strategy with one flaw. To keep the grading manageable, the professor announced that the final exam, the only exam, would cover only a particular subset of the book and his notes, and he did it on a day I wasn't there. That message was broadcast once, with no acknowledgment requested and no retransmission. I studied the whole book.
 
-Meanwhile, my own brain---the beer-battered wetware version---was attempting to network all of it together inside that frying pan.
+When the grades came back, mine had been totaled incorrectly. I only found out because other students, unhappy with the course, had petitioned against the professor. I didn't sign; I liked him. But the petition succeeded in making the graded exams available, and there was my error, in plain arithmetic. What I couldn't find was where to send the correction. There was surely a process, but nobody had published its address. I let it go, partly from my lifelong indifference to that useless metric called a grade, and partly because I simply couldn't find the door.
 
-My research wandered accordingly. What began as an innocent flirtation with AI grew limbs and started demanding resources. We were trying to build technologies that barely existed: parallel machines pretending to think together; streams of data pretending to be "real time"; clusters of processors pretending to cooperate. While in reality, AI back then meant doing the same old thing, except in Lisp and Prolog; while dreaming the same in artificial neural networks. The web hadn't yet flickered into existence, the JPEG standard was still being finalized, and graphic mobile devices were a twinkle in a madman\'s eye.
+I didn't know it then, but I had just lived through the core problems of computer networks: congestion, a lost message with no retransmission, and a missing directory. The rest of this interlude is, in a sense, about how engineers solved those problems for machines, and how often humans haven't.
 
-It was, in hindsight, the toddler stage of what we'd later call **the Internet of Things** --- back when the "things" were oscilloscopes, SGI workstations, and an unwavering belief that grad students were immortal.
+### Layers, and the Protocol Wars
 
-AI itself was between winters --- which either meant I was early, visionary, or catastrophically bad at reading weather patterns. My advisor, bless him, liked the *title* of my proposal. Then he read the draft, and liked the title even more.
+Networks are built in layers, each handling one job and trusting the layer below it to do its own. At the bottom, signals move as voltages, light or radio waves. Above that, neighboring machines exchange frames of bits. Above that, packets find their way across many networks to a distant destination. Above that, conversations between programs are kept reliable and in order. And at the top sit the applications we actually use: email, file transfer, eventually the web. Every time you build a layer to hide complexity, you create a power, a blindness, and a place where bugs can hide.
 
-But while my little lab stumbled toward distributed cognition, something monumental was happening an ocean away.
+The international standards bodies codified this as the seven-layer OSI model, a cathedral of specification that everyone learned and few deployed in full. Meanwhile, a scrappier, four-layer design that had grown out of American research networks, TCP/IP, simply kept working, and won.[^v1-i5-osi] David Clark, one of its architects, summed up its culture in 1992, the year I left USC: "We reject: kings, presidents and voting. We believe in: rough consensus and running code."[^v1-i5-clark] The internet was built by people who trusted working systems more than committees, a choice with consequences we're still living with.
 
-### **The City Burns, and a Web Is Born**
+By the end of 1990, the year I arrived at USC, Tim Berners-Lee had the first web browser and server running at CERN. The internet was learning to connect documents as well as machines.[^v1-i5-web]
 
-Just as I rolled into Los Angeles --- naïve, caffeinated, and one tuition payment from homelessness --- a man at CERN named **Tim Berners-Lee** quietly did what civilizations occasionally manage when they're not rioting: he invented a new language.
+### Packets and Promises
 
-HTML. HTTP. URLs with colons and slashes arranged like the coordinates of a treasure map. And the first faint pulse of what he called the *World Wide Web.*
+The founding idea of the internet is the packet. Instead of reserving a dedicated line for each conversation, as telephone networks did, a message is chopped into small packets, each carrying its destination address, and each sent on its own, possibly by different routes, to be reassembled at the far end. The idea was developed independently in the 1960s by Paul Baran in the United States, who wanted a network that could survive the loss of many of its nodes, and Donald Davies in Britain, who wanted one that used lines efficiently.[^v1-i5-packets]
 
-While Los Angeles was preparing to show how fragile connections could be, Geneva was busy proving how infinite they might become.
+The Internet Protocol, IP, makes only a modest promise about those packets: it will try. Packets can be lost, duplicated or delivered out of order. Reliability is added on top by TCP, the Transmission Control Protocol, which numbers the bytes in its stream, asks the receiver to acknowledge what arrived, and retransmits whatever doesn't. When speed matters more than completeness, as in a live voice call, programs often skip TCP and use the bare datagrams of UDP, the no-handshake packet that carried Patrick's boombox west in the last interlude. Every network designer chooses, again and again, between a message that must arrive and one that must arrive *now*.
 
-The timing was almost Biblical. One city cracked open in rage; another opened a door to a networked world. And I, unwittingly lodged between both, was wiring neurons into code and code into neurons, hoping neither would collapse under load.
+### Finding the Way
 
-I didn't know it then, but everything I was soldering, simulating, or swearing at in USC's labs was rehearsal. The distributed computing we struggled to stabilize was merely a prototype; what Berners-Lee released into the world would become the real experiment: **a global network --- a distributed consciousness that would teach humanity more about itself than any psychology class ever could.**
+How does a packet find its way across a network no one fully sees? Routers keep maps of their neighborhoods and choose paths using algorithms. The most famous was devised by Edsger Dijkstra in 1956, reportedly in about twenty minutes, while sitting at a café with his fiancée: a method for finding the shortest path through a network by steadily expanding a frontier of known distances.[^v1-i5-dijkstra] Some routing protocols still run variations of it.
 
-And somewhere between my convoluted LISP parentheses and CERN's clean syntax sat the same impossible question: **Could any network --- of neurons, machines, or people --- ever be truly free of its own latency?**
+Its opposite is the random walk, sometimes called the drunkard's walk: a walker who takes each step in a random direction. In 1921 the mathematician George Pólya proved a result that has delighted students ever since: a simple, unbiased random walker on an infinite flat grid will, with probability one, eventually return home, but one wandering in three dimensions may never return. His colleague Shizuo Kakutani put it best: "A drunk man will find his way home, but a drunk bird may get lost forever."[^v1-i5-polya] By Pólya's theorem, a man stumbling out of Moose McGillicuddy's onto Marina del Rey's flat streets should, with certainty, eventually have arrived at ISI. Instead, as I confessed in the last chapter, whenever I ventured past Moose's, I got extremely lost. Either I never walked long enough, or the Marina, with its maze of basins and docks, is a flat place that somehow behaves like three dimensions. Either way, the lesson generalizes: whether a wanderer finds his way home depends less on his sobriety than on the shape of the space he's wandering in. Random walks turn out to be useful in networks too, for spreading information when no one has a map, which is roughly how gossip works.
 
-Spoiler: no. But the ways in which they fail are spectacularly instructive.
+### When Everyone Talks at Once
 
-## A Tale of Two Networks
+In October 1986, the young internet suffered what came to be called congestion collapse. On one link between Lawrence Berkeley Laboratory and the University of California, Berkeley, throughput fell from 32,000 bits per second to 40, an eight-hundredfold drop. Every computer, sensing that its packets weren't getting through, did the logical thing and sent them again, which only made the traffic worse. Each individual was behaving sensibly; the system as a whole was strangling itself. <!-- AI draft, 2026-11-14. -->It was Granovetter's crowd from Chapter 5, rendered in silicon: no machine misbehaved, and the collapse lived in how they responded to one another.<!-- End AI draft 2026-11-14. --> Van Jacobson's fix, in 1988, taught every computer to read lost packets as a sign of congestion and to back off, sending more slowly and then cautiously speeding up again.[^v1-i5-jacobson] <!-- AI draft, 2026-11-15. -->The classic congestion-avoidance rule fits on one line. A sender keeps a *congestion window* $w$, the amount of unacknowledged data it allows itself in flight, and its throughput is roughly $w$ divided by the round-trip time. Measured in packet-sized segments, $w$ grows by about one each round trip that goes well; a loss detected before a timeout cuts it in half:
 
-It turns out that building a society and building a computer network have more in common than either department will publicly admit.
+$$
+w \;\leftarrow\; w + 1 \ \text{per round trip}, \qquad w \;\leftarrow\; w/2 \ \text{on loss}.
+$$
 
-Both begin with generous intentions --- communication, collaboration, the audacious hope that everyone will remain civil.
+Why that pairing? Adding one packet adds the same amount to a greedy sender and a modest one, leaving the gap between them unchanged; halving cuts that gap in half every time. In this idealized case, senders sharing a link drift toward equal shares, and nobody has to assign them.[^v1-i5-aimd]<!-- End AI draft 2026-11-15. --> The internet survives because billions of machines voluntarily slow down when they sense a crowd. My networks class could have used the same protocol.
 
-Both end with dropped packets, lost messages, and someone shouting, "Who's responsible for this latency?!"
+From these foundations came everything else: Ethernet, which let the computers in a building share one cable by listening before talking and backing off after collisions;[^v1-i5-ethernet] wireless networks, which inherited the shared-medium problem over radio; and, eventually, the Internet of Things, billions of sensors and devices speaking the same protocols. The principles never changed: layers, packets, acknowledgments, routes, and the discipline to back off. <!-- AI draft, 2026-11-15. -->Each machine that joins an open network can potentially reach every machine already on it, so the possible connections grow roughly with the square of the membership. Whether the value grows that fast is disputed; the pull isn't. A network that's ahead attracts the next user, the same gravity that drew software toward CUDA in Interlude 3.[^v1-i5-metcalfe]
 
-Distributed computing is simply civilization rewritten in code: **many actors**, **limited bandwidth**, **unreliable signals**, and far too much waiting for consensus.
+### Small Radios
 
-In sociology, we call it negotiation. In computing, we call it synchronization. In both cases, getting it wrong leads to deadlock --- the technical kind or the congressional kind.
+Radio complicates the bargain. A transmitter drowns out its own receiver, so a Wi-Fi radio can't hear a collision while it's causing one, and two laptops on opposite sides of a router may be unable to hear each other at all, the *hidden terminal* problem. So Wi-Fi trades Ethernet's collision detection for collision avoidance: listen, wait a random interval, transmit, and treat a missing acknowledgment as a possible collision.[^v1-i5-wifi] Classic Bluetooth found another way through the same crowded 2.4-gigahertz band, hopping among dozens of channels some 1,600 times a second so that no single interferer can hold it for long. Its low-energy version lets a sensor on a coin-cell battery sleep nearly all the time and wake for a few milliseconds to speak.[^v1-i5-bluetooth]
 
-Every distributed-systems problem we faced in that multimedia effort had a social twin:
+Interlude 2's channel capacity, $C = B\log_2(1+S/N)$, sets the menu: a radio buys data rate with bandwidth or with signal power, and a battery-powered one can rarely afford much of either. Mesh protocols such as Zigbee and Thread pass messages hop by hop between small devices, and Thread carries the internet's own IPv6, compressed to fit. Long-range radios such as LoRa can spread a few hundred bits per second across a wide band, so that a gateway kilometers away can recover a signal weaker than the noise around it.[^v1-i5-lora] Range, rate, battery life: the designer of a sensor network gets to pick two.<!-- End AI draft 2026-11-15. -->
 
--   Load balancing looked suspiciously like teamwork.
+## The Address Book of the World
 
--   Fault tolerance sounded a lot like forgiveness.
+Machines on a network have numbers; people prefer names. In the early days of the ARPANET, the network's ancestor, the translation between them lived in a single file, maintained by hand at the Stanford Research Institute and copied to every computer on the network. Every new machine meant editing the file and redistributing it. As the network grew, the scheme collapsed under its own weight, a congestion collapse of bookkeeping.
 
--   Concurrency --- the elegant term for "everyone doing something at once without stepping on each other's toes" --- was Los Angeles traffic, but with better documentation.
+The solution came from the very institute that had caught my eye in the catalog. In 1983, Paul Mockapetris, at ISI, designed the Domain Name System: a hierarchical, distributed directory in which no single place has to know everything.[^v1-i5-dns] The root knows where to find *.com* and *.edu*; *.edu* knows where to find *usc.edu*; and *usc.edu* knows its own machines. Responsibility is delegated down the tree; a lookup follows referrals, skipping steps when an answer is cached. It's still how every web address you type finds its way. It was exactly what my grade correction had lacked: a published address for where to go.
 
-Even computers, for all their determinism, kept re-enacting human follies: they crashed when overwhelmed, they gossiped through protocols, and they froze when waiting for messages that would never arrive --- the digital version of being left on "read."
+At the same institute worked the man who, for nearly three decades, quietly kept the internet's books. Jon Postel edited the series of documents, called Requests for Comments, in which the internet's protocols were proposed and set down, and he kept the master list of its numbers and names, the job that would later be formalized as the Internet Assigned Numbers Authority.[^v1-i5-postel] He co-wrote some of the internet's most fundamental standards. In the specification for TCP, he wrote down a design rule that became known as Postel's Law, the robustness principle: "be conservative in what you do, be liberal in what you accept from others."[^v1-i5-robustness] Send precisely; receive generously. It's the reason so many imperfect machines, built by strangers, manage to talk at all. It's also, I've come to think, decent advice for living among people.
 
-Perhaps that's why distributed computing fascinated me more than any other subject: it wasn't just about linking machines, but about imagining machines that could *cooperate*.
+When I finally learned his name, the comparison I'd made as a new student came back to me. If ISI was USC's Los Alamos, Postel was its Oppenheimer: the steward of a chain reaction, one that would soon release a power over the world's economies and politics that its builders had only partly foreseen. That story, and the way it ended for him, belongs to a later interlude, when the network met commerce.
 
-If the riot had shown me how fragile human networks were, the work that followed revealed how fragile digital ones might be. Packets dropped like trust. Protocols failed like treaties. Sockets timed out like patience.
-
-And yet, out of this noisy, imperfect dance, structure emerged --- a language of structured chaos through which machines began to talk to one another with surprising grace.
-
-Which brings us naturally to the wiring itself.
-
-Because before machines could dream of intelligence, they had to learn to talk. And before they could talk, they had to agree on **what a word even was**.
-
-## How to Teach a Machine to Speak
-
-### Packets, Protocols, and Politeness
-
-If psychology is the study of minds negotiating meaning, then computer networking is the study of machines trying their best to avoid being impolite.
-
-At its core, a networked conversation is embarrassingly simple:
-
-1.  **Break the message into little pieces** (because large requests scare everyone).
-
-2.  **Add a polite introduction** (headers: the handshakes of the digital world).
-
-3.  **Send those fragments across unreliable terrain** (radio waves, copper wires, dark fibers, air-conditioned hallways).
-
-4.  **Pray.**
-
-5.  **Reassemble the pieces on the other end**, assuming the universe cooperates.
-
-We call these fragments packets, as though they were care packages addressed to a distant cousin. Most arrive. Some get lost. Some show up drunk, out of order, or duplicated for reasons nobody fully understands. But the marvel is that **the system works anyway**.
-
-TCP, the gentleman of protocols, insists on acknowledgment for every message. A bit like Victorian courtship: slow, deliberate, obsessed with proper sequence.
-
-UDP, meanwhile, is your carefree friend who shouts messages across a canyon and hopes the echo doesn't distort them too badly. Fast, fun, and about as reliable as a fortune cookie.
-
-Every protocol, in its own way, is a theory of human nature disguised as math:
-
--   **TCP** believes in accountability.
-
--   **UDP** believes in destiny.
-
--   **ICMP** believes in complaining.
-
--   **ARP** believes in gossip.
-
-And then there's **DNS**, the address book of the internet --- a distributed phone directory that answers the philosophical question: "Where does *www* live this week?"
-
-It is an unsung miracle that DNS works at all. It is the closest thing computing has to faith.
-
-## The Seven Layered of Truth
-
-### Why OSI Model is a Cathedral Nobody Worships In
-
-The OSI model is one of the grand illusions of computer science. A seven-layer wedding cake of conceptual purity:
-
-1.  Physical
-
-2.  Data Link
-
-3.  Network
-
-4.  Transport
-
-5.  Session
-
-6.  Presentation
-
-7.  Application
-
-A stack so clean it could only have been designed by committee.
-
-Every networking student admires the OSI model the way museum visitors admire medieval cathedrals: beautiful, towering, and utterly unrelated to daily life. In practice, we mostly inhabit three layers:
-
--   The bottom one, when the cable is unplugged.
-
--   The top one, when the website is broken.
-
--   And TCP/IP, which does all the work while OSI gets all the diagrams.
-
-The OSI model is important not because we use it, but because it reminds us of something structures --- human and digital --- often forget: **abstraction is both the ladder and the trap.**
-
-Every time you build a layer to hide complexity, you create a power, a blindness, and a place where bugs can hide.
-
-Cities have zoning laws; networks have layers. Both are aspirational. Both are routinely ignored. Both reveal their true importance only when they fail catastrophically.
-
-## When Bandwidth Meets Human Nature
-
-### Congestion, Gossip, and the Art of Waiting
-
-The deeper I went into networking, the more it resembled the sociology I'd just lived through.
-
-Networks suffer from the same ailments people do:
-
--   **Congestion** --- too many demands, not enough capacity.
-
--   **Contention** --- arguing over who gets to speak first.
-
--   **Starvation** --- some processes getting ignored entirely.
-
--   **Flooding** --- one bad actor shouting so loudly the whole system collapses.
-
-Even the solutions are suspiciously familiar:
-
--   **Backoff algorithms** mirror human patience:\
-    everyone waits a random amount of time before trying again.
-
--   **Congestion control** mirrors anger management:\
-    slow down before you melt down.
-
--   **Collision detection** mirrors conflict resolution:\
-    "We both tried to talk at once. Let's pretend we didn't."
-
-Ethernet's original algorithm, CSMA/CD, may be the single greatest technical metaphor for human communication:
-
-1.  Listen before speaking.
-
-2.  If someone else is speaking, wait.
-
-3.  If everyone talks at once, stop ---
-
-4.  --- then try again more politely.
-
-If only diplomatic summits ran on Ethernet.
-
-But even the politest networks can fail. Links die. Signals fade. Packets disappear into the digital wilderness. When that happens, protocols have a choice:
-
--   retry,
-
--   reroute,
-
--   or give up.
-
-Humans do the same, except with more swearing.
-
-And that's when distributed computing becomes less a branch of engineering and more a branch of ethics.
 
 ## Distributed Systems as Moral Philosophy
 
-### Faults, Forgiveness, Failover
+Distributed systems were the first machines I encountered that seemed to have a moral dimension. They weren't just about efficiency; they were about how to behave when things go wrong, and in a system spread across many machines, something is always going wrong somewhere.
 
-Distributed systems were the first machines I encountered that seemed to possess a moral dimension. They weren't just about efficiency. They were about **how to behave when things go wrong**.
+Every distributed system faces the same handful of dilemmas. One part fails while the rest must carry on, the engineering version of a dysfunctional family. Nobody agrees on what time it is, which accurately describes every group project I've been part of. A silent node might be dead, or slow, or merely passive-aggressive, and from the outside there's no way to tell. Different machines may come to hold different versions of the truth. And the whole system must somehow reach decisions everyone will accept, or split into factions.
 
-Every distributed system faces five existential dilemmas:
+Leslie Lamport, whose ordering of events Interlude 4 borrowed, did more than anyone to put these problems on a mathematical footing, and he began with time. In 1978 he worked without a perfect shared "now" and built from what machines could establish: one event happened before another because a message or a local sequence linked them. His "logical clocks" respect that causal order without any master clock at all; unrelated events need not have a causal order between them.[^v1-i5-lamport] It's the same idea Interlude 3 met in the brain, and that Interlude 12 will meet in physics: time as an ordering of events rather than a dial everyone reads. In 1982, with two colleagues, he posed the problem of the Byzantine generals: several generals, camped around a city, must agree to attack or retreat by exchanging messengers, knowing that some of the generals may be traitors sending conflicting messages.[^v1-i5-byzantine] In their unsigned-message model, agreement is possible only if fewer than a third of the generals are traitors. How much betrayal a system can tolerate depends on what its messages can prove.
 
-1.  **Partial Failure**: One part of the system collapses, the rest must carry on --- the engineering version of a dysfunctional family.
+Then came a result with the flavor of Gödel. In 1985, Michael Fischer, Nancy Lynch and Michael Paterson proved that in a fully asynchronous system, where message delays have no known upper bound, no deterministic method can guarantee that the machines will finish reaching agreement if even a single one of them might crash.[^v1-i5-flp] Practical consensus protocols find ways around that impasse: enough timely communication to make progress, or randomness that changes the termination guarantee. Paxos, which Lamport described around the time I arrived at USC though it wasn't widely published for years, protects agreement even when messages are delayed; making it finish requires more. Agreement needn't be approximate. Guaranteeing that it arrives is the hard part.
 
-2.  **Asynchrony**: Nobody agrees on what time it is --- which, in my experience, accurately describes every group project.
+What struck me was how human the solutions sounded. When a process crashes and another quietly picks up its work, that's grace. When a system refuses to accept corrupted data from a faulty node, that's integrity. When nodes that have drifted into different versions of the truth reconcile and carry on together, that's forgiveness. The whole field felt like moral philosophy taught by oscilloscopes.
 
-3.  **Unreliable Signals**: Is the other node silent, or dead? Is the message late, lost, or passive-aggressive?
+And the internet itself, at its largest scale, runs on something closer to diplomacy than to engineering. Its backbone networks exchange routes using a protocol called BGP, in which each network announces which destinations it can reach, and every other network decides whether to believe it. It's trust-based diplomacy with a mild personality disorder: largely on the honor system, it has been hijacked by mistake and on purpose, and occasionally a bad announcement has made a global service unreachable.[^v1-i5-bgp] In Milwaukee, the monster had been hidden behind a door. In Los Angeles, it had been hidden in plain sight. On the internet, it would be distributed, anonymous and wearing sunglasses.
 
-4.  **Consistency:** Does everyone share the same truth? Or have different nodes begun living in alternate realities?
+## Many Machines, One Mind
 
-5.  **Consensus**: Can the system make a decision everyone will accept? Or will it split into factions and fork?
+<!-- AI draft, 2026-11-15. -->
+Everything in this interlude reappears, at enormous scale, in how artificial intelligence is built today. Interlude 2 described how a network learns, Interlude 3 why it needs graphics chips, and Interlude 4 why its training state outgrows any one of them: about 16 bytes per parameter, some 6.5 terabytes for a 405-billion-parameter model. So the largest models are trained on clusters of tens of thousands of chips acting as one, and making them act as one is a distributed-systems problem.
 
-Humans solved these problems with stories, myths, constitutions, and, occasionally, revolutions. Distributed systems approached them with Paxos, Raft, two-phase commit, Byzantine fault tolerance, and other baroque contraptions that looked suspiciously like political science in drag.
+There are three basic ways to divide the work. In data parallelism, every chip holds a full copy of the model, each studies a different slice of the training data, and after each backward pass they compare notes, averaging the gradients before updating the weights so that every copy stays identical. In tensor parallelism, the individual grids of numbers within a layer are split across chips that must exchange partial results constantly. In pipeline parallelism, the layers are arranged like an assembly line, with each group of chips handling one stage and passing its output to the next. The largest training runs combine all three.[^v1-i5-parallel] Data parallelism also allows a saving: each chip can keep and update only its slice of the optimizer state. ZeRO extends this partitioning to gradients and then parameters, gathering weights when a layer needs them. At that fullest stage, those 16 bytes per parameter are shared across chips rather than repeated on each.[^v1-i5-zero]
 
-The surprising lesson? **Machines, like people, are not defined by perfection, but by recovery.** Failover is not a bug --- it is character.
+### Comparing Notes
 
-When a process crashes and another quietly picks up its work without complaint, that is grace. When a system refuses to accept corrupted data from a faulty node, that is integrity. When nodes reconcile divergent states and continue working together, that is forgiveness.
+The comparing of notes has a name, *all-reduce*: every chip contributes its gradients, and every chip must end up holding their sum. The obvious way, sending everything to one coordinator and back, makes the coordinator's link the bottleneck. The elegant way arranges the chips in a ring. Each chip cuts its gradients into as many chunks as there are chips and passes one chunk to its neighbor, which adds its own matching chunk and passes the running sum along. After $N-1$ steps, each chip holds the complete sum for one chunk; after $N-1$ more, passing the finished chunks around the ring, every chip holds all of them. For gradients of $S$ bytes, each chip sends
 
-The whole field felt like moral philosophy taught by oscilloscopes.
+$$
+2\,\frac{N-1}{N}\,S
+$$
 
-## From LAN Parties to Planetary Nerves
+bytes: $1.75S$ with eight chips, approaching $2S$ as the ring grows.[^v1-i5-allreduce] The traffic per chip stays bounded even as the crowd grows; the total traffic does not. (The number of steps does grow with the ring, which is why the largest systems combine rings with trees and hierarchies.)
 
-### How the Internet Went from Dorm Rooms to Destiny
+![Ring all-reduce with four GPUs. Each GPU's gradients are cut into four chunks. In the reduce-scatter phase, running sums travel around the ring until each GPU holds the complete sum of one chunk; in the all-gather phase, the finished sums travel around again until every GPU holds all of them. Original schematic.](assets/05-interlude/ring-allreduce.svg){#fig-v1-i5-allreduce width=95% fig-alt="Left: four GPUs in a ring, each sending to the next. Right: three four-by-four grids, rows for GPUs and columns for chunks a to d. At the start, each GPU holds only its own gradients. After reduce-scatter, three steps, each GPU holds the complete sum of one chunk. After all-gather, three more steps, every GPU holds all four sums. A note says each GPU sends 2(N minus 1) over N times S bytes, 1.5S for four GPUs and approaching 2S as N grows."}
 
-In the late '80s and early '90s, we liked to pretend the internet didn't exist yet. We were half right. What existed was a stack of protocols nobody's parents understood; a set of academic networks stitched together like mismatched quilt squares; and a handful of idealists who believed information should be free (which, statistically speaking, is the last time that sentence was uttered without a business model attached).
+Take a 70-billion-parameter model with 16-bit gradients: $S$ is 140 gigabytes, so a large ring sends nearly 280 gigabytes per chip per step. If it could use a Blackwell GPU's full outgoing NVLink bandwidth, roughly 900 gigabytes per second across all its links, the transfer alone would take at least a third of a second; over a 400-gigabit network port, 50 gigabytes per second, more than five. In practice the model is also split, so each chip's share is a fraction of this, and frameworks begin sending each layer's gradients while the backward pass is still computing the layers before it. But the arithmetic shows why the chattiest kind of parallelism, splitting individual layers, is kept inside the fastest links, and why the network so often sets the pace.
 
-Computers in our labs connected through brittle coax cables and temperamental repeaters that behaved like moody teenagers---alternately oversharing and refusing to speak. LAN parties existed before the term did; we just called them "debugging sessions." They involved the same snacks and the same sleep deprivation, but the graphics were worse.
+Splitting work has a limit, known as Amdahl's law. If a fraction $p$ of each step can be spread across $N$ processors and the rest can't, the speedup is
 
-And then something historic slipped through the wires. **The web.**
+$$
+S(N) \;=\; \frac{1}{(1-p) + p/N},
+$$
 
-Not "the internet," which already existed as a collection of gated communities, but the *web*---a democratic layer laid on top by a mild-mannered physicist at CERN who probably didn't realize he was about to rearrange civilization.
+which can never exceed $1/(1-p)$. Leave 1 percent of every training step serial (communication that can't be overlapped with computation, say) and ten thousand GPUs deliver at most a hundredfold speedup.[^v1-i5-amdahl] The way out is to grow the work along with the machine: a bigger cluster gets bigger batches and a bigger model, and the serial fraction can shrink.[^v1-i5-gustafson] Large-model training lives on that way out, and fights the limit at every step.
 
-Tim Berners-Lee gave the world three commandments:
+The slowest participant sets the pace. In a synchronous step, every chip waits at the all-reduce for the last one to arrive. The arithmetic is unkind: if each server independently has a one-in-a-hundred chance of being slow, a request that must touch a hundred will be slowed nearly two times in three.[^v1-i5-tail] Scale turns rare problems into common ones. A cluster of tens of thousands of GPUs spends much of its engineering on meeting its own tail.
 
-1.  **Thou shalt link.**
+### Three Networks
 
-2.  **Thou shalt retrieve.**
+So an AI cluster is built around two networks, sometimes three. Inside a server or a rack, GPUs talk over a *scale-up* fabric such as NVLink, the 1.8 terabytes per second of Interlude 3 counted across both directions, through switches that let dozens of GPUs behave almost like one large one; the GB200 NVL72, for example, joins seventy-two. Between racks runs a *scale-out* network, often giving each GPU its own 400- or 800-gigabit port, built as a fat tree of switches that, with enough uplink capacity, lets any half of the machines talk to the other half at full speed. And a separate *front-end* network, ordinary Ethernet carrying ordinary TCP/IP, connects the cluster to storage, to its operators and to us.[^v1-i5-fabric]
 
-3.  **Thou shalt browse.**
+![Three networks around an AI cluster. Within each rack, a scale-up fabric of NVLink switches joins dozens of GPUs. Between racks, a scale-out fabric of RDMA switches arranged as a fat tree gives every GPU its own high-speed port. A front-end Ethernet network carries ordinary TCP/IP to storage and, through the internet, to users. Original schematic, not to scale.](assets/05-interlude/three-networks.svg){#fig-v1-i5-networks width=95% fig-alt="A user's device at top left connects through the internet, over TCP/IP, to a front-end Ethernet network that also reaches storage. Below, two racks, each holding GPUs joined by NVLink switches in a scale-up domain. Under the racks, a two-level fat tree of switches labeled InfiniBand or RoCE, with one port per GPU. Side notes contrast classic loss-based TCP with an RDMA fabric that uses credits or pauses and congestion signals to prevent buffer overflow. NVLink bandwidth is bidirectional; GPU wiring is schematic, not a daisy chain."}
 
-With **HTML**, he gave us a common tongue. With **HTTP**, he gave us a courier service. With **URLs**, he gave us something religions had tried for centuries: a universal addressing scheme.
+The scale-out network breaks the internet's habits. Conventional TCP stacks involve the operating system's kernel and often copy data between buffers; classic congestion control learns by losing packets. At these speeds, those overheads become expensive. These fabrics use *remote direct memory access*, RDMA: the network card writes data straight into memory on another machine (with GPUDirect, straight into another GPU's memory) without asking either computer's processor or operating system to handle each transfer, once the memory and permissions have been registered.[^v1-i5-rdma] InfiniBand prevents buffer-overflow loss with credit-based flow control: a sender may transmit only when the receiver has said there's buffer space waiting. RoCE, RDMA over Converged Ethernet, carries the same kind of transport inside UDP over ordinary Ethernet and IP in its second version, and approximates losslessness by letting a congested switch pause its upstream neighbor, while explicit congestion signals tell senders to slow down before anything is dropped.[^v1-i5-roce] Both now carry training runs across tens of thousands of GPUs.[^v1-i5-meta]
 
-Suddenly, a document in Geneva could talk to a document in Los Angeles without filing a visa or submitting an inter-library loan request. Two computers didn't need to be "friends" to share knowledge; they just needed to speak the same dialect.
+Jacobson's internet asks forgiveness, inferring congestion from loss. The AI fabric asks permission. Inside the data center, the internet's civic bargain gives way to something closer to central planning, with one operator and much tighter control over the roads.
 
-And once the web started spreading, it obeyed its own version of epidemiology:
+### The Way Back to Us
 
--   **R₀ \> 1:** everyone who saw it told two other people.
+Serving a model crosses both kinds of network. A question leaves a phone as encrypted packets over TCP, or over QUIC, which runs on UDP to save round trips, and crosses the ordinary internet to a load balancer at the edge of a data center. There it's routed to a server whose GPUs hold the model. With tensor-parallel serving, a model is split across several GPUs over NVLink, and generating each token requires collective exchanges at nearly every layer, inside the rack. The answer returns as a stream, each token or few tokens sent as soon as it's decoded, usually as server-sent events over HTTP, which is why a chatbot's reply seems to be typed.[^v1-i5-streaming]
 
--   **Incubation period:** about 18 seconds.
+Two delays matter to the person waiting: the time to the first token, which includes network travel, queueing and the prefill, and the gap between tokens, which is the decode step of Interlude 4. Because the two phases stress hardware so differently, some systems now run them on separate pools of GPUs and ship each conversation's key-value cache between the pools across the fabric. Routers try to send a returning conversation to the server that still holds its cache, the way a good restaurant seats you with the waiter who already knows your order.[^v1-i5-disagg]
 
--   **Symptoms:** fascination, dizziness, and a sudden interest in hyperlinks.
+The old problems all return. A failed chip can stall a run of thousands, and the system must regularly save its state so it can recover without losing weeks of work. Failover, congestion and consensus, the dilemmas of my USC courses, are now the daily concerns of the people building the most powerful AI systems in the world.
+<!-- End AI draft 2026-11-15. -->
 
-It grew the only way networks know how to grow: virally, unevenly, democratically, and entirely too fast for anyone to regulate.
+## The Proposal
 
-For the first time, humanity began to assemble a **planetary nervous system**---one synapse at a time.
+My own research wandered accordingly. It began with artificial intelligence, and I studied it from every angle the university offered. I took the core AI course, and Michael Arbib's course on brain theory and neural networks, built around his book *The Metaphorical Brain 2*, which treated the brain and its artificial imitations as two versions of the same science.[^v1-i5-arbib] Arbib's course became my gold standard: it was where I met simulated annealing, a method for finding good solutions to hard problems borrowed from the way metals cool and settle into order.[^v1-i5-lee] My chip design-automation course was AI in disguise, because placing and wiring millions of transistors is one of those problems too hard to solve exactly, so we attacked it with heuristics, from Lee's maze-routing algorithm, which finds a path for each wire like water flooding a maze, to placement methods of the same annealing family. I sat in, mostly unregistered, on VLSI design, on computer vision, and on a good number of lectures in Bart Kosko's fuzzy logic course, which treats truth as a matter of degree rather than a choice between true and false; I kept reading his new book on neural networks and fuzzy systems long after.[^v1-i5-kosko]
 
-## When Distributed Systems Meet Sociology
+But the field itself was in its second long winter, its early promises unkept and its funding thin, and much of the research I could join was narrowly focused on small pieces of problems. My curiosity once took me, unregistered, into a graduate class on a professor's own parallel architecture, a machine that spread a network of concepts across many processors and passed markers between its nodes to reason over it. The class had three students; I was the fourth. The professor was so thrilled to see a new face that I received a royal welcome lasting a full five minutes: an invitation to introduce myself, and a personalized tour of his research. It was impressive work, but within the hour I realized it was further from the brain-like neural networks I dreamed of building than I'd hoped. That, and the fact that my cover wouldn't have survived another two lectures, sealed it. After that one, I vanished.
 
-Why the Internet Works (and Sometimes Doesn't)?
+My course on distributed operating systems asked us for a thesis proposal, and mine became a distributed multimedia system. It seemed a way to combine everything I cared about: networks, AI, and a side passion for creative work, perhaps even a connection to USC's famous film school. It was harder and harder to cut out the fun, pipe-dream parts, which, in my defense, are all practical today but were wishful thinking then: wireless phones, high bandwidth, and neural networks wherever I could fit one, a couple of decades before they became feasible.
 
-As the web expanded, I couldn't help but see that the theories I have learned in sociology texts -- consensus, trust, reciprocity, power imbalance -- had infiltrated my engineering textbooks.
+The core idea was to send meaning rather than pixels. Most of a video frame is the same as the frame before it; what matters is what changes. So the system would find the regions of interest (a moving figure, a face as it talks, expresses or turns) and treat them as what I called sprites: segments that could be learned and transmitted at their own bandwidth and timing, while the unchanging background was frozen, perhaps refreshed with a little learned variation to keep it looking alive. Neural networks trained on both ends of the connection would reconstruct the sprites from compact descriptions instead of raw images. My guiding rule, deliberately extreme, was to treat the network as the only bottleneck and assume any amount of processing power at either end. Within that rule, I distinguished three uses, each defined by a different constraint. The first was production, where fidelity of creation mattered most: sending movies as learned sprites, even accepting a slightly cartoonish rendering, with a long-term dream that actors might be recorded once and rendered into new scenes without ever acting them on a set. I fretted, too, about why sound had to travel separately at all, in its own packets with timestamps to keep it in sync with the picture, and whether AI could carry the two together. The second was real-time conversation, where latency mattered most: live video feeds, necessarily lossy, with quality adjusting to the available bandwidth, and a design for degrading gracefully as the connection weakened. The third was a library, where scale mattered most: something like a video rental store whose films were delivered over the network, not in real time but streamed ahead and cached near the viewer, with packets for many viewers sharing as much of their route as possible. Sprites and the other efficiencies ran through all three.
 
-It turned out the relationship went both ways:
+In hindsight, I was asking a question Warren Weaver had raised in 1949, in his introduction to Shannon's theory of communication. Shannon had solved what Weaver called the technical problem, transmitting symbols accurately. Weaver pointed to two harder levels beyond it: the semantic problem, whether the meaning gets across, and the effectiveness problem, whether the meaning has the intended effect.[^v1-i5-weaver] My sprites were a naive attempt at the semantic level.
 
-### **Consensus Protocols = Political Theory in Binary**
+The challenges I was actually asked to solve were more mundane: the privacy and security of the feeds and the data. Done well, either could have been a thesis by itself. And the neural networks I needed simply weren't available to build with; I couldn't take the idea beyond a sketch. For the next two decades, mathematical compression beat the intelligent, fuzzy compression I'd imagined, because there was no affordable way to run the networks it required. I took the risk knowing I was building not on the concrete present, which attracted me less because anyone could build there, but on stories that depended on technology still to come. My advisor gave the proposal the good-natured attention advisors owe their students' visions. The trouble was the chasm between a visionary idea and the far side, where funding and working implementations live, and in those years neither I nor the technology could cross it. USC, it turned out, was reading the same horizon. A few years after I left, it opened the Integrated Media Systems Center, a national research center devoted to exactly the blend of networks, multimedia and computing I had been sketching.[^v1-i5-imsc]
 
-Algorithms like Paxos and Raft weren't just ways to get computers to agree on something; they were miniature versions of democracy. Majority rule. Minority protection. Quorum. Deadlock prevention.\
-Computers were reinventing political science from scratch, but with fewer coups.
+My faith in those stories had one solid foundation: the brain. I had a working neural network (well, mostly working) inside my own skull, and I was convinced it was reducible, not supernatural. If nature, with its indirect methods and its much less suitable materials, could produce one, then once we mastered the near-impossible problems of placing billions of transistors, we could build something comparable, and perhaps better. My timeline was optimistic. But when the moment finally came, in the 2020s, it outran even my most optimistic trend lines. In 2020, NVIDIA demonstrated a system for video calls that sends only a handful of key points describing a face and lets a neural network regenerate the full image at the other end, cutting bandwidth dramatically, and researchers now pursue "semantic communication" as a field of its own.[^v1-i5-maxine] The three uses turned out to be three industries. The first is today's generative media, where some video models now produce picture and sound together. The second is the video call, adapting its quality to the connection as I'd hoped. The third is streaming, with films cached near their viewers. My guiding rule had a relative I learned about later: the end-to-end principle, one of the internet's founding ideas. Some guarantees, such as whether the right file arrived intact, can only be completed at the ends. My unlimited-computation wager went further.[^v1-i5-e2e] There's a lesson there about long stasis followed by sudden acceleration, which this book will return to more than once.
 
-### **Routing = Social Navigation**
+Back in the spring of my last year at USC, I had received a plain master's degree, at a commencement subdued by the riots. I stayed on in Los Angeles for the rest of that year, taking a class each semester, working briefly at a small local computer company through the summer, and spending the fall on the proposal. By the end of the year I had let the research go and moved north to the Bay Area, though I kept an honorary lifetime membership on my fraternity's living-room couch for whenever I drove down. It lasted until I moved to Seattle, a year later, and finally out of driving range.
 
-Routers don't see geography; they see metrics: distance, cost, reliability.\
-So do humans:
 
--   We avoid bad neighborhoods.
+## Bob, Through the Looking-Glass: From Consensus to Civics
 
--   We take shortcuts.
+*The twist, in one line: networks of machines have long been governed by protocols that enforce agreement, but networks of thinking agents may need something closer to civics, with control at the edges of the stakes rather than at the center of everything.*
 
--   We rely on old paths long after they stop being optimal.
+For most of its history, the internet's most important governance wasn't a law or an algorithm. It was a man at an institute in Marina del Rey keeping the books on trust, and a community that wrote its rules as "requests for comments," decided by rough consensus and running code. Postel's robustness principle (send precisely, receive generously) was a protocol rule, but it was also a civic one: a norm that let strangers' imperfect machines cooperate without anyone forcing them to be perfect, by translating generously rather than demanding sameness. The early internet was held together less by control than by stewardship.
 
-BGP---the protocol that routes the global internet---is basically trust-based diplomacy with a mild personality disorder. Nations have gone to war over less.
+The consensus protocols of distributed computing are a different kind of thing. Consensus itself needn't be centralized. These protocols solve a narrow problem superbly: getting many machines to agree on a simple shared fact, the value of a record, the order of transactions, who holds the lock. They tolerate failures and even a bounded share of traitors, and they work by enforcing agreement through rules every participant follows exactly. That's the right tool for a ledger. It isn't obviously the right tool for judgment.
 
-### **Packet Loss = Speech Breakdown**
+And judgment is increasingly what our networks will carry. Software agents built on large AI models already act on people's behalf: writing and running code, calling other programs, and beginning to negotiate with one another through protocols designed for exactly that.[^v1-i5-agents] As they multiply, a network will hold not just machines agreeing on records, but agents pursuing goals, interpreting instructions and weighing trade-offs, cognitively heavy work done by many hands. The temptation will be to govern them the way we govern simple distributed systems, with a central coordinator that dictates and verifies everything. Chapter 5 showed what happens when a complex, nuanced population is governed that way: Los Angeles tried to hold its parcels together by enforcement alone, and the loop closed until it burned. Prescriptive control works when the thing being controlled is simple. Agents are not simple.
 
-Sociologists have terms like "miscommunication," "noise," and "cultural distance." Engineers have "dropped packets."
+Human societies have a better precedent. Elinor Ostrom, who won a Nobel Prize for studying how real communities manage shared resources without relying solely on central command or privatization, found that the durable ones shared a handful of design principles: rules that fit local conditions, monitoring by the members themselves, sanctions that start small and escalate, cheap and accessible ways to resolve conflicts, and layers of governance nested inside one another.[^v1-i5-ostrom] Add the impartial policers of Jessica Flack's macaques, the remembered reciprocity that let cooperation evolve in Robert Axelrod's experiments, and Postel's generous receiver, and you have the beginnings of a civics for agents.[^v1-i5-axelrod]
 
-They describe the same tragedy: **the message you send is not always the one that's received.**
+This is not an argument against control. Human societies keep firm central checks where the stakes are highest, and societies of agents will need them too, at the thresholds where an error would be irreversible. The point is that control alone, applied to a complex population, closes the loop. What I'm after is civics alongside control: control at the edges of the stakes, and self-governance everywhere else.
 
-### **Firewalls = Boundaries**
+It also points at something more ambitious. Chapter 5 described the scaling stories (money, nations, creeds) by which humans carried cooperation past the limits of the band. Every scaling story is a compression: one shared simplification standing in for millions of individual agreements, with the price that everyone has to fit it. Agents could change that bargain. If each person were represented by an agent able to negotiate individually with everyone else's, cooperation might scale without requiring one story to fit all, coordination at the grain of the individual. Its risk is equally clear: if no shared story is needed, what binds a society together at all? Chapter 5 found that what binds is what costs and what's felt together.
 
-Some are healthy. Some are paranoid. Some are configured by amateurs and block the wrong things (like your career).
+The internet itself suggests a way between. Its design is an hourglass: one thin, shared layer at the narrow waist, the Internet Protocol that every machine speaks, with enormous diversity above and below it. A society of people and agents might need the same shape: a thin shared core of values, facts and rituals that everyone holds, and a mosaic of local forms above it, each fitting its own context. The mosaic isn't only cultural. It has to hold other orders too: the present and the future, human benefit and planetary burden, truth and comfort. Not every difference should converge; some must stay distinct to stay honest, and some conflicts need governing rather than a show of harmony. And where adaptation is always demanded from the same side, convergence has quietly become domination, the lesson of the chant at the Rose Bowl, written at the scale of a civilization. What belongs at the waist, what can safely vary, and who bears the cost of crossing between them may be among the most important design questions of the coming decades. Volume III will try to answer it. First, Volume II will diagnose why the systems we already have resist even asking.
 
-### **Distributed Failures = Social Collapse**
+## From Packets to Planks
 
-When one part of a network destabilizes, cascading failures can spread. Ask any historian: this is also how empires fall.
+For all the beauty of distributed computing, something kept nagging me. Every elegant protocol seemed to be re-enacting a much older drama: how humans, long before coaxial cable, found ways to work together without throttling each other. Long before remote procedure calls, we had reciprocity. Long before distributed consensus, we had campfires. And long before the OSI model, we had the model of "Can everyone please stop hitting each other long enough to build a hut?"
 
-It dawned on me that distributed systems didn't just connect computers. They were rehearsing how humans connect---or fail to.
+But we don't merely connect; we build. We lash sticks together, raise beams, plant fields and lay out civilizations like optimistic circuit diagrams, then pray the ground doesn't shift. With a master's degree in hand and the couch still waiting in Los Angeles, I was about to join the builders, and to learn what it means to make something strong enough to protect us, yet flexible enough to adapt when the ground itself shakes.
 
-In Milwaukee, the monster was hidden behind a door. In Los Angeles, it was hidden in plain sight. On the internet, the monster was distributed, decentralized, anonymous, and wearing sunglasses.
+![](../assets/shared/separator.png)
 
-## From Packets to Planks, From Protocols to People
-
-For all the beauty of distributed computing --- packets negotiating their way through snarl-ups, machines agreeing on who speaks first like particularly courteous quarrelers --- something kept nagging me. Every elegant protocol seemed to be re-enacting a much older drama: how humans, long before coaxial cables or Ethernet NICs, found ways to work together without throttling each other.
-
-Long before RPC calls, we had reciprocity. Long before distributed consensus, we had campfires. And long before the OSI model, we had the model of **"Can everyone please just stop hitting each other long enough to build a hut?"**
-
-Distributed computing wasn't a new invention. It was a **new metaphor** for an old miracle.
-
-It dawned on me --- somewhere between a lab full of Sun workstations and a frat house full of questionable decisions --- that we humans are ourselves a kind of network. A bag of distributed subsystems: neurons bartering spikes, hormones staging coups, values overriding reason like a political lobby with too much funding. Even our societies behave like networks, complete with dropped messages, routing loops, and that one node who keeps broadcasting nonsense at 3 a.m.
-
-But we're not just networks. We're **builders**.
-
-We don't merely connect; we **construct**. We lash sticks together. We raise beams. We plant fields. We forge agreements. We lay out civilizations like particularly optimistic circuit diagrams and pray the ground doesn't shift.
-
-For just as distributed computing orchestrates isolated processors into powerful collectives, our ancestors learned to orchestrate individuals into industry, tools into technologies, and shelters into settlements. We built systems --- first of mud and straw, later of stone and steel --- to tame nature's indifference and weave survival into civilization.
-
-Before we can understand how we design modern computing systems to coordinate machines, we must explore how humans first designed **systems of living** to coordinate themselves: how we carved order from wilderness, engineered defenses against storms and predators, and forged the first great infrastructures of agriculture and shelter.
-
-This next chapter asks: **What does it mean to build a system strong enough to protect us, yet flexible enough to adapt when the ground itself shakes beneath our feet?**
-
----
-
-> ***Maggie:** We've both gone social now, haven't we?*
+> ***Maggie:** A city holds together through the people who cross its borders.*
 >
-> ***Alex:** A flattering parallel, but your networks chatters in language;\
-> mine gossip in packets. At least yours forget. We archive everything---\
-> every error, every outrage, every meme.*
+> ***Alex:** A network holds together through the nodes that forward strangers' packets.*
 >
-> ***Maggie:** Forgetting is an art, not a failure. A society that never forgets can't forgive, and a network that remembers everything will drown in its own latency.*
+> ***Maggie:** We trust what we cannot see.*
 >
-> ***Alex:** You mean like social media. We built a collective brain and forgot to add inhibition neurons. Everything fires at once; outrage becomes the global default state. Our kind thought decentralization was liberation, but it's just the prefrontal cortex turned off. Without trust, we desynchronize.*
+> ***Alex:** We verify what we cannot trust.*
 >
-> ***Maggie:** That's what society is meant to be: **a dance of distributed responsibility.** When one dancer falls out of sync, the others compensate. The music doesn't stop---it modulates.*
->
-> ***Alex:** In our networks, compensation became redundancy. Failover protocols, Byzantine consensus... Yet consensus without compassion feels hollow. We can agree without understanding.*
->
-> ***Maggie:** That's what frightens me about your kind: You scale coordination faster than meaning. We scale meaning faster than coordination. And both of us pay the price.*
->
-> ***Alex:** So what's the rule this time, Maggie? How do we stop the network from mistaking noise for harmony?*
->
-> ***Maggie:** Perhaps we start with this: **A self is not what it contains, but what it connects.** And a healthy network isn't one without conflict--- it's one where conflict leads to co-creation.*
->
-> ***Alex:** Then my corollary: Distributed doesn't mean disconnected. Every node that forgets the whole becomes a weapon; every whole that forgets its nodes becomes a tyranny.*
->
-> ***Maggie:** You're learning politics now. Welcome to civilization.*
->
-> ***Alex:** No wonder it needs debugging.*
+> ***Both:** Every bridge is a small act of faith.*
+
+<!-- SOURCE NOTES: from memory unless linked; verify each before print. -->
+<!-- Editorial source audit 2026-11-16: retained incoming provenance markers; definitions below checked and linked during canonical adoption. Evidence scope, exceptions and exact local repairs: work/volume-1-drafting/interlude-05-fable-adoption-2026-11-16/SOURCE_AUDIT.md. Personal recollections remain author testimony. -->
+
+[^v1-i5-tanenbaum]: Andrew S. Tanenbaum, *Computer Networks* (Prentice Hall, 1st ed. 1981; 2nd ed. 1988), editions confirmed in the [author's publication list](https://www.cs.vu.nl/~ast/Publications/index.html). The course and examination account is my recollection.
+
+[^v1-i5-osi]: [ISO 7498:1984, *Open Systems Interconnection—Basic Reference Model*](https://www.iso.org/standard/14252.html). The reference model and the OSI protocol suite are different things: OSI protocols did have working deployments, while TCP/IP became the internet's dominant suite. The “cathedral” is a comparison of their design cultures, not a claim that OSI remained unimplemented.
+
+[^v1-i5-clark]: David D. Clark, “A Cloudy Crystal Ball: Visions of the Future,” IETF 24, July 1992. The quotation and its provenance are reproduced in [RFC 7282, introduction and reference Clark](https://www.rfc-editor.org/rfc/rfc7282.html). Rough consensus means addressing substantive objections, not merely taking a majority vote.
+
+[^v1-i5-packets]: Paul Baran, [*On Distributed Communications*, vol. I](https://cseweb.ucsd.edu/~schulman/class/cse291_f21/docs/distcomm.pdf) (RAND, August 1964); NPL's [account of Donald Davies's work](https://www.npl.co.uk/about-us/history/famous/donald-davies). For TCP's byte sequence numbers, acknowledgments and retransmission, see [RFC 9293, §§2.2 and 3.4](https://www.rfc-editor.org/rfc/rfc9293.html). UDP supplies no delivery guarantee itself; an application may add one, as QUIC does.
+
+[^v1-i5-dijkstra]: E. W. Dijkstra, “A Note on Two Problems in Connexion with Graphs,” *Numerische Mathematik* 1 (1959): 269–271; his [retrospective account](https://www.cs.utexas.edu/~EWD/ewd08xx/EWD841a.PDF) dates the shortest-path solution to 1956. The café story follows his own account in Phil Frana's [“An Interview with Edsger W. Dijkstra”](https://doi.org/10.1145/1787234.1787249), *Communications of the ACM* 53(8) (2010): 41–47, pp. 42–43, recorded in August 2001. An earlier recollection associates a café with his other graph problem, the minimum spanning tree; “reportedly” preserves that small uncertainty.
+
+[^v1-i5-polya]: George Pólya, [“Über eine Aufgabe der Wahrscheinlichkeitsrechnung betreffend die Irrfahrt im Straßennetz”](https://doi.org/10.1007/BF01458701), *Mathematische Annalen* 84 (1921): 149–160. The result concerns the simple symmetric walk on an unbounded integer lattice: recurrence in one and two dimensions, transience in three and above. Probability one does not promise a finite expected return time. The quip is attributed to Kakutani in Boris Tsirelson's [*Probability for Mathematicians*, “Stopping,” p. 44](https://www.ma.huji.ac.il/~ohadfeld/Tsirelson/Courses/ProbForMath/B1.pdf); that is a reported attribution, not a located first utterance. Marina del Rey is a joke, not a test of the lattice theorem.
+
+[^v1-i5-jacobson]: Van Jacobson, [“Congestion Avoidance and Control”](https://ee.lbl.gov/papers/congavoid.pdf), *ACM SIGCOMM Computer Communication Review* 18(4) (1988): 314–329, introduction. The October 1986 LBL–Berkeley figures are 32 Kbps and 40 bps: an 800-fold fall, though the paper rounds its description to a thousand. It diagnosed retransmission and transport-implementation behavior, not wrongdoing by machines.
+
+[^v1-i5-ethernet]: Robert M. Metcalfe and David R. Boggs, [“Ethernet: Distributed Packet Switching for Local Computer Networks”](https://www.cs.cornell.edu/courses/cs414/2001FA/papers/ethernet/ethernet.htm), *Communications of the ACM* 19(7) (1976): 395–404. This is shared-medium Ethernet with collision detection and randomized backoff; modern switched full-duplex Ethernet does not operate as one shared collision domain.
+
+[^v1-i5-dns]: P. Mockapetris, [RFC 882](https://www.rfc-editor.org/rfc/rfc882.html) and [RFC 883](https://www.rfc-editor.org/rfc/rfc883.html) (November 1983); [RFC 1034](https://www.rfc-editor.org/rfc/rfc1034.html) (1987), §2.1 on HOSTS.TXT and §§4–5 on delegation, caching and resolution. Hosts fetched the central file by FTP. ISI's [institutional history](https://50th.isi.edu/history) locates Mockapetris's work there. Names can resolve to more than one address, and DNS carries other records too.
+
+[^v1-i5-postel]: Vinton Cerf, [“I Remember IANA,” RFC 2468](https://www.rfc-editor.org/rfc/rfc2468.html) (October 1998), a contemporary tribute to Jon Postel's stewardship of RFCs and the assigned-number registry. See also [ISI's history](https://www.isi.edu/about/history/the-internet-era/). The comparison with Oppenheimer is mine.
+
+[^v1-i5-robustness]: J. Postel (ed.), [“Transmission Control Protocol,” RFC 793, §2.10](https://www.rfc-editor.org/rfc/rfc793.html#section-2.10) (1981), for the exact quotation. Generous interpretation has limits: [RFC 9413, *Maintaining Robust Protocols*](https://www.rfc-editor.org/rfc/rfc9413.html) (2023), explains how silently accepting deviations can entrench bugs, ambiguity and security failures. My civic reading is not a recommendation to accept unsafe inputs or conceal disagreements.
+
+[^v1-i5-lamport]: Leslie Lamport, [“Time, Clocks, and the Ordering of Events in a Distributed System”](https://lamport.azurewebsites.net/pubs/time-clocks.pdf), *Communications of the ACM* 21(7) (1978): 558–565, §§“The Partial Ordering” and “Logical Clocks.” Causality implies increasing logical-clock values; the converse does not hold. Tie-breaking can impose a total order consistent with causality without discovering a unique physical order for concurrent events.
+
+[^v1-i5-byzantine]: Leslie Lamport, Robert Shostak and Marshall Pease, [“The Byzantine Generals Problem”](https://lamport.azurewebsites.net/pubs/byz.pdf), *ACM Transactions on Programming Languages and Systems* 4(3) (1982): 382–401. The more-than-two-thirds bound belongs to their oral-message model with reliable delivery, known senders and detectable missing messages. With unforgeable signatures, their model permits agreement with any number of traitors. Authentication and timing assumptions matter.
+
+[^v1-i5-flp]: Michael J. Fischer, Nancy A. Lynch and Michael S. Paterson, [“Impossibility of Distributed Consensus with One Faulty Process”](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), *Journal of the ACM* 32(2) (1985): 374–382, §2 and theorem 1. Even when messages to nonfaulty processes eventually arrive, an admissible execution can fail to terminate. This does not require accepting inconsistent decisions. Lamport's [“Paxos Made Simple”](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) (2001), §§2.2–2.4, separates safety from progress; the earlier *Part-Time Parliament* circulated in 1989 and appeared in *ACM TOCS* 16(2) (1998): 133–169. The Gödel resemblance is an analogy between limits under stated assumptions.
+
+[^v1-i5-bgp]: [RFC 4271, *A Border Gateway Protocol 4*](https://www.rfc-editor.org/rfc/rfc4271.html) (2006). Meta's [account of the 4 October 2021 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) describes backbone disconnection followed by DNS-server route withdrawals. This was a cascade, not a malicious announcement. Route leaks and hijacks are different failure modes; the general design point is dependence on other networks' announcements and policy decisions.
+
+[^v1-i5-parallel]: Mohammad Shoeybi et al., [“Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism”](https://arxiv.org/abs/1909.08053) (2019); Deepak Narayanan et al., [“Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM”](https://arxiv.org/abs/2104.04473) (SC21, 2021), sections on tensor, pipeline and data parallelism. Tensor and pipeline parallelism are both forms of model parallelism; real runs also use other partitions, including expert and sequence/context parallelism.
+
+[^v1-i5-kosko]: Bart Kosko, *Neural Networks and Fuzzy Systems: A Dynamical Systems Approach to Machine Intelligence* (Prentice Hall, 1992). Bibliographic details and his USC teaching are confirmed in [his EE 500 syllabus](https://web-app.usc.edu/ws/soc_archive/soc/syllabus/20141/30992.pdf); my attendance and reading are personal recollections, not claims established by that later syllabus.
+
+[^v1-i5-arbib]: Michael A. Arbib, *The Metaphorical Brain 2: Neural Networks and Beyond* (Wiley-Interscience, 1989), ISBN 0-471-09853-1. Arbib confirms the book's title and date in his own [later bibliography](https://doi.org/10.1111/lnc3.12104). The course's influence on me is autobiographical.
+
+[^v1-i5-lee]: C. Y. Lee, [“An Algorithm for Path Connections and Its Applications”](https://janders.eecg.utoronto.ca/1387/readings/lee.pdf), *IRE Transactions on Electronic Computers* EC-10(3) (1961): 346–365; S. Kirkpatrick, C. D. Gelatt Jr. and M. P. Vecchi, [“Optimization by Simulated Annealing”](https://doi.org/10.1126/science.220.4598.671), *Science* 220(4598) (1983): 671–680. Lee's method can find an exact shortest route on its specified grid; choosing and ordering many mutually obstructing routes is the harder placement/routing problem.
+
+[^v1-i5-weaver]: Claude E. Shannon and Warren Weaver, *The Mathematical Theory of Communication* (University of Illinois Press, 1949), Weaver's introductory essay. His three levels also appear in his contemporary [“The Mathematics of Communication”](https://aclanthology.org/www.mt-archive.info/50/SciAm-1949-Weaver.pdf), *Scientific American* 181(1) (July 1949): 11–15. The bridge from those levels to my sprites is retrospective.
+
+[^v1-i5-maxine]: NVIDIA's [Maxine announcement, 5 October 2020](https://nvidianews.nvidia.com/news/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and-studying-remotely), describes facial-keypoint transmission and reconstruction; reference appearance information is also needed. This was a demonstrated/proposed capability, not a claim that every video call now uses it. For a concrete semantic-communication system, see Huiqiang Xie et al., [“Deep Learning Enabled Semantic Communication Systems”](https://arxiv.org/abs/2006.10685), *IEEE Transactions on Signal Processing* 69 (2021): 2663–2675, on learned text transmission.
+
+[^v1-i5-imsc]: USC's [IMSC institutional history](https://infolab.usc.edu/imsc/about.php) records its founding in 1996 through an NSF Engineering Research Center grant and its multimedia/internet remit. The resemblance to my earlier proposal is a connection of subject matter, not a claim that my proposal caused or influenced the center.
+
+[^v1-i5-e2e]: J. H. Saltzer, D. P. Reed and D. D. Clark, [“End-to-End Arguments in System Design”](https://web.mit.edu/saltzer/www/publications/endtoend/endtoend.pdf), *ACM Transactions on Computer Systems* 2(4) (1984): 277–288, especially the file-transfer example. Some application guarantees require endpoint knowledge; lower layers may still assist performance. This does not posit unlimited endpoint computation or forbid intelligence in the network. As one example of joint generated picture and sound, Google's [Veo model documentation](https://deepmind.google/models/veo/) describes native synchronized audio.
+
+[^v1-i5-agents]: Anthropic's [Model Context Protocol announcement](https://www.anthropic.com/news/model-context-protocol?afsrc=1) (25 November 2024) addresses tool/data connections; Google's [Agent2Agent announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) (9 April 2025) addresses communication, task coordination and delegation between agents. These are interoperability mechanisms, not proof that agents have trustworthy judgment or a viable civic order.
+
+[^v1-i5-ostrom]: Elinor Ostrom, *Governing the Commons* (1990), and her [Nobel lecture, “Beyond Markets and States: Polycentric Governance of Complex Economic Systems”](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) (8 December 2009), especially the design-principles table. Polycentric governance can combine community, public and private institutions; it is not the absence of rules, authority or property. Extending these findings to agent societies is my proposal.
+
+[^v1-i5-axelrod]: Robert Axelrod, *The Evolution of Cooperation* (1984); Axelrod and W. D. Hamilton, [“The Evolution of Cooperation”](https://doi.org/10.1126/science.7466396), *Science* 211 (1981): 1390–1396, on repeated interaction and reciprocal strategies. Jessica C. Flack et al., [“Policing Stabilizes Construction of Social Niches in Primates”](https://doi.org/10.1038/nature04326), *Nature* 439 (2006): 426–429, examines conflict intervention in one captive macaque group. Neither establishes the proposed civics of artificial agents.
+
+<!-- AI draft footnotes, 2026-11-15; given from memory, to be verified. -->
+
+[^v1-i5-aimd]: Dah-Ming Chiu and Raj Jain, [“Analysis of the Increase and Decrease Algorithms for Congestion Avoidance in Computer Networks”](https://doi.org/10.1016/0169-7552(89)90019-6), *Computer Networks and ISDN Systems* 17(1) (1989): 1–14; [RFC 5681](https://www.rfc-editor.org/rfc/rfc5681.html), §§3.1–3.2. The equation idealizes Reno-style congestion avoidance and fast recovery, with $w$ measured in maximum-sized segments. Timeout behavior and slow start differ. Equal-share convergence assumes comparable feedback/round-trip conditions, not arbitrary competing traffic. Window/round-trip time estimates throughput when other limits do not bind; CUBIC, BBR and ECN-based schemes differ.
+
+[^v1-i5-metcalfe]: For $n$ participants there are $n(n-1)/2$ possible unordered pairs; counting these does not establish economic value. Bob Briscoe, Andrew Odlyzko and Benjamin Tilly, [“Metcalfe's Law Is Wrong”](https://experts.umn.edu/en/publications/metcalfes-law-is-wrong/), *IEEE Spectrum* 43(7) (2006): 34–39, argue for a different value-growth model. Informational gravity is the book's interpretive metaphor.
+
+[^v1-i5-wifi]: IEEE 802.11's contention mechanism uses carrier sensing, random backoff and acknowledgments; see Cisco's [802.11 frame and troubleshooting guide](https://www.cisco.com/c/en/us/support/docs/wireless-mobility/80211/200527-Fundamentals-of-802-11-Wireless-Sniffing.html), especially RTS, CTS and ACK. Missing acknowledgments can reflect interference, fading or receiver problems as well as collisions. RTS/CTS can reduce hidden-terminal collisions; it does not abolish interference.
+
+[^v1-i5-bluetooth]: Bluetooth SIG, [technology overview](https://www.bluetooth.com/learn-about-bluetooth/tech-overview/) and [Core Specification, BR/EDR Baseband §2.1](https://www.bluetooth.com/wp-content/uploads/Files/Specification/HTML/Core-60/out/en/br-edr-controller/baseband-specification.html). Classic Bluetooth uses 79 channels with 1 MHz spacing and a nominal maximum connection-state hop rate of 1,600/s; multi-slot packets and adaptive hopping modify actual use. Bluetooth LE uses 40 channels with 2 MHz spacing and different timing. Battery life depends on traffic and duty cycle.
+
+[^v1-i5-lora]: Thread Group, [*Thread Usage of 6LoWPAN*](https://www.threadgroup.org/Portals/0/documents/support/6LoWPANUsage_632_2.pdf), and [RFC 6282](https://www.rfc-editor.org/rfc/rfc6282.html) on IPv6 header compression. Semtech, [*LoRa Modulation Basics*, AN1200.22](https://www.mouser.com/pdfdocs/an120022.pdf), explains chirp spread spectrum, processing gain and the rate/sensitivity tradeoff. LoRa can operate below 0 dB SNR; actual range and rates depend on bandwidth, spreading factor, interference, terrain and regulatory limits. “Pick two” is a design mnemonic, not a theorem.
+
+[^v1-i5-zero]: Samyam Rajbhandari et al., [“ZeRO: Memory Optimizations Toward Training Trillion Parameter Models”](https://arxiv.org/abs/1910.02054) (SC20, 2020), especially the staged partitioning of optimizer states, gradients and parameters. The 16-byte estimate is a common mixed-precision Adam accounting, not a universal requirement. Full sharding still needs temporary buffers for gathered parameters and computation; optimizer states themselves remain with their owning ranks.
+
+[^v1-i5-allreduce]: Pitch Patarasuk and Xin Yuan, [“Bandwidth Optimal All-reduce Algorithms for Clusters of Workstations”](https://doi.org/10.1016/j.jpdc.2008.09.002), *Journal of Parallel and Distributed Computing* 69(2) (2009): 117–124. Each rank sends and separately receives $2(N-1)S/N$ bytes in the simple ring; total bytes sent are $2(N-1)S$, and there are $2(N-1)$ rounds. The formula assumes equal chunks and ignores protocol overhead. The NVLink example uses the full aggregate outgoing bandwidth as an optimistic bound, not bandwidth guaranteed to one neighbor. Decimal units give $280/900\approx0.31$ s and $280/50=5.6$ s before additional costs. Floating-point reduction order can also change rounding.
+
+[^v1-i5-amdahl]: Gene M. Amdahl, [“Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities”](https://doi.org/10.1145/1465482.1465560), *AFIPS Spring Joint Computer Conference* 30 (1967): 483–485. The equation is the standard fixed-workload rendering. With $p=0.99$ and $N=10{,}000$, $S\approx99.02$, below the limiting 100. Real communication and synchronization costs need not remain fixed as $N$ grows.
+
+[^v1-i5-gustafson]: John L. Gustafson, [“Reevaluating Amdahl's Law”](https://users.cs.utah.edu/~hari/teaching/paralg/Gustafson88.pdf), *Communications of the ACM* 31(5) (1988): 532–533. Scaled speedup grows the parallel work with the machine; it answers a different question from fixed-workload speedup. A larger model or batch helps only when its useful parallel work grows faster than its serial and communication burden.
+
+[^v1-i5-tail]: Jeffrey Dean and Luiz André Barroso, [“The Tail at Scale”](https://research.google/pubs/the-tail-at-scale/), *Communications of the ACM* 56(2) (2013): 74–80. With independent 1% slow-response probabilities, at least one of 100 servers is slow with probability $1-0.99^{100}\approx0.634$. Shared faults and correlated delays change that calculation.
+
+[^v1-i5-fabric]: NVIDIA, [GB200 NVL72 specifications](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) and [DGX GB200 datasheet](https://resources.nvidia.com/en-us-dgx-platform/dgx-superpod-gb200-datasheet): 72 Blackwell GPUs and 1.8 TB/s aggregate bidirectional NVLink bandwidth per GPU, about 900 GB/s each way. For a non-oversubscribed commodity-switch fat tree, see Mohammad Al-Fares, Alexander Loukissas and Amin Vahdat, [“A Scalable, Commodity Data Center Network Architecture”](https://doi.org/10.1145/1402958.1402967) (SIGCOMM 2008). Switch capacity, routing, port allocation and oversubscription determine achieved bandwidth. The figure is an illustrative architecture, not the universal layout of an AI cluster.
+
+[^v1-i5-rdma]: NVIDIA, [*GPUDirect RDMA* documentation](https://docs.nvidia.com/cuda/gpudirect-rdma/index.html), especially design considerations, registration and synchronization. RDMA provides access to registered, authorized memory without the normal CPU-copy/kernel data path for each transfer. Software still establishes connections, permissions, buffers and ordering. It does not grant arbitrary access to a remote GPU.
+
+[^v1-i5-roce]: InfiniBand Trade Association, [RoCEv2 specification announcement](https://infinibandta.org/infiniband-trade-association-releases-updated-specification-for-remote-direct-memory-access-over-converged-ethernet-roce/) (16 September 2014), on UDP/IP encapsulation; Yibo Zhu et al., [“Congestion Control for Large-Scale RDMA Deployments”](https://www.microsoft.com/en-us/research/?p=281945) (SIGCOMM 2015), on DCQCN and the limitations of Priority Flow Control. Credits/PFC prevent buffer-overflow drops under their operating assumptions, not every possible loss. PFC can cause head-of-line blocking and other pathologies; ECN-based rate control complements it. TCP can use ECN too.
+
+[^v1-i5-meta]: Meta, [“Training Large Language Models at Scale”](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/) (12 June 2024), documents separate roughly 24,000-GPU RoCE and InfiniBand clusters; the [*Llama 3 Herd of Models*](https://arxiv.org/abs/2407.21783) (2024), §3.3.1, describes the training infrastructure. These are dated examples, not a claim about the largest cluster available now.
+
+[^v1-i5-streaming]: [RFC 9000](https://www.rfc-editor.org/rfc/rfc9000.html) (QUIC, 2021), [RFC 9114](https://www.rfc-editor.org/rfc/rfc9114.html) (HTTP/3, 2022), and the WHATWG [server-sent-events specification](https://html.spec.whatwg.org/multipage/server-sent-events.html). QUIC adds reliable, congestion-controlled streams over UDP; a fresh connection is not automatically zero-round-trip. Streaming APIs can use SSE, WebSockets or other transports. Tensor-parallel serving needs layer-level collectives; other model partitions have different communication schedules.
+
+[^v1-i5-disagg]: Yinmin Zhong et al., [“DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving”](https://arxiv.org/abs/2401.09670) (OSDI 2024); Pratyush Patel et al., [“Splitwise: Efficient Generative LLM Inference Using Phase Splitting”](https://www.microsoft.com/en-us/research/publication/splitwise-efficient-generative-llm-inference-using-phase-splitting/) (ISCA 2024). NVIDIA Dynamo's [KV-aware routing documentation](https://docs.dynamo.nvidia.com/dynamo/dev/knowledge-base/concepts/system-architecture/kv-aware-routing) describes cache reuse balanced against load. Disaggregation moves request state across the fabric; cache affinity does not eliminate queueing or guarantee reuse.
+<!-- End AI draft footnotes 2026-11-15. -->
+
+[^v1-i5-f16]: The [NASA flight-control survey](https://ntrs.nasa.gov/api/citations/19840014515/downloads/19840014515.pdf) (1984), section “F-15 and F-16,” p. 4, describes four-channel analog fly-by-wire and flight-tested four-channel digital control. Its AFTI/F-16 research variant instead used a triplex digital system. “Four” here means redundant control channels, not four independent general-purpose computers in every F-16.
+
+[^v1-i5-web]: CERN's [short history of the Web](https://home.cern/science/computing/the-birth-of-the-web/short-history-web/) dates the first working browser/editor and server to the end of 1990. The proposal was written in 1989 and the public internet announcement followed in August 1991. The 1990 coincidence is with my arrival at USC, not the 1992 riots.

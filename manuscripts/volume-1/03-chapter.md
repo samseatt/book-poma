@@ -13,9 +13,9 @@ CHAPTER 3
 
 > "Every act of perception is to some degree an act of creation, and every act of memory is to some degree an act of imagination." --- **Gerald M. Edelman**, quoted by Oliver Sacks[^v1-c3-sacks]
 
-That first breath wasn't just air; it was information. Warm, cold, bright, dim: every molecule a messenger rushing to report that the universe existed. Before language, before memory, before "me," the brain began its apprenticeship in sensation.
+That first breath wasn't just air; it was information. Warm, cold, bright, dim. Every molecule was a messenger rushing in to report that the universe existed. Long before language or memory (and even before a "me" could emerge), the brain began its apprenticeship in sensation.
 
-I didn't yet *think*, in any sense I could now put into words; I registered. Light met retina, retina pinged cortex, and a pattern began to form: a ghost of an image, a rehearsal for seeing. My brain had already been wiring and responding before birth; this is where I enter its domain in the story, not where it first switches on.
+I didn't yet *think*, in any sense I could now put into words; I registered. From light to retina to cortex, and a pattern began to form. Initially it's always a ghost of an image, a rehearsal for seeing. My brain had already been wiring and responding before birth; this is where the world at large, and thus I, enter its domain in the story, not where it first switches on.
 
 In the year I was born, David Hubel and Torsten Wiesel published another piece of the miracle they were watching unfold in kittens. They had already found visual-cortex neurons that prefer lines at particular angles, and shown how depriving one eye early in life could leave its cortical representation profoundly impaired. Now they showed that making the two eyes look in different directions disrupted the development of cells that normally respond to both.[^v1-c3-hubel] Their lab and my crib were exploring the same predicament: perception needs a world to practice on, and some of its lessons have deadlines.
 

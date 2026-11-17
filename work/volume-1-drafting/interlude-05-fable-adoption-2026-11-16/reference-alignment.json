@@ -1,0 +1,222 @@
+[
+  {
+    "id": "v1-i5-tanenbaum",
+    "before": "Andrew S. Tanenbaum, *Computer Networks* (1st ed. 1981; 2nd ed. 1988).",
+    "after": "Andrew S. Tanenbaum, *Computer Networks* (Prentice Hall, 1st ed. 1981; 2nd ed. 1988), editions confirmed in the [author's publication list](https://www.cs.vu.nl/~ast/Publications/index.html). The course and examination account is my recollection."
+  },
+  {
+    "id": "v1-i5-osi",
+    "before": "The OSI reference model was published as ISO 7498 in 1984; the contest with TCP/IP is often called the \"protocol wars.\" See Andrew L. Russell, *Open Standards and the Digital Age* (2014).",
+    "after": "[ISO 7498:1984, *Open Systems Interconnection—Basic Reference Model*](https://www.iso.org/standard/14252.html). The reference model and the OSI protocol suite are different things: OSI protocols did have working deployments, while TCP/IP became the internet's dominant suite. The “cathedral” is a comparison of their design cultures, not a claim that OSI remained unimplemented."
+  },
+  {
+    "id": "v1-i5-clark",
+    "before": "David D. Clark, plenary talk \"A Cloudy Crystal Ball: Visions of the Future,\" IETF 24, July 1992.",
+    "after": "David D. Clark, “A Cloudy Crystal Ball: Visions of the Future,” IETF 24, July 1992. The quotation and its provenance are reproduced in [RFC 7282, introduction and reference Clark](https://www.rfc-editor.org/rfc/rfc7282.html). Rough consensus means addressing substantive objections, not merely taking a majority vote."
+  },
+  {
+    "id": "v1-i5-packets",
+    "before": "Paul Baran, *On Distributed Communications* (RAND, 1964); Donald Davies coined \"packet\" at the UK's National Physical Laboratory in the mid-1960s. The ARPANET carried its first message in 1969.",
+    "after": "Paul Baran, [*On Distributed Communications*, vol. I](https://cseweb.ucsd.edu/~schulman/class/cse291_f21/docs/distcomm.pdf) (RAND, August 1964); NPL's [account of Donald Davies's work](https://www.npl.co.uk/about-us/history/famous/donald-davies). For TCP's byte sequence numbers, acknowledgments and retransmission, see [RFC 9293, §§2.2 and 3.4](https://www.rfc-editor.org/rfc/rfc9293.html). UDP supplies no delivery guarantee itself; an application may add one, as QUIC does."
+  },
+  {
+    "id": "v1-i5-dijkstra",
+    "before": "E. W. Dijkstra, \"A note on two problems in connexion with graphs\" (1959), *Numerische Mathematik* 1: 269–271. Dijkstra described the café origin in a 2001 interview (*Communications of the ACM* 53(8), 2010).",
+    "after": "E. W. Dijkstra, “A Note on Two Problems in Connexion with Graphs,” *Numerische Mathematik* 1 (1959): 269–271; his [retrospective account](https://www.cs.utexas.edu/~EWD/ewd08xx/EWD841a.PDF) dates the shortest-path solution to 1956. The café story follows his own account in Phil Frana's [“An Interview with Edsger W. Dijkstra”](https://doi.org/10.1145/1787234.1787249), *Communications of the ACM* 53(8) (2010): 41–47, pp. 42–43, recorded in August 2001. An earlier recollection associates a café with his other graph problem, the minimum spanning tree; “reportedly” preserves that small uncertainty."
+  },
+  {
+    "id": "v1-i5-polya",
+    "before": "George Pólya, \"Über eine Aufgabe der Wahrscheinlichkeitsrechnung betreffend die Irrfahrt im Straßennetz\" (1921), *Mathematische Annalen* 84: 149–160. Kakutani's quip is reported in many sources, e.g., Rick Durrett, *Probability: Theory and Examples*.",
+    "after": "George Pólya, [“Über eine Aufgabe der Wahrscheinlichkeitsrechnung betreffend die Irrfahrt im Straßennetz”](https://doi.org/10.1007/BF01458701), *Mathematische Annalen* 84 (1921): 149–160. The result concerns the simple symmetric walk on an unbounded integer lattice: recurrence in one and two dimensions, transience in three and above. Probability one does not promise a finite expected return time. The quip is attributed to Kakutani in Boris Tsirelson's [*Probability for Mathematicians*, “Stopping,” p. 44](https://www.ma.huji.ac.il/~ohadfeld/Tsirelson/Courses/ProbForMath/B1.pdf); that is a reported attribution, not a located first utterance. Marina del Rey is a joke, not a test of the lattice theorem."
+  },
+  {
+    "id": "v1-i5-jacobson",
+    "before": "Van Jacobson, \"Congestion Avoidance and Control\" (1988), *ACM SIGCOMM Computer Communication Review* 18(4): 314–329, which describes the October 1986 collapse on the LBL–UC Berkeley link.",
+    "after": "Van Jacobson, [“Congestion Avoidance and Control”](https://ee.lbl.gov/papers/congavoid.pdf), *ACM SIGCOMM Computer Communication Review* 18(4) (1988): 314–329, introduction. The October 1986 LBL–Berkeley figures are 32 Kbps and 40 bps: an 800-fold fall, though the paper rounds its description to a thousand. It diagnosed retransmission and transport-implementation behavior, not wrongdoing by machines."
+  },
+  {
+    "id": "v1-i5-ethernet",
+    "before": "Robert M. Metcalfe and David R. Boggs, \"Ethernet: Distributed Packet Switching for Local Computer Networks\" (1976), *Communications of the ACM* 19(7): 395–404.",
+    "after": "Robert M. Metcalfe and David R. Boggs, [“Ethernet: Distributed Packet Switching for Local Computer Networks”](https://www.cs.cornell.edu/courses/cs414/2001FA/papers/ethernet/ethernet.htm), *Communications of the ACM* 19(7) (1976): 395–404. This is shared-medium Ethernet with collision detection and randomized backoff; modern switched full-duplex Ethernet does not operate as one shared collision domain."
+  },
+  {
+    "id": "v1-i5-dns",
+    "before": "P. Mockapetris, RFC 882 and RFC 883 (November 1983), later superseded by RFC 1034 and RFC 1035 (1987). The earlier HOSTS.TXT file was maintained by the Network Information Center at SRI.",
+    "after": "P. Mockapetris, [RFC 882](https://www.rfc-editor.org/rfc/rfc882.html) and [RFC 883](https://www.rfc-editor.org/rfc/rfc883.html) (November 1983); [RFC 1034](https://www.rfc-editor.org/rfc/rfc1034.html) (1987), §2.1 on HOSTS.TXT and §§4–5 on delegation, caching and resolution. Hosts fetched the central file by FTP. ISI's [institutional history](https://50th.isi.edu/history) locates Mockapetris's work there. Names can resolve to more than one address, and DNS carries other records too."
+  },
+  {
+    "id": "v1-i5-postel",
+    "before": "Jon Postel (1943–1998) served as RFC Editor from the early 1970s until his death and administered the assignment of internet numbers and names at ISI, the role formalized as IANA.",
+    "after": "Vinton Cerf, [“I Remember IANA,” RFC 2468](https://www.rfc-editor.org/rfc/rfc2468.html) (October 1998), a contemporary tribute to Jon Postel's stewardship of RFCs and the assigned-number registry. See also [ISI's history](https://www.isi.edu/about/history/the-internet-era/). The comparison with Oppenheimer is mine."
+  },
+  {
+    "id": "v1-i5-robustness",
+    "before": "J. Postel (ed.), \"Transmission Control Protocol,\" RFC 793 (September 1981), section 2.10; an earlier form appears in RFC 760 (1980).",
+    "after": "J. Postel (ed.), [“Transmission Control Protocol,” RFC 793, §2.10](https://www.rfc-editor.org/rfc/rfc793.html#section-2.10) (1981), for the exact quotation. Generous interpretation has limits: [RFC 9413, *Maintaining Robust Protocols*](https://www.rfc-editor.org/rfc/rfc9413.html) (2023), explains how silently accepting deviations can entrench bugs, ambiguity and security failures. My civic reading is not a recommendation to accept unsafe inputs or conceal disagreements."
+  },
+  {
+    "id": "v1-i5-lamport",
+    "before": "Leslie Lamport, \"Time, Clocks, and the Ordering of Events in a Distributed System\" (1978), *Communications of the ACM* 21(7): 558–565. Lamport received the Turing Award in 2013.",
+    "after": "Leslie Lamport, [“Time, Clocks, and the Ordering of Events in a Distributed System”](https://lamport.azurewebsites.net/pubs/time-clocks.pdf), *Communications of the ACM* 21(7) (1978): 558–565, §§“The Partial Ordering” and “Logical Clocks.” Causality implies increasing logical-clock values; the converse does not hold. Tie-breaking can impose a total order consistent with causality without discovering a unique physical order for concurrent events."
+  },
+  {
+    "id": "v1-i5-byzantine",
+    "before": "Leslie Lamport, Robert Shostak and Marshall Pease, \"The Byzantine Generals Problem\" (1982), *ACM Transactions on Programming Languages and Systems* 4(3): 382–401.",
+    "after": "Leslie Lamport, Robert Shostak and Marshall Pease, [“The Byzantine Generals Problem”](https://lamport.azurewebsites.net/pubs/byz.pdf), *ACM Transactions on Programming Languages and Systems* 4(3) (1982): 382–401. The more-than-two-thirds bound belongs to their oral-message model with reliable delivery, known senders and detectable missing messages. With unforgeable signatures, their model permits agreement with any number of traitors. Authentication and timing assumptions matter."
+  },
+  {
+    "id": "v1-i5-flp",
+    "before": "Michael J. Fischer, Nancy A. Lynch and Michael S. Paterson, \"Impossibility of Distributed Consensus with One Faulty Process\" (1985), *Journal of the ACM* 32(2): 374–382. Lamport's Paxos was described in a 1989 technical report and published as \"The Part-Time Parliament\" (1998), *ACM Transactions on Computer Systems* 16(2): 133–169.",
+    "after": "Michael J. Fischer, Nancy A. Lynch and Michael S. Paterson, [“Impossibility of Distributed Consensus with One Faulty Process”](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), *Journal of the ACM* 32(2) (1985): 374–382, §2 and theorem 1. Even when messages to nonfaulty processes eventually arrive, an admissible execution can fail to terminate. This does not require accepting inconsistent decisions. Lamport's [“Paxos Made Simple”](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) (2001), §§2.2–2.4, separates safety from progress; the earlier *Part-Time Parliament* circulated in 1989 and appeared in *ACM TOCS* 16(2) (1998): 133–169. The Gödel resemblance is an analogy between limits under stated assumptions."
+  },
+  {
+    "id": "v1-i5-bgp",
+    "before": "BGP-4 is specified in RFC 4271 (2006); notable incidents include the 2008 Pakistan Telecom YouTube hijack and the October 2021 Facebook outage.",
+    "after": "[RFC 4271, *A Border Gateway Protocol 4*](https://www.rfc-editor.org/rfc/rfc4271.html) (2006). Meta's [account of the 4 October 2021 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) describes backbone disconnection followed by DNS-server route withdrawals. This was a cascade, not a malicious announcement. Route leaks and hijacks are different failure modes; the general design point is dependence on other networks' announcements and policy decisions."
+  },
+  {
+    "id": "v1-i5-parallel",
+    "before": "See, e.g., Mohammad Shoeybi et al., \"Megatron-LM\" (2019), arXiv:1909.08053, and Deepak Narayanan et al., \"Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM\" (2021), SC21.",
+    "after": "Mohammad Shoeybi et al., [“Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism”](https://arxiv.org/abs/1909.08053) (2019); Deepak Narayanan et al., [“Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM”](https://arxiv.org/abs/2104.04473) (SC21, 2021), sections on tensor, pipeline and data parallelism. Tensor and pipeline parallelism are both forms of model parallelism; real runs also use other partitions, including expert and sequence/context parallelism."
+  },
+  {
+    "id": "v1-i5-kosko",
+    "before": "Bart Kosko, *Neural Networks and Fuzzy Systems: A Dynamical Systems Approach to Machine Intelligence* (1992). Kosko taught at USC.",
+    "after": "Bart Kosko, *Neural Networks and Fuzzy Systems: A Dynamical Systems Approach to Machine Intelligence* (Prentice Hall, 1992). Bibliographic details and his USC teaching are confirmed in [his EE 500 syllabus](https://web-app.usc.edu/ws/soc_archive/soc/syllabus/20141/30992.pdf); my attendance and reading are personal recollections, not claims established by that later syllabus."
+  },
+  {
+    "id": "v1-i5-arbib",
+    "before": "Michael A. Arbib, *The Metaphorical Brain 2: Neural Networks and Beyond* (1989); see also Arbib (ed.), *The Handbook of Brain Theory and Neural Networks* (1995). Arbib taught at USC from 1986.",
+    "after": "Michael A. Arbib, *The Metaphorical Brain 2: Neural Networks and Beyond* (Wiley-Interscience, 1989), ISBN 0-471-09853-1. Arbib confirms the book's title and date in his own [later bibliography](https://doi.org/10.1111/lnc3.12104). The course's influence on me is autobiographical."
+  },
+  {
+    "id": "v1-i5-lee",
+    "before": "C. Y. Lee, \"An Algorithm for Path Connections and Its Applications\" (1961), *IRE Transactions on Electronic Computers* EC-10(3): 346–365; S. Kirkpatrick, C. D. Gelatt and M. P. Vecchi, \"Optimization by Simulated Annealing\" (1983), *Science* 220: 671–680, widely applied to chip placement.",
+    "after": "C. Y. Lee, [“An Algorithm for Path Connections and Its Applications”](https://janders.eecg.utoronto.ca/1387/readings/lee.pdf), *IRE Transactions on Electronic Computers* EC-10(3) (1961): 346–365; S. Kirkpatrick, C. D. Gelatt Jr. and M. P. Vecchi, [“Optimization by Simulated Annealing”](https://doi.org/10.1126/science.220.4598.671), *Science* 220(4598) (1983): 671–680. Lee's method can find an exact shortest route on its specified grid; choosing and ordering many mutually obstructing routes is the harder placement/routing problem."
+  },
+  {
+    "id": "v1-i5-weaver",
+    "before": "Claude E. Shannon and Warren Weaver, *The Mathematical Theory of Communication* (1949), Weaver's introductory essay.",
+    "after": "Claude E. Shannon and Warren Weaver, *The Mathematical Theory of Communication* (University of Illinois Press, 1949), Weaver's introductory essay. His three levels also appear in his contemporary [“The Mathematics of Communication”](https://aclanthology.org/www.mt-archive.info/50/SciAm-1949-Weaver.pdf), *Scientific American* 181(1) (July 1949): 11–15. The bridge from those levels to my sprites is retrospective."
+  },
+  {
+    "id": "v1-i5-maxine",
+    "before": "NVIDIA announced the Maxine platform, including AI-based video compression from facial key points, in October 2020. On semantic communication, see, e.g., reviews in *IEEE Journal on Selected Areas in Communications* (2021–).",
+    "after": "NVIDIA's [Maxine announcement, 5 October 2020](https://nvidianews.nvidia.com/news/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and-studying-remotely), describes facial-keypoint transmission and reconstruction; reference appearance information is also needed. This was a demonstrated/proposed capability, not a claim that every video call now uses it. For a concrete semantic-communication system, see Huiqiang Xie et al., [“Deep Learning Enabled Semantic Communication Systems”](https://arxiv.org/abs/2006.10685), *IEEE Transactions on Signal Processing* 69 (2021): 2663–2675, on learned text transmission."
+  },
+  {
+    "id": "v1-i5-imsc",
+    "before": "The Integrated Media Systems Center at USC was established in 1996 as a National Science Foundation Engineering Research Center.",
+    "after": "USC's [IMSC institutional history](https://infolab.usc.edu/imsc/about.php) records its founding in 1996 through an NSF Engineering Research Center grant and its multimedia/internet remit. The resemblance to my earlier proposal is a connection of subject matter, not a claim that my proposal caused or influenced the center."
+  },
+  {
+    "id": "v1-i5-e2e",
+    "before": "J. H. Saltzer, D. P. Reed and D. D. Clark, \"End-to-End Arguments in System Design\" (1984), *ACM Transactions on Computer Systems* 2(4): 277–288. On generative video with synchronized audio, cite a current model release (e.g., Google's Veo 3, 2025) before print. IP multicast, which lets one stream share routes among many receivers, was proposed by Steve Deering in 1988 and tested on the Multicast Backbone (MBone) from 1992.",
+    "after": "J. H. Saltzer, D. P. Reed and D. D. Clark, [“End-to-End Arguments in System Design”](https://web.mit.edu/saltzer/www/publications/endtoend/endtoend.pdf), *ACM Transactions on Computer Systems* 2(4) (1984): 277–288, especially the file-transfer example. Some application guarantees require endpoint knowledge; lower layers may still assist performance. This does not posit unlimited endpoint computation or forbid intelligence in the network. As one example of joint generated picture and sound, Google's [Veo model documentation](https://deepmind.google/models/veo/) describes native synchronized audio."
+  },
+  {
+    "id": "v1-i5-agents",
+    "before": "For example, Anthropic's Model Context Protocol (2024) for connecting AI models to tools and data, and Google's Agent2Agent protocol (2025) for communication between agents. Check current standards before print.",
+    "after": "Anthropic's [Model Context Protocol announcement](https://www.anthropic.com/news/model-context-protocol?afsrc=1) (25 November 2024) addresses tool/data connections; Google's [Agent2Agent announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) (9 April 2025) addresses communication, task coordination and delegation between agents. These are interoperability mechanisms, not proof that agents have trustworthy judgment or a viable civic order."
+  },
+  {
+    "id": "v1-i5-ostrom",
+    "before": "Elinor Ostrom, *Governing the Commons: The Evolution of Institutions for Collective Action* (1990). Nobel Memorial Prize in Economic Sciences 2009.",
+    "after": "Elinor Ostrom, *Governing the Commons* (1990), and her [Nobel lecture, “Beyond Markets and States: Polycentric Governance of Complex Economic Systems”](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) (8 December 2009), especially the design-principles table. Polycentric governance can combine community, public and private institutions; it is not the absence of rules, authority or property. Extending these findings to agent societies is my proposal."
+  },
+  {
+    "id": "v1-i5-axelrod",
+    "before": "Robert Axelrod, *The Evolution of Cooperation* (1984); Flack et al. (2006), as cited in Chapter 5. The framing of \"civics alongside control\" for societies of agents is the author's.",
+    "after": "Robert Axelrod, *The Evolution of Cooperation* (1984); Axelrod and W. D. Hamilton, [“The Evolution of Cooperation”](https://doi.org/10.1126/science.7466396), *Science* 211 (1981): 1390–1396, on repeated interaction and reciprocal strategies. Jessica C. Flack et al., [“Policing Stabilizes Construction of Social Niches in Primates”](https://doi.org/10.1038/nature04326), *Nature* 439 (2006): 426–429, examines conflict intervention in one captive macaque group. Neither establishes the proposed civics of artificial agents."
+  },
+  {
+    "id": "v1-i5-aimd",
+    "before": "Dah-Ming Chiu and Raj Jain, \"Analysis of the Increase and Decrease Algorithms for Congestion Avoidance in Computer Networks\" (1989), *Computer Networks and ISDN Systems* 17(1): 1–14. The one-line rule is the idealized congestion-avoidance phase of TCP Reno; slow start, timeouts and newer algorithms such as CUBIC and BBR differ in detail. Throughput ≈ window/round-trip time is an approximation.",
+    "after": "Dah-Ming Chiu and Raj Jain, [“Analysis of the Increase and Decrease Algorithms for Congestion Avoidance in Computer Networks”](https://doi.org/10.1016/0169-7552(89)90019-6), *Computer Networks and ISDN Systems* 17(1) (1989): 1–14; [RFC 5681](https://www.rfc-editor.org/rfc/rfc5681.html), §§3.1–3.2. The equation idealizes Reno-style congestion avoidance and fast recovery, with $w$ measured in maximum-sized segments. Timeout behavior and slow start differ. Equal-share convergence assumes comparable feedback/round-trip conditions, not arbitrary competing traffic. Window/round-trip time estimates throughput when other limits do not bind; CUBIC, BBR and ECN-based schemes differ."
+  },
+  {
+    "id": "v1-i5-metcalfe",
+    "before": "Metcalfe's law was popularized in the 1980s and 1990s (e.g., George Gilder, \"Metcalfe's Law and Legacy,\" *Forbes ASAP*, 1993). For the dispute over its exponent, see Bob Briscoe, Andrew Odlyzko and Benjamin Tilly, \"Metcalfe's Law Is Wrong,\" *IEEE Spectrum* 43(7) (2006), who argue for growth closer to $n\\log n$. The link to informational gravity is the author's reading.",
+    "after": "For $n$ participants there are $n(n-1)/2$ possible unordered pairs; counting these does not establish economic value. Bob Briscoe, Andrew Odlyzko and Benjamin Tilly, [“Metcalfe's Law Is Wrong”](https://experts.umn.edu/en/publications/metcalfes-law-is-wrong/), *IEEE Spectrum* 43(7) (2006): 34–39, argue for a different value-growth model. Informational gravity is the book's interpretive metaphor."
+  },
+  {
+    "id": "v1-i5-wifi",
+    "before": "IEEE 802.11 (first standard 1997) uses carrier-sense multiple access with collision avoidance (CSMA/CA) and random backoff; optional RTS/CTS exchanges address hidden terminals. See Matthew S. Gast, *802.11 Wireless Networks: The Definitive Guide*, 2nd ed. (O'Reilly, 2005), ch. 3.",
+    "after": "IEEE 802.11's contention mechanism uses carrier sensing, random backoff and acknowledgments; see Cisco's [802.11 frame and troubleshooting guide](https://www.cisco.com/c/en/us/support/docs/wireless-mobility/80211/200527-Fundamentals-of-802-11-Wireless-Sniffing.html), especially RTS, CTS and ACK. Missing acknowledgments can reflect interference, fading or receiver problems as well as collisions. RTS/CTS can reduce hidden-terminal collisions; it does not abolish interference."
+  },
+  {
+    "id": "v1-i5-bluetooth",
+    "before": "Classic Bluetooth hops among 79 one-megahertz channels at 1,600 hops per second; Bluetooth Low Energy, introduced in Core Specification 4.0 (2010), uses 40 channels and short connection events. Bluetooth SIG, *Bluetooth Core Specification*, vol. 2 and vol. 6.",
+    "after": "Bluetooth SIG, [technology overview](https://www.bluetooth.com/learn-about-bluetooth/tech-overview/) and [Core Specification, BR/EDR Baseband §2.1](https://www.bluetooth.com/wp-content/uploads/Files/Specification/HTML/Core-60/out/en/br-edr-controller/baseband-specification.html). Classic Bluetooth uses 79 channels with 1 MHz spacing and a nominal maximum connection-state hop rate of 1,600/s; multi-slot packets and adaptive hopping modify actual use. Bluetooth LE uses 40 channels with 2 MHz spacing and different timing. Battery life depends on traffic and duty cycle."
+  },
+  {
+    "id": "v1-i5-lora",
+    "before": "Thread runs IPv6 over IEEE 802.15.4 using 6LoWPAN header compression (RFC 4944, RFC 6282); Zigbee uses the same radio standard with its own network layer. LoRa's chirp spread spectrum allows demodulation at signal-to-noise ratios well below zero decibels, with data rates from roughly 0.3 to tens of kilobits per second depending on spreading factor; see Semtech, *LoRa Modulation Basics* (AN1200.22), and the LoRa Alliance's LoRaWAN specification. \"Pick two\" is a rule of thumb, not a theorem.",
+    "after": "Thread Group, [*Thread Usage of 6LoWPAN*](https://www.threadgroup.org/Portals/0/documents/support/6LoWPANUsage_632_2.pdf), and [RFC 6282](https://www.rfc-editor.org/rfc/rfc6282.html) on IPv6 header compression. Semtech, [*LoRa Modulation Basics*, AN1200.22](https://www.mouser.com/pdfdocs/an120022.pdf), explains chirp spread spectrum, processing gain and the rate/sensitivity tradeoff. LoRa can operate below 0 dB SNR; actual range and rates depend on bandwidth, spreading factor, interference, terrain and regulatory limits. “Pick two” is a design mnemonic, not a theorem."
+  },
+  {
+    "id": "v1-i5-zero",
+    "before": "Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase and Yuxiong He, \"ZeRO: Memory Optimizations Toward Training Trillion Parameter Models\" (2020), *SC20*, arXiv:1910.02054, which partitions optimizer states, gradients and parameters across data-parallel ranks; PyTorch's Fully Sharded Data Parallel follows the same idea.",
+    "after": "Samyam Rajbhandari et al., [“ZeRO: Memory Optimizations Toward Training Trillion Parameter Models”](https://arxiv.org/abs/1910.02054) (SC20, 2020), especially the staged partitioning of optimizer states, gradients and parameters. The 16-byte estimate is a common mixed-precision Adam accounting, not a universal requirement. Full sharding still needs temporary buffers for gathered parameters and computation; optimizer states themselves remain with their owning ranks."
+  },
+  {
+    "id": "v1-i5-allreduce",
+    "before": "Pitch Patarasuk and Xin Yuan, \"Bandwidth Optimal All-reduce Algorithms for Clusters of Workstations\" (2009), *Journal of Parallel and Distributed Computing* 69(2): 117–124, on the bandwidth optimality of the ring; Andrew Gibiansky, \"Bringing HPC Techniques to Deep Learning\" (Baidu Research, 2017), popularized ring all-reduce for neural-network training. Libraries such as NVIDIA's NCCL also use tree and hierarchical algorithms. The NVLink and 400-gigabit transfer times are illustrative arithmetic (280 GB ÷ 900 GB/s ≈ 0.31 s; 280 GB ÷ 50 GB/s ≈ 5.6 s), ignoring latency, overlap and protocol overhead.",
+    "after": "Pitch Patarasuk and Xin Yuan, [“Bandwidth Optimal All-reduce Algorithms for Clusters of Workstations”](https://doi.org/10.1016/j.jpdc.2008.09.002), *Journal of Parallel and Distributed Computing* 69(2) (2009): 117–124. Each rank sends and separately receives $2(N-1)S/N$ bytes in the simple ring; total bytes sent are $2(N-1)S$, and there are $2(N-1)$ rounds. The formula assumes equal chunks and ignores protocol overhead. The NVLink example uses the full aggregate outgoing bandwidth as an optimistic bound, not bandwidth guaranteed to one neighbor. Decimal units give $280/900\\approx0.31$ s and $280/50=5.6$ s before additional costs. Floating-point reduction order can also change rounding."
+  },
+  {
+    "id": "v1-i5-amdahl",
+    "before": "Gene M. Amdahl, \"Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities\" (1967), *AFIPS Spring Joint Computer Conference* 30: 483–485. Amdahl argued in prose; the formula is the standard later rendering. With $p=0.99$ and $N=10{,}000$, $S\\approx 99$.",
+    "after": "Gene M. Amdahl, [“Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities”](https://doi.org/10.1145/1465482.1465560), *AFIPS Spring Joint Computer Conference* 30 (1967): 483–485. The equation is the standard fixed-workload rendering. With $p=0.99$ and $N=10{,}000$, $S\\approx99.02$, below the limiting 100. Real communication and synchronization costs need not remain fixed as $N$ grows."
+  },
+  {
+    "id": "v1-i5-gustafson",
+    "before": "John L. Gustafson, \"Reevaluating Amdahl's Law\" (1988), *Communications of the ACM* 31(5): 532–533. Gustafson's \"scaled speedup\" assumes the parallel portion grows with the machine; the two laws answer different questions.",
+    "after": "John L. Gustafson, [“Reevaluating Amdahl's Law”](https://users.cs.utah.edu/~hari/teaching/paralg/Gustafson88.pdf), *Communications of the ACM* 31(5) (1988): 532–533. Scaled speedup grows the parallel work with the machine; it answers a different question from fixed-workload speedup. A larger model or batch helps only when its useful parallel work grows faster than its serial and communication burden."
+  },
+  {
+    "id": "v1-i5-tail",
+    "before": "Jeffrey Dean and Luiz André Barroso, \"The Tail at Scale\" (2013), *Communications of the ACM* 56(2): 74–80: with a one-in-a-hundred chance of a slow response per server, a request fanning out to a hundred servers is slow about 63 percent of the time ($1-0.99^{100}$).",
+    "after": "Jeffrey Dean and Luiz André Barroso, [“The Tail at Scale”](https://research.google/pubs/the-tail-at-scale/), *Communications of the ACM* 56(2) (2013): 74–80. With independent 1% slow-response probabilities, at least one of 100 servers is slow with probability $1-0.99^{100}\\approx0.634$. Shared faults and correlated delays change that calculation."
+  },
+  {
+    "id": "v1-i5-fabric",
+    "before": "NVIDIA, GB200 NVL72 product documentation (2024): 72 Blackwell GPUs in one NVLink domain at 1.8 TB/s bidirectional per GPU. Fat trees: Charles E. Leiserson, \"Fat-Trees: Universal Networks for Hardware-Efficient Supercomputing\" (1985), *IEEE Transactions on Computers* C-34(10): 892–901; Mohammad Al-Fares, Alexander Loukissas and Amin Vahdat, \"A Scalable, Commodity Data Center Network Architecture\" (2008), *SIGCOMM*. Port speeds and topologies vary by cluster; \"rail-optimized\" variants connect same-numbered GPUs across servers to the same switches.",
+    "after": "NVIDIA, [GB200 NVL72 specifications](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) and [DGX GB200 datasheet](https://resources.nvidia.com/en-us-dgx-platform/dgx-superpod-gb200-datasheet): 72 Blackwell GPUs and 1.8 TB/s aggregate bidirectional NVLink bandwidth per GPU, about 900 GB/s each way. For a non-oversubscribed commodity-switch fat tree, see Mohammad Al-Fares, Alexander Loukissas and Amin Vahdat, [“A Scalable, Commodity Data Center Network Architecture”](https://doi.org/10.1145/1402958.1402967) (SIGCOMM 2008). Switch capacity, routing, port allocation and oversubscription determine achieved bandwidth. The figure is an illustrative architecture, not the universal layout of an AI cluster."
+  },
+  {
+    "id": "v1-i5-rdma",
+    "before": "InfiniBand Trade Association, *InfiniBand Architecture Specification*, release 1.0 (2000); NVIDIA, \"GPUDirect RDMA\" documentation. RDMA reduces CPU and kernel involvement on the data path; connection setup and memory registration still involve software.",
+    "after": "NVIDIA, [*GPUDirect RDMA* documentation](https://docs.nvidia.com/cuda/gpudirect-rdma/index.html), especially design considerations, registration and synchronization. RDMA provides access to registered, authorized memory without the normal CPU-copy/kernel data path for each transfer. Software still establishes connections, permissions, buffers and ordering. It does not grant arbitrary access to a remote GPU."
+  },
+  {
+    "id": "v1-i5-roce",
+    "before": "InfiniBand Trade Association, *Supplement to InfiniBand Architecture Specification: RoCEv2* (2014), encapsulating InfiniBand transport in UDP/IP. Priority Flow Control is IEEE 802.1Qbb; for ECN-based control, see Yibo Zhu et al., \"Congestion Control for Large-Scale RDMA Deployments\" (DCQCN, 2015), *SIGCOMM*. InfiniBand's link-level flow control is credit-based. Newer designs, including the Ultra Ethernet Consortium's specifications, relax the lossless requirement.",
+    "after": "InfiniBand Trade Association, [RoCEv2 specification announcement](https://infinibandta.org/infiniband-trade-association-releases-updated-specification-for-remote-direct-memory-access-over-converged-ethernet-roce/) (16 September 2014), on UDP/IP encapsulation; Yibo Zhu et al., [“Congestion Control for Large-Scale RDMA Deployments”](https://www.microsoft.com/en-us/research/?p=281945) (SIGCOMM 2015), on DCQCN and the limitations of Priority Flow Control. Credits/PFC prevent buffer-overflow drops under their operating assumptions, not every possible loss. PFC can cause head-of-line blocking and other pathologies; ECN-based rate control complements it. TCP can use ECN too."
+  },
+  {
+    "id": "v1-i5-meta",
+    "before": "Llama Team, AI @ Meta, \"The Llama 3 Herd of Models\" (2024), arXiv:2407.21783, §3.3.1, \"Network\": the 405B model used a RoCE fabric; smaller models used NVIDIA Quantum-2 InfiniBand. See also Adithya Gangidi et al., \"RDMA over Ethernet for Distributed Training at Meta Scale\" (2024), *SIGCOMM*.",
+    "after": "Meta, [“Training Large Language Models at Scale”](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/) (12 June 2024), documents separate roughly 24,000-GPU RoCE and InfiniBand clusters; the [*Llama 3 Herd of Models*](https://arxiv.org/abs/2407.21783) (2024), §3.3.1, describes the training infrastructure. These are dated examples, not a claim about the largest cluster available now."
+  },
+  {
+    "id": "v1-i5-streaming",
+    "before": "QUIC is specified in RFC 9000 (2021) and carries HTTP/3 (RFC 9114, 2022). Server-sent events are defined in the WHATWG HTML Living Standard, \"Server-sent events\"; streaming chat APIs commonly use them, though WebSockets and gRPC streams are also used. Tensor-parallel inference typically performs collective communication within each transformer layer; the count depends on how the model is partitioned.",
+    "after": "[RFC 9000](https://www.rfc-editor.org/rfc/rfc9000.html) (QUIC, 2021), [RFC 9114](https://www.rfc-editor.org/rfc/rfc9114.html) (HTTP/3, 2022), and the WHATWG [server-sent-events specification](https://html.spec.whatwg.org/multipage/server-sent-events.html). QUIC adds reliable, congestion-controlled streams over UDP; a fresh connection is not automatically zero-round-trip. Streaming APIs can use SSE, WebSockets or other transports. Tensor-parallel serving needs layer-level collectives; other model partitions have different communication schedules."
+  },
+  {
+    "id": "v1-i5-disagg",
+    "before": "Yinmin Zhong et al., \"DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving\" (2024), *OSDI*; Pratyush Patel et al., \"Splitwise: Efficient Generative LLM Inference Using Phase Splitting\" (2024), *ISCA*. Cache-aware routing appears in open serving systems such as NVIDIA Dynamo (2025) and the SGLang router; deployments vary.",
+    "after": "Yinmin Zhong et al., [“DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving”](https://arxiv.org/abs/2401.09670) (OSDI 2024); Pratyush Patel et al., [“Splitwise: Efficient Generative LLM Inference Using Phase Splitting”](https://www.microsoft.com/en-us/research/publication/splitwise-efficient-generative-llm-inference-using-phase-splitting/) (ISCA 2024). NVIDIA Dynamo's [KV-aware routing documentation](https://docs.dynamo.nvidia.com/dynamo/dev/knowledge-base/concepts/system-architecture/kv-aware-routing) describes cache reuse balanced against load. Disaggregation moves request state across the fabric; cache affinity does not eliminate queueing or guarantee reuse."
+  },
+  {
+    "id": "v1-i5-f16",
+    "before": null,
+    "after": "The [NASA flight-control survey](https://ntrs.nasa.gov/api/citations/19840014515/downloads/19840014515.pdf) (1984), section “F-15 and F-16,” p. 4, describes four-channel analog fly-by-wire and flight-tested four-channel digital control. Its AFTI/F-16 research variant instead used a triplex digital system. “Four” here means redundant control channels, not four independent general-purpose computers in every F-16."
+  },
+  {
+    "id": "v1-i5-web",
+    "before": null,
+    "after": "CERN's [short history of the Web](https://home.cern/science/computing/the-birth-of-the-web/short-history-web/) dates the first working browser/editor and server to the end of 1990. The proposal was written in 1989 and the public internet announcement followed in August 1991. The 1990 coincidence is with my arrival at USC, not the 1992 riots."
+  }
+]

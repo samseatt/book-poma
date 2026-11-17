@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="392" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+<title id="title">Ring all-reduce</title>
+<desc id="desc">Four GPUs in a ring, each sending to the next. Three grids show the state of four chunks of gradients, a to d, on each GPU. At the start each GPU holds only its own gradients. After the reduce-scatter phase, three steps, each GPU holds the complete sum of one chunk: GPU 0 holds the sum of b, GPU 1 of c, GPU 2 of d and GPU 3 of a. After the all-gather phase, three more steps, every GPU holds all four sums. Each GPU sends 2(N minus 1) over N times S bytes, 1.5S for four GPUs and approaching 2S as the ring grows.</desc>
+<rect width="1000" height="560" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#171717;text-anchor:middle}.title{font-size:28px;font-weight:700}.head{font-size:20px;font-weight:700}.label{font-size:18px}.small{font-size:16px;fill:#444}.cell{font-size:15px}.wire{stroke:#222;stroke-width:2.4;fill:none}.thin{stroke:#555;stroke-width:1.5;fill:none}.box{fill:#fff;stroke:#222;stroke-width:2.2}.shade{fill:#e6e6e6;stroke:#555;stroke-width:1.6}.dark{fill:#9b9b9b;stroke:#444;stroke-width:1.4}.pale{fill:#f7f7f7;stroke:#bbb;stroke-width:1.2}</style>
+<defs><marker id="arr" viewBox="0 0 10 10" markerWidth="7" markerHeight="7" refX="8" refY="5" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#222" stroke-width="1.6"/></marker></defs>
+<text x="500" y="40" class="title">Comparing notes around a ring</text>
+<rect class="box" x="133" y="151" width="84" height="48" rx="6"/><text class="label" x="175" y="181">GPU 0</text>
+<rect class="box" x="248" y="266" width="84" height="48" rx="6"/><text class="label" x="290" y="296">GPU 1</text>
+<rect class="box" x="133" y="381" width="84" height="48" rx="6"/><text class="label" x="175" y="411">GPU 2</text>
+<rect class="box" x="18" y="266" width="84" height="48" rx="6"/><text class="label" x="60" y="296">GPU 3</text>
+<path class="wire" d="M216,203 L249,262" marker-end="url(#arr)"/>
+<path class="wire" d="M249,318 L216,377" marker-end="url(#arr)"/>
+<path class="wire" d="M134,377 L101,318" marker-end="url(#arr)"/>
+<path class="wire" d="M101,262 L134,203" marker-end="url(#arr)"/>
+<text class="small" x="175" y="295">each passes</text><text class="small" x="175" y="315">to the next</text>
+<text class="head" x="475" y="112">start</text><text class="small" x="475" y="134">own gradients only</text>
+<text class="small" x="415.0" y="160">a</text>
+<text class="small" x="455.0" y="160">b</text>
+<text class="small" x="495.0" y="160">c</text>
+<text class="small" x="535.0" y="160">d</text>
+<text class="small" x="383" y="196" style="text-anchor:end">GPU 0</text>
+<rect class="shade" x="395" y="170" width="40" height="40"/>
+<text class="cell" x="415.0" y="196">a0</text>
+<rect class="shade" x="435" y="170" width="40" height="40"/>
+<text class="cell" x="455.0" y="196">b0</text>
+<rect class="shade" x="475" y="170" width="40" height="40"/>
+<text class="cell" x="495.0" y="196">c0</text>
+<rect class="shade" x="515" y="170" width="40" height="40"/>
+<text class="cell" x="535.0" y="196">d0</text>
+<text class="small" x="383" y="236" style="text-anchor:end">GPU 1</text>
+<rect class="shade" x="395" y="210" width="40" height="40"/>
+<text class="cell" x="415.0" y="236">a1</text>
+<rect class="shade" x="435" y="210" width="40" height="40"/>
+<text class="cell" x="455.0" y="236">b1</text>
+<rect class="shade" x="475" y="210" width="40" height="40"/>
+<text class="cell" x="495.0" y="236">c1</text>
+<rect class="shade" x="515" y="210" width="40" height="40"/>
+<text class="cell" x="535.0" y="236">d1</text>
+<text class="small" x="383" y="276" style="text-anchor:end">GPU 2</text>
+<rect class="shade" x="395" y="250" width="40" height="40"/>
+<text class="cell" x="415.0" y="276">a2</text>
+<rect class="shade" x="435" y="250" width="40" height="40"/>
+<text class="cell" x="455.0" y="276">b2</text>
+<rect class="shade" x="475" y="250" width="40" height="40"/>
+<text class="cell" x="495.0" y="276">c2</text>
+<rect class="shade" x="515" y="250" width="40" height="40"/>
+<text class="cell" x="535.0" y="276">d2</text>
+<text class="small" x="383" y="316" style="text-anchor:end">GPU 3</text>
+<rect class="shade" x="395" y="290" width="40" height="40"/>
+<text class="cell" x="415.0" y="316">a3</text>
+<rect class="shade" x="435" y="290" width="40" height="40"/>
+<text class="cell" x="455.0" y="316">b3</text>
+<rect class="shade" x="475" y="290" width="40" height="40"/>
+<text class="cell" x="495.0" y="316">c3</text>
+<rect class="shade" x="515" y="290" width="40" height="40"/>
+<text class="cell" x="535.0" y="316">d3</text>
+<path class="thin" d="M567,250 H591" marker-end="url(#arr)"/>
+<text class="head" x="685" y="112">after reduce-scatter</text><text class="small" x="685" y="134">N−1 steps</text>
+<text class="small" x="625.0" y="160">a</text>
+<text class="small" x="665.0" y="160">b</text>
+<text class="small" x="705.0" y="160">c</text>
+<text class="small" x="745.0" y="160">d</text>
+<rect class="pale" x="605" y="170" width="40" height="40"/>
+<rect class="dark" x="645" y="170" width="40" height="40"/>
+<text class="cell" x="665.0" y="196">Σb</text>
+<rect class="pale" x="685" y="170" width="40" height="40"/>
+<rect class="pale" x="725" y="170" width="40" height="40"/>
+<rect class="pale" x="605" y="210" width="40" height="40"/>
+<rect class="pale" x="645" y="210" width="40" height="40"/>
+<rect class="dark" x="685" y="210" width="40" height="40"/>
+<text class="cell" x="705.0" y="236">Σc</text>
+<rect class="pale" x="725" y="210" width="40" height="40"/>
+<rect class="pale" x="605" y="250" width="40" height="40"/>
+<rect class="pale" x="645" y="250" width="40" height="40"/>
+<rect class="pale" x="685" y="250" width="40" height="40"/>
+<rect class="dark" x="725" y="250" width="40" height="40"/>
+<text class="cell" x="745.0" y="276">Σd</text>
+<rect class="dark" x="605" y="290" width="40" height="40"/>
+<text class="cell" x="625.0" y="316">Σa</text>
+<rect class="pale" x="645" y="290" width="40" height="40"/>
+<rect class="pale" x="685" y="290" width="40" height="40"/>
+<rect class="pale" x="725" y="290" width="40" height="40"/>
+<path class="thin" d="M777,250 H801" marker-end="url(#arr)"/>
+<text class="head" x="895" y="112">after all-gather</text><text class="small" x="895" y="134">N−1 more steps</text>
+<text class="small" x="835.0" y="160">a</text>
+<text class="small" x="875.0" y="160">b</text>
+<text class="small" x="915.0" y="160">c</text>
+<text class="small" x="955.0" y="160">d</text>
+<rect class="dark" x="815" y="170" width="40" height="40"/>
+<text class="cell" x="835.0" y="196">Σa</text>
+<rect class="dark" x="855" y="170" width="40" height="40"/>
+<text class="cell" x="875.0" y="196">Σb</text>
+<rect class="dark" x="895" y="170" width="40" height="40"/>
+<text class="cell" x="915.0" y="196">Σc</text>
+<rect class="dark" x="935" y="170" width="40" height="40"/>
+<text class="cell" x="955.0" y="196">Σd</text>
+<rect class="dark" x="815" y="210" width="40" height="40"/>
+<text class="cell" x="835.0" y="236">Σa</text>
+<rect class="dark" x="855" y="210" width="40" height="40"/>
+<text class="cell" x="875.0" y="236">Σb</text>
+<rect class="dark" x="895" y="210" width="40" height="40"/>
+<text class="cell" x="915.0" y="236">Σc</text>
+<rect class="dark" x="935" y="210" width="40" height="40"/>
+<text class="cell" x="955.0" y="236">Σd</text>
+<rect class="dark" x="815" y="250" width="40" height="40"/>
+<text class="cell" x="835.0" y="276">Σa</text>
+<rect class="dark" x="855" y="250" width="40" height="40"/>
+<text class="cell" x="875.0" y="276">Σb</text>
+<rect class="dark" x="895" y="250" width="40" height="40"/>
+<text class="cell" x="915.0" y="276">Σc</text>
+<rect class="dark" x="935" y="250" width="40" height="40"/>
+<text class="cell" x="955.0" y="276">Σd</text>
+<rect class="dark" x="815" y="290" width="40" height="40"/>
+<text class="cell" x="835.0" y="316">Σa</text>
+<rect class="dark" x="855" y="290" width="40" height="40"/>
+<text class="cell" x="875.0" y="316">Σb</text>
+<rect class="dark" x="895" y="290" width="40" height="40"/>
+<text class="cell" x="915.0" y="316">Σc</text>
+<rect class="dark" x="935" y="290" width="40" height="40"/>
+<text class="cell" x="955.0" y="316">Σd</text>
+<text class="small" x="685" y="360">Σ = sum over all four GPUs</text>
+<rect x="40" y="462" width="920" height="72" rx="5" fill="#f2f2f2"/>
+<text class="label" x="500" y="492">Each GPU sends 2(N − 1)/N × S bytes of an S-byte gradient:</text>
+<text class="label" x="500" y="518">1.5S for four GPUs; approaching 2S as the ring grows.</text>
+</svg>
