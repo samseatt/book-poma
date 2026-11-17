@@ -470,3 +470,8 @@ The [adoption record](../volume-1-drafting/interlude-05-fable-adoption-2026-11-1
 ### V1-047 — author's Chapter 3 and 4 refinements included
 
 Also reviewed and committed Sam's existing Chapter 3 opening changes (first sensation/registration and poetic entry into the brain's domain) and Chapter 4 room-arrival changes (sentence rhythm, clothes, wolf poster, dartboard and silicon-chip wording). Both retained **verbatim**. The prenatal-wiring qualification in Chapter 3 remains; Chapter 4's added details remain author testimony. Updated all three active manuscript checksums. The unrelated dirty Interlude 4 remains untouched and outside this commit.
+
+
+### V1-046 follow-up — the rivalry ritual turned inward
+
+**17 November 2026; author's edit reviewed.** Kept Sam's revised beer-pitcher paragraph: Peter recounts it to another friend, the grooming joke becomes Sam's felt reward, and the closing self-critique connects the episode to Alice's dimensional-narrowing wager. “Probably” marks Peter's concern as a retrospective interpretation, not a reported statement. No new scientific assertion requires a reference; the wider hypothesis is already recorded in S024. Corrected only `IPeter` → `Peter` and sentence-initial `but` → `But`. The rest of the author paragraph and chapter are unchanged; the active checksum is refreshed. Interlude 4 remains outside this change. No publication.
