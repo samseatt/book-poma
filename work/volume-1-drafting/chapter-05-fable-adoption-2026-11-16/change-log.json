@@ -1,0 +1,212 @@
+[
+  {
+    "kind": "B",
+    "before": "multiply upon the earth*. Or at least",
+    "after": "multiply upon the earth*.[^v1-c5-genesis] Or at least",
+    "reason": "Add the exact Genesis 8:17 KJV attribution; preserve the author’s words."
+  },
+  {
+    "kind": "B",
+    "before": "copying what most people do, or what the successful do, is the cheapest learning rule there is.",
+    "after": "copying what most people do, or what the successful do, is often far cheaper than learning everything afresh.",
+    "reason": "Social learning can save costs; no universal cost ordering over all learning rules is established."
+  },
+  {
+    "kind": "B",
+    "before": "Spoken languages carry about forty bits of information per second, whichever language it is,",
+    "after": "In a study of seventeen languages, speech carried about forty bits of information per second,",
+    "reason": "Scope the measured language-average result without turning it into a universal channel limit."
+  },
+  {
+    "kind": "B",
+    "before": "follows the speaker's, with a short lag,",
+    "after": "tracks the speaker's, often with a short lag and sometimes anticipating it,",
+    "reason": "The primary study reports both lagged and anticipatory coupling."
+  },
+  {
+    "kind": "B",
+    "before": "Chapter 3's retina sent only the difference.",
+    "after": "Chapter 3's retina emphasized the difference.",
+    "reason": "Retinal coding emphasizes contrast/change; it is not exclusively a difference-only signal."
+  },
+  {
+    "kind": "A",
+    "before": "By any average the two crowds are identical;",
+    "after": "Their average thresholds differ by just one hundredth;",
+    "reason": "Changing 1 to 2 in a hundred-person population changes the mean from 49.50 to 49.51."
+  },
+  {
+    "kind": "B",
+    "before": "Writing $f$ for the fraction taking part and $F(x)$ for the fraction whose thresholds are at most $x$,",
+    "after": "Now express thresholds as fractions too. Writing $f$ for the fraction taking part and $F(x)$ for the fraction whose thresholds are at most $x$,",
+    "reason": "Keep the threshold and participation units consistent."
+  },
+  {
+    "kind": "A",
+    "before": "and its possible states are the points where $f = F(f)$.",
+    "after": "and its equilibria are the points where $f = F(f)$.",
+    "reason": "Fixed points are equilibrium states, not all transient states of the dynamics."
+  },
+  {
+    "kind": "B",
+    "before": "Each acts sensibly given the others.",
+    "after": "In the model, each acts sensibly given the others.",
+    "reason": "Subjective threshold decisions in a stylized model are not a moral or empirical endorsement of every real rioter’s decision."
+  },
+  {
+    "kind": "B",
+    "before": "![Nearly identical crowds, opposite nights.",
+    "after": "![Two crowds, opposite nights.",
+    "reason": "The figure illustrates two smooth distributions, not the nearly identical discrete hundred-person populations."
+  },
+  {
+    "kind": "B",
+    "before": "in B, a slightly shifted curve has no calm state,",
+    "after": "in B, a shifted curve has no calm state,",
+    "reason": "The plotted distributions are illustrative and not an infinitesimal perturbation of each other."
+  },
+  {
+    "kind": "B",
+    "before": "Original schematic.](assets/05-chapter/threshold-cascade.svg)",
+    "after": "Illustrative threshold model, not a reconstruction of Los Angeles.](assets/05-chapter/threshold-cascade.svg)",
+    "reason": "Keep the supplied drawing; identify its evidentiary status in its caption."
+  },
+  {
+    "kind": "B",
+    "before": "Culture is copied, and copying is lossy, so a skill survives only if enough people learn it from enough others;",
+    "after": "Copying is lossy, and losing enough teachers can cost a culture a skill;",
+    "reason": "The cited demographic mechanism is conditional, not a universal necessity for every skill."
+  },
+  {
+    "kind": "B",
+    "before": "Dunbar's number limits how many people one brain can know; the connected population limits how much a culture can remember.",
+    "after": "Dunbar's number suggests a limit to how many people one brain can know; the connected population helps set how much a culture can remember.",
+    "reason": "Retain the head-count/cultural-memory distinction without reifying either as a hard universal capacity."
+  },
+  {
+    "kind": "B",
+    "before": "Nothing about them feels like anything, but they act.",
+    "after": "Whether anything feels like anything to them is a different question; they act.",
+    "reason": "List and Pettit’s organized agency does not establish the presence or absence of phenomenal experience."
+  },
+  {
+    "kind": "B",
+    "before": "Network scientists measure exactly this when they look for communities",
+    "after": "Network scientists measure a related pattern when they look for communities",
+    "reason": "Modularity is a null-model comparison of ties, not a measurement of agency or IIT’s intrinsic causal integration."
+  },
+  {
+    "kind": "B",
+    "before": "belongs only to the most integrated system in any nested set;",
+    "after": "belongs only to a maximally causally integrated system among overlapping candidates;",
+    "reason": "IIT exclusion concerns overlapping candidates and intrinsic causal power; it is not a simple nested head-count rule."
+  },
+  {
+    "kind": "B",
+    "before": "The group's whole state collapses onto a handful of shared variables",
+    "after": "The group's coordinated activity collapses onto a handful of shared variables",
+    "reason": "The shared activity can have a low-dimensional description without the entirety of every member’s brain becoming low-dimensional."
+  },
+  {
+    "kind": "D (label only)",
+    "before": "The same collapse explains the crowd's darker turns.",
+    "after": "My wager is that the same collapse helps explain the crowd's darker turns.",
+    "reason": "Retain the dimensionality-reduction proposal; do not attribute its novel causal step to established crowd psychology."
+  },
+  {
+    "kind": "A",
+    "before": "each newly aligned person lowering the threshold for the next,",
+    "after": "each newly aligned person bringing the next closer to their threshold,",
+    "reason": "In the fixed-threshold model, participation rises toward a threshold; thresholds themselves need not fall."
+  },
+  {
+    "kind": "C (author-directed)",
+    "before": "In a study of seventeen languages, speech carried about forty bits of information per second,",
+    "after": "Speech carries about forty bits of information per second, averaged across seventeen languages,",
+    "reason": "Lead with the finding; retain the measured scope and source note without introducing a study as a narrative event."
+  },
+  {
+    "kind": "C (author-directed)",
+    "before": "Mark Granovetter gave the cleanest model, and his example was a riot.",
+    "after": "A simple threshold model makes this visible through a riot.",
+    "reason": "The threshold mechanism leads; the source credit remains in its note."
+  },
+  {
+    "kind": "C (author-directed)",
+    "before": "Nobody needs to lose their mind for that; Reicher's research, below, finds they don't.",
+    "after": "Nobody needs to lose their mind for that.",
+    "reason": "The later social-identity discussion carries the evidence; remove the redundant named-study announcement."
+  },
+  {
+    "kind": "C (author-directed)",
+    "before": "Philosophers such as Christian List and Philip Pettit argue that groups can be genuine agents, with beliefs and goals of their own: a court, a company, a committee.",
+    "after": "A court, a company or a committee can be an organized agent, with beliefs and goals of its own.",
+    "reason": "State the conceptual account directly and credit its proponents in the source note."
+  },
+  {
+    "kind": "C (author-directed)",
+    "before": "Granovetter, whose thresholds turned a crowd into a riot above, also showed that much of a society's real work, from finding jobs to spreading news, travels through weak ties between groups, not strong ties within them.",
+    "after": "Much of a society's real work, from finding jobs to spreading news, travels through weak ties between groups, not strong ties within them.",
+    "reason": "Keep the weak-tie mechanism; footnote carries scholarly credit."
+  },
+  {
+    "kind": "C (author-directed)",
+    "before": "Granovetter's thresholds said when people join;",
+    "after": "The threshold model said when people join;",
+    "reason": "Maintain the internal model callback without repeated attribution in prose."
+  },
+  {
+    "kind": "B (attribution)",
+    "before": null,
+    "after": "[^v1-c5-genesis]: [Genesis 8:17](https://www.biblegateway.com/passage/?search=Genesis%208%3A17&version=KJV), King James Version: the instruction to Noah about the living creatures leaving the ark.",
+    "reason": "Attribute author’s existing biblical quotation."
+  },
+  {
+    "kind": "B (source verification)",
+    "before": "[^v1-c5-lewis]: David Lewis, *Convention: A Philosophical Study* (Harvard University Press, 1969). On which side of the road to drive as the textbook coordination equilibrium, see H. Peyton Young, \"The Economics of Convention,\" *Journal of Economic Perspectives* 10 (1996): 105–122. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c5-lewis]: David Lewis, [*Convention: A Philosophical Study*](https://doi.org/10.1002/9780470693711) (Harvard University Press, 1969; linked reissue, Blackwell, 2002). On driving conventions as coordination equilibria, see H. Peyton Young, [“The Economics of Convention”](https://doi.org/10.1257/jep.10.2.105), *Journal of Economic Perspectives* 10, no. 2 (1996): 105–122. A convention need not originate in an explicit agreement.",
+    "reason": "Verify bibliography, link sources and put model limits in the note."
+  },
+  {
+    "kind": "B (source verification)",
+    "before": "[^v1-c5-bandwidth]: Christophe Coupé, Yoon Mi Oh, Dan Dediu and François Pellegrino, \"Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche,\" *Science Advances* 5 (2019): eaaw2594, reporting about 39 bits per second across 17 languages. Fast-spoken languages carry less information per syllable. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c5-bandwidth]: Christophe Coupé, Yoon Mi Oh, Dan Dediu and François Pellegrino, [“Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche”](https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970/), *Science Advances* 5, no. 9 (2019): eaaw2594, doi:10.1126/sciadv.aaw2594. The roughly 39 bits/s result combines syllable-level Shannon information with speech rates in a reading task across 17 languages. It is not a measure of meaning per second or a ceiling on all communication between people.",
+    "reason": "Verify bibliography, link sources and put model limits in the note."
+  },
+  {
+    "kind": "B (source verification)",
+    "before": "[^v1-c5-coupling]: Greg J. Stephens, Lauren J. Silbert and Uri Hasson, \"Speaker–listener neural coupling underlies successful communication,\" *PNAS* 107 (2010): 14425–14430; Uri Hasson et al., \"Brain-to-brain coupling: a mechanism for creating and sharing a social world,\" *Trends in Cognitive Sciences* 16 (2012): 114–121. Part of any measured synchrony reflects shared input, which such studies must control for; mirror-like systems help one brain simulate another's action and are not a channel between brains. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c5-coupling]: Greg J. Stephens, Lauren J. Silbert and Uri Hasson, [“Speaker–listener neural coupling underlies successful communication”](https://doi.org/10.1073/pnas.1008662107), *PNAS* 107, no. 32 (2010): 14425–14430; Uri Hasson et al., [“Brain-to-brain coupling: a mechanism for creating and sharing a social world”](https://doi.org/10.1016/j.tics.2011.12.007), *Trends in Cognitive Sciences* 16, no. 2 (2012): 114–121. The 2010 study measures fMRI response coupling, including anticipatory responses associated with comprehension. Coupling need not mean identical experience, and shared input can contribute to synchrony. Mirror-like responses occur within a brain; they are not a direct wire between brains.",
+    "reason": "Verify bibliography, link sources and put model limits in the note."
+  },
+  {
+    "kind": "B (source verification)",
+    "before": "[^v1-c5-thresholds]: Mark Granovetter, \"Threshold Models of Collective Behavior,\" *American Journal of Sociology* 83 (1978): 1420–1443; the hundred-person example is his. The fixed-point equation has the same form as the mean-field equation for a magnet, met again in Volume II. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c5-thresholds]: Mark Granovetter, [“Threshold Models of Collective Behavior”](https://doi.org/10.1086/226707), *American Journal of Sociology* 83, no. 6 (1978): 1420–1443, especially pp. 1424–1425 for the hundred-person example and difference equation. The equation treats thresholds as fractions in a fixed population with uniform exposure to participation. The figure uses smooth illustrative distributions and allows people to stop participating; its low and high fixed points are stable where the response-curve slope is below one. It is not the discrete hundred-person example or a fitted account of the 1992 riots. The mean-field magnet comparison concerns the form of a self-consistency equation, not identical social and magnetic mechanisms.",
+    "reason": "Verify bibliography, link sources and put model limits in the note."
+  },
+  {
+    "kind": "B (source verification)",
+    "before": "[^v1-c5-tipping]: Damon Centola, Joshua Becker, Devon Brackbill and Andrea Baronchelli, \"Experimental evidence for tipping points in social convention,\" *Science* 360 (2018): 1116–1119. The roughly 25 percent threshold applies to that online naming game; real norms carry costs and stakes the experiment did not. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c5-tipping]: Damon Centola, Joshua Becker, Devon Brackbill and Andrea Baronchelli, [“Experimental evidence for tipping points in social convention”](https://doi.org/10.1126/science.aas8827), *Science* 360, no. 6393 (2018): 1116–1119. The roughly 25 percent threshold applies to the studied online naming game; real norms carry costs and stakes the experiment did not. It is not a universal rule for social change.",
+    "reason": "Verify bibliography, link sources and put model limits in the note."
+  },
+  {
+    "kind": "B (source verification)",
+    "before": "[^v1-c5-henrich]: Joseph Henrich, \"Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses—The Tasmanian Case,\" *American Antiquity* 69 (2004): 197–214; Michelle A. Kline and Robert Boyd, \"Population size predicts technological complexity in Oceania,\" *Proceedings of the Royal Society B* 277 (2010): 2559–2564. For a critique, Krist Vaesen et al., \"Population size does not explain past changes in cultural complexity,\" *PNAS* 113 (2016): E2241–E2247. The link to Chapter 2's error threshold is this book's analogy. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c5-henrich]: Joseph Henrich, [“Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses—The Tasmanian Case”](https://www.cambridge.org/core/journals/american-antiquity/article/abs/demography-and-cultural-evolution-how-adaptive-cultural-processes-can-produce-maladaptive-lossesthe-tasmanian-case/8CD08CC61E6FACF59EC02659B2BDA43C), *American Antiquity* 69, no. 2 (2004): 197–214; Michelle A. Kline and Robert Boyd, [“Population size predicts technological complexity in Oceania”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894932/), *Proceedings of the Royal Society B* 277 (2010): 2559–2564. For a critique of demographic explanations and their archaeological fit, Krist Vaesen et al., [“Population size does not explain past changes in cultural complexity”](https://doi.org/10.1073/pnas.1520288113), *PNAS* 113, no. 16 (2016): E2241–E2247. Population, connectivity, transmission and ecology interact; headcount alone is not a law of cultural memory. The link to Chapter 2’s error threshold is this book’s analogy.",
+    "reason": "Verify bibliography, link sources and put model limits in the note."
+  },
+  {
+    "kind": "B (source verification)",
+    "before": "[^v1-c5-iit]: Giulio Tononi, Melanie Boly, Marcello Massimini and Christof Koch, “Integrated information theory: from consciousness to its physical substrate,” *Nature Reviews Neuroscience* 17 (2016): 450–461, on the exclusion postulate. For the group-consciousness worry it raises, see Eric Schwitzgebel, “If Materialism Is True, the United States Is Probably Conscious,” *Philosophical Studies* 172 (2015): 1697–1721. The dimensionality-reduction reading of crowds and the crystal analogy are the author's conjecture, not results of these works. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c5-iit]: Giulio Tononi, Melanie Boly, Marcello Massimini and Christof Koch, [“Integrated information theory: from consciousness to its physical substrate”](https://doi.org/10.1038/nrn.2016.44), *Nature Reviews Neuroscience* 17 (2016): 450–461, especially the exclusion postulate. “Switched off” here means excluded as separate subjects of experience under the theory, not neurons ceasing to fire. Social ties, synchrony and modularity do not by themselves measure IIT’s intrinsic causal integration. For a broader, distinct argument about group consciousness, see Eric Schwitzgebel, [“If Materialism Is True, the United States Is Probably Conscious”](https://doi.org/10.1007/s11098-014-0387-8), *Philosophical Studies* 172 (2015): 1697–1721. The dimensionality-reduction reading of crowds and the crystal analogy are the author’s conjecture, not results of these works.",
+    "reason": "Verify bibliography, link sources and put model limits in the note."
+  },
+  {
+    "kind": "B",
+    "before": "These accounts explain patterned collective action through social identity, not a loss of all individual judgment.",
+    "after": "These accounts explain patterned collective action through social identity, not a loss of all individual judgment. Shared identities can also generate solidarity and restraint; selective shedding of inhibitions is this chapter’s proposed reading, not a universal finding about crowds.",
+    "reason": "Distinguish the author’s darker-turn mechanism from the evidence supporting shared social identity."
+  }
+]

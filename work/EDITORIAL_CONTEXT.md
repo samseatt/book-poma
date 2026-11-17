@@ -653,3 +653,8 @@ The approved Fable Prologue is adopted with “recorded” restored, its ending 
 ## Single-pass merge default — 15 November 2026
 
 Follow B-052. Sam explicitly endorses the recent direct merges and now wants review and adoption completed in one pass unless a consequential author decision, action or attention is needed. This supersedes older standing requirements for a separate approval turn, not the substance of comparison, factual checking, voice/idea preservation, reference reconciliation or validation. An explicit review-only/step-one request remains read-only. A mismatched or stale incoming file is a legitimate reason to clarify the source before dependent edits. No need to re-ask previously settled choices.
+
+
+## Mechanisms before routine study reportage — 16 November 2026
+
+Follow B-055 flexibly. Sam wants the book to inhabit its subjects, not repeatedly recount who studied what like a journalist’s popular-science account. Routine author/study credits generally go in notes. Names and research stories remain welcome when their conceptual authority, memorable detail or personal/temporal connection earns the space. This is not a prohibition or a global name-stripping instruction. Keep the boundary of evidence visible without replacing the argument with a literature report.

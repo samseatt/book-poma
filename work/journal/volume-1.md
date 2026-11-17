@@ -448,3 +448,12 @@ Verified nineteen new reference notes, checked three expanded older notes, and a
 ### V1-045 follow-up — author’s narrative refinements
 
 **16 November 2026; reviewed and committed.** Retained Sam’s campus/molasses callback, sharper classroom and collaboration humor, FPU reflection, standing-wave/gymnastics bridge, floor-exercise metaphor and OS wording. Also preserved his already committed “object-oriented pantheon” revision. Corrected only three mechanical slips: “as if I had room,” “operating system is more a gesture,” and a comma after the long introductory clause. Technical claims, reference definitions, figures, equations, markers and ending are unchanged. The deliberate earlier trims remain. The manuscript check passes with all 49 footnotes/backlinks; the active checksum is updated, including the preceding author commit. No publication.
+
+
+## V1-046 — Chapter 5: shared possibility and the city’s couplings
+
+**16 November 2026; adopted.** Merged Fable’s Chapter 5 with **all eight uncommitted author-edited paragraphs**, using a clean three-way merge against HEAD. The speaker/ark joke, aliens, prophecy six-packs, spiritual reform, gas-station wording and evening move survive, along with original scenes, humor, temporal ties, all comments and the exact ending. The email recollection remains in its new encounter/feed section.
+
+Kept the four-question social foundry, threshold model and expanded Alice. Corrected arithmetic, fixed-point language and small scientific scope claims; verified seven incoming notes and added the exact Genesis 8:17 attribution. S024 records the coupling/dimensionality/micro-ideology and machine-bridge proposals. Sam’s flexible mechanism-first attribution preference is B-055.
+
+Installed the supplied threshold-cascade SVG unchanged after visual and numerical checks; retained the original social-relations diagram. The [adoption record](../volume-1-drafting/chapter-05-fable-adoption-2026-11-16/ADOPTION_NOTES.md) contains exact repairs, preservation checks, source audit, previous Alice and figure preview. Chapter 3, Chapter 4 and Interlude 4’s unrelated working edits remain untouched and outside the commit. No publication.

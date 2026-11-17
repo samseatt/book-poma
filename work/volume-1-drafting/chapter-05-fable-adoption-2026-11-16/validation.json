@@ -1,0 +1,24 @@
+{
+  "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-chapter.md",
+  "sha256": "830319916a200bb7726c996e804136018b5dffbacb21db698d6b25bc4c5ecf76",
+  "defined_notes": 46,
+  "note_references": 46,
+  "parsed_notes": 46,
+  "html_note_backlinks": 46,
+  "display_equations": 1,
+  "bookwide_note_collisions": [],
+  "warnings": [
+    "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+  ],
+  "errors": [],
+  "passed": true,
+  "additional_checks": {
+    "author_edited_paragraphs_preserved": 8,
+    "original_comments_preserved": 8,
+    "incoming_figure_byte_identical": true,
+    "existing_figure_byte_identical": true,
+    "unrelated_dirty_manuscripts_byte_identical": true,
+    "incoming_sources_unchanged": true,
+    "git_diff_check": "passed"
+  }
+}

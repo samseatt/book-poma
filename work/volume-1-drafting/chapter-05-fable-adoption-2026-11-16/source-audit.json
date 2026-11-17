@@ -1,0 +1,93 @@
+{
+  "access_date": "2026-11-16",
+  "scope": "Focused audit of seven incoming reference notes plus the author’s new biblical allusion. Existing references carried from the prior audit unless the new argument required a scope clarification. No claim of rereading every cited book. Personal memories remain author testimony.",
+  "prior_audit": "work/volume-1-drafting/chapter-05-adoption-2026-10-27/source-audit.json",
+  "notes": [
+    {
+      "id": "v1-c5-lewis",
+      "claim": "Convention as coordination equilibrium",
+      "verification": "Publisher description of Lewis’s reissue and Young’s journal record/abstract; original 1969 publication established by the book’s reissue copyright page.",
+      "locators": [
+        "https://onlinelibrary.wiley.com/doi/book/10.1002/9780470693711",
+        "https://www.aeaweb.org/articles?id=10.1257%2Fjep.10.2.105"
+      ],
+      "final_note": "David Lewis, [*Convention: A Philosophical Study*](https://doi.org/10.1002/9780470693711) (Harvard University Press, 1969; linked reissue, Blackwell, 2002). On driving conventions as coordination equilibria, see H. Peyton Young, [“The Economics of Convention”](https://doi.org/10.1257/jep.10.2.105), *Journal of Economic Perspectives* 10, no. 2 (1996): 105–122. A convention need not originate in an explicit agreement."
+    },
+    {
+      "id": "v1-c5-bandwidth",
+      "claim": "Speech information rate",
+      "verification": "Primary paper abstract, introduction and methods: 17 languages; syllable Shannon information times speech rate; roughly 39 bits/s. Not semantic content or an all-channel ceiling.",
+      "locators": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970/"
+      ],
+      "final_note": "Christophe Coupé, Yoon Mi Oh, Dan Dediu and François Pellegrino, [“Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche”](https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970/), *Science Advances* 5, no. 9 (2019): eaaw2594, doi:10.1126/sciadv.aaw2594. The roughly 39 bits/s result combines syllable-level Shannon information with speech rates in a reading task across 17 languages. It is not a measure of meaning per second or a ceiling on all communication between people."
+    },
+    {
+      "id": "v1-c5-coupling",
+      "claim": "Speaker/listener neural coupling",
+      "verification": "Primary 2010 PubMed abstract explicitly reports lagged and anticipatory coupling and association with comprehension. Princeton-hosted indexed author manuscript verifies 2012 review authors, title, journal and DOI; full review fetch unavailable. Shared-input caveat retained, no brain-to-brain direct wire inferred.",
+      "locators": [
+        "https://pubmed.ncbi.nlm.nih.gov/20660768/",
+        "https://oar.princeton.edu/bitstream/88435/pr1c453/1/Brain_to_Brain_coupling_2012.pdf"
+      ],
+      "final_note": "Greg J. Stephens, Lauren J. Silbert and Uri Hasson, [“Speaker–listener neural coupling underlies successful communication”](https://doi.org/10.1073/pnas.1008662107), *PNAS* 107, no. 32 (2010): 14425–14430; Uri Hasson et al., [“Brain-to-brain coupling: a mechanism for creating and sharing a social world”](https://doi.org/10.1016/j.tics.2011.12.007), *Trends in Cognitive Sciences* 16, no. 2 (2012): 114–121. The 2010 study measures fMRI response coupling, including anticipatory responses associated with comprehension. Coupling need not mean identical experience, and shared input can contribute to synchrony. Mirror-like responses occur within a brain; they are not a direct wire between brains."
+    },
+    {
+      "id": "v1-c5-thresholds",
+      "claim": "Threshold arithmetic, dynamics and equilibria",
+      "verification": "Primary scanned pages 1422–1425 inspected visually. Hundred-person 0..99 example, replacement of threshold 1 by 2, difference equation and distinction between formal model and riot explanation verified. Independent arithmetic and SVG checks recorded separately.",
+      "locators": [
+        "https://snap.stanford.edu/class/cs224w-readings/granovetter78threshold.pdf"
+      ],
+      "final_note": "Mark Granovetter, [“Threshold Models of Collective Behavior”](https://doi.org/10.1086/226707), *American Journal of Sociology* 83, no. 6 (1978): 1420–1443, especially pp. 1424–1425 for the hundred-person example and difference equation. The equation treats thresholds as fractions in a fixed population with uniform exposure to participation. The figure uses smooth illustrative distributions and allows people to stop participating; its low and high fixed points are stable where the response-curve slope is below one. It is not the discrete hundred-person example or a fitted account of the 1992 riots. The mean-field magnet comparison concerns the form of a self-consistency equation, not identical social and magnetic mechanisms."
+    },
+    {
+      "id": "v1-c5-tipping",
+      "claim": "Roughly 25 percent committed minority",
+      "verification": "Primary experimental paper examined: 194 subjects in 10 groups of 20–30, online naming coordination, minority range 15–35 percent. Roughly 25 percent concerns that setting, not all civic action.",
+      "locators": [
+        "https://ndg.asc.upenn.edu/wp-content/uploads/2018/09/Experimental-evidence-for-tipping.pdf"
+      ],
+      "final_note": "Damon Centola, Joshua Becker, Devon Brackbill and Andrea Baronchelli, [“Experimental evidence for tipping points in social convention”](https://doi.org/10.1126/science.aas8827), *Science* 360, no. 6393 (2018): 1116–1119. The roughly 25 percent threshold applies to the studied online naming game; real norms carry costs and stakes the experiment did not. It is not a universal rule for social change."
+    },
+    {
+      "id": "v1-c5-henrich",
+      "claim": "Cultural demography and technological retention",
+      "verification": "Henrich primary author manuscript introduction/model framing and publisher record checked. Kline/Boyd primary abstract and bibliographic record checked for ten Oceania populations, size/connectivity and marine-foraging technology. Vaesen et al. primary indexed abstract/record checked for critique; PMC full-text fetch challenged. Conditional synthesis retained, not a universal population-size law.",
+      "locators": [
+        "https://www2.psych.ubc.ca/~henrich/Website/Papers/HenrichTasmania.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2894932/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4843435/"
+      ],
+      "final_note": "Joseph Henrich, [“Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses—The Tasmanian Case”](https://www.cambridge.org/core/journals/american-antiquity/article/abs/demography-and-cultural-evolution-how-adaptive-cultural-processes-can-produce-maladaptive-lossesthe-tasmanian-case/8CD08CC61E6FACF59EC02659B2BDA43C), *American Antiquity* 69, no. 2 (2004): 197–214; Michelle A. Kline and Robert Boyd, [“Population size predicts technological complexity in Oceania”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894932/), *Proceedings of the Royal Society B* 277 (2010): 2559–2564. For a critique of demographic explanations and their archaeological fit, Krist Vaesen et al., [“Population size does not explain past changes in cultural complexity”](https://doi.org/10.1073/pnas.1520288113), *PNAS* 113, no. 16 (2016): E2241–E2247. Population, connectivity, transmission and ecology interact; headcount alone is not a law of cultural memory. The link to Chapter 2’s error threshold is this book’s analogy."
+    },
+    {
+      "id": "v1-c5-iit",
+      "claim": "Exclusion versus social coupling; group consciousness",
+      "verification": "Tononi et al. primary 2016 review pp. 450–452, exclusion and maximally irreducible cause-effect structure, checked in full-text PDF; 2015 Schwitzgebel primary published paper abstract/introduction checked. His broader group-consciousness argument is distinguished from a test of IIT or crowds. Shared environment and network modularity do not compute IIT.",
+      "locators": [
+        "https://tilde.ini.uzh.ch/~kiper/IIT.pdf",
+        "https://r.jordan.im/download/philosophy/schwitzgebel2015.pdf"
+      ],
+      "final_note": "Giulio Tononi, Melanie Boly, Marcello Massimini and Christof Koch, [“Integrated information theory: from consciousness to its physical substrate”](https://doi.org/10.1038/nrn.2016.44), *Nature Reviews Neuroscience* 17 (2016): 450–461, especially the exclusion postulate. “Switched off” here means excluded as separate subjects of experience under the theory, not neurons ceasing to fire. Social ties, synchrony and modularity do not by themselves measure IIT’s intrinsic causal integration. For a broader, distinct argument about group consciousness, see Eric Schwitzgebel, [“If Materialism Is True, the United States Is Probably Conscious”](https://doi.org/10.1007/s11098-014-0387-8), *Philosophical Studies* 172 (2015): 1697–1721. The dimensionality-reduction reading of crowds and the crystal analogy are the author’s conjecture, not results of these works."
+    },
+    {
+      "id": "v1-c5-genesis",
+      "claim": "Author’s Noah/speaker joke",
+      "verification": "Exact quoted phrase checked against Genesis 8:17, King James Version. Attribution added without altering author prose.",
+      "locators": [
+        "https://www.biblegateway.com/passage/?search=Genesis%208%3A17&version=KJV"
+      ],
+      "final_note": "[Genesis 8:17](https://www.biblegateway.com/passage/?search=Genesis%208%3A17&version=KJV), King James Version: the instruction to Noah about the living creatures leaving the ark."
+    },
+    {
+      "id": "v1-c5-reicher",
+      "claim": "Shared identity and proposed loss of inhibitions",
+      "verification": "Reuse prior adoption’s evidence audit for Reicher and Drury/Reicher. Added separation of social-identity findings from the new dimensionality/reduced-self hypothesis; solidarity and restraint are possible too.",
+      "locators": [
+        "work/volume-1-drafting/chapter-05-adoption-2026-10-27/source-audit.json"
+      ],
+      "final_note": "Stephen D. Reicher, [“The St. Pauls’ riot: An explanation of the limits of crowd action in terms of a social identity model”](https://doi.org/10.1002/ejsp.2420140102), *European Journal of Social Psychology* 14 (1984): 1–21; John Drury and Stephen Reicher, [“Collective psychological empowerment as a model of social change: Researching crowds and power”](https://doi.org/10.1111/j.1540-4560.2009.01622.x), *Journal of Social Issues* 65 (2009): 707–725. These accounts explain patterned collective action through social identity, not a loss of all individual judgment. Shared identities can also generate solidarity and restraint; selective shedding of inhibitions is this chapter’s proposed reading, not a universal finding about crowds. The adjacent IIT extrapolation is the author’s open question, not a finding of these studies. For IIT’s actual causal and exclusion requirements, see Larissa Albantakis et al., [“Integrated information theory (IIT) 4.0”](https://doi.org/10.1371/journal.pcbi.1011465), *PLOS Computational Biology* 19 (2023): e1011465."
+    }
+  ]
+}

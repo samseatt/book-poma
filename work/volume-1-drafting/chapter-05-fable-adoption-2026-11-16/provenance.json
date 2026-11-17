@@ -1,0 +1,32 @@
+{
+  "baseline_commit": "8178322d754c33703ccc286b980528971af0dd51",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-chapter.md": "ee3cf88552bd9508b6d8d8eb87ab9d98cfd9f36d413b799558ead07fb1cc0338",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/05-chapter.md": "4369f6000a6372cfc289a4641bbe1cb49fa9c03d14f3d193cdbb7e3a170e0292",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/05-chapter/threshold-cascade.svg": "a4f497202b84596243c38e9ea2d4fa203868a33d815bed4017153cb376a34412",
+    "/Users/samseatt/projects/book-poma/work/manuscript-manifest.json": "d846059da3f66498ae8234cb52dcc986dccf0ec7791217e6996b0c9f76b1037e",
+    "/Users/samseatt/projects/book-poma/work/journal/volume-1.md": "34017fecc7beae85d5c8ad7212a6b2c4da36a2c229969faeb34d741e465cb20f",
+    "/Users/samseatt/projects/book-poma/work/SPECULATION_LEDGER.md": "31c6728c4579bc390271ab849436b2e800b13008eae427ac64258f7c3614ef96",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md": "6f9e2ed343ac3a8f7081d6ff6d684b8d1abfee3a666440a31bf180bd5409170c",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md": "3d11ebfd9ac12b63933b8eb8292baf734833a0305767a8b5820a1952f5f3eba9",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md": "b0269385a0b33d6ff0b7d67478231e6c62713db07b669e8f97bcb247a7a582ad",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/05-chapter/social-relations.svg": "1d7566a429279327391952c6c16fc965504fedc971b50cf9093662b37e96587b",
+    "/Users/samseatt/projects/book-poma/work/journal/book.md": "3083393ded5ce35a96a11e46feac7a0c3b3d6aff9f8a443cac304fa06d20f7a3",
+    "/Users/samseatt/projects/book-poma/work/EDITORIAL_CONTEXT.md": "17be424ea661fd01d87b9739a15cadf1b8f77e09815e190157cb1707c384c56e"
+  },
+  "merge_method": "git merge-file -p incoming HEAD author; clean three-way merge, then scoped scientific and source-note repairs.",
+  "original_worktree_status": " M manuscripts/volume-1/03-chapter.md\n M manuscripts/volume-1/04-chapter.md\n M manuscripts/volume-1/04-interlude.md\n M manuscripts/volume-1/05-chapter.md\n",
+  "new_manuscript_sha256": "830319916a200bb7726c996e804136018b5dffbacb21db698d6b25bc4c5ecf76",
+  "word_counts": {
+    "committed": 9790,
+    "author_worktree": 9816,
+    "fable": 11785,
+    "merged": 12028
+  },
+  "unrelated_dirty_files_preserved": [
+    "manuscripts/volume-1/03-chapter.md",
+    "manuscripts/volume-1/04-chapter.md",
+    "manuscripts/volume-1/04-interlude.md"
+  ],
+  "figure": "Supplied SVG installed byte-for-byte; existing social-relations.svg retained byte-for-byte."
+}

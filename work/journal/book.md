@@ -451,3 +451,10 @@ Coda III receives a Dæg ornament matching the earlier coda style. The index and
 **15 November 2026 — standing clarification.** Sam confirms that Fable deliberately condensed Interlude 4: compiler/linker/process/thread basics, OS explanation, the forward/backward walkthrough already taught in Interlude 2, and Bob’s thermodynamics already carried by Interlude 1. This is intended distribution of teaching, not lost content. Preserve essential personal writing, humor and ideas, but do not automatically restore every useful explanatory passage or joke when it duplicates an earlier unit. Check the earlier teaching and the incoming revision rationale before treating an omission as a gap. Use a brief callback when sufficient.
 
 **Applied:** removed Codex’s restored automatic-differentiation explanation and calculus joke from Interlude 4; retained the incoming cross-reference and new 6ND/training-memory discussion. The source marker returns to its incoming location. The other deliberate condensations, Bob’s managed-continuity conjecture and all four diagrams remain. See V1-045 follow-up.
+
+
+## B-055 — Stay inside the subject; flexible scholarly attribution
+
+**16 November 2026 — author clarification.** Lead with the mechanism, idea or philosophical argument, rather than repeatedly narrating studies and discoveries from outside like a journalist writing popular science. Routine study credits usually belong in footnotes. This is a preference, **not a strict rule or an automatic name-removal pass**: named experts, useful intellectual disagreements, memorable discovery stories and personal/temporal coincidences can earn their place. Preserve the author’s lived links, such as professors, campuses and events coinciding with a move. Keep empirical scope honest through economical wording and notes; avoiding study-report prose is not permission to present a bounded result as a universal law.
+
+Applied lightly during Chapter 5’s merge: subject-led threshold/agency exposition and speech finding; retained Coleman/Davis’s arrival-year connection, Madison/Tononi and useful named concepts. No other chapter was rewritten under this preference.

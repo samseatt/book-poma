@@ -1,0 +1,66 @@
+{
+  "hundred_person_example": [
+    {
+      "mean": 49.5,
+      "final": 100,
+      "steps": 101
+    },
+    {
+      "mean": 49.51,
+      "final": 1,
+      "steps": 2
+    }
+  ],
+  "figure": [
+    {
+      "panel": "A",
+      "fixed_points": [
+        {
+          "fraction": 0.06709090909090912,
+          "slope": 0.062499999999977816,
+          "stable": true
+        },
+        {
+          "fraction": 0.5930303030303029,
+          "slope": 2.0000000000000218,
+          "stable": false
+        },
+        {
+          "fraction": 0.9184149184149184,
+          "slope": 0.23529411764703473,
+          "stable": true
+        }
+      ],
+      "start_fraction": 0.3,
+      "trajectory": [
+        0.1266666666666667,
+        0.07272727272727272,
+        0.06727272727272723,
+        0.06696969696969704
+      ],
+      "maximum_cobweb_error": 0.00016042780748666552
+    },
+    {
+      "panel": "B",
+      "fixed_points": [
+        {
+          "fraction": 0.9875757575757576,
+          "slope": 0.0,
+          "stable": true
+        }
+      ],
+      "start_fraction": 0.3,
+      "trajectory": [
+        0.37606060606060615,
+        0.5196969696969697,
+        0.795151515151515,
+        0.9742424242424242,
+        0.9872727272727273,
+        0.9875757575757576
+      ],
+      "maximum_cobweb_error": 0.00017045454545461247
+    }
+  ],
+  "visual_review": "Rendered in Chrome and inspected at 1000\u00d7530. Labels and curve/staircase lines readable; no clipping. Grayscale. Original supplied SVG retained unchanged.",
+  "scope": "Illustrative response curves, not empirical fits. CDF has instigators at zero and holdouts beyond one; reversible participation accounts for falling trajectory."
+}

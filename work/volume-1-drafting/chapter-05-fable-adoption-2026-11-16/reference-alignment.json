@@ -1,0 +1,18 @@
+{
+  "inherited_note_ids": 38,
+  "new_note_ids": [
+    "v1-c5-bandwidth",
+    "v1-c5-coupling",
+    "v1-c5-genesis",
+    "v1-c5-henrich",
+    "v1-c5-iit",
+    "v1-c5-lewis",
+    "v1-c5-thresholds",
+    "v1-c5-tipping"
+  ],
+  "removed_note_ids": [],
+  "changed_inherited_definitions": [
+    "v1-c5-reicher"
+  ],
+  "unchanged_inherited_definitions": 37
+}
