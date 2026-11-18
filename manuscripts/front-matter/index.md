@@ -10,7 +10,7 @@ A frightened child on a plane clings to a basket when the rest of his familiar w
 
 # Part I --- Φ: The First Archers --- The Monsters We Met, the Castles We Built
 
-Experiencing emergence. The author's lived moves carry the Carbon journey from physics to information, while the Silicon interludes build from material to machine intelligence. Each chapter's upheaval exposes a crack for the next volume to examine.
+Experiencing emergence. The author's lived moves carry the Carbon journey from physics to information, while the Silicon interludes build from material to machine intelligence. Each chapter's upheaval exposes a crack for the next volume to examine. Each interlude mirrors its chapter's domain through computing, giving the reader another vantage on how our own world works.
 
 ## Chapter Φ. The Archer's Compass --- The Unprovable Beginning
 
@@ -98,7 +98,7 @@ ECOSYSTEM. Fire and ecological interdependence place the human story inside plan
 
 **Interlude 10. Cloud Atlas, Rewired --- Our Second Atmosphere**
 
-CLOUD. Virtualization, distributed services and edge computing make computation available almost everywhere. The cloud's apparent weightlessness rests on hardware, power, water and maintenance, bringing machine intelligence back into the planetary ecology it increasingly helps to measure.
+CLOUD. Virtualization, distributed services and edge computing form Silicon's ecosystem of interdependent services. Its demands for hardware, power, water and maintenance mark a confluence with the planetary ecosystem.
 
 ## Chapter 11. The Final Crossing --- Nomads in a Purgatory of Code
 

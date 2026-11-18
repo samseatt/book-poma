@@ -497,3 +497,39 @@ FEDERATION distinguishes Interlude 29 from Interlude 19's GOVERNANCE. LEARNING, 
 **18 November 2026 — completed at the author's request.** Compared and merged all 36 chapter Opens from the top-level Claude folder. The author expressly requires retaining canonical format: preserve image references, layout, emphasis and hard-break conventions. Twenty-one early Opens have unchanged visible text; incoming provenance/source comments are retained. Open 10 adds the amphibian sentence, Open 14 corrects “edge of antiquity” to “edge of India,” and Open 18 receives the incoming closing. The twelve Volume III Opens adopt the revised Θ and new Gate-period scenes/epigraphs.
 
 Two epigraph wording repairs match Legge and Rodwell; Guru Nanak's supplied English is marked “after” rather than certified as exact Macauliffe. Existing canonical image links in 26/28/29/31 preserve the earlier renumbering's artwork mapping. All incoming comments and final lines survive. These are the ceremonial/oracular Opens, distinct from personal vignettes. The [adoption record](../opens-drafting/claude-adoption-2026-11-18/ADOPTION_NOTES.md) keeps source checks, remaining translation/reference work and three selectively recovered older lines. All Open manifest hashes refreshed; chapter/interlude bodies, incoming originals, artwork and publishing infrastructure remain untouched.
+
+## B-060 — Rails, mirrors and retrospective confluences
+
+**18 November 2026 — author clarification recorded; scoped manuscript additions completed.** The immediate work is a short retrospective addition to Coda I and a sentence in the index's Part I description, with the cloud entry aligned to the distinction that prompted the discussion. This is not a commission to rebuild the units around a new template. Opens and overtures stay untouched; no extra introductory or Φ explanation is needed now.
+
+### Working taxonomy
+
+| Volume | Chapter rail | Interlude rail | Editorial instrument or device |
+| --- | --- | --- | --- |
+| I | Carbon emergence, experienced through the author's moves; upheavals reveal cracks | Silicon counterparts expose analogous arrangements and give the archer a vantage on herself and her systems | Compass / Silicon mirror |
+| II | Systems lenses applied across domains: diagnosis, critique and opportunity signals | A caseboard of exemplars exposing mechanisms and machinery behind a lens, or what those mechanisms can produce | Systems lenses / Caseboard |
+| III | Civilizational design: principles, arrangements and their consequences for living | Building and trying those arrangements, learning from their operation and revising them | Design loom (editorial recommendation using the existing Θ imagery) / Breadboard |
+
+**Naming status:** Compass, mirror, systems lenses, Caseboard and Breadboard express the author's agreed distinctions. “Design loom” is the editor's suggested meta-level label for the chapter rail, not a newly approved title or required repeated term. Θ already uses loom imagery on both sides. “Sextant” explains the author's interest in self-location through a mirror but does not replace the Silicon mirror. No additional “instrument panel” apparatus is needed for V2; systems lenses already names the chapter function. Gates belong to the shared future chronology of both V3 rails, not exclusively to the chapters. This taxonomy is primarily editorial context; do not burden the reader with a full ceremonial inventory.
+
+### What confluences mean
+
+The mirror first makes a counterpart intelligible within its own domain: the cloud is Silicon's ecosystem, for example. A confluence makes the crossing visible, such as the cloud's shared claims on planetary water and energy, or machine intelligence participating in human informational life. The author proposed the term to preserve that distinction after the index collapsed the internal cloud ecology into its external planetary footprint. These are functional, explanatory boundaries, not a claim that computers ever escaped physical reality.
+
+Confluences offer an interlude-side rhyme with chapter upheavals: crossings, shared consequences and dependencies rather than necessarily damage. Some are beneficial, some costly. They need not follow a strictly increasing trajectory, occur at precisely dated thresholds, or become mandatory closing sections. Rung 11 is the book's culminating informational confluence; it need not assert identical minds or resolved consciousness. The term's deliberate retrospective home is Coda I, after the snake, fold and Neusphere reveal; leave the numbered units free of added ceremony.
+
+The author's provisional examples remain a reserve rather than assignments: shared physical laws/materials (1); bioinformatics (2); neural hardware or pattern recognition (3); personal software organizing intention and activity (4); communication networks and email (5); ERP and industry (6); web commerce (7); membership, permissions and framework/community governance (8); human-machine interfaces and sensing/actuation (9); cloud demands on the shared planetary ecology (10); informational/intellectual participation (11). The user especially prefers direct crossings of computing and human governance over generic examples of states regulating the technology industry. A non-monotonic sequence is fine; no forced survey is authorized.
+
+### Responsibility and placement
+
+- **Religious interfaces:** retain the substantive future reinterpretation of inherited traditions, and the proposal that their commitments could guide agents, in Chapter 32 and its related V3 treatment. A brief, natural comparison in Interlude 9 can illuminate an interface, but is optional and should not pre-teach that design argument. This is the editor's recommendation to the author's placement question; no I9 or C32 text changed.
+- **V2:** the whole interlude rail can be called the Caseboard. IΔ establishes B4 as a standing set used especially in the numbered chapters, available elsewhere in V2 and V3. Numbered interludes supply local exemplars, usually one coherent focus, with no requirement to force B4 into each one. This broadens the use of “caseboard” beyond the older notes that reserved it for IΔ; it does not change the existing substantive division of labor.
+- **V3:** the whole interlude rail is Breadboard work. IΘ specifically establishes C4A, grounded in Neuverse and Tiers. Builds and trials let design encounter consequences and improve; histories and Gates remain distinct comparative/prospective devices. No Θ rewrite is needed.
+
+### Applied and protected
+
+Added one marked paragraph in canonical Coda I, after the three revelations and their final movable-joints reflection, before “What Becomes of Our Companions.” All pre-existing text, comments, sources and the closing are unchanged. The paragraph uses already developed examples and frames “confluences” as the author's retrospective reading, not a newly established scientific theory. No new reference or speculation-ledger research claim is introduced.
+
+The index's Part I paragraph now states how each interlude mirrors its chapter. Interlude 10's entry now presents Silicon's own ecosystem first and explicitly calls its planetary dependencies a confluence. Existing index headings, monikers and format remain intact. No other manuscript changed; the Introduction's older “instrument panels” wording can be harmonized during its next authorized pass. Canonical manifest hashes refreshed for these two units only. Incoming Claude/Fable files remain read-only provenance; no publication or external handoff.
+
+Validation: both manuscripts pass the repository checker; existing Coda footnote ordering remains unchanged. A literal preservation check confirms that removing the new marked paragraph restores the entire prior Coda byte for byte. Index headings, assets and comments are preserved; only the two relevant manifest hashes changed.

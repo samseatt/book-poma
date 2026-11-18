@@ -95,6 +95,10 @@ That, at least, is the glimmer. No theorem yet, and certainly no blueprint: more
 The fold showed one more thing: which of the serpent's joints can bend. The layers below the crease grew on their own, and they don't take instructions. Gaia's story is written in chemistry and moves over eons; information's is kept in copies no one can recall. But the stories between them, the economy, the nation, ideology, are held only by expectation. That's why they can fall in a season, and it's also why they're the part of the snake we can move. A snake doesn't change its bones to get somewhere. It bends the joints that bend.
 <!-- End AI draft 2026-11-14. -->
 
+<!-- AI draft, 2026-11-18: author-requested retrospective confluences passage. -->
+The mirror, meanwhile, had been getting involved. Gene sequences became data; applications took on the work of firms; the web took our money (usually with permission). The cloud had its own ecosystem, but its appetite for water and power reached into ours. By the last rung, machine intelligence was entering the work of thought itself. I call these crossings *confluences*. They happened at different depths, some giving us new powers, others new dependencies. The chapters' upheavals exposed cracks; the interludes disclosed places where the two rails were already sharing consequences. What began as a way to inspect ourselves had become another participant in the inspection.
+<!-- End AI draft 2026-11-18. -->
+
 ## What Becomes of Our Companions
 
 A volume's end is a good place to take stock of the company we've kept.
