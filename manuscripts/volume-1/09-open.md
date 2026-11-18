@@ -1,6 +1,8 @@
 
 ![](assets/09-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening quotation is Matthew 2:18 (King James Version), from the Christmas story's massacre of the innocents. -->
+
 
 _In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not._
 

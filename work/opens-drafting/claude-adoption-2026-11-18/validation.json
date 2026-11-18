@@ -1,0 +1,631 @@
+{
+  "date": "2026-11-18",
+  "passed": true,
+  "unit_count": 36,
+  "unchanged_visible_opens": 21,
+  "visible_revisions": 15,
+  "all_incoming_comments_preserved": true,
+  "all_incoming_closing_lines_preserved": true,
+  "canonical_image_paths_preserved": true,
+  "incoming_source_hashes_unchanged": true,
+  "only_open_manifest_entries_changed": true,
+  "checks": [
+    {
+      "key": "delta",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/delta-open.md",
+        "sha256": "3336f7920bed8f4c076258200df762299809e2021bf822c7ac8039f774b43e0c",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "phi",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-open.md",
+        "sha256": "ffb5a0227a25df7f4f7df61b2e04ac382845d97ff1ae545d13cc12c8e488f780",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "theta",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-open.md",
+        "sha256": "b1d40ef4930db575c74ed78748bc539a9667c787777833178e8e4eb958d45de2",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "01",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-open.md",
+        "sha256": "7919cd3666dfac096b69ecbbcfe1c1c2f750d1ffc4e9c7f77b6edcb1d5725351",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "02",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-open.md",
+        "sha256": "c56f748ce8db5cc84bf0adccc25b08898bbb6006fcb939fe982f31202e3e5dc6",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "03",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-open.md",
+        "sha256": "36942e0d0e976b0b18b4246419090578bb6d24c42e157d9a2db3dd25c5e56d8d",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "04",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-open.md",
+        "sha256": "9e1cfa903f00f495cdc170386c5ca2b2d875b5687894e6574c53c52c6df6f165",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "05",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-open.md",
+        "sha256": "e5cbb4020d621a00c34b96cad7d330e9ce42cfcd523c250a4afa9a57c7b9ad3f",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "06",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-open.md",
+        "sha256": "913fc365af81dc6a7daee6efefc1a528117f91bece528d618301a95c0b73e516",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "07",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-open.md",
+        "sha256": "86cf7c77d84835db09387255368f91a4d1fd58c02d7e8fa56ccac0f6621d7462",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "08",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/08-open.md",
+        "sha256": "9f8b630be367c0c57703cafbfc0cc18ffeffcdad1661b9135f99f8738754ea59",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "09",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-open.md",
+        "sha256": "265701bdd7e3a5d8ffa7daee53dd8fcf696711a00c18f3df6327c25ad6aab437",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "10",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/10-open.md",
+        "sha256": "7f9aa96b521e63b6697f16b9870a4ecee432cef67cb28821d5310d6ff70e5cff",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "11",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/11-open.md",
+        "sha256": "bad0f5904888fe3c738d76426e72de664a09274e9b79c96ef23cbdbd72e3d170",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "12",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/12-open.md",
+        "sha256": "ff1095e4f63da78197770f15b84a8179aaec2f37543ee277d4690c2ac95a37a5",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "13",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/13-open.md",
+        "sha256": "5e19818509a7d8edcde531b90ed87debcf853e4bfb678b209c5166fd2f45bad1",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "14",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/14-open.md",
+        "sha256": "4702ba89e2e9e60248357157be5f3c7c88e449a5a827d93fde40b71b77cbb769",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "15",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/15-open.md",
+        "sha256": "b921a86297ac2c414eaaafb99a93475f546e0735c401540a201c903b22863af8",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "16",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/16-open.md",
+        "sha256": "cf118068ce9937df9d110b9c8aa2fd5239cfe351dc2d83045165d3d42ebae729",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "17",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/17-open.md",
+        "sha256": "ae33ef7b55cb9df864f0072aeb4104ecaaaaec260c3e154184ca8433b361e8e5",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "18",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/18-open.md",
+        "sha256": "0d7dbf8624d168fd1ff98e55062ac802bee1a3d76096a95f07ff83261faf7c98",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "19",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/19-open.md",
+        "sha256": "5f7ac03eca63731b02724669eb727bd1b847078cc45d2b10b84668b07e435b16",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "20",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/20-open.md",
+        "sha256": "8f3747dff3b5a854357bc16663750094366d64f03c09294b92ba01a7dfc183d8",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "21",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/21-open.md",
+        "sha256": "f91e6e76da50efe8531845f0d1e48c2f337ff7f92b1e1681118551317ad711ea",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "22",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/22-open.md",
+        "sha256": "df3abc04cc2e3d54642034cdbdfca4ceea1beaaa0137d58ad23ac9dd0e62683a",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "23",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-open.md",
+        "sha256": "abef6a95d3e6538b1668c894cd6ff51ef4e735fefb6c27c561fccc63cfd39fd1",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "24",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-open.md",
+        "sha256": "4047476849459e58571c09942d9df7a13d34c37b9cf4abfa26d0fff45461c804",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "25",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-open.md",
+        "sha256": "8bc10f523b78171ae9fad377700c42b4be3bb61e119a9177c2dac05c2973b279",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "26",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-open.md",
+        "sha256": "d20b64fe972df48f2860d75f8289c4a790c3e8b5ee815b582b0d851672c7741f",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "27",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-open.md",
+        "sha256": "48062733a531657ff0808822b5a419aa262106036594bfa64b83449dbbae47d0",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "28",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-open.md",
+        "sha256": "4dac7a169575a82458cf2987f5d58da7d63933506a57e79034a91d9f239e968a",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "29",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-open.md",
+        "sha256": "ccd9321aa54a1ab236de4575c30a9b7bb10d1981aeeeb394ef115bca9a75847c",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "30",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-open.md",
+        "sha256": "fd45e3d7a9b3914dd435efa8d16465d0b727c69385e90a191ba5b6bd23442e6e",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "31",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-open.md",
+        "sha256": "6babd394a6b67cb873552052efd82d90912bdad7da367f8104478a2f1e217e54",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "32",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-open.md",
+        "sha256": "ac306d765ce6bc666c39b8530002d56769f9dde35cbe2d0f91753b091e1211d8",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    {
+      "key": "33",
+      "passed": true,
+      "standard_checker": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-open.md",
+        "sha256": "4e6719356abaf028061d533727c8d62b167e306f8c3d7d775397b76ca174c051",
+        "defined_notes": 0,
+        "note_references": 0,
+        "parsed_notes": 0,
+        "html_note_backlinks": 0,
+        "display_equations": 0,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    }
+  ],
+  "whitespace_check": {
+    "passed": true,
+    "command": "git -c core.whitespace=-blank-at-eol diff --check",
+    "reason": "Retain canonical Markdown hard breaks (two trailing spaces) and inherited epigraph whitespace as requested."
+  }
+}

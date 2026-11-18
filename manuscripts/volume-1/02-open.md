@@ -1,6 +1,8 @@
 
 ![](assets/02-open/opening.jpeg)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening question is Job 38:16 (King James Version). -->
+
 
 _Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?_
 

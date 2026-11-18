@@ -1,17 +1,30 @@
 
 ![](assets/23-open/opening.png)
 
+<!-- AI-assisted: new Open for the first Gate (March 2029), set in India, by Claude, replacing the earlier loom scene; epigraph a traditional Māori whakataukī (proverb), with a common English rendering; confirm wording and usage with a Māori-language source before print; awaiting Sam's pass. -->
+<!-- SOURCE-CHECK 2026-11-18: the Maori proverb and net/succession reading are supported by Teorongonui Josie Keelan, Nga Reanga: Youth Development Maori Styles, ch. 5. The supplied English is a rendering, not an attributed verbatim translation. This Gate scene is fictional. -->
 
-A grandmother sat hunched over a wooden loom, its beams creaking softly in the dawn light. Her fingers moved with practiced patience, guiding threads dyed in earth and midnight tones.
 
-Each strand carried stories: nights spent hungry, mornings survived by chance, dreams that nearly faded. Some threads were frayed, others strong, each representing lives once scattered like leaves in a storm.
+_Ka pū te ruha, ka hao te rangatahi._  
+_The old net is laid aside; the new net goes fishing._  
+--- **Māori whakataukī**
 
-She wove them together in careful passes, breath measured, eyes sharp despite their clouded edges. A pattern emerged --- uneven at first, yet more intricate with every row.
+Pune, March 2029. The power has been back for an hour, the ceiling fan is turning again, and the grandmother has gone back to her loom.
 
-Outside her window, the world stirred: birdsong over quiet streets, distant voices arguing and laughing, new monsters and old hopes mingling in the morning air.
+Her granddaughter sits across the kitchen table with a tablet propped against a steel tumbler of cooling chai, untangling the afternoon: a refill that never arrived, a ride promised twice, a neighbor's offer of a spare room that no one had yet accepted, three agents insisting, politely and at length, that everything was resolved.
 
-She pulled the final thread through, paused, and looked at what she'd made: a tapestry not of cloth alone, but of wounds closed and futures imagined.
+"You're doing it wrong," the grandmother says, without looking up.
+
+"I'm not weaving, Nani."
+
+"Everyone is weaving." She lifts a thread, frayed at one end. "This one was promised. Who's holding it?"
+
+The girl looks at her screen. A ride, accepted by a driver at noon, then reassigned by one system, cancelled by another, and now held by no one at all. Somewhere across the city, an old man is waiting by his gate with his good shirt on.
+
+She makes a call. A real one, with a voice at the other end.
+
+The grandmother pulls the thread through, tightens it, and moves on to the next.
 
 ---
 
-*What might we weave if we remember every frayed strand?*
+*What new net could we cast, if every thread had someone holding it?*

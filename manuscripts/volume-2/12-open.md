@@ -1,6 +1,8 @@
 
 ![](assets/12-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is a close rendering of Siduri's warning to Gilgamesh in Tablet X of the Epic of Gilgamesh; check it against a public-domain translation (e.g., R. Campbell Thompson, 1928) before print. The crossing itself is reconstructed; nobody knows how it was made. -->
+
 
 _Never, Gilgamesh, has there been a crossing, and the waters of death lie across the way._  
 --- after _The Epic of Gilgamesh_, Tablet X

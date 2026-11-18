@@ -1,6 +1,8 @@
 
 ![](assets/16-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is Ulysses' speech in Dante's Inferno XXVI, in Henry Wadsworth Longfellow's translation (1867). The events are the Chernobyl accident of 26 April 1986; check details against the IAEA's INSAG-7 report before print. -->
+
 
 _Ye were not made to live like unto brutes,  
 But for pursuit of virtue and of knowledge._  

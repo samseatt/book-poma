@@ -1,6 +1,8 @@
 
 ![](assets/07-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening quotation is Genesis 41:49 (King James Version). -->
+
 
 _And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number._
 

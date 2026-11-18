@@ -1,6 +1,8 @@
 
 ![](assets/22-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is a translation, made for this book, of the culminating couplet of Attar's Conference of the Birds. The crossing toward Sahul (Australia and New Guinea) is reconstructed; dates and routes remain debated. -->
+
 
 _When the thirty birds looked, they saw at once, beyond all doubt, that these thirty birds were the Simorgh._  
 --- **Attar**, _The Conference of the Birds_

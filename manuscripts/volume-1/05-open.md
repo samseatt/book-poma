@@ -1,6 +1,8 @@
 
 ![](assets/05-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening quotation is Amos 5:24 (King James Version). -->
+
 
 _But let judgment run down as waters, and righteousness as a mighty stream._
 

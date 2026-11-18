@@ -1,6 +1,8 @@
 
 ![](assets/delta-open/opening.jpeg)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is Aristotle, Physics VI.9, reporting Zeno (R. P. Hardie and R. K. Gaye translation, 1930); verify wording against that edition. -->
+
 
 _...the flying arrow is at rest..._  
 --- **Aristotle**, reporting Zeno, _Physics_ VI

@@ -1,6 +1,8 @@
 
 ![](assets/20-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is from Homer's Odyssey XII in Samuel Butler's translation (1900); verify wording. The events are the Tesla Autopilot crash near Williston, Florida, on 7 May 2016; check details against the NTSB report before print. -->
+
 
 _First you will come to the Sirens, who enchant all who come near them._  
 --- **Homer**, _Odyssey_ XII

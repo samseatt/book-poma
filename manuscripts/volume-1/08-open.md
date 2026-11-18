@@ -1,6 +1,8 @@
 
 ![](assets/08-open/opening.jpeg)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening quotation is Luke 13:4–5 (King James Version), chosen because it rejects the idea that the victims of a falling tower deserved their fate. -->
+
 
 _Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men...? I tell you, Nay._
 

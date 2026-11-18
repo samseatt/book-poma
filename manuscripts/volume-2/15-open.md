@@ -1,6 +1,8 @@
 
 ![](assets/15-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is a translation, made for this book, of the opening of Kafka's "Vor dem Gesetz" (1915). The scene is Sam's own; the chapter continues it in the first person. -->
+
 
 _Before the Law stands a doorkeeper. To this doorkeeper comes a man from the country and asks to be admitted to the Law._  
 --- **Franz Kafka**, "Before the Law"

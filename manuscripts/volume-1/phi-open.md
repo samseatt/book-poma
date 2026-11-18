@@ -1,6 +1,8 @@
 
 ![](assets/phi-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. A longer version is kept in phi-open-long.md. -->
+
 
 I saw a city built of signs, foursquare and finite, its gates numbered, and over its gate was written: *Here every question shall be answered, and no answer shall contradict another.*
 

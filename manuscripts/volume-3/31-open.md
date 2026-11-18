@@ -1,15 +1,23 @@
 
 ![](assets/28-open/opening.png)
 
+<!-- AI-assisted: new Open for the ninth Gate (March 2049), set in Iloilo, the Philippines, by Claude, replacing the earlier tram-and-scanner scene; epigraph from Mao Zedong's 1944 speech "Serve the People," a short phrase; check the attribution and the status of the chosen English rendering before print; awaiting Sam's pass. -->
+<!-- SOURCE-CHECK 2026-11-18: "Serve the People" is the title of Mao's speech of 8 September 1944. The three-word epigraph does not certify the copyright status of an entire English edition. The 2049 family and care scene is fictional. -->
 
-A tram glided to a quiet stop under pale morning skies. The man stepped off, his wristband pulsing a soft green. He didn't rush; his care team had already mapped every step.
 
-As he entered the clinic, the doors parted silently, scent of clean air and warm cedar drifting out. A nurse greeted him by name --- not from a file, but because his wearable and home devices had already streamed a month of vitals, flagged subtle shifts, and tailored his checkup.
+_Serve the people._  
+--- **Mao Zedong** (1944)
 
-Soon he lay inside a softly humming scanner. Gentle lights swept over his chest, generating a personalized imaging plan on the fly: a hybrid echo with targeted views. Beside him, a projection of his digital physician floated just beyond the scanner bore, eyes kind, voice calm.
+Iloilo, March 2049. The dry season has set in, and Tita Liza has come home.
 
-Each heartbeat traced new patterns across shared displays. Notes and insights wove instantly into his lifelong health record. No rushed paperwork, no cryptic charts --- just a team, human and digital, seeing him fully, caring for him precisely.
+For most of her working life, she cared for other people's parents: eight years in Hong Kong, eleven in Winnipeg, four in Milan. She bathed them, fed them, learned their languages and their medications and their bad jokes, held their hands at the end and sent the money home that built this house and put her nephews through school. Now it's her own mother who needs her, ninety-one and very sure of her opinions.
+
+The house has help Liza never had abroad. A lifting frame by the bed that can move her mother without hurting either of them. A medicine cabinet that knows what's due and tells the clinic when something changes. A voice in the kitchen that can call a doctor in Manila, or in Iloilo City, at any hour.
+
+Liza is grateful for every bit of it. It means she isn't exhausted. It means she has time.
+
+So every morning, after the frame has done the lifting and the cabinet has done the counting, she does the part no machine has been asked to do. She sits her mother by the window, takes out the old tortoiseshell comb and combs her hair, slowly, the way her mother once combed hers, while the two of them argue about the neighbors.
 
 ---
 
-*He was never just a chart again.*
+*What will we do with the time care gives back, if not care for one another?*

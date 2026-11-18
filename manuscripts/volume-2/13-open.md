@@ -1,6 +1,8 @@
 
 ![](assets/13-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is the opening of Rumi's Masnavi in R. A. Nicholson's translation (1926); verify the wording against that edition. The scene is Sam's own first arrival in the United States; the night, the rain and JFK are real. -->
+
 
 _Listen to the reed how it tells a tale, complaining of separations, saying, "Ever since I was parted from the reed-bed, my lament hath caused man and woman to moan."_  
 --- **Rumi**, _Masnavi_

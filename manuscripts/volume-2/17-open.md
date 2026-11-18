@@ -1,6 +1,8 @@
 
 ![](assets/17-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is the opening of John Bunyan's The Pilgrim's Progress (1678). The events are Ignaz Semmelweis's work at the Vienna General Hospital (1840s) and his death in 1865; check details before print. -->
+
 
 _I saw a man clothed with rags, standing in a certain place, with his face from his own house, a book in his hand, and a great burden upon his back._  
 --- **John Bunyan**, _The Pilgrim's Progress_

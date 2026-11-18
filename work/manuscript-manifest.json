@@ -275,7 +275,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/phi-open.md",
-        "sha256": "3ef46f70e04977718507b858f9ed24c0892fff2625b93a315cfb17c7c243b40d"
+        "sha256": "ffb5a0227a25df7f4f7df61b2e04ac382845d97ff1ae545d13cc12c8e488f780"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 0 - Open Phi.docx",
       "source_sha256_at_inventory": "af7bf7fa335575ec6da31c01cfaf415c5e208cdb08505b089858efbd39fa6f5d",
@@ -362,7 +362,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-open.md",
-        "sha256": "bfcae655cdc73b7eae061f9fd25593fc1a3161054e2293c6dd58aff68452ddd6"
+        "sha256": "7919cd3666dfac096b69ecbbcfe1c1c2f750d1ffc4e9c7f77b6edcb1d5725351"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 1 - Open 01.docx",
       "source_sha256_at_inventory": "eb95a64da875982d5442eaa4ea8208f78d1811e66706e8cc59e2f88b0541af24",
@@ -391,7 +391,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/10-open.md",
-        "sha256": "5b834ad9e8e49891384a0b302624ebba6e48b094bd9ebb4aef42b06bcc79a324"
+        "sha256": "7f9aa96b521e63b6697f16b9870a4ecee432cef67cb28821d5310d6ff70e5cff"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 10 - Open 10.docx",
       "source_sha256_at_inventory": "e538a6693db18f8867d041a47790a099d86049cb7a05bae267f20ea741116d6f",
@@ -478,7 +478,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/11-open.md",
-        "sha256": "9dec88983ab5d2203db8193ca2baa796208beaa30352ecd9d2e5eb994c8fd3b4"
+        "sha256": "bad0f5904888fe3c738d76426e72de664a09274e9b79c96ef23cbdbd72e3d170"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 11 - Open 11.docx",
       "source_sha256_at_inventory": "9b72dc1a47a676df24284c4d6d139da03928c1ab36d3e60588626e269b4d5e96",
@@ -623,7 +623,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-open.md",
-        "sha256": "5c11aff5640d28e605abe2a15df789ed1c530f94fa24768a6fee719effe29b9e"
+        "sha256": "c56f748ce8db5cc84bf0adccc25b08898bbb6006fcb939fe982f31202e3e5dc6"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 2 -Open 02.docx",
       "source_sha256_at_inventory": "2fee0f74e3677945dabd66a1fa12121b1ac841bc242ab1a7dd0dd8e91c89d314",
@@ -710,7 +710,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-open.md",
-        "sha256": "426ef117d67952ef490b12fef328942b5a915a58df1c42db9f2a9e7c7a8fb073"
+        "sha256": "36942e0d0e976b0b18b4246419090578bb6d24c42e157d9a2db3dd25c5e56d8d"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 3 - Open 03.docx",
       "source_sha256_at_inventory": "01d07ad681bccad665af80200c440810603093aee74f7bc11f55cf89ff3e14ef",
@@ -797,7 +797,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-open.md",
-        "sha256": "7375320e2f03a73783de121afda26aa8c1a1f93e3c3b5d4ea14c8b26e5fc8007"
+        "sha256": "9e1cfa903f00f495cdc170386c5ca2b2d875b5687894e6574c53c52c6df6f165"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 4 - Open 04.docx",
       "source_sha256_at_inventory": "2280cabe5b958f53ea0daf8c4ce4d098448209375ef0e0d231965fcc8249feaa",
@@ -884,7 +884,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-open.md",
-        "sha256": "bf40497a93698c601192a5cc631351107ca87ece984283abf416620662c9a4d6"
+        "sha256": "e5cbb4020d621a00c34b96cad7d330e9ce42cfcd523c250a4afa9a57c7b9ad3f"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 5 - Open 05.docx",
       "source_sha256_at_inventory": "7792586cf45e364b07a36a43d7510b866e181fecc89d65ba983dce4a664f7da1",
@@ -971,7 +971,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-open.md",
-        "sha256": "8b4bbc860fbcda766f2688db77f8cfbe0424cb9807a19b7c8ec949e56dceec49"
+        "sha256": "913fc365af81dc6a7daee6efefc1a528117f91bece528d618301a95c0b73e516"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 6 - Open 06.docx",
       "source_sha256_at_inventory": "f26f10ba64287e1569555c3d8810c7800d02d2075117db9079c53d78fa260c86",
@@ -1058,7 +1058,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-open.md",
-        "sha256": "4d4f853a57c9837e2a7f27616b17e2ac6efb72ba3e0983b4dbb17f1517116873"
+        "sha256": "86cf7c77d84835db09387255368f91a4d1fd58c02d7e8fa56ccac0f6621d7462"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 7 - Open 07.docx",
       "source_sha256_at_inventory": "8cd7dca465637f391789cc0ec8f4e94c4edd0c8c8ea0ae9d807ba5c8a5f69a37",
@@ -1145,7 +1145,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/08-open.md",
-        "sha256": "ced78f95fa28a2c5f746989c28d6d212a922aa9a5f9122039e1a46e67de784df"
+        "sha256": "9f8b630be367c0c57703cafbfc0cc18ffeffcdad1661b9135f99f8738754ea59"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 8 -Open 08.docx",
       "source_sha256_at_inventory": "d61f80beaf8a5e15b5f138d97aff93736d6d98cbb725d96f1a178582ed03a6df",
@@ -1232,7 +1232,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-open.md",
-        "sha256": "f327bf262b661424a2af8d1cd3451edc44394020467ca13872131f536a93c3cc"
+        "sha256": "265701bdd7e3a5d8ffa7daee53dd8fcf696711a00c18f3df6327c25ad6aab437"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 9 - Open 09.docx",
       "source_sha256_at_inventory": "19218f16aa7035fb813cd58c6ac3c8c022d9c0a0590e2dc1e860878f0438e1b4",
@@ -1409,7 +1409,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/delta-open.md",
-        "sha256": "66d3614c947fa9b0758526c0420a37d7415d31db061418452f63ce9fbcee2ba6"
+        "sha256": "3336f7920bed8f4c076258200df762299809e2021bf822c7ac8039f774b43e0c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 0 - Open Delta.docx",
       "source_sha256_at_inventory": "8365251454742c8866b4295c01f816bcbb937058966df6a765123d2e87f8e689",
@@ -1496,7 +1496,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/12-open.md",
-        "sha256": "b244fa550785a6cd756a7b396d0f6915265f8f18271ac131460d0bb747529834"
+        "sha256": "ff1095e4f63da78197770f15b84a8179aaec2f37543ee277d4690c2ac95a37a5"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 12 - Open 12.docx",
       "source_sha256_at_inventory": "5bdc5a4d3c5eeb218109df53c1a5e01b4e938cb8c41d6f0168b39443a33ade51",
@@ -1583,7 +1583,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/13-open.md",
-        "sha256": "d756ea6cb6a781c14ba6e90f8102605a00b95438100ee97df17e486ba0b04676"
+        "sha256": "5e19818509a7d8edcde531b90ed87debcf853e4bfb678b209c5166fd2f45bad1"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 13 - Open 13.docx",
       "source_sha256_at_inventory": "4f1b81ca0a3a15748cf3326d5c7ac779be85b919d09f941ea62da8a8d903dcb5",
@@ -1670,7 +1670,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/14-open.md",
-        "sha256": "53f5c9e97a16a5290dbee5c8c3bf201bdb83e7f6af980938c3bfc935a8460ad8"
+        "sha256": "4702ba89e2e9e60248357157be5f3c7c88e449a5a827d93fde40b71b77cbb769"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 14 - Open 14.docx",
       "source_sha256_at_inventory": "18b58286811a2430afe54e20ca6eb75314508a20d6f54df3e1b5383dace252a8",
@@ -1757,7 +1757,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/15-open.md",
-        "sha256": "5baf6153a4c52f92cf145ce30b07f1231d9d970df6e470959233bf550fb83738"
+        "sha256": "b921a86297ac2c414eaaafb99a93475f546e0735c401540a201c903b22863af8"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 15 - Open 15.docx",
       "source_sha256_at_inventory": "a76dc25e09bf5b75321a656a559f15bbfa079237535e5822ed69520c77a952fa",
@@ -1844,7 +1844,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/16-open.md",
-        "sha256": "669d205f5483cf6cfa66a34c5a84f55fc59ce1fa5c982595f9cd2111411426b3"
+        "sha256": "cf118068ce9937df9d110b9c8aa2fd5239cfe351dc2d83045165d3d42ebae729"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 16 - Open 16.docx",
       "source_sha256_at_inventory": "ff9602c25bfd110a6a1bdd66ecdc8a9497c60eed24eb7842a9450c9922b68a07",
@@ -1931,7 +1931,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/17-open.md",
-        "sha256": "a1903978c51ea8848803016e7c1984bc71390e6e846e0e5d68bcd217feb8fd1d"
+        "sha256": "ae33ef7b55cb9df864f0072aeb4104ecaaaaec260c3e154184ca8433b361e8e5"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 17 - Open 17.docx",
       "source_sha256_at_inventory": "67825fbaaab62387b9db5e6ae822af44163a81c3da53c32d6ab4d2d53a065af4",
@@ -2018,7 +2018,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/18-open.md",
-        "sha256": "69293aba97e2588152384cf23a678702046f47a01e784278da86d27688ea7dd4"
+        "sha256": "0d7dbf8624d168fd1ff98e55062ac802bee1a3d76096a95f07ff83261faf7c98"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 18 - Open 18.docx",
       "source_sha256_at_inventory": "d78a6d1f10fd023b61836f8b7887cdbceb5733e8056fe0a6e8d2be396590090e",
@@ -2105,7 +2105,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/19-open.md",
-        "sha256": "637a48271f1a6cfa2e02eb0571bd7cc6825da3df7f9683e6a2643a53b47d5a81"
+        "sha256": "5f7ac03eca63731b02724669eb727bd1b847078cc45d2b10b84668b07e435b16"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 19 - Open 19.docx",
       "source_sha256_at_inventory": "92b6349d2d23d0451591618846c036fb96142508d0b07e88a597f254a6a153dc",
@@ -2192,7 +2192,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/20-open.md",
-        "sha256": "bf53b9792a4e32db45da7f954f4e005a915066e8a4703f736cadd5c383a7553d"
+        "sha256": "8f3747dff3b5a854357bc16663750094366d64f03c09294b92ba01a7dfc183d8"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 20 - Open 20.docx",
       "source_sha256_at_inventory": "e6d84ee158436937bdde1100dce29760f6dd91ec4e79a5ec7bb1af56813835a2",
@@ -2279,7 +2279,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/21-open.md",
-        "sha256": "86ecbdf493456f80fbb6e1ef2eb9e57a2f54d21f1a167441cf28e8dddcc041f0"
+        "sha256": "f91e6e76da50efe8531845f0d1e48c2f337ff7f92b1e1681118551317ad711ea"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 21 - Open 21.docx",
       "source_sha256_at_inventory": "3fb4b281052ad42215534ff470698313140a2827eda54f144e1f39379b5be0d4",
@@ -2366,7 +2366,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-2/22-open.md",
-        "sha256": "44da8adddc0bc0fb660898f1ad6d351b499265641377c448124c3c6698b22564"
+        "sha256": "df3abc04cc2e3d54642034cdbdfca4ceea1beaaa0137d58ad23ac9dd0e62683a"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/6 22 - Open 22.docx",
       "source_sha256_at_inventory": "20003d01c5f921701fab56b9197f7ad578c9e2be75b3e37f54d88680d592a732",
@@ -2556,7 +2556,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/theta-open.md",
-        "sha256": "0fc884871f47407d69d4ce24208fb0cadaaa55ba16136ef57ca8a8e03897149c"
+        "sha256": "b1d40ef4930db575c74ed78748bc539a9667c787777833178e8e4eb958d45de2"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 0 - Open Theta.docx",
       "source_sha256_at_inventory": "dda29df8ddfe46fa6dc9c6ac31986945ebe21fd5ce1a1da1a2f4de676f1670e3",
@@ -2687,7 +2687,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/23-open.md",
-        "sha256": "38174896122edd2f2277f5b96c0321e5df2bbba89eb9ead6222bfbddeee33845"
+        "sha256": "abef6a95d3e6538b1668c894cd6ff51ef4e735fefb6c27c561fccc63cfd39fd1"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 23 - Open 23.docx",
       "source_sha256_at_inventory": "62ec2e32aa7b5afce31cdd8485c89bcb1a6715a6cba35051a0662a3a9bf34036",
@@ -2816,7 +2816,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/24-open.md",
-        "sha256": "c4deadb7725921c198b47115b56a0db2d67780af21514ed3940025a12bfc4552"
+        "sha256": "4047476849459e58571c09942d9df7a13d34c37b9cf4abfa26d0fff45461c804"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 24 - Open 24.docx",
       "source_sha256_at_inventory": "1b73faaa17387bc9d8c13c2a60aa368b59063fb2d2a7a8a3c1baccb4759f6e0d",
@@ -2951,7 +2951,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/25-open.md",
-        "sha256": "6a156ad859b4e515bd555aaeace4fb6f00e90e3c4c4926eed96fda6be8c18746"
+        "sha256": "8bc10f523b78171ae9fad377700c42b4be3bb61e119a9177c2dac05c2973b279"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 25 - Open 25.docx",
       "source_sha256_at_inventory": "001d8d41131ce91e8e0d75fef8c9744442554dfe91b73fa7c32badac8f7d4c97",
@@ -3080,7 +3080,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/29-open.md",
-        "sha256": "d18bf7311e4a884ae51ce37b534b6b7c6a3a4386ed73d30911c023af76b2e2cc"
+        "sha256": "ccd9321aa54a1ab236de4575c30a9b7bb10d1981aeeeb394ef115bca9a75847c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 26 - Open 26.docx",
       "source_sha256_at_inventory": "ebee4d7885f6c1bb6ca4a52d618fe77120b68304cefc3f92c6d33a2abff10546",
@@ -3212,7 +3212,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/27-open.md",
-        "sha256": "1dc68b91f43989f2890a0e83421492d7b556271732a78a19c82b8620ec93483c"
+        "sha256": "48062733a531657ff0808822b5a419aa262106036594bfa64b83449dbbae47d0"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 27 - Open 27.docx",
       "source_sha256_at_inventory": "67b24d212c96a6507f54d908da35f47e6bc918c7bf0b6d99d5f988fa001bad3c",
@@ -3341,7 +3341,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/31-open.md",
-        "sha256": "347fc2faa07adbce4f5dd7b5210c9d7c5200d5c88f7892f84f6eca11e26ed9f5"
+        "sha256": "6babd394a6b67cb873552052efd82d90912bdad7da367f8104478a2f1e217e54"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 28 - Open 28.docx",
       "source_sha256_at_inventory": "1c54f51a0da886ae4552a2330d23efb27b0b99fa7a846287657f6bcb0b6bb355",
@@ -3473,7 +3473,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/28-open.md",
-        "sha256": "b8c6d2db0254e3919f2a3caf8fb0dc6892552e3087531bd050b64af3c7423333"
+        "sha256": "4dac7a169575a82458cf2987f5d58da7d63933506a57e79034a91d9f239e968a"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 29 - Open 29.docx",
       "source_sha256_at_inventory": "422c8896c5a3349fddd482d941039d06b29428a97def62c72873ac72a8363418",
@@ -3605,7 +3605,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/30-open.md",
-        "sha256": "93ddb38541f20b7ce58bcf84219367e2c3f27595c5cec4b2e28da1bce4e1ccb3"
+        "sha256": "fd45e3d7a9b3914dd435efa8d16465d0b727c69385e90a191ba5b6bd23442e6e"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 30 - Open 30.docx",
       "source_sha256_at_inventory": "09755e047422a4fd238556e1a660ff6d17ea64609a572a839afb7b18513f1ca7",
@@ -3734,7 +3734,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/26-open.md",
-        "sha256": "cf5a577fd6c8f2cacfa6dffff388706d76a65c1aa30102ed2b0b5584fc77507d"
+        "sha256": "d20b64fe972df48f2860d75f8289c4a790c3e8b5ee815b582b0d851672c7741f"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 31 - Open 31.docx",
       "source_sha256_at_inventory": "c46143454d600189263aa38cb3e85489b5769b231ce37df8fcf4b3e74868aa8f",
@@ -3866,7 +3866,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/32-open.md",
-        "sha256": "aabecf64a4e08d6fbae992268041908c9b784c7dea4d2bee229928c7aec3dfc7"
+        "sha256": "ac306d765ce6bc666c39b8530002d56769f9dde35cbe2d0f91753b091e1211d8"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 32 - Open 32.docx",
       "source_sha256_at_inventory": "c869df121780c5837e52f7a97ae4115325138a23e5aa38d873dd34a5ce0ab698",
@@ -3995,7 +3995,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-3/33-open.md",
-        "sha256": "541d6c85e0f0c3441dbf6891e43f11e9c2a7f962e24704ac318fd3608b8dda3b"
+        "sha256": "4e6719356abaf028061d533727c8d62b167e306f8c3d7d775397b76ca174c051"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/7 33 - Open 33.docx",
       "source_sha256_at_inventory": "6e08dec231ba9269f9e310962d75e4a29b3799907abdbc76fbbbada7c9a484f7",

@@ -1,6 +1,8 @@
 
 ![](assets/21-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is from Plato's Phaedrus in Benjamin Jowett's translation; verify wording. The events are the Uber test-vehicle crash in Tempe, Arizona, on 18 March 2018; check details against the NTSB report before print. -->
+
 
 _...the driving of them of necessity gives a great deal of trouble to him._  
 --- **Plato**, _Phaedrus_, on the charioteer of the soul

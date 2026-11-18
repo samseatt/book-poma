@@ -1,6 +1,8 @@
 
 ![](assets/01-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice -->
+
 
 In the beginning there was no beginning, and nothing to begin: not darkness, not light, not even nothing.
 

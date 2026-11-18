@@ -1,6 +1,8 @@
 
 ![](assets/04-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening quotation is Jeremiah 17:9 (King James Version). The victim is named; the killer deliberately is not. -->
+
 
 _The heart is deceitful above all things, and desperately wicked: who can know it?_
 

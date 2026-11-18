@@ -1,6 +1,8 @@
 
 ![](assets/06-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening quotation is 1 Kings 19:11 (King James Version). -->
+
 
 _And after the wind an earthquake; but the LORD was not in the earthquake._
 

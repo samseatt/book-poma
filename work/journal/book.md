@@ -491,3 +491,9 @@ The index reflects these pending drafts without adopting their bodies or changin
 | Interlude 32 | MEMORY |
 
 FEDERATION distinguishes Interlude 29 from Interlude 19's GOVERNANCE. LEARNING, VALUES, VALUE, REALITY, SIMULATION and all other monikers are unchanged. Five index labels required correction; the remaining six were already aligned. This follow-up updates the index and its provenance records only; the pending Volume III manuscripts retain their existing adoption status. See [the refresh follow-up](../front-matter-drafting/index-refresh-2026-11-17/UPDATE_NOTES.md).
+
+## B-059 — Claude Opens adopted in canonical format
+
+**18 November 2026 — completed at the author's request.** Compared and merged all 36 chapter Opens from the top-level Claude folder. The author expressly requires retaining canonical format: preserve image references, layout, emphasis and hard-break conventions. Twenty-one early Opens have unchanged visible text; incoming provenance/source comments are retained. Open 10 adds the amphibian sentence, Open 14 corrects “edge of antiquity” to “edge of India,” and Open 18 receives the incoming closing. The twelve Volume III Opens adopt the revised Θ and new Gate-period scenes/epigraphs.
+
+Two epigraph wording repairs match Legge and Rodwell; Guru Nanak's supplied English is marked “after” rather than certified as exact Macauliffe. Existing canonical image links in 26/28/29/31 preserve the earlier renumbering's artwork mapping. All incoming comments and final lines survive. These are the ceremonial/oracular Opens, distinct from personal vignettes. The [adoption record](../opens-drafting/claude-adoption-2026-11-18/ADOPTION_NOTES.md) keeps source checks, remaining translation/reference work and three selectively recovered older lines. All Open manifest hashes refreshed; chapter/interlude bodies, incoming originals, artwork and publishing infrastructure remain untouched.

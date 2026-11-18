@@ -1,6 +1,8 @@
 
 ![](assets/03-open/opening.png)
 
+<!-- AI-assisted: the Opens are written in a deliberately oracular register, outside the narrator's voice. The opening quotation is Genesis 11:4 and 11:6 (King James Version). -->
+
 
 _Go to, let us build us a city and a tower, whose top may reach unto heaven... and now nothing will be restrained from them, which they have imagined to do._
 

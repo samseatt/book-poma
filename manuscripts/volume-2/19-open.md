@@ -1,6 +1,8 @@
 
 ![](assets/19-open/opening.png)
 
+<!-- AI-assisted: Volume II Opens draw on journey literature. The epigraph is the opening of Homer's Odyssey in Samuel Butler's translation (1900); Alexandrian scholars edited the Homeric text. The Open follows the historical consensus that the Library of Alexandria declined over centuries rather than burning in a single fire; check details before print. -->
+
 
 _Many cities did he visit, and many were the nations with whose manners and customs he was acquainted._  
 --- **Homer**, _Odyssey_ I
