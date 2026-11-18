@@ -490,3 +490,8 @@ Also reviewed and committed Sam's existing Chapter 3 opening changes (first sens
 Retained the servo mechanism as a representative explanation, Sam’s programming contribution and same-head track writing; recorded Goleta without inventing a supplier or language. Kept VisiCalc briefly for its dependency/recalculation mechanism. Applied the reviewed industry/software repairs and restored concise conceptual threads. Established HOT/coupling/chaos machinery now precedes Alice; both open wagers stay bold and are recorded as S026–S027.
 
 Installed and visually checked three grayscale SVGs with narrow learning-rate, retry-state and risk-score repairs. Aligned 56 notes, preserving all incoming IDs, comments and closing lines. Evidence scope and remaining edition-level locator tasks are explicit in the [adoption record](../volume-1-drafting/pair-06-fable-adoption-2026-11-17/ADOPTION_NOTES.md). Refreshed only these two active manuscript hashes. Fable sources unchanged; no publication.
+
+
+### V1-048 follow-up — correct unit-figure directories
+
+**17 November 2026.** Sam noticed the three figures were absent from the expected `manuscripts/volume-1/assets/` tree. Corrected the editor’s placement mistake: moved the unchanged Chapter/Interlude 6 SVGs from `manuscripts/assets/` to `manuscripts/volume-1/assets/06-chapter/` and `06-interlude/`. Updated the three Markdown URLs and both active hashes; no prose or image content changed. Follow the established convention for later merges: unit illustrations live inside their volume’s `assets/<unit>/`; common ornaments remain in `manuscripts/assets/shared/`.

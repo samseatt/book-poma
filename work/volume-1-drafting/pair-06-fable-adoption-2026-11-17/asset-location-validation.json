@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-chapter.md",
+    "sha256": "cb920dbec5014f075b1dde36af40089a63507898f69f758f790318a8b697c7d5",
+    "defined_notes": 38,
+    "note_references": 38,
+    "parsed_notes": 38,
+    "html_note_backlinks": 38,
+    "display_equations": 1,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "interlude": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-interlude.md",
+    "sha256": "11bb2b4fce0ed27d0530b121706dc31d23edc089ada4d2c4bd53175955f313ff",
+    "defined_notes": 18,
+    "note_references": 18,
+    "parsed_notes": 18,
+    "html_note_backlinks": 18,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "relocations": [
+    {
+      "from": "manuscripts/assets/06-chapter/learning-curve.svg",
+      "to": "manuscripts/volume-1/assets/06-chapter/learning-curve.svg",
+      "sha256": "5d5981e2ac990f53495ef317df36aea2f7b997e7b8e4c69e8ecbc8f2c48044c4"
+    },
+    {
+      "from": "manuscripts/assets/06-interlude/order-workflow.svg",
+      "to": "manuscripts/volume-1/assets/06-interlude/order-workflow.svg",
+      "sha256": "fd9fd88082aae85671766b560ec48166cc8d62f929f63d92e97f95097df26ace"
+    },
+    {
+      "from": "manuscripts/assets/06-interlude/score-thresholds.svg",
+      "to": "manuscripts/volume-1/assets/06-interlude/score-thresholds.svg",
+      "sha256": "26d0b7e9756a03fce090f1fdfc10ca7b7546a5236a15dc2a6f7712a41a0208dc"
+    }
+  ],
+  "svg_bytes_unchanged": true,
+  "change_scope": "Three Markdown URLs only; no prose or caption wording changed."
+}
