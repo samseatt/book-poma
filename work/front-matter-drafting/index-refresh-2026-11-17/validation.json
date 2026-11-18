@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-17",
+  "result": "pass",
+  "unit_count": 80,
+  "chapter_count": 36,
+  "interlude_count": 36,
+  "unit_order_matches_audit": true,
+  "chapter_interlude_titles_and_domains_match_selected_sources": true,
+  "selected_source_hashes_unchanged": true,
+  "canonical_unit_hashes_unchanged": true,
+  "source_scope": "Index and editorial records only; no pending unit adopted.",
+  "standard_checker": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/index.md",
+    "sha256": "43b942682c9129721a5a321e89cb385934199b193e2d4444e2a874bbe519eed3",
+    "defined_notes": 0,
+    "note_references": 0,
+    "parsed_notes": 0,
+    "html_note_backlinks": 0,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  }
+}

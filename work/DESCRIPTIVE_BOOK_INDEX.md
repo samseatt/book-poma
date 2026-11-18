@@ -1,5 +1,7 @@
 # Working descriptive index
 
+> **Superseded as a current guide — 17 November 2026:** use [the updated manuscript descriptive index](../manuscripts/front-matter/index.md). This file preserves the earlier planning snapshot. [Refresh notes and source audit](front-matter-drafting/index-refresh-2026-11-17/UPDATE_NOTES.md) distinguish the merged canon from newer pending Fable/Claude drafts.
+
 > **Dated scope:** V3 descriptions and all three titles refreshed on 6 November 2026 from the reconciled canonical pairs. V1/V2 entries and their adoption/scope notes retain their 27 October basis; they are not current adoption-status claims. This remains a work index, not an update to the manuscript index. See [the V3 inventory](VOLUME_III_PRINCIPLES_AND_PATTERNS.md).
 
 *The Path of Many Arrows — current editorial plan, 27 October 2026*
