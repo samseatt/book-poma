@@ -270,7 +270,7 @@ KNOWLEDGE. Knowledge systems must distinguish claims, evidence and interpretatio
 
 ## Chapter 27. The Reclaimed Commons --- Data, Nature, and Shared Ground
 
-SHARING. Ecology, data, attention and social trust require forms of sharing that preserve their conditions of renewal. Designs must work within the larger ecosystem, accounting for what they draw down and what stewardship must return.
+COMMONWEALTH. Ecology, data, attention and social trust require forms of sharing that preserve their conditions of renewal. Designs must work within the larger ecosystem, accounting for what they draw down and what stewardship must return.
 
 **Interlude 27. Streams and Sanctuaries --- Governing the Informational and Biological Commons**
 
@@ -278,11 +278,11 @@ CUSTODY. Custody makes obligations to shared resources enforceable through acces
 
 ## Chapter 28. The Reimagined Workshop --- Making as Stewardship
 
-MAKING. Making becomes stewardship when a product's design includes extraction, work, use, repair and eventual return. Automation and craft can support regenerative production if throughput is measured against material and planetary consequences.
+CRAFT. Making becomes stewardship when a product's design includes extraction, work, use, repair and eventual return. Automation and craft can support regenerative production if throughput is measured against material and planetary consequences.
 
 **Interlude 28. Neufacturing --- Biofabrication and Architectures of Regenerative Matter**
 
-MANUFACTURING. Digital designs meet material tolerances, fabrication processes and evidence from the finished thing. Biofabrication, traceable materials, reusable manufacturing interfaces and lifecycle records connect advanced production to quality, maintenance and regeneration.
+FABRICATION. Digital designs meet material tolerances, fabrication processes and evidence from the finished thing. Biofabrication, traceable materials, reusable manufacturing interfaces and lifecycle records connect advanced production to quality, maintenance and regeneration.
 
 ## Chapter 29. The Steward's Edge --- Governance as Co-Authorship
 
@@ -290,7 +290,7 @@ STEWARDSHIP. Governance becomes the ongoing work of stewardship, with authority 
 
 **Interlude 29. Civic Meshes --- Identity, Federation, and Protocol Governance**
 
-GOVERNANCE. Identity, federation, mandates and versioned rules provide machinery for civic coordination. Protocols must preserve legitimacy through disagreement, interruptions and institutional change, while keeping a software update from silently becoming a constitutional amendment.
+FEDERATION. Identity, federation, mandates and versioned rules provide machinery for civic coordination. Protocols must preserve legitimacy through disagreement, interruptions and institutional change, while keeping a software update from silently becoming a constitutional amendment.
 
 ## Chapter 30. Justice Before Judgment --- Living Inside Fair Systems
 
@@ -314,7 +314,7 @@ CONTINUITY. Inherited religions, cultures and memories can carry care, belonging
 
 **Interlude 32. Encoding the Eternal --- Semantic Memory and Cultural Continuity**
 
-LIFECYCLE. Semantic memory and cultural archives must carry meaning through revision, migration and succession. Provenance, adapters and explicit value commitments help technical systems inherit living traditions without freezing them, flattening their differences or claiming to own them.
+MEMORY. Semantic memory and cultural archives must carry meaning through revision, migration and succession. Provenance, adapters and explicit value commitments help technical systems inherit living traditions without freezing them, flattening their differences or claiming to own them.
 
 ## Chapter 33. The Arrow's Release --- Designing Without Possessing the Future
 

@@ -993,8 +993,13 @@
       "source_sha256": "57758877da404343ea7bea5c5a27503875f8922e2cb5d23b44f6a3ae9ccac2df",
       "title": "The Reclaimed Commons",
       "subtitle": "Data, Nature, and Shared Ground",
-      "domain": "SHARING",
-      "index_heading": "## Chapter 27. The Reclaimed Commons --- Data, Nature, and Shared Ground"
+      "domain": "COMMONWEALTH",
+      "index_heading": "## Chapter 27. The Reclaimed Commons --- Data, Nature, and Shared Ground",
+      "source_domain_at_index_refresh": "SHARING",
+      "domain_override": {
+        "authority": "Author message, 17 November 2026, following index refresh",
+        "reason": "Approved Volume III moniker update; this supersedes the older label still in the incoming source file."
+      }
     },
     {
       "key": "27-i",
@@ -1025,8 +1030,13 @@
       "source_sha256": "3bd603588f27568bb487fecb64ffb26495d9cede6f80cdbd605a2d4bc49a0f1c",
       "title": "The Reimagined Workshop",
       "subtitle": "Making as Stewardship",
-      "domain": "MAKING",
-      "index_heading": "## Chapter 28. The Reimagined Workshop --- Making as Stewardship"
+      "domain": "CRAFT",
+      "index_heading": "## Chapter 28. The Reimagined Workshop --- Making as Stewardship",
+      "source_domain_at_index_refresh": "MAKING",
+      "domain_override": {
+        "authority": "Author message, 17 November 2026, following index refresh",
+        "reason": "Approved Volume III moniker update; this supersedes the older label still in the incoming source file."
+      }
     },
     {
       "key": "28-i",
@@ -1041,8 +1051,13 @@
       "source_sha256": "2a6db038873eebbd4e3f2fcdac5dc52dd289cf54e8b102e63934c651149541e1",
       "title": "Neufacturing",
       "subtitle": "Biofabrication and Architectures of Regenerative Matter",
-      "domain": "MANUFACTURING",
-      "index_heading": "**Interlude 28. Neufacturing --- Biofabrication and Architectures of Regenerative Matter**"
+      "domain": "FABRICATION",
+      "index_heading": "**Interlude 28. Neufacturing --- Biofabrication and Architectures of Regenerative Matter**",
+      "source_domain_at_index_refresh": "MANUFACTURING",
+      "domain_override": {
+        "authority": "Author message, 17 November 2026, following index refresh",
+        "reason": "Approved Volume III moniker update; this supersedes the older label still in the incoming source file."
+      }
     },
     {
       "key": "29-c",
@@ -1073,8 +1088,13 @@
       "source_sha256": "47b632598d524dbee09013490019456b953f9dc14a26e5e564c442fc23ee2481",
       "title": "Civic Meshes",
       "subtitle": "Identity, Federation, and Protocol Governance",
-      "domain": "GOVERNANCE",
-      "index_heading": "**Interlude 29. Civic Meshes --- Identity, Federation, and Protocol Governance**"
+      "domain": "FEDERATION",
+      "index_heading": "**Interlude 29. Civic Meshes --- Identity, Federation, and Protocol Governance**",
+      "source_domain_at_index_refresh": "GOVERNANCE",
+      "domain_override": {
+        "authority": "Author message, 17 November 2026, following index refresh",
+        "reason": "Approved Volume III moniker update; this supersedes the older label still in the incoming source file."
+      }
     },
     {
       "key": "30-c",
@@ -1169,8 +1189,13 @@
       "source_sha256": "23216576f7c6658abbec02e32826bb0c50d85baef104a29f40842e8ea331fe66",
       "title": "Encoding the Eternal",
       "subtitle": "Semantic Memory and Cultural Continuity",
-      "domain": "LIFECYCLE",
-      "index_heading": "**Interlude 32. Encoding the Eternal --- Semantic Memory and Cultural Continuity**"
+      "domain": "MEMORY",
+      "index_heading": "**Interlude 32. Encoding the Eternal --- Semantic Memory and Cultural Continuity**",
+      "source_domain_at_index_refresh": "LIFECYCLE",
+      "domain_override": {
+        "authority": "Author message, 17 November 2026, following index refresh",
+        "reason": "Approved Volume III moniker update; this supersedes the older label still in the incoming source file."
+      }
     },
     {
       "key": "33-c",
@@ -1230,5 +1255,22 @@
       "path": "/Users/samseatt/projects/book-poma/work/handoffs/2026-11-06-volume-iii-comprehensive-claude-handoff.md",
       "sha256": "291ade0af58d1e87ac94538350cc7c5b9cc693c80a57fb2f4540f48468976e02"
     }
-  ]
+  ],
+  "author_moniker_confirmation": {
+    "date": "2026-11-17",
+    "approved": {
+      "23-c": "RENEWAL",
+      "23-i": "COORDINATION",
+      "24-i": "DELEGATION",
+      "26-i": "KNOWLEDGE",
+      "27-c": "COMMONWEALTH",
+      "27-i": "CUSTODY",
+      "28-c": "CRAFT",
+      "28-i": "FABRICATION",
+      "29-i": "FEDERATION",
+      "32-c": "CONTINUITY",
+      "32-i": "MEMORY"
+    },
+    "scope": "Current-plan index; carry these labels into future unit merges. Incoming sources remain read-only and pending units are not adopted here."
+  }
 }

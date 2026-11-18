@@ -95,3 +95,23 @@ These are updates to the index from the selected source headings, not new editor
 ## Validation
 
 The accompanying `validation.json` records entry/order/title checks, unchanged incoming-source and canonical-unit hashes, manifest alignment and the standard manuscript checker. No scientific reference audit, artwork change, Quarto build, publication or external handoff was requested or performed. The index's active-source hash alone is refreshed in the manifest; pending units remain canonical at their existing paths and hashes.
+
+## Author follow-up — Volume III monikers, 17 November 2026
+
+The author supplied the following final labels after the index refresh. Five differ from the currently available Claude exports: Chapter 27 COMMONWEALTH, Chapter 28 CRAFT, Interlude 28 FABRICATION, Interlude 29 FEDERATION and Interlude 32 MEMORY. The other six were already correct in the index. FEDERATION removes the duplicate with Interlude 19's GOVERNANCE. LEARNING, VALUES, VALUE, REALITY, SIMULATION and all other labels remain unchanged.
+
+| Unit | Approved moniker |
+| --- | --- |
+| Chapter 23 | RENEWAL |
+| Interlude 23 | COORDINATION |
+| Interlude 24 | DELEGATION |
+| Interlude 26 | KNOWLEDGE |
+| Chapter 27 | COMMONWEALTH |
+| Interlude 27 | CUSTODY |
+| Chapter 28 | CRAFT |
+| Interlude 28 | FABRICATION |
+| Interlude 29 | FEDERATION |
+| Chapter 32 | CONTINUITY |
+| Interlude 32 | MEMORY |
+
+These explicit author choices override older source headings for index purposes and must survive subsequent manuscript integrations. No pending unit body or heading was adopted in this follow-up. The source audit retains the five original source labels alongside their author overrides; its source hashes continue to identify the unchanged files. The preceding change tables document the initial refresh, before this follow-up.

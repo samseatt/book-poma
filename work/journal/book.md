@@ -471,3 +471,23 @@ Applied to Volume I rungs 1–6: Chapter 1's existing descent stays; five chapte
 **17 November 2026 — author-requested index reconciliation completed.** The front-matter descriptive index now follows the latest intended book across all 80 units, retaining all three chapter/interlude titles. Already merged units use canonical text, including subsequent author/editor changes. For units still awaiting adoption, Fable supersedes Claude wherever it supplies the unit; the author specifically confirms its later Volume II physics and biology work. Claude supplies the remaining incoming drafts. The handoffs support context but do not override newer unit headings or scope.
 
 The index reflects these pending drafts without adopting their bodies or changing their canonical source status. Volume II's mechanisms/machinery scopes, the V1 AI preparation, and V3's reconciled design/build and project relationships are now described consistently. The older work index is explicitly superseded as a current guide. See [the update notes](../front-matter-drafting/index-refresh-2026-11-17/UPDATE_NOTES.md) and source audit for title changes, selection and hashes. Numbering, placement, prose outside the index and artwork remain unchanged. No publishing run or communication to another session.
+
+## B-058 — Author-approved Volume III monikers
+
+**17 November 2026 — confirmed after the index refresh.** Preserve these labels in the index and in forthcoming Volume III integrations, even where the current Claude export still carries an older label:
+
+| Unit | Approved moniker |
+| --- | --- |
+| Chapter 23 | RENEWAL |
+| Interlude 23 | COORDINATION |
+| Interlude 24 | DELEGATION |
+| Interlude 26 | KNOWLEDGE |
+| Chapter 27 | COMMONWEALTH |
+| Interlude 27 | CUSTODY |
+| Chapter 28 | CRAFT |
+| Interlude 28 | FABRICATION |
+| Interlude 29 | FEDERATION |
+| Chapter 32 | CONTINUITY |
+| Interlude 32 | MEMORY |
+
+FEDERATION distinguishes Interlude 29 from Interlude 19's GOVERNANCE. LEARNING, VALUES, VALUE, REALITY, SIMULATION and all other monikers are unchanged. Five index labels required correction; the remaining six were already aligned. This follow-up updates the index and its provenance records only; the pending Volume III manuscripts retain their existing adoption status. See [the refresh follow-up](../front-matter-drafting/index-refresh-2026-11-17/UPDATE_NOTES.md).

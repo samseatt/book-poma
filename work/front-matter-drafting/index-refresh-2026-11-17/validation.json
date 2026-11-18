@@ -5,13 +5,12 @@
   "chapter_count": 36,
   "interlude_count": 36,
   "unit_order_matches_audit": true,
-  "chapter_interlude_titles_and_domains_match_selected_sources": true,
   "selected_source_hashes_unchanged": true,
   "canonical_unit_hashes_unchanged": true,
   "source_scope": "Index and editorial records only; no pending unit adopted.",
   "standard_checker": {
     "path": "/Users/samseatt/projects/book-poma/manuscripts/front-matter/index.md",
-    "sha256": "43b942682c9129721a5a321e89cb385934199b193e2d4444e2a874bbe519eed3",
+    "sha256": "10788982021263cbf2506837ad24b15b351be37418a4582e6825037755171d49",
     "defined_notes": 0,
     "note_references": 0,
     "parsed_notes": 0,
@@ -21,5 +20,34 @@
     "warnings": [],
     "errors": [],
     "passed": true
-  }
+  },
+  "chapter_interlude_titles_and_domains_match_sources_or_recorded_author_overrides": true,
+  "author_moniker_confirmation_count": 11,
+  "author_moniker_changes_applied": [
+    [
+      "27-c",
+      "SHARING",
+      "COMMONWEALTH"
+    ],
+    [
+      "28-c",
+      "MAKING",
+      "CRAFT"
+    ],
+    [
+      "28-i",
+      "MANUFACTURING",
+      "FABRICATION"
+    ],
+    [
+      "29-i",
+      "GOVERNANCE",
+      "FEDERATION"
+    ],
+    [
+      "32-i",
+      "LIFECYCLE",
+      "MEMORY"
+    ]
+  ]
 }
