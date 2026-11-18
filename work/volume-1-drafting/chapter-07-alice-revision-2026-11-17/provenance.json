@@ -1,13 +1,14 @@
 {
   "incoming_source": "/Users/samseatt/projects/book_poma/sam/claude/fable/chapter-7.md",
   "incoming_sha256": "b2a189ce34b0b1c93b566ef47e545cec294b9ab2205a97a03d3fa11a51f0ee2c",
-  "working_draft_sha256": "79a532f36fd4f1fadc68e2e7be8235e62684c5c926586034fdf70f540311979f",
+  "working_draft_sha256": "f35653b6ae89371814104fb0ca6e6cf1592fa2f614cb6a487cf9c5774ed7dded",
   "counts": {
     "alice_before": 1592,
     "alice_after": 961,
     "whole_chapter_before": 9922,
-    "whole_chapter_after": 10245
+    "whole_chapter_after": 10278
   },
   "scope": "Focused Alice and supporting-main-text revision; full merge pending",
-  "canonical_sha256_at_start": "be2f11e0413006b962c373390cacfadc8b1b8b327001d96ddff9038187b24a36"
+  "canonical_sha256_at_start": "be2f11e0413006b962c373390cacfadc8b1b8b327001d96ddff9038187b24a36",
+  "follow_up": "Author-approved coarse-grained-memory formulation and edible-grain callback, 17 November 2026; Alice unchanged."
 }

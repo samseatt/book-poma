@@ -1,6 +1,6 @@
 {
   "source_sha256_unchanged": "b2a189ce34b0b1c93b566ef47e545cec294b9ab2205a97a03d3fa11a51f0ee2c",
-  "draft_sha256": "79a532f36fd4f1fadc68e2e7be8235e62684c5c926586034fdf70f540311979f",
+  "draft_sha256": "f35653b6ae89371814104fb0ca6e6cf1592fa2f614cb6a487cf9c5774ed7dded",
   "defined_notes": 69,
   "note_references": 71,
   "parsed_notes": 71,
@@ -12,5 +12,6 @@
   "display_equations": 1,
   "original_comments_retained": 17,
   "errors": [],
-  "passed": true
+  "passed": true,
+  "coarse_graining_follow_up": "Pandoc parsing and note counts passed; Alice, original source and canonical manuscript unchanged."
 }

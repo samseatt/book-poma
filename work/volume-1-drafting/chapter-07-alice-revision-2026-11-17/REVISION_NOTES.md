@@ -30,4 +30,8 @@ The two supplied figures are included locally so this reading copy resolves its 
 
 ## Reading length
 
-Alice: **1,592 → 961 words**, excluding HTML comments. The whole file is **10,245 words** including footnotes, compared with 9,922; moving the foundations out of Alice preserves their teaching value rather than deleting them.
+Alice: **1,592 → 961 words**, excluding HTML comments. The whole file is **10,278 words** including footnotes, compared with 9,922; moving the foundations out of Alice preserves their teaching value rather than deleting them.
+
+## Author follow-up: coarse-grained memory
+
+Added the author's explicit formulation to **Possibility, Promised**, beside the limited-memory account: a steep dimensionality reduction retains an amount that can be saved, combined and spent across domains. A brief parenthesis recalls the edible grain in the temple ledgers. This describes why claims are readily combined; it does not assert that dimensionality reduction alone causes concentration or domination. Alice remains unchanged at 961 words. The revised full chapter is ready for Fable's prose pass before the later canonical merge; original sources and canon are untouched.
