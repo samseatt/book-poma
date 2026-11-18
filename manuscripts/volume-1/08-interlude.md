@@ -4,9 +4,9 @@ INTERLUDE 8
 
 # The Borderless Machine
 
-*Decentralization, Blockchain, and Digital Borders*
+*Frameworks, Open Source and the Constitutions of Code*
 
-*DECENTRALIZATION*
+*FRAMEWORK*
 
 Toronto had a way of reminding me that capitalism doesn't sleep --- it simply changes outfits. By day I wrote code for trading systems: software that moved money so quickly it often outran ethics, pausing only long enough to adjust its tie. By night I lived across University Avenue, where traders loosened those same ties, ordered pitchers, and recited P&L numbers like slam poetry.
 

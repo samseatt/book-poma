@@ -6,7 +6,7 @@ CHAPTER 8
 
 *Borders, Betrayals, and the Monster of 9/11*
 
-*POLITICS*
+*NATION*
 
 > "Patriotism is supporting your country all the time, and your government when it deserves it." --- **Mark Twain**
 

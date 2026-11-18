@@ -1,0 +1,532 @@
+{
+  "date": "2026-11-18",
+  "scope": "All three header levels of the Phi pair and numbered chapters/interludes 1–8; title-only reconciliation.",
+  "result": "16 units already matched. Three header values corrected in the two rung-8 units. All 54 title values now match the index and current Fable sources.",
+  "adoption_status": "Phi and rungs 1–7 have been merged. Rung 8 bodies remain the older canonical drafts; changing their headings does not adopt the pending Fable revisions.",
+  "units": [
+    {
+      "unit_id": "v1-phi-chapter",
+      "path": "manuscripts/volume-1/phi-chapter.md",
+      "before_sha256": "ccdcb62f913c894c950b646963961474b9eb55cbff75a48a715f74d733950078",
+      "canonical_before": [
+        "The Archer's Compass",
+        "The Unprovable Beginning",
+        "ORIENTATION"
+      ],
+      "expected": [
+        "The Archer's Compass",
+        "The Unprovable Beginning",
+        "ORIENTATION"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-chapter.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The Archer's Compass",
+        "The Unprovable Beginning",
+        "ORIENTATION"
+      ],
+      "after_sha256": "ccdcb62f913c894c950b646963961474b9eb55cbff75a48a715f74d733950078",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-chapter.md": "566da36f549909d95d06f02332beed8cb58e81455f3c1866c38d19ecca41c515"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-phi-interlude",
+      "path": "manuscripts/volume-1/phi-interlude.md",
+      "before_sha256": "ad5bc5c9c441fe22a7a59935ac17ff2312b54959309b906bbf4a3a80f139df86",
+      "canonical_before": [
+        "The Edges of Reason",
+        "From Symbols to the Silicon Mirror",
+        "INQUIRY"
+      ],
+      "expected": [
+        "The Edges of Reason",
+        "From Symbols to the Silicon Mirror",
+        "INQUIRY"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-interlude.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The Edges of Reason",
+        "From Symbols to the Silicon Mirror",
+        "INQUIRY"
+      ],
+      "after_sha256": "ad5bc5c9c441fe22a7a59935ac17ff2312b54959309b906bbf4a3a80f139df86",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/phi-interlude.md": "4c1acb220ca243944a3a22af7760cf00356f17cca52290537e8bb54ca392d77f"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-1-chapter",
+      "path": "manuscripts/volume-1/01-chapter.md",
+      "before_sha256": "1391bd898dc98a842e4617ab18e6cf2489ae2011ace4e27b542af10018756814",
+      "canonical_before": [
+        "The First Horizon",
+        "The Monster of Existence",
+        "PHYSICS"
+      ],
+      "expected": [
+        "The First Horizon",
+        "The Monster of Existence",
+        "PHYSICS"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/01-chapter.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The First Horizon",
+        "The Monster of Existence",
+        "PHYSICS"
+      ],
+      "after_sha256": "1391bd898dc98a842e4617ab18e6cf2489ae2011ace4e27b542af10018756814",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/01-chapter.md": "6006c48f2f2476e29b794768f19856d6d0f13ce559a65debba855408916dd9f4"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-1-interlude",
+      "path": "manuscripts/volume-1/01-interlude.md",
+      "before_sha256": "2a3d87a49e1685154328b55ceea70d427f4d04f8c453d2f0c9b96905927a5044",
+      "canonical_before": [
+        "Solid State Sparks",
+        "The Pocket Universe",
+        "MATERIAL"
+      ],
+      "expected": [
+        "Solid State Sparks",
+        "The Pocket Universe",
+        "MATERIAL"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/01-interlude.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "Solid State Sparks",
+        "The Pocket Universe",
+        "MATERIAL"
+      ],
+      "after_sha256": "2a3d87a49e1685154328b55ceea70d427f4d04f8c453d2f0c9b96905927a5044",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/01-interlude.md": "081d2b2f6bb559f0d03a1d4f89cd56a249320f49d375e911559f99d6f784f598"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-2-chapter",
+      "path": "manuscripts/volume-1/02-chapter.md",
+      "before_sha256": "80e241d6ae72ac00dc15e3be28718eb110e3aab619401c3a424493b3c61da51f",
+      "canonical_before": [
+        "The Inheritance of Life",
+        "The Monster of Becoming",
+        "BIOLOGY"
+      ],
+      "expected": [
+        "The Inheritance of Life",
+        "The Monster of Becoming",
+        "BIOLOGY"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/02-chapter.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The Inheritance of Life",
+        "The Monster of Becoming",
+        "BIOLOGY"
+      ],
+      "after_sha256": "80e241d6ae72ac00dc15e3be28718eb110e3aab619401c3a424493b3c61da51f",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/02-chapter.md": "b73df87c2d61a84ecb3e5506dff9b447ea5ab33da8b3544fb3d901b894ee8260"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-2-interlude",
+      "path": "manuscripts/volume-1/02-interlude.md",
+      "before_sha256": "28812193a7f53b958d65e3c0d91bf922c6dd7acddeb7cc96c894c64e842dba0c",
+      "canonical_before": [
+        "Data Fundamentals",
+        "The Language of Reality",
+        "DATA"
+      ],
+      "expected": [
+        "Data Fundamentals",
+        "The Language of Reality",
+        "DATA"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/02-interlude.md",
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-2.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "Data Fundamentals",
+        "The Language of Reality",
+        "DATA"
+      ],
+      "after_sha256": "28812193a7f53b958d65e3c0d91bf922c6dd7acddeb7cc96c894c64e842dba0c",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/02-interlude.md": "c8f83f31b6f99a251bc53d474e218b8da184ad589b4b8cd485512141a892e871",
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-2.md": "28c9696e386f91911dd749bad0bcdefad7d4b5867136bfc27c23a0c33bfd62a7"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-3-chapter",
+      "path": "manuscripts/volume-1/03-chapter.md",
+      "before_sha256": "d49474e6cab59b0ff291420f51ea2135e2505e395bdef21b4fa2db366dbaa911",
+      "canonical_before": [
+        "The Promethean Bargain",
+        "The Brain as Creation's Engine",
+        "BRAIN"
+      ],
+      "expected": [
+        "The Promethean Bargain",
+        "The Brain as Creation's Engine",
+        "BRAIN"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/03-chapter.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The Promethean Bargain",
+        "The Brain as Creation's Engine",
+        "BRAIN"
+      ],
+      "after_sha256": "d49474e6cab59b0ff291420f51ea2135e2505e395bdef21b4fa2db366dbaa911",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/03-chapter.md": "c82a6a6b0984a85633bcb709af18dc2b53d259df28e9ae5d1e823e87c8bac658"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-3-interlude",
+      "path": "manuscripts/volume-1/03-interlude.md",
+      "before_sha256": "c93bfac6446c4a2a0606d29588c43c7a63beb5a2d370d3e4cdc1a44340c87639",
+      "canonical_before": [
+        "Silicon Minds",
+        "The Art of Computer Architecture",
+        "HARDWARE"
+      ],
+      "expected": [
+        "Silicon Minds",
+        "The Art of Computer Architecture",
+        "HARDWARE"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/03-interlude.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "Silicon Minds",
+        "The Art of Computer Architecture",
+        "HARDWARE"
+      ],
+      "after_sha256": "c93bfac6446c4a2a0606d29588c43c7a63beb5a2d370d3e4cdc1a44340c87639",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/03-interlude.md": "304ccb37178401cfcbdec2e31a94914b7caae48fb0ca6b8c84b6753116f5885f"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-4-chapter",
+      "path": "manuscripts/volume-1/04-chapter.md",
+      "before_sha256": "60383d9044732c6e080dec68d9c6cf320f10847f23e7336158cea022d2fd9234",
+      "canonical_before": [
+        "The Monster Within",
+        "Psychology, Morality, and the Dance of Free Will",
+        "PERSON"
+      ],
+      "expected": [
+        "The Monster Within",
+        "Psychology, Morality, and the Dance of Free Will",
+        "PERSON"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/04-chapter.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The Monster Within",
+        "Psychology, Morality, and the Dance of Free Will",
+        "PERSON"
+      ],
+      "after_sha256": "60383d9044732c6e080dec68d9c6cf320f10847f23e7336158cea022d2fd9234",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/04-chapter.md": "605d9b8adfaba2c388b1bcbb4fbe54ecf965adf728cd2e3254ba1236d1e41d0f"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-4-interlude",
+      "path": "manuscripts/volume-1/04-interlude.md",
+      "before_sha256": "218c33a45a2913864c509510345bc17ff82545f222ed06e2b0d86e2c2d558dcd",
+      "canonical_before": [
+        "Soft Logic",
+        "The Art of Software",
+        "SOFTWARE"
+      ],
+      "expected": [
+        "Soft Logic",
+        "The Art of Software",
+        "SOFTWARE"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/04-interlude.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "Soft Logic",
+        "The Art of Software",
+        "SOFTWARE"
+      ],
+      "after_sha256": "218c33a45a2913864c509510345bc17ff82545f222ed06e2b0d86e2c2d558dcd",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/04-interlude.md": "25bb2c65ef6be7ebf50f826bae7aaba4499dba90cb327316939fb0df7ae88a4d"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-5-chapter",
+      "path": "manuscripts/volume-1/05-chapter.md",
+      "before_sha256": "dd4152226c2fef54300ecc373b66e49dc77629a96bfff14df554f341d238c311",
+      "canonical_before": [
+        "The Burning City",
+        "Injustice, Rage, and the Monster We Build Together",
+        "SOCIETY"
+      ],
+      "expected": [
+        "The Burning City",
+        "Injustice, Rage, and the Monster We Build Together",
+        "SOCIETY"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/05-chapter.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The Burning City",
+        "Injustice, Rage, and the Monster We Build Together",
+        "SOCIETY"
+      ],
+      "after_sha256": "dd4152226c2fef54300ecc373b66e49dc77629a96bfff14df554f341d238c311",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/05-chapter.md": "4369f6000a6372cfc289a4641bbe1cb49fa9c03d14f3d193cdbb7e3a170e0292"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-5-interlude",
+      "path": "manuscripts/volume-1/05-interlude.md",
+      "before_sha256": "ad4769b671d1ea629eeefb02ff4abbe95f349562c9fa2c058328ad006962d3cd",
+      "canonical_before": [
+        "Connected Currents",
+        "Computer Networks and Distributed Computing",
+        "NETWORK"
+      ],
+      "expected": [
+        "Connected Currents",
+        "Computer Networks and Distributed Computing",
+        "NETWORK"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-5.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "Connected Currents",
+        "Computer Networks and Distributed Computing",
+        "NETWORK"
+      ],
+      "after_sha256": "ad4769b671d1ea629eeefb02ff4abbe95f349562c9fa2c058328ad006962d3cd",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-5.md": "80ebe9cfd899e22ce637ad65161972ab324232d1bf415cb5aa405364e06d9552"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-6-chapter",
+      "path": "manuscripts/volume-1/06-chapter.md",
+      "before_sha256": "b56d9eca11d764b23c80f70bc4ab03fcec2c672b2830e156b3e3a4fd84ff015e",
+      "canonical_before": [
+        "Living on Shaking Ground",
+        "Nature's Indifference and the Illusion of Control",
+        "INDUSTRY"
+      ],
+      "expected": [
+        "Living on Shaking Ground",
+        "Nature's Indifference and the Illusion of Control",
+        "INDUSTRY"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/chapter-6.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "Living on Shaking Ground",
+        "Nature's Indifference and the Illusion of Control",
+        "INDUSTRY"
+      ],
+      "after_sha256": "b56d9eca11d764b23c80f70bc4ab03fcec2c672b2830e156b3e3a4fd84ff015e",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/chapter-6.md": "07e8ef13d39d67b00d54c9ec25cbeb48318972ae501bf9a47f58ea6f916dfc63"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-6-interlude",
+      "path": "manuscripts/volume-1/06-interlude.md",
+      "before_sha256": "6bef665011bdee6fc17c6be48d0eacad7d22b62b861d2ab97e81b662d36d8cd2",
+      "canonical_before": [
+        "Systems in Concert",
+        "Applications and the Work Machines Do",
+        "APPLICATION"
+      ],
+      "expected": [
+        "Systems in Concert",
+        "Applications and the Work Machines Do",
+        "APPLICATION"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-6.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "Systems in Concert",
+        "Applications and the Work Machines Do",
+        "APPLICATION"
+      ],
+      "after_sha256": "6bef665011bdee6fc17c6be48d0eacad7d22b62b861d2ab97e81b662d36d8cd2",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-6.md": "e5cb4c05f2203fb6c2a84dc4abb90e4c21560064061cc77c9a1fb627b02042ad"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-7-chapter",
+      "path": "manuscripts/volume-1/07-chapter.md",
+      "before_sha256": "add485ada3ff325a6bf9e63326d9ac06cb9add1ef7fd1e50cfdd860a6bdf01d9",
+      "canonical_before": [
+        "The Engine of Prosperity",
+        "Capitalism, the Dream, and the Monster at the Gates",
+        "ECONOMY"
+      ],
+      "expected": [
+        "The Engine of Prosperity",
+        "Capitalism, the Dream, and the Monster at the Gates",
+        "ECONOMY"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/07-chapter.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The Engine of Prosperity",
+        "Capitalism, the Dream, and the Monster at the Gates",
+        "ECONOMY"
+      ],
+      "after_sha256": "add485ada3ff325a6bf9e63326d9ac06cb9add1ef7fd1e50cfdd860a6bdf01d9",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/07-chapter.md": "af0fe1e55a81b511f0aff2f7bdd6e0d0a204edddedcc31d104921b07ff95ad96"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-7-interlude",
+      "path": "manuscripts/volume-1/07-interlude.md",
+      "before_sha256": "f2672b92bb1933b6708db74e3c1e7d85069b07621a19fe60c9b991b75e4fb3e2",
+      "canonical_before": [
+        "The E-conomy",
+        "How the Web Turned Code into Capital",
+        "WEB"
+      ],
+      "expected": [
+        "The E-conomy",
+        "How the Web Turned Code into Capital",
+        "WEB"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-7.md"
+      ],
+      "matches_before": true,
+      "canonical_after": [
+        "The E-conomy",
+        "How the Web Turned Code into Capital",
+        "WEB"
+      ],
+      "after_sha256": "f2672b92bb1933b6708db74e3c1e7d85069b07621a19fe60c9b991b75e4fb3e2",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-7.md": "577033d879abd60fef6f6c5da140eb4be81cdff9ef3fc5d94195c55f4a62aa69"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-8-chapter",
+      "path": "manuscripts/volume-1/08-chapter.md",
+      "before_sha256": "8326afeeb93f23c04973693e9bd52b0f562c43b0921758bc4c492419dcca704b",
+      "canonical_before": [
+        "The Broken Banner",
+        "Borders, Betrayals, and the Monster of 9/11",
+        "POLITICS"
+      ],
+      "expected": [
+        "The Broken Banner",
+        "Borders, Betrayals, and the Monster of 9/11",
+        "NATION"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/chapter-8.md"
+      ],
+      "matches_before": false,
+      "canonical_after": [
+        "The Broken Banner",
+        "Borders, Betrayals, and the Monster of 9/11",
+        "NATION"
+      ],
+      "after_sha256": "b81e72dae57927de50f56481360d200e508de325019f6b3b9280790dcd96bc1e",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/chapter-8.md": "3acd5e4e8a1bc1e65b9c303154ff19bf06aec8029cc073178a2b30d47aa6e4ae"
+      },
+      "matches_after": true
+    },
+    {
+      "unit_id": "v1-8-interlude",
+      "path": "manuscripts/volume-1/08-interlude.md",
+      "before_sha256": "5c5aa312a49312b752a96ab60f65c72b7cc86312d4e081ee716185e7f3332283",
+      "canonical_before": [
+        "The Borderless Machine",
+        "Decentralization, Blockchain, and Digital Borders",
+        "DECENTRALIZATION"
+      ],
+      "expected": [
+        "The Borderless Machine",
+        "Frameworks, Open Source and the Constitutions of Code",
+        "FRAMEWORK"
+      ],
+      "fable_sources": [
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-8.md"
+      ],
+      "matches_before": false,
+      "canonical_after": [
+        "The Borderless Machine",
+        "Frameworks, Open Source and the Constitutions of Code",
+        "FRAMEWORK"
+      ],
+      "after_sha256": "8622c5cd2bbc52c8aac56b76adce23c17e3a6530572859a771d74df92426af7e",
+      "source_sha256": {
+        "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-8.md": "ac671cbc47aa0b8c8a50fa0b6c5bcf034376cab60d2d905f827395dc86335082"
+      },
+      "matches_after": true
+    }
+  ]
+}
