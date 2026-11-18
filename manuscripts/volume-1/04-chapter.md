@@ -100,6 +100,10 @@ The trouble is that the brain's explanation of its work is another product of th
 
 That's why the loop has to stay open. Normally, survival forces it open: the brain attends to deltas, to what the world says back, the way the retina's center-surround cells compare a spot with its neighbors. But a self has to strike a balance the retina doesn't. Accept the center too quickly, and you jump to conclusions, recognizing what you expected rather than what's there. Debate the surround forever, and you never act. Every classifier, biological or machine, lives on that threshold. And the self has a further temptation, a hardener on top of self-reference: cherry-picking. A mind that checks itself against itself can also choose which evidence gets to vote, attending to what confirms and explaining away what doesn't. Psychologists call it motivated reasoning.[^v1-c4-kunda] <!-- AI draft, 2026-11-15. -->Leon Festinger had named one of its engines decades earlier: cognitive dissonance, the discomfort of holding two beliefs that don't fit, which people often relieve by changing whichever is easiest to change rather than whichever is wrong. In their famous account of a failed flood prophecy, Festinger and his colleagues reported that some members recruited harder; that account is now challenged by an archival reanalysis.[^v1-c4-festinger] An argument that asks a mind to discard a cherished belief should expect the mind to consider discarding the argument instead, a lesson the later volumes of this book will have to design around.<!-- End AI draft 2026-11-15. --> It feels like thinking. It's actually the loop quietly closing.
 
+<!-- AI draft, 2026-11-17: author-approved Carroll connection. -->
+The Queen of Hearts wants the sentence before the verdict.[^v1-c4-carroll] A self defending itself can conduct the same proceedings without raising its voice. The more interesting problem is who gets to call a witness.
+<!-- End AI draft 2026-11-17. -->
+
 <!-- AI draft, 2026-11-15. -->
 ![The loop that must stay open. In the open loop, a self-model is checked against evidence it doesn't control; in the closed loop, the world is explained away and the check is fed by the self's own account, filtered to agree. Original schematic; “open” means open to outside correction. Both drawings contain feedback.](assets/04-chapter/open-closed-loop.svg){#fig-v1-c4-loop width=95% fig-alt="Two loops side by side. Open: self-model makes a prediction, a check compares it with evidence from the world, meaning other people, failures and surprises, and the result updates the self-model. Closed: the world is explained away and blocked; the check is fed by the self-model's own account, filtered to agree, so the self-model grows firmer with every check it passes."}
 <!-- End AI draft 2026-11-15. -->
@@ -441,3 +445,6 @@ They said on television that what he had done couldn't be explained by psycholog
 <!-- End AI-assisted source and figure qualifications, 2026-11-15. -->
 
 <!-- Source audit: work/volume-1-drafting/chapter-04-fable-adoption-2026-11-15/source-audit.json; new material checked 2026-11-15, earlier evidence retained with its dates. -->
+
+<!-- Carroll source note, 2026-11-17: checked against the primary text. -->
+[^v1-c4-carroll]: Lewis Carroll, [*Alice's Adventures in Wonderland*, chapter XII, "Alice's Evidence"](https://www.cs.cmu.edu/~rgs/alice-XII.html).

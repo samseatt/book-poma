@@ -156,6 +156,10 @@ So the method survives its first trip upstairs, with one amendment. On the groun
 
 Chapter 1 said a particle isn't a marble but a ripple in a field that fills all of space. I want to try the same move one floor up, and see how far it holds.
 
+<!-- AI draft, 2026-11-17: author-approved Carroll connection. -->
+In Wonderland, Alice asks the Caterpillar whether becoming a chrysalis and then a butterfly will feel a little queer. "Not a bit," he says.[^v1-c2-carroll] The fellow demanding to know who she is has a fairly drastic change of his own coming. I want to follow what keeps unfolding through those changes.
+<!-- End AI draft 2026-11-17. -->
+
 Start with biology's own spacetime. Physics stretched space; biology stretches number and time. Its "space" is the sheer count of living things, along with the room and the resources the planet offers them; its "time" is four billion years of generations. Through that medium, DNA, with its epigenetic markings and the cellular machinery that decides what gets read, sets up ripples. The same sequence can participate in a liver cell or a neuron because its transcriptional company differs. The medium helps decide what the writing can do. A cell is one ripple. An organism is a ripple of ripples. A forest, a coral reef, a gut full of microbes is the medium itself, rippling.
 
 <!-- AI draft, 2026-11-13. -->
@@ -496,3 +500,6 @@ I had taken my first breath with no premonition of biology's rage. The world inh
 [^v1-c2-transitions]: John Maynard Smith and Eörs Szathmáry, *The Major Transitions in Evolution* (1995); Eörs Szathmáry and John Maynard Smith, [“The major evolutionary transitions”](https://doi.org/10.1038/374227a0), *Nature* 374 (1995): 227–232. Integration of formerly independent replicators recurs across many transitions, but their list also includes the genetic code, sex and language. The link to Chapter Φ’s line graph is the author’s proposal; a graph transformation alone does not supply coordinated reproduction, conflict control or a new evolutionary individual.
 
 [^v1-c2-copying-wager]: The claim about grown observers carries Chapter 1’s conjecture into biology. A short generative rule can describe a developmental process, given its starting cell and environment; that does not make an identical finished organism shorter to describe merely because it grew. Algorithmic description length also does not count the energy, time or inherited cellular machinery needed to execute the recipe. Those distinctions leave the proposed preference for coherent, continuing generative worlds to be argued, rather than deriving it from embryology alone.
+
+<!-- Carroll source note, 2026-11-17: checked against the primary text. -->
+[^v1-c2-carroll]: Lewis Carroll, [*Alice's Adventures in Wonderland*, chapter V, "Advice from a Caterpillar"](https://www.cs.cmu.edu/~rgs/alice-V.html).

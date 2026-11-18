@@ -274,6 +274,10 @@ Where gravity can overcome pressure and expansion, a small density excess draws 
 <!-- AI-assisted factual alignment, 2026-10-23 -->
 Call that proposed tendency *informational gravity*: not a new force of nature, but the way order might bend the odds around whatever can remember. My wager is that, where a pattern can recruit a continuing supply of material or energy, preserving an arrangement can help make another instance of it more likely. Memory becomes something the future can build on. A crystal left without feedstock does not grow by remembering harder. And Landauer's limit on erasure tells us that throwing information away has physical consequences under specified conditions; it does not prove that retaining information makes it spread.[^v1-i1-landauer] That further step is the one I want to investigate.
 
+<!-- AI draft, 2026-11-17: author-approved Carroll connection. -->
+Carroll's bread-and-butterfly has wings of bread and butter, a sugar head, and a dietary requirement for weak tea with cream. If it cannot find that, it dies.[^v1-i1-carroll] A wonderfully short recipe. Keeping it going is another matter.
+<!-- End AI draft 2026-11-17. -->
+
 <!-- AI draft, 2026-11-12. -->
 Chapter 1 gives me one reason to expect it. The census there said that a pattern with a short recipe turns up in more of possibility than a pattern with a long one. Copying is the shortest recipe going: *this, again*. Once an arrangement exists, each further instance costs almost nothing extra to specify, which is why a crystal's unit cell can be written on a napkin and the crystal can't be lifted by a forklift. So what I'm calling informational gravity may be the census seen from inside time: of all the ways a world could continue, the cheap ones are those that repeat what it already holds. And at the very bottom, physics has a place where this is more than my hunch. Wojciech Zurek has argued that the states we experience as objective facts are exactly the ones the environment can copy, many times over, into light and air.[^v1-i1-darwinism] If he's right, copying reaches all the way down. Later chapters will collect on that.
 <!-- End AI draft 2026-11-12. -->
@@ -369,3 +373,6 @@ Not long after those first chips started counting for other people, a cell would
 <!-- AI draft footnote, 2026-11-15. -->
 [^v1-i1-switchenergy]: Neil H. E. Weste and David Money Harris, *CMOS VLSI Design: A Circuits and Systems Perspective*, 4th ed. (Addison-Wesley, 2011), ch. 5; Harris’s accompanying [‘Power’ lecture](https://pages.hmc.edu/harris/cmosvlsi/4e/lect/lect7.pdf), pp. 5–8, derives $CV^2$ for a full charge–discharge cycle. The femtofarad/volt example is illustrative, not a specification for every gate. For the erasure bound, see Landauer (1961) and Bennett (2003), cited below: an ideal isothermal reset of one initially unknown, equally probable bit gives $k_BT\ln 2$. Switching a load and erasing information are distinct operations; their energy scales are compared here, not equated.
 <!-- End AI draft footnote 2026-11-15. -->
+
+<!-- Carroll source note, 2026-11-17: checked against the primary text. -->
+[^v1-i1-carroll]: Lewis Carroll, [*Through the Looking-Glass, and What Alice Found There*, chapter III, "Looking-Glass Insects"](https://en.wikisource.org/wiki/Through_the_Looking-Glass,_and_What_Alice_Found_There/Chapter_III).

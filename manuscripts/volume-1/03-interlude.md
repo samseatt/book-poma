@@ -162,6 +162,10 @@ Brains pay for communication too. Axons, synapses and the restoration of ion gra
 
 I had mistaken the knobs for access to the mind. It was a respectable mistake, shared by a surprising amount of engineering. Registers can disclose their contents; caches can confess their misses; branch predictors can admit their guesses, a feat no politician has managed. With the right instruments we can trace an execution. Reproducing it may also require capturing the inputs, timing and interleavings that changed it. The machine offers handles on its behavior. Handles aren't explanations, even when there are enough to fill the grand wall I had hoped to find.
 
+<!-- AI draft, 2026-11-17: author-approved Carroll connection. -->
+The White Knight keeps rain out of his box by carrying it upside down. Alice points out that the open lid lets the contents fall out.[^v1-i3-carroll] I can imagine the specification: waterproof, fully inspectable, sandwiches optional.
+<!-- End AI draft 2026-11-17. -->
+
 The hidden parts were there before neural networks. In 2018, Spectre showed how a processor could be induced to speculate down a wrong path and leak information through traces such as cache timing. Meltdown exploited a different failure: on vulnerable processors, a forbidden read could briefly influence subsequent work before the access fault took effect. Discarding the unauthorized result did not erase every physical consequence.[^v1-i3-spectre] The instruction-level account could be impeccable while the implementation gossiped underneath it. Our abstractions had omitted something that mattered.
 
 Learning adds another difficulty. Software has always ridden on hardware; the stored-program computer was built for that. But a trained network's behavior isn't specified rule by rule by its programmers. Training adjusts numbers within an architecture and objective we chose, and useful procedures can emerge from those adjustments. Researchers have traced curve-detecting circuits in vision networks and pattern-copying mechanisms called induction heads in transformers.[^v1-i3-circuits] These are computational circuits, not newly soldered wires. They offer real footholds for explanation, without turning the whole model into an open book.
@@ -291,3 +295,6 @@ It was the perfect moment to meet psychology.
 <!-- End AI draft footnotes 2026-11-15. -->
 
 <!-- Source audit: work/volume-1-drafting/interlude-03-fable-adoption-2026-11-15/source-audit.json; new sources checked 2026-11-15, earlier audits retained with their dates. -->
+
+<!-- Carroll source note, 2026-11-17: checked against the primary text. -->
+[^v1-i3-carroll]: Lewis Carroll, [*Through the Looking-Glass, and What Alice Found There*, chapter VIII, "It's My Own Invention"](https://en.wikisource.org/wiki/Through_the_Looking-Glass,_and_What_Alice_Found_There/Chapter_VIII).

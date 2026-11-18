@@ -257,6 +257,10 @@ The looking-glass goes one step further. Konrad Zuse proposed a computational un
 
 I suspect something closer to home: data, arranged with enough useful relations and coupled to a process that learns from it, can become a world the process navigates from within. There is a small, concrete foothold. A model trained only on sequences of Othello moves acquired an internal representation of board state; intervening on that representation changed its predictions.[^v1-i2-world-model] The board had not been supplied as a picture. Something about the world generating the data had become useful inside the learner.
 
+<!-- AI draft, 2026-11-17: author-approved Carroll connection. -->
+Carroll gives Alice a landscape laid out as a chessboard and offers her a place as a pawn.[^v1-i2-carroll] The Othello learner gets only the moves; the board has to take shape inside. It has found the squares without ever being shown the lawn.
+<!-- End AI draft 2026-11-17. -->
+
 That is a representation of a world. Whether there is anything it feels like to inhabit one is the further leap, and I want to leave that leap visible rather than quietly smuggle consciousness in with the data. Could enough such relations support an inside for which they constitute reality? Interlude 1 grew a universe of logic out of silicon's lattice; here another layer rides on it, a possibility space within a possibility space. I don't yet know what would turn “a model has a world-model” into “a world is present to it.”
 
 I do know the question is uncomfortably close to home. Light, pressure and the body's own signals become the felt world of a brain: pain, touch, color and the “I” that seems to be having them. The next chapter begins there, with a specimen whose documentation has not improved.
@@ -370,3 +374,6 @@ Version 1.0 of data had learned to remember. Version 2.0 was about to learn to t
 <!-- End AI draft footnotes 2026-11-15. -->
 
 <!-- Source audit: work/volume-1-drafting/interlude-02-fable-adoption-2026-11-15/source-audit.json; incoming and retained notes reconciled 2026-11-15. -->
+
+<!-- Carroll source note, 2026-11-17: checked against the primary text. -->
+[^v1-i2-carroll]: Lewis Carroll, [*Through the Looking-Glass, and What Alice Found There*, chapter II, "The Garden of Live Flowers"](https://en.wikisource.org/wiki/Through_the_Looking-Glass,_and_What_Alice_Found_There/Chapter_II).

@@ -193,6 +193,10 @@ Time is the brain's extra dimension here. It doesn't only stretch across neurons
 
 Dreams give this proposal an everyday test case. During sleep, responsiveness to the outside world changes; in ordinary REM dreaming, some executive and reality-monitoring processes are reduced, yet the brain can build an experience the dreamer takes for a world. Dreaming also occurs outside REM.[^v1-c3-dreams] The outside hasn't vanished, and the body certainly hasn't. Experience can persist while its coupling to external events is greatly altered. J. Allan Hobson described dreaming in terms of an internally generated virtual reality; Erik Hoel has proposed that its strangeness helps prevent overfitting, rather as unusual training examples can help a machine generalize.[^v1-c3-hoel] That proposed function remains a hypothesis.
 
+<!-- AI draft, 2026-11-17: author-approved Carroll connection. -->
+When Wonderland's cards fly at Alice, she wakes to her sister brushing dead leaves from her face.[^v1-c3-carroll] Carroll leaves the dream and its surroundings touching at that little seam. A leaf doesn't arrive with a queen printed on it. The brain supplies rather a lot.
+<!-- End AI draft 2026-11-17. -->
+
 The machines offer a useful comparison. Trained image-recognition networks can develop feature hierarchies, from local edges toward more complex patterns. Google's DeepDream repeatedly adjusted an input image to amplify features that a trained network detected, producing what looked like machine hallucinations.[^v1-c3-cnn] Its intermediate representations do some of the box's job: they make features reusable. That tells us something about learned representations and nothing, by itself, about whether the machine has an experience.
 
 So the inversion is this: why it feels like something may have a short answer, once you see feeling as the inside of a coupling between a complex model and its environments. How evolution built a brain complex enough for that coupling is the long, hard part. The unresolved test is whether this account can distinguish coupling that feels from the abundant, sophisticated coupling that appears unconscious. Until it can, 'the inside' names the proposed answer without yet explaining why there is one. None of this is proven, and the ingredients may not be complete. But it's the view from inside that Chapter Φ started with, turned on the brain itself.
@@ -451,3 +455,6 @@ But before the brain reappears as a person, with behavior, motives and stories, 
 [^v1-c3-spike-code]: All-or-none spike generation does not make every action-potential waveform identical or exclude analog influences on synaptic transmission. Henrik Alle and Jörg R. P. Geiger, [“Combined analog and action potential coding in hippocampal mossy fibers”](https://doi.org/10.1126/science.1119055), *Science* 311 (2006): 1290–1293, showed that subthreshold signals reaching presynaptic terminals can modulate spike-evoked transmitter release. The event/timing distinction is a useful coding description, not a complete account of the cell.
 
 <!-- Source audit: work/volume-1-drafting/chapter-03-fable-adoption-2026-11-15/source-audit.json; inherited notes retained and new sources checked 2026-11-15. -->
+
+<!-- Carroll source note, 2026-11-17: checked against the primary text. -->
+[^v1-c3-carroll]: Lewis Carroll, [*Alice's Adventures in Wonderland*, chapter XII, "Alice's Evidence"](https://www.cs.cmu.edu/~rgs/alice-XII.html).

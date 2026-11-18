@@ -112,6 +112,10 @@ Put together, they describe a civilization doing what my servo-writer did: layin
 The old irony of automation is that reliable machinery leaves its human operator least practiced when the exceptional moment finally arrives.[^v1-c6-bainbridge] My further wager is that an organization needs a way to keep its ignorance visible even while its output improves. Can it preserve encounters with its limits—through rehearsals, near misses and dissent—without turning those encounters into another reassuring score? The test would be whether it still notices a changing world, not whether it passes the exercise it wrote for itself.
 <!-- End AI-assisted integration 2026-11-17. -->
 
+<!-- AI draft, 2026-11-17: author-approved Carroll connection. -->
+The March Hare insists he used the best butter in the Hatter's watch.[^v1-c6-carroll] The watch is two days wrong, but the butter's credentials remain impeccable.
+<!-- End AI draft 2026-11-17. -->
+
 The practical response isn't to stop building. It's to build differently: to make robustness part of the structure rather than a layer on top, the way cells combine proofreading, repair and regulation to keep copying and living; to keep systems loosely coupled enough that one failure can't race through all of them; and, when something does fail, to fix the system rather than only blaming the person at the controls, which safety researchers call a just culture.[^v1-c6-dekker] None of it promises safety. It promises failures that are smaller, slower and easier to learn from. That's the most an honest engineer can offer on shaking ground.
 
 ## Building Together
@@ -294,3 +298,6 @@ And yet the oldest human answer was already underway. Within months, the fallen 
 [^v1-c6-welds]: FEMA-350, *Recommended Seismic Design Criteria for New Steel Moment-Frame Buildings* (2000), arose from the SAC research program following brittle connection fractures at Northridge; see the [NEHRP steel guidance collection](https://nehrp.gov/library/guidance_steel.htm) and [NIST’s account of pre-Northridge connections](https://www.nist.gov/programs-projects/seismic-assessment-and-retrofit-pre-northridge-earthquake-panel-zones-steel-moment).
 
 [^v1-c6-rebuild]: The [Federal Highway Administration case study of emergency recovery incentives](https://rosap.ntl.bts.gov/view/dot/39118/dot_39118_DS1.pdf) records the Santa Monica Freeway reopening in April 1994, seventy-four days ahead of the contract schedule, with an early-completion incentive paid to C. C. Myers.
+
+<!-- Carroll source note, 2026-11-17: checked against the primary text. -->
+[^v1-c6-carroll]: Lewis Carroll, [*Alice's Adventures in Wonderland*, chapter VII, "A Mad Tea-Party"](https://www.cs.cmu.edu/~rgs/alice-VII.html).

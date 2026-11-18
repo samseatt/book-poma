@@ -594,7 +594,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/01-interlude.md",
-        "sha256": "76087691591cedd9b73e328c10e68f107488b1435682e45b76927cf6aeed6a9d"
+        "sha256": "2a3d87a49e1685154328b55ceea70d427f4d04f8c453d2f0c9b96905927a5044"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 1i - Solid-State Sparks — The Birth of Computing.docx",
       "source_sha256_at_inventory": "53ed64ea6e05183c6ba12f2903e08f431fd2795b2e31166627c120ddfebb2959",
@@ -652,7 +652,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-chapter.md",
-        "sha256": "85fa7659b4f0844375964d6dceb50b925c1bd022ab9eadc900dcf6d67a1ecc8f"
+        "sha256": "80e241d6ae72ac00dc15e3be28718eb110e3aab619401c3a424493b3c61da51f"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 2c - The Inheritance of Life — The Monster of Becoming.docx",
       "source_sha256_at_inventory": "0eab23c3609a83cd4030b5b2add88ea08260f252e05f3fc2c5d575532ffb634c",
@@ -681,7 +681,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/02-interlude.md",
-        "sha256": "5067bb8a0890dd30d4d2ce3b173792c8c7b8fd4ff5438cd8e00902c3bda1fb33"
+        "sha256": "28812193a7f53b958d65e3c0d91bf922c6dd7acddeb7cc96c894c64e842dba0c"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 2i - Data Fundamentals — The Language of Reality.docx",
       "source_sha256_at_inventory": "9dd6792146381cc440949a1030b28259086c73b63d8a463721ea0714ebfc2356",
@@ -739,7 +739,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-chapter.md",
-        "sha256": "6f9e2ed343ac3a8f7081d6ff6d684b8d1abfee3a666440a31bf180bd5409170c"
+        "sha256": "d49474e6cab59b0ff291420f51ea2135e2505e395bdef21b4fa2db366dbaa911"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 3c - The Promethean Bargain — The Brain as Creation’s Engine.docx",
       "source_sha256_at_inventory": "dfd990117b8345e579fff259a1243eef5004f5d9d9fcfece72c08e4056df9def",
@@ -768,7 +768,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/03-interlude.md",
-        "sha256": "b03ac4120bb49be8b334ce224fc783cb7721526a61431ecaf9b98b307065de53"
+        "sha256": "c93bfac6446c4a2a0606d29588c43c7a63beb5a2d370d3e4cdc1a44340c87639"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 3i - Silicon Minds — The Art of Computer Architecture.docx",
       "source_sha256_at_inventory": "1d1f3a3c409a0986926158f96f9eecd77b6a9f9b489e4be38068a5453507a142",
@@ -826,7 +826,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-chapter.md",
-        "sha256": "3d11ebfd9ac12b63933b8eb8292baf734833a0305767a8b5820a1952f5f3eba9"
+        "sha256": "60383d9044732c6e080dec68d9c6cf320f10847f23e7336158cea022d2fd9234"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 4c - The Monster Within — Psychology, Morality, and the Dance of Free Will.docx",
       "source_sha256_at_inventory": "8782d7c4a9297bcc18d6cea0ae650add96dfdd4ed0c33366bfd3f419f867ec6f",
@@ -855,7 +855,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/04-interlude.md",
-        "sha256": "b0269385a0b33d6ff0b7d67478231e6c62713db07b669e8f97bcb247a7a582ad"
+        "sha256": "218c33a45a2913864c509510345bc17ff82545f222ed06e2b0d86e2c2d558dcd"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 4i - Soft Logic — The Art of Software.docx",
       "source_sha256_at_inventory": "35170878dae6592b508d68e3a3810282dd43d3253ffc977e41e87677135e1e03",
@@ -913,7 +913,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-chapter.md",
-        "sha256": "25291840e695a3623894c5b1b4ff42d513d1fb0f20f14a697ebf0325ba5ec5a8"
+        "sha256": "dd4152226c2fef54300ecc373b66e49dc77629a96bfff14df554f341d238c311"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 5c - The Burning City — Injustice, Rage, and the Monster We Build Together.docx",
       "source_sha256_at_inventory": "3a77bc1b28d28f5234b730bb07a8a184123035649039491d03aaf35a13d2cfeb",
@@ -942,7 +942,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-interlude.md",
-        "sha256": "cfd31eb685ed4385cf478048bf0640e43c005c11cade39af2d8c200036761234"
+        "sha256": "ad4769b671d1ea629eeefb02ff4abbe95f349562c9fa2c058328ad006962d3cd"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 5i - Connected Currents — Computer Networks and Distributed Compuring.docx",
       "source_sha256_at_inventory": "4c453fd3acd71bd64502099ff14a726b5db166e64ca55a36fe86f5a173c52bfa",
@@ -1000,7 +1000,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-chapter.md",
-        "sha256": "cb920dbec5014f075b1dde36af40089a63507898f69f758f790318a8b697c7d5"
+        "sha256": "b56d9eca11d764b23c80f70bc4ab03fcec2c672b2830e156b3e3a4fd84ff015e"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 6c - Living on Shaking Ground — Nature’s Indifference and the Illusion of Control.docx",
       "source_sha256_at_inventory": "b07b94250ebd0c1c0c5a2aa5a5e73c53b796c35e51f1a486959301c6f080d13f",
@@ -1029,7 +1029,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-interlude.md",
-        "sha256": "11bb2b4fce0ed27d0530b121706dc31d23edc089ada4d2c4bd53175955f313ff"
+        "sha256": "6bef665011bdee6fc17c6be48d0eacad7d22b62b861d2ab97e81b662d36d8cd2"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 6i - Systems in Concert — Computing Systems & Enterprise Software.docx",
       "source_sha256_at_inventory": "6973be2890a633b022d3a52738dfa686f04859e8cdc0e18780a4e2481a96f23a",
