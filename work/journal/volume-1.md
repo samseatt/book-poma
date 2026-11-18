@@ -507,3 +507,14 @@ Alice falls from 1,592 to 961 words excluding comments. Scoped repairs distingui
 ### V1-049 follow-up — coarse-grained memory and the grain callback
 
 **17 November 2026.** Added Sam's explicit coarse-grained-memory formulation to the working chapter's **Possibility, Promised**, with a small edible-grain callback to the temple ledgers. Retained memory as the bridge into accumulation, leaving Alice's economic-curvature inquiry unchanged. Updated the working-copy provenance and checks; clarified S028's distinction between combinable amounts and the mechanisms producing concentrated power. Ready for the author's Fable prose pass; no canonical or incoming-source edits.
+
+
+## V1-050 — Chapter 7 and Interlude 7: money’s gravity and the web’s living commons
+
+**17 November 2026; approved second-pass adoption.** Merged `fable/07-chapter.md` and `fable/interlude-7.md`, preserving all incoming comments, named notes and endings. Recovered Bill’s three axioms, Seattle/home/retirement, the domain ladder/country hinge and Corolla farewell; in the interlude, the CEO/windows/mold/window-office account, Ctrl-Alt-Delete and scripts-versus-border. Added brief care/material paragraphs. The established economic mechanisms remain before Alice; her money-gravity, time-inflation and richer-memory proposal remains bold.
+
+Moved Bob’s established web-training history into the main seam. Bob now asks whether learning can inherit commitments to sustain the commons it learns from, with the White Queen’s jam bargain, possible return of work/resources, and unresolved representation/lineage/exit questions. S028 records canonical adoption; S029 records the new offer.
+
+Sam settled the chronology: preserve the exact Uruguay Round sentence, and describe the WTO as agreed upon in the weeks after arrival, not already born. **1995 stays in the source note, not the prose.** The 1999 Seattle upheaval remains 30 November–3 December, after his mid-November Toronto move. This chronology is not a reason to alter or weaken the coincidence spine.
+
+Installed three grayscale figures in the proper volume-local asset directories. Independently regenerated the exchange simulation, corrected the next-payment pricing label and checked PageRank. Aligned 100 source notes; remaining edition-level/source-page limitations are explicit in the [adoption record](../volume-1-drafting/pair-07-fable-adoption-2026-11-17/ADOPTION_NOTES.md). The larger chapter retains substantive mechanisms and memoir; no forced survey cut or narrative polishing pass. Incoming Fable files unchanged. Canonical hashes refreshed; no publication.

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="434" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">The random surfer</title>
+<desc id="desc">Six pages, A to F, joined by links. Percentages show the share of time a random surfer spends on each page in the long run, following a random link 85 percent of the time and jumping to a random page 15 percent of the time. A has four incoming links and 41 percent. B has a single incoming link, from A, yet gets 38 percent. F has two incoming links, from minor pages C and E, and gets 7 percent. C and D, which no page links to, get only the jump share, 2.5 percent each.</desc>
+<rect width="1000" height="620" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#171717;text-anchor:middle}.title{font-size:28px;font-weight:700}.node{font-size:24px;font-weight:700}.pct{font-size:18px}.small{font-size:16px;fill:#444}.label{font-size:18px}.edge{stroke:#333;stroke-width:2.2;fill:none}</style>
+<defs><marker id="arr" viewBox="0 0 10 10" markerWidth="8" markerHeight="8" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#333"/></marker></defs>
+<text class="title" x="500" y="42">The random surfer</text>
+<path class="edge" d="M483.7,281.6 Q572.7,253.7 661.6,281.7" marker-end="url(#arr)"/>
+<path class="edge" d="M663.6,317.8 Q574.6,346.3 485.7,318.9" marker-end="url(#arr)"/>
+<path class="edge" d="M214.3,447.8 L347.8,347.0" marker-end="url(#arr)"/>
+<path class="edge" d="M220.8,478.6 L408.6,523.8" marker-end="url(#arr)"/>
+<path class="edge" d="M202.3,187.5 L341.4,262.8" marker-end="url(#arr)"/>
+<path class="edge" d="M661.9,491.1 L472.1,347.1" marker-end="url(#arr)"/>
+<path class="edge" d="M654.4,534.4 Q579.9,567.0 501.9,543.7" marker-end="url(#arr)"/>
+<path class="edge" d="M498.6,521.2 Q573.1,488.1 651.1,510.9" marker-end="url(#arr)"/>
+<circle cx="410" cy="300" r="72.0" fill="#9b9b9b" stroke="#222" stroke-width="2.2"/>
+<text class="node" x="410" y="298">A</text><text class="pct" x="410" y="322">41%</text>
+<circle cx="735" cy="300" r="69.6" fill="#9b9b9b" stroke="#222" stroke-width="2.2"/>
+<text class="node" x="735" y="298">B</text><text class="pct" x="735" y="322">38%</text>
+<circle cx="185" cy="470" r="32.8" fill="#f2f2f2" stroke="#222" stroke-width="2.2"/>
+<text class="node" x="185" y="478">C</text>
+<circle cx="170" cy="170" r="32.8" fill="#f2f2f2" stroke="#222" stroke-width="2.2"/>
+<text class="node" x="170" y="178">D</text>
+<circle cx="700" cy="520" r="43.8" fill="#d6d6d6" stroke="#222" stroke-width="2.2"/>
+<text class="node" x="700" y="518">E</text><text class="pct" x="700" y="542">9%</text>
+<circle cx="455" cy="535" r="41.7" fill="#d6d6d6" stroke="#222" stroke-width="2.2"/>
+<text class="node" x="455" y="533">F</text><text class="pct" x="455" y="557">7%</text>
+<text class="pct" x="185" y="527">2.5%</text>
+<text class="pct" x="170" y="125">2.5%</text>
+<text class="label" x="830" y="125" style="text-anchor:middle;font-weight:700">each step</text>
+<text class="small" x="830" y="150">85%: follow a random link</text>
+<text class="small" x="830" y="172">15%: jump to any page</text>
+<text class="small" x="845" y="392">B: one link in, from A</text>
+<text class="small" x="185" y="560">C, D: no links in;</text>
+<text class="small" x="185" y="580">only the jump share</text>
+<text class="small" x="455" y="602">F: two links in, from minor pages</text>
+<text class="small" x="500" y="70">percentages: long-run share of time; circle sizes illustrative</text>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "07-chapter.md": {
+    "definitions": 71,
+    "uses": 73,
+    "missing": [],
+    "unused": [],
+    "duplicates": [],
+    "incoming_ids_lost": []
+  },
+  "07-interlude.md": {
+    "definitions": 29,
+    "uses": 30,
+    "missing": [],
+    "unused": [],
+    "duplicates": [],
+    "incoming_ids_lost": []
+  }
+}

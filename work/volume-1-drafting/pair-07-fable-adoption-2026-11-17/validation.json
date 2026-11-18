@@ -1,0 +1,29 @@
+{
+  "chapter": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-chapter.md",
+    "sha256": "add485ada3ff325a6bf9e63326d9ac06cb9add1ef7fd1e50cfdd860a6bdf01d9",
+    "defined_notes": 71,
+    "note_references": 73,
+    "parsed_notes": 73,
+    "html_note_backlinks": 73,
+    "display_equations": 1,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "interlude": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-interlude.md",
+    "sha256": "f2672b92bb1933b6708db74e3c1e7d85069b07621a19fe60c9b991b75e4fb3e2",
+    "defined_notes": 29,
+    "note_references": 30,
+    "parsed_notes": 30,
+    "html_note_backlinks": 30,
+    "display_equations": 1,
+    "bookwide_note_collisions": [],
+    "warnings": [],
+    "errors": [],
+    "passed": true
+  },
+  "git_diff_check": true
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "unit": "C",
+    "kind": "C",
+    "before": "## Where the Money Gathers\n",
+    "after": "## Where the Money Gathers\n\nHere, in my Seattle days, one of my favorite coworkers, Bill, had a personal theory of everything. \"Follow the money,\" he'd say, \"and you'll find the answer.\" Politics, corporate strategy, urban planning, international diplomacy---if you traced the cash flows long enough, you'd eventually stumble over the motive.\n\nBill also liked to say, \"Two plus two is equal to five, for extremely large values of two,\" and \"shit flows downhill\" as a foundational principle of plumbing. I privately filed these as:\n\n-   business school,\n\n-   engineering school,\n\n-   and the advanced course in what always ends up flowing downhill.\n",
+    "reason": "Approved recovery: Bill’s three axioms, including the author’s original jokes",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "C",
+    "before": "## The Upheaval: The Battle of Seattle",
+    "after": "## The Castle Built by Capital\n\nSeattle became my castle. Not for the economics, but for the culture, for belonging, for the mountains and the sea, for the cloudy afternoons, for the vibrancy of downtown, for the mutual intellect of a like-minded city, for the micro-culture, for grunge, for the microbreweries, for a woman, and for that silly little thing people call a successful career.\n\nI lived on the waters of Lake Washington. I enjoyed the view by day, and slept to the soothing sound of waves under my bed by night.\n\nThis was my home; I would never leave Seattle. I had dreamed of being there for a very long time, and now I was finally there. I remember wondering where in Seattle I might move later in life, what would be a cool place to retire *near* Seattle.\n\nSo: I had my matter where it belonged (physics). I was healthy (biology). I had a brain, or at least an education (mind). I was relatively poised (psychology). I had my city (social). I was part of the system and industry (engineering/infrastructure). And I was meshed into the economic engine (economics).\n\nBut I was missing a country.\n\nI had to go and get one.\n\n## The Upheaval: The Battle of Seattle",
+    "reason": "Approved recoveries: Seattle home, intended retirement and domain-ladder/country hinge; selected original sentences",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "C",
+    "before": "In November, I left Seattle for Toronto, for reasons that belong to the next chapter. I left a city where everything I'd built was finally beginning to stand.",
+    "after": "In mid-November, I left Seattle for Toronto, for reasons that belong to the next chapter. I left a city where everything I'd built was finally beginning to stand.\n\nThe Corolla---the wise elder---refused to take part in this exodus. It continued to insist that it was \"not Dante-ready,\" this time muttered something about \"circles of economic hell,\" and left me for a high-schooler named Joel.",
+    "reason": "Author confirms mid-November departure; approved Corolla farewell, leaving the U-Haul journey to Chapter 8",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "C",
+    "before": "for reasons unexplainable to a mortal.",
+    "after": "for reasons unexplainable to a mortal. But armed with ritual protection of *Ctrl-Alt-Delete*, I somehow persevered.",
+    "reason": "Approved exact joke recovery",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "C",
+    "before": "at a telephony company up the coast. It was a true confidence builder.",
+    "after": "at a telephony company up the coast. The company's even-keeled CEO had grown up in the general orbit of Bill Gates, and the rivalry was clear: every mention of Windows came with a tone normally reserved for mold. Not to be outdone by Gates, he afforded me a spacious window office, all for myself. Like his old friend he also cherished the type of quality that can only come from a deeper contemplation and solid engineering.\n\nIt was a true confidence builder.",
+    "reason": "Approved CEO/windows/window-office and engineering-quality recovery",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "C",
+    "before": "Then it was time to move again. I crossed another border,",
+    "after": "One day I was writing scripts for machines that didn't care where I lived; the next I was packing boxes for a border that very much did.\n\nI crossed another border,",
+    "reason": "Approved exact scripts-versus-border recovery",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "in such a world, one economist showed, money could be dispensed with, since everyone could simply consult the record. Money is what we use because no such record exists.",
+    "after": "in one economic model, such a record could sustain the exchanges that money otherwise makes possible. Money stands in for some of that missing record.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "Money's sameness has a consequence no earlier floor had to face: it can pile up.",
+    "after": "Money's sameness lets claims from unlike activities pile up together.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "the richest bidders set the price for everyone else,",
+    "after": "the richest bidders can drive desirable locations beyond other people's reach,",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "a promise backed by nothing but the willingness to keep believing it.",
+    "after": "a promise whose acceptance depends on belief, institutions and the obligations settled in it.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "For most of history, people didn't believe that, so credit was scarce and economies stood still. The modern economy runs on the opposite faith,",
+    "after": "Credit is ancient, as those temple ledgers remind us; Harari's stronger point is about the modern economy's faith",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "Banks keep only a fraction of their deposits in reserve, which is why a sudden rush of withdrawals, a bank run, can bring down even a sound bank.",
+    "after": "Much of a bank's money is tied up in loans that cannot be called back when depositors want cash, which is why a sudden rush of withdrawals, a bank run, can bring down even a sound bank.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "In the 1950s, two economists proved that under certain idealized conditions such an equilibrium exists, and that it's efficient, in the sense that no one could be made better off without making someone else worse off.",
+    "after": "In the 1950s, two economists proved that under certain idealized conditions such an equilibrium exists. Related welfare theorems establish when competitive equilibria are efficient: no one could be made better off without making someone else worse off.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "in 1950 John Nash showed that every such game has at least one stable outcome, where no player can do better by changing strategy alone.",
+    "after": "in 1950 John Nash showed that every finite game has at least one equilibrium, allowing players to randomize their choices, where no player can do better by changing strategy alone.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "losses hurt roughly twice as much as equal gains please,",
+    "after": "losses can weigh more heavily than equal gains,",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "the Keynesian models said shouldn't happen.",
+    "after": "a simple, stable trade-off between inflation and unemployment could not explain.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "prices already reflect all available information, so no one can consistently beat the market, and prices are, in a sense, always right.",
+    "after": "prices reflect the information available, making it difficult to earn excess returns consistently from that information after allowing for risk and costs.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "which made distance nearly free",
+    "after": "which sharply reduced the cost of moving goods",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "which made coordination nearly free",
+    "after": "which sharply reduced the cost of coordinating them",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "A",
+    "before": "By the end of the week, the talks had collapsed and the police chief had resigned.",
+    "after": "By the end of the week, the talks had collapsed. The police chief announced his resignation shortly afterward.",
+    "reason": "Protect 30 November–3 December upheaval; resignation announcement followed the conference",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "C",
+    "before": "It's the single scale again, at the level of nations.",
+    "after": "It's the single scale again, at the level of nations.\n\n<!-- AI draft, 2026-11-17. Codex adoption; author-approved addition. -->\nThere is a stranger omission beneath that measurement. The worker arrives fed, raised, taught and, with luck, cared for when ill. Much of the work that makes paid work possible never reaches a payroll. A household can absorb costs a firm appears to have eliminated. That does not mean every kindness needs an invoice; it means the priced economy depends on relations its own accounts can scarcely see.[^v1-c7-care]\n\nNor does a reusable idea make its implementation weightless. The recipe can travel almost free; the chip fab, electricity, cooling water and waste cannot. Better recipes can reduce what each useful result costs. Whether the total burden falls also depends on how many results we demand. The economy can change its story much faster than the planet can change the conditions under which the story is lived.[^v1-c7-material]\n<!-- End AI draft 2026-11-17. -->",
+    "reason": "Approved brief recovery of unpriced care and physical substrate, with no wholesale restoration of older survey",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "Why do some economies grow and others stagnate? In 1956, a model of growth from capital and labor found that most of America's growth couldn't be explained by either. The unexplained remainder, the famous \"residual,\" was technology: better ideas.[^v1-c7-solow] A later theory explained why ideas are so powerful. Unlike a machine, an idea can be used by any number of people at once without being used up, so an economy that produces ideas can grow without limit.[^v1-c7-romer] That property, near-zero cost to copy, would be the economic engine of software and the web, and of the boom I was about to witness. <!-- AI draft, 2026-11-17. -->Ideas don't arrive politely, either. Joseph Schumpeter called capitalism's engine *creative destruction*: each new idea makes its fortune by ruining the firms built around the old one.[^v1-c7-schumpeter] Sage's spinning disks were living proof of both halves: an industry that outlasted every premature obituary, until flash memory quietly took the phones and laptops from it.<!-- End AI draft 2026-11-17. -->",
+    "after": "Why do some economies grow and others stagnate? In 1956, a model of growth from capital and labor found that most of America's growth couldn't be explained by either. The unexplained remainder, the famous \"residual,\" was technology: better ideas.[^v1-c7-solow] A later theory explained why ideas are so powerful. Unlike a machine, an idea can be used by any number of people at once without being used up, so an economy that produces ideas can grow without the same diminishing returns.[^v1-c7-romer] That property, near-zero cost to copy, would be the economic engine of software and the web, and of the boom I was about to witness. <!-- AI draft, 2026-11-17. -->Ideas don't arrive politely, either. Joseph Schumpeter called capitalism's engine *creative destruction*: each new idea makes its fortune by ruining the firms built around the old one.[^v1-c7-schumpeter] Sage's spinning disks were living proof of both halves: an industry that outlasted every premature obituary, until flash memory quietly took the phones and laptops from it.<!-- End AI draft 2026-11-17. -->",
+    "reason": "Non-rival knowledge does not establish unlimited material growth",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "for the numerical address that name belongs to. With the number in hand, it opens a connection to that machine,",
+    "after": "for an address serving that name, unless it already has one cached. With the number in hand, it opens or reuses a connection,",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "the whole performance usually takes less time than a blink.",
+    "after": "the browser can begin showing the page while the rest is still arriving.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "every request stands alone, and the server has no memory of who you are from one click to the next. That was elegant for sharing documents, and useless for selling anything, because a shopping cart needs to remember what's in it.",
+    "after": "every request stands alone; the protocol itself does not remember who you are from one click to the next. A shop must add that memory, because a cart needs to remember what's in it.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "store and send back with every later request: the cookie.",
+    "after": "store and return with later requests to that site: the cookie.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "Everything that followed, the carts, the logins, the recommendations and, eventually, the tracking, depended on it.",
+    "after": "Carts, logins, recommendations and, eventually, tracking came to rely on it. Often it carried only an identifier; the elephant's memory lived on the server.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "POST to create, PUT to replace, DELETE to remove.",
+    "after": "POST to submit, PUT to create or replace, DELETE to remove.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "so the server needn't remember anything between requests;",
+    "after": "so a server needn't remember the previous conversation to interpret the next request;",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "nearly every app on your phone is a thin face on a set of REST APIs",
+    "after": "many apps on your phone are thin faces on web APIs built around these conventions",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "made sending a card number across the open internet about as safe as reading it aloud over the phone.",
+    "after": "let a browser authenticate a server and encrypt a card number in transit.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "A search for *used Corolla Bellevue* becomes three lists, intersected,",
+    "after": "In a simple exact-word search, *used Corolla Bellevue* becomes three lists, intersected,",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "The numbers settle within a few dozen rounds, even across hundreds of millions of links.",
+    "after": "In the original experiments, the numbers settled within roughly fifty rounds across hundreds of millions of links.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "On the web, serving one more customer costs almost nothing,",
+    "after": "On the web, delivering one more copy of information can cost almost nothing (the grocery van still needs a driver),",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "if the web made coordination nearly free,",
+    "after": "if the web made some coordination much cheaper,",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "Web 2.0 was made possible by pages",
+    "after": "Web 2.0 gained much of its responsiveness from pages",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "People were proofreading a library a few seconds at a time, without being told.",
+    "after": "People were proofreading a library a few seconds at a time, often without noticing.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "Many sites now watch how a visitor moves, types and arrives,",
+    "after": "Many sites now assess signals from a visitor's interaction with them,",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "eight of the twelve root name servers, the machines at the very top of the Domain Name System's tree,",
+    "after": "eight root-server operators, responsible for servers at the very top of the Domain Name System's tree,",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "For several days, a large part of the internet's naming quietly answered to one engineer in Marina del Rey.",
+    "after": "For several days, those servers quietly took their root-zone updates from one engineer in Marina del Rey. The data itself did not change.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "D",
+    "before": "## Bob, Through the Looking-Glass: The Commons That Became a Mind\n\n*The twist, in one line: the web was written by people, for people, as a commons, and it has quietly become the raw material from which machines learn to think, which turns an old question about who owns a marketplace into a new one about who owns a mind.*\n\nThe web's early builders made their commons with small courtesies. In 1994, the web's early builders settled on a simple convention: a website could place a file called `robots.txt` at its root, telling automated crawlers which pages they were welcome to visit and which to leave alone.[^v1-i7-robots] It had no legal force. It was a gentleman's agreement, Postel's robustness principle in another form: send politely, receive generously. <!-- AI draft, 2026-11-17. -->In the last interlude's terms, it was a promise kept outside the procedure, with nothing but manners to hold it there.<!-- End AI draft 2026-11-17. --> For decades, most crawlers honored it, and the web's search engines grew up inside that etiquette, taking pages to index them and sending readers back in return.\n\nThen the web acquired a new kind of reader. Large language models, the subject of Interlude 11, learn by reading enormous amounts of human writing, and the largest source of human writing ever assembled is the web. A nonprofit called Common Crawl has archived much of the public web since 2008, many billions of pages, and archives like it supplied a large share of the text on which today's models were trained.[^v1-i7-crawl] Every forum post written to help a stranger, every product review, every personal homepage and every argument in a comment thread became, without anyone quite deciding it, part of the education of a machine. <!-- AI draft, 2026-11-17. -->So did the commons' quieter layers: the links that ranked its pages, the clicks that tuned the rankings, and the warped words and traffic lights that taught machines to read and see.<!-- End AI draft 2026-11-17. -->\n\nThat changes the bargain the commons was built on. A search engine took a page and sent readers back; a model takes the page and may answer the reader's question itself, so that the reader never visits. Many publishers have since blocked AI crawlers in their `robots.txt` files, courts are weighing what training on copyrighted text means, and the old courtesy is straining under a use its authors never imagined.[^v1-i7-optout] The deepest question isn't legal, though. The web was the largest act of shared authorship in human history, and it has become, in effect, the memory from which a new kind of mind is being built. Chapter 7 found money to be a society's memory, compressed into a single number. The web is a richer memory, of what people knew, argued, feared and joked about, and it's being compressed again, this time into the weights of a model.\n\nSo this interlude's questions return in a new form. Who owns a commons once it can be turned into a mind? Should the people whose writing taught a machine share in what the machine earns, or have a say in what it becomes? And can the web's original civics, its courtesies and its rough consensus, scale to a world where its most voracious readers are not people? Volume III will try to design for those questions. For now, it's enough to notice the shape of the story: the web began as a commons, became a marketplace, and is becoming a mind.\n\n",
+    "after": "## The Commons Becomes Training Material\n\nThe web's early builders made their commons with small courtesies. In 1994 they settled on a simple convention: a website could place a file called `robots.txt` at its root, telling automated crawlers which pages they were welcome to visit and which to leave alone.[^v1-i7-robots] The file could ask a crawler to keep out; it could not lock the door. It relied on the crawler keeping the agreement. <!-- AI draft, 2026-11-17. -->In the last interlude's terms, it was a promise kept outside the procedure, with nothing but manners to hold it there.<!-- End AI draft 2026-11-17. --> Major search engines adopted it, and the web's search engines grew up inside that etiquette, taking pages to index them and sending readers back in return.\n\nThen the web acquired a new kind of reader. Large language models, the subject of Interlude 11, learn by reading enormous amounts of human writing, and the largest source of human writing ever assembled is the web. A nonprofit called Common Crawl has archived much of the public web since 2008, many billions of pages, and archives like it supplied a large share of the text on which today's models were trained.[^v1-i7-crawl] Forum posts written to help strangers, product reviews, personal homepages and arguments in comment threads became part of the education of machines, often without their authors participating in that decision. <!-- AI draft, 2026-11-17. -->Other learning systems drew on the commons' quieter layers: the links that ranked its pages, the clicks that tuned the rankings, and the warped words and traffic lights that taught machines to read and see.<!-- End AI draft 2026-11-17. -->\n\nThat changes the bargain the commons was built on. A search engine took a page and sent readers back; a model takes the page and may answer the reader's question itself, so that the reader never visits. Many publishers have since blocked AI crawlers in their `robots.txt` files, and the old courtesy is straining under a use its authors never imagined.[^v1-i7-optout] There is a question beneath those disputes. The web became an immense act of shared authorship, and it has become, in effect, the memory from which a new kind of mind is being built. Chapter 7 found money to be a society's memory, compressed into a single number. The web is a richer memory, of what people knew, argued, feared and joked about, and it's being compressed again, this time into the weights of a model.\n\n\n<!-- AI draft, 2026-11-17. Codex adoption; author-approved addition. -->\n## Bob, Through the Looking-Glass: The Commons That Became a Mind\n\n*The twist, in one line: if a commons can be compressed into a learning system, perhaps the obligations to keep that commons alive can travel with what the system learns, even when its individual sources no longer can.*\n\nIn *Through the Looking-Glass*, the White Queen offers Alice work with jam every other day. The difficulty is that today never qualifies. The benefit is always safely yesterday's or tomorrow's.[^v1-i7-lookingglass] A living commons cannot subsist on that employment contract. The people making its next useful observation need to eat today.\n\nOwnership is one question. Continuation is another. Suppose a model becomes good enough to answer questions from a community's accumulated work. The answers may spare its readers a great deal of effort while removing the visits, income or new participants that kept the community producing answers in the first place. It can inherit a library and help close the doors. What would make the inheritance carry a duty to keep the library living?\n\nChapter 7's dollar loses the autobiography of a trade while retaining its amount. A model does a more complicated compression: many contributions alter the same parameters, and one contribution can alter many. A useful answer need not have a single sentence we can point to and call its parent. Demanding an exact ancestry for every answer may be asking the compressed thing to supply the very detail its usefulness required it to discard. Attribution methods can help; they do not turn every answer into an itemized invoice.[^v1-i7-obligations]\n\nI would try keeping a second kind of memory beside the learned one: a memory of obligations. Training could condense what a community knows without being allowed to condense away the terms of participation. A model and its descendants could carry a shared, inspectable account of the commons they draw from and the commitments attached to that use. Fine-tuning would add to the account; teaching a smaller model from a larger one would not automatically wipe it clean. The last interlude asked where promises live when procedures thaw. Here even the procedure's knowledge has been melted down.\n\nThose commitments need not all be royalties. A model serving a medical reference community might help fund its next evidence review, return discovered errors, or perform work the community chooses. A local-language archive might need transcription, storage and new speakers rather than a cheque split into microscopic pieces. The unit of return could be the activity that renews the knowledge, not a guessed price for each sentence. The participants would have to help set those terms; otherwise we have simply appointed the model's owner curator of everybody else's needs.\n\nThe wager is whether we can make learning inherit a relationship, rather than merely acquire material. Can a system become better at answering from a commons while also making that commons more capable of producing what it does not yet know? That would turn some of its apparent debt into a continuing dependence worth tending. We could test it in a small, consenting community: compare a system that only cites its sources with one whose use supplies agreed resources or work back to them, then watch whether new knowledge, correction and participation actually survive. A flattering acknowledgement is not the same outcome.\n\nThere are awkward edges worth leaving sharp. Who represents a dispersed community? How does an obligation follow a distilled model whose maker refuses to declare its parent? A registry cannot prevent someone copying weights and abandoning the account. Nor should a claim of ancestry become a hereditary toll on every future thought. The terms need limits, challenge and revision, and the people making new knowledge need a way out. These are part of the research, not administrative details to be supplied once the lovely idea has shipped.\n\nVolume III will try to design for those questions. For now, it's enough to notice the shape of the story: the web began as a commons, became a marketplace, and is becoming a mind.\n\n<!-- End AI draft 2026-11-17. -->\n\n",
+    "reason": "Author authorized novel Bob; keep established web-to-training discussion in main seam, preserve old comments and closing, add White Queen connection",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "with circle size and percentage showing the share of time",
+    "after": "with percentages showing the share of time",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "Values computed from the formula above. Original schematic.",
+    "after": "Values computed from the formula above; circle sizes are illustrative. Original schematic.",
+    "reason": "Local factual precision; author approved",
+    "disposition": "applied under 17 November author approval"
+  },
+  {
+    "unit": "C",
+    "kind": "A",
+    "before": "The World Trade Organization, born in the weeks after I arrived, was designed",
+    "after": "The World Trade Organization, agreed upon in the weeks after I arrived and launched in January 1995, was designed",
+    "reason": "Author resolved Uruguay question: December 1993 agreement, January 1995 institution; preserve 1999 upheaval",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A",
+    "before": "In 1956, a model of growth from capital and labor found that most of America's growth couldn't be explained by either. The unexplained remainder, the famous \"residual,\" was technology: better ideas.",
+    "after": "A model of growth from capital and labor appeared in 1956. Applied to American data the next year, it left much of the rise in output per worker unexplained by capital deepening. The remainder, the famous \"residual,\" was labeled technical change: better ways of producing, along with whatever else the accounting had not captured.",
+    "reason": "Separate Solow’s theoretical model from the 1957 empirical decomposition; residual is not a pure measurement of ideas",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "a burst of inflation whenever a new shipment arrived.",
+    "after": "bursts of inflation when large issues of cigarettes arrived.",
+    "reason": "Radford: money supply relative to goods, not every parcel delivery",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "By 1989, its prescriptions for developing countries had been codified as the \"Washington Consensus,\"",
+    "after": "In 1989, a set of market-oriented reforms for Latin America was named the \"Washington Consensus,\"",
+    "reason": "Williamson’s ten reforms were not a wholesale codification of Reagan/Thatcher or minimal government",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "wealth concentrates, and inheritance comes to matter more than work.",
+    "after": "inherited wealth can pull ahead of earned income.",
+    "reason": "Piketty’s r > g is a mechanism conditioned by institutions/savings; not sufficient for inevitably increasing concentration",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A",
+    "before": "from 1 percent to 42 percent over 6,000 trades per person",
+    "after": "from 1 percent to about 43 percent over 6,000 trade participations per person",
+    "reason": "Reproduced deterministic simulation; identify pair participations, not ambiguous trade count",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "Original simulation of idealized models.",
+    "after": "Original simulation of idealized models: 150,000 trade participations per person in A, 6,000 in B.",
+    "reason": "Expose different simulation durations; one pair exchange has two participations",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-keynes]: John Maynard Keynes, *The General Theory of Employment, Interest and Money* (1936), preface. The old draft's epigraph (\"Capitalism is the astounding belief that the most wickedest of men...\") is widely attributed to Keynes but has no known source in his writings.",
+    "after": "[^v1-c7-keynes]: John Maynard Keynes, [*The General Theory of Employment, Interest and Money* (1936), preface](https://people.duke.edu/~garci/cibertextos/ingles/KEYNES-JM/GENERAL-THEORY/GENERAL-THEORY.HTM). The epigraph quotes the opening clause of his final sentence.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-apec]: The first APEC Leaders' Meeting was held on Blake Island, Washington, on 20 November 1993, hosted by President Bill Clinton, following the APEC ministerial meeting in Seattle.",
+    "after": "[^v1-c7-apec]: The first APEC Leaders' Meeting was held on Blake Island, Washington, on 20 November 1993, hosted by President Bill Clinton, following the APEC ministerial meeting in Seattle. [APEC leaders’ declaration](https://www.apec.org/docs/default-source/LeadersDeclarations/1993/1993_LeadersDeclaration.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-wto]: The Uruguay Round of the General Agreement on Tariffs and Trade concluded on 15 December 1993; the agreement was signed in Marrakesh in April 1994, and the World Trade Organization came into being on 1 January 1995.",
+    "after": "[^v1-c7-wto]: The Uruguay Round of the General Agreement on Tariffs and Trade concluded on 15 December 1993; the agreement was signed in Marrakesh in April 1994, and the World Trade Organization came into being on 1 January 1995. [WTO chronology](https://www.wto.org/english/thewto_e/minist_e/min96_e/chrono.htm).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-polanyi]: Karl Polanyi, *The Great Transformation: The Political and Economic Origins of Our Time* (1944).",
+    "after": "[^v1-c7-polanyi]: Karl Polanyi, *The Great Transformation: The Political and Economic Origins of Our Time* (1944). [Chapter XI, “Man, Nature, and Productive Organization”](https://www.bresserpereira.org.br/terceiros/cursos/2019/The-Great-Transformation-Cap-11.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-piketty]: Thomas Piketty, *Capital in the Twenty-First Century* (2013; English 2014).",
+    "after": "[^v1-c7-piketty]: Thomas Piketty, *Capital in the Twenty-First Century* (2013; English 2014). [Author’s clarification (2015)](https://piketty.pse.ens.fr/files/PikettyAER2015.pdf). The inequality r > g is not, by itself, a prediction of indefinitely rising concentration.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-aristotle]: Aristotle, *Politics*, Book I.",
+    "after": "[^v1-c7-aristotle]: Aristotle, *Politics*, Book I. [Book I, especially parts VIII–X](https://classics.mit.edu/Aristotle/politics.1.one.html).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-marshall]: Alfred Marshall, *Principles of Economics* (1890), Book V, chapter 3.",
+    "after": "[^v1-c7-marshall]: Alfred Marshall, *Principles of Economics* (1890), Book V, chapter 3. [Author text, Book V](https://www.econlib.org/library/Marshall/marP.html).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-arrow]: Kenneth J. Arrow and Gérard Debreu, \"Existence of an Equilibrium for a Competitive Economy\" (1954), *Econometrica* 22(3): 265–290.",
+    "after": "[^v1-c7-arrow]: Kenneth J. Arrow and Gérard Debreu, \"Existence of an Equilibrium for a Competitive Economy\" (1954), *Econometrica* 22(3): 265–290. [Original paper](https://web.stanford.edu/class/msande311/arrow-debreu.pdf). Its introduction distinguishes equilibrium existence from the separate welfare results; efficiency does not establish fairness or realistic assumptions.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-games]: John von Neumann and Oskar Morgenstern, *Theory of Games and Economic Behavior* (1944); John F. Nash Jr., \"Equilibrium points in n-person games\" (1950), *PNAS* 36(1): 48–49.",
+    "after": "[^v1-c7-games]: John von Neumann and Oskar Morgenstern, *Theory of Games and Economic Behavior* (1944); John F. Nash Jr., \"Equilibrium points in n-person games\" (1950), *PNAS* 36(1): 48–49. [Nash’s original paper](https://doi.org/10.1073/pnas.36.1.48). Nash’s finite-game theorem allows mixed strategies and does not guarantee convergence or dynamic stability.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-coase]: R. H. Coase, \"The Nature of the Firm\" (1937), *Economica* 4(16): 386–405.",
+    "after": "[^v1-c7-coase]: R. H. Coase, \"The Nature of the Firm\" (1937), *Economica* 4(16): 386–405. [Original paper](https://pdodds.w3.uvm.edu/research/papers/others/1937/coase1937a.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-akerlof]: George A. Akerlof, \"The Market for 'Lemons': Quality Uncertainty and the Market Mechanism\" (1970), *Quarterly Journal of Economics* 84(3): 488–500.",
+    "after": "[^v1-c7-akerlof]: George A. Akerlof, \"The Market for 'Lemons': Quality Uncertainty and the Market Mechanism\" (1970), *Quarterly Journal of Economics* 84(3): 488–500. [Original paper](https://pims.math.ca/files/Akerlof1970.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-simon]: Herbert A. Simon, \"A Behavioral Model of Rational Choice\" (1955), *Quarterly Journal of Economics* 69(1): 99–118.",
+    "after": "[^v1-c7-simon]: Herbert A. Simon, \"A Behavioral Model of Rational Choice\" (1955), *Quarterly Journal of Economics* 69(1): 99–118. [Original paper](https://doi.org/10.2307/1884852).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-prospect]: Daniel Kahneman and Amos Tversky, \"Prospect Theory: An Analysis of Decision under Risk\" (1979), *Econometrica* 47(2): 263–291; Richard H. Thaler and Cass R. Sunstein, *Nudge* (2008).",
+    "after": "[^v1-c7-prospect]: Daniel Kahneman and Amos Tversky, \"Prospect Theory: An Analysis of Decision under Risk\" (1979), *Econometrica* 47(2): 263–291; Richard H. Thaler and Cass R. Sunstein, *Nudge* (2008). [1979 paper](https://www.ucl.ac.uk/anaesthesia/sites/anaesthesia/files/kahneman-tversky.pdf). The size of loss aversion depends on the task and estimation; no universal two-to-one constant is asserted.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-romer]: Paul M. Romer, \"Endogenous Technological Change\" (1990), *Journal of Political Economy* 98(5): S71–S102.",
+    "after": "[^v1-c7-romer]: Paul M. Romer, \"Endogenous Technological Change\" (1990), *Journal of Political Economy* 98(5): S71–S102. [Author’s working paper](https://www.nber.org/papers/w3210). Non-rival knowledge does not remove resource or energy constraints.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-kuznets]: Simon Kuznets, *National Income, 1929–1932*, report to the U.S. Senate (1934).",
+    "after": "[^v1-c7-kuznets]: Simon Kuznets, *National Income, 1929–1932*, report to the U.S. Senate (1934). [Original Senate report](https://fraser.stlouisfed.org/title/national-income-1929-1932-971/fulltext). See p. 7 on the distinction between national income and welfare.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-boe]: Michael McLeay, Amar Radia and Ryland Thomas, \"Money creation in the modern economy\" (2014), *Bank of England Quarterly Bulletin* Q1.",
+    "after": "[^v1-c7-boe]: Michael McLeay, Amar Radia and Ryland Thomas, \"Money creation in the modern economy\" (2014), *Bank of England Quarterly Bulletin* Q1. [Bank of England article](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-samuelson]: Paul A. Samuelson, \"The Pure Theory of Public Expenditure\" (1954), *Review of Economics and Statistics* 36(4): 387–389.",
+    "after": "[^v1-c7-samuelson]: Paul A. Samuelson, \"The Pure Theory of Public Expenditure\" (1954), *Review of Economics and Statistics* 36(4): 387–389. [Original paper](https://courses.cit.cornell.edu/econ335/out/samuelson_pure.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-stiglitz]: Joseph E. Stiglitz, Nobel Memorial Prize in Economic Sciences 2001 (shared with George Akerlof and Michael Spence); the quip appears in several of his writings, e.g., *Making Globalization Work* (2006). Verify the exact wording before print.",
+    "after": "[^v1-c7-stiglitz]: Joseph E. Stiglitz, [interview for *Frontline*, “The Warning,” 28 July 2009](https://www.pbs.org/wgbh/pages/frontline/warning/interviews/stiglitz.html), on the invisible hand being invisible because it is not there. This is Stiglitz’s polemical criticism of unconstrained-market arguments, not a theorem that decentralized coordination never works. He shared the 2001 economics Nobel with George Akerlof and Michael Spence.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-washington]: John Williamson coined \"Washington Consensus\" in 1989.",
+    "after": "[^v1-c7-washington]: John Williamson, [“A Short History of the Washington Consensus” (2004)](https://www.piie.com/sites/default/files/publications/papers/williamson0904-2.pdf), especially pp. 1–4. He coined the term in 1989 for ten reforms he judged widely supported for Latin America; the original list was narrower than the later polemical use of the phrase.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-fama]: Eugene F. Fama, \"Efficient Capital Markets: A Review of Theory and Empirical Work\" (1970), *Journal of Finance* 25(2): 383–417.",
+    "after": "[^v1-c7-fama]: Eugene F. Fama, \"Efficient Capital Markets: A Review of Theory and Empirical Work\" (1970), *Journal of Finance* 25(2): 383–417. [Fama’s own explanation](https://www.chicagobooth.edu/review/are-markets-efficient). Efficiency is relative to information and a model of risk-adjusted returns; it does not mean every price is morally right or immune to large subsequent revisions.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-shiller]: Robert J. Shiller, *Irrational Exuberance* (2000). Fama, Shiller and Lars Peter Hansen shared the 2013 Nobel Memorial Prize in Economic Sciences.",
+    "after": "[^v1-c7-shiller]: Robert J. Shiller, *Irrational Exuberance* (2000). Fama, Shiller and Lars Peter Hansen shared the 2013 Nobel Memorial Prize in Economic Sciences. [2013 Nobel announcement](https://www.nobelprize.org/uploads/2018/06/press-24.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-complexity]: W. Brian Arthur, \"Complexity and the Economy\" (1999), *Science* 284: 107–109; Eric D. Beinhocker, *The Origin of Wealth* (2006).",
+    "after": "[^v1-c7-complexity]: W. Brian Arthur, \"Complexity and the Economy\" (1999), *Science* 284: 107–109; Eric D. Beinhocker, *The Origin of Wealth* (2006). [Arthur’s original paper](https://sites.santafe.edu/~wbarthur/Papers/EconandComplex_Web.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-liquidity]: John Maynard Keynes, *The General Theory of Employment, Interest and Money* (1936), chapter 13: \"the rate of interest is the reward for parting with liquidity for a specified period\"; chapter 17 on money as a link between present and future. Reading money as portable possibility is this book's gloss. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c7-liquidity]: John Maynard Keynes, [*The General Theory* (1936), chapter 13, section II](https://mail.gutenberg.net.au/ebooks03/0300071h/chap13.html), on interest as the reward for relinquishing liquidity for a period; chapter 17 treats money as a link between present and future. Reading this as portable possibility is the author’s gloss.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-jevons]: With *n* goods and no common unit, there are *n*(*n* − 1)/2 pairwise rates (499,500 for a thousand goods); with a unit of account, *n* − 1. W. Stanley Jevons, *Money and the Mechanism of Exchange* (1875), on the \"double coincidence of wants.\" The count concerns the unit of account, not the disputed claim that barter came first. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c7-jevons]: With *n* goods and no common unit, there are *n*(*n* − 1)/2 pairwise rates (499,500 for a thousand goods); with a unit of account, *n* − 1. W. Stanley Jevons, *Money and the Mechanism of Exchange* (1875), on the \"double coincidence of wants.\" The count concerns the unit of account, not the disputed claim that barter came first. [Chapter I, “Barter”](https://www.econlib.org/library/YPDBooks/Jevons/jvnMME.html?chapter_num=2). The pair count is direct combinatorics; a common unit reduces quoted ratios without eliminating search or transaction costs.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-radford]: R. A. Radford, \"The Economic Organisation of a P.O.W. Camp,\" *Economica* 12 (1945): 189–201. On the emergence of money as a self-reinforcing convention, Carl Menger, \"On the Origin of Money,\" *Economic Journal* 2 (1892): 239–255; Nobuhiro Kiyotaki and Randall Wright, \"On Money as a Medium of Exchange,\" *Journal of Political Economy* 97 (1989): 927–954. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c7-radford]: R. A. Radford, [“The Economic Organisation of a P.O.W. Camp,” *Economica* 12 (1945): 189–201](https://courses.cit.cornell.edu/econ4260/out/radford_pow.pdf), especially the currency, price-movement and cigarette-supply passages. Inflation depended on cigarettes relative to goods, not simply on any parcel arriving. On self-reinforcing acceptance, Carl Menger, “On the Origin of Money,” *Economic Journal* 2 (1892): 239–255; Nobuhiro Kiyotaki and Randall Wright, “On Money as a Medium of Exchange,” *Journal of Political Economy* 97 (1989): 927–954.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-yakovenko]: Adrian Drăgulescu and Victor M. Yakovenko, [\"Statistical mechanics of money,\" *European Physical Journal B* 17 (2000): 723–729](https://arxiv.org/abs/cond-mat/0001432); Jean-Philippe Bouchaud and Marc Mézard, \"Wealth condensation in a simple model of economy,\" *Physica A* 282 (2000): 536–545; review in Yakovenko and J. Barkley Rosser Jr., \"Colloquium: Statistical mechanics of money, wealth, and income,\" *Reviews of Modern Physics* 81 (2009): 1703–1725. These are idealized models; they show that equal rules need not produce equal outcomes, not that real inequality is only chance. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c7-yakovenko]: Adrian Drăgulescu and Victor M. Yakovenko, [“Statistical mechanics of money,” *European Physical Journal B* 17 (2000): 723–729](https://arxiv.org/abs/cond-mat/0001432), for the exponential money model; Bruce M. Boghosian, [“The Kinetics of Wealth and the Origin of the Pareto Law,” *Physical Review E* 89 (2014): 042804](https://arxiv.org/abs/1212.6300), for yard-sale exchange. The figure independently simulates 10,000 traders starting with 100: randomly chosen ordered pairs transfer one unit if the donor can pay (A), or ten percent of the poorer holding (B). Pair order supplies an unbiased direction. A uses 750 million pair exchanges; B uses 30 million, or 6,000 participations per trader. The resulting shares are 63.05 percent below the mean, 33.106 percent held by the top tenth (A), and 42.719 percent held by the top hundred (B). No debt, production, redistribution or skill differences are modeled. Equal rules here mean symmetry between traders, not a proof of social fairness or a full account of real inequality.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-gordon]: Myron J. Gordon, \"Dividends, Earnings, and Stock Prices,\" *Review of Economics and Statistics* 41 (1959): 99–105. The formula is the sum of a geometric series of growing payments and requires *g* < *r*. The figures are illustrative; the NASDAQ's fall of about 78 percent, noted below, had many causes. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c7-gordon]: Myron J. Gordon, \"Dividends, Earnings, and Stock Prices,\" *Review of Economics and Statistics* 41 (1959): 99–105. The formula is the sum of a geometric series of growing payments and requires *g* < *r*. The figures are illustrative; the NASDAQ's fall of about 78 percent, noted below, had many causes. [Original article](https://doi.org/10.2307/1927792). The numerator is the next annual payment; the ratios in the figure are checked directly from the geometric series.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-runs]: Douglas W. Diamond and Philip H. Dybvig, \"Bank Runs, Deposit Insurance, and Liquidity,\" *Journal of Political Economy* 91 (1983): 401–419. Diamond and Dybvig shared the 2022 Nobel Memorial Prize in Economic Sciences with Ben Bernanke. Deposit insurance and a lender of last resort, described above, work by removing the run equilibrium. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c7-runs]: Douglas W. Diamond and Philip H. Dybvig, “Bank Runs, Deposit Insurance, and Liquidity,” *Journal of Political Economy* 91 (1983): 401–419; [Nobel committee’s account (2022)](https://www.nobelprize.org/uploads/2022/10/popular-economicsciencesprize2022-2.pdf). Their model explains the conflict between liquid deposits and illiquid investments. Credible deposit insurance can eliminate the run equilibrium under the model’s assumptions; lender-of-last-resort lending can address liquidity shortages, not guarantee the solvency of every bank.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "A/B",
+    "before": "[^v1-c7-wto99]: The WTO Ministerial Conference met in Seattle from 30 November to 3 December 1999. Estimates of the protest's size range from about 40,000 to more than 50,000. Mayor Paul Schell declared a civil emergency and curfew; Police Chief Norm Stamper announced his resignation shortly afterward.",
+    "after": "[^v1-c7-wto99]: The WTO Ministerial Conference met in Seattle from 30 November to 3 December 1999. Estimates of the protest's size range from about 40,000 to more than 50,000. Mayor Paul Schell declared a civil emergency and curfew; Police Chief Norm Stamper announced his resignation shortly afterward. [University of Washington WTO History Project](https://depts.washington.edu/wtohist/Protests/Repercussions.htm). The author places his move to Toronto in mid-November; this remains the subsequent upheaval, not the 1993 agreement.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-mosaic]: NCSA Mosaic, developed at the National Center for Supercomputing Applications at the University of Illinois by a team including Marc Andreessen and Eric Bina, was first released for Unix workstations in early 1993; versions for Windows and the Macintosh followed in November 1993. Earlier graphical browsers existed; Mosaic's inline images and easy installation made it the first to reach a mass audience. Andreessen and Jim Clark founded Netscape in April 1994, recruiting several members of the Mosaic team; Microsoft released Internet Explorer in August 1995.",
+    "after": "[^v1-i7-mosaic]: NCSA Mosaic, developed at the National Center for Supercomputing Applications at the University of Illinois by a team including Marc Andreessen and Eric Bina, was first released for Unix workstations in early 1993; versions for Windows and the Macintosh followed in November 1993. Earlier graphical browsers existed; Mosaic's inline images and easy installation made it the first to reach a mass audience. Andreessen and Jim Clark founded Netscape in April 1994, recruiting several members of the Mosaic team; Microsoft released Internet Explorer in August 1995. [Contemporary federal computing-program account](https://www.nitrd.gov/pubs/1996supplement/NITRD_Supplement-1996.pdf). The November 1993 cross-platform availability is separate from Mosaic’s earlier Unix release.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-js]: Brendan Eich created JavaScript at Netscape in about ten days in May 1995. On \"worse is better,\" see Interlude 6.",
+    "after": "[^v1-i7-js]: Brendan Eich created JavaScript at Netscape in about ten days in May 1995. On \"worse is better,\" see Interlude 6. [Eich’s own recollection](https://brendaneich.com/2011/06/new-javascript-engine-module-owner/). The ten days refer to the first engine prototype, not all subsequent language development.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-http]: Tim Berners-Lee proposed the World Wide Web at CERN in March 1989 and built the first web server, browser and HTML/HTTP implementation in 1990. CERN released the web's software into the public domain in April 1993.",
+    "after": "[^v1-i7-http]: Tim Berners-Lee proposed the World Wide Web at CERN in March 1989 and built the first web server, browser and HTML/HTTP implementation in 1990. CERN released the web's software into the public domain in April 1993. [CERN history](https://web30.web.cern.ch/web-history.html). The example describes the familiar TCP-based HTTP stack. HTTP/3 instead runs over QUIC; see [RFC 9114](https://www.rfc-editor.org/rfc/rfc9114.html).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-cookie]: Lou Montulli implemented cookies in Netscape Navigator in 1994; they were later standardized in RFC 2109 (1997).",
+    "after": "[^v1-i7-cookie]: Lou Montulli implemented cookies in Netscape Navigator in 1994; they were later standardized in RFC 2109 (1997). [Original specification](https://www.rfc-editor.org/rfc/rfc2109.html). A cookie often identifies server-side session state; it need not contain the cart itself.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-reputation]: eBay (founded as AuctionWeb, 1995) introduced its Feedback Forum in 1996; Amazon allowed customer reviews from its 1995 launch.",
+    "after": "[^v1-i7-reputation]: Pierre Omidyar, [“Founder’s Letter,” 26 February 1996](https://pages.ebay.com/services/forum/feedback-foundersnote.html), introduces AuctionWeb’s Feedback Forum. Amazon dates its customer reviews to its 1995 launch in [its own retrospective](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-pagerank]: Sergey Brin and Lawrence Page, \"The Anatomy of a Large-Scale Hypertextual Web Search Engine\" (1998), *Computer Networks and ISDN Systems* 30: 107–117, §2.1, which describes the \"random surfer\" and a damping factor usually set to 0.85; Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd, \"The PageRank Citation Ranking: Bringing Order to the Web,\" Stanford InfoLab technical report (1999), which reports convergence in roughly fifty iterations on a graph of about 322 million links. Google was incorporated in September 1998. The 1998 paper writes the jump term as $(1-d)$; dividing by $N$, as here, makes the ranks a probability distribution summing to one. Pages without outbound links are treated as jumping anywhere. With the jump included, the surfer's walk is a Markov chain with a unique stationary distribution, computable by power iteration. The figure's percentages are computed from the formula for its six-page graph. Search ranking has long combined PageRank with many other signals.",
+    "after": "[^v1-i7-pagerank]: Sergey Brin and Lawrence Page, \"The Anatomy of a Large-Scale Hypertextual Web Search Engine\" (1998), *Computer Networks and ISDN Systems* 30: 107–117, §2.1, which describes the \"random surfer\" and a damping factor usually set to 0.85; Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd, \"The PageRank Citation Ranking: Bringing Order to the Web,\" Stanford InfoLab technical report (1999), which reports convergence in roughly fifty iterations on a graph of about 322 million links. Google was incorporated in September 1998. The 1998 paper writes the jump term as $(1-d)$; dividing by $N$, as here, makes the ranks a probability distribution summing to one. Pages without outbound links are treated as jumping anywhere. With the jump included, the surfer's walk is a Markov chain with a unique stationary distribution, computable by power iteration. The figure's percentages are computed from the formula for its six-page graph. Search ranking has long combined PageRank with many other signals. [1998 paper](https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/). For the figure, A links to B; B to A; C to A and F; D to A; E to A and F; F to E. At damping 0.85 their stationary shares are 41.408, 37.697, 2.5, 2.5, 8.655 and 7.241 percent. Circle sizes are illustrative; percentages carry the numerical result.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-postel]: On the January 1998 root-server redirection, see, e.g., Milton L. Mueller, *Ruling the Root: Internet Governance and the Taming of Cyberspace* (2002). ICANN was incorporated in September 1998.",
+    "after": "[^v1-i7-postel]: The Internet Society’s [IANA transition timeline](https://www.internetsociety.org/ianatimeline/) dates Postel’s test to 28 January 1998. Eight operators redirected their root-zone update source to his server; the root-zone data itself was unchanged. See also Milton L. Mueller, *Ruling the Root* (2002). This did not send users’ ordinary queries through Postel’s computer. ICANN was incorporated in September 1998.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-cerf]: Jon Postel died on 16 October 1998. Vint Cerf, \"I Remember IANA,\" RFC 2468 (October 1998).",
+    "after": "[^v1-i7-cerf]: Jon Postel died on 16 October 1998. Vint Cerf, \"I Remember IANA,\" RFC 2468 (October 1998). [Cerf’s memorial](https://www.rfc-editor.org/rfc/rfc2468.html).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-robots]: Martijn Koster proposed the Robots Exclusion Protocol in 1994; it was formalized as RFC 9309 in 2022.",
+    "after": "[^v1-i7-robots]: Martijn Koster proposed the Robots Exclusion Protocol in 1994; it was formalized as RFC 9309 in 2022. [RFC 9309](https://www.rfc-editor.org/rfc/rfc9309.html). Section 1 explicitly distinguishes requested crawler behavior from access authorization.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-crawl]: Common Crawl, founded in 2007, has published regular web archives since 2008. Filtered versions of its data made up the majority of the training text for models such as GPT-3; see Tom B. Brown et al., \"Language Models are Few-Shot Learners\" (2020), arXiv:2005.14165.",
+    "after": "[^v1-i7-crawl]: Common Crawl, founded in 2007, has published regular web archives since 2008. Filtered versions of its data made up the majority of the training text for models such as GPT-3; see Tom B. Brown et al., \"Language Models are Few-Shot Learners\" (2020), arXiv:2005.14165. [GPT-3 paper](https://arxiv.org/abs/2005.14165). Table 2.2 assigns filtered Common Crawl 60 percent of sampled training tokens. [Common Crawl](https://www.commoncrawl.org/about) dates its founding to 2007 and web collection to 2008.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-optout]: On publishers blocking AI crawlers and the litigation over training data, cite current sources before print.",
+    "after": "[^v1-i7-optout]: Shayne Longpre et al., [“Consent in Crisis: The Rapid Decline of the AI Data Commons” (2024)](https://arxiv.org/abs/2407.14933), tracks changing robots.txt and terms-of-service restrictions across web domains during 2023–24. These signals of permission and refusal do not themselves resolve the legal status of a particular training use.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-xml]: Extensible Markup Language (XML) 1.0, W3C Recommendation, February 1998; SOAP was published as a W3C note in 2000.",
+    "after": "[^v1-i7-xml]: [XML 1.0, W3C Recommendation, 10 February 1998](https://www.w3.org/TR/1998/REC-xml-19980210); [SOAP 1.1, W3C Note, 8 May 2000](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/). A W3C Note is not the same publication status as a Recommendation.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-rest]: Roy Thomas Fielding, *Architectural Styles and the Design of Network-based Software Architectures*, doctoral dissertation, University of California, Irvine (2000), chapter 5. JSON was popularized by Douglas Crockford in the early 2000s and standardized as RFC 4627 (2006).",
+    "after": "[^v1-i7-rest]: Roy Thomas Fielding, [*Architectural Styles and the Design of Network-based Software Architectures* (2000), chapter 5](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm), particularly §5.1.3. Statelessness concerns request/session context, not the absence of server-held resources. HTTP method semantics are in [RFC 9110, §§9.3.3–9.3.4](https://www.rfc-editor.org/rfc/rfc9110.html): POST submits content for processing; PUT creates or replaces the target representation. JSON was popularized by Douglas Crockford and documented in informational [RFC 4627 (2006)](https://www.rfc-editor.org/rfc/rfc4627.html).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-web2]: Tim O'Reilly, \"What Is Web 2.0\" (2005); the term was popularized by the Web 2.0 Conference of 2004. Jesse James Garrett coined \"Ajax\" in \"Ajax: A New Approach to Web Applications\" (February 2005).",
+    "after": "[^v1-i7-web2]: Tim O'Reilly, \"What Is Web 2.0\" (2005); the term was popularized by the Web 2.0 Conference of 2004. Jesse James Garrett coined \"Ajax\" in \"Ajax: A New Approach to Web Applications\" (February 2005). [O’Reilly’s essay](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-web3]: Gavin Wood, a co-founder of Ethereum, coined \"Web3\" in this sense in 2014.",
+    "after": "[^v1-i7-web3]: Gavin Wood, a co-founder of Ethereum, coined \"Web3\" in this sense in 2014. [Wood’s own account and links to his 2014 proposals](https://gavwood.com/).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-ranking]: On link spam, Zoltán Gyöngyi and Hector Garcia-Molina, \"Web Spam Taxonomy,\" *Proceedings of the First International Workshop on Adversarial Information Retrieval on the Web* (AIRWeb 2005). On learning to rank from clicks, Thorsten Joachims, \"Optimizing Search Engines Using Clickthrough Data,\" *Proceedings of the 8th ACM SIGKDD Conference* (2002): 133–142; Chris Burges et al., \"Learning to Rank Using Gradient Descent,\" *Proceedings of ICML* (2005). Clicks are biased evidence: people favor top positions regardless of quality, and engines must correct for that bias.",
+    "after": "[^v1-i7-ranking]: On link spam, Zoltán Gyöngyi and Hector Garcia-Molina, \"Web Spam Taxonomy,\" *Proceedings of the First International Workshop on Adversarial Information Retrieval on the Web* (AIRWeb 2005). On learning to rank from clicks, Thorsten Joachims, \"Optimizing Search Engines Using Clickthrough Data,\" *Proceedings of the 8th ACM SIGKDD Conference* (2002): 133–142; Chris Burges et al., \"Learning to Rank Using Gradient Descent,\" *Proceedings of ICML* (2005). Clicks are biased evidence: people favor top positions regardless of quality, and engines must correct for that bias. [Joachims’s 2002 paper](https://www.cs.cornell.edu/~tj/publications/joachims_02c.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-auction]: Benjamin Edelman, Michael Ostrovsky and Michael Schwarz, \"Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords,\" *American Economic Review* 97(1) (2007): 242–259; Hal R. Varian, \"Position Auctions,\" *International Journal of Industrial Organization* 25(6) (2007): 1163–1178. The example is simplified: the winner pays $\\$2 \\times 0.01 / 0.03 \\approx \\$0.67$, the lowest price at which its bid-times-click-rate still matches the runner-up's. Real systems weight bids by broader quality scores, add reserve prices and small increments, and have changed auction rules over time. The generalized second-price auction does not in general make truthful bidding optimal.",
+    "after": "[^v1-i7-auction]: Benjamin Edelman, Michael Ostrovsky and Michael Schwarz, \"Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords,\" *American Economic Review* 97(1) (2007): 242–259; Hal R. Varian, \"Position Auctions,\" *International Journal of Industrial Organization* 25(6) (2007): 1163–1178. The example is simplified: the winner pays $\\$2 \\times 0.01 / 0.03 \\approx \\$0.67$, the lowest price at which its bid-times-click-rate still matches the runner-up's. Real systems weight bids by broader quality scores, add reserve prices and small increments, and have changed auction rules over time. The generalized second-price auction does not in general make truthful bidding optimal. [Original auction analysis](https://pubs.aeaweb.org/doi/abs/10.1257/aer.97.1.242).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-ctr]: H. Brendan McMahan et al., \"Ad Click Prediction: A View from the Trenches,\" *Proceedings of the 19th ACM SIGKDD Conference* (2013): 1222–1230, doi:10.1145/2487575.2488200; Xinran He et al., \"Practical Lessons from Predicting Clicks on Ads at Facebook,\" *Proceedings of ADKDD* (2014). \"One of the first\" is a characterization of scale and continuous retraining, not a priority claim.",
+    "after": "[^v1-i7-ctr]: H. Brendan McMahan et al., \"Ad Click Prediction: A View from the Trenches,\" *Proceedings of the 19th ACM SIGKDD Conference* (2013): 1222–1230, doi:10.1145/2487575.2488200; Xinran He et al., \"Practical Lessons from Predicting Clicks on Ads at Facebook,\" *Proceedings of ADKDD* (2014). \"One of the first\" is a characterization of scale and continuous retraining, not a priority claim. [Google authors’ 2013 paper](https://research.google/pubs/ad-click-prediction-a-view-from-the-trenches/).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-captcha]: Luis von Ahn, Manuel Blum, Nicholas J. Hopper and John Langford, \"CAPTCHA: Using Hard AI Problems for Security,\" *Advances in Cryptology: EUROCRYPT 2003*, Lecture Notes in Computer Science 2656: 294–311; Luis von Ahn et al., \"reCAPTCHA: Human-Based Character Recognition via Web Security Measures,\" *Science* 321(5895) (2008): 1465–1468, which estimates about 200 million CAPTCHAs solved daily and describes the control-word and voting scheme. Google acquired reCAPTCHA in 2009. On image challenges and machine-learning annotation, cite Google's reCAPTCHA documentation current at print. Turing's imitation game is in A. M. Turing, \"Computing Machinery and Intelligence,\" *Mind* 59 (1950): 433–460.",
+    "after": "[^v1-i7-captcha]: Luis von Ahn, Manuel Blum, Nicholas J. Hopper and John Langford, “CAPTCHA: Using Hard AI Problems for Security,” *EUROCRYPT 2003*: 294–311; Luis von Ahn et al., [“reCAPTCHA: Human-Based Character Recognition via Web Security Measures,” *Science* 321 (2008): 1465–1468](https://www.cs.cmu.edu/~biglou/reCAPTCHA_Science.pdf). The paper estimates more than 100 million daily CAPTCHAs and explains control words and repeated votes. The roughly 200 million estimate used here is reported in the [NSF’s project account](https://www.nsf.gov/impacts/captcha). Google acquired reCAPTCHA in 2009. Turing’s imitation game appears in “Computing Machinery and Intelligence,” *Mind* 59 (1950): 433–460.",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-imagenet]: Jia Deng et al., \"ImageNet: A Large-Scale Hierarchical Image Database,\" *Proceedings of IEEE CVPR* (2009): 248–255, on labeling through Amazon Mechanical Turk; Olga Russakovsky et al., \"ImageNet Large Scale Visual Recognition Challenge,\" *International Journal of Computer Vision* 115 (2015): 211–252. AlexNet won the 2012 challenge; see Interlude 3.",
+    "after": "[^v1-i7-imagenet]: Jia Deng et al., \"ImageNet: A Large-Scale Hierarchical Image Database,\" *Proceedings of IEEE CVPR* (2009): 248–255, on labeling through Amazon Mechanical Turk; Olga Russakovsky et al., \"ImageNet Large Scale Visual Recognition Challenge,\" *International Journal of Computer Vision* 115 (2015): 211–252. AlexNet won the 2012 challenge; see Interlude 3. [Authors’ 2009 presentation](https://www.image-net.org/static_files/papers/ImageNet_VSS2009.pdf).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "A/B",
+    "before": "[^v1-i7-solved]: Ian J. Goodfellow et al., \"Multi-digit Number Recognition from Street View Imagery Using Deep Convolutional Neural Networks,\" *ICLR* (2014), reporting 99.8 percent accuracy on the hardest category of reCAPTCHA's distorted text. For human performance, Elie Bursztein et al., \"How Good Are Humans at Solving CAPTCHAs? A Large Scale Evaluation,\" *IEEE Symposium on Security and Privacy* (2010). Google's reCAPTCHA v3 (2018) returns a score from 0.0 to 1.0 and leaves the response to the site; score-based checks are only one family of current bot defenses.",
+    "after": "[^v1-i7-solved]: Ian J. Goodfellow et al., \"Multi-digit Number Recognition from Street View Imagery Using Deep Convolutional Neural Networks,\" *ICLR* (2014), reporting 99.8 percent accuracy on the hardest category of reCAPTCHA's distorted text. For human performance, Elie Bursztein et al., \"How Good Are Humans at Solving CAPTCHAs? A Large Scale Evaluation,\" *IEEE Symposium on Security and Privacy* (2010). Google's reCAPTCHA v3 (2018) returns a score from 0.0 to 1.0 and leaves the response to the site; score-based checks are only one family of current bot defenses. [Goodfellow and colleagues’ paper](https://arxiv.org/abs/1312.6082). The 99.8 percent result is task-specific, not a claim that all bot defenses were solved. The score/action interface is described in [Google’s reCAPTCHA v3 documentation](https://developers.google.com/recaptcha/docs/v3).",
+    "reason": "Reference verified/aligned; preserve factual scope",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "<!-- SOURCE NOTES: from memory unless linked; verify each before print. -->",
+    "after": "<!-- SOURCE NOTES: from memory unless linked; verify each before print. -->\n<!-- SOURCE AUDIT 2026-11-17: reference and equation checks, scope, remaining locator limitations and figure data are recorded in work/volume-1-drafting/pair-07-fable-adoption-2026-11-17/SOURCE_AUDIT.md. The preceding comment records incoming provenance. -->",
+    "reason": "Preserve incoming comment and add current audit status",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "<!-- SOURCE NOTES: from memory unless linked; verify each before print. -->",
+    "after": "<!-- SOURCE NOTES: from memory unless linked; verify each before print. -->\n<!-- SOURCE AUDIT 2026-11-17: reference and equation checks, scope, remaining locator limitations and figure data are recorded in work/volume-1-drafting/pair-07-fable-adoption-2026-11-17/SOURCE_AUDIT.md. The preceding comment records incoming provenance. -->",
+    "reason": "Preserve incoming comment and add current audit status",
+    "disposition": "applied; author approved local factual repairs"
+  },
+  {
+    "unit": "C",
+    "kind": "C",
+    "before": "The World Trade Organization, agreed upon in the weeks after I arrived and launched in January 1995, was designed",
+    "after": "The World Trade Organization, agreed upon in the weeks after I arrived, was designed",
+    "reason": "Latest author instruction: no 1995 in narrative; preserve the Uruguay Round sentence exactly and put institutional chronology in source note",
+    "disposition": "applied at author request"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-harari]: Yuval Noah Harari, *Sapiens* (2011; English 2014), chapter 10.",
+    "after": "[^v1-c7-harari]: Yuval Noah Harari, *Sapiens* (2011; English 2014), chapter 10. [Author’s account of the book](https://www.ynharari.com/book/sapiens/).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-graeber]: David Graeber, *Debt: The First 5,000 Years* (2011).",
+    "after": "[^v1-c7-graeber]: David Graeber, *Debt: The First 5,000 Years* (2011). [Author’s book record and chapter list](https://davidgraeber.org/books/debt-the-first-5000-years/). See chapter 2, “The Myth of Barter.”",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-creed]: Yuval Noah Harari, *Sapiens* (2011; English 2014), chapter 16, \"The Capitalist Creed.\"",
+    "after": "[^v1-c7-creed]: Yuval Noah Harari, *Sapiens* (2011; English 2014), chapter 16, \"The Capitalist Creed.\" [Author’s account](https://www.ynharari.com/book/sapiens/).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-friedman]: Milton Friedman, *The Counter-Revolution in Monetary Theory* (1970); see also Milton Friedman and Anna J. Schwartz, *A Monetary History of the United States, 1867–1960* (1963). The Bank of England was founded in 1694; Sweden's Riksbank, founded in 1668, is older, though the Bank of England is usually treated as the model for modern central banking.",
+    "after": "[^v1-c7-friedman]: Milton Friedman, *The Counter-Revolution in Monetary Theory* (1970); see also Milton Friedman and Anna J. Schwartz, *A Monetary History of the United States, 1867–1960* (1963). The Bank of England was founded in 1694; Sweden's Riksbank, founded in 1668, is older, though the Bank of England is usually treated as the model for modern central banking. [Bank of England history](https://www.bankofengland.co.uk/about/history). The [Riksbank’s own history](https://www.riksbank.se/en-gb/about-the-riksbank/history) dates its founding to 1668.",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-pigou]: A. C. Pigou, *The Economics of Welfare* (1920), proposing what are now called Pigouvian taxes.",
+    "after": "[^v1-c7-pigou]: A. C. Pigou, *The Economics of Welfare* (1920), proposing what are now called Pigouvian taxes. [Author text on private and social net product](https://www.econlib.org/library/NPDBooks/Pigou/pgEW.html?chapter_num=15).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-marx]: Karl Marx, *Capital*, Volume I (1867).",
+    "after": "[^v1-c7-marx]: Karl Marx, *Capital*, Volume I (1867). [Volume I, chapter 9, on surplus value](https://www.marxists.org/archive/marx/works/1867-c1/ch09.htm).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-voc]: The Dutch East India Company (VOC) was chartered in 1602 and issued shares on the Amsterdam exchange.",
+    "after": "[^v1-c7-voc]: The Dutch East India Company (VOC) was chartered in 1602 and issued shares on the Amsterdam exchange. [Dutch National Archives introduction](https://www.nationaalarchief.nl/sites/default/files/afbeeldingen/toegangen/NL-HaNA_1.04.02_introduction-VOC.pdf). The VOC’s corporate and liability arrangements developed over time; they were not identical to a modern limited-liability corporation.",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-mises]: Ludwig von Mises, \"Economic Calculation in the Socialist Commonwealth\" (1920); F. A. Hayek (ed.), *Collectivist Economic Planning* (1935).",
+    "after": "[^v1-c7-mises]: Ludwig von Mises, \"Economic Calculation in the Socialist Commonwealth\" (1920); F. A. Hayek (ed.), *Collectivist Economic Planning* (1935). [Original essay in English](https://mises.org/library/book/economic-calculation-socialist-commonwealth).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-rothschild]: Emma Rothschild, \"Adam Smith and the Invisible Hand\" (1994), *American Economic Review* 84(2): 319–322; *Economic Sentiments* (2001).",
+    "after": "[^v1-c7-rothschild]: Emma Rothschild, \"Adam Smith and the Invisible Hand\" (1994), *American Economic Review* 84(2): 319–322; *Economic Sentiments* (2001). [Original article](https://www.jstor.org/stable/2117851).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-solow]: Robert M. Solow, \"A Contribution to the Theory of Economic Growth\" (1956), *Quarterly Journal of Economics* 70(1): 65–94; \"Technical Change and the Aggregate Production Function\" (1957), *Review of Economics and Statistics* 39(3): 312–320.",
+    "after": "[^v1-c7-solow]: Robert M. Solow, \"A Contribution to the Theory of Economic Growth\" (1956), *Quarterly Journal of Economics* 70(1): 65–94; \"Technical Change and the Aggregate Production Function\" (1957), *Review of Economics and Statistics* 39(3): 312–320. [1957 empirical paper](https://web.pdx.edu/~crkl/ec570/Solow_RES57.pdf). The residual captures what the specified inputs/model do not explain; it does not directly count inventions.",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-sen]: Amartya Sen, *Development as Freedom* (1999).",
+    "after": "[^v1-c7-sen]: Amartya Sen, *Development as Freedom* (1999). [Sen’s account of capabilities and choice](https://www.nobelprize.org/prizes/economic-sciences/1998/sen/biographical/).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-positional]: Fred Hirsch, *Social Limits to Growth* (1976), on positional goods, whose value depends on relative standing and whose prices rise as top incomes do. The Seattle comparison is the author's.",
+    "after": "[^v1-c7-positional]: Fred Hirsch, *Social Limits to Growth* (1976), on positional goods, whose value depends on relative standing and whose prices rise as top incomes do. The Seattle comparison is the author's. [Publisher’s account of positional scarcity](https://www.routledge.com/social-limits-to-growth/hirsch/p/book/9781041109273).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-nasdaq]: The NASDAQ Composite closed at a peak of 5,048.62 on 10 March 2000 and fell to about 1,114 by October 2002.",
+    "after": "[^v1-c7-nasdaq]: The NASDAQ Composite closed at a peak of 5,048.62 on 10 March 2000 and fell to about 1,114 by October 2002. [NASDAQ series distributed by FRED](https://fred.stlouisfed.org/data/NASDAQCOM).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-webvan]: HomeGrocer.com merged with Webvan in 2000; Webvan filed for bankruptcy in July 2001.",
+    "after": "[^v1-c7-webvan]: HomeGrocer.com merged with Webvan in 2000; Webvan filed for bankruptcy in July 2001. [Webvan’s 2000 Form 10-K](https://www.sec.gov/Archives/edgar/data/1092657/000101287001001485/0001.txt). The merger closed on 5 September 2000; contemporaneous [Seattle reporting](https://www.seattlepi.com/business/article/webvan-and-homegrocer-com-a-timeline-1059419.php) records the July 2001 shutdown and bankruptcy announcement.",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "[^v1-c7-amazon]: Jeff Bezos incorporated the company that became Amazon (initially \"Cadabra\") on 5 July 1994 and began operating from the garage of a rented house in Bellevue, Washington; the site launched in July 1995. Open 7 tells the garage's story.",
+    "after": "[^v1-c7-amazon]: Jeff Bezos incorporated the company that became Amazon (initially \"Cadabra\") on 5 July 1994 and began operating from the garage of a rented house in Bellevue, Washington; the site launched in July 1995. Open 7 tells the garage's story. [Company’s fifth-anniversary timeline](https://press.aboutamazon.com/2000/7/amazon-com-celebrates-fifth-anniversary-timeline-illustrates-milestones-and-little-known-facts-about-leading-online-retailers-first-five-years).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "[^v1-i7-java]: Sun Microsystems released Java publicly in May 1995.",
+    "after": "[^v1-i7-java]: Sun Microsystems released Java publicly in May 1995. [Oracle’s Java tutorial history](https://docs.oracle.com/cd/E19798-01/821-1770/gcrkp/index.html).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "[^v1-i7-ssl]: Netscape released SSL 2.0 in 1995; its successor, TLS, secures the web today.",
+    "after": "[^v1-i7-ssl]: Netscape released SSL 2.0 in 1995; its successor, TLS, secures the web today. [IETF’s historical/deprecation account](https://www.rfc-editor.org/rfc/rfc6176.html). SSL 2.0 is obsolete and insecure; the historical passage is not advice to deploy it.",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "[^v1-i7-banner]: The first widely recognized banner ad, for AT&T, appeared on HotWired in October 1994.",
+    "after": "[^v1-i7-banner]: The first widely recognized banner ad, for AT&T, appeared on HotWired in October 1994. [Interview with its creator, Joe McCambley (2014)](https://digiday.com/media/banner-ad-creator/). Several advertisers launched banners with HotWired; the wording does not assert an uncontested invention priority.",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "[^v1-i7-netscape]: Netscape's initial public offering on 9 August 1995 was priced at $28 a share; the stock opened at $71 and closed at about $58.",
+    "after": "[^v1-i7-netscape]: Netscape's initial public offering on 9 August 1995 was priced at $28 a share; the stock opened at $71 and closed at about $58. [Contemporary AP report, 10 August 1995](https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1995/vp950810/08100449.htm).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "[^v1-i7-semantic]: Tim Berners-Lee, James Hendler and Ora Lassila, \"The Semantic Web\" (2001), *Scientific American* 284(5): 34–43.",
+    "after": "[^v1-i7-semantic]: Tim Berners-Lee, James Hendler and Ora Lassila, \"The Semantic Web\" (2001), *Scientific American* 284(5): 34–43. [W3C’s Semantic Web bibliography](https://www.w3.org/wiki/SemanticWebFaq).",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "I",
+    "kind": "B",
+    "before": "[^v1-i7-pagerank]: Sergey Brin and Lawrence Page, \"The Anatomy of a Large-Scale Hypertextual Web Search Engine\" (1998), *Computer Networks and ISDN Systems* 30: 107–117, §2.1, which describes the \"random surfer\" and a damping factor usually set to 0.85; Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd, \"The PageRank Citation Ranking: Bringing Order to the Web,\" Stanford InfoLab technical report (1999), which reports convergence in roughly fifty iterations on a graph of about 322 million links. Google was incorporated in September 1998. The 1998 paper writes the jump term as $(1-d)$; dividing by $N$, as here, makes the ranks a probability distribution summing to one. Pages without outbound links are treated as jumping anywhere. With the jump included, the surfer's walk is a Markov chain with a unique stationary distribution, computable by power iteration. The figure's percentages are computed from the formula for its six-page graph. Search ranking has long combined PageRank with many other signals. [1998 paper](https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/). For the figure, A links to B; B to A; C to A and F; D to A; E to A and F; F to E. At damping 0.85 their stationary shares are 41.408, 37.697, 2.5, 2.5, 8.655 and 7.241 percent. Circle sizes are illustrative; percentages carry the numerical result.",
+    "after": "[^v1-i7-pagerank]: Sergey Brin and Lawrence Page, \"The Anatomy of a Large-Scale Hypertextual Web Search Engine\" (1998), *Computer Networks and ISDN Systems* 30: 107–117, §2.1, which describes the \"random surfer\" and a damping factor usually set to 0.85; Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd, \"The PageRank Citation Ranking: Bringing Order to the Web,\" Stanford InfoLab technical report (1999), which reports convergence in roughly fifty iterations on a graph of about 322 million links. Google was incorporated in September 1998. The 1998 paper writes the jump term as $(1-d)$; dividing by $N$, as here, makes the ranks a probability distribution summing to one. Pages without outbound links are treated as jumping anywhere. With the jump included, the surfer's walk is a Markov chain with a unique stationary distribution, computable by power iteration. The figure's percentages are computed from the formula for its six-page graph. Search ranking has long combined PageRank with many other signals. [1998 paper](https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/). For the figure, A links to B; B to A; C to A and F; D to A; E to A and F; F to E. At damping 0.85 their stationary shares are 41.408, 37.697, 2.5, 2.5, 8.655 and 7.241 percent. Circle sizes are illustrative; percentages carry the numerical result. [1999 report, convergence discussion and figure 4](https://storm.cis.fordham.edu/~gweiss/selected-papers/classic-pagerank-paper.pdf). The reported 52 iterations are an experiment, not a general bound on power-iteration convergence.",
+    "reason": "Connect verified source to native reference",
+    "disposition": "applied under author reference-alignment approval"
+  },
+  {
+    "unit": "C",
+    "kind": "B",
+    "before": "In 1602, the Dutch East India Company sold shares to the public, limited each investor's risk to what he'd put in, and became the first great joint-stock company,",
+    "after": "In 1602, the Dutch East India Company sold shares to the public and became a great joint-stock company,",
+    "reason": "Avoid collapsing the later development of limited liability into the 1602 charter or claiming first joint-stock company; next sentence retains pooling mechanism",
+    "disposition": "applied local factual precision"
+  }
+]

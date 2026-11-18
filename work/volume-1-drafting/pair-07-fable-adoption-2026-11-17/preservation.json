@@ -1,0 +1,18 @@
+{
+  "07-chapter.md": {
+    "incoming_comments": 23,
+    "missing_incoming_comments": [],
+    "missing_canonical_comments": [],
+    "exact_incoming_ending_preserved": true,
+    "incoming_body_words": 8581,
+    "adopted_body_words": 9098
+  },
+  "07-interlude.md": {
+    "incoming_comments": 14,
+    "missing_incoming_comments": [],
+    "missing_canonical_comments": [],
+    "exact_incoming_ending_preserved": true,
+    "incoming_body_words": 5092,
+    "adopted_body_words": 5723
+  }
+}

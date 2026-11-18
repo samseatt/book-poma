@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-17",
+  "baseline_commit": "709aef6571ddbaeb335830866b32fe2482f891c8",
+  "incoming": [
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/fable/07-chapter.md",
+      "sha256": "af0fe1e55a81b511f0aff2f7bdd6e0d0a204edddedcc31d104921b07ff95ad96"
+    },
+    {
+      "path": "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-7.md",
+      "sha256": "577033d879abd60fef6f6c5da140eb4be81cdff9ef3fc5d94195c55f4a62aa69"
+    }
+  ],
+  "canonical_before": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-chapter.md",
+      "sha256": "be2f11e0413006b962c373390cacfadc8b1b8b327001d96ddff9038187b24a36"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-interlude.md",
+      "sha256": "e071ac2f9a1907132e8d66530f7211b52807e290c1af25f96feba80998bf15f5"
+    }
+  ],
+  "canonical_after": [
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-chapter.md",
+      "sha256": "add485ada3ff325a6bf9e63326d9ac06cb9add1ef7fd1e50cfdd860a6bdf01d9"
+    },
+    {
+      "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-interlude.md",
+      "sha256": "f2672b92bb1933b6708db74e3c1e7d85069b07621a19fe60c9b991b75e4fb3e2"
+    }
+  ],
+  "assets": [
+    {
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/07-interlude/random-surfer.svg",
+      "source_sha256": "d149bd817767e1bfe40406eb5d7a130f4d46bbc2a48d1d573905393ded9a2c2d",
+      "target": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/07-interlude/random-surfer.svg",
+      "target_sha256": "bc399b905d3e17b6c0696c6e948ba3a34ea2476e25f6eacaa31727a74f20defb"
+    },
+    {
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/07-chapter/equal-rules.svg",
+      "source_sha256": "17cbdc3eaf17560952faa586322e0da9aa7ccd85c410bb2cd7d4cbee6d16591c",
+      "target": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/07-chapter/equal-rules.svg",
+      "target_sha256": "fe4d228ff4a105d320b8752c65071557c5070b7185a4358c4fa087486147f292"
+    },
+    {
+      "source": "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/07-chapter/belief-and-price.svg",
+      "source_sha256": "be9d90dde06e6d44c21c99121e6ae5caf90831a31c69146864f78494031536c0",
+      "target": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/assets/07-chapter/belief-and-price.svg",
+      "target_sha256": "d963f7f9d2b914ecb692235254e8f3c3ed90a2ee884d9d62ec689a48e206a604"
+    }
+  ]
+}

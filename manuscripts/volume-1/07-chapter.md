@@ -1,5 +1,8 @@
 ![](../assets/shared/chapter-arrow.png)
 
+<!-- AI-assisted: restored from Sam's earlier draft and new notes; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
+<!-- 2026-11-17: Codex revised Possibility, Promised and Alice and added Where the Money Gathers at Sam's request; Claude then polished mechanical passages, restored two of Sam's Alice threads (the hinge line and the four-question pattern in time-inflation), tied the money-gravity theme to the Upheaval, and checked the rest of the chapter against canon. Prepared for canonical commit. -->
+
 CHAPTER 7
 
 # The Engine of Prosperity
@@ -8,259 +11,84 @@ CHAPTER 7
 
 *ECONOMY*
 
-> "Capitalism is the astounding belief that the most wickedest of men will do the most wickedest of things for the greatest good of everyone." --- **John Maynard Keynes**
+> "The difficulty lies not so much in developing new ideas as in escaping from old ones." --- **John Maynard Keynes**[^v1-c7-keynes]
 
-Seattle welcomed me warmly. My arrival, however, treated me like an uninvited guest who had shown up with luggage, opinions, and no money. I landed in the Pacific Northwest broke, my credit cards wheezing like asthmatic accordions. Some nights I slept in the Corolla---my loyal, grumbling companion---whose suspension had not been consulted about doubling as a mattress. Other nights I splurged on a cheap motel so I could shower and pretend I hadn't just held a board meeting with my steering wheel about "next steps in personal finance."
+Seattle welcomed me warmly. My arrival, however, treated me like an uninvited guest who had shown up with luggage, opinions and no money. I reached the Pacific Northwest in October with my credit cards wheezing like asthmatic accordions. Some nights I slept in the Corolla, whose suspension had not been consulted about doubling as a mattress. Other nights I splurged on a cheap motel so I could shower and pretend I hadn't just held a board meeting with my steering wheel about next steps in personal finance.
 
-Eventually, I found a room to rent. "Room" was generous; it had the square footage of a disappointed walk-in closet. The building was slated for demolition, which made me feel like I was merely subletting the concept of poverty. In fact, it looked like the demolition took a pause and then someone rented that pause, the very hallway reeking of a squatter\'s den. My neighbors, meanwhile, lived in poverty not as an episode but as a full-time residency. And for a moment, I was like them. And for a moment, I was not.
+Eventually I found a room to rent, on the Seattle side of the lake near the university. "Room" was generous; it had the square footage of a disappointed walk-in closet. The building was slated for demolition, which made me feel like I was merely subletting the concept of poverty. It was as if the demolition had paused, and someone had rented out the pause. My neighbors, meanwhile, lived in poverty not as an episode but as a full-time residency. For a moment, I was like them. And for a moment, I was not.
 
-Because I had something they didn't: **the monster capitalism had trained me to become.** The one who keeps climbing, keeps optimizing, keeps hustling---who doesn't confuse exhaustion with exemption from the game.
+Then came the job interview. Then came the snowstorm. My neighbor, a kind mother with a family of her own, begged me not to go. The city didn't salt its roads, she warned, didn't sand them, didn't even acknowledge them once snow arrived. "This isn't Wisconsin," she said. "Nobody here knows what to do." The Wisconsin in me nudged me on: *Exactly. Which is why you have the competitive advantage. May the cheese be with you.* That day was sharp cheddar.
 
-Then came the job interview. Then came the snowstorm. My neighbor---a kind mother, the unfortunate matriarch of a family of her own---begged me not to go. She warned me the city didn't salt its roads, didn't sand them, didn't even acknowledge them once snow arrived. "This isn't Wisconsin," she said. "Nobody here knows what to do." The Wisconsin in me nudged me on, "Exactly. Which is why you have the competitive advantage. May the cheese be with you!" That day was sharp cheddar.
+So off I went, in a storm so uncooperative it should have filed hostile-workplace paperwork. The Corolla struggled heroically, performing interpretive dance across the ice while I white-knuckled the steering wheel like a telegraph key: *dot dot dash, dear God, dot dash dash*. A car spun out behind me. I didn't, only because I had spent my university winters perfecting the art of driving like a farmhand on a frozen pond.
 
-So off I went, in a storm so uncooperative it should have filed hostile-work-environment paperwork. The Corolla struggled heroically, performing interpretive dance routines across the ice while I white-knuckled the steering wheel like a telegraph key: *dot dot dash, dear God, dot dash dash*. A car spun out behind me. I didn't, only because I had spent my university winters perfecting the art of driving like a farmhand on a frozen pond.
+By the time I walked into the interview, I probably looked like a man who had climbed Everest but missed the summit ceremony because he had a meeting. The panel was incomplete (someone had wisely stayed home), but the two who made it seemed to like me. Or maybe they just respected the sheer stubbornness required to show up alive. People who ignore storms tend to recognize each other. Two days later came the call: I was hired, and they wanted me to start before Christmas.
 
-By the time I walked into the interview, I probably looked like a man who had climbed Everest but missed the summit ceremony because he had a meeting. The panel was incomplete---someone wisely stayed home---but John and Tom were there, and they seemed to like me. Or maybe they just respected the sheer stubbornness required to show up alive. People who ignore storms tend to recognize each other.
+When I told my neighbor, she was nearly in tears. In her elation, and to my distinct unease, she insisted on announcing it to the rest of the building. For her, it was as if one of *them* had made it. Her joy still unsettles me, in the best possible way. Perhaps, deep down, her gratitude also acknowledged that my exit ticket wasn't universally printable.
 
-Two days later came the call: I was hired.
+## The Showroom and the Garage
 
-When I told my neighbor, she was virtually in tears. In her elation -- and my distinct unease -- she insisted on announcing it to the rest of the joint. For her, it was as if one of *them* had made it. Her joy still unsettles me in the best possible way. Perhaps deep down her gratitude also acknowledged that my exit ticket wasn't universally printable.
+Seattle, it turned out, had arrived at the global economy at almost the same moment I had. Weeks after I reached the city, President Clinton hosted the leaders of the Pacific Rim on Blake Island, a wooded park in Puget Sound, for the first meeting of its kind: a deliberate showcase of Seattle as the gateway to the economies of Asia and the Pacific.[^v1-c7-apec] A few weeks later, on the other side of the world, negotiators concluded the Uruguay Round of trade talks, the agreement that would create a new body to govern world commerce, the World Trade Organization.[^v1-c7-wto] I was busy discovering that the city didn't plow its roads. The world was busy deciding that Seattle was where its future would be shipped from.
 
-### From Apex to Zero (and Back Again)
+By the new year, I was living in a bright apartment in Bellevue, directly across the street from my new job, with a small duck pond outside my window. That's capitalism's favorite magic trick: you can be nearly homeless in November and have a story of character-building adversity by January. It's capitalism's own transubstantiation: poverty turned into narrative, narrative into résumé, and résumé into rent.
 
-A week or two later, I was living in a bright Bellevue apartment---a short drive from the garage where Jeff Bezos would soon begin rehearsing his global takeover. That's capitalism's favorite magic trick: you can be nearly homeless on Monday and have a story of "character-building adversity" by Friday. It was, in its way, capitalism's own form of **transubstantiation**: poverty turned into narrative, narrative turned into résumé, résumé turned into rent.
+That spring, Seattle lost one of its saints. Kurt Cobain died, and the city exhaled a sorrow so heavy it fogged the windows.[^v1-c7-cobain] For a moment it felt as if the dream of authenticity (the refusal to compromise, the insistence on meaning) had left with him. But capitalism is made of tougher fibers than art. That summer, about three miles west of my apartment, a former hedge-fund executive named Jeff Bezos incorporated a company in the garage of a rented house in Bellevue, to sell books over a network most people had never used.[^v1-c7-amazon] Out of Nirvana's ashes rose a different kind of nirvana: disruption instead of disaffection, angel investors instead of angst.
 
-Around that same time, Seattle lost one of its saints. Kurt Cobain died, and the city exhaled a sorrow so heavy it fogged the windows. For a moment it felt as if the dream of authenticity---the refusal to compromise, the insistence on meaning---had left with him. But capitalism is made of tougher fibers than art. Out of Nirvana's ashes rose the .com Nirvana: disruption instead of disaffection, angel investors instead of angst.
+My credit cards had long memories, and it took a while for them to forget. A year in, I moved to a larger apartment in the same complex, this one beside the Bellevue golf course, where I could watch other people chase small white balls with great seriousness and feel, for the first time in a while, that I was no longer being chased.
 
-And in a garage only a couple of miles from mine, Bezos was assembling his proof of concept: that capitalism is a ladder, a furnace, and a trebuchet, and that any one of them can launch you---depending on your timing, your luck, and your willingness to live in a spreadsheet.
+Midway through my Seattle years, I moved to Kirkland, to an apartment beside the marina, on the eastern shore of Lake Washington. About three miles south along the same shore, on the water in Medina, the largest private house in the region was nearing completion after the better part of a decade under construction: Bill Gates's estate, some sixty-six thousand square feet of wood, stone and pioneering electronics, which the press nicknamed Xanadu 2.0.[^v1-c7-xanadu] The name came from Charles Foster Kane's palace in *Citizen Kane*, which took its own name from the pleasure dome in Coleridge's poem. It was a strangely candid nickname for a home: Kane's Xanadu was where a man who had acquired everything went to discover what he'd lost. I watched the lake, the boats and the rain, and thought about the distance between a closet slated for demolition and a house that could recognize its guests. It was only a few years and a few miles. It felt like the width of the economy.
 
-Seattle was becoming the new Rome of capitalism. Here, markets were legion, ambition was oxygen, and code was the new scripture. I had arrived as a visitor. I was about to become a citizen of its empire.
 
-### Ancient Hunger in a Digital Cathedral
+## The Story Strangers Share
 
-For all its neon, noise, and Nasdaq index, capitalism was just the latest costume worn by something far older. Long before stock tickers and venture funds, we survived in tribes that traded labor for protection, stories for belonging, and surplus for status. Markets were simply those tribes enlarged; incentives were our ancient instincts formalized; consolidation was what happened when one clever hunter discovered economies of scale. Inequality was the unintended side effect---like cholesterol after a feast. Capitalism didn't invent human nature; it industrialized it. It took the barter of villages and turned it into the architectures of Wall Street, the logistics of Walmart, and the global tremors of the IMF.
+Chapter 5 left us at the edge of what a band can hold together, the people one brain can keep track of, and with the scaling stories we invented to cooperate beyond them. Money is the most successful of them. It lets people who will never meet, and would not trust each other if they did, cooperate on projects spanning continents and centuries. Yuval Noah Harari calls it the most universal and most efficient system of mutual trust ever devised.[^v1-c7-harari] A dollar works only because everyone believes everyone else will accept it. Its value is a shared story, renewed every time it changes hands.
 
-In Seattle, standing at the edge of both rain forest and retail revolution, I could suddenly see the whole arc: every economy is just a tribe trying to feed itself, then a marketplace trying to enrich itself, and finally an empire trying to explain itself. And somewhere in that ascent, the monster at the gates is always the same: **the belief that more is the cure for everything.**
+The story didn't begin with coins. The anthropologist David Graeber argued that the textbook tale, in which barter came first and money was invented to make swapping easier, has little evidence behind it. Long before coins, people kept track of who owed what: credit and debt, recorded in memory, in tallies and on clay.[^v1-c7-graeber] The temples of Mesopotamia kept ledgers of grain owed and grain paid. Coins came later, struck in Lydia around the seventh century BCE; paper money later still, in Song dynasty China; and in 1971, when the United States ended the dollar's convertibility into gold, the world's money finally became what it had always been underneath: a promise whose acceptance depends on belief, institutions and the obligations settled in it.[^v1-c7-fiat] Seen this way, my credit cards weren't an aberration. They were the oldest form of money there is.
 
-## From Trade to Theory --- The Birth of Economics
+Harari pushes the point further. Credit, he argues, is trust in the future: a lender gives you money today because both of you believe tomorrow will be richer than today. Credit is ancient, as those temple ledgers remind us; Harari's stronger point is about the modern economy's faith that the pie will keep growing, so borrowing against the future is not theft but investment. Harari calls this the capitalist creed, and he means the word "creed" seriously: growth is the story modern societies tell to justify almost everything else, and like any creed, it works only as long as enough people believe it.[^v1-c7-creed] Volume II will ask what happens when the faith outruns the world.
 
-Before there were economists, there were people trying not to get swindled at the market. For most of human history, value was not a line on a chart; it was a conversation. A goat for a sack of grain. A fish for a pot. A marriage to secure peace between cousins who barely tolerated each other. Price was whatever two parties could live with and their in-laws couldn't overturn. Exchange was practical, improvisational, and gloriously untheorized.
+## Money's Machinery
 
-What we now call "economics" began the moment we asked a dangerous question: *Is there a pattern here?* Once you start looking for patterns, you are halfway to an ideology.
+Most people imagine that banks lend out money that savers have deposited. That's only partly true. When a commercial bank makes a loan, it mostly creates new money: it credits the borrower's account with funds that didn't exist a moment before, backed by the borrower's promise to repay. The Bank of England, which should know, explained this plainly in 2014, to the surprise of many economics students who had learned the textbook version.[^v1-c7-boe] Much of a bank's money is tied up in loans that cannot be called back when depositors want cash, which is why a sudden rush of withdrawals, a bank run, can bring down even a sound bank.
 
-### The Ancient Ledger --- Clay Tablets and Proto-Spreadsheets
+Above the banks sit central banks, among the first of them the Bank of England, founded in 1694 to lend money to a government at war. Today they set the interest rates that ripple through every mortgage and business loan, and act as lenders of last resort when panic strikes. Their great enemy is inflation, the steady loss of money's value as prices rise. Milton Friedman taught a generation that inflation is "always and everywhere a monetary phenomenon," caused by too much money chasing too few goods.[^v1-c7-friedman] That's a simplification, as most famous sayings are, but it captures why central banks guard the supply of money so jealously: a currency is a promise, and inflation is the promise quietly breaking.
 
-In Mesopotamia, the scribes did not think of themselves as inventing macroeconomics. They were just trying to keep track of grain so nobody "misremembered" how many sacks they owed the temple. Yet those clay tablets --- tallying harvests, rations, and tribute --- were the first visible fossils of an economic mind. Temples doubled as warehouses and banks; priests and scribes ran what amounted to command economies centuries before anyone coined the phrase.
+<!-- AI draft, 2026-11-14. Short version; the full argument is in possibility-promised-notes.md. -->
+## Possibility, Promised
 
-Egypt, the Indus Valley, early China: each developed its own choreography of storage, surplus, and trade. Caravans moved goods along routes that were part supply chain, part rumor network. No one had discovered GDP, but everyone understood that when the grain failed, everything else failed with it.
+Chapter 6's industry ran into Adam Smith's ceiling: specialization goes only as far as there are strangers to buy what it makes. Reaching them takes the first of this book's stories. Industry's procedures work whether anyone believes in them; an economy's instruments work only while enough people expect everyone else to accept them, which is Chapter 5's amendment put to work. The four questions still apply on a story floor, with two differences. The substrate is now expectation. And a story can fail in a way no crystal can: its believers can leave.
 
-Even the philosophers noticed. Aristotle distinguished *oikonomia* (household management) from *chrematistics* (money-making for its own sake) and worried --- quite sensibly --- that the latter might eat the former. Already, we see the split that will haunt economics forever: provisioning versus accumulation, enough versus more.
+*What is possible* now includes possibility itself, held as property. A dollar commits you to nothing. It can become bread, a train ticket or a share of a stranger's factory, and its usefulness is precisely that the choice stays open. Keynes put this at the center of his theory: people hold money because the future is uncertain, and the rate of interest is the reward for parting with that openness for a while.[^v1-c7-liquidity] Chapter 4's person kept unrealized possibilities in a head, as hopes. Money keeps them in a pocket, in a form strangers will honor.
 
-### The Moral Marketplace --- When Theology Met Trade
+*What is cheap* is a common unit. Trade a thousand goods without one and every pair needs its own rate of exchange, nearly half a million of them. Price everything in one unit and you need 999.[^v1-c7-jevons] The temple ledgers above were keeping accounts in silver and barley long before anyone struck a coin. You sell a house and buy apples with the same money; neither the buyer of the house nor the grower of the apples needs to know the other exists. Money is a connector between worlds that have little else in common.
 
-Fast-forward a millennium or so, and scholars in robes began asking whether God approved of interest rates. Medieval thinkers like Thomas Aquinas in Europe and Ibn Khaldun in the Islamic world wrestled with questions of just price, fair profit, and the dangers of usury. Markets were tolerated, sometimes blessed, but never entirely trusted. Money had a faint smell of sulfur about it.
+A price also saves people from having to know everything behind it. A frost damages the coffee harvest; a higher price can prompt people who know nothing about the frost to drink less, switch to tea or plant more coffee. Hayek's insight was that scattered knowledge can coordinate action through prices without first being gathered into one head.[^v1-c7-hayek] In Interlude 2's language, this is useful, lossy compression. The number carries a signal, not the whole weather report.
 
-These scholastic debates were an early attempt to bolt ethics onto exchange. If you wring too much profit from a transaction, are you clever... or corrupt? If a merchant charges more in a famine, is that prudent allocation or spiritual bankruptcy? Long before we had models for supply and demand, we had sermons about greed and restraint.
+*The sameness* is fungibility. Every dollar is like every other, as every Whitworth thread was like the next; money is the interchangeable part of interchangeable parts. An hour of care and a ton of steel can be priced on one scale. That does not make the scale a complete account of either.
 
-In other words: the first "macroprudential regulation" was fear of hell.
+Money also stands in for something rarer. Picture a society with a perfect shared record of every contribution anyone had ever made; in one economic model, such a record could sustain the exchanges that money otherwise makes possible. Money stands in for some of that missing record. It does memory's work with far less to remember.[^v1-c7-memory] <!-- AI draft, 2026-11-17. Author's coarse-graining clarification and grain callback. -->I see it as useful *coarse-grained memory* (the grain now rather less edible): a steep reduction of many dimensions to an amount that can be saved, added to other amounts and spent elsewhere.<!-- End AI draft 2026-11-17. --> But a balance cannot tell us who deserved it, or whether it came from work, a gift, inheritance or a well-positioned tollbooth. Records of the trade may survive somewhere; the money doesn't carry them. A dollar arrives without an autobiography.
 
-### The Enlightenment Calculus --- and the Invisible Hand
+The omission is convenient until the missing parts matter. The apple's price needn't include what the orchard did to the river that watered it. An oil field can make a fortune for an owner who made none of the oil. The two omissions differ, one a cost pushed onto someone else, the other a windfall from owning something scarce, but neither can be read back out of the amount paid.[^v1-c7-pigou][^v1-c7-ricardo]
 
-Then came the Enlightenment, when Europe decided that if you can write an equation for planets, you ought to be able to write one for prices.
+*The break* comes twice. The first is the choice of what money is. Whatever others will accept, you accept, and the acceptance feeds itself, which is Chapter 5's convention again. In a prisoner-of-war camp during the Second World War, cigarettes from Red Cross parcels became the currency within weeks, complete with prices, credit and bursts of inflation when large issues of cigarettes arrived.[^v1-c7-radford] The second break is in the distribution. In a simple model, give identical traders equal money and let random pairs exchange fixed amounts without borrowing. The money approaches an exponential distribution: a few rich, many poor, nobody more skilled than anybody else. Make each stake a fraction of the poorer trader's wealth instead, and wealth can keep concentrating onto fewer holders.[^v1-c7-yakovenko] Skill, inheritance and power add to that. Chance alone is enough to break the symmetry.
 
-Adam Smith's *Wealth of Nations* is often treated as the Genesis text of modern economics. Smith looked at markets and saw not just haggling, but an emergent order: individuals pursuing self-interest, yet somehow coordinating production and distribution on a scale no central planner could match. His "invisible hand" was less a mystical force and more a poetic shrug: maybe we don't need a priest over every transaction.
+<!-- AI draft, 2026-11-17. -->![Equal rules, unequal outcomes. Ten thousand simulated traders start with 100 each and follow identical, fair rules. In A, random pairs swap one unit on a coin flip, and the money approaches an exponential distribution: most people end below the average, and the richest tenth hold about a third. In B, random pairs bet a tenth of the poorer trader's wealth on a fair coin, and wealth keeps condensing: the richest 1 percent's share climbs past 40 percent and is still rising. Original simulation of idealized models: 150,000 trade participations per person in A, 6,000 in B.](assets/07-chapter/equal-rules.svg){#fig-v1-c7-equal width=100% fig-alt="Left: a histogram of money held after many fair one-unit swaps, falling steeply from the left and matching a dashed exponential curve; a dashed line at 100 marks where everyone started; notes say 63 percent end below average and the top tenth hold a third of the money. Right: a line rising from 1 percent to about 43 percent over 6,000 trade participations per person, labeled share held by the richest 1 percent, still climbing, above a dashed baseline marked an equal share: 1 percent."}<!-- End AI draft 2026-11-17. -->
 
-David Ricardo followed with comparative advantage, the cheerful observation that even if one nation is better at making *everything*, both sides still benefit from specialization and trade. It was a lovely piece of logic, and it gave empires a reassuring story to tell themselves about why shipping other people's raw materials to your factories was a win--win.
+Then the arithmetic that makes a story floor so volatile. A price is a story about the future, discounted to now. In the simplest version, a stake whose next annual payment is $D$, growing thereafter at a rate $g$, with the future discounted at a rate $r$, is worth
 
-With Smith and Ricardo, a new worldview crystallized:
+$$
+P = \frac{D}{r - g}.
+$$
 
--   People could be modeled as rational choosers.
+Take $r$ as 8 percent. If investors expect the payments to grow at 6 percent, the price is fifty times that next payment. If they come to expect 7 percent, it doubles to a hundred. If expectations fall back to 4 percent, it drops to twenty-five, three-quarters of the way down.[^v1-c7-gordon] When expected growth runs close to the discount rate, a single point of belief moves the price enormously. That is this chapter's closing upheaval in one line, and the reason the financial feedback loops ahead have so much to feed on.
 
--   Markets could be treated as systems with laws, like falling apples.
+<!-- AI draft, 2026-11-17. -->![How belief moves a price. The price of a growing stream of payments, as a multiple of the next annual payment, with the future discounted at 8 percent. Near the discount rate, belief is amplified into price: one more point of expected growth doubles the price from 50 to 100 times the payment, and three points back cut it to 25 times. Illustrative values; the formula holds only while expected growth stays below the discount rate. Original schematic.](assets/07-chapter/belief-and-price.svg){#fig-v1-c7-belief width=90% fig-alt="A curve of price, as a multiple of the next annual payment, against expected growth from 0 to 8 percent. It rises slowly from about 12 times, then steeply toward a dashed vertical line labeled discount rate 8 percent. Points mark 25 times at 4 percent, 50 times at 6 percent and 100 times at 7 percent. An arrow from 6 to 7 percent is labeled one point of belief: price doubles; an arrow from 7 back to 4 percent is labeled three points back: three-quarters gone."}<!-- End AI draft 2026-11-17. -->
 
--   Self-interest, properly channeled, might serve the common good.
+And a story can be withdrawn. A bank financing long-term loans with deposits withdrawable on demand can survive while depositors expect one another to stay, and fail when they expect one another to run. Economists later showed that both outcomes are rational for the same bank, with the same loans.[^v1-c7-runs] It is Chapter 5's threshold crowd, with deposits in place of stones.
 
-Economics was taking its shot at being physics with better hair.
+So the first story does something no earlier floor could. It lets possibility be held, traded and priced, and it lets a promise about the future circulate among people who will never meet. On the ground floor, what was cheap became common. In biology, common was earned by copying; in a brain it arrived without happening; a person kept what never happened; a society made things real by expecting them; industry made the common cheap. In an economy, the future can be spent before it arrives.
+<!-- End AI draft 2026-11-14. -->
 
-### Homo Economicus --- The Most Useful Fiction in the Room
-
-Out of this lineage emerged a strange creature: *homo economicus*.
-
-He is rational, calculating, and oddly unbothered. He maximizes utility. He has perfect information. He does not weep in grocery aisles, panic in housing bubbles, or stay in awful jobs because the health insurance is good. He never lies to himself about credit card debt. He does not exist.
-
-Yet for over a century, this fictional actor stood in for all of us in equations, forecasts, and policy memos. He made the math behave. He made the models elegant. He made the discipline look clean.
-
-The problem is that once you start using a ghost as your representative citizen, you begin designing systems that work beautifully for ghosts.
-
-### From Practice to Doctrine --- When the Market Became a Religion
-
-The final move was institutional. Economics, once entangled with politics and moral philosophy under the banner of "political economy," gradually rebranded itself as a harder, more neutral science. Mathematics poured in as a status symbol. Equilibrium became a kind of secular heaven: a state where all forces balance, all markets clear, and nobody has any incentive to change.
-
-In the process, the field drifted away from its muddy, embodied origins. What began as the study of how households and communities provision themselves turned, in many quarters, into the study of abstract agents in frictionless worlds --- elegant, publishable, and occasionally lethal when turned into policy.
-
-But this ascent from barter to doctrine sets the stage for everything that follows in this chapter. Once you believe that human behavior can be captured by a few tidy assumptions, you are ready to build industrial machines, global markets, and financial architectures on top of those assumptions.
-
-First came trade. Then came theory. Next came the engine.
-
-## The Industrial Engine --- When Capitalism Took Shape
-
-If early trade was a series of polite arguments over goats, the *Industrial Revolution* was when those arguments got factory walls and a chimney.
-
-For most of history, production had been small, local, and seasonal. Artisans made things. Households grew or wove what they could. Markets were bursts of exchange stitched into the rhythm of planting and harvest. Then a cluster of inventions --- steam engines, mechanized looms, better metallurgy --- collided with cheap coal and expanding empires, and production acquired a new superpower: **scale**.
-
-A loom in a cottage could support a family. A line of powered looms could remake a town.
-
-### From Workshops to Factories
-
-The factory is one of humanity's most consequential "user interfaces." It concentrates labor, capital, and machinery under one roof and demands that all three learn to keep time together.
-
-Inside its walls:
-
--   Tasks are broken down into narrow, repeatable motions.
-
--   Time is sliced into shifts, then measured by clocks, then by stopwatches.
-
--   Output is counted, compared, and optimized as if humans were another kind of gear.
-
-What looks like progress from the owner's balcony often feels like compression from the shop floor. You are no longer a person who knows how to make cloth; you are now the left half of a motion in a room full of left halves.
-
-This is where **capitalism**, as we recognize it, finds its modern form:
-
--   **Capital** (money, machines, buildings) owned by a relatively small group,
-
--   **Labor** selling time and skill for wages,
-
--   **Markets** coordinating prices and distribution,
-
--   **Profit** as the measure that justifies the whole arrangement.
-
-Earlier merchants had played versions of this game with ships and caravans. But the factory locked it in as a default: most people would make their living not by owning things, but by renting themselves out to them.
-
-### The Corporation: A Person That Never Dies
-
-As projects grew bigger, a single merchant or family could no longer shoulder the risk. Railways, canals, and industrial complexes required more capital than any one noble or bank felt like losing in a bad season.
-
-Enter the **joint-stock company** and its more mature sibling, the modern corporation. Legally, the corporation is a kind of ghost:
-
--   It can own property.
-
--   It can sign contracts.
-
--   It can be sued.
-
--   It can outlive every individual who founded or worked for it.
-
-Here at last, we created a person who never grows old, never forgets its mission statement, and --- in practice --- rarely goes to jail. Limited liability laws ensured that investors could reap gains while capping their losses. The moral math of risk and reward shifted: If things go well, you profit; if things go badly, the entity apologizes on your behalf.
-
-This ghost turned out to be very effective at organizing large-scale engineering: building railways, telegraph networks, oil refineries, shipping lines, and eventually global supply chains. It also turned out to be very effective at convincing governments that its health and the nation's health were indistinguishable.
-
-### Empire as Business Model
-
-The Industrial Revolution did not happen in a vacuum. It happened in an ecosystem of **empires**. Colonial powers extracted raw materials from distant territories --- cotton, rubber, minerals, timber --- and sold finished goods back into those same markets. Tariffs, gunboats, and unequal treaties helped smooth over any doubts about whether this counted as "free" trade.
-
-Economists wrote about comparative advantage. Politicians spoke of civilization and progress. On the ground, the pattern often looked like this: resources flowed out, debt and dependency flowed in, and the factory chimney somewhere else grew a little taller.
-
-Capitalism is often described as a system of voluntary exchange between free agents. It is also, historically, a system that has been very comfortable leaning on gunpowder when persuasion failed.
-
-### The Market Mindset
-
-By the late 19th and early 20th centuries, the idea of the **market** had acquired a kind of metaphysical glow. Markets were not just places where buyers and sellers met; they were elevated into problem-solving machines:
-
--   They set prices more efficiently than bureaucrats.
-
--   They allocated resources more nimbly than kings.
-
--   They punished waste and rewarded innovation --- in theory.
-
-If Chapter 6 showed us how engineering built the hardware of industrial society, this section shows us the software: a set of assumptions about capital, labor, property, and profit that organized who got to design the future and who was hired to assemble it.
-
-From here, it is a short step to the 20th-century social bargain that shaped many of our lives: the **middle-class dream**.
-
-## The Middle-Class Mirage --- Stability on an Installment Plan
-
-For a brief stretch of the 20th century --- brief in geological terms, eternally nostalgic in human ones --- capitalism and democracy struck a kind of truce.
-
-After depressions, wars, and mass unemployment, many industrialized societies decided that pure "you're on your own" economics was a bit too exciting. Through various paths --- *New Deal* reforms, social democracy, postwar reconstruction --- they stumbled into something like a deal:
-
--   Workers would get stability and rising living standards.
-
--   Owners would get growing markets and relative peace.
-
--   The state would referee and skim taxes off the top.
-
-We call the visible beneficiaries of that deal the **middle class**.
-
-### The House, the Job, and the Pension
-
-The middle-class package varied by country, but the core ingredients were surprisingly consistent:
-
--   A reasonably secure job with a predictable income,
-
--   A mortgage-backed house that would (hopefully) appreciate,
-
--   Access to education and healthcare that didn't require selling organs,
-
--   Some kind of pension or retirement promise at the end of the tunnel.
-
-For a couple of generations, this felt like the natural order of things. In reality, it was a very particular historical arrangement, propped up by: high postwar growth, strong unions or labor protections, limited global competition, and an energy bonanza in the form of cheap fossil fuels.
-
-The system had its exclusions --- racial, colonial, gendered --- which we'll face more directly in later chapters. But for those inside the circle, the story was seductive: work hard, obey the signals, and the system will take care of you.
-
-### Debt: The Quiet Co-Author
-
-Stability had a co-author: **debt**.
-
-Mortgages, car loans, student loans, credit cards --- all ways of pulling future income into the present, on the assumption that the river of wages will keep flowing. Debt did something psychologically elegant:
-
--   It turned citizens into stakeholders.
-
--   It tied personal identity to the health of the system.
-
--   It made "growth" feel not just desirable but necessary, because without it the math on all those repayment schedules looks ugly.
-
-You weren't just renting your labor to capital; you were also renting your future to your past self.
-
-Boom times made this feel like leverage. Busts --- recessions, inflation spikes, housing crashes --- revealed the other side: the risk had always been sitting in households and communities more than in the boardrooms that designed the products.
-
-### From Security to Precarity
-
-Starting in the late 20th century, the truce began to fray.
-
--   Manufacturing jobs migrated to where labor was cheaper and regulations lighter.
-
--   Automation ate routine work.
-
--   Unions weakened; benefits eroded.
-
--   Housing in many cities became an asset class first and shelter second.
-
-The vocabulary shifted:
-
--   "Lifetime employment" gave way to "flexibility" and "gig work."
-
--   "Pensions" turned into "you're on your own, but here's an app."
-
--   "Middle class" remained a cherished label while the underlying guarantees quietly drained away.
-
-Many people still live as if the old bargain holds: get a degree, get a job, service your debts, and if you're lucky, retire somewhere with more sun than bills. But underneath, the floorboards creak.
-
-Economists began speaking of a **precariat**: people with unstable work, fragile finances, and little buffer against shocks. In other words, people whose life looks less like the smooth wage curves in old textbooks and more like the earlier version of my Corolla in Seattle --- one late paycheck away from sleeping in the car.
-
-### Why This Matters for the Rest of the Book?
-
-This isn't just economic history. It's the **emotional architecture** of our current world.
-
--   When we talk in Part II about diagnostics --- about why people feel anxious, angry, or betrayed by systems that supposedly made them rich --- this eroding middle-class bargain is part of the explanation.
-
--   When we talk in Part III about redesign --- about NEURO, neuconomy, and neufacturing --- we're not trying to replace an abstract "market." We're trying to rethink the way security, risk, and responsibility are stitched together.
-
-Engineering gave us projects big enough to need capitalism. Capitalism gave us a middle-class dream big enough to obscure its own cracks.
-
-The next sections will look more closely at the engine itself: how markets actually behave, what they count, and what they quietly push off the ledger.
-
-## Markets as Mind --- Efficiency, Speculation, and Irrational Rationality
-
-If psychology is the study of the individual mind, and sociology maps the web of minds in groups, then markets are something stranger: a kind of feral group chat that accidentally learned arithmetic. We talk about *"what the market thinks"* as if it were a person: it rallies, panics, shrugs, demands, punishes. It reacts faster than any committee, remembers more than any single brain, and yet routinely walks into glass doors.
+## Where the Money Gathers
 
 Here, in my Seattle days, one of my favorite coworkers, Bill, had a personal theory of everything. "Follow the money," he'd say, "and you'll find the answer." Politics, corporate strategy, urban planning, international diplomacy---if you traced the cash flows long enough, you'd eventually stumble over the motive.
 
@@ -272,444 +100,297 @@ Bill also liked to say, "Two plus two is equal to five, for extremely large valu
 
 -   and the advanced course in what always ends up flowing downhill.
 
-He wasn't entirely wrong. Markets are the plumbing of capitalism: where value, fear, and fantasy flow. But what sort of "mind" are we dealing with when we talk about *the* market?
+<!-- AI draft, 2026-11-17. Codex: established mechanisms moved out of Alice; preserves Fable's accumulation argument. -->
+Money's sameness lets claims from unlike activities pile up together. Grain rots and favors are forgotten, but a dollar keeps, and it joins every other dollar without a seam; the figure above showed piles forming even among equals playing by fair rules. A pile can do what scattered savings can't. It can lay a railroad across a continent, build a chip fabrication plant, fill the factory floor of Chapter 6. Banks, funds and companies exist largely to gather many people's claims and point them at one project. Gathering needn't mean handing everything to one person: who owns the capital, who directs it and who does the work are separate questions, even when a single company answers all three.
 
-### The Invisible Hand and the Rational Actor
+A pile can also buy power over the terms on which others work. Own the only usable port, a critical standard or an app store that others cannot readily bypass, and you can charge for passage. Centuries before the app store, English law prohibited buying up goods on their way to market to resell them dearer, under the splendid name of *forestalling*. Standard Oil later secured preferential railroad rates that helped squeeze competitors.[^v1-c7-chokepoints] Scale can lower costs; control of a bottleneck can raise everyone else's. A balance sheet does not announce which one paid the dividend.
 
-Classical economics imagined markets as elegantly rational. Individuals weigh costs and benefits, act in their own interest, and prices emerge like a verdict from a perfectly balanced jury. Translate that into equations, and you get the **rational actor** in efficient markets:
+Purchasing power also decides what gets built, and for whom. A market hears demand only when money comes attached; need without money makes no sound. Where good housing is scarce, the richest bidders can drive desirable locations beyond other people's reach,[^v1-c7-positional] and the distance between my closet slated for demolition and the estate down the shore was partly that. A pile can also borrow against itself. When what it owns rises in value, so does what lenders will advance against it, which buys more, which raises values again. When values fall, the same machinery runs in reverse.[^v1-c7-collateral]
 
--   perfect information,
+Prices, then, can change the world they claim to describe. Soros calls this two-way traffic between beliefs and the conditions they help create *reflexivity*.[^v1-c7-soros] Minsky added a crueler twist: long calm encourages borrowers to lean ever harder on refinancing, or on selling assets at ever higher prices, so a system that looks stable grows fragile through the very behavior its stability encouraged.[^v1-c7-minsky] These loops need no single rich puppeteer. Large positions and leverage can amplify them, but a crowd can supply the enthusiasm.
 
--   no transaction costs,
+Technology has since made some advantages measurable in milliseconds. In 2010, a fiber cable laid on a straighter path from Chicago to the New Jersey exchanges shaved a few thousandths of a second off the trip, and chains of microwave towers soon beat the cable. Traders paid to see a price before anyone else could act on it.[^v1-c7-latency] That's speed, not clairvoyance, but in a market, arriving first can be worth nearly as much. Learning adds a subtler edge. In a 2020 study of simulated markets, pricing algorithms left to learn on their own found ways to keep prices high, punishing any rival that undercut them, without ever communicating.[^v1-c7-algos] An algorithm can become very good at a market without making the market any good for its customers.
+<!-- End AI draft 2026-11-17. -->
 
--   utility maximization all around.
+## Alice, Down the Rabbit Hole: The Weight of Money
 
-Adam Smith's "invisible hand" was later reinterpreted through this mathematical lens: let everyone pursue self-interest, and decentralized decisions will magically coordinate production, distribution, and innovation better than any central planner ever could.
+<!-- AI draft, 2026-11-17: Alice built on Sam's premise (one-dimensional compression, accumulation, money-gravity in space and time, smart money); Claude draft, Codex revision, Claude polish. The economic-curvature and smart-money proposals remain open wagers. Alternates: chapter-7-alice-forgetting-2026-11-17.md (forgetting curve), chapter-7-before-2026-11-17.md (original placeholder). -->
+*The twist, in one line: money compresses unlike values into portable possibility, and once enough of it gathers in one place, it can reshape everyone else's possibilities; the question is whether we can keep the gravity that gathers useful work without surrendering to the gravity that captures it.*
 
-Under these assumptions:
+Alice's croquet game had flamingoes for mallets, hedgehogs for balls and soldiers who kept getting up from their jobs as hoops. The Queen supplied the remaining uncertainty.[^v1-c7-carroll] It is difficult to improve your stroke when the equipment has other appointments. Economics at least gives us a number. We can keep score while the lawn moves.
 
--   A company's stock price reflects its "true" value.
+Money's convenience is that the number travels without most of its history. It forgets nearly everything about a trade except the amount, and it never forgets the amount. The amount survives long after the work, the damage and the luck behind it have disappeared from view. It can be added to other amounts, invested, inherited and turned into claims on more of the world. Here my pile of "money" includes those claims: shares, land, lending power, the things a large fortune holds instead of cash. The question is what happens when this portable possibility gathers weight.
 
--   GDP reflects a nation's health.
+At first, more money gives its holder more choices. But follow the gathering further. A supplier becomes dependent on one buyer. A town's livelihoods turn around one employer. Competitors must pass through an infrastructure their competitor owns. Each person can still choose, yet the costs of their choices have changed around them. The pile has begun to alter the routes available to people who never agreed to join it.
 
--   Speculation is just another form of prediction.
+I want to try the gravitational picture here, Interlude 1's informational gravity, now in cash. The pile changes the economic geometry: which opportunities are near, which are prohibitively far, and which journeys require passage through somebody else's property. "Distance" would mean the cost, time, risk and dependence involved in reaching an opportunity.[^v1-c7-gravity] The hand still works. It works on a surface someone else has bent.
 
-Markets aren't just mechanisms; they're truth machines. The ticker tape becomes a kind of holy script.
+We do need economic solar systems. A fabrication plant cannot be assembled from eight billion independent decisions about where to put the sink. Large projects need resources held together long enough to accomplish something. But gathering the work and owning its whole neighborhood are different achievements. A center can make possibilities reachable for others; it can also make itself unavoidable. Perhaps the important measure of a pile is how much useful coordination it enables compared with how much dependence it creates.
 
-Then the 20th century actually happened.
+That makes the conjecture more demanding than a complaint about rich people. Imagine two economies with similar output and equally unequal fortunes. In one, people can change suppliers, carry their records elsewhere and organize a competing service. In the other, every useful exit crosses the same owner's bridge. The usual totals could look much alike. The lives available within them would not. Could we measure that difference as a kind of curvature, and learn which forms of accumulation open the surrounding possibility space and which close it? The old amount would remain useful. It would stop being sufficient.
 
-### Cracks in the Mirror --- Behavioral Ghosts and Market Mood Swings
+Money has always bought time: reserves let one person wait while another must sell; debt commits future income before it arrives. Agents could stretch that advantage further, into the futures a decision-maker can explore before acting. A system might rehearse thousands of supply disruptions, bids and responses while its counterpart is still opening a spreadsheet. This is a kind of *time-inflation*: more possible courses explored within the same interval, with the advantage accruing to whoever can act on the exploration. It's the book's oldest pattern in a new medium, a cheap expansion, this time of foresight, and a symmetry broken by whoever reaches it first. It does not require a correct prophecy every time. A sufficiently powerful owner can also act to make a favored forecast come true. Foresight becomes one of the means of shaping the field it surveys.
 
-Starting in the 1970s, Daniel Kahneman, Amos Tversky, and their fellow troublemakers began quietly sabotaging this tidy picture. It turned out humans:
+There is another direction that intelligence could take. The invisible hand has always employed rather a lot of visible people. We compare prices, read reviews, try the shoes, send them back and write a review for the next shopper: unpaid testers for a market whose sensing depends on us. Chapter 6's farmer domesticated the field and then had to report to it. The shopper domesticated the market and reports to it daily. Must better coordination always arrive as more homework for the people with the least time to spare?
 
--   hate losses more than they love equivalent gains,
+By *smart money*, I mean money with memory and agency around it: a system that can follow the relations a price leaves out, anticipate a need, compare ways of meeting it and help arrange the work. This needn't be the central planner Hayek warned against: the knowledge would travel with the money, as it already does in prices, only less compressed. The unit used to settle a payment need not carry the whole account. A graph of the transactions could retain what was taken, what was repaired, whose labor contributed and which obligations remain, with the connections still attached. Like the many coordinates of an embedding, the long lists of numbers Interlude 11's language models use to hold meaning, these could preserve distinctions that a single balance erases. Remembering would have to be selective; buying apples should not require handing over your life story.
 
--   anchor on irrelevant numbers,
+More coordinates alone would not make it fair. Whoever chooses them, controls the agents or owns their records could acquire a larger pile of a new kind. Compress everything back into one unquestionable score and we have furnished the Queen with a better calculator. The harder possibility is coordination in which different values remain distinguishable and contestable, while enough is shared to let strangers accomplish something together. An agent representing the river would need consequences to follow its evidence; being permitted to submit a report is not much of a bank account.
 
--   discount the future like toddlers,
+I would like to know whether such a system could gather the resources for a great undertaking without letting the gathering quietly acquire the power to price everyone else's escape. That is the wager behind money-gravity: measure the altered paths, not only the pile, and use the richer memory to change what accumulation is allowed to do. Whether we can build it without another Queen taking charge belongs to Volume III.
+<!-- End AI draft 2026-11-17. -->
 
--   seek confirming evidence,
+## From Trade to Theory
 
--   and follow crowds even when the crowd is clearly headed toward a cliff.
+Before there were economists, there were people trying not to get swindled at the market. For most of history, value was not a line on a chart; it was a conversation. A goat for a sack of grain; a marriage to secure peace between cousins who barely tolerated each other. Price was whatever two parties could live with and their in-laws couldn't overturn. Economics began the moment someone asked a dangerous question: *Is there a pattern here?* Once you start looking for patterns, you're halfway to a theory, and two-thirds of the way to an ideology.
 
-In other words: the rational actor was a useful ghost, not a typical mammal.
+The philosophers noticed early. Aristotle distinguished *oikonomia*, the management of a household so that it has enough, from *chrematistics*, the pursuit of money for its own sake, and worried that the second would devour the first.[^v1-c7-aristotle] The split between provisioning and accumulation, enough and more, has haunted economics ever since. Medieval scholars argued over whether God approved of interest and what made a price just. In the fourteenth century, the North African historian Ibn Khaldun went further than any of them, describing the division of labor, the way rising prosperity breeds luxury and then decline, and the way excessive taxation shrinks the very revenue it seeks, four centuries before European economists said the same.[^v1-c7-khaldun]
 
-Once you populate markets with such beings, the emergent "mind" looks less like a serene super-intelligence and more like a mood disorder with a Bloomberg terminal:
+## The Classical Machine
 
--   Tulip mania in the 17th century,
+The modern discipline began with the idea that an economy is a system with its own laws, like the solar system Newton had just explained.
 
--   the Roaring Twenties and the crash,
+Adam Smith used the phrase "invisible hand" only once in *The Wealth of Nations*, almost in passing: a merchant pursuing his own gain is "led by an invisible hand to promote an end which was no part of his intention," the good of society.[^v1-c7-smith] It became the most famous metaphor in economics, and the most misread. Smith had already written an entire book, *The Theory of Moral Sentiments*, arguing that human beings are bound together by sympathy, conscience and the wish to be worthy of others' regard. His markets were meant to operate inside a moral society, not to replace it.
 
--   the dot-com bubble and its hangover,
+Smith's successors made the machine more precise and more somber. Ricardo, as we'll see, explained trade. Thomas Malthus warned that population tends to outrun food, so that every gain in prosperity would be eaten by more mouths, a prediction that held for most of history and then, thanks to industry and agriculture, spectacularly failed.[^v1-c7-malthus] Karl Marx, writing from the smoke of industrial England, took the classical idea that value comes from labor and turned it into an indictment: if workers create value, and owners keep the surplus, then profit is unpaid work, and capitalism contains the seeds of its own crisis.[^v1-c7-marx] His predicted revolutions mostly happened in the wrong countries and went horribly wrong. But his diagnosis (that markets concentrate power, that work can be alienating, that economies lurch from boom to bust) never quite went away.
 
--   housing booms, housing busts,
+The economist and historian Karl Polanyi made the point sharper. In *The Great Transformation*, published in 1944, he argued that for most of history economies were "embedded" in society, governed by custom, kinship and religion, and that the nineteenth-century attempt to create a self-regulating market, treating land, labor and money as ordinary commodities, tore that fabric apart.[^v1-c7-polanyi] Societies, he observed, always push back. Every wave of marketization provokes a countermovement of people trying to protect themselves from it: unions, regulations, protests, sometimes upheavals. He called it the double movement. Keep it in mind for the end of this chapter.
 
--   meme stocks and sudden crusades against hedge funds.
+## The Marginal Revolution
 
-If markets are a mind, it's a manic-depressive one: euphoric, then despondent, often on the basis of information that hadn't changed much between breakfast and lunch.
+In the early 1870s, three economists working separately, in England, Austria and Switzerland, changed the question.[^v1-c7-marginal] Value, they argued, doesn't come from the labor that went into a thing, but from how much people want one more of it. That solved an old puzzle Smith had posed: why is water, which we can't live without, so cheap, while diamonds, which we can, are so expensive? Because what sets a price isn't total usefulness but usefulness at the margin. The first glass of water in a desert is priceless; the hundredth, in a city with plumbing, is worth almost nothing. Diamonds are scarce, so even the next one is precious.
 
-### Speculation, Algorithms, and Flash Reflexes
+Thinking at the margin became the core of modern economics. Alfred Marshall drew the picture every student still learns: a demand curve sloping down, because people buy less as prices rise; a supply curve sloping up, because producers make more as prices rise; and a price settling where they cross. He compared the two to the blades of a pair of scissors: asking whether supply or demand sets the price is like asking which blade does the cutting.[^v1-c7-marshall] One of the three went further, imagining every market in an economy adjusting at once until all of them cleared together, a general equilibrium. In the 1950s, two economists proved that under certain idealized conditions such an equilibrium exists. Related welfare theorems establish when competitive equilibria are efficient: no one could be made better off without making someone else worse off.[^v1-c7-arrow]
 
-As if ordinary human bias weren't enough, we wired large chunks of this collective brain into silicon. High-frequency trading firms now execute thousands of trades per second on price differences invisible to normal eyes. Models ingest news, tweets, satellite images of parking lots, and God knows what else, turning them into microsecond bets. Speculation has been outsourced to machines that never sleep, never smoke on the balcony, and never pause to wonder if any of this is sane.
+It was a magnificent achievement, and its conditions were the catch: perfect competition, perfect information, no externalities, and people who always know exactly what they want. Much of twentieth-century economics consisted of discovering, one by one, what happens when those conditions fail.
 
-We made the market mind faster. We did not make it wiser. "Flash crashes" gave us a terrifying glimpse of this new anatomy: tiny bugs or feedback loops in algorithmic strategies triggering cascades where billions in value evaporate and reappear in minutes. What used to require a full-blown floor panic now requires a misplaced comma in code.
+## When the Conditions Fail
 
-Psychology never left the market; it just put on a silicon mask.
+**Strategy.** The equilibrium picture treated people as reacting to prices. But people also react to each other. In 1944, the mathematician John von Neumann and an economist colleague founded game theory, the mathematics of strategic choice, and in 1950 John Nash showed that every finite game has at least one equilibrium, allowing players to randomize their choices, where no player can do better by changing strategy alone.[^v1-c7-games] The most famous game is the prisoner's dilemma: two partners in crime, questioned separately, each do better by betraying the other, yet both end up worse off than if they'd both stayed silent. It's the logic of arms races, price wars and overfished seas, and it's the problem every scaling story has to solve. Axelrod's tournaments, which Interlude 5 met, showed one way out: when the game repeats, cooperation can pay.
 
-### Markets as Mythological Beasts
+**The commons.** In 1968, the ecologist Garrett Hardin applied that logic to shared resources. A pasture open to all herders, he argued, will be overgrazed, because each herder gains the full benefit of adding one more animal while sharing the cost with everyone: the tragedy of the commons.[^v1-c7-hardin] His conclusion was that commons must be either privatized or controlled by the state. Elinor Ostrom spent her career showing he was wrong about the either-or. Around the world, she found communities that had governed forests, fisheries and irrigation systems sustainably for centuries, by rules of their own making. The tragedy was real, but it wasn't destiny.
 
-We speak of the market as if it were a character in a myth:
+**Firms.** If markets coordinate so well, why do companies exist at all? Why doesn't everyone simply contract with everyone else for every task? In 1937, a young economist named Ronald Coase gave the answer: because using the market has costs, of searching, bargaining and enforcing, and a firm exists wherever organizing work inside it is cheaper than buying it outside.[^v1-c7-coase] The boundary of a company is the line where those two costs balance. It's an insight with enormous consequences for this book: when technology makes coordination cheaper, the boundaries of firms move, which is exactly what the web was about to do.
 
--   "The market is nervous."
+Meanwhile, the economy built its own institutions to outlive the people in it. The most powerful is the corporation: a legal person that never dies. In 1602, the Dutch East India Company sold shares to the public and became a great joint-stock company, with its own fleets, its own soldiers and its own trading empire.[^v1-c7-voc] Limited liability made it possible to gather capital from thousands of strangers for ventures no one could fund alone, which is the scaling story at its most effective. It also created an entity with the rights of a person and the life span of a mountain, answerable to its shareholders first. It is Interlude 6's dead labor grown into a legal person: an institution that keeps working, and growing, on its own.
 
--   "The market cheered the news."
+**Information.** In 1970, George Akerlof showed what happens when one side of a deal knows more than the other. In a used-car market, sellers know which of their cars are lemons; buyers don't, so they offer an average price; owners of good cars withdraw, the average quality falls, and the market can unravel entirely.[^v1-c7-akerlof] Warranties, brands, reputations and reviews all exist to repair that asymmetry. A good deal of the web's commerce would be built on solving it.
 
--   "The market wants cost-cutting."
+**Behavior.** Finally, the people. Herbert Simon, who also helped found artificial intelligence, argued in the 1950s that real decision-makers are not optimizers but "satisficers," with limited time, attention and information, who settle for good enough.[^v1-c7-simon] In 1979, the psychologists Daniel Kahneman and Amos Tversky showed systematic ways people depart from rational choice: losses can weigh more heavily than equal gains, and the framing of a choice can reverse it.[^v1-c7-prospect] Chapter 4's coalition of fast and slow systems, it turned out, also goes shopping. Behavioral economics took those findings into policy, finding that small changes in how choices are presented can change what millions of people do.
 
-These aren't just lazy metaphors. They're admissions that we've built something whose behavior we can't neatly attribute to any individual actor. Markets have become, in practice, a kind of **secular deity of consequences**:
+## The Invisible Hand, Cross-Examined
 
--   When things go well, we say "the market rewarded discipline."
+Put together, these failures amount to a cross-examination of the invisible hand. Markets do remarkable things when their conditions hold, and they fail in predictable ways when they don't. Economists have names for the main failures. *Externalities* are costs or benefits that fall on people outside a transaction, like the factory's smoke in its neighbors' lungs; a proposal from 1920 to tax them survives in today's carbon taxes.[^v1-c7-pigou] *Public goods* (clean air, national defense, basic research, a lighthouse) benefit everyone whether or not they pay, so markets underproduce them.[^v1-c7-samuelson] *Monopolies* replace competition with power. And *information asymmetries*, Akerlof's lemons, can unravel markets entirely. Joseph Stiglitz, who shared a Nobel Prize for work on information, put the critique in a single quip: the invisible hand often seems invisible because it isn't there.[^v1-c7-stiglitz]
 
--   When things go badly, we say "the market punished excess."
+The hand's defenders have their own cross-examination. In the 1920s, the Austrian economists argued, and Hayek later sharpened the point, that a centrally planned economy can't calculate rationally, because without market prices no planner can know what anything is worth.[^v1-c7-mises] The collapse of the Soviet economy in the decades that followed seemed to settle the argument. The modern consensus, to the extent there is one, is a mixed economy: markets for most things, governments for the failures, and permanent argument about where to draw the line. Even Smith's metaphor turns out to be more ambiguous than its admirers assume. The historian Emma Rothschild has argued that Smith may have meant it half ironically, and that he was far more suspicious of merchants' power than the people who quote him.[^v1-c7-rothschild]
 
--   When things make no sense, we shrug and say "the market is irrational," as if grumbling about Zeus.
+## Growth, Ideas and the Weather of Markets
 
-We hedge against it, pray to it, build models to interpret its moods, and occasionally sacrifice people's livelihoods to appease it. Unlike traditional gods, though, the market doesn't forgive. It just reprices.
+Why do some economies grow and others stagnate? A model of growth from capital and labor appeared in 1956. Applied to American data the next year, it left much of the rise in output per worker unexplained by capital deepening. The remainder, the famous "residual," was labeled technical change: better ways of producing, along with whatever else the accounting had not captured.[^v1-c7-solow] A later theory explained why ideas are so powerful. Unlike a machine, an idea can be used by any number of people at once without being used up, so an economy that produces ideas can grow without the same diminishing returns.[^v1-c7-romer] That property, near-zero cost to copy, would be the economic engine of software and the web, and of the boom I was about to witness. <!-- AI draft, 2026-11-17. -->Ideas don't arrive politely, either. Joseph Schumpeter called capitalism's engine *creative destruction*: each new idea makes its fortune by ruining the firms built around the old one.[^v1-c7-schumpeter] Sage's spinning disks were living proof of both halves: an industry that outlasted every premature obituary, until flash memory quietly took the phones and laptops from it.<!-- End AI draft 2026-11-17. -->
 
-### The Blind Spots of a One-Eyed Mind
+What growth is measured in matters too. Simon Kuznets, who designed the national income accounts behind GDP, warned Congress in 1934 that the welfare of a nation can scarcely be inferred from a measurement of national income.[^v1-c7-kuznets] He was right. GDP counts the cost of cleaning up an oil spill as growth and a parent's care for a child as nothing. The economist Amartya Sen proposed judging development instead by people's capabilities, what they're actually able to do and be.[^v1-c7-sen] It's the single scale again, at the level of nations.
 
-For all their supposed rationality, markets see only what they can measure in money.
+<!-- AI draft, 2026-11-17. Codex adoption; author-approved addition. -->
+There is a stranger omission beneath that measurement. The worker arrives fed, raised, taught and, with luck, cared for when ill. Much of the work that makes paid work possible never reaches a payroll. A household can absorb costs a firm appears to have eliminated. That does not mean every kindness needs an invoice; it means the priced economy depends on relations its own accounts can scarcely see.[^v1-c7-care]
 
--   Clean air, stable climate, functioning democracies, and mentally healthy citizens do not have tickers.
+Nor does a reusable idea make its implementation weightless. The recipe can travel almost free; the chip fab, electricity, cooling water and waste cannot. Better recipes can reduce what each useful result costs. Whether the total burden falls also depends on how many results we demand. The economy can change its story much faster than the planet can change the conditions under which the story is lived.[^v1-c7-material]
+<!-- End AI draft 2026-11-17. -->
 
--   A rainforest, once cut into lumber, suddenly acquires a price; standing, it counts as scenery.
+Economies have weather, and economists have spent a century arguing about whether to forecast it or seed the clouds. During the Great Depression, John Maynard Keynes argued that markets left to themselves can stall for years, with idle factories and idle workers side by side, because when everyone becomes afraid to spend, everyone's income falls together. He blamed "animal spirits," the waves of confidence and fear that drive investment, and argued that governments should spend when private spending collapses.[^v1-c7-keynes2] Hayek, his great rival, warned that such interventions distort the price signals markets depend on, and that a planner trying to steer an economy is trying to hold knowledge no one can hold. The argument between them has never ended. Each side tends to win the decade after the other's prescriptions fail.
 
--   A community fraying under stress does not ring an alarm bell on a trading screen.
+Out of the Depression and the war came an attempt to tame the weather for good. In 1944, at Bretton Woods, in New Hampshire, the Allied nations designed a postwar economic order: fixed exchange rates tied to the dollar, which was tied to gold; an International Monetary Fund to lend to countries in trouble; a World Bank to finance reconstruction and development; and, soon after, a General Agreement on Tariffs and Trade, the ancestor of the WTO.[^v1-c7-bretton] For a quarter-century, Western economies grew fast, with governments managing demand in Keynes's manner. Then, in the 1970s, came stagflation, high inflation and high unemployment at once, which a simple, stable trade-off between inflation and unemployment could not explain. Friedman and the monetarists stepped into the breach, and in the 1980s Margaret Thatcher and Ronald Reagan led a turn toward markets: lower taxes, deregulation, privatization, smaller government. In 1989, a set of market-oriented reforms for Latin America was named the "Washington Consensus," and the free-trade order of the 1990s, the one that chose Seattle as its showroom, was its high-water mark.[^v1-c7-washington]
 
-The market-mind is powerful but one-eyed. It excels at pricing traded goods and financial assets. It is terrible at accounting for **externalities**---the side effects that spill into lungs, rivers, attention spans, and future generations.
+Whether that growth is shared is the oldest question in economics, and one of the least settled. In 2013, Thomas Piketty assembled centuries of tax and wealth records to argue that when the return on capital outpaces the growth of the economy, as it has for most of history, inherited wealth can pull ahead of earned income.[^v1-c7-piketty] His conclusions remain contested. But the view from my apartment by the marina, three miles up the shore from Xanadu, made the question feel less abstract.
 
-So when we talk about "listening to the market," we should be precise. We are listening to a nervous system that only fires when something touches money. Everything else is peripheral vision at best, total darkness at worst.
+Financial markets got their own theory of the weather. In 1970, Eugene Fama formalized the efficient-market hypothesis: prices reflect the information available, making it difficult to earn excess returns consistently from that information after allowing for risk and costs.[^v1-c7-fama] Robert Shiller, who shared the same Nobel Prize, spent his career showing that markets swing far more than the news justifies, driven by stories, fashions and contagious enthusiasm.[^v1-c7-shiller] Both men won the prize in the same year, which tells you something about the state of the science. Meanwhile, a group of economists and physicists at the Santa Fe Institute, including Brian Arthur, began treating the economy not as a machine settling into equilibrium but as a complex adaptive system: always evolving, never at rest, full of feedback loops and surprises.[^v1-c7-complexity] It's the view of the economy this book finds most congenial, since it treats an economy as an emergence, like everything else on our ladder.
 
-Later in this book, we'll ask what it would mean to design systems where value isn't so tightly handcuffed to price. For now, it's enough to say: The market is a mind we built by accident and then handed the car keys to. It is brilliant at some things, foolish about others, and absolutely certain of its own verdicts.
+And every so often, the weather turns violent. In the 1630s, Dutch tulip bulbs briefly sold for prices that later became legend. In 1720, shares in Britain's South Sea Company soared and collapsed, taking fortunes with them. In 1929, a decade of rising stock prices ended in a crash that helped bring on the Depression.[^v1-c7-bubbles] Each time, people at the height of the boom explained why this time was different. Each time, the memory had stopped consulting the world. In the late 1990s, a new boom was gathering, and I happened to be living in one of its capitals.
 
-The next section goes backstage, to the people whose labor keeps this creature moving---even as it pretends they are interchangeable parts.
+## One Market, Many Shores
 
-## Capital, Labor, and the Ghost in the Assembly Line --- From Ford to Foxconn
+By the late 1990s, the economy's favorite story was that the world was becoming a single market. Its intellectual ancestor was David Ricardo, who showed in 1817 that two countries can both gain from trade even if one of them is better at making everything, as long as each specializes in what it's *relatively* best at.[^v1-c7-ricardo] <!-- AI draft, 2026-11-17. -->His own example was English cloth and Portuguese wine. Say a bolt of cloth takes a hundred workers a year in England and ninety in Portugal, and a cask of wine a hundred and twenty in England and eighty in Portugal. Portugal is better at both. But each bolt England makes costs it only five-sixths of a cask, while each bolt Portugal makes costs it a cask and an eighth. If each country makes one of each, the two together get two bolts and two casks from 390 workers. Put England's 220 workers on cloth and Portugal's 170 on wine, and the same people make 2.2 bolts and about 2.1 casks: more of both, with the better producer still gaining by buying what the other makes relatively well.<!-- End AI draft 2026-11-17. --> It's one of the few ideas in economics that is both true and counterintuitive, and it became the moral foundation of free trade. Add the shipping container from the last chapter, which sharply reduced the cost of moving goods, and the fax, the satellite and finally the internet, which sharply reduced the cost of coordinating them, and the world's supply chains stretched across oceans. A shirt might be designed in one country, sewn in a second, from cotton grown in a third, and sold in a fourth.
 
-If markets are the nervous system of capitalism, then labor is the musculature---the moving, sweating, complaining part. Capital is the skeleton and the bank account.
+Seattle was one of the places where that story felt most true. Its port faced Asia. Boeing built airplanes for every continent from parts made on several of them; Microsoft's software ran on most of the world's desks; a coffee company that had started as a single shop near the Pike Place Market was turning into a global brand; and three miles from my first apartment, a bookstore with no shelves was beginning to ship to anyone, anywhere. The World Trade Organization, agreed upon in the weeks after I arrived, was designed to write the rules for exactly this world: lower tariffs, common standards and a court to settle disputes between nations.
 
-Capitalism's defenders like to talk about innovation, entrepreneurship, and "job creation." Its critics like to talk about exploitation, alienation, and burnout. They're usually describing the same factory from opposite ends.
+Ricardo's arithmetic is right about the whole, and silent about the parts. Trade makes the total larger, but it moves work from one place to another, and the gains rarely find their way to the people whose work moved. Later research would show how deep and lasting the damage could be for the towns whose factories closed.[^v1-c7-autor] In the 1990s, for those who weren't winning, the single market looked less like a shared story and more like a story told about them, by others. Polanyi had seen what comes next.
 
-### Human as Machine --- Taylor, Ford, and the Stopwatch
-
-In the early 20th century, Frederick Winslow Taylor walked into factories with a stopwatch and the moral certainty of a man who had never had to maintain a constant pace for eight hours. His "*scientific management"* program broke tasks into tiny units, timed every motion, and declared any deviation from the optimum a kind of moral failing. Workers became moving parts in a machine of his design. The role of management was to think; the role of labor was to execute.
-
-Henry Ford then took this philosophy and bolted it to the assembly line. Instead of many craftspeople building one car, many workers each performed a narrow, repetitive task as the car-in-progress rolled past. A human being became: one twist of a wrench, one weld, one set of bolts per minute, all day, every day. Ford did something cunning, though. He paid relatively high wages and set prices so that his workers could, in theory, afford the product they were helping to build. This wasn't just manufacturing; it was a self-replicating ecosystem: wages created customers who justified more production that justified more wages. A middle class was born in part from this loop. But the cost was alienation. You could work on two thousand cars a month and still never feel like you had *made* a car. Your contribution dissolved in the conveyor belt.
-
-### Global Labor Arbitrage --- From River Rouge to Shenzhen
-
-As globalization and neoliberalism gathered speed, the ethic of efficiency that animated Taylor and Ford discovered passports and container ships. If you could make the same product in a country with lower wages, weaker labor protections, and fewer environmental constraints, then why wouldn't you? The spreadsheet had no column for "*community*" or "*dignity*." Factories migrated. Supply chains lengthened. Countries competed to be attractive hosts for capital, often by cutting the very protections that made life bearable.
-
-Foxconn, assembling devices for global brands, became a kind of ghostly descendant of Ford's River Rouge plant---but with two crucial differences:
-
--   The products were far more valuable in global markets.
-
--   The workers, in many cases, could never afford the devices they helped assemble.
-
-Ford's circle---worker as both producer and consumer---fractured. Profit decoupled from the prosperity of the local workforce. The "efficiency" of global labor arbitrage meant the benefits accrued to capital owners and consumers elsewhere, while the costs---monotony, stress, injury, exposure to toxins---were localized and invisible.
-
-The luxe glass slab in your pocket contains, nested deep inside, the unpaid stories of people whose names you will never know.
-
-### Automation and the Cybernetic Proletariat
-
-As if that weren't enough, many of those jobs are now being handed to machines. Robots do not unionize, sleep, or ask about bathroom breaks. Algorithms do not quit when the schedule is unfair. From automotive plants to fast food kiosks, tasks once done by humans are being automated.
-
-In places like Amazon warehouses, humans and machines coexist under a regime of continuous measurement. Devices strapped to workers' wrists track motion and pause time; software optimizes routes through aisles; quotas are set at levels that make tired bodies into bottlenecks. The factory becomes a **cybernetic system**: humans as adaptable manipulators of physical reality, algorithms as overseers, and sensors as tattletales.
-
-Labor here is not just muscle; it is **data**. Your pace, your errors, your "time off task" become inputs into the optimization loop.
-
-We have, in effect, created a new class: the **cybernetic proletariat**---humans whose main economic role is to serve as supple components in algorithmically orchestrated systems.
-
-### The New Assembly Lines of Emotion
-
-At the same time, the jobs that resist automation often require something machines still fake poorly: empathy, judgment in ambiguous situations, the ability to absorb another person's distress without screaming. Customer support, caregiving, teaching, therapy, content moderation, hospitality---all depend on emotional labor. But in many cases, this labor is: scripted, monitored, outsourced across borders, and delivered under conditions that reward fake cheerfulness over genuine care.
-
-A call center worker reading from a script in Manila, a content moderator watching horrors on fast-forward to keep your feed clean, a nurse juggling impossible patient loads---these are all versions of the "ghost in the assembly line": present enough to keep the system functioning, but invisible enough to be discounted in budget meetings.
-
-We've moved from hands on bolts to hearts on call, but the structure of extraction has not changed as much as we like to think.
-
-Later, when this book talks about redesigning work under NEURO---about neufacturing, about what it would mean for humans to be **authors** of systems rather than replaceable parts---this history matters. We can't fix the engine without remembering where the ghosts are buried.
-
-## The Cracks Beneath the Dream --- Inequality, Externalities, and the Limits of Growth
-
-Capitalism tells a compelling origin story about itself. It stars the entrepreneur who starts in a garage, the family that climbs from poverty to comfort, the visionary who bets everything and wins. These stories are real. They are just not the whole sample.
-
-For every life that follows the upward curve, many more trace sideways lines, downward lines, or lines that oscillate near the edge of disaster. If you zoom out far enough, what emerges is not a universal escalator but an uneven terrain: some on peaks, some in valleys, some in pits they did not dig.
-
-### The Mathematics of Unevenness --- Inequality as Feature, Not Glitch
-
-Economists use the **Gini coefficient** to measure income inequality: zero means perfect equality, one means one person has everything and everyone else is eating imaginary cake. Most countries sit somewhere in between, but the trend in many has been the same: upward.
-
-This isn't an accident. If income from capital (owning land, stock, intellectual property, platforms) grows faster than income from labor, and the returns on wealth are reinvested, then wealth tends to accumulate. Thomas Piketty's shorthand formula, **r \> g** (the rate of return on capital exceeds the rate of economic growth), turned this into a neat line of algebra and a very messy political problem. Those who already own assets see their wealth snowball. Those who rely on wages see their bargaining power erode. Mobility becomes less a ladder and more a lottery.
-
-Capitalism can tolerate inequality. In fact, it seems to metabolize it quite well, so long as the discontent stays fragmented or distracted. The cracks show up as:
-
--   stagnant wages amid rising productivity,
-
--   exploding asset values (stocks, housing) out of reach for many,
-
--   and the quiet normalization of "working poor" as a category.
-
-### Externalities --- The Invisible Bill
-
-Markets are surprisingly good at aligning prices with costs **that show up on an invoice**. Coal, iron, labor hours, shipping containers---these have prices that firms must pay. But when burning coal warms the planet, melts glaciers, floods coastal cities, and worsens asthma, there is no automatic line item for those costs in the company ledger. These are **externalities**: consequences of transactions that are borne by third parties, future generations, or nonhuman life.
-
-Classic examples:
-
--   Smoke from a factory drifting over a town,
-
--   Fertilizer runoff creating dead zones in rivers and seas,
-
--   Noise and pollution from airports.
-
-Modern examples have gone fully 21st-century:
-
--   Social media platforms optimizing for engagement, then exporting the cost in the form of attention fragmentation, anxiety, and political polarization.
-
--   Fast fashion offering cheap clothes while quietly piling up microplastics in oceans and landfills.
-
--   "Green" technologies that rely on lithium and rare earth mining with their own local ecologies of harm.
-
-The pattern is consistent: Profit is privatized; costs are socialized, spatially or temporally displaced. We have built an economic system that knows the price of a barrel of oil to the cent, but has no built-in way to represent the value of a stable climate.
-
-### Growth on a Finite Planet --- When the Graph Meets the Globe
-
-For most of the 20th century, growth was the closest thing we had to a civil religion. Higher GDP meant more jobs, higher tax revenues, more stuff, more options. Political legitimacy often rode on a simple graph: up and to the right.
-
-In the early 1970s, the **Limits to Growth** report used systems models to explore what happens when exponential economic growth meets finite resources. It suggested that, unchecked, we could face declining living standards, ecological collapse, or both. At the time, critics dismissed it as gloomy speculation. Some of it was. But in the decades since, several of its curves---emissions, biodiversity loss, resource depletion---have tracked uncomfortably close to those early simulations.
-
-Capitalism as currently practiced tends to assume that every year there must be more production, more consumption, and more throughput. And, if not, then something is wrong. But the Earth is not expanding to accommodate our graphs. It has limited forests, topsoil, freshwater, and species. Efficiency gains and digitalization have helped decouple some growth from material footprints, but not nearly enough. The "cloud" sits in data centers that burn electricity and consume land and water.
-
-From a distance, the situation looks absurd: we are running an economic operating system that implicitly assumes multiple planets, in a world that came with only one.
-
-### Degrowth, Recalibration, and Alternative Maps
-
-In response, a growing chorus of economists and thinkers has begun asking taboo questions:
-
--   What if perpetual growth is not compatible with long-term survival?
-
--   What if we measured success in terms of well-being, resilience, and equity, rather than the sheer volume of transactions?
-
-Ideas on the table include:
-
--   **Degrowth**: deliberately reducing material and energy throughput in wealthy societies while improving quality of life.
-
--   **Doughnut economics** (Kate Raworth): designing an economy that stays within ecological ceilings while meeting social foundations.
-
--   **Steady-state economics**: aiming for a stable level of resource use and population.
-
--   **Regulated capitalism**: strong carbon pricing, wealth taxes, robust public services, and stringent environmental rules.
-
-Each of these proposals has critics. Some worry about innovation stalling or poorer countries being locked out of development. Others point out that global coordination on anything more complex than a sports tournament has not been our species' strong suit. But the deeper resistance is psychological and structural. An entire architecture of jobs, pensions, debts, and political promises is pegged to the assumption that next year will be bigger than this year.
-
-To question growth is to question the foundation of how we currently understand security.
-
-### Why These Cracks Matter for Our Design Horizon
-
-From the vantage point of this book, inequality, externalities, and limits to growth are not side issues. They are the **failure modes** of our current economic design.
-
--   Inequality shows where the system channels value to some and risk to others.
-
--   Externalities show what the system refuses to see.
-
--   Planetary limits show where our abstractions crash into physics.
-
-In Part II, we will put these cracks under the diagnostic lens: how did our eleven domains conspire to normalize this arrangement? In Part III, when we talk about neuconomy and Neubank, we're not fantasizing about a utopia; we're asking what it would mean to build an economic system that internalizes externalities, treats human flourishing as a constraint, not an afterthought, and remembers that every spreadsheet ultimately sits on a planet with fault lines and forests.
-
-For now, it is enough to recognize that the dream of capitalism---prosperity, innovation, mobility---has been real for many, but it has never been evenly distributed, and it has never been free of hidden costs. We have built an engine of prosperity that also doubles as a slow machine for manufacturing fragility. In the next chapter, we'll ask what happens when that engine meets its favorite enforcement mechanism: the nation-state.
-
-## What the Market Misses --- Informality, Reciprocity, and Human Flourishing
-
-If you only listened to markets, you'd conclude that value appears when someone sends an invoice and disappears when the bill is paid. Everything else is "nice to have" or a hobby. Reality disagrees. Behind every functioning market economy sits a vast **informal and reciprocal economy** that doesn't show up in GDP but keeps everything from collapsing into loneliness and lawsuits.
-
-### The Invisible Half: Care, Favors, and Gift Loops
-
-Start with the **basics**: raising children, caring for elders, supporting sick friends, cooking, cleaning, emotional first aid, community organizing, and mutual aid. A huge portion of this work, historically done by women, happens off the books. No hourly wage, no quarterly bonus, no IPO. Yet remove it and the formal economy lasts about three days before everyone is hungry, dirty, and too emotionally fried to show up to their "real" jobs. Then there are **informal exchanges**: rides to the airport, advice over coffee, neighbors watching each other's kids, and any small favors that never make it into an app.
-
-Anthropologists have known for a long time that *gift economies* and reciprocity systems --- "I help you now, you help me later, we don't keep a ledger because we are the ledger" --- are the social glue in many cultures. Markets didn't replace this entirely; they just layered themselves on top and playbilled themselves the main act.
-
-### Commons and Shared Infrastructure
-
-Markets also tend to mis-see **commons**: resources held, managed, and sometimes cherished in common rather than privatized.
-
--   Traditional grazing lands, irrigation systems, and forests,
-
--   modern open-source software, shared scientific knowledge, Wikipedia,
-
--   public parks, libraries, sidewalks, basic scientific research.
-
-These are not cases of "no one owns it, so chaos." As Elinor Ostrom patiently documented, many communities develop sophisticated local rules to manage shared resources sustainably. The "tragedy of the commons" is not an inevitable law; it's a warning about badly designed commons.
-
-The market eye often sees a forest as timber, a river as a shipping lane, a code repository as a talent pipeline, and a city block as "underutilized real estate." The people using those things see home, history, community, identity, playground, lifeline. Some of the most generative spaces in modern life --- scientific collaboration, open-source ecosystems, neighborhood mutual aid networks --- thrive precisely because they are not organized primarily as markets.
-
-They operate closer to **Chapters 4 and 5**'s territory: psychology and sociology, trust and norms, shared stories and reputations.
-
-### Capabilities, Not Just Incomes
-
-Economist Amartya Sen and philosopher Martha Nussbaum proposed an alternative way of thinking about prosperity: not just in terms of income or consumption, but in terms of **capabilities**. In their view, what matters is: *What are people actually able to do and to be?* Can they live a healthy life, get an education, participate in decisions that affect them, form meaningful relationships, move freely, and express themselves without fear?
-
-Two people with the same income can have very different capabilities depending on their health, social environment, discrimination, and public services. A society obsessed with aggregate growth can neglect huge capability gaps and still congratulate itself on a rising GDP.
-
-From the perspective of this book, capabilities are the bridge between **economics** and the later chapters on **nations, humanity, ecosystem, and information**:
-
--   Politics allocates capabilities.
-
--   Culture narrates them.
-
--   Ecology constrains them.
-
--   Information systems increasingly mediate them.
-
-### Flourishing vs Throughput
-
-All of this points to an uncomfortable conclusion: a system can be economically "successful" while failing many of the humans inside it. High GDP can coexist with loneliness, burnout, stagnant wages, fragile communities, eroded trust, and a simmering sense that the game is rigged.
-
-Markets are superb at allocating certain kinds of goods under certain conditions. They are not an all-purpose operating system for human flourishing.
-
-So when we get to Part II and start diagnosing "what went wrong," and in Part III when we start to erect the pillars of what I call the "neuverse," we will need to keep this in mind:
-
--   Some of what we need is better markets.
-
--   Some of what we need is better states.
-
--   And some of what we need is more room for **non-market logics**: commons, care, reciprocity, public goods, shared infrastructures, things that are too important to be left entirely to price signals.
-
-If the earlier sections showed how capitalism built an engine of production and a dream of mobility, this section reminds us that much of what makes life *worth* living is powered by circuits that never pass through a stock exchange. Those circuits are the soil. The formal economy is the crop. Forget which is which, and you end up salting your own field.
-
-## The Final Trade --- Between Post-Capitalism and Collapse
-
-By now, the shape of the dilemma should be familiar:
-
--   We have an economic engine that is astonishingly good at innovation and scale.
-
--   It is also prone to inequality, blind to many costs, and not built for a finite planet.
-
--   It depends on informal care, commons, and ecological stability that it does not reliably replenish.
-
-The question is not whether this system will change. It already is. The question is *how* and *on whose terms*. You can think of it as the last, most consequential trade we face: what are we willing to give up from the current system in order to keep what truly matters?
-
-### Three Stories About What Comes Next
-
-Roughly speaking, we're offered three storylines, often all at once, depending on who's talking.
-
-1.  **Reform Forever**
-
--   Stronger regulation, better safety nets, greener technology, more inclusive capitalism.
-
--   Carbon taxes, wealth taxes, ESG investments, stakeholder capitalism, "net zero by 2050" slogans.
-
--   The system remains recognizably capitalist, but with guardrails and patches.
-
-This is the "we can fix it from within" narrative. It assumes the current mix of markets, states, and corporations is fundamentally legitimate, just poorly tuned.
-
-2.  **Post-Capitalism by Design**
-
--   Cooperative platforms, data commons, community-owned infrastructure, universal basic services or income, shorter work weeks, alternative currencies.
-
--   Experiments in sharing economies that aren't just "Uber with worse benefits," but genuine attempts to redesign ownership and governance.
-
--   Movements that talk about "the commons," "solidarity economies," "degrowth," "doughnut cities," or, in the language this book will later use, **neuconomy** and the **C8** charter.
-
-Here the assumption is: the current operating system is too deeply misaligned with human and planetary constraints; we need a new one, designed on purpose, with better defaults.
-
-3.  **Collapse and Salvage**
-
--   Systems fail piecemeal: climate shocks, financial crises, institutional breakdown, authoritarian backlashes, large-scale migration, infrastructure strain.
-
--   People and communities improvise under duress: local mutual aid, parallel institutions, gray markets, hacks of old systems.
-
--   Out of the rubble of old arrangements, new norms and structures emerge---but through trauma, not design.
-
-This is the storyline nobody *wants*, but which history never fully rules out.
-
-Reality will likely be a messy hybrid of all three: reform attempts, deliberate experiments, and unplanned shocks all interacting in real time.
-
-### The Role of Power --- Who Designs the After?
-
-One thing economics textbooks are strangely quiet about is **power**.
-
--   Who decides which reforms are politically possible?
-
--   Who controls the data and the platforms?
-
--   Who writes the trade rules, tax codes, zoning laws, and intellectual property regimes?
-
--   Whose losses are considered "necessary adjustments," and whose are treated as national emergencies?
-
-Our economic future will not be determined solely by what is technically feasible or even socially desirable. It will be shaped by conflicts and negotiations among states, corporations, movements, and communities. That's why, just after this chapter, we turn to **nations, empires, and governance**. If capitalism is the engine, states are among the primary hands on the steering wheel---and occasionally on the chokehold of the engine itself.
-
-You cannot redesign the economic architecture without confronting the legal frameworks that define property and contracts, the coercive power that enforces them, and the stories nations tell themselves about what prosperity means.
-
-This chapter has tried to show the engine as it is: its ingenuity and its blindness, its successes and its cracks. The next chapter will turn to the political architectures that grew up around that engine---the nation-state, the empire, the border, the passport---and the ways they have both constrained and supercharged the machine. Only then, with power and incentives on the table together, can we honestly talk about what a different trade might look like.
-
-### At the Threshold
-
-And so we come to the threshold hinted in this chapter's subtitle. The monster is not just inequality, nor ecological collapse, nor runaway AI. It is the deep mismatch between the speed of technological change and the pace of moral, political, and psychological adaptation. It is a system that asks us to produce more than we can consume, consume more than we need, and need more than we are allowed to question. The real trade is not just labor for wages or time for things. It is soul for structure. Meaning for metrics. Community for convenience.
-
-In Seattle, amidst coffee shops and code, this contradiction pulsed daily: the startup dreaming of global transformation while ignoring the tent city outside its office window. The economic engine purring as the social chassis crumbled. The dream remained, but the gate was cracking.
-
-The next chapter takes us through that gate.
-
-## Closing --- The Castle Built by Capital
+## The Castle Built by Capital
 
 Seattle became my castle. Not for the economics, but for the culture, for belonging, for the mountains and the sea, for the cloudy afternoons, for the vibrancy of downtown, for the mutual intellect of a like-minded city, for the micro-culture, for grunge, for the microbreweries, for a woman, and for that silly little thing people call a successful career.
 
-I needed money for all that, and this system of commerce (and in my case, also e-commerce---my livelihood) provided it. I didn't have a fat investment portfolio; it took time just to pay off the cost of getting there (credit card debt). I didn't care much about a portfolio anyway. I cared about all those other things that money buys, which in turn buy happiness in this adulterated world of ours, whether you like it or not.
-
-Yes, true happiness doesn't *need* money. But capitalism, by dangling all its fake matrices in front of you, abstracts, obscures, and encroaches the free component of happiness. It wraps joy in packaging and then sells you the box.
-
-I lived on the waters of Lake Washington. I enjoyed the view by day, and slept to the soothing sound of waves under my bed by night. I worked---worked hard---at different companies, doing my part in the development and innovation of the nascent field of e-commerce. The dot-com crash was still somewhere in the future, and e-commerce was doing its own e-cosmic expansion.
-
-It was an e-Cambrian explosion: the internet was trying all forms and shapes. Every field, every niche was now a "dot-com idea" in someone's coffee- or microbrew-filled brain. Most recently, I was engaged as Vice President of Technology and Chief Technology Officer for a start-up with its own hops in the kiln.
-
-Seattle was my castle now. Not a literal castle like my fraternity house in Los Angeles, but a city where, for a fleeting moment, I felt invincible. Young, accomplished, at the crest of a wave as the millennium drew to a close. I had found my place in the bursting world of the internet---piling up early experience in networks, user interfaces, and the nascent web, right at the heart of Seattle's startup scene.
+I lived on the waters of Lake Washington. I enjoyed the view by day, and slept to the soothing sound of waves under my bed by night.
 
 This was my home; I would never leave Seattle. I had dreamed of being there for a very long time, and now I was finally there. I remember wondering where in Seattle I might move later in life, what would be a cool place to retire *near* Seattle.
-
-I could, for a moment, piece my entire life together, all my dreams together too. They started and ended here, in the Pacific Northwest, in and around Seattle.
 
 So: I had my matter where it belonged (physics). I was healthy (biology). I had a brain, or at least an education (mind). I was relatively poised (psychology). I had my city (social). I was part of the system and industry (engineering/infrastructure). And I was meshed into the economic engine (economics).
 
 But I was missing a country.
 
-I had to go and get one. I had to head north again. Even further north, to Canada, where my family now lived. Which also meant I had to attend to some family obligations in the True North. Or perhaps, to put the two together: just Truth.
+I had to go and get one.
 
-I even flirted with my own dot-com entrepreneurship---drawn by the siren song of innovation, ownership, success.
+## The Upheaval: The Battle of Seattle
 
-It was a time of belief: belief in progress, belief in meritocracy, and belief that the machine could reward those who worked, dreamed, and built. But beneath that glittering surface, the shadow of the monster stirred. Even the economics I claimed as stable were shaky---at least in a non-personal, holistic sense.
+In mid-November, I left Seattle for Toronto, for reasons that belong to the next chapter. I left a city where everything I'd built was finally beginning to stand.
 
-### Capitalism's Monster: The Dream and Its Cost
+The Corolla---the wise elder---refused to take part in this exodus. It continued to insist that it was "not Dante-ready," this time muttered something about "circles of economic hell," and left me for a high-schooler named Joel.
 
-In that snowstorm, I became a hero to my neighbors. *He made it!* they said. *He escaped.* But the truth was more complex. I had not escaped the monster. I had entered its maw. I was now part of the machine that offers prosperity at the price of inequality, innovation at the price of exploitation, comfort at the price of conscience. Truth be told, economics felt more like the actual drive itself in that blinding, ice-slicked snowstorm.
+A few weeks later, the World Trade Organization opened its ministerial meeting in downtown Seattle, and the city I'd just left filled with tens of thousands of protesters.[^v1-c7-wto99] They were an unlikely coalition: steelworkers and longshoremen marching beside environmentalists dressed as sea turtles, farmers, students, church groups and anarchists. "Teamsters and turtles," the papers called them. They blocked the intersections around the convention center so that delegates couldn't reach the opening ceremony. The police answered with tear gas, pepper spray and rubber bullets; the mayor declared a state of emergency and a curfew; the National Guard arrived. By the end of the week, the talks had collapsed. The police chief announced his resignation shortly afterward.
 
-Seattle was my dream city. But it was also where I saw, more clearly than ever, the two faces of capitalism: the face that lifts some up, and the face that grinds many down. The same engine that gives can also take. The same machine that builds can also burn. Seattle taught me both.
+I watched it on television, from Toronto. The streets I'd walked to job interviews were full of smoke, and the economic order that had chosen Seattle as its showroom the season I arrived was being shouted down in front of its own display windows. It was Polanyi's double movement, staged in my old city: a market that had tried to disembed itself from society, and a society pushing back. <!-- AI draft, 2026-11-17. -->In Alice's terms, many in the streets believed the heaviest players were writing the curve of the field into the rules of world trade; the WTO's defenders answered that common rules were the best protection small countries had against exactly those players. Both sides agreed, at least, that whoever writes the rules shapes the field.<!-- End AI draft 2026-11-17. --> It also looked, at moments, uncomfortably like Chapter 5. A crowd that had gathered peacefully became something else in the gas, much as the crowd research of Chapter 5 would predict: not a mob losing its mind, but a crowd being shaped by how it was treated.
 
-## Where Capital Meets Its Consequences
+The second punch took longer to land. On March 10, 2000, the NASDAQ index of technology stocks reached its peak.[^v1-c7-nasdaq] Over the next two and a half years, it lost nearly four-fifths of its value. The financial loop above, prices increasingly sustained by expectations of further price rises, had finally been forced open. Seattle felt it everywhere. HomeGrocer, an online grocery company from the Eastside, merged with its rival Webvan, and the combined company went bankrupt within a year.[^v1-c7-webvan] Amazon, the bookstore in the garage three miles from my first apartment, saw its stock fall by more than ninety percent, and was widely written off.[^v1-c7-amazonfall] It survived, which is its own lesson about the difference between a story that's overpriced and a story that's false.
 
-### The Bureaucracy That Chained Me
+The economy I'd come to Seattle to join, with an empty wallet and a Corolla for a bedroom, had paid my way out of the closet and up the shore. Then, as I left, it was challenged in its streets and broken in its markets. That pattern again: the systems never seemed to collapse while I was inside them. They waited until I'd gone, as if to show me the full outline of what had held me up.
 
-In the end, it wasn't capitalism's monster that drove me out of Seattle. It wasn't greed, inequality, market forces, or even the rising empire Jefferson Bezos was hammering together a stone's throw from where I lived.
+Money had carried me further than any story before it. But money, it turned out, rests on a deeper story still: the one that decides who belongs where, who may stay and who must leave. That story was waiting for me across the border.
 
-It was paperwork. A clerical mishap---the most banal monster of them all---slithered out of some corporate filing cabinet and wrapped its tentacles around my immigration file. No market incentive could save me from the bureaucratic equivalent of stepping on a rake.
+<!-- SOURCE NOTES: from memory unless linked; verify each before print. -->
+<!-- SOURCE AUDIT 2026-11-17: reference and equation checks, scope, remaining locator limitations and figure data are recorded in work/volume-1-drafting/pair-07-fable-adoption-2026-11-17/SOURCE_AUDIT.md. The preceding comment records incoming provenance. -->
 
-So I packed my life into a U-Haul the size of a developing nation's GDP, hitched my black sports car behind it like a loyal but nervous terrier. The Corolla---the wise elder---refused to take part in this exodus. It continued to insist that it was "not Dante-ready," this time muttered something about "circles of economic hell," and left me for a high-schooler named Joel.
 
-### Crossing the Plains: Leaving One Castle for Another
+<!-- AI draft footnotes, 2026-11-17; from memory, to be verified. -->
 
-And so I left the city that had been my dream. I crossed the Montana plains---where the sky practices infinity---and watched the mountains flatten into possibility. I was leaving one castle and heading toward another: from Seattle's kingdom of code to Toronto's empire of capital; from venture rainforests to Bay Street's polished stone; from the marketplace of ideas to the marketplace of interest rates. Capitalism, like monarchy, follows you even when you flee the realm. It simply changes the accent of its crown.
 
-### The Monster Returns: Seattle in Revolt
+[^v1-c7-keynes]: John Maynard Keynes, [*The General Theory of Employment, Interest and Money* (1936), preface](https://people.duke.edu/~garci/cibertextos/ingles/KEYNES-JM/GENERAL-THEORY/GENERAL-THEORY.HTM). The epigraph quotes the opening clause of his final sentence.
 
-But I could not outrun the monster I had spent a chapter dissecting.
+[^v1-c7-apec]: The first APEC Leaders' Meeting was held on Blake Island, Washington, on 20 November 1993, hosted by President Bill Clinton, following the APEC ministerial meeting in Seattle. [APEC leaders’ declaration](https://www.apec.org/docs/default-source/LeadersDeclarations/1993/1993_LeadersDeclaration.pdf).
 
-A few months after I crossed the border, Seattle erupted. The WTO riots of 1999---the "Battle of Seattle"---turned the city into a tableau of rage, dissent, and tear gas. For once, Los Angeles had not been the one to burn. My old castle had set itself on fire without waiting for me. This uprising was not directed at a single verdict, or a beating, or one specific injustice. It was aimed at the entire architecture of capitalism: trade agreements, supranational bodies, globalization's machinery---the monster built collectively, brick by brick, bargain by bargain.
+[^v1-c7-wto]: The Uruguay Round of the General Agreement on Tariffs and Trade concluded on 15 December 1993; the agreement was signed in Marrakesh in April 1994, and the World Trade Organization came into being on 1 January 1995. [WTO chronology](https://www.wto.org/english/thewto_e/minist_e/min96_e/chrono.htm).
 
-From Toronto I watched it on TV: the smashed windows, the chanting crowds, the lines of riot police. It hurt to see that city---which had fed me, sheltered me, and once ticketed me for barely-expired plates (the hallmark of a peaceful city where cops had plenty of license-plates-doodling time on their hands)---now choking on its own contradictions. And yet, I understood the anger. Capitalism's gifts, like its debts, are never evenly distributed. For every Amazon warehouse born, another job dies somewhere else. For every rising stock market, an unseen cost is levied on someone far from the ticker.
+[^v1-c7-cobain]: Kurt Cobain died in Seattle in early April 1994.
 
-The protesters were not wrong. The executives were not entirely wrong either. That is capitalism's paradox: everyone has a point, and no one has the whole story.
+[^v1-c7-amazon]: Jeff Bezos incorporated the company that became Amazon (initially "Cadabra") on 5 July 1994 and began operating from the garage of a rented house in Bellevue, Washington; the site launched in July 1995. Open 7 tells the garage's story. [Company’s fifth-anniversary timeline](https://press.aboutamazon.com/2000/7/amazon-com-celebrates-fifth-anniversary-timeline-illustrates-milestones-and-little-known-facts-about-leading-online-retailers-first-five-years).
 
-### The Monster at the Gates
+[^v1-c7-xanadu]: Bill Gates's estate in Medina, Washington, roughly 66,000 square feet, took about seven years to build and was completed in 1997. The "Xanadu 2.0" nickname alludes to *Citizen Kane* (1941) and to Samuel Taylor Coleridge's "Kubla Khan."
 
-And so Chapter 7 closes on this uneasy truth: capitalism is the great engine of prosperity---and also the factory where we build our monsters. Monsters of consolidation, monsters of inequality, monsters of global complexity too intricate for any one nation, company, or conscience to steer.
+[^v1-c7-harari]: Yuval Noah Harari, *Sapiens* (2011; English 2014), chapter 10. [Author’s account of the book](https://www.ynharari.com/book/sapiens/).
 
-The castle protects us. The monster funds it. And the drawbridge between them is always creaking.
+[^v1-c7-graeber]: David Graeber, *Debt: The First 5,000 Years* (2011). [Author’s book record and chapter list](https://davidgraeber.org/books/debt-the-first-5000-years/). See chapter 2, “The Myth of Barter.”
 
-### Where the Story Splits Next
+[^v1-c7-fiat]: Lydian electrum coins date to roughly the seventh century BCE; government-issued paper money (*jiaozi*) appeared in Song dynasty China in the early eleventh century; President Nixon suspended the dollar's convertibility into gold on 15 August 1971.
 
-As I settled into Canada---a country with fewer billionaires, more forests, and a suspiciously high trust in government---I began to see that markets alone don't shape the world. Nations do. Laws do. Borders do.
+[^v1-c7-creed]: Yuval Noah Harari, *Sapiens* (2011; English 2014), chapter 16, "The Capitalist Creed." [Author’s account](https://www.ynharari.com/book/sapiens/).
 
-Chapter 8 is where the castle gets walls, and the monster gets a passport.
+[^v1-c7-boe]: Michael McLeay, Amar Radia and Ryland Thomas, "Money creation in the modern economy" (2014), *Bank of England Quarterly Bulletin* Q1. [Bank of England article](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy).
 
-But before we turn fully to politics, we return once more to the machines. Because behind every market, every trade deal, every global tremor, sits a pervasively churning engine of silicon: semiconductor factories, browser wars, IPO frenzies, and the strange new economy born in a garage in Seattle.
+[^v1-c7-friedman]: Milton Friedman, *The Counter-Revolution in Monetary Theory* (1970); see also Milton Friedman and Anna J. Schwartz, *A Monetary History of the United States, 1867–1960* (1963). The Bank of England was founded in 1694; Sweden's Riksbank, founded in 1668, is older, though the Bank of England is usually treated as the model for modern central banking. [Bank of England history](https://www.bankofengland.co.uk/about/history). The [Riksbank’s own history](https://www.riksbank.se/en-gb/about-the-riksbank/history) dates its founding to 1668.
 
-In interlude 7 we leave the global web of economics and enter its silicon cousin, e-conomy -- a different kind of web.
+[^v1-c7-liquidity]: John Maynard Keynes, [*The General Theory* (1936), chapter 13, section II](https://mail.gutenberg.net.au/ebooks03/0300071h/chap13.html), on interest as the reward for relinquishing liquidity for a period; chapter 17 treats money as a link between present and future. Reading this as portable possibility is the author’s gloss.
+
+[^v1-c7-jevons]: With *n* goods and no common unit, there are *n*(*n* − 1)/2 pairwise rates (499,500 for a thousand goods); with a unit of account, *n* − 1. W. Stanley Jevons, *Money and the Mechanism of Exchange* (1875), on the "double coincidence of wants." The count concerns the unit of account, not the disputed claim that barter came first. [Chapter I, “Barter”](https://www.econlib.org/library/YPDBooks/Jevons/jvnMME.html?chapter_num=2). The pair count is direct combinatorics; a common unit reduces quoted ratios without eliminating search or transaction costs.
+
+[^v1-c7-hayek]: F. A. Hayek, "The Use of Knowledge in Society," *American Economic Review* 35(4) (1945): 519–530, especially section V; [author text, reprinted in *Individualism and Economic Order*](https://liberalstudies.ca/wp-content/uploads/2014/06/Use-of-Knowledge-in-Society.pdf). His example uses tin; coffee is substituted here. The price need not reveal the cause of the change to prompt economizing. Describing this as lossy compression is the author's reading, not a claim that prices encode every consequence or every kind of knowledge.
+
+[^v1-c7-memory]: Narayana R. Kocherlakota, "Money Is Memory," *Journal of Economic Theory* 81(2) (1998): 232–251, [doi:10.1006/jeth.1997.2357](https://doi.org/10.1006/jeth.1997.2357); [Federal Reserve author abstract and working paper](https://www.minneapolisfed.org/research/staff-reports/money-is-memory). In the specified environments without commitment, allocations feasible with money are feasible with memory; the converse need not hold. This is a result about incentives and feasible allocations, not a ledger of moral desert. The compression and money-gravity interpretations are the author's.
+
+[^v1-c7-pigou]: A. C. Pigou, *The Economics of Welfare* (1920), proposing what are now called Pigouvian taxes. [Author text on private and social net product](https://www.econlib.org/library/NPDBooks/Pigou/pgEW.html?chapter_num=15).
+
+[^v1-c7-ricardo]: David Ricardo, [*On the Principles of Political Economy and Taxation* (1817)](https://www.gutenberg.org/files/33310/33310-h/33310-h.htm), chapters II–III on rent and mines, and VII on foreign trade. Returns to scarce natural resources and unpaid external costs are distinct concepts; neither is a moral accounting of every payment.
+
+[^v1-c7-radford]: R. A. Radford, [“The Economic Organisation of a P.O.W. Camp,” *Economica* 12 (1945): 189–201](https://courses.cit.cornell.edu/econ4260/out/radford_pow.pdf), especially the currency, price-movement and cigarette-supply passages. Inflation depended on cigarettes relative to goods, not simply on any parcel arriving. On self-reinforcing acceptance, Carl Menger, “On the Origin of Money,” *Economic Journal* 2 (1892): 239–255; Nobuhiro Kiyotaki and Randall Wright, “On Money as a Medium of Exchange,” *Journal of Political Economy* 97 (1989): 927–954.
+
+[^v1-c7-yakovenko]: Adrian Drăgulescu and Victor M. Yakovenko, [“Statistical mechanics of money,” *European Physical Journal B* 17 (2000): 723–729](https://arxiv.org/abs/cond-mat/0001432), for the exponential money model; Bruce M. Boghosian, [“The Kinetics of Wealth and the Origin of the Pareto Law,” *Physical Review E* 89 (2014): 042804](https://arxiv.org/abs/1212.6300), for yard-sale exchange. The figure independently simulates 10,000 traders starting with 100: randomly chosen ordered pairs transfer one unit if the donor can pay (A), or ten percent of the poorer holding (B). Pair order supplies an unbiased direction. A uses 750 million pair exchanges; B uses 30 million, or 6,000 participations per trader. The resulting shares are 63.05 percent below the mean, 33.106 percent held by the top tenth (A), and 42.719 percent held by the top hundred (B). No debt, production, redistribution or skill differences are modeled. Equal rules here mean symmetry between traders, not a proof of social fairness or a full account of real inequality.
+
+[^v1-c7-gordon]: Myron J. Gordon, "Dividends, Earnings, and Stock Prices," *Review of Economics and Statistics* 41 (1959): 99–105. The formula is the sum of a geometric series of growing payments and requires *g* < *r*. The figures are illustrative; the NASDAQ's fall of about 78 percent, noted below, had many causes. [Original article](https://doi.org/10.2307/1927792). The numerator is the next annual payment; the ratios in the figure are checked directly from the geometric series.
+
+[^v1-c7-runs]: Douglas W. Diamond and Philip H. Dybvig, “Bank Runs, Deposit Insurance, and Liquidity,” *Journal of Political Economy* 91 (1983): 401–419; [Nobel committee’s account (2022)](https://www.nobelprize.org/uploads/2022/10/popular-economicsciencesprize2022-2.pdf). Their model explains the conflict between liquid deposits and illiquid investments. Credible deposit insurance can eliminate the run equilibrium under the model’s assumptions; lender-of-last-resort lending can address liquidity shortages, not guarantee the solvency of every bank.
+
+[^v1-c7-chokepoints]: William Blackstone, *Commentaries on the Laws of England*, book IV, chapter 12, p. 158, describes forestalling as intercepting goods on their way to market, discouraging their arrival or encouraging higher prices. His passage is reproduced in [*Village Food & Liquor Mart v. H & S Petroleum*, Wisconsin Supreme Court (2002), paragraph 27 and notes 8–10](https://www.wicourts.gov/sc/opinion/DisplayDocument.pdf?content=pdf&seqNo=16420). For Standard Oil's preferential railroad arrangements, see Ida M. Tarbell, [*The History of the Standard Oil Company* (1904), chapters II and V](https://www.gutenberg.org/files/60692/60692-h/60692-h.htm). These examples illustrate control of access; neither establishes that all scale or intermediation is extractive.
+
+[^v1-c7-positional]: Fred Hirsch, *Social Limits to Growth* (1976), on positional goods, whose value depends on relative standing and whose prices rise as top incomes do. The Seattle comparison is the author's. [Publisher’s account of positional scarcity](https://www.routledge.com/social-limits-to-growth/hirsch/p/book/9781041109273).
+
+[^v1-c7-collateral]: Nobuhiro Kiyotaki and John Moore, ["Credit Cycles," NBER Working Paper 5083 (1995)](https://www.nber.org/papers/w5083), published in *Journal of Political Economy* 105(2) (1997): 211–248. Their model links collateral values, borrowing constraints and asset-price dynamics. It supplies a particular mechanism, not proof of the wider money-gravity proposal.
+
+[^v1-c7-soros]: George Soros, *The Alchemy of Finance* (1987). For his accessible explanation of how prices and underlying conditions can change one another, see ["The Crisis & What To Do About It" (2008)](https://www.georgesoros.com/2008/11/06/the_crisis_what_to_do_about_it/). Reflexivity need not be deliberate manipulation or require one dominant owner; beliefs can also be mistaken and self-defeating.
+
+[^v1-c7-minsky]: Hyman P. Minsky, *Stabilizing an Unstable Economy* (1986), and ["The Financial Instability Hypothesis," Working Paper 74 (1992)](https://www.levyinstitute.org/pubs/wp74.pdf), especially the distinction between hedge, speculative and Ponzi financing, pp. 6–8. The passage describes his proposed endogenous instability mechanism, not a claim that every calm period must end in crisis.
+
+[^v1-c7-latency]: Eric Budish, Peter Cramton and John Shim, ["The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response," *Quarterly Journal of Economics* 130(4) (2015): 1547–1621](https://www.econ.umd.edu/sites/www.econ.umd.edu/files/pubs/budish-cramton-shim-hft-frequent-batch-auctions.pdf), introduction. Spread Networks' 2010 Chicago–New Jersey fiber route reduced round-trip times from about 16 to 13 milliseconds; microwave networks subsequently reduced them further. Their analysis concerns a market-design incentive for speed races, not knowledge of the future or a claim that all algorithmic trading harms markets.
+
+[^v1-c7-algos]: Emilio Calvano, Giacomo Calzolari, Vincenzo Denicolò and Sergio Pastorello, ["Artificial Intelligence, Algorithmic Pricing, and Collusion," *American Economic Review* 110(10) (2020): 3267–3297](https://www.aeaweb.org/articles?id=10.1257/aer.20190623). Q-learning agents in simulated repeated-price-competition markets learned supracompetitive pricing supported by punishment strategies without direct communication. This is a controlled model result, not a demonstrated universal behavior of deployed agents.
+
+[^v1-c7-carroll]: Lewis Carroll, [*Alice's Adventures in Wonderland* (1865), chapter VIII, "The Queen's Croquet-Ground"](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap08). The live mallets, balls and soldier arches are Carroll's; the economic comparison and calculator are the author's extensions. This is the Wonderland croquet game, not the chess world of *Through the Looking-Glass*.
+
+[^v1-c7-gravity]: "Money-gravity," economic curvature and time-inflation are the author's proposed organizing concepts, not a derivation from general relativity or an established economic metric. Relevant mechanisms include cumulative advantage and preferential attachment, wealth-condensation models cited above, collateral feedback and control of bottlenecks. Calling the combination geometry adds a research obligation: define costs and dependencies, distinguish beneficial coordination from foreclosure of alternatives, and show what the description explains beyond existing models. Ownership, access rules and contestability matter alongside the amount of wealth. An embedding analogy does not establish that additional data produces justice or preserves every value.
+
+[^v1-c7-aristotle]: Aristotle, *Politics*, Book I. [Book I, especially parts VIII–X](https://classics.mit.edu/Aristotle/politics.1.one.html).
+
+[^v1-c7-khaldun]: Ibn Khaldun, *The Muqaddimah* (1377).
+
+[^v1-c7-smith]: Adam Smith, *The Wealth of Nations* (1776), Book IV, chapter 2; *The Theory of Moral Sentiments* (1759).
+
+[^v1-c7-malthus]: Thomas Robert Malthus, *An Essay on the Principle of Population* (1798).
+
+[^v1-c7-marx]: Karl Marx, *Capital*, Volume I (1867). [Volume I, chapter 9, on surplus value](https://www.marxists.org/archive/marx/works/1867-c1/ch09.htm).
+
+[^v1-c7-polanyi]: Karl Polanyi, *The Great Transformation: The Political and Economic Origins of Our Time* (1944). [Chapter XI, “Man, Nature, and Productive Organization”](https://www.bresserpereira.org.br/terceiros/cursos/2019/The-Great-Transformation-Cap-11.pdf).
+
+[^v1-c7-marginal]: W. Stanley Jevons, *The Theory of Political Economy* (1871); Carl Menger, *Principles of Economics* (1871); Léon Walras, *Elements of Pure Economics* (1874).
+
+[^v1-c7-marshall]: Alfred Marshall, *Principles of Economics* (1890), Book V, chapter 3. [Author text, Book V](https://www.econlib.org/library/Marshall/marP.html).
+
+[^v1-c7-arrow]: Kenneth J. Arrow and Gérard Debreu, "Existence of an Equilibrium for a Competitive Economy" (1954), *Econometrica* 22(3): 265–290. [Original paper](https://web.stanford.edu/class/msande311/arrow-debreu.pdf). Its introduction distinguishes equilibrium existence from the separate welfare results; efficiency does not establish fairness or realistic assumptions.
+
+[^v1-c7-games]: John von Neumann and Oskar Morgenstern, *Theory of Games and Economic Behavior* (1944); John F. Nash Jr., "Equilibrium points in n-person games" (1950), *PNAS* 36(1): 48–49. [Nash’s original paper](https://doi.org/10.1073/pnas.36.1.48). Nash’s finite-game theorem allows mixed strategies and does not guarantee convergence or dynamic stability.
+
+[^v1-c7-hardin]: Garrett Hardin, "The Tragedy of the Commons" (1968), *Science* 162: 1243–1248; Elinor Ostrom, *Governing the Commons* (1990).
+
+[^v1-c7-coase]: R. H. Coase, "The Nature of the Firm" (1937), *Economica* 4(16): 386–405. [Original paper](https://pdodds.w3.uvm.edu/research/papers/others/1937/coase1937a.pdf).
+
+[^v1-c7-voc]: The Dutch East India Company (VOC) was chartered in 1602 and issued shares on the Amsterdam exchange. [Dutch National Archives introduction](https://www.nationaalarchief.nl/sites/default/files/afbeeldingen/toegangen/NL-HaNA_1.04.02_introduction-VOC.pdf). The VOC’s corporate and liability arrangements developed over time; they were not identical to a modern limited-liability corporation.
+
+[^v1-c7-akerlof]: George A. Akerlof, "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism" (1970), *Quarterly Journal of Economics* 84(3): 488–500. [Original paper](https://pims.math.ca/files/Akerlof1970.pdf).
+
+[^v1-c7-simon]: Herbert A. Simon, "A Behavioral Model of Rational Choice" (1955), *Quarterly Journal of Economics* 69(1): 99–118. [Original paper](https://doi.org/10.2307/1884852).
+
+[^v1-c7-prospect]: Daniel Kahneman and Amos Tversky, "Prospect Theory: An Analysis of Decision under Risk" (1979), *Econometrica* 47(2): 263–291; Richard H. Thaler and Cass R. Sunstein, *Nudge* (2008). [1979 paper](https://www.ucl.ac.uk/anaesthesia/sites/anaesthesia/files/kahneman-tversky.pdf). The size of loss aversion depends on the task and estimation; no universal two-to-one constant is asserted.
+
+[^v1-c7-samuelson]: Paul A. Samuelson, "The Pure Theory of Public Expenditure" (1954), *Review of Economics and Statistics* 36(4): 387–389. [Original paper](https://courses.cit.cornell.edu/econ335/out/samuelson_pure.pdf).
+
+[^v1-c7-stiglitz]: Joseph E. Stiglitz, [interview for *Frontline*, “The Warning,” 28 July 2009](https://www.pbs.org/wgbh/pages/frontline/warning/interviews/stiglitz.html), on the invisible hand being invisible because it is not there. This is Stiglitz’s polemical criticism of unconstrained-market arguments, not a theorem that decentralized coordination never works. He shared the 2001 economics Nobel with George Akerlof and Michael Spence.
+
+[^v1-c7-mises]: Ludwig von Mises, "Economic Calculation in the Socialist Commonwealth" (1920); F. A. Hayek (ed.), *Collectivist Economic Planning* (1935). [Original essay in English](https://mises.org/library/book/economic-calculation-socialist-commonwealth).
+
+[^v1-c7-rothschild]: Emma Rothschild, "Adam Smith and the Invisible Hand" (1994), *American Economic Review* 84(2): 319–322; *Economic Sentiments* (2001). [Original article](https://www.jstor.org/stable/2117851).
+
+[^v1-c7-solow]: Robert M. Solow, "A Contribution to the Theory of Economic Growth" (1956), *Quarterly Journal of Economics* 70(1): 65–94; "Technical Change and the Aggregate Production Function" (1957), *Review of Economics and Statistics* 39(3): 312–320. [1957 empirical paper](https://web.pdx.edu/~crkl/ec570/Solow_RES57.pdf). The residual captures what the specified inputs/model do not explain; it does not directly count inventions.
+
+[^v1-c7-romer]: Paul M. Romer, "Endogenous Technological Change" (1990), *Journal of Political Economy* 98(5): S71–S102. [Author’s working paper](https://www.nber.org/papers/w3210). Non-rival knowledge does not remove resource or energy constraints.
+
+[^v1-c7-schumpeter]: Joseph A. Schumpeter, *Capitalism, Socialism and Democracy* (1942), chapter 7, "The Process of Creative Destruction." Interlude 7 returns to it. On hard drives and flash, see Chapter 6.
+
+[^v1-c7-kuznets]: Simon Kuznets, *National Income, 1929–1932*, report to the U.S. Senate (1934). [Original Senate report](https://fraser.stlouisfed.org/title/national-income-1929-1932-971/fulltext). See p. 7 on the distinction between national income and welfare.
+
+[^v1-c7-sen]: Amartya Sen, *Development as Freedom* (1999). [Sen’s account of capabilities and choice](https://www.nobelprize.org/prizes/economic-sciences/1998/sen/biographical/).
+
+[^v1-c7-care]: Laura Addati, Umberto Cattaneo, Valeria Esquivel and Isabel Valarino, [*Care Work and Care Jobs for the Future of Decent Work* (ILO, 2018)](https://www.ilo.org/publications/major-publications/care-work-and-care-jobs-future-decent-work), on unpaid care, paid work and their interdependence.
+
+[^v1-c7-material]: IPCC, [*Climate Change 2022: Mitigation of Climate Change*, chapter 5, “Demand, Services and Social Aspects of Mitigation”](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-5/), especially the distinction between services, resource demand and rebound. Reuse of knowledge is not the same as costless material implementation.
+
+[^v1-c7-keynes2]: John Maynard Keynes, *The General Theory of Employment, Interest and Money* (1936), chapter 12; F. A. Hayek, *The Road to Serfdom* (1944) and "The Use of Knowledge in Society" (1945).
+
+[^v1-c7-bretton]: The United Nations Monetary and Financial Conference at Bretton Woods, New Hampshire, July 1944; the GATT was signed in 1947.
+
+[^v1-c7-washington]: John Williamson, [“A Short History of the Washington Consensus” (2004)](https://www.piie.com/sites/default/files/publications/papers/williamson0904-2.pdf), especially pp. 1–4. He coined the term in 1989 for ten reforms he judged widely supported for Latin America; the original list was narrower than the later polemical use of the phrase.
+
+[^v1-c7-piketty]: Thomas Piketty, *Capital in the Twenty-First Century* (2013; English 2014). [Author’s clarification (2015)](https://piketty.pse.ens.fr/files/PikettyAER2015.pdf). The inequality r > g is not, by itself, a prediction of indefinitely rising concentration.
+
+[^v1-c7-fama]: Eugene F. Fama, "Efficient Capital Markets: A Review of Theory and Empirical Work" (1970), *Journal of Finance* 25(2): 383–417. [Fama’s own explanation](https://www.chicagobooth.edu/review/are-markets-efficient). Efficiency is relative to information and a model of risk-adjusted returns; it does not mean every price is morally right or immune to large subsequent revisions.
+
+[^v1-c7-shiller]: Robert J. Shiller, *Irrational Exuberance* (2000). Fama, Shiller and Lars Peter Hansen shared the 2013 Nobel Memorial Prize in Economic Sciences. [2013 Nobel announcement](https://www.nobelprize.org/uploads/2018/06/press-24.pdf).
+
+[^v1-c7-complexity]: W. Brian Arthur, "Complexity and the Economy" (1999), *Science* 284: 107–109; Eric D. Beinhocker, *The Origin of Wealth* (2006). [Arthur’s original paper](https://sites.santafe.edu/~wbarthur/Papers/EconandComplex_Web.pdf).
+
+[^v1-c7-bubbles]: On tulip mania, see Anne Goldgar, *Tulipmania* (2007), which argues the episode's scale has been exaggerated; on bubbles generally, Charles P. Kindleberger, *Manias, Panics, and Crashes* (1978).
+
+[^v1-c7-autor]: David H. Autor, David Dorn and Gordon H. Hanson, "The China Syndrome: Local Labor Market Effects of Import Competition in the United States" (2013), *American Economic Review* 103(6): 2121–2168.
+
+[^v1-c7-wto99]: The WTO Ministerial Conference met in Seattle from 30 November to 3 December 1999. Estimates of the protest's size range from about 40,000 to more than 50,000. Mayor Paul Schell declared a civil emergency and curfew; Police Chief Norm Stamper announced his resignation shortly afterward. [University of Washington WTO History Project](https://depts.washington.edu/wtohist/Protests/Repercussions.htm). The author places his move to Toronto in mid-November; this remains the subsequent upheaval, not the 1993 agreement.
+
+[^v1-c7-nasdaq]: The NASDAQ Composite closed at a peak of 5,048.62 on 10 March 2000 and fell to about 1,114 by October 2002. [NASDAQ series distributed by FRED](https://fred.stlouisfed.org/data/NASDAQCOM).
+
+[^v1-c7-webvan]: HomeGrocer.com merged with Webvan in 2000; Webvan filed for bankruptcy in July 2001. [Webvan’s 2000 Form 10-K](https://www.sec.gov/Archives/edgar/data/1092657/000101287001001485/0001.txt). The merger closed on 5 September 2000; contemporaneous [Seattle reporting](https://www.seattlepi.com/business/article/webvan-and-homegrocer-com-a-timeline-1059419.php) records the July 2001 shutdown and bankruptcy announcement.
+
+[^v1-c7-amazonfall]: Amazon's share price fell from about $107 in December 1999 to below $6 in September 2001.
+
+<!-- End AI draft footnotes 2026-11-17. -->
