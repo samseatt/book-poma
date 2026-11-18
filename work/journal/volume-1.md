@@ -495,3 +495,11 @@ Installed and visually checked three grayscale SVGs with narrow learning-rate, r
 ### V1-048 follow-up — correct unit-figure directories
 
 **17 November 2026.** Sam noticed the three figures were absent from the expected `manuscripts/volume-1/assets/` tree. Corrected the editor’s placement mistake: moved the unchanged Chapter/Interlude 6 SVGs from `manuscripts/assets/` to `manuscripts/volume-1/assets/06-chapter/` and `06-interlude/`. Updated the three Markdown URLs and both active hashes; no prose or image content changed. Follow the established convention for later merges: unit illustrations live inside their volume’s `assets/<unit>/`; common ornaments remain in `manuscripts/assets/shared/`.
+
+## V1-049 — Chapter 7: sharpen Alice before the full merge
+
+**17 November 2026; working revision prepared, canonical adoption pending.** At Sam's request, revised the second Fable Alice and its supporting main text in a [separate full-chapter reading copy](../volume-1-drafting/chapter-07-alice-revision-2026-11-17/07-chapter.md). The incoming `book_poma` source and canonical Chapter 7 remain unchanged.
+
+Moved price coordination, money's limited memory and omissions into **Possibility, Promised**, and established capital/power/feedback/algorithmic mechanisms into **Where the Money Gathers**, immediately before Alice. Alice now develops economic curvature, useful versus coercive centers, time-inflation and agentic coordination with relational memory. Added a light Queen's croquet-ground connection from *Alice's Adventures in Wonderland*, with no Looking-Glass crossover. Preserved the personal opening, Seattle closet/estate connection, exact chapter ending and all incoming provenance comments.
+
+Alice falls from 1,592 to 961 words excluding comments. Scoped repairs distinguish claims from desert, resource rents from external costs, cash from broader control, latency from prediction, and a payment's next-year convention in the Gordon formula/working SVG. Full inherited chapter sources and the supplied simulation still await the ordinary merge audit. S028 records the novel proposal and its open research obligations; [revision notes](../volume-1-drafting/chapter-07-alice-revision-2026-11-17/REVISION_NOTES.md) document the limited scope. No publication or canonical manifest update.

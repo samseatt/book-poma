@@ -1,0 +1,16 @@
+{
+  "source_sha256_unchanged": "b2a189ce34b0b1c93b566ef47e545cec294b9ab2205a97a03d3fa11a51f0ee2c",
+  "draft_sha256": "79a532f36fd4f1fadc68e2e7be8235e62684c5c926586034fdf70f540311979f",
+  "defined_notes": 69,
+  "note_references": 71,
+  "parsed_notes": 71,
+  "images": [
+    "../../../manuscripts/assets/shared/chapter-arrow.png",
+    "assets/07-chapter/equal-rules.svg",
+    "assets/07-chapter/belief-and-price.svg"
+  ],
+  "display_equations": 1,
+  "original_comments_retained": 17,
+  "errors": [],
+  "passed": true
+}
