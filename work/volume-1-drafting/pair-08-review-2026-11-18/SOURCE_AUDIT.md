@@ -94,3 +94,13 @@ The material remains an argued, sometimes speculative book. Alice/Bob’s biolog
 - The McCallum figure remains a conditional historical comparison, rounded from approximately 22 to twenty, not an observed spatial step or a causal constant across all borders.
 - Manuscript note pairs and links are structurally aligned; a publisher-level edition bibliography and exact-page audit across all older classic works remain publication tasks. The audit distinguishes them from the directly checked passages above.
 - No source inspection authorizes changing the political interpretation, the exact March/September date ceremony, or the approved Alice/Bob. No such changes were made.
+
+
+## 19 November 2026 — Turkey addition to `v1-c8-nationalism`
+
+Sam approved adding Erdoğan to the existing leader comparison and the narrator's separate self-implicating sentence about inclusion, manners, credentials and vocabulary. The named-leader sentence's other wording is unchanged. The footnote retains its interpretation/non-identity qualification and its earlier Trump, Orbán and India sources.
+
+- **Ihsan Yilmaz and Nicholas Morieson (2023)**, [“Civilizational Populism in Domestic and Foreign Policy: The Case of Turkey”](https://www.mdpi.com/2077-1444/14/5/631), *Religions* 14(5), 631; DOI [10.3390/rel14050631](https://doi.org/10.3390/rel14050631). Publisher metadata and the abstract/introduction/sections 2–3 inspected. The authors analyze Sunni Muslim/neo-Ottoman belonging, the pious-generation project and the portrayal of political opposition as threats to the community. This is scholarly interpretation supporting the comparison, not a statute or proof that every group experiences the same policy.
+- **Hürriyet Daily News, 7 August 2014**, [“PM Erdoğan complains of being called 'even uglier things, Armenian'”](https://www.hurriyetdailynews.com/amp/pm-erdogan-complains-of-being-called-even-uglier-things-armenian-70043). Full short report inspected. It reports repeated emphasis on Kılıçdaroğlu's Alevi identity, Demirtaş's Zaza/Kurdish background, İhsanoğlu's Egyptian birthplace, and Erdoğan's Sunni identity. It also includes his own defense of identity declarations. Used as contemporaneous reporting of specific rhetoric, not represented as a direct official transcript.
+
+Both sources were accessed 19 November 2026. The narrator's inclusion sentence remains an openly self-reflective observation; neither citation is offered as evidence that liberal social gatekeeping is equivalent in severity or consequences to state restrictions on membership. No new footnote identity or research claim about liberal elites is introduced.

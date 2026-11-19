@@ -575,3 +575,12 @@ The [restoration audit](../volume-1-drafting/personal-restorations-2026-11-19/RE
 **Author decisions preserved:** retain the exact Trump/Modi/Orbán passage and its existing source note; do not replace the names with a generic countries formulation merely to avoid a potentially partisan reading. “I wanted to answer honestly” stays. Typography inspection found no required repair: the style guide explicitly requires `---` for manuscript em dashes, and Pandoc renders them as em dashes. Existing bold emphasis is valid and remains. No print-formatting or publishing changes.
 
 Both canonical hashes refreshed. The scoped manuscript checker passes, with existing note-order warnings only; comments, note IDs, images, code and all other prose are unchanged.
+
+
+## V1-057 — Chapter 8: Turkey and the narrator's own boundary
+
+**19 November 2026 — author-approved additions.** Changed “Leaders from Trump to Modi to Orbán” to “Leaders from Trump and Modi to Erdoğan and Orbán”; the rest of the sentence and its surrounding argument remain unchanged. Immediately after that paragraph, added the exact approved self-reflection: “Those of us who preach inclusion have our own temptation: to mistake our manners, credentials and vocabulary for the qualifications of a reasonable citizen.” The new prose carries an invisible AI-draft marker. Both changes are C/D proposals expressly adopted by the author, not an unsolicited balancing rewrite.
+
+Extended `v1-c8-nationalism` with checked Turkey evidence: Yilmaz and Morieson's 2023 analysis and contemporaneous 7 August 2014 reporting of Erdoğan's religious/ethnic campaign labels. The existing primary sources and qualification distinguishing these movements remain; the Turkey sources are identified separately as research and reporting. The narrator's sentence is self-reflection, not an empirical equivalence of social gatekeeping with legal exclusion. See the [source-audit addendum](../volume-1-drafting/pair-08-review-2026-11-18/SOURCE_AUDIT.md).
+
+Only Chapter 8 and its active hash changed in canon/manifest. Note IDs, previous comments, other wording, images and ending are preserved. Manuscript validation passes with the existing note-order warning. No publication.
