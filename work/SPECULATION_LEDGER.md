@@ -515,3 +515,31 @@ The graph, Ockham/head-count and alikeness material remain intact. No speculativ
 **Useful next work:** hold tasks and agents fixed while changing institutional arrangements; vary participant count and obligations. Measure negotiation, exception handling, repair, error and displaced human work, alongside rights and outcomes. Test compatibility without hiding disagreements. A faster system that removes appeal or exports work has not improved in the intended sense.
 
 **Disposition:** [Interlude 8 reading copy](volume-1-drafting/pair-08-review-2026-11-18/volume-1/08-interlude.md), with the existing crooked-ground argument retained and the repeated closing recap shortened. Author approved adoption; see the [adoption record](volume-1-drafting/pair-08-review-2026-11-18/ADOPTION_NOTES.md).
+
+## S032 — How deeply can a story sink into the conditions that sustain it?
+
+**Recorded:** 19 November 2026, Chapter 9 Fable adoption. **Status:** retained authorial synthesis and research offer, not a measured universal hierarchy. Related: S030 (governing boundaries), S028 (economic relations and durable power).
+
+**The offer:** an ideology can outlast explicit assent by becoming a habit, an institution, infrastructure or a selective environment. The task of change depends partly on which substrate now carries the old story. Better arguments alone may be working on the wrong level. The chapter's Alice asks how cheaply a belief is acquired and how far below belief its consequences have traveled.
+
+**Supported footing:** cultural learning, norm responses, infrastructure persistence, institutional transmission and gene–culture coevolution have empirical and theoretical literatures. These support mechanisms and particular cases, not the full proposed ordering. A learned conviction is not written directly into genes; a cultural environment can alter selection on heritable variation over generations.
+
+**Why still speculative:** no common metric yet establishes “depth,” a universal relaxation time or one causal ladder. Infrastructure can be rebuilt quickly; a story can persist for centuries; institutions may reproduce material constraints and vice versa. Spatial correlation, selection, present maintenance and omitted institutions complicate historical persistence claims. The figure's time spans are illustrative, not estimates pooled from the cited papers. The honor experiment does not identify the historical livestock story as its cause. There is no demonstrated priority claim for the chapter's synthesis.
+
+**Useful next work:** compare interventions aimed at explicit belief, repeated practice, institutional rules and material constraints while measuring persistence after support stops. Identify who maintains the purported substrate and what would change if that maintenance ended. Distinguish changes in reported belief, behavior, opportunity and selective environment. Look for cases that reverse the proposed ordering rather than only confirming examples.
+
+**Disposition:** preserve the bold Alice and crocodile/bee treatment; keep established mechanisms in the main text. See [rung 9 adoption](volume-1-drafting/pair-09-fable-adoption-2026-11-19/ADOPTION_NOTES.md).
+
+## S033 — Can interfaces grow their own governors at consequential boundaries?
+
+**Recorded:** 19 November 2026, Interlude 9 Fable adoption. **Status:** open design proposal, supported by existing mechanisms but not established as a general architecture. Related: S027 (obligations outside adapting procedures), S031 (institutional coordination cost).
+
+**The offer:** let an interface remain unobtrusive within its authority, expose a seam when uncertainty or consequence rises, and interrupt or protect when the situation demands it. Small local governors watch consequences outside the acting agent's own report. Perhaps such governors can form where coordination repeatedly fails, instead of being specified from a single center. The White Queen supplies the anticipation joke, not evidence.
+
+**Supported footing:** warning habituation, seamful design, scoped permissions, runtime checks, emergency braking, fault containment, decentralized control and predictive-processing accounts offer components. Surprise weighted by stakes resembles existing risk-sensitive approaches; the proposed synthesis and self-formation remain to be developed, not claimed as unprecedented merely because the prose is new.
+
+**Why still speculative:** surprise is not calibrated failure probability, stakes are not one commensurable scalar, and their product is not a complete risk function. A predictable violation can be unacceptable; permission and rights constraints stand outside the score. Silence can mean competence or blindness. A governor can share an agent's error, rely on compromised observations or interrupt at exactly the wrong time. Local bounded-neighbor networks may avoid all-pairs plumbing, but no universal complexity bound or superiority to central control follows. Emergent boundaries can also hide responsibility.
+
+**Useful next work:** compare equally capable task systems with static prompts, central monitoring and local governors. Count missed hazards and inappropriate actions as well as interruptions, latency, human attention and coordination work. Include predictable unauthorized acts, unseen hazards, correlated failures, ambiguous consent and changing tasks. Measure topology and neighbor count before making scaling claims. Test whether independently observed consequences help without turning observation into intrusive surveillance.
+
+**Disposition:** retain the speculative Bob and its closing. The figure is labeled as a conjecture and adds an explicit permission override. The separate toy feed is a reproducible illustration of assumed reinforcement, not proof of Bob or empirical evidence about people. See [source audit](volume-1-drafting/pair-09-fable-adoption-2026-11-19/SOURCE_AUDIT.md).

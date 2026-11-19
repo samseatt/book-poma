@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-19",
+  "baseline_commit": "17749fafdae4521a41c9d4a09ca0206b7cca2e94",
+  "inputs": {
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-chapter.md": "6e70d33efe5cb7f53c93478ee6662f077d3f139ba295d9d80463283c60dd4d65",
+    "/Users/samseatt/projects/book_poma/sam/claude/chapter-9.md": "814668b4a1fd2916730c2355976b401a0ae28f15a75013850939e368b99e598e",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/chapter-9.md": "b6609e7af7b5320d6ec6bdae22586c8dbd4c336d64d201abe06d59c79d95cb2e",
+    "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-interlude.md": "4b1647f1a1d53fb37f4aab44f402be63d433af8b5bfec204d61a8c3bbf642e98",
+    "/Users/samseatt/projects/book_poma/sam/claude/interlude-9.md": "8344b5d390899960fc0f1e2ace00dbdc4cb18f2b79438c54971e48087dd8679f",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/interlude-9.md": "61423d2eea224459b9fb3963dad58edd2b3c36c992c368d9ca3d79fb06a0d16b",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/09-interlude/feed-loop.svg": "83199142db5644c16797fb2d9404d8334ff9c37e61255b5b476ca8d68ae0199c",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/09-interlude/taste-geometry.svg": "ce621d2b1343aa9df9b63bbe0bcada287827a5f033868e4d4fab14440711245a",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/09-interlude/governor-bands.svg": "a3cd5bcc2172cb2c9ede26106d1466fdab1fef1c6da4d039ea7d8cc8d9ffb283",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/09-chapter/story-depths.svg": "13d236b11b5c997c3150521adac63e5373c7806dfd6ea8300548f343fe7e94b3",
+    "/Users/samseatt/projects/book_poma/sam/claude/fable/assets/09-chapter/cheap-belief.svg": "579e0b631534c7fcfeeabb6beef92bd6e4d9a106cfc559fb10d9cd392c0ca94b"
+  },
+  "history": "Scoped canonical history: 29 September 2026 conversion baseline 3cb7dfc; intermediate Claude and newest Fable also compared.",
+  "authorization": "Author requested full rung-9 merge, preservation review, figures; UI history only where profound; explicitly authorized fixing, upgrading or replacing the toy feed.",
+  "incoming_policy": "book_poma is read-only provenance; no incoming file edited.",
+  "output_hashes": {
+    "manuscripts/volume-1/09-chapter.md": "d821abb1c4dd162e3f5bdbc7cb3119d5255bf68070a40b05440491a109513ace",
+    "manuscripts/volume-1/09-interlude.md": "2c91406827a30aea40124df57bf5aa44a5bbb7cc6b5e682c3bdeb6e545e33a82",
+    "manuscripts/volume-1/assets/09-interlude/feed-loop.svg": "9a2b23a7b7d614a10e310dca6f1e56d5966cb405b34c6e00ae5e77c4941a34e3",
+    "manuscripts/volume-1/assets/09-interlude/taste-geometry.svg": "ce621d2b1343aa9df9b63bbe0bcada287827a5f033868e4d4fab14440711245a",
+    "manuscripts/volume-1/assets/09-interlude/governor-bands.svg": "ca03c2b7d831269b5741f6fb0775ada14dca199c7047831ffd656f73aec56b17",
+    "manuscripts/volume-1/assets/09-chapter/story-depths.svg": "0ecfcae78eab5c163b3f75d99eccdd9af99d7e1bfd2b5c79109a26565824cf7f",
+    "manuscripts/volume-1/assets/09-chapter/cheap-belief.svg": "579e0b631534c7fcfeeabb6beef92bd6e4d9a106cfc559fb10d9cd392c0ca94b"
+  }
+}

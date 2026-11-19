@@ -1,0 +1,735 @@
+[
+  {
+    "unit": "chapter",
+    "id": "v1-c9-wells",
+    "status": "Open attribution, quantitative-interval or edition/locator check; explicitly retained",
+    "note": "Attributed in English quotation collections to Antoine de Rivarol (1753–1801), the French writer and wit; the French original has not been located. An earlier draft gave the line to H. G. Wells, with a different second sentence. Verify before print.",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-wikipedia",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Wikipedia launched on 15 January 2001.",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-bamiyan",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "The Taliban destroyed the Buddhas of Bamiyan in March 2001, after an edict issued on 26 February; the statues dated to the sixth century CE. [UNESCO World Heritage record](https://whc.unesco.org/en/list/208).",
+    "urls": [
+      "https://whc.unesco.org/en/list/208"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-iraq",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Coordinated protests against the impending Iraq war took place in hundreds of cities on 15 February 2003, including Toronto. Prime Minister Jean Chrétien announced on 17 March 2003 that Canada would not join the invasion. [17 March 2003 parliamentary record](https://www.lipad.ca/full/2003/03/17/7/).",
+    "urls": [
+      "https://www.lipad.ca/full/2003/03/17/7/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-sars",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "The 2003 outbreak killed 44 people in Ontario; Toronto was its main Canadian center. See the Ontario SARS Commission, [final report, volume 2 introduction](https://www.archives.gov.on.ca/en/e_records/sars/report/v2-pdf/Vol2Intro.pdf), and [ICES, Utilization of Ontario's Health System During the 2003 SARS Outbreak](https://www.ices.on.ca/publications/research-reports/utilization-of-ontarios-health-system-during-the-2003-sars-outbreak/).",
+    "urls": [
+      "https://www.archives.gov.on.ca/en/e_records/sars/report/v2-pdf/Vol2Intro.pdf",
+      "https://www.ices.on.ca/publications/research-reports/utilization-of-ontarios-health-system-during-the-2003-sars-outbreak/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-sarsstock",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "“Molson Canadian Rocks for Toronto,” Downsview Park, 30 July 2003; contemporary estimates put the audience around 450,000 or more. Jane Stevenson, Jim Slotek and Mary Dickie, [“The Stones Rock 450,000 Fans in T.O.”](https://www.2112.net/powerwindows/transcripts/20030731torontosun.htm), *Toronto Sun*, 31 July 2003 (archived transcript). Timberlake faced boos and thrown bottles, completed his set, and returned for “Miss You” with the Stones; he was not driven offstage. The attendance and hostility are public reporting; the author's presence is personal recollection.",
+    "urls": [
+      "https://www.2112.net/powerwindows/transcripts/20030731torontosun.htm"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-blackout",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "The Northeast blackout of 14 August 2003 affected about 50 million people in Ontario and eight U.S. states. U.S.–Canada Power System Outage Task Force, *Final Report* (2004). [Joint task-force report](https://eta.lbl.gov/publications/final-report-august-14-2003-blackout).",
+    "urls": [
+      "https://eta.lbl.gov/publications/final-report-august-14-2003-blackout"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-carroll",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Lewis Carroll, *Alice's Adventures in Wonderland* (1865), chapter II, \"The Pool of Tears\": \"How doth the little crocodile,\" parodying Isaac Watts, \"Against Idleness and Mischief\" (1715), \"How doth the little busy bee.\" [Primary text](https://www.gutenberg.org/ebooks/11).",
+    "urls": [
+      "https://www.gutenberg.org/ebooks/11"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-veneer",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Frans de Waal, *Primates and Philosophers: How Morality Evolved* (2006).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-circle",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Peter Singer, *The Expanding Circle: Ethics, Evolution, and Moral Progress* (1981).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-biggods",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Ara Norenzayan, *Big Gods: How Religion Transformed Cooperation and Conflict* (2013).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-boyer",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Pascal Boyer, *Religion Explained: The Evolutionary Origins of Religious Thought* (2001); Justin L. Barrett, \"Exploring the natural foundations of religion\" (2000), *Trends in Cognitive Sciences* 4(1): 29–34.",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-tracy",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Antoine Destutt de Tracy introduced *idéologie* in 1796; his *Éléments d'idéologie* appeared from 1801.",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-marx",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Karl Marx and Friedrich Engels, *The German Ideology* (written 1845–1846). The phrase \"false consciousness\" comes from a later letter by Engels (1893).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-mannheim",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Karl Mannheim, *Ideology and Utopia* (1929).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-geertz",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Clifford Geertz, \"Ideology as a Cultural System\" (1964), reprinted in *The Interpretation of Cultures* (1973).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-burke",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Edmund Burke, *Reflections on the Revolution in France* (1790); John Stuart Mill, *On Liberty* (1859).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-haidt",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Jonathan Haidt, *The Righteous Mind: Why Good People Are Divided by Politics and Religion* (2012).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-weird",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Joseph Henrich, Steven J. Heine and Ara Norenzayan, \"The weirdest people in the world?\" (2010), *Behavioral and Brain Sciences* 33(2–3): 61–83. [Original article](https://doi.org/10.1017/S0140525X0999152X).",
+    "urls": [
+      "https://doi.org/10.1017/S0140525X0999152X"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-weirdest",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Joseph Henrich, *The WEIRDest People in the World* (2020).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-greene",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Joshua Greene, *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them* (2013).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-fukuyama",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Francis Fukuyama, \"The End of History?\" (1989), *The National Interest* 16; *The End of History and the Last Man* (1992).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-huntington",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Samuel P. Huntington, \"The Clash of Civilizations?\" (1993), *Foreign Affairs* 72(3); *The Clash of Civilizations and the Remaking of World Order* (1996).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-sen",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Amartya Sen, *Identity and Violence: The Illusion of Destiny* (2006).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-popper",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Karl Popper, *The Open Society and Its Enemies* (1945), Volume 1, note 4 to chapter 7.",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-charter",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Canada's multiculturalism policy was announced by Prime Minister Pierre Trudeau in October 1971 and enacted in the Canadian Multiculturalism Act (1988); the Canadian Charter of Rights and Freedoms is part of the Constitution Act, 1982.",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-taylor",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Charles Taylor, \"The Politics of Recognition\" (1992), in *Multiculturalism and \"The Politics of Recognition\"*; Will Kymlicka, *Multicultural Citizenship* (1995).",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-facebook",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Mark Zuckerberg launched TheFacebook on 4 February 2004. [Contemporaneous report](https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/).",
+    "urls": [
+      "https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-context",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Alice E. Marwick and danah boyd, \"I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience\" (2011), *New Media & Society* 13(1): 114–133. [Original study](https://doi.org/10.1177/1461444810365313).",
+    "urls": [
+      "https://doi.org/10.1177/1461444810365313"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-outrage",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "William J. Brady et al., [“Emotion shapes the diffusion of moralized content in social networks”](https://doi.org/10.1073/pnas.1618923114), *PNAS* 114(28) (2017): 7313–7318. The estimate is an approximately 20% increase in retweet rate per additional moral-emotional word in observational data on three political topics, not a randomized causal effect or a twenty-point increase in sharing probability.",
+    "urls": [
+      "https://doi.org/10.1073/pnas.1618923114"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-marriage",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Same-sex marriage became legal in Ontario on 10 June 2003 (*Halpern v. Canada*) and in British Columbia on 8 July 2003; nationally under the Civil Marriage Act in July 2005. [Ontario judgment](https://www.icj.org/wp-content/uploads/2003/06/Halpern-et-al.-v.-Attorney-General-of-Canada-Ontario-Court-of-Appeal-Canada.pdf).",
+    "urls": [
+      "https://www.icj.org/wp-content/uploads/2003/06/Halpern-et-al.-v.-Attorney-General-of-Canada-Ontario-Court-of-Appeal-Canada.pdf"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-creba",
+    "status": "Date and count cross-checked through scholarship; personal/detail limits remain",
+    "note": "Jane Creba was killed on 26 December 2005 near Yonge and Dundas Streets. Toronto recorded 52 gun-related homicides in 2005.",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-toronto18",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "The \"Toronto 18\" were arrested on 2 and 3 June 2006; eleven were eventually convicted. See the [CSIS Public Report 2010–2011](https://www.canada.ca/content/dam/csis-scrs/documents/publications/2010-2011PublicReport_English.pdf), which records eleven imprisoned.",
+    "urls": [
+      "https://www.canada.ca/content/dam/csis-scrs/documents/publications/2010-2011PublicReport_English.pdf"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-aspirations",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Lori Beaman, Esther Duflo, Rohini Pande and Petia Topalova, \"Female Leadership Raises Aspirations and Educational Attainment for Girls: A Policy Experiment in India,\" *Science* 335 (2012): 582–586. The study was in West Bengal, where a third of village council chief positions were reserved for women by random assignment. On aspiration as a culturally learned capacity, see Arjun Appadurai, \"The Capacity to Aspire\" (2004). [Original study](https://pubmed.ncbi.nlm.nih.gov/22245740/).",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/22245740/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-kahan",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Dan M. Kahan et al., \"The polarizing impact of science literacy and numeracy on perceived climate change risks,\" *Nature Climate Change* 2 (2012): 732–735; Kahan et al., \"Motivated numeracy and enlightened self-government,\" *Behavioural Public Policy* 1 (2017): 54–86. The interpretation as identity-protective cognition is debated; see, e.g., Ben M. Tappin, Gordon Pennycook and David G. Rand, \"Thinking clearly about causal inferences of politically motivated reasoning,\" *Current Opinion in Behavioral Sciences* 34 (2020): 81–87. [Climate-risk study](https://www.nature.com/articles/nclimate1547).",
+    "urls": [
+      "https://www.nature.com/articles/nclimate1547"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-literacy",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Sascha O. Becker and Ludger Woessmann, \"Was Weber Wrong? A Human Capital Theory of Protestant Economic History,\" *Quarterly Journal of Economics* 124 (2009): 531–596, using the 1871 Prussian census. [Author repository](https://wrap.warwick.ac.uk/id/eprint/42282/).",
+    "urls": [
+      "https://wrap.warwick.ac.uk/id/eprint/42282/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-augsburg",
+    "status": "Open attribution, quantitative-interval or edition/locator check; explicitly retained",
+    "note": "The Peace of Augsburg (1555) allowed each ruler in the Holy Roman Empire to choose between Lutheranism and Catholicism for his territory; the phrase *cuius regio, eius religio* was coined by a jurist some decades later. Constantine's Edict of Milan (313) and the Council of Nicaea (325); Ashoka's edicts (third century BCE). On civil religion, Jean-Jacques Rousseau, *The Social Contract* (1762), Book IV, chapter 8, and Robert N. Bellah, \"Civil Religion in America,\" *Daedalus* 96 (1967): 1–21. <!-- EDITORIAL SOURCE CHECK 2026-11-19: standard dates and attribution retained; edition-level verification of the composite historical note remains before print. -->",
+    "urls": []
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-sorting",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Amory Gethin, Clara Martínez-Toledano and Thomas Piketty, \"Brahmin Left versus Merchant Right: Changing Political Cleavages in 21 Western Democracies, 1948–2020,\" *Quarterly Journal of Economics* 137 (2022): 1–48. Income still divides voters as well; the authors describe the result as a \"multi-elite\" party system. [Original study](https://doi.org/10.1093/qje/qjab036).",
+    "urls": [
+      "https://doi.org/10.1093/qje/qjab036"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-quebec",
+    "status": "Open attribution, quantitative-interval or edition/locator check; explicitly retained",
+    "note": "É.-Martin Meunier and Sarah Wilkins-Laflamme, [“Sécularisation, catholicisme et transformation du régime de religiosité au Québec. Étude comparative avec le catholicisme au Canada (1968–2007)”](https://www.erudit.org/en/journals/rs/2011-v52-n3-rs5005802/1007655ar/), *Recherches sociographiques* 52(3) (2011): 683–729. Survey populations and years differ: weekly practice, Catholic identification and belief are distinct measures. The passage describes the broad fall in attendance; it does not establish that changing mutual expectations alone caused it. <!-- EDITORIAL SOURCE CHECK 2026-11-19: bibliographic record located; full-text endpoint blocked. Verify the generation-scale interval against the original tables before print. -->",
+    "urls": [
+      "https://www.erudit.org/en/journals/rs/2011-v52-n3-rs5005802/1007655ar/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-potlatch",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "The ban was enacted by an 1884 amendment to the Indian Act, in force from 1885, and dropped in the 1951 revision. Ceremonies continued covertly; regalia seized after a 1921 potlatch at Village Island were later returned to communities and are held at the U'mista Cultural Centre in Alert Bay. See Douglas Cole and Ira Chaikin, *An Iron Hand upon the People: The Law against the Potlatch on the Northwest Coast* (1990). [U’mista Cultural Centre’s collection history](https://www.umista.ca/pages/collection-history).",
+    "urls": [
+      "https://www.umista.ca/pages/collection-history"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-waytz",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Adam Waytz, Ravi Iyer, Liane Young, Jonathan Haidt and Jesse Graham, \"Ideological differences in the expanse of the moral circle,\" *Nature Communications* 10 (2019): 4389. These are average tendencies across large samples, with wide individual variation. [Original study](https://www.nature.com/articles/s41467-019-12227-0).",
+    "urls": [
+      "https://www.nature.com/articles/s41467-019-12227-0"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-honor",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Dov Cohen, Richard E. Nisbett, Brian F. Bowdle and Norbert Schwarz, [“Insult, aggression, and the southern culture of honor: an ‘experimental ethnography’”](https://pubmed.ncbi.nlm.nih.gov/8656339/), *Journal of Personality and Social Psychology* 70(5) (1996): 945–959; Nisbett and Cohen, *Culture of Honor* (1996). The experiment measured reactions to an insult among male students, not the historical causal pathway from herding to hormones. The herding-origin explanation is the authors' hypothesis. “Sinking” is this book's interpretation, not a term or a measured duration from the experiment.",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/8656339/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-roman",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Carl-Johan Dalgaard, Nicolai Kaarsen, Ola Olsson and Pablo Selaya, \"Roman roads to prosperity: Persistence and non-persistence of public infrastructure,\" *Journal of Comparative Economics* 50 (2022): 896–916. [Authors’ paper](https://web2.econ.ku.dk/pabloselaya/publications/RomanRoads_JCE2022.pdf).",
+    "urls": [
+      "https://web2.econ.ku.dk/pabloselaya/publications/RomanRoads_JCE2022.pdf"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-persistence",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Melissa Dell, [“The Persistent Effects of Peru's Mining Mita”](https://dell.scholars.harvard.edu/sites/g/files/omnuum7696/files/dell/files/ecta8121_0.pdf), *Econometrica* 78 (2010): 1863–1903: a regression-discontinuity estimate of about 25% lower household consumption in formerly subjected districts. Jeremy S. Hoffman, Vivek Shandas and Nicholas Pendleton, [“The Effects of Historical Housing Policies on Resident Exposure to Intra-Urban Heat: A Study of 108 US Urban Areas”](https://www.mdpi.com/2225-1154/8/1/12), *Climate* 8 (2020): 12: summer land-surface temperature, with a mean D-versus-A neighborhood difference of about 2.6 °C, varying across cities. This is not an air-temperature or individual heat-exposure estimate, and not by itself causal identification of redlining's entire effect. On spatial autocorrelation and persistence claims, Morgan Kelly, [“The Standard Errors of Persistence”](https://www.econstor.eu/bitstream/10419/198589/1/WP2019_13.pdf), UCD working paper 2019/13.",
+    "urls": [
+      "https://dell.scholars.harvard.edu/sites/g/files/omnuum7696/files/dell/files/ecta8121_0.pdf",
+      "https://www.mdpi.com/2225-1154/8/1/12",
+      "https://www.econstor.eu/bitstream/10419/198589/1/WP2019_13.pdf"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-lactase",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Todd Bersaglieri et al., \"Genetic signatures of strong recent positive selection at the lactase gene,\" *American Journal of Human Genetics* 74 (2004): 1111–1120; Richard P. Evershed et al., \"Dairying, diseases and the evolution of lactase persistence in Europe,\" *Nature* 608 (2022): 336–345, on milk use preceding the allele's spread and the possible role of famine and disease. [Evershed and colleagues’ paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7615474/). Cultural practices can change selection pressures on inherited variants; this is not acquired belief being copied into an individual's genes.",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615474/"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-tribal",
+    "status": "Publisher identity and description checked; specific theoretical application is interpretive",
+    "note": "Peter J. Richerson and Robert Boyd, *Not by Genes Alone: How Culture Transformed Human Evolution* (University of Chicago Press, 2005), on the \"tribal social instincts\" hypothesis and gene–culture coevolution. The hypothesis is influential and contested. [Publisher](https://press.uchicago.edu/ucp/books/book/chicago/N/bo3615170.html).",
+    "urls": [
+      "https://press.uchicago.edu/ucp/books/book/chicago/N/bo3615170.html"
+    ]
+  },
+  {
+    "unit": "chapter",
+    "id": "v1-c9-mistrust",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Nathan Nunn and Leonard Wantchekon, \"The Slave Trade and the Origins of Mistrust in Africa,\" *American Economic Review* 101 (2011): 3221–3252. Their evidence points to transmission through cultural norms and beliefs passed down within families, alongside institutional channels. [Original study](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3221).",
+    "urls": [
+      "https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3221"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-ipod",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Apple, [“Apple Presents iPod”](https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/), 23 October 2001, exactly six weeks after September 11. The first model used a mechanical scroll wheel; the later Click Wheel should not be projected backward into this scene.",
+    "urls": [
+      "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-norman",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Donald A. Norman, *The Psychology of Everyday Things* (1988), subsequently *The Design of Everyday Things*, revised edition 2013; [“Signifiers, not affordances”](https://jnd.org/signifiers-not-affordances/) (2008). An affordance is a possibility for action in the relationship between actor and object; a signifier is a perceptible cue to it. The gulfs of execution and evaluation concern performing an intended action and understanding its outcome.",
+    "urls": [
+      "https://jnd.org/signifiers-not-affordances/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-krug",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Steve Krug, *Don't Make Me Think: A Common Sense Approach to Web Usability* (2000).",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-hyrum",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Hyrum Wright's observation, known as Hyrum's law; see [hyrumslaw.com](https://www.hyrumslaw.com/) and Titus Winters, Tom Manshreck and Hyrum Wright, *Software Engineering at Google* (2020), chapter 1. On version numbers, Tom Preston-Werner, [Semantic Versioning 2.0.0](https://semver.org/).",
+    "urls": [
+      "https://www.hyrumslaw.com/",
+      "https://semver.org/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-robust",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Martin Thomson and David Schinazi, [\"Maintaining Robust Protocols\"](https://www.rfc-editor.org/rfc/rfc9413), RFC 9413 (June 2023), which argues that unconditional tolerance of deviations can entrench them and recommends active maintenance instead.",
+    "urls": [
+      "https://www.rfc-editor.org/rfc/rfc9413"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-tls",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Eric Rescorla, [\"The Transport Layer Security (TLS) Protocol Version 1.3\"](https://www.rfc-editor.org/rfc/rfc8446), RFC 8446 (August 2018), §4.1.2 and §4.2.1: the ClientHello's legacy_version field is set to the value for TLS 1.2, and the actual version is negotiated in the supported_versions extension, for compatibility with middleboxes.",
+    "urls": [
+      "https://www.rfc-editor.org/rfc/rfc8446"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-grease",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Jana Iyengar and Martin Thomson (eds.), [\"QUIC: A UDP-Based Multiplexed and Secure Transport\"](https://www.rfc-editor.org/rfc/rfc9000), RFC 9000 (May 2021); David Benjamin, [\"Applying Generate Random Extensions And Sustain Extensibility (GREASE) to TLS Extensibility\"](https://www.rfc-editor.org/rfc/rfc8701), RFC 8701 (January 2020).",
+    "urls": [
+      "https://www.rfc-editor.org/rfc/rfc9000",
+      "https://www.rfc-editor.org/rfc/rfc8701"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-clip",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Alec Radford et al., [\"Learning Transferable Visual Models From Natural Language Supervision\"](https://arxiv.org/abs/2103.00020) (2021), the CLIP model, trained on about 400 million image–text pairs with a contrastive objective over normalized dot products (cosine similarities).",
+    "urls": [
+      "https://arxiv.org/abs/2103.00020"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-mcp",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "OpenAI introduced JSON-schema function calling in June 2023; Anthropic announced [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) on 25 November 2024; Google announced [Agent2Agent](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) on 9 April 2025. These are dated examples of discovery and exchange protocols, not a promise of common semantics, safe tools or lasting interoperability.",
+    "urls": [
+      "https://www.anthropic.com/news/model-context-protocol",
+      "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-defaults",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Eric J. Johnson and Daniel Goldstein, [“Do Defaults Save Lives?”](https://www.dangoldstein.com/papers/DefaultsScience.pdf), *Science* 302 (2003): 1338–1339. The country figure reports effective consent, not transplantation: opt-in countries range from 4.25% to 27.5%, and opt-out from 85.9% to 99.98%. Their separate randomized online choice experiment holds the decision scenario constant; cross-country comparisons alone do not isolate defaults from institutions or culture.",
+    "urls": [
+      "https://www.dangoldstein.com/papers/DefaultsScience.pdf"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-dark",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Harry Brignull coined \"dark patterns\" in 2010; see his *Deceptive Patterns* (2023).",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-dsa",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Regulation (EU) 2022/2065 (Digital Services Act), Article 25. [Regulation text](https://eur-lex.europa.eu/eli/reg/2022/2065/oj/eng).",
+    "urls": [
+      "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/eng"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-simon",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Herbert A. Simon, \"Designing Organizations for an Information-Rich World\" (1971), in Martin Greenberger (ed.), *Computers, Communications, and the Public Interest*.",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-latency",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Motion-to-photon latency around 20 milliseconds is a common engineering target, not a universal physiological cutoff. See [Varjo’s latency explanation](https://support.varjo.com/hc/en-us/latency). Comfort also depends on motion, tracking, display characteristics, exposure and the person; low delay alone cannot eliminate visually induced motion sickness.",
+    "urls": [
+      "https://support.varjo.com/hc/en-us/latency"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-vac",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "David M. Hoffman et al., \"Vergence–accommodation conflicts hinder visual performance and cause visual fatigue\" (2008), *Journal of Vision* 8(3): 33. [Original experiment](https://pmc.ncbi.nlm.nih.gov/articles/PMC2879326/).",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2879326/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-visionpro",
+    "status": "Dated product example; refresh current capability only if wording is made present-tense before print",
+    "note": "Apple Vision Pro was released in the United States on 2 February 2024.",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-glasses",
+    "status": "Dated product example; refresh current capability only if wording is made present-tense before print",
+    "note": "For example, Ray-Ban Meta smart glasses (2023) and Meta's Orion augmented-reality prototype (shown in September 2024). Check current products before print.",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-eliza",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Joseph Weizenbaum, \"ELIZA\" (1966), *Communications of the ACM* 9(1): 36–45; *Computer Power and Human Reason* (1976).",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-nielsen",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Jakob Nielsen, \"AI: First New UI Paradigm in 60 Years\" (Nielsen Norman Group, June 2023). [Author’s essay](https://www.nngroup.com/articles/ai-paradigm/).",
+    "urls": [
+      "https://www.nngroup.com/articles/ai-paradigm/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-agents",
+    "status": "Dated product example; refresh current capability only if wording is made present-tense before print",
+    "note": "For example, Anthropic's \"computer use\" capability (October 2024) and OpenAI's Operator (January 2025).",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-picard",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Rosalind W. Picard, *Affective Computing* (1997).",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-barrett",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Lisa Feldman Barrett et al., \"Emotional Expressions Reconsidered\" (2019), *Psychological Science in the Public Interest* 20(1): 1–68. [Review](https://doi.org/10.1177/1529100619832930).",
+    "urls": [
+      "https://doi.org/10.1177/1529100619832930"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-aiact",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Regulation (EU) 2024/1689 (Artificial Intelligence Act), Article 5(1)(f). [Regulation text](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng).",
+    "urls": [
+      "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-bci",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Francis R. Willett et al., \"A high-performance speech neuroprosthesis\" (2023), *Nature* 620: 1031–1036; Sean L. Metzger et al., \"A high-performance neuroprosthesis for speech decoding and avatar control\" (2023), *Nature* 620: 1037–1046. [Willett et al.](https://www.nature.com/articles/s41586-023-06377-x). [Metzger et al.](https://www.nature.com/articles/s41586-023-06443-4). These are participant- and task-specific research results, not universal speech decoding.",
+    "urls": [
+      "https://www.nature.com/articles/s41586-023-06377-x",
+      "https://www.nature.com/articles/s41586-023-06443-4"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-neuralink",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Neuralink implanted its first human participant, Noland Arbaugh, in January 2024. [Company’s dated participant report](https://neuralink.com/updates/a-year-of-telepathy/).",
+    "urls": [
+      "https://neuralink.com/updates/a-year-of-telepathy/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-bemyeyes",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Be My Eyes launched \"Be My AI,\" built on OpenAI's GPT-4, in 2023. [Service announcement](https://www.bemyeyes.com/news/announcing-be-my-ai-soon-available-for-hundreds-of-thousands-of-be-my-eyes-users/).",
+    "urls": [
+      "https://www.bemyeyes.com/news/announcing-be-my-ai-soon-available-for-hundreds-of-thousands-of-be-my-eyes-users/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-turns",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Tanya Stivers et al., \"Universals and cultural variation in turn-taking in conversation,\" *PNAS* 106 (2009): 10587–10592, doi:10.1073/pnas.0903616106. Across ten languages, the most frequent gap between turns fell between 0 and 200 milliseconds; average gaps differed by language within a range of about 250 milliseconds, Japanese at the short end and Danish at the long. [Original study](https://doi.org/10.1073/pnas.0903616106).",
+    "urls": [
+      "https://doi.org/10.1073/pnas.0903616106"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-gpt4o",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "OpenAI, [\"Hello GPT-4o\"](https://openai.com/index/hello-gpt-4o/) (13 May 2024): audio responses in as little as 232 milliseconds and 320 milliseconds on average, compared with average latencies of 2.8 and 5.4 seconds for its earlier voice mode, which chained separate speech-to-text, language and text-to-speech models. These are the company's own figures.",
+    "urls": [
+      "https://openai.com/index/hello-gpt-4o/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-netflix",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Yehuda Koren, Robert Bell and Chris Volinsky, “Matrix Factorization Techniques for Recommender Systems,” *Computer* 42(8) (2009): 30–37. Netflix’s [“Recommendations: Beyond the 5 stars (Part 1)”](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429), Xavier Amatriain and Justin Basilico, 6 April 2012, explains the ten-percent RMSE target, deployment of factorization and restricted-Boltzmann-machine components, and why the full final ensemble was not deployed. Latent-factor methods predate the prize. For candidate retrieval versus more elaborate ranking, Paul Covington, Jay Adams and Emre Sargin, [“Deep Neural Networks for YouTube Recommendations”](https://research.google/pubs/deep-neural-networks-for-youtube-recommendations/), RecSys 2016.",
+    "urls": [
+      "https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429",
+      "https://research.google/pubs/deep-neural-networks-for-youtube-recommendations/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-bandit",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Herbert Robbins, “Some aspects of the sequential design of experiments,” *Bulletin of the American Mathematical Society* 58(5) (1952): 527–535. Lihong Li, Wei Chu, John Langford and Robert E. Schapire, [“A Contextual-Bandit Approach to Personalized News Article Recommendation”](https://arxiv.org/abs/1003.0146), WWW 2010. Allison J. B. Chaney, Brandon M. Stewart and Barbara E. Engelhardt, [“How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility”](https://oar.princeton.edu/bitstream/88435/pr1zc2c/1/RecSystemsUtility.pdf), RecSys 2018. Exploration alone is not a general cure for preference change, objective misspecification or feedback confounding.",
+    "urls": [
+      "https://arxiv.org/abs/1003.0146",
+      "https://oar.princeton.edu/bitstream/88435/pr1zc2c/1/RecSystemsUtility.pdf"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-feedsim",
+    "status": "Independently implemented and reproduced; assumed mechanism, not empirical user data",
+    "note": "Illustrative model reproduced for this edition, not fitted to a real platform. Four conditions each use 400 runs of 5,000 recommendations, eight baseline click probabilities 0.20, 0.19, …, 0.13, and estimates starting at one click in five showings. The feed either chooses its highest estimated rate (random ties) or explores uniformly with probability 0.10. In the habit condition a click raises that topic's probability by 1% of its remaining distance to 0.60; after each round all probabilities relax 0.05% toward their baselines. The leading topic is the most shown in the last 1,000 rounds. Without habit it was the original favorite in 26.5% of greedy runs and 53.0% of exploratory runs; with habit, 21.5% and 22.5%. For the greedy habit condition its mean click probability rose from 0.174 to 0.565. Curves select that leading topic retrospectively and average across runs. Python standard-library implementation; master seed 20261119, incremented by run. Reinforcement, decay and click-as-preference are modeling choices, not empirical estimates; clicks do not establish welfare. Reproduction code and data are retained with the editorial source materials.",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-weiser",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Mark Weiser, \"The Computer for the 21st Century\" (1991), *Scientific American* 265(3): 94–104.",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-seamful",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "Matthew Chalmers and Ian MacColl, \"Seamful and Seamless Design in Ubiquitous Computing\" (2003), Workshop at the Crossroads: The Interaction of HCI and Systems Issues in UbiComp.",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-uac",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Windows Vista introduced User Account Control in January 2007; Windows 7 (2009) added a slider and reduced the number of prompts in its default setting. [Microsoft design guidance](https://learn.microsoft.com/en-us/windows/win32/uxguide/winenv-uac).",
+    "urls": [
+      "https://learn.microsoft.com/en-us/windows/win32/uxguide/winenv-uac"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-habituation",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Anthony Vance, Jeffrey L. Jenkins, Bonnie Brinton Anderson, Daniel K. Bjornn and C. Brock Kirwan, [\"Tuning Out Security Warnings: A Longitudinal Examination of Habituation Through fMRI, Eye Tracking, and Field Experiments\"](https://misq.org/tuning-out-security-warnings-a-longitudinal-examination-of-habituation-through-fmri-eye-tracking-and-field-experiments.html), *MIS Quarterly* 42(2) (2018): 355–380. \"Polymorphic\" warnings, whose appearance changes, reduced habituation in the scanner and slowed the fall in adherence over a three-week field experiment with mobile app permission warnings.",
+    "urls": [
+      "https://misq.org/tuning-out-security-warnings-a-longitudinal-examination-of-habituation-through-fmri-eye-tracking-and-field-experiments.html"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-guardian",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Meta's Guardian boundary system for Quest headsets shows a boundary grid as the user approaches it and switches to passthrough video when the user steps outside. [Meta boundary guidance](https://www.meta.com/help/quest/463504908043519/).",
+    "urls": [
+      "https://www.meta.com/help/quest/463504908043519/"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-awareness",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Apple, [Apple Vision Pro User Guide](https://support.apple.com/guide/apple-vision-pro/tan3a6602fdd/visionos): \"People Awareness detects and shows people around you\"; the device \"also reveals some objects in front of you (such as walls)\" and reveals surroundings when the user approaches an object too quickly, reveals that cannot be adjusted or turned off.",
+    "urls": [
+      "https://support.apple.com/guide/apple-vision-pro/tan3a6602fdd/visionos"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-aeb",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Jessica B. Cicchino, “Effectiveness of forward collision warning and autonomous emergency braking systems in reducing front-to-rear crash rates,” *Accident Analysis & Prevention* 99 (2017): 142–152; automatic braking was associated with about a 50% reduction in the studied crash category. NHTSA’s [2024 final rule, FMVSS No. 127](https://www.govinfo.gov/content/pkg/FR-2024-05-09/html/2024-09054.htm), set 1 September 2029 as the principal compliance date, with exceptions and later provisions. The prose dates that rule rather than guaranteeing its future implementation.",
+    "urls": [
+      "https://www.govinfo.gov/content/pkg/FR-2024-05-09/html/2024-09054.htm"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-breaker",
+    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
+    "note": "The circuit-breaker pattern was popularized by Michael T. Nygard, *Release It! Design and Deploy Production-Ready Software* (2007). On loose coupling in organizations and machines, Karl E. Weick, \"Educational Organizations as Loosely Coupled Systems,\" *Administrative Science Quarterly* 21 (1976): 1–19, and Charles Perrow, *Normal Accidents* (1984). (AI-added; verify before print.)",
+    "urls": []
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-whitequeen",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Lewis Carroll, *Through the Looking-Glass, and What Alice Found There* (1871), chapter V, \"Wool and Water.\" [Primary text](https://www.gutenberg.org/ebooks/12).",
+    "urls": [
+      "https://www.gutenberg.org/ebooks/12"
+    ]
+  },
+  {
+    "unit": "interlude",
+    "id": "v1-i9-takeover",
+    "status": "Primary text, abstract, specification or institutional record checked; see audit for scope and composite-note limits",
+    "note": "Alexander Eriksson and Neville A. Stanton, \"Takeover Time in Highly Automated Vehicles: Noncritical Transitions to and From Manual Control,\" *Human Factors* 59(4) (2017): 689–705, reporting takeover times from about two seconds to more than twenty in a driving simulator. [Original study](https://doi.org/10.1177/0018720816685832).",
+    "urls": [
+      "https://doi.org/10.1177/0018720816685832"
+    ]
+  }
+]

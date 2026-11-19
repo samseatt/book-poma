@@ -1,0 +1,62 @@
+{
+  "09-chapter.md": {
+    "note_definitions": 47,
+    "rendered_note_occurrences": 47,
+    "supplied_comments_preserved": 12,
+    "closing_preserved": true,
+    "images": [
+      "../assets/shared/chapter-arrow.png",
+      "assets/09-chapter/cheap-belief.svg",
+      "assets/09-chapter/story-depths.svg"
+    ],
+    "pandoc": "pass"
+  },
+  "09-interlude.md": {
+    "note_definitions": 41,
+    "rendered_note_occurrences": 41,
+    "supplied_comments_preserved": 14,
+    "closing_preserved": true,
+    "images": [
+      "../assets/shared/interlude-gear.png",
+      "assets/09-interlude/taste-geometry.svg",
+      "assets/09-interlude/feed-loop.svg",
+      "assets/09-interlude/governor-bands.svg",
+      "../assets/shared/separator.png"
+    ],
+    "pandoc": "pass"
+  },
+  "model": {
+    "four_conditions_reproduced": true,
+    "controls_constant": true,
+    "probability_bounds": true,
+    "chart_matches_results": true,
+    "dot_products_checked": true
+  },
+  "figures": {
+    "svg_count": 5,
+    "xml": "pass",
+    "grayscale": "pass",
+    "visual_review": "all five rendered and inspected"
+  },
+  "input_hashes_match": true,
+  "installed_validation": {
+    "canonical_checker": {
+      "09-chapter.md": {
+        "passed": true,
+        "parsed_notes": 47,
+        "html_note_backlinks": 47
+      },
+      "09-interlude.md": {
+        "passed": true,
+        "parsed_notes": 41,
+        "html_note_backlinks": 41
+      }
+    },
+    "warnings": [
+      "Note definitions are not in first-use order; valid Markdown, correct rendered notes."
+    ],
+    "manifest_hashes_match": true,
+    "git_diff_check": "pass",
+    "incoming_sources_unchanged": true
+  }
+}

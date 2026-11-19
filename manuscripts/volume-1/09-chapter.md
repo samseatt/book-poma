@@ -1,5 +1,7 @@
 ![](../assets/shared/chapter-arrow.png)
 
+<!-- AI-assisted: restored from Sam's earlier draft and new recollections; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
+
 CHAPTER 9
 
 # The Thin Ice
@@ -8,509 +10,286 @@ CHAPTER 9
 
 *IDEOLOGY*
 
-> "The world's most civilized people are as near to barbarism as the most polished steel is to rust. Nations, like metals, have only to be exposed to air --- and time --- to tarnish." --- **H.G. Wells**
+> "The most civilized people are as near to barbarism as the most polished steel is to rust. Nations, like metals, have only a superficial brilliancy." --- attributed to **Antoine de Rivarol**[^v1-c9-wells]
 
-My opening move into Toronto so far was akin to popping open a can of Molson Canadian and shouting, "I am Canadian." But by now after a quick and dignified process -- in a stark contrast to the previous clown car -- I finally settled into a curious new identity: a Canadian who still thought in Fahrenheit.
+My opening move into Toronto had been akin to popping open a can of Molson Canadian and shouting, "I am Canadian." After March 11 and a quick and dignified process (in stark contrast to the previous clown car), I settled into a curious new identity: a Canadian who still thought in Fahrenheit.
 
-By then, I had stopped obsessing about nations and started thinking about civilization itself --- the even bigger operating system beneath the political apps. If countries are just splash screens, then civilization is the shared login page where all eight billion of us click *"Accept Terms and Conditions"* and lie through our teeth about having read them.
+By then, I had stopped obsessing about nations and started thinking about what lies beneath them, the even bigger operating system under the political apps. If countries are splash screens, then civilization is the shared login page where eight billion of us click "Accept Terms and Conditions" and lie through our teeth about having read them.
 
-Toronto was the perfect place to study this. Here, even chaos had a user manual. The subways apologized. The jaywalkers thanked you. And the drunks fought with the dignity of stage actors---grabbing each other's shirts, pausing to apologize mid-swing, and resuming with better form. It was like observing a beta version of humanity where the bugs had been politely filed but not yet fixed.
+Toronto was the perfect place to study it. Here, even chaos had a user manual. The subways apologized. The jaywalkers thanked you. And the drunks fought with the dignity of stage actors, grabbing each other's shirts, pausing to apologize mid-swing, and resuming with better form. It was like observing a beta version of humanity in which the bugs had been politely filed but not yet fixed.
 
-### **MuchMusic and the Myth of Civility**
+From my downtown balcony, I could look straight down at the MuchMusic studio, "MTV North," where Canada's celebrities descended each summer for the music video awards. It was the most civil street riot I've ever seen: teenagers screaming, cameras flashing, and everyone still making room for pedestrians with strollers. Once, I waved at a television anchor on the sidewalk. He turned, smiled and talked back. In Los Angeles, that only happened if you were holding a subpoena.
 
-From my downtown balcony I could look down at the MuchMusic studio --- "MTV North," where Canadian celebrities descended each summer for the MMVAs. It was the most civil street riot I've ever seen: teenagers screaming, cameras flashing, and everyone still making room for pedestrians with strollers. Once, I waved at a CityTV anchor on the sidewalk. He actually turned, smiled, and talked back. In L.A. that only happened if you were holding a subpoena.
+Toronto felt like civilization with a human-friendly interface: large, well-spaced buttons, no dark patterns, infinite undo. For a while, I bought into the myth that if you make life polite enough, the thin ice of civilization becomes thick. But cracks don't care about courtesy. They form quietly, beneath your feet, while you're busy thinking everything is fine.
 
-Toronto felt like civilization with a human-friendly UI: large, well-spaced buttons; no dark patterns; infinite undo. Even the cops looked like they'd been trained in customer service before law enforcement.
+On many evenings, I'd sit half outside and half inside. Outside, the awards crowd cheered beneath me. Inside, Encarta, Microsoft's encyclopedia on a disc, gently explained Mesopotamia at 640×480 resolution. It was my own dual-monitor setup for civilization: version 1.0 below, live humans; version 2.0 inside, curated humans, shrink-wrapped on CD-ROM. Encarta came with guardrails, knowledge supervised by grown-ups in tweed jackets: safe, finite, edited, civilization as museum exhibit.
 
-For a while, I bought into it --- the myth that if you make life polite enough, the thin ice of civilization becomes thick. But cracks don't care about courtesy. They form quietly, beneath your feet, while you're busy thinking everything is fine.
+And then, in the same quiet winter, two opposite ideas of civilization announced themselves within weeks of each other. In January 2001, a website called Wikipedia went live, open to volunteer authors across borders, without advertising, on the wildly optimistic idea that strangers with keyboards could build a library together.[^v1-c9-wikipedia] It should have collapsed instantly. Instead, it flourished. And in March 2001, in the very days of my own crossing at the border, the Taliban dynamited the giant Buddhas of Bamiyan, statues carved into an Afghan cliff some fifteen centuries earlier, because their ideology could not tolerate a shared inheritance that predated it.[^v1-c9-bamiyan] Wikipedia was the anti-Taliban of knowledge: where zealots blasted ancient statues, it built a living library; where hierarchies guarded truth, it trusted strangers.
 
-### **Two Windows into the World**
+I knew the face of the second idea. I had grown up close enough to it to recognize it anywhere: the same absolutism that had pushed me out, that blew up statues and shut women out of schools and public life. Six months later, it brought down the towers. When the war in Afghanistan came, I thought it justified, though far from ideal. When the war in Iraq followed, I thought it misguided, or worse. On a frozen February day in 2003, tens of thousands of people marched through Toronto against it, part of the largest coordinated protest in history, and a month later Canada declined to join.[^v1-c9-iraq] My new country, it turned out, could say no to my old one, politely.
 
-On many evenings, I'd sit half outside and half inside. Outside, the MMVA crowd cheering beneath me; inside, Encarta gently explaining Mesopotamia at 640×480 resolution. It was my own personal dual-monitor setup for civilization: Version 1.0 below (live humans) and Version 2.0 inside (curated humans, shrink-wrapped on CD-ROM).
+In the spring of 2003, a new disease called SARS reached Toronto from Asia, and the city became, for a few months, a place the world avoided. Dozens died, hospitals closed their doors, and the hotels and restaurants emptied.[^v1-c9-sars] That summer, the city threw itself a party to prove it was still alive: a benefit concert at Downsview Park, headlined by the Rolling Stones, that drew something like half a million people, among the largest ticketed concerts ever held.[^v1-c9-sarsstock] I was there. Half a million people, peaceful, sunburned and happy. The crowd's only act of hostility was reserved for one of the opening acts, a young Justin Timberlake, whom some hardcore Stones fans booed and a few pelted with bottles. Even Toronto's mobs had standards.
 
-Encarta came with guardrails --- knowledge supervised by grownups in tweed jackets. It felt safe, finite, edited. Civilization as museum exhibit.
+Two weeks later, I spent a hot Thursday afternoon at the Beaches, east of downtown, and was heading back along Lake Shore Boulevard when I noticed a traffic light was out. Then another, and another. At that point, you know something is wrong. The specter of 9/11, two years earlier, still hid somewhere in the mind. But whatever it was, there was no chaos. Everybody fell back to four-way stops. A Canadian city of that size, completely orderly and civil: no honking, no jostling, no cutting across as if your life or your time were somehow more important than anyone else's.
 
-And then, in the same quiet winter, the opposite appeared.
+By the time I made it home, it was clear that some sort of blackout had occurred; the power was out across Ontario and much of the northeastern United States, some fifty million people at once.[^v1-c9-blackout] What, or more ominously who, had caused it wasn't yet clear to me. The elevator was dead, so I trudged up nine floors to my apartment, looked out from the balcony and took stock of a silent fridge. Once it started getting dark, I figured there wouldn't be much to do at home. It was a toasty evening. Across from my building was a bar with a patio I'd always walked past. It was full, but there was no lineup, and when I stopped, a patron made extra room for me. I ordered whatever beverage was available.
 
-### **Wikipedia Arrives: Civilization Goes Open Source**
+Then the stars came out over Toronto, something you never see there, both because of the city's lights and because everyone's focus is on the ground. With not much else to do, the city was looking up. To be without power in the twenty-first century was awful, but somehow it became a fun night, a peaceful evening, like a low-tech city-wide party. Later, walking out, I ran into an ex-coworker I'd never have met otherwise in a million years, and she caught me up on the people we'd both been friends with.
 
-While I was learning the choreography of Canadian politeness, the world quietly launched its boldest social experiment since representative democracy: **Wikipedia.**
+At every step, the city had fallen back on its default modes, and all of them were civil. That's what education and civility do. But how far can they stretch before they break too? No one knows.
 
-No ownership. No borders. No ad revenue. No editors-in-chief. Just the wildly optimistic idea that humanity --- if left alone with a keyboard --- would behave. It should have collapsed instantly. Instead, it flourished.
 
-It was the anti-Taliban of knowledge: where zealots blasted ancient statues, Wikipedia built living libraries; where hierarchies protected truth, Wikipedia trusted strangers; where nations guarded information, Wikipedia opened the gates. For the first time in history, humanity created a cathedral of knowledge with no pope --- just a million part-time volunteers armed with citations and uneven grammar. And the miracle wasn't that it worked. The miracle was that it only broke occasionally.
+<!-- AI draft, 2026-11-14. Short version; the full argument is in possibility-believed-notes.md. -->
+## Possibility, Believed
 
-### **Civilization's Veneer Recognized**
+Chapter 4 found a person to be a brain's model of itself; Chapter 8 found a nation to be a society's. An ideology sits between them and above both: a template for self-models, copied into millions of persons at once. A nation tells its members who "we" are. An ideology tells each of them what to hope for, what they owe one another and, as Alice will argue, whom to count. Chapter 4 described a collective superego, the voices of parents and teachers carried inside a person long after they've left the room, and promised that the society that trained the choir would have its own chapter. This is it.
 
-The realization hit me: **civilization is an open-source project.** It persists because *most* people choose not to destroy it. Not because police patrols are perfect, or politicians inspired, or nations wise. But because humans --- for reasons evolutionary, sentimental, or just plain tired --- generally decide to leave the world slightly better than they found it.
+*What is possible*, for a person, is partly whatever their ideology lets them imagine. Chapter 4 called a hope a possibility given standing in the present; an ideology gives standing to the same hopes in millions of heads, whether heaven or progress, revolution or a quiet suburban life. And what can be imagined changes with what can be seen. In India, where girls had long received less schooling than boys, villages in the state of West Bengal were required, by lottery, to reserve their council leadership for women. Afterward, parents in those villages came to want more for their daughters, the gap between their hopes for girls and for boys narrowed, and the girls stayed longer in school.[^v1-c9-aspirations] Nobody argued anyone into it. A future became visible, and so it became hopeable.
 
-Civilization isn't reinforced concrete. It's a polite agreement. A shared interface. A fragile UX. A thin layer of trust stretched across a very old, very deep lake. And as I would soon learn --- in both Toronto and the wider world --- that ice was thinner than anyone wanted to admit.
+*What is cheap* is believing what your group believes. One person's view about the climate changes nothing about the climate, but it can change a great deal about how that person's friends and family regard them. The legal scholar Dan Kahan found that Americans with the most scientific literacy and numeracy were not the most likely to agree about climate risk. They were the most polarized, as if the better reasoners were simply better at reaching their own side's conclusion.[^v1-c9-kahan] The price of a belief is set mostly by the group, not by the evidence. That is Chapter 4's motivated reasoning at the scale of millions, and it's rational for each person even when it's ruinous for everyone together.
 
-## Anthropology of Order --- From Tribes to Civilization
+<!-- AI draft, 2026-11-19. -->![Better reasoners, wider gap. A schematic of the pattern Kahan and colleagues reported for perceived climate risk: as science literacy and numeracy rise, the average views of two cultural groups move apart rather than together. The shape is illustrative, not the study's data.](assets/09-chapter/cheap-belief.svg){#fig-v1-c9-cheap width=90% fig-alt="Two lines start close together at the left, where science literacy is low, and spread apart toward the right, one rising and one falling. A note marks the widening gap. The axes carry no numbers."}<!-- End AI draft 2026-11-19. -->
 
-If you strip civilization down to its factory settings, what you get is not a constitution or a parliament. You get a small group of hungry primates who would like, very much, not to die.
+*The sameness* is a manufactured conscience. For most of history religion was the education of its time: monasteries and madrasas kept the libraries, and catechism gave every child the same questions with the same answers. Sometimes the education was the point. Protestantism asked believers to read scripture for themselves, and in nineteenth-century Prussia, the economists Sascha Becker and Ludger Woessmann found, Protestant regions were markedly more literate, which accounts for much of their later prosperity.[^v1-c9-literacy] Chapter 8's public schools inherited the job. A curriculum and a creed do the same work: they give millions of separate self-models a common core.
 
-Long before there were nation-states, passports, or lawyers billing in six-minute increments, humans lived in relatively small, kin-based bands where cohesion was enforced by three primitive but astonishingly robust technologies: **kinship, reputation, and reciprocity**. In groups where survival depends on others showing up when you are sick, tired, or being chased by something with better teeth, morality is not a philosophy elective. It's an existential requirement.
+That's also why this floor and the last have so often worked as a pair. Ashoka spread Buddhism across an empire; Constantine convened a council to settle a single Christian creed; and in 1555 the Peace of Augsburg made the coupling law, letting each ruler choose his territory's faith: whose realm, his religion.[^v1-c9-augsburg] A border from Chapter 8 decided a creed from this one. The state supplied force, the creed supplied legitimacy, and each made the other cheaper. Separating church from state undid the coupling, but rarely all the way. A nation keeps a civil religion of flags, founders and anthems.
 
-Anthropologists studying hunter-gatherer societies find a strong sense of fairness, punishment for freeloaders, and even proto-democratic practices. If your cousin hoards meat, he doesn't get a lecture on Kant. He gets side-eyed, gossiped about, and---if he keeps it up---left out of future feasts. Justice begins as a social stomachache: *we* know who pulled their weight and who didn't.
+*The break* is the schism, and today the walls are moving. Christianity split in 1054 and again in 1517, and for centuries the seams of creed ran mostly along borders. The newer ones run through neighborhoods. Across twenty-one Western democracies since the mid-twentieth century, voters with university degrees have drifted toward the parties of the left and those without toward the right, so that education now divides electorates in a way it once didn't.[^v1-c9-sorting] Chapter 8's border was drawn on a map. These walls are drawn in the space of affiliation: what you studied, where you live, whom you read.
 
-The emergence of order in these early groups wasn't guided by abstract treatises. It was written into **bodies, rituals, and small dramas**:
+And an ideology, like the stories beneath it, can be withdrawn. In Quebec, in the decades of what Quebecers call the Quiet Revolution, weekly mass went from something most of the province did to something a minority did, within about a generation.[^v1-c9-quebec] No one outlawed it. Enough people stopped expecting everyone else to go. The reverse case makes the same point from the other side. From 1885 to 1951, Canadian law banned the potlatch, the gift-giving ceremonies at the heart of many Pacific Northwest First Nations, and the ceremonies went on in secret for two generations before returning to the open.[^v1-c9-potlatch] A story can lose its believers without a law, and keep them against one.
 
--   A shared meal that reinforces trust.
+So the new answer is Chapter 4's self-model, mass-produced. An ideology hands each person the futures worth wanting and the strangers worth caring about, and it does so cheaply, because believing with the group costs less than doubting alone. On the ground floor, what was cheap became common. In biology, common was earned by copying; in a brain it arrived without happening; a person kept what never happened; a society made things real by expecting them; industry made the common cheap; an economy spent the future early; a nation's paper line changed everything around it. In an ideology, a single hope can be held by millions at once.
+<!-- End AI draft 2026-11-14. -->
 
--   A burial ceremony that dignifies loss and binds the living.
+<!-- AI draft, 2026-11-19: mainstream veneer and moral-circle material moved here from the Alice. -->
+## Paint or Wood?
 
--   A dance or chant that synchronizes hearts and feet just enough to make "us" feel different from "them."
+The image at the top of this chapter is an old one. Civilization is a thin crust of manners over a deep lake of barbarism, and any shock, a blackout, a war or a bad summer, can send us through the ice. Frans de Waal, whose capuchins threw cucumbers in Chapter 4, spent years arguing against exactly that picture. He called it "veneer theory": the idea that morality is a cultural coating painted over a fundamentally selfish animal.[^v1-c9-veneer] The evidence from primates, he argued, points the other way. Empathy, consolation, fairness and reconciliation run deep in our lineage; chimpanzees comfort the losers of fights. Morality isn't the paint. It's in the wood.
 
-Robin Dunbar and others have argued for a cognitive limit on how many stable relationships we can track---around 150 or so. Within that circle, gossip, memory, and mutual obligation are enough to maintain order. Once group size creeps beyond this number, something else is needed. When you can't know everyone, you need something you can all know. That "something" starts as story and ritual, then hardens into **myth and symbol**. As agriculture tethers people to place and surplus appears, settlements swell into villages and cities. With that growth comes a new creature: the stranger. People who live close by but don't share your bloodline, your grandmother, or your inside jokes.
+The blackout bears him out. When the lights went off, Toronto didn't need a veneer; it fell back on its default modes, and the defaults were civil. But de Waal's evidence has a second edge. The same deep nature that makes chimpanzees console each other makes them patrol their borders and kill outsiders. Our moral instincts point two ways at once, toward care for those inside the circle and toward suspicion, sometimes savagery, for those outside it. The philosopher Peter Singer gave that boundary a name, the moral circle: the line around everyone whose interests we count.[^v1-c9-circle] Nature supplies the circle. Stories set its radius. And the radius can be measured: asked to place family, compatriots, all humanity, animals and the natural world inside or outside their concern, people on the left of politics tend to draw a wider and flatter circle, and people on the right a tighter one, weighted toward family and nation.[^v1-c9-waytz] Same species, same instincts, different stories.
+<!-- End AI draft 2026-11-19. -->
 
-At that moment, trust has to be extended through **symbolic means**. So we begin to invent the mythology of belonging: totems and crests, founding legends, sacred ancestors, and eventually gods who, conveniently, love *our* group best.
+## Alice, Down the Rabbit Hole: The Ice Isn't Thin Where You Think
 
-Civilization is not a break from tribal morality; it's an attempt to **scale** it. The campfire becomes the city. The city becomes the city-state. The city-state becomes an empire that needs new tools of order: religion, law, bureaucracy, surveillance---and, much later, customer service departments that put you on hold "because your call is important to us."
+<!-- AI draft, 2026-11-14, revised 2026-11-19: Alice rebuilt around "how a story gets thick"; de Waal and the moral circle now sit in "Paint or Wood?" above; Carroll opening and the ladder's direction of travel added. The previous version is archived in 01-chapter-relocations.md; the 2026-11-14 text is in chapter-9-before-2026-11-19.md. -->
 
-But the foundation stays fragile. The stranger always lurks at the boundary. Civilizations need not only internal cohesion, but a workable story about who doesn't belong. Sometimes the illusion of control---rituals, uniforms, flags, the right song before a hockey game---is all that stands between us and panic.
+*The twist, in one line: a story stays thin while it lives only in expectation; it thickens by sinking into the floors beneath it, which is why the oldest stories feel like nature.*
 
-Years later, walking through a Toronto or sitting in a Castlegar hockey arena, I would recognize those same ancient dynamics hiding under modern clothes. Members of the visiting team chirping insults at an Indigenous kid weren't just being cruel; they were rehearsing, badly, an old script about "us" and "them." Civilization's thin ice is laid right over that lake.
+Early in Wonderland, unsure whether she is still herself, Alice tests her memory with a moral verse every Victorian child had drilled: Isaac Watts's busy bee, improving each shining hour. She crosses her hands on her lap as if she were saying lessons, and out comes a crocodile, smiling as it welcomes little fishes into its jaws.[^v1-c9-carroll] The words have come loose. The posture hasn't. What had sunk deepest was not the lesson but the drill.
 
-Today our global civilization stretches these tribal instincts across billions. Our markets are more complex, our states more bureaucratic, our religions more doctrinal. Yet under the skyscrapers and smartphones, the same mammalian needs pulse away: **to belong, to be seen, to live under some kind of moral canopy.**
+So far this chapter has found the story floors thin. Quebec stopped going to mass in a generation, and a nation's paper line holds only while people keep expecting it to. But that leaves a puzzle. Some stories don't feel thin at all. They feel like nature: honor, caste, which foods are clean, whom it's natural to trust. Nobody experiences them as expectations that could be withdrawn on a Sunday. My conjecture is that a story thickens by sinking, out of expectation and into the floors beneath it, and that it sinks to at least three depths.
 
-This chapter is about what happens when that canopy frays---when the ice cracks and we glimpse how little may separate us from the dark. We start with the tribe, scale up to civilization, and then watch what happens when the stories holding it all together stop working as advertised.
+*Into bodies.* A ritual practiced long enough becomes a habit, and a habit is Chapter 4's slow variable, written into synapses and rehearsed in sleep. The psychologists Dov Cohen and Richard Nisbett studied the "culture of honor" of the American South, which they traced to the herding economies of its settlers, where a man's reputation for answering insult was his herd's only protection. Generations after the herds were gone, they brought Southern and Northern students into a laboratory and had a confederate bump into them in a hallway and mutter an insult. The Southerners' cortisol and testosterone rose more sharply, and they were more likely to respond aggressively.[^v1-c9-honor] A story about livestock had sunk into hormones. Joseph Henrich's account, which this chapter meets below, of how a medieval church's ban on cousin marriage reshaped how Europeans think is the same descent: an ideology's rule, sunk into psychology.
 
-## The Moral Web --- Belief, Religion, and the Codification of Virtue
+*Into stone.* A story can be poured into concrete. Where the Romans built roads, Europe's economic activity is denser today, two thousand years later. Where the wheel fell out of use, across the Middle East and North Africa after camels displaced carts, the old roads stopped mattering, which suggests the effect runs through the living floor rather than through the stones alone.[^v1-c9-roman] In Peru, places once subject to the colonial *mita*, a forced-labor draft for the silver mines that ended in 1812, have household consumption about a quarter lower than nearby places that weren't. In more than a hundred American cities, neighborhoods marked as hazardous on the lending maps of the 1930s, maps drawn largely by race, had summer land-surface temperatures about 2.6 degrees Celsius higher on average than the best-rated areas, alongside less tree cover and more paved surface.[^v1-c9-persistence] A story about risk became a fact about temperature.
 
-If the first human tools were sharp stones, the first human institutions were **sharp stories**.
+*Into genes.* The deepest descent is the slowest. Most adult mammals lose the ability to digest milk after weaning. In populations that took up dairying, inherited regulatory variants keeping lactase production switched on spread under some of the strongest natural selection measured anywhere in the human genome. The details are still argued over; ancient DNA suggests that people drank milk for millennia before the European variant was common, and that famine and disease may have done the selecting.[^v1-c9-lactase] But the direction is clear. A way of life, a story about what animals are for, wrote itself into DNA, the way Chapter 6's farmers wrote theirs into maize.
 
-Long before laws were carved into stone or typed into PDF, our ethics were carried in tales: creation myths, cautionary fables, heroic sagas. Told around fires, painted on caves, later recited in temples and churches, these stories coordinated behavior long before there was a police force to outsource the job to. Religion, in this sense, was the earliest **software update** for the human group mind---patching bugs in cooperation, hierarchy, justice, and identity.
+Line those depths up and they form the same ladder Interlude 16 will draw for intervening in a body, where some drugs act briefly, some RNA medicines for weeks or months and a genome edit may persist for the life of the edited cell and its descendants. A story held only in expectation can be withdrawn in a season. One sunk into habit can last a lifetime. One poured into roads and housing can last centuries, and one carried by inherited genetic variants, thousands of years. In this reading, a story's thickness is the depth of the floor it has sunk to. And that gives this book's ladder a direction of travel. Its stories stand on the emergences beneath them and, given enough time, sink into them: a habit belongs to Chapter 4's floor, a road to Chapter 6's, a gene to Chapter 2's.
 
-### From Animism to Algorithmic Gods
+<!-- AI draft, 2026-11-19. -->![How a story thickens. The same withdrawal that empties a church in a generation barely touches a story that has sunk into roads or genes. Each row pairs a depth with an example from this chapter; the logarithmic spans illustrate the proposed ordering, not durations measured by the cited studies.](assets/09-chapter/story-depths.svg){#fig-v1-c9-depths width=95% fig-alt="Four horizontal bars on a logarithmic time axis running from a season to ten thousand years. Expectation, about a season to a generation (Quebec's mass attendance). Habit, a lifetime (the culture of honor in a hallway). Stone, centuries (Roman roads, colonial labor drafts, redlined streets). Genes, thousands of years (lactase persistence). An arrow on the left points downward: deeper means slower to undo."}<!-- End AI draft 2026-11-19. -->
 
-In animistic cultures, agency and spirit were spread generously across the world: winds had moods, rivers sulked or roared, animals bargained with hunters, stars watched. That wasn't naïve superstition so much as an ecological heuristic. If you believe the deer has a soul, you are marginally less likely to hunt every last one of them. **A good myth beats a bad tragedy.**
+That is also, I think, the answer to the argument between de Waal and the veneer theorists, and it lands closer to de Waal while keeping him honest. Robert Boyd and Peter Richerson have argued that tens of thousands of years of living in culturally marked tribes favored genes for exactly the instincts de Waal finds deep: in-group loyalty, norm-following, a readiness to punish cheats and a wariness of strangers.[^v1-c9-tribal] If they're right, some of the wood was once paint. Part of what we call human nature is sediment: the oldest stories, sunk so far that they now feel like the ground.
 
-As societies scaled, so did their gods. The pantheons of Mesopotamia, Egypt, Greece, India---crowds of deities with specialties in war, harvest, love, and bureaucracy---look suspiciously like the org charts of the civilizations that birthed them. Polytheism was flexible. If a new problem arrived, you could always add a new god.
+The conjecture makes predictions, which is what keeps it from being merely pretty. A sunk story should outlast belief in it, and it should outlast it in proportion to its depth: the road outlives the empire, the hormone outlives the herd. Where enslavement raids were worst in Africa, the descendants of the raided report less trust in neighbors and relatives today, and the evidence points to transmission through families as well as institutions, rather than requiring any current belief about slavers.[^v1-c9-mistrust] And undoing a sunk story should require work at the floor it sank to. No argument cools a redlined street; trees do. A sermon need not undo a learned threat response; years of safety might. My wager is that a story that has sunk can't be corrected by a better story alone.
 
-Monotheism was a different kind of code compression. One God, one ultimate source of law, one omnipresent auditor who cares not just what you do, but what you meant to do, and what you thought about doing at three in the morning. This is **morality with built-in surveillance**---no CCTV required. It scales beautifully when your village becomes an empire; reputations can't reach that far, but an all-seeing deity can.
+So the ice is thin, but not everywhere. It's thinnest over the stories we tell this year, and thickest over the ones that have had time to sink. Toronto's defaults held in the dark because a long rehearsal of courtesy had sunk into habit, deep enough to work without light. The young man on Queen Street, below, was raging against a story that had sunk too, into maps, laws and housing, which is why polite words don't reach it. The work of civility, then, is two jobs at once. One is to keep the young stories open to correction, so the circle they draw can keep widening. The other is to choose, with more care than any generation has yet managed, which stories we let sink, because whatever we let sink, our grandchildren will mistake for nature.
+<!-- End AI draft 2026-11-14. -->
 
-Religion, in that phase, becomes a **load-bearing wall** in civilization's architecture. It regulates marriage, land use, hygiene, diet, debt, holidays, and who gets buried where. When there is no functional state, religion often *is* the state: court system, welfare office, university, and therapy couch in one.
+## From Tribes to Creeds
 
-Durkheim thought religion was society worshipping itself. Freud saw it as the father figure projected onto the sky. Marx called it the opiate of the masses. They disagreed on almost everything else, but they converged on this: religion is **social infrastructure**. It stabilizes a brutal world with meaning, ritual, and a moral scoreboard.
+If you strip civilization down to its factory settings, what you get is not a constitution or a parliament. You get a small group of hungry primates who would like, very much, not to die. Long before nation-states and lawyers billing in six-minute increments, cohesion was enforced by three primitive but astonishingly robust technologies: kinship, reputation and reciprocity. Anthropologists studying hunter-gatherer bands find a strong sense of fairness, punishment for freeloaders and even proto-democratic practices. If your cousin hoards meat, he doesn't get a lecture on Kant. He gets side-eyed, gossiped about and, if he keeps it up, left out of future feasts. Justice begins as a social stomachache.
 
-### Cracks in the Moral Wall
+As Chapters 5 and 8 found, gossip and memory stretch only so far, to a scale of about a hundred and fifty people by Dunbar's fuzzy estimate, and beyond it, trust has to travel by symbol. So we invented the mythology of belonging: totems and crests, founding legends, sacred ancestors, and eventually gods who, conveniently, loved *our* group best. Civilization isn't a break from tribal morality; it's an attempt to scale it. The campfire becomes the city, the city becomes the empire, and the empire needs new tools of order: religion, law, bureaucracy and, much later, customer-service lines that put you on hold because your call is important.
 
-The trouble starts when the wall no longer matches the house. When stories no longer describe reality, or when hierarchies protect themselves instead of the vulnerable, the sacred scaffolding begins to creak. Reform movements, schisms, revolutions---these are often attempts to repair or replace the moral operating system, not to abolish morality itself.
+<!-- AI-assisted restoration, 2026-11-19; earlier canonical wording. -->
+Years later, sitting in a Castlegar hockey arena, I would recognize those same ancient dynamics hiding under modern clothes. Members of the visiting team chirping insults at an Indigenous kid weren't just being cruel; they were rehearsing, badly, an old script about "us" and "them." Civilization's thin ice is laid right over that lake.
 
-Today, we're living through one of the biggest **moral re-wirings** in history. Secularism rises in some regions, pluralism explodes in others, and algorithms quietly customize everyone's world-view like bespoke religion-lite. The old question "Can morality survive the death of God?" has been joined by a more annoying sequel: "Can morality survive a newsfeed?"
+## The Moral Web
 
-We've tried building ethics from scratch: utilitarianism, deontology, virtue ethics, contractualism. All have elegant arguments. None come with the **emotional firmware** of religion. Neuroscience reminds us that fairness lights up the same brain regions as pain and disgust. Our moral judgments arrive as gut feelings long before they put on the mask of reason.
+If the first human tools were sharp stones, the first human institutions were sharp stories. Long before laws were carved in stone, ethics were carried in tales: creation myths, cautionary fables, heroic sagas told around fires. Religion was the earliest large-scale moral technology.
 
-So, in the vacuum, we get **religioid** movements: eco-spirituality, techno-utopianism, wellness cults, crypto-tribes, hyper-nationalism. They're not "religions" on the census form, but they offer meaning, ritual, scapegoats, and a sense of "our people." They also offer, if we're not careful, all the usual side effects: heresy hunts, purity spirals, and the occasional street brawl.
+In animistic cultures, agency and spirit were spread generously across the world: winds had moods, rivers sulked, animals bargained with hunters. That wasn't naïve superstition so much as an ecological heuristic. If you believe the deer has a soul, you're marginally less likely to hunt every last one. As societies grew, so did their gods: the pantheons of Mesopotamia, Egypt, Greece and India look suspiciously like the organization charts of the civilizations that worshiped them, and when a new problem arrived, you could always add a new god. Monotheism was a different kind of compression. One God, one ultimate source of law, one omnipresent auditor who cares not only what you do but what you meant to do, and what you thought about doing at three in the morning. Morality with built-in surveillance, no cameras required.
 
-Sitting on a Toronto streetcar, I could see several of these layers at once:
+The psychologist Ara Norenzayan has argued that this was no accident. Moralizing gods who watch and judge seem to have spread with large societies, because they let strangers trust each other: if everyone fears the same all-seeing judge, cheating becomes riskier.[^v1-c9-biggods] Cognitive scientists have studied why such beliefs come so naturally. Pascal Boyer, in *Religion Explained*, published the year of my border crossing, and Justin Barrett argued that the human mind comes equipped with a hair-trigger tendency to detect agents, minds behind events, because for our ancestors, mistaking the wind for a predator was cheap and mistaking a predator for the wind was fatal.[^v1-c9-boyer] Religion, on this view, is built from ordinary mental parts, which is why it appears in every culture and why it's so hard to dislodge.
 
--   the quiet, inherited Christian and secular norms that made people offer their seats to elders without hesitation,
+Durkheim thought religion was society worshiping itself. Freud saw it as the father figure projected onto the sky. Marx called it the opium of the people. They disagreed on almost everything else, but converged on this: religion is social infrastructure. It stabilizes a brutal world with meaning, ritual and a moral scoreboard, and for most of history, where there was no functional state, religion often *was* the state: court, welfare office, university and therapist in one. The trouble begins when the wall no longer matches the house, when stories stop describing reality or hierarchies protect themselves instead of the vulnerable. Reform movements, schisms and revolutions are usually attempts to repair or replace the moral operating system, not to abolish morality itself.
 
--   the globalized consumer faith of brand logos on jackets,
+<!-- AI-assisted restoration, 2026-11-19; earlier canonical wording. -->
+Sitting on a Toronto streetcar, I could see several of these layers at once: the quiet, inherited Christian and secular norms that made people offer their seats to elders without hesitation; the globalized consumer faith of brand logos on jackets; and the subcultural signals---punk, goth, hijab, turban, yoga mat---that marked different moral and narrative lineages coexisting in one rail car without incident. It looked effortless. It was anything but. This was civilization as multi-tabbed religion, some windows minimized, some screaming for attention.
 
--   and the subcultural signals---punk, goth, hijab, turban, yoga mat---that marked different moral and narrative lineages coexisting in one rail car without incident.
+## What an Ideology Is
 
-It looked effortless. It was anything but. This was **civilization as multi-tabbed religion**, some windows minimized, some screaming for attention.
+The word *ideology* was coined in revolutionary France in the 1790s by Antoine Destutt de Tracy, who meant something hopeful by it: a science of ideas, which would explain how beliefs form and help reform education.[^v1-c9-tracy] Within a few years, Napoleon was using it as an insult for dreamy intellectuals, and the word has never fully recovered. Marx and Engels gave it its most famous critical meaning: ideology as the ideas of the ruling class, dressed up as universal truths, a "false consciousness" that makes an unjust order look natural.[^v1-c9-marx] Karl Mannheim later pointed out the awkward implication: every group's ideas are shaped by its position, including the critic's.[^v1-c9-mannheim]
 
-### Codifying Virtue in a Fragmented Age
+The anthropologist Clifford Geertz offered the definition I find most useful. Ideologies, he argued, arise when a society's traditional guides to life break down: they are maps of a problematic social reality, drawn when the old maps no longer work.[^v1-c9-geertz] That fits this book's ladder exactly. An ideology is a scaling story aimed at the mind: a compressed account of how the world works, who matters, what has gone wrong and what must be done, portable enough for millions to carry. Like every compression, it throws things away. Like every map, it's useful until the territory changes and the mapmakers refuse to notice.
 
-One of the central tensions of this chapter---and of our time---is how to maintain virtue in a world where **shared story has shattered into a thousand channels**.
+The modern world's great ideologies were born in the upheavals of the eighteenth and nineteenth centuries. Liberalism, from Locke to John Stuart Mill, put the individual and individual rights at the center, with government as the guarantor of liberty. Conservatism, in Edmund Burke's founding formulation, warned that society is an inheritance too complex for any generation to redesign from scratch, so reform should be gradual and tradition respected.[^v1-c9-burke] Socialism answered that liberty means little without material equality, and that the economy itself should be governed in the common interest. Nationalism, which Chapter 8 met, made the nation the highest loyalty. And in the twentieth century, fascism fused nationalism with a cult of the leader, the glorification of violence and the elimination of the "other," and showed what a closed moral circle can do when it captures a modern state. Each of these was, in Geertz's sense, a map drawn for a world in crisis. Each still shapes how billions of people see.
 
--   Do we universalize ethics---declare a set of human rights and try to wire them into constitutions, trade agreements, and eventually AI systems?
+## The Science of Moral Minds
 
--   Do we localize---double down on tribe, tradition, and border, and hope the neighbors behave themselves?
+Why do people who share the same facts disagree so passionately about right and wrong? Moral psychology has offered some of the best recent answers. Jonathan Haidt and his colleagues proposed that human moral intuitions rest on a handful of foundations: care for those who suffer, fairness, loyalty to one's group, respect for authority, sanctity or purity, and liberty from domination.[^v1-c9-haidt] In their surveys, people on the political left lean heavily on care and fairness; people on the right draw more evenly on all of them. Each side, in effect, is reading a moral map with different colors highlighted, and each wonders why the other can't see what's obvious. Haidt's deeper point, echoing Chapter 4, is that moral judgment usually comes first, as an intuition, and reasoning follows behind to justify it: Chapter 4's explaining hemisphere again, this time speaking for our values.
 
--   Do we outsource the whole thing to algorithms---let recommendation engines learn what makes people cooperative and embed that in digital nudges?
+Joseph Henrich and his colleagues added a humbling discovery. Most psychology research had been conducted on people from Western, educated, industrialized, rich and democratic societies, whom they dubbed WEIRD, and it turned out that such people are, on many measures, outliers among humanity: more individualistic, more analytical, more willing to trust strangers and follow impersonal rules, and less bound by kin.[^v1-c9-weird] Much of what we took to be human nature was the psychology of one unusual culture. Henrich later traced part of that psychology to centuries of history, including the church's long campaign against cousin marriage in medieval Europe, which broke up clans and pushed people toward voluntary associations and impersonal institutions.[^v1-c9-weirdest] Ideology, it turns out, can reshape not just what a society believes but how its members think.
 
-The real fight is not about the content of virtue so much as **who gets to define it**. Religion can still be a powerful anchor. It can also be weaponized into a cudgel. We've seen both: faith traditions fueling abolition, civil rights, refugee support; and faith traditions fueling blasphemy laws, sectarian violence, cultural purges.
+Joshua Greene, whose brain scans of the trolley problem Chapter 4 described, drew the practical conclusion. Our moral intuitions evolved to help us cooperate within groups, solving what he calls the tragedy of the commons. They're much worse at helping groups cooperate with each other, the "tragedy of commonsense morality," in which each tribe's gut feelings tell it that it's right.[^v1-c9-greene] Greene's prescription is a common currency for disagreement: when intuitions clash between groups, we need slower, more deliberate reasoning about shared consequences. It's the moral version of Chapter 4's open loop: let the world, including the other tribe, correct you.
 
-The old moral frameworks are not disappearing; they're **overlapping**, colliding, and mutating. Meanwhile, new decision-makers arrive on the scene: machine-learning models that will soon help decide bail, benefits, battlefield targeting, and what your child sees on a screen.
 
-We need, urgently, an updated **operating system for human virtue**---one that can inherit the emotional richness and narrative power of religious traditions without inheriting their intolerance; one that can talk to politics and technology without being swallowed by them; one that can make sense not only in Toronto and Castlegar, but also in Tehran, Lagos, and São Paulo.
+## After the Towers
 
-Part II and Part III will come back to this. For now, it's enough to recognize that what we call "civility" rests on very old, very contested software---stories, rituals, and beliefs---running on very fragile hardware: us.
+For a decade before September 11, two essays had framed the argument about what would come after the Cold War. In 1989, the political scientist Francis Fukuyama asked whether history, understood as the contest of grand ideologies, had ended with the victory of liberal democracy; later, in a book, he argued that it had, in the sense that no rival model of society remained with a universal appeal.[^v1-c9-fukuyama] In 1993, his former teacher Samuel Huntington answered that the coming conflicts would be fought not between ideologies but between civilizations, defined largely by religion: the West, the Islamic world, China and others, divided along cultural fault lines.[^v1-c9-huntington]
 
-## The Thin Ice Cracks --- When the Social Contract Breaks
+On September 11, many decided Huntington had won. I never quite believed either of them. Fukuyama underestimated how much people need belonging as well as freedom; Huntington drew his civilizations as if each were a single mind, when the fiercest battles were usually inside them. The attacks were not a clash between civilizations so much as a war within one, waged by its most absolutist fringe against everyone, including the many of its own who wanted no part of it. The economist and philosopher Amartya Sen put the objection best: reducing people to a single identity, religious or civilizational, is itself a kind of violence, because every person carries many identities at once, and choosing among them is what freedom means.[^v1-c9-sen] I had spent my whole life refusing to be reduced to one.
 
-Civilization is not held together by concrete and steel. It is held together by stories---shared agreements about what is fair, who belongs, and why we obey. We call this shared agreement the social contract, a quiet compact that says: if I give up certain freedoms, I gain protection, belonging, and predictability.
+Liberal societies faced their own version of the dilemma. How tolerant should a tolerant society be of the intolerant? Karl Popper had posed the paradox in 1945: unlimited tolerance, extended even to those who would destroy it, leads to the disappearance of tolerance itself.[^v1-c9-popper] He didn't mean that intolerant ideas should be silenced; he meant that a free society must be prepared to defend itself when they turn to force. Where to draw that line is one of the oldest arguments in politics, and it's never been settled for long.
 
-Most days this contract is invisible, like the terms and conditions we scroll past on our way to the "Accept" button. We obey the traffic light, pay the tax, stand in line, lower our voice in the library---not because a police officer is hovering over us, but because some part of us believes the system more or less works.
+## The Politics of Recognition
 
-But what happens when one side---usually the state, the market, or its attendant elites---defaults on the promise? What happens when the contract starts to feel like a rigged game, or worse, a joke? Historically, the answer is simple and unpleasant: it breaks. Sometimes slowly, like ice whitening under stress. Sometimes suddenly, like a foot going through the lake.
+Canada had been running its own experiment in a wider circle. In 1971, it became the first country to adopt multiculturalism as official policy, and in 1982 it wrote a Charter of Rights and Freedoms into its constitution.[^v1-c9-charter] Two Canadian philosophers became the experiment's best-known interpreters. Charles Taylor argued that people need not only rights but recognition: the dignity of having one's identity acknowledged rather than ignored or demeaned. Will Kymlicka argued that liberal democracies can grant group-specific rights to minorities and Indigenous peoples without abandoning individual liberty.[^v1-c9-taylor] Canada's ideology, if it has one, is a wide circle drawn on purpose, and maintained, imperfectly, by law.
 
-### Trust: The First Domino
+<!-- AI-assisted restoration, 2026-11-19; earlier canonical Queen Street account. -->
+I felt that circle widening around me, and I saw its edges too. Once, on Queen Street, an Indigenous man unloaded years of history on me in one volcanic monologue. This was his country, he said, his people's land, and the rest of us were walking on it like it was a mall. He wasn't wrong. He also wasn't a movement. He was a one-person revolution, burning white-hot and alone.
 
-Trust is the currency of the social contract. When police are trusted, laws don't need constant enforcement. When governments are believed, people pay taxes voluntarily. When neighbors feel secure, fences grow low and conversations grow long.
-
-But trust is brittle.
-
-A single abuse of power. A televised injustice. A public health response that clearly favors the already comfortable. A giant infrastructure project where only insiders profit, and everyone else gets traffic and dust. These moments don't just spark anger; they corrode the background assumption that "we're all in this together."
-
-The most dangerous moment is not when people are furious. It is when they are done. When hope collapses, people retreat from the civic square. They hoard rather than share. They polarize instead of compromise. They disengage and let "them" handle it---whoever "them" is supposed to be.
-
-Democracies don't usually explode; they hollow.
-
-### Flashpoints: Riots, Revolts, and Regret
-
-From the storming of the Bastille to Ferguson, from the Arab Spring to Hong Kong, flashpoints occur when enough people decide that obedience has become a losing strategy. These moments are often dismissed as irrational or "lawless," but they are more accurately desperate forms of communication---social speech after all the polite channels have been put on mute. People riot when the letter to the editor, the peaceful march, the "contact your representative" email, and the investigative report have all failed to register. Fire is the last highlighter.
-
-What happens next is not guaranteed. Sometimes the flashpoint forces reform---a new constitution, a new oversight body, a new way of policing. More often, it is followed by repression, rebranding, and a return to business as usual with better PR.
-
-The thin ice of consensus cracks. The monsters beneath---the ones we thought had been tamed and archived in history books---come swirling back into view.
-
-### The Fragile Middle
-
-We like to imagine fragility lives at the edges: zealots, extremists, "criminal elements." If we could just keep an eye on them, the story goes, the center would be fine. History disagrees. The real danger comes when the middle loses faith. When the schoolteacher stops believing in the fairness of the exams. When the nurse no longer trusts hospital administrators. When the mid-level bureaucrat quietly starts copying their files "just in case." When police officers begin to doubt the orders they are given but follow them anyway, with shrinking enthusiasm.
-
-In societies with widening inequality, stalled mobility, and visibly decaying institutions, even the relatively comfortable start to sense that the game is no longer winnable---only delayable. The mortgage gets paid, the kids get tutored, but nobody quite believes the future is a fair contest anymore. That is when polite deference curdles into quiet sabotage, cynical compliance, or apocalyptic fantasy. The center still looks calm from a distance, the way lake ice looks firm from shore. Step on it, and you hear the long, unsettling crack.
-
-### Globalization and the Collapsing Commons
-
-The old social contracts were mostly national. You paid taxes here, you voted here, you were protected here. Your "we" had a flag and a border. Now the forces that shape your life---climate, supply chains, capital flows, migration, pandemics, TikTok fads---are global. The atmosphere does not respect visas. Neither do hedge funds, nor viruses, nor code.
-
-But there is no global social contract. Who speaks for the planet's poor when rising seas wash away their homes? Who protects the displaced when no nation wants them? Who taxes the ultra-wealthy whose assets live nowhere and everywhere at once? Who stops a company in one country from poisoning the rivers of another?
-
-As these contradictions grow more visible, populist nationalism surges as a kind of nostalgic self-defense. People cling harder to flags, scapegoat the foreign, and retreat into comforting stories about "taking our country back"---from whom, precisely, is often left helpfully vague.
-
-The ice cracks now not just under one city, but across continents. Each nation tries to stomp harder to prove its section is fine.
-
-### From Breakdown to Breakthrough?
-
-The cracks, unsettling as they are, aren't only threats. They are also entry points.
-
-When people begin to question a contract, they are also---briefly---open to new ones. We see this in experiments with restorative justice, in global youth climate movements, in calls for universal basic income, and in efforts to redesign democracy with more participation and fewer black boxes. These are not just protests. They are proposals for a different kind of bargain: one where security is not traded for silence, and prosperity is not traded for amnesia.
-
-The monsters we fear---the gunman, the mob, the corrupt state---emerge most often where promises have been systematically broken. But monsters, mythology reminds us, are also threshold creatures. They guard the door to transformation. The question is whether we tiptoe past them with better stories and better systems---or try once again to pretend they're not there.
-
-## Shared Myths, Shared Fictions --- The Stories That Make Us Human
-
-Civilization runs on imagination. Not the solitary kind that produces novels and paintings, but the industrial-strength, multi-user kind that lets millions of strangers agree that certain squiggles on paper are "money," certain lines on a map are "borders," and certain buildings contain "justice."
-
-Harari calls these inter-subjective realities---the stories that exist not in the physical world, but in the overlapping minds of many. They are the fictions we agree to believe together.
-
-They are also the mortar between the bricks of civilization. When they crumble, the wall above doesn't politely ask what's next. It falls.
-
-### From Spirits to States
-
-Long before we decided that pieces of colored paper were worth a day's labor, we told stories about why lightning struck and why crops failed. Spirits, ancestors, gods---these weren't just decorations on reality; they were early operating systems. They made chaos legible and suffering bearable.
-
-Clifford Geertz once wrote that religion gives humans a system of symbols that makes pain meaningful and mystery interpretable. In less elegant terms: it's the patch that keeps you from going insane when life makes no sense.
-
-Over time, the same narrative machinery that explained thunder was repurposed to justify rulers, laws, and landlords. Belief crept from the sky down into city halls and bank vaults. We developed myths of kings by divine right, of chosen peoples, of manifest destiny, of "the free market," of growth without end.
-
-None of these exist in a forest. Yet we die, kill, and structure our entire lives around them.
-
-The key feature: they work only when enough people agree they work.
-
-### Nations: Imagined Kinship and Convenient Amnesia
-
-The nation is one of humanity's sharpest inventions. It binds millions, sometimes billions, into an imagined community. A citizen of Marseille has as much in common with a citizen of Lyon as two strangers in a food court---until the World Cup comes on. Then they are suddenly brothers, or at least fellow sufferers. The nation gives belonging, dignity, and often a reasonably functional passport. It also demands enemies, or at least foils.
-
-Borders don't just separate land; they justify stories. "We" are peaceful, hardworking, innovative, tolerant. "They" are aggressive, lazy, backward, fanatical. The nouns vary by continent, but the sentence structure is depressingly stable.
-
-In Toronto, I saw this up close in a very Canadian key. The official story was a mosaic: many cultures, one polite skyline. Most days it worked beautifully. You could hear half a dozen languages in a single streetcar and still reliably predict that everyone would line up at the doors.
-
-But every so often the counter-narratives surfaced.
-
-Once, on Queen Street, an Indigenous man unloaded years of history on me in one volcanic monologue. This was his country, he said, his people's land, and the rest of us were walking on it like it was a mall. He wasn't wrong. He also wasn't a movement. He was a one-person revolution, burning white-hot and alone.
-
-The mosaic looked smooth from a distance. Up close, you could see the cracks running underneath---hairline fractures of anger and grief that polite urbanism had papered over, but not healed.
+The system's performance metrics looked good: multicultural, orderly, low crime. But underneath, the unresolved story of conquest and erasure was still burning. His anger wasn't a failure of civility; it was an unscheduled maintenance alert.
 
 The best civilization, I began to suspect, would be one where there are no one-person revolutions because the grievances have somewhere real to go.
 
-### The Morality of Fiction
+<!-- AI-assisted restoration, 2026-11-19; earlier canonical wording. -->
+One of the surprises of moving from the U.S. to Canada was how much less different people were than the brochures suggested. Underneath those accents and systems, the strata looked familiar. Immigrant communities in Toronto looked eerily like their cousins in Chicago or New York. The "mosaic" north of the 49th parallel and the "melting pot" south of it both contained the same ingredients; the recipes were only slightly different. Civilization at this layer behaves less like a neat set of national boxes and more like a tangled network of overlapping tribes and shared interfaces. From the vantage point of this chapter, civility and ideology are not subsets of nations; nations are just one more container we pour them into.
 
-It's tempting, especially after a few philosophy podcasts, to say: "Ah, it's all fiction---religion, nations, markets. We should grow out of it." But that misses something essential. Shared fictions can uplift. The myth of universal human rights---no matter how inconsistently applied---has justified revolutions, constitutions, and dog-eared pocket copies of the Charter of Rights and Freedoms. The shared story of science as a collective search for truth has produced vaccines, satellites, and the ability to stream cat videos from orbit. Even money---a collectively hallucinated store of value---allows cooperation between strangers who will never meet, in transactions that would baffle our hunter-gatherer ancestors.
+## The Veneer Is a Promise
 
-The question is not whether a story is "really real" in the periodic-table sense. The question is whether the story is constructive or destructive; inclusive or exclusionary; capable of repair, or frozen into dogma.
+For a species that spent most of its history naked, hungry and covered in mud, we have become very serious about our table manners. We stand when the judge enters, shake hands, light candles, lower flags, sing anthems and clap on command. Durkheim called rituals the glue of society; Goffman treated everyday life as theater. Both were getting at the same thing: we use repeated gestures to make fragile things feel solid.
 
-The same religious tradition that blesses hospitals can also bless wars. The same national story that inspires sacrifice can also erase whole peoples from the map. Fiction is not the opposite of morality. It is the medium in which morality gets negotiated.
+Walk into a courtroom, and you walk into a carefully designed moral theater. The raised bench, the robes and the archaic phrases don't change the facts of a case, but they change how we experience them. Even the small rituals ("please," "thank you," "sorry") keep the daily collisions of human life from turning into bar fights. Toronto's streetcar etiquette was a fine example: people lined up, stepped aside to let others off and offered seats unprompted. It wasn't that Canadians were morally superior. They'd just rehearsed this particular play for a long time.
 
-### Religion: Humanity's First and Most Persistent Interface
+Symbols are rituals' shorthand. A flag is dyed fabric until a story is attached. A passport is a stapled booklet until it becomes the difference between "Welcome home" and "secondary screening." Symbols compress whole histories into a single image, which makes them efficient and dangerous: once a symbol stands in for a story, people will defend the symbol as if it were the story. Civilization depends on taking symbols seriously enough to coordinate around them, but not so seriously that we start sacrificing humans to protect cloth.
 
-Religion deserves special attention because for billions of people it remains the deepest user interface between the individual and the infinite. Prayer, pilgrimage, fasting, chanting, silent awe---these are not just obligations; they are ways of tuning the human nervous system to something larger than itself. Religion anchors values, organizes time, explains suffering, and gives death a plot twist. Neuroscientists can show you the brain regions lighting up; theologians can write you a shelf of commentary. Neither fully captures why a hymn can move someone more than a policy paper.
+Politeness leads a double life. It can be kindness in small doses, and it can be a tool for keeping people in their place: "Be patient, don't make a scene, respect the process," while the process quietly fails them for decades. A polite society isn't automatically a just one. And yet a world without rituals would not be more honest; it would be more exhausting, every interaction negotiated from scratch. The problem isn't that the veneer exists. It's when we confuse the veneer for the structure. Civilization's veneer is not a lie; it's a promise. Every "please," every ceremony, every symbol says: we will treat each other as if this world is fair, even when it isn't yet. The danger is when we stop working on the "yet."
 
-But religion is also, as we have practiced it, a double-edged sword. When faith becomes a litmus test instead of a lens, when myth is wielded like a club, when orthodoxy replaces curiosity, religion can fracture societies faster than any currency crash. Our history books are littered with holy wars and pogroms---and also with religiously motivated hospitals, abolition movements, civil rights marches, and refugee shelters.
+## Civility 2.0
 
-Religion is less a monolith than a toolkit: capable of both compassion and cruelty, depending on who holds it and why.
+In February 2004, while I was still in Toronto, a Harvard student launched a website for his classmates called TheFacebook.[^v1-c9-facebook] Within a few years, the ancient machinery of ritual and symbol had been plugged into servers, feeds and smartphones. If civilization used to be a local stage, it now had a global comment section.
 
-### When the Story Fails
+Marshall McLuhan had predicted a "global village." He was right about the scale and wrong about the zoning. What we built is more like a global food court where every stranger can overhear your conversation, misquote it and invite millions of others to boo. Context, once the bedrock of civility, was the first casualty. Researchers call it context collapse: your grandmother, your boss, your activist friend and a bored stranger on another continent all see the same post and react from their own worlds.[^v1-c9-context]
 
-What happens when the central stories no longer hold? When people stop believing in the legitimacy of their government, the righteousness of their history, the benevolence of their market, or the fairness of their god, the result is not philosophical neutrality. It is vacuum.
+And the platforms discovered that outrage is a superb engagement tool. One study of hundreds of thousands of messages about political issues found that each additional moral-emotional word in a post (words like *attack*, *shame*, *evil*) was associated with roughly a fifth more retweets.[^v1-c9-outrage] Algorithms tuned to maximize engagement can reward the posts that make people angriest without being explicitly told to favor anger. Traditional civility tried to dampen conflict; Civility 2.0 often amplifies it, turning any crack in the social ice into a global skating event by morning. Outrage is sometimes appropriate; many injustices would never have been acknowledged without it. The problem is that the system has no off switch and no sense of proportion. Everything burns at the same temperature. That's Durkheim's collective effervescence from Chapter 5, engineered never to cool: an ideology machine that keeps every shared charge warm, permanently.
 
-Vacuum attracts conspiracy theories, cults, charismatic demagogues, and what I can only describe as existential shrugging. "Nothing means anything, everything is rigged, pass the memes."
+It isn't all doom. Social media has also invented new rituals of solidarity and grief, from mass fundraisers for strangers to coordinated global moments of mourning. Like all symbols, they can be hollow or profound, depending on what follows. A society that only marches online is like a family that only apologizes by group text: better than nothing, worse than dinner. And none of it is inevitable. Algorithms are policy choices hiding inside code. The "like" button is not a law of nature. Volume II will put such choices under the diagnostic lens.
 
-If the old myths die and no new ones rise to provide meaning, accountability, and a horizon of hope, the social field turns amorphous and volatile. That's when the thin ice is at its worst: not solid enough to trust, not broken enough to swim.
+## A Whimper, Not a Blast
 
-We are living in such an in-between period now. Religion's authority has declined in many places; national stories sound less convincing to younger generations; the market's promise of endless growth looks environmentally insane. The old scripts are fraying, and the new ones are still in draft.
+The next summer, I attended my citizenship ceremony in Toronto. It made official my first real country, and with it the first ideology I could call mine, the first of either I had truly cared about. I'd imagined it would feel like a homecoming. It felt more like a loan repaid long after I'd stopped needing the money, by someone who had held onto it when I did. I had lived in North America for two decades, without an accent, and here I was, sitting in a hall with a bunch of foreigners. (How quickly we make "others.") I took the oath, shook a hand and received a certificate. It was a whimper, not a blast. But it was mine.
 
-Which brings us to the question modern life keeps dodging.
+That same year, I married. Long before, I had informally promised myself that I wouldn't marry, straight as I am, until same-sex couples could too, and by then Ontario and British Columbia had both allowed it.[^v1-c9-marriage] So I kept my oath, of sorts. It's the only vow I've made to an ideology, and the one I'm proudest of keeping.
 
-## After the Gods --- Ideology, Modernity, and the Secular Swarm
+<!-- AI-assisted restoration, 2026-11-19; original westward hinge. -->
+Then I headed west. I had been itching to move back to the Pacific Northwest---its Canadian brand. But before I reached the Pacific, I stopped in Castlegar.
 
-Can morality survive the death of God, the doubt of nation, and the boredom of GDP charts?
+## The Upheaval: The Monster Under the Ice
 
-On paper, the Enlightenment answered this centuries ago: yes. We would replace revelation with reason, myth with math, kings with constitutions. Ethics would be derived from first principles, preferably in Latin.
+Civilization is easiest to admire from a distance. Up close, you notice the duct tape. The real monster of civilization isn't barbarism; barbarism is easy to identify. The real monster is how fast civilized people can switch modes, like a polite app suddenly revealing its hidden developer console.
 
-In practice, things have been messier.
+In 2005, a year after I left, Toronto, the city of four-way stops in the dark, recorded more gun deaths than ever before. The newspapers called it the Year of the Gun. It ended on Boxing Day, on Yonge Street, the city's main artery, in the middle of the holiday shopping crowds, when a gunfight between young men caught a fifteen-year-old girl named Jane Creba in the crossfire.[^v1-c9-creba] She had been shopping for boots with her family. The city that had kept its manners when the power failed now watched its shoppers dive for cover on its busiest street.
 
-### Secular Saints and New Creeds
+Five months later came the second punch. In June 2006, police arrested a group of young men in the Toronto area, later known as the Toronto 18, who had been plotting truck bombings in Ontario, inspired by the same absolutist ideology that had brought down the towers.[^v1-c9-toronto18] The stories I had run from as a young man, the ones with a word for people like me, had found recruits in the polite city that had finally given me a country. Most of the plot was foiled before it could begin. But it showed that the circle can snap shut anywhere, in any neighborhood, behind any courteous face.
 
-In cities like Toronto, you can watch this moral rearrangement happening in real time. Church attendance drops; yoga studios fill. The priest loses members; the TED talk gains subscribers. Fewer people sign up for doctrine; more sign up for "values." Yet the underlying human needs haven't changed: meaning, community, ritual, a story that says your life fits into something larger than your browser history.
+Neither crack undid Toronto, which remains one of the safest large cities in the world. But together they made the point this chapter has been circling. Civilization is a daily patch, not a permanent feature. It runs on two thin interfaces: the human one of manners, rituals and stories, and the technical one of screens, feeds and machines. Both can fail quietly, beneath your feet, while you're busy thinking everything is fine. The next interlude turns to the second of them.
 
-Into that vacuum pour what we might call religioids---religion-like structures that don't always call themselves religions:
+<!-- SOURCE NOTES: from memory unless linked; verify each before print. -->
 
--   Environmentalism with its sins and sacrifices, its apocalypses and redeemed futures.
+[^v1-c9-wells]: Attributed in English quotation collections to Antoine de Rivarol (1753–1801), the French writer and wit; the French original has not been located. An earlier draft gave the line to H. G. Wells, with a different second sentence. Verify before print.
 
--   Nationalism in fresh branding, offering belonging and purpose without much room for dissent.
+[^v1-c9-wikipedia]: Wikipedia launched on 15 January 2001.
 
--   Political tribalism that divides the world into Saved and Canceled.
+[^v1-c9-bamiyan]: The Taliban destroyed the Buddhas of Bamiyan in March 2001, after an edict issued on 26 February; the statues dated to the sixth century CE. [UNESCO World Heritage record](https://whc.unesco.org/en/list/208).
 
--   Wellness cultures that promise purity and enlightenment through the correct combination of smoothies, supplements, and sun salutations.
+[^v1-c9-iraq]: Coordinated protests against the impending Iraq war took place in hundreds of cities on 15 February 2003, including Toronto. Prime Minister Jean Chrétien announced on 17 March 2003 that Canada would not join the invasion. [17 March 2003 parliamentary record](https://www.lipad.ca/full/2003/03/17/7/).
 
-Each comes with its own symbols, heresies, saints, and devils. Each offers belonging---and occasionally persecution---with all the zeal of the older faiths.
+[^v1-c9-sars]: The 2003 outbreak killed 44 people in Ontario; Toronto was its main Canadian center. See the Ontario SARS Commission, [final report, volume 2 introduction](https://www.archives.gov.on.ca/en/e_records/sars/report/v2-pdf/Vol2Intro.pdf), and [ICES, Utilization of Ontario's Health System During the 2003 SARS Outbreak](https://www.ices.on.ca/publications/research-reports/utilization-of-ontarios-health-system-during-the-2003-sars-outbreak/).
 
-The map of belief has not emptied. It has been redrawn.
+[^v1-c9-sarsstock]: “Molson Canadian Rocks for Toronto,” Downsview Park, 30 July 2003; contemporary estimates put the audience around 450,000 or more. Jane Stevenson, Jim Slotek and Mary Dickie, [“The Stones Rock 450,000 Fans in T.O.”](https://www.2112.net/powerwindows/transcripts/20030731torontosun.htm), *Toronto Sun*, 31 July 2003 (archived transcript). Timberlake faced boos and thrown bottles, completed his set, and returned for “Miss You” with the Stones; he was not driven offstage. The attendance and hostility are public reporting; the author's presence is personal recollection.
 
-### Borders Blur, Subcultures Persist
+[^v1-c9-blackout]: The Northeast blackout of 14 August 2003 affected about 50 million people in Ontario and eight U.S. states. U.S.–Canada Power System Outage Task Force, *Final Report* (2004). [Joint task-force report](https://eta.lbl.gov/publications/final-report-august-14-2003-blackout).
 
-One of the surprises of moving from the U.S. to Canada was how much less different people were than the brochures suggested. Yes, there were flags, healthcare systems, and hockey preferences. Yes, I once betrayed my American origin to a Bell Canada rep by saying "zip code," "zee," and pronouncing a vowel with the wrong nostalgia. But underneath those accents and systems, the strata looked familiar.
+[^v1-c9-carroll]: Lewis Carroll, *Alice's Adventures in Wonderland* (1865), chapter II, "The Pool of Tears": "How doth the little crocodile," parodying Isaac Watts, "Against Idleness and Mischief" (1715), "How doth the little busy bee." [Primary text](https://www.gutenberg.org/ebooks/11).
 
-White Canadians and white Americans felt more similar to each other than either did to recent immigrants. Immigrant communities in Toronto looked eerily like their cousins in Chicago or New York. The "mosaic" north of the 49th parallel and the "melting pot" south of it both contained the same ingredients; the recipes were only slightly different.
+[^v1-c9-veneer]: Frans de Waal, *Primates and Philosophers: How Morality Evolved* (2006).
 
-Zoom out further and the pattern repeats. Chinese communities in different countries share certain assumptions and aesthetics that outlast governments. So do South Asian diasporas, Jewish communities, Muslims, Poles, Sikhs, Ismailis, gamers, software engineers, K-pop fans, and climate activists.
+[^v1-c9-circle]: Peter Singer, *The Expanding Circle: Ethics, Evolution, and Moral Progress* (1981).
 
-Civilization at this layer behaves less like a neat set of national boxes and more like a tangled network of overlapping tribes and shared interfaces. Culture spills over borders. So do ideologies. So do memes.
+[^v1-c9-biggods]: Ara Norenzayan, *Big Gods: How Religion Transformed Cooperation and Conflict* (2013).
 
-From the vantage point of this chapter, civility and ideology are not subsets of nations; nations are just one more container we pour them into.
+[^v1-c9-boyer]: Pascal Boyer, *Religion Explained: The Evolutionary Origins of Religious Thought* (2001); Justin L. Barrett, "Exploring the natural foundations of religion" (2000), *Trends in Cognitive Sciences* 4(1): 29–34.
 
-### Everyday Civility as Embedded Code
+[^v1-c9-tracy]: Antoine Destutt de Tracy introduced *idéologie* in 1796; his *Éléments d'idéologie* appeared from 1801.
 
-Some of the most powerful ideology is hidden in the obvious.
+[^v1-c9-marx]: Karl Marx and Friedrich Engels, *The German Ideology* (written 1845–1846). The phrase "false consciousness" comes from a later letter by Engels (1893).
 
-In Toronto, I watched young people reflexively give up their seats to elders on the streetcar. It didn't look like sacrifice; it looked like muscle memory. Nobody looked around to see if they were being watched. They just stood, the way you'd instinctively move your hand away from a hot stove.
+[^v1-c9-mannheim]: Karl Mannheim, *Ideology and Utopia* (1929).
 
-This was not genetic; it was training. A lifetime of seeing that gesture, of feeling that it was right, of having your inner "ought" calibrated to match the outer world.
+[^v1-c9-geertz]: Clifford Geertz, "Ideology as a Cultural System" (1964), reprinted in *The Interpretation of Cultures* (1973).
 
-Civility of this kind---holding doors, queuing, apologizing when someone steps on *your* foot---is ideology in its softest, most powerful form. It's an embedded UX: the default behaviors that make life liveable.
+[^v1-c9-burke]: Edmund Burke, *Reflections on the Revolution in France* (1790); John Stuart Mill, *On Liberty* (1859).
 
-And it travels. The same person who is a courteous driver in Seattle begins to twitch when they land in L.A. traffic, not because their ethics changed, but because the local driving "operating system" is different. We carry our civil habits across borders, then slowly, often reluctantly, update them.
+[^v1-c9-haidt]: Jonathan Haidt, *The Righteous Mind: Why Good People Are Divided by Politics and Religion* (2012).
 
-### Toward a Planetary Civility?
+[^v1-c9-weird]: Joseph Henrich, Steven J. Heine and Ara Norenzayan, "The weirdest people in the world?" (2010), *Behavioral and Brain Sciences* 33(2–3): 61–83. [Original article](https://doi.org/10.1017/S0140525X0999152X).
 
-If religions, nations, and markets no longer fully organize our imagination, and if subcultures now stretch across continents, what sits above all that?
+[^v1-c9-weirdest]: Joseph Henrich, *The WEIRDest People in the World* (2020).
 
-There is a faint, emerging idea---still unbranded, still unsermonized---of a planetary civility: a sense that our obligations extend beyond tribe, nation, and timeline. That the atmosphere is our shared shrine, that future generations are stakeholders, that another country's disaster is not their "issue" but our rehearsal. It is embryonic and inconsistent. We feel it when a distant city floods and donations surge. We forget it when plane tickets go on sale. But it may be the only kind of shared myth capable of matching the scale of the problems we now face.
+[^v1-c9-greene]: Joshua Greene, *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them* (2013).
 
-Later, in the ecology chapter, we'll look at this more directly. For now, it's enough to note that our stories are stretching. The thin ice we stand on is no longer just local. It spans the lake.
+[^v1-c9-fukuyama]: Francis Fukuyama, "The End of History?" (1989), *The National Interest* 16; *The End of History and the Last Man* (1992).
 
-In the next section, we'll turn from these ancient and modern narratives to the surface behaviors that stitch them together: the rituals, symbols, and daily performances that give civilization its shine---and sometimes its most dangerous illusions. After that, we'll meet Civility 2.0: the version running on servers, feeds, and timelines. Because in the twenty-first century, the polite veneer isn't just between humans. It's also between humans and their networks.
+[^v1-c9-huntington]: Samuel P. Huntington, "The Clash of Civilizations?" (1993), *Foreign Affairs* 72(3); *The Clash of Civilizations and the Remaking of World Order* (1996).
 
-## Civilization's Veneer --- Ritual, Symbol, and the Human Condition
+[^v1-c9-sen]: Amartya Sen, *Identity and Violence: The Illusion of Destiny* (2006).
 
-For a species that spent most of its history naked, hungry, and covered in mud, we have become very serious about our table manners. We stand when the judge enters. We bow our heads before we eat. We shake hands, bump fists, light candles, lower flags, sing anthems, dress in black, cut ribbons, throw rice, and clap on command. If aliens ever arrive, the first thing they will notice is not our technology but our choreography.
+[^v1-c9-popper]: Karl Popper, *The Open Society and Its Enemies* (1945), Volume 1, note 4 to chapter 7.
 
-Durkheim called rituals the glue of society; Goffman treated everyday life as theater. Both were getting at the same thing: we use repeated gestures to make fragile things feel solid---respect, status, belonging, remorse, hope.
+[^v1-c9-charter]: Canada's multiculturalism policy was announced by Prime Minister Pierre Trudeau in October 1971 and enacted in the Canadian Multiculturalism Act (1988); the Canadian Charter of Rights and Freedoms is part of the Constitution Act, 1982.
 
-Civilization's veneer is made of rituals and symbols laid like lacquer over our more chaotic impulses. It is not hypocrisy, exactly. It's more like a user interface: the skin of buttons you press so you don't have to see the wiring underneath.
+[^v1-c9-taylor]: Charles Taylor, "The Politics of Recognition" (1992), in *Multiculturalism and "The Politics of Recognition"*; Will Kymlicka, *Multicultural Citizenship* (1995).
 
-### The Stage and the Script
+[^v1-c9-facebook]: Mark Zuckerberg launched TheFacebook on 4 February 2004. [Contemporaneous report](https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/).
 
-Walk into a courtroom and you are walking into a carefully designed moral theater. The raised bench, the robes, the archaic phrases ("All rise," "My learned friend")---none of them change the facts of a case. But they change how we *experience* those facts. The ritual says: this is serious; this is fair; this is bigger than you.
+[^v1-c9-context]: Alice E. Marwick and danah boyd, "I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience" (2011), *New Media & Society* 13(1): 114–133. [Original study](https://doi.org/10.1177/1461444810365313).
 
-Graduations do something similar. One could, in principle, email the degree. Instead, we dress in medieval costumes and process to brass music so that everyone can feel, for a few hours, that learning is sacred and debt is noble.
+[^v1-c9-outrage]: William J. Brady et al., [“Emotion shapes the diffusion of moralized content in social networks”](https://doi.org/10.1073/pnas.1618923114), *PNAS* 114(28) (2017): 7313–7318. The estimate is an approximately 20% increase in retweet rate per additional moral-emotional word in observational data on three political topics, not a randomized causal effect or a twenty-point increase in sharing probability.
 
-Even the small stuff---saying "please," "thank you," "sorry"---is part of this theater. These are micro-rituals of respect that keep the daily collisions of human life from turning into bar fights.
+[^v1-c9-marriage]: Same-sex marriage became legal in Ontario on 10 June 2003 (*Halpern v. Canada*) and in British Columbia on 8 July 2003; nationally under the Civil Marriage Act in July 2005. [Ontario judgment](https://www.icj.org/wp-content/uploads/2003/06/Halpern-et-al.-v.-Attorney-General-of-Canada-Ontario-Court-of-Appeal-Canada.pdf).
 
-Toronto's streetcar etiquette is a good example. People line up; they step aside to let others off; they offer seats unprompted. None of these acts cost much, yet collectively they generate a sense that the city is a shared space rather than a moving argument.
+[^v1-c9-creba]: Jane Creba was killed on 26 December 2005 near Yonge and Dundas Streets. Toronto recorded 52 gun-related homicides in 2005.
 
-It's not that Canadians are morally superior. They've just rehearsed this particular play for a long time.
+[^v1-c9-toronto18]: The "Toronto 18" were arrested on 2 and 3 June 2006; eleven were eventually convicted. See the [CSIS Public Report 2010–2011](https://www.canada.ca/content/dam/csis-scrs/documents/publications/2010-2011PublicReport_English.pdf), which records eleven imprisoned.
 
-### Symbols as Compressed Stories
+[^v1-c9-aspirations]: Lori Beaman, Esther Duflo, Rohini Pande and Petia Topalova, "Female Leadership Raises Aspirations and Educational Attainment for Girls: A Policy Experiment in India," *Science* 335 (2012): 582–586. The study was in West Bengal, where a third of village council chief positions were reserved for women by random assignment. On aspiration as a culturally learned capacity, see Arjun Appadurai, "The Capacity to Aspire" (2004). [Original study](https://pubmed.ncbi.nlm.nih.gov/22245740/).
 
-If rituals are our choreography, symbols are our shorthand.
+[^v1-c9-kahan]: Dan M. Kahan et al., "The polarizing impact of science literacy and numeracy on perceived climate change risks," *Nature Climate Change* 2 (2012): 732–735; Kahan et al., "Motivated numeracy and enlightened self-government," *Behavioural Public Policy* 1 (2017): 54–86. The interpretation as identity-protective cognition is debated; see, e.g., Ben M. Tappin, Gordon Pennycook and David G. Rand, "Thinking clearly about causal inferences of politically motivated reasoning," *Current Opinion in Behavioral Sciences* 34 (2020): 81–87. [Climate-risk study](https://www.nature.com/articles/nclimate1547).
 
-A flag is just dyed fabric until a story is attached: resistance, sacrifice, empire, independence. A cross is two pieces of wood until it gathers around itself centuries of theology, art, and grief. A passport is a stapled booklet until it becomes the difference between "Welcome home" and "Secondary screening."
+[^v1-c9-literacy]: Sascha O. Becker and Ludger Woessmann, "Was Weber Wrong? A Human Capital Theory of Protestant Economic History," *Quarterly Journal of Economics* 124 (2009): 531–596, using the 1871 Prussian census. [Author repository](https://wrap.warwick.ac.uk/id/eprint/42282/).
 
-Symbols compress entire histories into a single image. They are efficient. They are also dangerous. Because once a symbol stands in for a story, people will defend the symbol as if it *is* the story. Burning a flag can feel like burning a country. Kneeling during an anthem can feel like attacking the troops instead of protesting a specific injustice. Questioning a sacred text can feel like threatening the entire moral order rather than asking for an update to the user manual.
+[^v1-c9-augsburg]: The Peace of Augsburg (1555) allowed each ruler in the Holy Roman Empire to choose between Lutheranism and Catholicism for his territory; the phrase *cuius regio, eius religio* was coined by a jurist some decades later. Constantine's Edict of Milan (313) and the Council of Nicaea (325); Ashoka's edicts (third century BCE). On civil religion, Jean-Jacques Rousseau, *The Social Contract* (1762), Book IV, chapter 8, and Robert N. Bellah, "Civil Religion in America," *Daedalus* 96 (1967): 1–21. <!-- EDITORIAL SOURCE CHECK 2026-11-19: standard dates and attribution retained; edition-level verification of the composite historical note remains before print. -->
 
-Civilization's veneer depends on us taking these symbols seriously enough to coordinate around them---but not so seriously that we start sacrificing humans to protect cloth.
+[^v1-c9-sorting]: Amory Gethin, Clara Martínez-Toledano and Thomas Piketty, "Brahmin Left versus Merchant Right: Changing Political Cleavages in 21 Western Democracies, 1948–2020," *Quarterly Journal of Economics* 137 (2022): 1–48. Income still divides voters as well; the authors describe the result as a "multi-elite" party system. [Original study](https://doi.org/10.1093/qje/qjab036).
 
-We have not always nailed that balance.
+[^v1-c9-quebec]: É.-Martin Meunier and Sarah Wilkins-Laflamme, [“Sécularisation, catholicisme et transformation du régime de religiosité au Québec. Étude comparative avec le catholicisme au Canada (1968–2007)”](https://www.erudit.org/en/journals/rs/2011-v52-n3-rs5005802/1007655ar/), *Recherches sociographiques* 52(3) (2011): 683–729. Survey populations and years differ: weekly practice, Catholic identification and belief are distinct measures. The passage describes the broad fall in attendance; it does not establish that changing mutual expectations alone caused it. <!-- EDITORIAL SOURCE CHECK 2026-11-19: bibliographic record located; full-text endpoint blocked. Verify the generation-scale interval against the original tables before print. -->
 
-### The Double Life of Politeness
+[^v1-c9-potlatch]: The ban was enacted by an 1884 amendment to the Indian Act, in force from 1885, and dropped in the 1951 revision. Ceremonies continued covertly; regalia seized after a 1921 potlatch at Village Island were later returned to communities and are held at the U'mista Cultural Centre in Alert Bay. See Douglas Cole and Ira Chaikin, *An Iron Hand upon the People: The Law against the Potlatch on the Northwest Coast* (1990). [U’mista Cultural Centre’s collection history](https://www.umista.ca/pages/collection-history).
 
-Politeness is one of our strangest inventions. On the one hand, it is kindness in small doses: holding doors, modulating tone, waiting your turn. On the other hand, it can be weaponized to maintain hierarchies and suppress dissent.
+[^v1-c9-waytz]: Adam Waytz, Ravi Iyer, Liane Young, Jonathan Haidt and Jesse Graham, "Ideological differences in the expanse of the moral circle," *Nature Communications* 10 (2019): 4389. These are average tendencies across large samples, with wide individual variation. [Original study](https://www.nature.com/articles/s41467-019-12227-0).
 
-"Tone" is the classic example. Speak too softly and you are ignored. Speak too bluntly and you are told you have "the wrong tone," which is often code for "You have noticed something true about power, and I'd prefer you didn't."
+[^v1-c9-honor]: Dov Cohen, Richard E. Nisbett, Brian F. Bowdle and Norbert Schwarz, [“Insult, aggression, and the southern culture of honor: an ‘experimental ethnography’”](https://pubmed.ncbi.nlm.nih.gov/8656339/), *Journal of Personality and Social Psychology* 70(5) (1996): 945–959; Nisbett and Cohen, *Culture of Honor* (1996). The experiment measured reactions to an insult among male students, not the historical causal pathway from herding to hormones. The herding-origin explanation is the authors' hypothesis. “Sinking” is this book's interpretation, not a term or a measured duration from the experiment.
 
-In some societies, civility has been used to keep whole groups in their place: "Be patient, don't make a scene, respect the process." Meanwhile, the process quietly fails them for decades.
+[^v1-c9-roman]: Carl-Johan Dalgaard, Nicolai Kaarsen, Ola Olsson and Pablo Selaya, "Roman roads to prosperity: Persistence and non-persistence of public infrastructure," *Journal of Comparative Economics* 50 (2022): 896–916. [Authors’ paper](https://web2.econ.ku.dk/pabloselaya/publications/RomanRoads_JCE2022.pdf).
 
-That's the catch with veneers. They can signal genuine respect---or they can be a glossy surface over rot. A polite society is not automatically a just one; sometimes the most courteous communities are also the most skilled at ignoring their own cracks.
+[^v1-c9-persistence]: Melissa Dell, [“The Persistent Effects of Peru's Mining Mita”](https://dell.scholars.harvard.edu/sites/g/files/omnuum7696/files/dell/files/ecta8121_0.pdf), *Econometrica* 78 (2010): 1863–1903: a regression-discontinuity estimate of about 25% lower household consumption in formerly subjected districts. Jeremy S. Hoffman, Vivek Shandas and Nicholas Pendleton, [“The Effects of Historical Housing Policies on Resident Exposure to Intra-Urban Heat: A Study of 108 US Urban Areas”](https://www.mdpi.com/2225-1154/8/1/12), *Climate* 8 (2020): 12: summer land-surface temperature, with a mean D-versus-A neighborhood difference of about 2.6 °C, varying across cities. This is not an air-temperature or individual heat-exposure estimate, and not by itself causal identification of redlining's entire effect. On spatial autocorrelation and persistence claims, Morgan Kelly, [“The Standard Errors of Persistence”](https://www.econstor.eu/bitstream/10419/198589/1/WP2019_13.pdf), UCD working paper 2019/13.
 
-The young Indigenous man on Queen Street who unloaded his fury on me was, in that sense, an unscheduled maintenance alert. The system's performance metrics looked good: multicultural, orderly, low crime. But underneath, the unresolved story of conquest and erasure was still burning. His anger was not a failure of civility; it was evidence that the veneer had been applied over an unhealed wound.
+[^v1-c9-lactase]: Todd Bersaglieri et al., "Genetic signatures of strong recent positive selection at the lactase gene," *American Journal of Human Genetics* 74 (2004): 1111–1120; Richard P. Evershed et al., "Dairying, diseases and the evolution of lactase persistence in Europe," *Nature* 608 (2022): 336–345, on milk use preceding the allele's spread and the possible role of famine and disease. [Evershed and colleagues’ paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7615474/). Cultural practices can change selection pressures on inherited variants; this is not acquired belief being copied into an individual's genes.
 
-### Why We Still Need the Veneer
+[^v1-c9-tribal]: Peter J. Richerson and Robert Boyd, *Not by Genes Alone: How Culture Transformed Human Evolution* (University of Chicago Press, 2005), on the "tribal social instincts" hypothesis and gene–culture coevolution. The hypothesis is influential and contested. [Publisher](https://press.uchicago.edu/ucp/books/book/chicago/N/bo3615170.html).
 
-It's tempting to say: scrape it all off. Drop the rituals, ditch the symbols, abolish small talk, and let "authenticity" reign. But a world without ritual is not more honest---it is more exhausting. Every interaction would have to be negotiated from scratch: Is this a joke? Are we friends? Is this safe? Do I bow, hug, fist-bump, or file a complaint?
+[^v1-c9-mistrust]: Nathan Nunn and Leonard Wantchekon, "The Slave Trade and the Origins of Mistrust in Africa," *American Economic Review* 101 (2011): 3221–3252. Their evidence points to transmission through cultural norms and beliefs passed down within families, alongside institutional channels. [Original study](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3221).
 
-Rituals and symbols save cognitive energy. They also create shared emotional experiences: weddings, funerals, national days of mourning, victory parades, graduation walks. These events stitch memories into something larger than individual biography.
-
-The problem is not that the veneer exists. The problem is when we confuse the veneer for the structure, the play for the justice, the anthem for the community. A healthy civilization updates its scripts and occasionally re-casts its leads. An unhealthy one just re-varnishes the same old stage and tells critics they're being "divisive."
-
-### Thin Ice, Shiny Surface
-
-So where does that leave us?
-
-On thin ice that looks very nice from a distance.
-
-Our species has mastered the art of performing decency---handshakes across negotiating tables, diplomatic smiles before wars, corporate mission statements about "family" right before layoffs. At our best, we use these performances to remind ourselves who we want to be. At our worst, we use them to avoid becoming who we need to be.
-
-The key insight for this chapter is simple and unsettling: Civilization's veneer is not a lie; it is a *promise*. Every "please," every ceremony, every symbol says: we will treat each other as if this world is fair---even when it isn't yet.
-
-The danger is when we stop working on the "yet."
-
-In the next section of this chapter, we take this ancient machinery of ritual and symbol and plug it into something new: servers, feeds, and smartphones. If civilization used to be a local stage, it now has a global comment section.
-
-Welcome to Civility 2.0.
-
-## Civility 2.0 --- Social Media, Outrage, and the Global Interface
-
-If Chapter 9 had been written a few decades earlier, we could have ended with table manners, national myths, and the occasional riot. But then we built a machine that took gossip, spectacle, and moral judgment---and wired them directly into the nervous system of the planet.
-
-We called it "social media," as if it were just a shinier town square. It is not. It is a civility engine running on a different fuel: attention.
-
-### The Global Village, Without the Village
-
-Marshall McLuhan famously said we were moving toward a "global village." He was right about the scale, wrong about the zoning. What we've built is more like a global food court where every stranger can overhear your conversation, misquote it, and then invite millions of others to boo.
-
-Context---once the bedrock of civility---is the first casualty. In physical space, you can tell if someone is joking, exhausted, elderly, or twelve. Online, all you see is text and maybe a profile picture of a cartoon frog.
-
-Anthropologists call this "context collapse." Your grandma, your boss, your activist friend, and a bored stranger in another country all see the same post and react from their own worlds. The result is a constant risk of accidental heresy.
-
-In that environment, politeness mutates. Instead of adjusting your behavior to the people in front of you, you adjust it to an imagined tribunal: anyone, anywhere, forever.
-
-### Outrage as a User Interface
-
-Platforms figured out early that outrage is a superb engagement tool. Nothing keeps thumbs scrolling like an incident that is simultaneously distant enough to be safe and close enough to feel personal.
-
-So the algorithms learned to prioritize:
-
--   The offensive comment
-
--   The shocking video
-
--   The worst take of the day
-
-If traditional civility tried to dampen conflict---"let's keep things pleasant"---Civility 2.0 often amplifies it. Being "right" becomes less about repairing a situation and more about performing purity for one's in-group. We've built a machine that can turn any crack in the social ice into a global skating event by morning.
-
-To be clear, outrage is sometimes appropriate. Many injustices would never have been acknowledged without viral visibility. The problem is not that we feel moral alarm; the problem is that the system has no off switch and no proportionality. Everything burns at the same temperature.
-
-### Virtue Signaling, Vice Signaling, and the Performance of Self
-
-In the old days, you signaled virtue by putting money in the collection plate or helping your neighbor move a couch. Now you can signal virtue by quote-tweeting someone who said something appalling and adding two scorching adjectives. On a bad day, social media becomes a stadium of moral entrepreneurs trying to outcompete each other in visible righteousness. On other days, it becomes a festival of vice signaling: the proudly cruel, the gleefully callous, the "just asking questions" crowd that uses irony as emotional armor.
-
-Underneath both is the same dynamic: identity as performance for an invisible crowd.
-
-The tragedy is that much of this energy could have been invested in actual repair---mentoring, donating, organizing, voting, coding, designing better tools. Instead, a large fraction gets spent on rehearsing the role of "good person" or "fearless truth-teller" to an audience that will forget us tomorrow.
-
-Civility 2.0 has turned our moral sense into a kind of always-on talent show.
-
-### New Rituals, New Symbols
-
-It's not all doom.
-
-Social media has also invented new rituals of solidarity and grief: collective hashtags after disasters, mass fundraisers for strangers, coordinated campaigns for policy change. When done well, these are the embryonic forms of planetary civility---people feeling responsible beyond their immediate tribe.
-
-A black square, a rainbow filter, a viral thread about a missing person---these are the new symbolic gestures. Like all symbols, they can be hollow or profound depending on what follows. We are, awkwardly, teaching ourselves how to conduct global moments of silence and global bursts of applause.
-
-The risk is that we mistake the post for the project, the hashtag for the work. A society that only marches online is like a family that only apologizes by group text. Better than nothing, worse than dinner.
-
-### The Design Question
-
-For this book---as we pivot toward diagnosis and then design---Civility 2.0 poses a crucial question: Are our current interfaces for human connection aligned with the kind of civilization we claim to want?
-
-Right now, the answer leans toward no:
-
--   Our attention is monetized, not protected.
-
--   Our disagreements are optimized for spectacle, not resolution.
-
--   Our identities are flattened into brands, not deepened into character.
-
-But none of this is inevitable. Algorithms are policy choices hiding inside code. Features are values written in JavaScript. The "like" button is not a law of nature.
-
-In Part II, we will put these interfaces under the diagnostic lens: how exactly they warp empathy, reward certain behaviors, and punish others. In Part III, we will ask a more ambitious question: what would a humane, sane, planetary user interface look like---for humans with each other, and for humans with their machines?
-
-### From Thin Ice to Thinner Air
-
-Civilization has always been thin ice over deep water. What is new is the speed at which we now skate, the distance we can fall, and the number of people watching when we do.
-
-This chapter has argued that:
-
--   Our civility is real but fragile.
-
--   Our stories are powerful but malleable.
-
--   Our symbols and rituals are necessary but not sufficient.
-
--   Our new digital interfaces magnify both our best impulses and our worst.
-
-If Chapter 8 was about the walls and flags that separate us, Chapter 9 is about the invisible glaze that lets us live together at all---and how easily it can crack. In the next chapter, we will step beyond this human-to-human interface and look at the layer we've been quietly overloading for the past two centuries: the planetary commons itself. Because beneath our flags, our myths, our feeds, and our manners lies something even more unforgiving than public opinion: The biosphere does not care how polite we are.
-
-## **When the Veneer Cracks**
-
-Civilization is easiest to admire from a distance. Up close, you notice the duct tape. People like to say that "society is held together by laws," but anyone who's stood in a crowded subway knows it's actually held together by **manners**---the unspoken agreement not to scream, shove, or lick strangers. It works remarkably well, considering the species involved. But whenever a riot breaks out, or a convoy revs its engines against its neighbors, the truth flashes through the cracks: our civility is a costume, and the zipper is on the outside.
-
-The real monster of civilization isn't barbarism; barbarism is easy to identify.\
-The real monster is **how fast civilized people can switch modes**, like a polite app suddenly revealing its hidden developer console.
-
-We polish the veneer, not realizing it's only veneer. And every so often, the universe gives it a stress test.
-
-### **The Move West --- A Pause Between Storms**
-
-Leaving Toronto felt like stepping out of a skyscraper lobby into a forest. After years of corporate deadlines and downtown density, I wanted altitude, oxygen, and a slower metabolism. Also, I had been itching to move back to the Pacific Northwest -- its Canadian brand. Vancouver, in my imagination, was Seattle with better scenery and fewer billionaires --- a place where rain fell gently, ambitions softened, and humans reverted to their natural habitat: fleece jackets.
-
-But before I reached the Pacific, I stopped in Castlegar. A small BC town, Castlegar was everything Toronto wasn't. Short commutes. Real stars overhead. Neighbors who waved with their whole arm. A place where trust didn't feel like a scarce resource.
-
-For a moment --- a rare, quiet, much-needed moment --- I let myself believe that the castle I had been searching for all along wasn't made of stone, or skyline, or capitalism. It was made of people. Ordinary people choosing decency over drama, every day, without applause. It felt---dangerously---like the world might be okay. If my life were software, this was the loading screen where nothing bad happens.
-
-### **Upheaval --- The Monster Under the Ice**
-
-And then Toronto called back --- not with a phone, but with headlines.
-
-**2005: The Year of the Gun.**
-
-My polite, apologetic, maple-scented Toronto suddenly behaved like it had switched operating systems overnight. Gun violence spiked. Fear entered conversations where weather used to live. And a child---an innocent girl---was killed by a stray bullet, the most unforgivable of all algorithmic outputs.
-
-Toronto's civilized UI had glitched. The cursor flashed. Under the familiar interface, something ancient stirred. It wasn't that Toronto had become barbaric. It was that Toronto was reminding us it had always been human.
-
-If even a city defined by restraint and order could fracture, what did that say about our species? About Castlegar's calm streets? About any of our carefully-constructed castles? If the thin ice could crack here---in Canada, of all places---what happens in places where tensions run hotter, or where weapons scale beyond handguns into **viruses, carbon, code, and ideology**?
-
-The Year of the Gun wasn't just a crisis. It was a tutorial: **Civilization is a daily patch, not a permanent feature.**
-
-### **The Ice Beneath Our Feet**
-
-Every era gets its own reminder that our social software is beta, not final release. For some it is war. For others it is famine. For Toronto, in 2005, it was a summer that felt like a foot slipping through the surface of a frozen lake.
-
-Civilization didn't disappear. But for the first time, I could hear it cracking.
-
-The lesson was painfully clear: order isn't guaranteed; it's opt-in. It runs because people choose, over and over, to keep the peace. And the day enough people stop choosing? The update fails.
-
-### **To Nature's Castle, and to Silicon's Version of Civility**
-
-Civilization, I learned then, has two faces:
-
--   **The human interface** --- manners, norms, myths of civility
-
--   **The technical interface** --- the way we smooth our rough edges through phones, screens, and systems
-
-Both are thin. Both are fragile. Both depend on trust.
-
-As I continued west --- toward Vancouver, toward mountains, toward the next castle---I wondered whether deeper wisdom might lie not in cities but in nature, where systems endure without permission and without pretense.
-
-But before we head into forests and fjords, one last detour: **If civilization has a user interface, so does technology.** And in the next interlude, we explore the curious world of buttons, screens, swipes, and scrolls---the digital equivalents of Canadian politeness, the interfaces that keep our machines civil even when our species falters.
-
-**Because the thin veneer isn't just between humans. It's also between humans and their tools.**
+<!-- EDITORIAL AUDIT 2026-11-19: work/volume-1-drafting/pair-09-fable-adoption-2026-11-19/SOURCE_AUDIT.md distinguishes checked sources, bibliographic-only checks and remaining edition/locator questions. -->
