@@ -566,3 +566,12 @@ The original reading copies and recovery reserves remain as provenance. Incoming
 **Rejected recoveries stay out:** the two Overture II turns about subtracting supervision/courtesy of surprise; the three older Sage attributions (including the optimist/realist/pessimist triad); Φ's “Hello Newman”; and Coda I's aside about arguing with LLMs. Sam identifies the Overture turns and older Sage attributions as earlier LLM material, not his missing recollections. These decisions supersede their earlier optional-recovery status.
 
 The [restoration audit](../volume-1-drafting/personal-restorations-2026-11-19/RESTORATION_AUDIT.json) records exact before/after passages, A/B/C classifications, input revision and hashes, and validation. No other prose, personal events, references, figures, comments, closings or incoming files changed. Only these four canonical hashes were refreshed. No publication.
+
+
+## V1-056 — Rung 8: Fable's mechanical follow-up
+
+**19 November 2026 — author-approved local repairs.** Chapter 8's “Politics is both theatre and plumbing. The theatre is loud” now uses **theater** both times (A: spelling consistency). Interlude 8 now has a blank line between `v1-i8-constitution` and `v1-i8-unalign` (B: source formatting). An actual Pandoc comparison found the notes already parsed separately; adding the line leaves the complete interlude AST unchanged. No footnote content changed.
+
+**Author decisions preserved:** retain the exact Trump/Modi/Orbán passage and its existing source note; do not replace the names with a generic countries formulation merely to avoid a potentially partisan reading. “I wanted to answer honestly” stays. Typography inspection found no required repair: the style guide explicitly requires `---` for manuscript em dashes, and Pandoc renders them as em dashes. Existing bold emphasis is valid and remains. No print-formatting or publishing changes.
+
+Both canonical hashes refreshed. The scoped manuscript checker passes, with existing note-order warnings only; comments, note IDs, images, code and all other prose are unchanged.

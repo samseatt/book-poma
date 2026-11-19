@@ -141,7 +141,7 @@ Then there are the people who run the machine. Weber saw bureaucracy as the char
 
 
 <!-- AI draft, 2026-11-18. Proposal approved by the author for canonical adoption. -->
-Politics is both theatre and plumbing. The theatre is loud. The plumbing is decisive.
+Politics is both theater and plumbing. The theater is loud. The plumbing is decisive.
 
 A veto can buy time to discover a mistake before it becomes law. It can also give a small, well-placed interest the power to keep a failing arrangement indefinitely. Capture occurs when the people a rule is meant to restrain acquire control over how it is written or enforced. Asking them to design the henhouse because they understand poultry so well is still asking the foxes. Deliberation and obstruction both take time; the difference is whether the delay permits a better decision or prevents any correction. Making everything faster would erase that distinction along with the delay.
 <!-- End AI draft 2026-11-18. -->
