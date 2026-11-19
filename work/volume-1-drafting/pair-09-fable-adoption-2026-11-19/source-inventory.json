@@ -710,9 +710,13 @@
   {
     "unit": "interlude",
     "id": "v1-i9-breaker",
-    "status": "Inherited bibliographic/context reference; not a fresh edition-level reread",
-    "note": "The circuit-breaker pattern was popularized by Michael T. Nygard, *Release It! Design and Deploy Production-Ready Software* (2007). On loose coupling in organizations and machines, Karl E. Weick, \"Educational Organizations as Loosely Coupled Systems,\" *Administrative Science Quarterly* 21 (1976): 1–19, and Charles Perrow, *Normal Accidents* (1984). (AI-added; verify before print.)",
-    "urls": []
+    "status": "19 November follow-up: Nygard edition/contents, Weick journal record and author retrospective, and Perrow updated-edition publisher description checked; no full-book reread claimed.",
+    "note": "For the software circuit-breaker pattern, see Michael T. Nygard, [*Release It! Design and Deploy Production-Ready Software*](https://www.oreilly.com/library/view/release-it/9781680500264/f_0043.xhtml) (Pragmatic Bookshelf, 2007), pattern 5.2, “Circuit Breaker.” On loose coupling in organizations, Karl E. Weick, [“Educational Organizations as Loosely Coupled Systems”](https://doi.org/10.2307/2391875), *Administrative Science Quarterly* 21(1) (1976): 1–19. On interactive complexity and coupling, Charles Perrow, *Normal Accidents: Living with High-Risk Technologies* (Basic Books, 1984; [updated edition](https://press.princeton.edu/books/paperback/9780691004129/normal-accidents), Princeton University Press, 1999).",
+    "urls": [
+      "https://www.oreilly.com/library/view/release-it/9781680500264/f_0043.xhtml",
+      "https://doi.org/10.2307/2391875",
+      "https://press.princeton.edu/books/paperback/9780691004129/normal-accidents"
+    ]
   },
   {
     "unit": "interlude",

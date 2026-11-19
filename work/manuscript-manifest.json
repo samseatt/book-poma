@@ -1261,7 +1261,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-chapter.md",
-        "sha256": "87b93139f1b92bc4fdb6faf93a33b074f506756c5118e65360361dc9292ab69a"
+        "sha256": "2b809cc35e790aadc68a7a62e23f153387bd00a4da7733f2c653f4c14d9d231b"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 9c - The Thin Ice — Guns, Civility, and the Fragile Modern Mind.docx",
       "source_sha256_at_inventory": "3892fef7def395f491ccadc4244c90e9e1377a564206240e1b63f4f949eae3c0",
@@ -1290,7 +1290,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-interlude.md",
-        "sha256": "5c8c57f03829d951ccdebac7bb692d61da9dd00e1a15128dc5156ea46b5131d5"
+        "sha256": "02015140ff264541a62c0aced665b51d18a28f71381caad9d74830cfef4fcdbf"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 9i - Interfaces & Experiences — Computing’s Human Touch.docx",
       "source_sha256_at_inventory": "6a0723f62667064c314a81468a86a6202924fd5cc1bfb3eef9b2d23bc768ccf7",
@@ -1319,7 +1319,7 @@
       "active_source": {
         "format": "markdown",
         "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/coda.md",
-        "sha256": "cfb205662fd352cd088ece7dd911905f01320227c53dc6e17d7113f7be2fb96d"
+        "sha256": "e370cd2cdc455939e034ef70c69dc657b71d446a89e28ba8aa02505828a4c59e"
       },
       "provenance_source": "/Users/samseatt/projects/book_poma/5 Coda v1.docx",
       "source_sha256_at_inventory": "bc4bc944e95f42a68fb64b8aa09111539cf8f1db4c24decdb6130dd038efe439",
