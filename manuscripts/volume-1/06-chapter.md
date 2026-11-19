@@ -41,7 +41,7 @@ He had consulted for the giants of the disk-drive industry and was now building 
 He liked me, inexplicably. And so he taught me. He became my bridge from academia to enterprise.
 
 <!-- AI-assisted integration, 2026-11-17; author-approved recovery. -->
-On many mornings, he'd shoo me out the door. "Stop dropping résumés in the lobby. Find the hiring managers. Monday they're too busy; Friday they're too free. Go Tuesday, Wednesday, Thursday."
+On many mornings, he'd shoo me out the door. "Stop dropping résumés in the lobby. You might as well hand them straight to the janitor and cut out the middleman. Find the hiring managers. Monday they're too busy; Friday they're too free. Go Tuesday, Wednesday, Thursday."
 
 He saw a go-getter in my design, but the implementation was becoming problematic. Every day felt like Monday and Friday simultaneously. I complied anyway, though without enthusiasm:
 

@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-19",
+  "base_revision": "14323d66f0481018696ec045112d49c2529fa22e",
+  "scope": "Author-approved selective restoration after read-only preservation audit through rung 8",
+  "historical_source": "3cb7dfc (2026-09-29), with the author’s 2026-11-19 confirmation controlling memoir truth and provenance",
+  "changes": [
+    {
+      "file": "manuscripts/volume-1/06-chapter.md",
+      "old": "\"Stop dropping résumés in the lobby. Find the hiring managers.",
+      "new": "\"Stop dropping résumés in the lobby. You might as well hand them straight to the janitor and cut out the middleman. Find the hiring managers.",
+      "kind": "C — author-approved recovery",
+      "reason": "Restore the author-confirmed original punchline in the vignette now housed in Chapter 6."
+    },
+    {
+      "file": "manuscripts/volume-1/07-chapter.md",
+      "old": "I watched it on television, from Toronto. The streets I'd walked to job interviews were full of smoke, and the economic order that had chosen Seattle as its showroom the season I arrived was being shouted down in front of its own display windows. ",
+      "new": "I watched it on television, from Toronto. It hurt to see that city---which had fed me, sheltered me, and once ticketed me for barely-expired plates (the hallmark of a peaceful city where cops had plenty of license-plates-doodling time on their hands)---now choking on its own contradictions. And yet, I understood the anger. Capitalism's gifts, like its debts, are never evenly distributed. An Amazon warehouse can be born while another job dies somewhere else. A stock market can rise while an unseen cost is levied on someone far from the ticker.\n\n",
+      "kind": "C — author-approved recovery; B — local precision",
+      "reason": "Recover the full personal reflection requested by the author; remove the mechanical job-interview/showroom callback. The two for-every clauses become conditional rather than implying universal one-for-one economic losses. Keep the surrounding chronology, analysis and provenance comments."
+    },
+    {
+      "file": "manuscripts/volume-1/05-interlude.md",
+      "old": "But the field itself was in its second long winter, its early promises unkept and its funding thin, and much of the research I could join was narrowly focused on small pieces of problems. ",
+      "new": "But the field itself was in its second long winter, its early promises unkept and its funding thin, and much of the research I could join was narrowly focused on small pieces of problems. I was either early, visionary, or catastrophically bad at reading weather patterns. ",
+      "kind": "C — author-approved recovery",
+      "reason": "Restore the weather-pattern joke while retaining the corrected second-winter chronology."
+    },
+    {
+      "file": "manuscripts/volume-1/05-interlude.md",
+      "old": "My advisor gave the proposal the good-natured attention advisors owe their students' visions.",
+      "new": "My advisor, bless him, liked the *title* of my proposal. Then he read the draft, and liked the title even more.",
+      "kind": "C — author-approved recovery",
+      "reason": "Restore the author-confirmed proposal-title joke in place of generic attention."
+    },
+    {
+      "file": "manuscripts/volume-1/07-interlude.md",
+      "old": "Coming from the pre-web world, it was a sacrilegious question, and it earned me the kind of look usually reserved for someone asking which way is up. A month later, I was explaining URLs to others.",
+      "new": "Coming from the pre-web world, it was a sacrilegious question that earned me a sympathetic, amused smile and the advice that I had 'a lot to cover.' Yet, by day three hundred and sixty-five, the industry was treating me like a seasoned sage of software, networking, and everything web. I had ascended from a stray dog scavenging the parking lots of corporate parks and roadside motels to a highly sought-after expert.",
+      "kind": "A — author-confirmed memoir correction; C — authorized recovery",
+      "reason": "Restore the original colleague reaction and one-year career arc. The author explicitly rejects the incredulous reaction and one-month URL-teaching claim as invented."
+    }
+  ],
+  "files": {
+    "manuscripts/volume-1/06-chapter.md": {
+      "sha256_before": "b56d9eca11d764b23c80f70bc4ab03fcec2c672b2830e156b3e3a4fd84ff015e",
+      "sha256_after": "74fb581928f7572faa1c3ffa5eaea79567e6181853e59c70d8247c6a6b0dac89"
+    },
+    "manuscripts/volume-1/07-chapter.md": {
+      "sha256_before": "add485ada3ff325a6bf9e63326d9ac06cb9add1ef7fd1e50cfdd860a6bdf01d9",
+      "sha256_after": "77ad0473d846e84e792e92ab3c4f3a2b16db77c03544f7b9c6e354459db4b9ed"
+    },
+    "manuscripts/volume-1/05-interlude.md": {
+      "sha256_before": "ad4769b671d1ea629eeefb02ff4abbe95f349562c9fa2c058328ad006962d3cd",
+      "sha256_after": "3798b94bb1a0da18b125c2fa9c9b8caccc1b6042d6287173f24e3c219c8b58b4"
+    },
+    "manuscripts/volume-1/07-interlude.md": {
+      "sha256_before": "f2672b92bb1933b6708db74e3c1e7d85069b07621a19fe60c9b991b75e4fb3e2",
+      "sha256_after": "a0448109cb40018a51b30e040b3140d2e15da2218ca3459852b93cb8b3fa6050"
+    }
+  },
+  "decisions_not_to_restore": [
+    "Overture II: subtract supervision / courtesy of surprise",
+    "Three older Sage attributions",
+    "Chapter Φ: Hello Newman",
+    "Coda I: arguing with language models"
+  ],
+  "memoir_authority": "The author confirms the original URL account and rejects the current one-month teaching account and incredulous reaction as invented. The janitor, parking-ticket and proposal-title recoveries are author-confirmed original writing.",
+  "validation": {
+    "protected_comments_notes_images_and_final_lines_unchanged": true,
+    "manuscript_checker": {
+      "05-interlude": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/05-interlude.md",
+        "sha256": "3798b94bb1a0da18b125c2fa9c9b8caccc1b6042d6287173f24e3c219c8b58b4",
+        "defined_notes": 45,
+        "note_references": 45,
+        "parsed_notes": 45,
+        "html_note_backlinks": 45,
+        "display_equations": 3,
+        "bookwide_note_collisions": [],
+        "warnings": [
+          "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+        ],
+        "errors": [],
+        "passed": true
+      },
+      "06-chapter": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/06-chapter.md",
+        "sha256": "74fb581928f7572faa1c3ffa5eaea79567e6181853e59c70d8247c6a6b0dac89",
+        "defined_notes": 39,
+        "note_references": 39,
+        "parsed_notes": 39,
+        "html_note_backlinks": 39,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [
+          "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+        ],
+        "errors": [],
+        "passed": true
+      },
+      "07-chapter": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-chapter.md",
+        "sha256": "77ad0473d846e84e792e92ab3c4f3a2b16db77c03544f7b9c6e354459db4b9ed",
+        "defined_notes": 71,
+        "note_references": 73,
+        "parsed_notes": 73,
+        "html_note_backlinks": 73,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      },
+      "07-interlude": {
+        "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/07-interlude.md",
+        "sha256": "a0448109cb40018a51b30e040b3140d2e15da2218ca3459852b93cb8b3fa6050",
+        "defined_notes": 29,
+        "note_references": 30,
+        "parsed_notes": 30,
+        "html_note_backlinks": 30,
+        "display_equations": 1,
+        "bookwide_note_collisions": [],
+        "warnings": [],
+        "errors": [],
+        "passed": true
+      }
+    },
+    "git_diff_check": "passed",
+    "note_order_warnings": "Existing in Interlude 5 and Chapter 6; note references and definitions are unchanged."
+  }
+}

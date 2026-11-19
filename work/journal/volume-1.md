@@ -555,3 +555,14 @@ Clarified the existing phone anecdote using Sam's latest recollection: “zip co
 All 77 source-note IDs pair. Rechecked the flagged empirical sources and selected historical/technical publications; corrected the country-income model’s variables, supplied dated sources and links, and kept edition-level/full-text limitations explicit in [the source record](../volume-1-drafting/pair-08-review-2026-11-18/SOURCE_AUDIT.md). This is not a claim of having independently reread every cited book. The supplied AI and literary comments, exact ceremonial dates and approved Alice/Bob prose survive. Code is unchanged from the checked grayscale proof. Assets resolve from canon, manifest hashes are refreshed, and S030/S031 record adoption while retaining the open research obligations.
 
 The original reading copies and recovery reserves remain as provenance. Incoming Fable files are unchanged. No publishing infrastructure, generated edition, push or deployment. See [adoption notes](../volume-1-drafting/pair-08-review-2026-11-18/ADOPTION_NOTES.md).
+
+
+## V1-055 — Author-confirmed personal recoveries after the preservation audit
+
+**19 November 2026 — targeted restorations authorized and completed.** Restored the janitor/middleman punchline in Chapter 6's hiring-manager vignette; the Seattle expired-plates memory and fuller Toronto television reflection in Chapter 7; and the weather-pattern and proposal-title jokes in Interlude 5. The second-AI-winter chronology remains. The Seattle job-interview/showroom callback is removed at the author's request. The two restored economic comparisons use “can” instead of literal “for every” universals; the personal wording and license-plates-doodling joke are retained.
+
+**Memoir correction, not an optional stylistic variant:** Sam confirms only the original Interlude 7 URL account is true. Restored the colleague's sympathetic, amused response, “a lot to cover,” and the one-year professional ascent. Removed the invented incredulous reaction and claim that Sam was explaining URLs a month later. Future integrations must not reintroduce those details.
+
+**Rejected recoveries stay out:** the two Overture II turns about subtracting supervision/courtesy of surprise; the three older Sage attributions (including the optimist/realist/pessimist triad); Φ's “Hello Newman”; and Coda I's aside about arguing with LLMs. Sam identifies the Overture turns and older Sage attributions as earlier LLM material, not his missing recollections. These decisions supersede their earlier optional-recovery status.
+
+The [restoration audit](../volume-1-drafting/personal-restorations-2026-11-19/RESTORATION_AUDIT.json) records exact before/after passages, A/B/C classifications, input revision and hashes, and validation. No other prose, personal events, references, figures, comments, closings or incoming files changed. Only these four canonical hashes were refreshed. No publication.
