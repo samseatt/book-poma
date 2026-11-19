@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "status": "Working companion and possible appendix; not adopted into manuscripts",
+  "source": "/Users/samseatt/projects/book_poma/sam/claude/the-ladder-of-becoming-a-to-z.md",
+  "source_sha256": "5dca1477f2bb212dec1a226ee7afb51fd7aa72ccf148111afaf6b886b3c9b78f",
+  "snapshot": "work/appendix-candidates/the-ladder-of-becoming-a-to-z.md",
+  "snapshot_sha256": "5dca1477f2bb212dec1a226ee7afb51fd7aa72ccf148111afaf6b886b3c9b78f",
+  "source_bytes": 61775,
+  "approximate_word_count": 9792,
+  "review_scope": "Orientation, contents, overview and selected rung entries inspected for intake; not a complete factual or editorial audit.",
+  "contents": [
+    "A–K: substrate, life, cognition, distributed organization, economy, governance, Gaia, values, information, justice and knowledge",
+    "L–W: proposed machine-capability horizons with behavioral signatures, forecasts, adoption questions, Neuverse/Tiers implications and Gate mappings",
+    "X–Z: deliberately speculative beyond-Gate horizons",
+    "An overview table and a scenario for each rung"
+  ],
+  "potential_uses": [
+    "Condensed appendix",
+    "Longer companion essay",
+    "Capability vocabulary for Neuverse/Tiers exploration",
+    "Source of questions or projections for later authorized book work"
+  ],
+  "author_direction": "The confluences document follows the book’s eleven-rung emergent order, not this A–Z taxonomy.",
+  "preservation": "Verbatim snapshot; the incoming original remains read-only. M follows P deliberately in the source; do not alphabetize it as a mechanical correction.",
+  "pending": [
+    "Decide appendix scope and length",
+    "Reconcile any selected domain and Gate mappings with the current book plan",
+    "Verify factual claims, expert attributions, technical milestones and sources before publication while preserving the proposed taxonomy and clearly identified wagers"
+  ],
+  "authority": "The candidate does not supersede the canonical chapter order, approved Gates, manuscript content or established project definitions."
+}
