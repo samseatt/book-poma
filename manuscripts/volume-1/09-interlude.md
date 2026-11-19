@@ -26,6 +26,12 @@ She fell silent for a long moment, then wept, quietly, instinctively, the way hu
 
 Our director called and told us to stop work and go home. We walked out together, quiet, some of the team heading back downtown. Somewhere along the way, I said that with my looks, I wouldn't even point a finger at a building. Everyone laughed. It turned out I wasn't wrong.
 
+## When Design Exhales
+
+Six weeks later, Steve Jobs walked onto a stage holding something the size of a deck of cards and promised "a thousand songs in your pocket."[^v1-i9-ipod] The first iPod had arrived, a product so simple and serene that it felt like technology's apology note.
+
+While the world staggered through fear and confusion, the iPod offered something strangely healing: a scroll wheel that respected your intentions, a screen that didn't scream for attention, and a design that made complexity feel merciful again. It was a handshake between human and machine, a small proof that technology could be civil, even kind, and that design could be diplomacy. And that, I realized, was the hidden theme of the trade I'd wandered into. Interfaces aren't just aesthetic choices. They're treaties, between our fragile species and the silicon that now shares our lives.
+
 ## What an Interface Is
 
 In engineering, an interface is simply the boundary where two systems meet and agree on how to exchange something: a plug and a socket, two programs and their API, two circuits and the signals they exchange. The user interface is the special case where one of the two systems is a person. It's the place where a machine's logic has to be translated into something a human can perceive, understand and act on, and where human intention has to be translated back into something a machine can execute.
@@ -44,12 +50,6 @@ The machine-learning track has interfaces of its own, and the most interesting i
 All of this stays out of sight. The interfaces the rest of this interlude follows are the exceptions, the boundaries where the machine world reaches across to a person: a screen, a voice, a headset, a feed. They are a small fraction of all the interfaces there are, and by far the most consequential to us, because they are where the two worlds leak into each other on purpose, and where whatever crosses can be shaped.
 <!-- End AI draft 2026-11-19. -->
 
-
-## When Design Exhales
-
-Six weeks after that September morning, Steve Jobs walked onto a stage holding something the size of a deck of cards and promised "a thousand songs in your pocket."[^v1-i9-ipod] The first iPod had arrived, a product so simple and serene that it felt like technology's apology note.
-
-While the world staggered through fear and confusion, the iPod offered something strangely healing: a scroll wheel that respected your intentions, a screen that didn't scream for attention, and a design that made complexity feel merciful again. It was a handshake between human and machine, a small proof that technology could be civil, even kind, and that design could be diplomacy. And that, I realized, was the hidden theme of the trade I'd wandered into. Interfaces aren't just aesthetic choices. They're treaties, between our fragile species and the silicon that now shares our lives.
 
 ## The First Law of UX: Don't Make Me Feel Stupid
 
