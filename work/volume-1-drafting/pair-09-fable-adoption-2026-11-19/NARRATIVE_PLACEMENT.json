@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-19",
+  "baseline_commit": "318669ac8320dfcad18dfe81842dac14c8645e9b",
+  "input_sha256": "d821abb1c4dd162e3f5bdbc7cb3119d5255bf68070a40b05440491a109513ace",
+  "output_sha256": "87b93139f1b92bc4fdb6faf93a33b074f506756c5118e65360361dc9292ab69a",
+  "authorization": "Author approved relocating the full 2003 scenes, retaining fun/details, keeping March 2001 entry and citizenship/BC departure closing.",
+  "changes": [
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Move the 2003 concert and blackout out of the ceremonial March 2001 opening.",
+      "before": "In the spring of 2003, a new disease called SARS reached Toronto from Asia, and the city became, for a few months, a place the world avoided. Dozens died, hospitals closed their doors, and the hotels and restaurants emptied.[^v1-c9-sars] That summer, the city threw itself a party to prove it was still alive: a benefit concert at Downsview Park, headlined by the Rolling Stones, that drew something like half a million people, among the largest ticketed concerts ever held.[^v1-c9-sarsstock] I was there. Half a million people, peaceful, sunburned and happy. The crowd's only act of hostility was reserved for one of the opening acts, a young Justin Timberlake, whom some hardcore Stones fans booed and a few pelted with bottles. Even Toronto's mobs had standards.\n\nTwo weeks later, I spent a hot Thursday afternoon at the Beaches, east of downtown, and was heading back along Lake Shore Boulevard when I noticed a traffic light was out. Then another, and another. At that point, you know something is wrong. The specter of 9/11, two years earlier, still hid somewhere in the mind. But whatever it was, there was no chaos. Everybody fell back to four-way stops. A Canadian city of that size, completely orderly and civil: no honking, no jostling, no cutting across as if your life or your time were somehow more important than anyone else's.\n\nBy the time I made it home, it was clear that some sort of blackout had occurred; the power was out across Ontario and much of the northeastern United States, some fifty million people at once.[^v1-c9-blackout] What, or more ominously who, had caused it wasn't yet clear to me. The elevator was dead, so I trudged up nine floors to my apartment, looked out from the balcony and took stock of a silent fridge. Once it started getting dark, I figured there wouldn't be much to do at home. It was a toasty evening. Across from my building was a bar with a patio I'd always walked past. It was full, but there was no lineup, and when I stopped, a patron made extra room for me. I ordered whatever beverage was available.\n\nThen the stars came out over Toronto, something you never see there, both because of the city's lights and because everyone's focus is on the ground. With not much else to do, the city was looking up. To be without power in the twenty-first century was awful, but somehow it became a fun night, a peaceful evening, like a low-tech city-wide party. Later, walking out, I ran into an ex-coworker I'd never have met otherwise in a million years, and she caught me up on the people we'd both been friends with.\n\nAt every step, the city had fallen back on its default modes, and all of them were civil. That's what education and civility do. But how far can they stretch before they break too? No one knows.",
+      "after": ""
+    },
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Let the complete blackout scene introduce the veneer-theory question; replace the now-detached relative date.",
+      "before": "## Paint or Wood?\n\n",
+      "after": "## Paint or Wood?\n\nOne Thursday in August 2003, I spent a hot afternoon at the Beaches, east of downtown, and was heading back along Lake Shore Boulevard when I noticed a traffic light was out. Then another, and another. At that point, you know something is wrong. The specter of 9/11, two years earlier, still hid somewhere in the mind. But whatever it was, there was no chaos. Everybody fell back to four-way stops. A Canadian city of that size, completely orderly and civil: no honking, no jostling, no cutting across as if your life or your time were somehow more important than anyone else's.\n\nBy the time I made it home, it was clear that some sort of blackout had occurred; the power was out across Ontario and much of the northeastern United States, some fifty million people at once.[^v1-c9-blackout] What, or more ominously who, had caused it wasn't yet clear to me. The elevator was dead, so I trudged up nine floors to my apartment, looked out from the balcony and took stock of a silent fridge. Once it started getting dark, I figured there wouldn't be much to do at home. It was a toasty evening. Across from my building was a bar with a patio I'd always walked past. It was full, but there was no lineup, and when I stopped, a patron made extra room for me. I ordered whatever beverage was available.\n\nThen the stars came out over Toronto, something you never see there, both because of the city's lights and because everyone's focus is on the ground. With not much else to do, the city was looking up. To be without power in the twenty-first century was awful, but somehow it became a fun night, a peaceful evening, like a low-tech city-wide party. Later, walking out, I ran into an ex-coworker I'd never have met otherwise in a million years, and she caught me up on the people we'd both been friends with.\n\nAt every step, the city had fallen back on its default modes, and all of them were civil. That's what education and civility do. But how far can they stretch before they break too? No one knows.\n\n"
+    },
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Remove only the analytical sentence that repeats the relocated scene’s own closing about civil defaults.",
+      "before": "The blackout bears him out. When the lights went off, Toronto didn't need a veneer; it fell back on its default modes, and the defaults were civil. But de Waal's evidence has a second edge.",
+      "after": "The blackout bears him out. But de Waal's evidence has a second edge."
+    },
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Place SARS and the full concert account after the ritual introduction; retain the Timberlake joke.",
+      "before": "Both were getting at the same thing: we use repeated gestures to make fragile things feel solid.",
+      "after": "Both were getting at the same thing: we use repeated gestures to make fragile things feel solid.\n\nIn the spring of 2003, a new disease called SARS reached Toronto from Asia, and the city became, for a few months, a place the world avoided. Dozens died, hospitals closed their doors, and the hotels and restaurants emptied.[^v1-c9-sars] That summer, the city threw itself a party to prove it was still alive: a benefit concert at Downsview Park, headlined by the Rolling Stones, that drew something like half a million people, among the largest ticketed concerts ever held.[^v1-c9-sarsstock] I was there. Half a million people, peaceful, sunburned and happy. The crowd's only act of hostility was reserved for one of the opening acts, a young Justin Timberlake, whom some hardcore Stones fans booed and a few pelted with bottles. Even Toronto's mobs had standards."
+    },
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Keep the narrator’s recognition of absolutism at the opening, moving the later events to their own argument.",
+      "before": " Six months later, it brought down the towers. When the war in Afghanistan came, I thought it justified, though far from ideal. When the war in Iraq followed, I thought it misguided, or worse. On a frozen February day in 2003, tens of thousands of people marched through Toronto against it, part of the largest coordinated protest in history, and a month later Canada declined to join.[^v1-c9-iraq] My new country, it turned out, could say no to my old one, politely.",
+      "after": ""
+    },
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Move the 2001–2003 war/protest reflection to After the Towers, with an intelligible antecedent.",
+      "before": "## After the Towers\n\n",
+      "after": "## After the Towers\n\nSix months after my March crossing, the absolutism I'd recognized in Bamiyan brought down the towers. When the war in Afghanistan came, I thought it justified, though far from ideal. When the war in Iraq followed, I thought it misguided, or worse. On a frozen February day in 2003, tens of thousands of people marched through Toronto against it, part of the largest coordinated protest in history, and a month later Canada declined to join.[^v1-c9-iraq] My new country, it turned out, could say no to my old one, politely.\n\n"
+    },
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Remove the misleading forward-time “And then” after the general settled-Toronto recollections.",
+      "before": "And then, in the same quiet winter, two opposite ideas of civilization announced themselves within weeks of each other.",
+      "after": "That same winter, two opposite ideas of civilization announced themselves within weeks of each other."
+    },
+    {
+      "kind": "B — chronology connector",
+      "reason": "Make the citizenship year independent of the relocated 2003 scene and the intervening historical discussion. Existing chronology places departure in 2004.",
+      "before": "The next summer, I attended my citizenship ceremony in Toronto.",
+      "after": "In the summer of 2004, I attended my citizenship ceremony in Toronto."
+    },
+    {
+      "kind": "B — author-confirmed memoir detail",
+      "reason": "Use the author’s explicit current description of flying to BC; preserve the original Pacific Northwest/Canadian-brand line.",
+      "before": "Then I headed west. I had been itching to move back to the Pacific Northwest---its Canadian brand.",
+      "after": "Then I flew west to British Columbia. I had been itching to move back to the Pacific Northwest---its Canadian brand."
+    },
+    {
+      "kind": "C — author-approved placement/seam",
+      "reason": "Close the vacated opening boundary without adding explanatory prose.",
+      "before": "public life.\n\n\n\n\n<!-- AI draft, 2026-11-14.",
+      "after": "public life.\n\n<!-- AI draft, 2026-11-14."
+    },
+    {
+      "kind": "A — provenance scope",
+      "reason": "Move the existing AI marker with its analytical prose so it does not newly enclose the author’s relocated blackout recollection.",
+      "before": "<!-- AI draft, 2026-11-19: mainstream veneer and moral-circle material moved here from the Alice. -->\n## Paint or Wood?",
+      "after": "## Paint or Wood? [blackout recollection] <!-- AI draft, 2026-11-19: mainstream veneer and moral-circle material moved here from the Alice. --> [existing analytical prose]"
+    }
+  ],
+  "preservation_checks": {
+    "concert_intact": true,
+    "blackout_intact_except_opening_time_connector": true,
+    "all_prior_comments": true,
+    "all_notes": true,
+    "all_headings": true,
+    "entire_upheaval_and_closing": true,
+    "opening_stays_in_2001": true
+  },
+  "checker_status": {
+    "path": "/Users/samseatt/projects/book-poma/manuscripts/volume-1/09-chapter.md",
+    "sha256": "87b93139f1b92bc4fdb6faf93a33b074f506756c5118e65360361dc9292ab69a",
+    "defined_notes": 47,
+    "note_references": 47,
+    "parsed_notes": 47,
+    "html_note_backlinks": 47,
+    "display_equations": 0,
+    "bookwide_note_collisions": [],
+    "warnings": [
+      "Definitions are not in first-use order; legal Markdown, but review editorial ordering."
+    ],
+    "errors": [],
+    "passed": true
+  }
+}
