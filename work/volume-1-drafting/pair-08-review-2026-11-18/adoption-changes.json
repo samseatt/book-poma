@@ -1,0 +1,191 @@
+[
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "reason": "Author approved removal of internal vignette headings; the third heading also interrupts the same opening vignette. Existing sentences already bridge the joins.",
+    "before": "## Crossing an Invisible Line\n\n",
+    "after": ""
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "reason": "Author approved removal of internal vignette headings; the third heading also interrupts the same opening vignette. Existing sentences already bridge the joins.",
+    "before": "## Bay Street Blues\n\n",
+    "after": ""
+  },
+  {
+    "unit": "chapter",
+    "kind": "C",
+    "reason": "Author approved removal of internal vignette headings; the third heading also interrupts the same opening vignette. Existing sentences already bridge the joins.",
+    "before": "## The Year the Map Changed Hands\n\n",
+    "after": ""
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Separate the three clues using the author’s new recollection. No invented word, additional dialogue or new event; retain the incoming punch line.",
+    "before": "When I moved to the suburbs east of Toronto, I phoned the phone company to set up a cell plan and gave the representative my \"zip code,\" pronounced \"zee.\" She laughed and said I didn't need to explain that I'd just moved from the United States: \"You gave it away three times already.\"",
+    "after": "When I moved to the suburbs east of Toronto, I phoned the phone company to set up a cell plan. I called my postal code a \"zip code\" and said \"zee\" for Z; she had also caught an American pronunciation in another word. When I told her I had just moved from the United States, she laughed: \"You gave it away three times already.\""
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Keep editorial placement instructions out of reader-facing source notes; the Volume II reserve remains in the work area.",
+    "before": "The forest case is reserved for Volume II in this revision.",
+    "after": "The comparison concerns the state's selective administrative picture of society."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Match the two country-level variables in Milanovic’s model; source note states grouped-income design.",
+    "before": "the country a person lives in accounts for more than half of the variation in income in a worldwide comparison",
+    "after": "the income level and distribution of the country a person lives in account for more than half of the variation in income in a worldwide comparison"
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Supply the verified survey year, preserving the existing rough scale.",
+    "before": "In the 1860s, by France's own survey, roughly a quarter of its communes didn't speak French.",
+    "after": "In 1863, by France's own survey, roughly a quarter of its communes didn't speak French."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-membership]: Branko Milanovic, \"Global Inequality of Opportunity: How Much of Our Income Is Determined by Where We Live?,\" *Review of Economics and Statistics* 97 (2015): 452–460; Michael A. Clemens, Claudio E. Montenegro and Lant Pritchett, \"The Place Premium: Bounding the Price Equivalent of Migration Barriers,\" *Review of Economics and Statistics* 101 (2019): 201–213. The wage ratio for the same worker varies widely by country of origin. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c8-membership]: Branko Milanovic, [\"Global Inequality of Opportunity: How Much of Our Income Is Determined by Where We Live?\"](https://stonecenter.gc.cuny.edu/publications/global-inequality-of-opportunity-how-much-of-our-income-is-determined-by-where-we-live/), *Review of Economics and Statistics* 97 (2015): 452–460. The model uses country mean income and inequality and observations grouped into national income percentiles; it is not a causal estimate of passport ownership. Michael A. Clemens, Claudio E. Montenegro and Lant Pritchett, [\"The Place Premium: Bounding the Price Equivalent of Migration Barriers\"](https://ora.ox.ac.uk/objects/uuid%3A26ddd12b-4dab-4fee-ac2a-1e1d5c3b31a1), *Review of Economics and Statistics* 101 (2019): 201–213, estimates wage gaps after accounting for observed characteristics and bounding selection effects. The wage ratio varies widely by country of origin."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-homicide]: Manuel Eisner, \"Long-Term Historical Trends in Violent Crime,\" *Crime and Justice* 30 (2003): 83–142. The causes are debated; state consolidation and the monopoly on force are among the leading explanations, alongside Norbert Elias's \"civilizing process\" and changes in honor cultures and economic life. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c8-homicide]: Manuel Eisner, [\"Long-Term Historical Trends in Violent Crime\"](https://doi.org/10.1086/652229), *Crime and Justice* 30 (2003): 83–142. The long decline differs across European regions; its causes remain debated. State consolidation is one explanation alongside changes in self-control, religion, honor cultures and social life, not a demonstrated single cause."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-tyler]: Tom R. Tyler, *Why People Obey the Law* (Yale University Press, 1990). U.S. police staffing of roughly two to three sworn officers per thousand residents is from FBI data and varies by year and place. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c8-tyler]: Tom R. Tyler, *Why People Obey the Law* (1990; Princeton edition, 2006), especially the [afterword on procedural justice and legitimacy](https://assets.press.princeton.edu/chapters/p8230.pdf). For staffing scale, the U.S. Bureau of Justice Statistics, [*Full-Time Employees in Law Enforcement Agencies, 1997–2016*](https://bjs.ojp.gov/library/publications/full-time-employees-law-enforcement-agencies-1997-2016), reports 2.17 full-time sworn officers per thousand residents in general-purpose agencies in 2016. Rates vary by agency, locality and year."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-standard]: On the French language survey of the 1860s, see Eugen Weber, *Peasants into Frenchmen*, cited below. North American railways adopted standard time on 18 November 1883, following proposals by Sandford Fleming and others; see Clark Blaise, *Time Lord* (2000). Ernest Gellner, *Nations and Nationalism* (Blackwell, 1983), on industrial society's need for a standardized, literate culture. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c8-standard]: Eugen Weber, *Peasants into Frenchmen* (1976), p. 67, reports the 1863 survey figure: 8,381 of 37,510 communes, about 22 percent. North American railways adopted standard time on 18 November 1883; Fleming was a prominent advocate, and railway official William F. Allen helped organize its implementation. See Clark Blaise, *Time Lord* (2000). Ernest Gellner, *Nations and Nationalism* (Blackwell, 1983), chapter 3, connects industrial society to standardized education and culture."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-mccallum]: John McCallum, \"National Borders Matter: Canada–U.S. Regional Trade Patterns,\" *American Economic Review* 85 (1995): 615–623, using 1988 data; James E. Anderson and Eric van Wincoop, \"Gravity with Gravitas: A Solution to the Border Puzzle,\" *American Economic Review* 93 (2003): 170–192, which substantially reduced the estimate. On prices, Charles Engel and John H. Rogers, \"How Wide Is the Border?,\" *American Economic Review* 86 (1996): 1112–1125. (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c8-mccallum]: John McCallum, \"National Borders Matter: Canada–U.S. Regional Trade Patterns,\" *American Economic Review* 85 (1995): 615–623, using 1988 data. The estimated ratio was about 22 after controls, rounded to twenty in the text and schematic. James E. Anderson and Eric van Wincoop, [\"Gravity with Gravitas: A Solution to the Border Puzzle\"](https://doi.org/10.1257/000282803321455214), *American Economic Review* 93 (2003): 170–192, models multilateral trade resistance and revises the interpretation and magnitude. On prices, Charles Engel and John H. Rogers, \"How Wide Is the Border?,\" *American Economic Review* 86 (1996): 1112–1125. The figure is not a universal jump in every social measure at a border."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-kuran]: Timur Kuran, \"Now Out of Never: The Element of Surprise in the East European Revolution of 1989,\" *World Politics* 44 (1991): 7–48; *Private Truths, Public Lies: The Social Consequences of Preference Falsification* (Harvard University Press, 1995). (AI-added, from memory; to be verified.)",
+    "after": "[^v1-c8-kuran]: Timur Kuran, [\"Now Out of Never: The Element of Surprise in the East European Revolution of 1989\"](https://doi.org/10.2307/2010422), *World Politics* 44 (1991): 7–48; *Private Truths, Public Lies: The Social Consequences of Preference Falsification* (1995). Public and private preferences can diverge, concealing the potential for a cascade of opposition."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-vdem]: V-Dem Institute, *Democracy Report* (annual); check the latest figures before print.",
+    "after": "[^v1-c8-vdem]: V-Dem Institute, [*Democracy Report 2026*](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf), reporting trends through 2025. The report distinguishes autocratization processes from regime classifications; the text refers to those processes, not merely the count of countries labelled autocracies."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Source alignment during final adoption; bibliography and limits retained.",
+    "before": "[^v1-c8-nunavut]: Nunavut was created on 1 April 1999 under the Nunavut Act (1993).",
+    "after": "[^v1-c8-nunavut]: Nunavut was created on 1 April 1999 under the Nunavut Act (1993). See the [Nunavut Legislative Assembly’s account](https://www.assembly.nu.ca/faq/how-was-nunavut-created)."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-apache]: The Apache Software Foundation was incorporated in June 1999.",
+    "after": "[^v1-i8-apache]: The Apache Software Foundation was incorporated in June 1999; see its [history timeline](https://www.apache.org/history/timeline.html)."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-ioc]: The \"Hollywood principle\" is discussed in, e.g., Ralph E. Johnson and Brian Foote, \"Designing Reusable Classes\" (1988), *Journal of Object-Oriented Programming* 1(2); see also Martin Fowler, \"Inversion of Control Containers and the Dependency Injection pattern\" (2004).",
+    "after": "[^v1-i8-ioc]: The \"Hollywood principle\" is discussed in, e.g., Ralph E. Johnson and Brian Foote, \"Designing Reusable Classes\" (1988), *Journal of Object-Oriented Programming* 1(2); see also Martin Fowler, [\"Inversion of Control Containers and the Dependency Injection pattern\"](https://martinfowler.com/articles/injection.html) (23 January 2004)."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-cai]: Yuntao Bai et al., \"Constitutional AI: Harmlessness from AI Feedback\" (December 2022), arXiv:2212.08073.",
+    "after": "[^v1-i8-cai]: Yuntao Bai et al., [\"Constitutional AI: Harmlessness from AI Feedback\"](https://arxiv.org/abs/2212.08073) (December 2022), arXiv:2212.08073."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-spec]: OpenAI, \"Model Spec\" (May 2024).",
+    "after": "[^v1-i8-spec]: OpenAI, [\"Introducing the Model Spec\"](https://openai.com/index/introducing-the-model-spec/) (8 May 2024), announcing the first public draft. The document has since been revised."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-ccai]: Anthropic and the Collective Intelligence Project, \"Collective Constitutional AI: Aligning a Language Model with Public Input\" (October 2023).",
+    "after": "[^v1-i8-ccai]: Anthropic and the Collective Intelligence Project, [\"Collective Constitutional AI: Aligning a Language Model with Public Input\"](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) (October 2023)."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-autodiff]: Atılım Güneş Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul and Jeffrey Mark Siskind, \"Automatic Differentiation in Machine Learning: A Survey,\" *Journal of Machine Learning Research* 18(153) (2018): 1–43; Seppo Linnainmaa's 1970 master's thesis is usually credited with the reverse mode. Reverse mode computes the gradient of one output with respect to all inputs at a cost that is a small constant multiple of the forward computation, at the price of storing intermediate values. The code example's figures follow from the update: each pass changes the prediction by $-0.05 \\times (x^2+1) \\times 2(y-t) = -0.5\\,(y-t)$, halving the error. PyTorch's [autograd tutorial](https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html) describes the recorded graph.",
+    "after": "[^v1-i8-autodiff]: Atılım Güneş Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul and Jeffrey Mark Siskind, \"Automatic Differentiation in Machine Learning: A Survey,\" *Journal of Machine Learning Research* 18(153) (2018): 1–43; Seppo Linnainmaa's 1970 master's thesis is usually credited with the reverse mode. Reverse mode computes the gradient of one output with respect to all inputs at a cost that is a small constant multiple of the forward computation, at the price of storing intermediate values. The code example's figures follow from the update: each pass changes the prediction by $-0.05 \\times (x^2+1) \\times 2(y-t) = -0.5\\,(y-t)$, halving the error. PyTorch's [autograd tutorial](https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html) describes the recorded graph."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-pipeline]: Thomas Wolf et al., \"Transformers: State-of-the-Art Natural Language Processing,\" *Proceedings of EMNLP: System Demonstrations* (2020). Called without a model name, the sentiment pipeline downloads a default English model and warns that a specific model should be chosen for production; outputs depend on that model's version.",
+    "after": "[^v1-i8-pipeline]: Thomas Wolf et al., \"Transformers: State-of-the-Art Natural Language Processing,\" *Proceedings of EMNLP: System Demonstrations* (2020). Called without a model name, the sentiment pipeline downloads a default English model and warns that a specific model should be chosen for production; outputs depend on that model's version."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-lora]: Edward J. Hu et al., \"LoRA: Low-Rank Adaptation of Large Language Models,\" arXiv:2106.09685 (2021), *ICLR* (2022). The arithmetic: $4096^2 = 16{,}777{,}216$; $2 \\times 4096 \\times 8 = 65{,}536$, about 0.39 percent. Adapter size depends on how many matrices and layers are adapted, the rank and the number format. QLoRA (Tim Dettmers et al., 2023) combined adapters with 4-bit base weights to fine-tune large models on a single GPU.",
+    "after": "[^v1-i8-lora]: Edward J. Hu et al., \"LoRA: Low-Rank Adaptation of Large Language Models,\" arXiv:2106.09685 (2021), *ICLR* (2022). The arithmetic: $4096^2 = 16{,}777{,}216$; $2 \\times 4096 \\times 8 = 65{,}536$, about 0.39 percent. Adapter size depends on how many matrices and layers are adapted, the rank and the number format. QLoRA (Tim Dettmers et al., 2023) combined adapters with 4-bit base weights to fine-tune large models on a single GPU."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Add the checked primary publication link.",
+    "before": "[^v1-i8-unalign]: Xiangyu Qi et al., \"Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!,\" arXiv:2310.03693 (2023), *ICLR* (2024), reporting that fine-tuning on a small number of examples can substantially weaken safety training. Developers have since studied ways to make such training more robust; the problem is not solved in general.",
+    "after": "[^v1-i8-unalign]: Xiangyu Qi et al., \"Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!,\" arXiv:2310.03693 (2023), *ICLR* (2024), reporting that fine-tuning on a small number of examples can substantially weaken safety training. Developers have since studied ways to make such training more robust; the problem is not solved in general."
+  },
+  {
+    "unit": "interlude",
+    "kind": "B",
+    "reason": "Retain the checked historical snapshot instead of leaving a reader-facing instruction.",
+    "before": "Check the current size before print.",
+    "after": "These are the report's dated figures, not a live inventory."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Attach primary/institutional records for the coincidence dates and standard-time implementation.",
+    "before": "[^v1-c8-handovers]: Macau was transferred from Portugal to China on 20 December 1999; the Panama Canal was transferred to Panama at noon on 31 December 1999 under the Torrijos–Carter Treaties (1977); Boris Yeltsin announced his resignation on 31 December 1999, naming Vladimir Putin acting president.",
+    "after": "[^v1-c8-handovers]: Macau was transferred from Portugal to China on 20 December 1999, the date specified in the [Macao Basic Law](https://www.wipo.int/wipolex/en/legislation/details/13124). The Panama Canal was transferred at noon on 31 December 1999 under the Torrijos–Carter Treaties (1977); see the [contemporary U.S. State Department account](https://1997-2001.state.gov/regions/wha/panama/991206_faqs.html). Boris Yeltsin resigned on 31 December 1999, handing the acting presidency to Vladimir Putin; see [NATO’s contemporary record](https://www.nato.int/en/news-and-events/articles/news/1999/12/31/boris-yeltsin-announces-his-resignation-as-president-of-russia)."
+  },
+  {
+    "unit": "chapter",
+    "kind": "B",
+    "reason": "Distinguish X-Road’s enabling infrastructure from a guaranteed once-only outcome; avoid claiming literal universal resident coverage.",
+    "before": "that lets government databases talk to each other, so citizens provide any piece of information only once; it gave every resident a digital identity;",
+    "after": "that lets government databases talk to each other, helping the state reuse information rather than ask citizens for it again; it introduced a national digital identity card;"
+  }
+]

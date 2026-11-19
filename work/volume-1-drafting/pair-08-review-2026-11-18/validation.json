@@ -1,0 +1,42 @@
+{
+  "chapter": {
+    "body_words": 7887,
+    "notes": 42,
+    "missing_notes": [],
+    "unused_notes": [],
+    "duplicate_definitions": [],
+    "missing_comments": [],
+    "bad_images": [],
+    "date_markers": {
+      "March 11, 2001": true,
+      "September 11, 2001": true,
+      "Exactly six months later": true
+    },
+    "proposal_words": 652
+  },
+  "interlude": {
+    "body_words": 6682,
+    "notes": 35,
+    "missing_notes": [],
+    "unused_notes": [],
+    "duplicate_definitions": [],
+    "missing_comments": [],
+    "bad_images": [],
+    "code_AST_unchanged": true,
+    "code_max_line_lengths": [
+      63,
+      65,
+      67
+    ],
+    "proposal_words": 911
+  },
+  "input_hashes_unchanged": true,
+  "code_proof": {
+    "format": "one-page 6-by-9-inch PDF",
+    "visually_checked": true,
+    "visible_language_labels": false,
+    "indentation_preserved": true,
+    "syntax_color_required": false,
+    "not_a_full_book_build": true
+  }
+}

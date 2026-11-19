@@ -1,0 +1,16 @@
+{
+  "chapter": {
+    "notes": 42,
+    "note_pairs_valid": true,
+    "incoming_comments_preserved": true,
+    "approved_wager_unchanged": true,
+    "sha256": "bc7e646da2f096c7176acdb65bffa58b068b218b2d549c7a49d3b289422677a7"
+  },
+  "interlude": {
+    "notes": 35,
+    "note_pairs_valid": true,
+    "incoming_comments_preserved": true,
+    "approved_wager_unchanged": true,
+    "sha256": "32a7a9f5215d2f1c4c33e832f7850c9679f70f8c439663d737ee37a8c4c75ed3"
+  }
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="399" viewBox="0 0 1000 570" role="img" aria-labelledby="title desc">
+<title id="title">A line on paper</title>
+<desc id="desc">Left: a Canadian province trades with another province and an American state across a border. Right: an illustrative normalized comparison of the original McCallum estimate, about twenty for interprovincial trade versus one for cross-border trade after controls for regional size and distance, using 1988 data. Later structural estimates revised the magnitude and interpretation. This is not a spatial step graph or a comparison of prices and accents.</desc>
+<metadata>Codex review redrawing, 18 November 2026, after the Fable border-effect diagram. Original source retained unchanged in the author's Fable folder. Based on McCallum (1995), with Anderson and van Wincoop (2003) qualification.</metadata>
+<rect width="1000" height="570" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#171717;text-anchor:middle}.title{font-size:28px;font-weight:700}.head{font-size:21px;font-weight:700}.label{font-size:19px}.small{font-size:17px}.fine{font-size:16px;fill:#444}.box{fill:#eee;stroke:#222;stroke-width:2}.line{stroke:#222;stroke-width:3;fill:none}.border{stroke:#555;stroke-width:2;stroke-dasharray:9 7}</style>
+<defs><marker id="a" viewBox="0 0 10 10" markerWidth="7" markerHeight="7" refX="9" refY="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#222"/></marker></defs>
+<text class="title" x="500" y="42">A line on paper</text>
+<text class="head" x="245" y="91">Two routes for trade</text>
+<rect class="box" x="50" y="133" width="155" height="65" rx="7"/><text class="label" x="127" y="172">province A</text>
+<rect class="box" x="295" y="133" width="155" height="65" rx="7"/><text class="label" x="372" y="172">province B</text>
+<path class="line" d="M215 165 H285" marker-start="url(#a)" marker-end="url(#a)"/>
+<text class="fine" x="250" y="127">within Canada</text>
+<path class="line" d="M127 210 V347" marker-start="url(#a)" marker-end="url(#a)"/>
+<path class="border" d="M30 277 H470"/>
+<text class="small" x="385" y="263">Canada</text><text class="small" x="385" y="302">United States</text>
+<rect class="box" x="50" y="359" width="155" height="65" rx="7"/><text class="label" x="127" y="399">state C</text>
+<text class="small" x="303" y="387">across the border</text>
+<text class="fine" x="245" y="462">Schematic routes, not a geographic map.</text>
+<path d="M497 95 V465" stroke="#bbb"/>
+<text class="head" x="753" y="91">The original 1988-data estimate</text>
+<text class="small" x="570" y="155" style="text-anchor:start">Interprovincial trade</text>
+<rect x="570" y="173" width="330" height="49" fill="#333"/><text class="label" x="937" y="205">≈20</text>
+<text class="small" x="570" y="280" style="text-anchor:start">Canada–U.S. trade</text>
+<rect x="570" y="299" width="16.5" height="49" fill="#999" stroke="#333"/><text class="label" x="615" y="331">1</text>
+<text class="fine" x="754" y="391">Cross-border comparison normalized to 1;</text>
+<text class="fine" x="754" y="415">regional size and distance controlled.</text>
+<text class="fine" x="754" y="452">Estimated relationship, not raw trade totals.</text>
+<path d="M35 489 H965" stroke="#777"/>
+<text class="small" x="500" y="522">McCallum (1995). Later structural work revised the magnitude and interpretation.</text>
+<text class="fine" x="500" y="548"></text>
+</svg>

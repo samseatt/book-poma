@@ -1,0 +1,75 @@
+--- Approved reading copy
++++ Canonical adoption
+@@ -1,6 +1,6 @@
+ ![](../assets/shared/interlude-gear.png)
+ 
+-<!-- REVIEW COPY, 2026-11-18: author-requested restoration and local repairs; Alice/Bob proposed for review. Canon remains unchanged. Inherited references still require the final adoption audit. -->
++<!-- Canonical adoption, 2026-11-18: approved rung-8 reading copy, personal restorations, local repairs and Alice/Bob. Adoption record: work/volume-1-drafting/pair-08-review-2026-11-18/ADOPTION_NOTES.md. -->
+ 
+ <!-- AI-assisted: restored from Sam's earlier draft and new recollections; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
+ 
+@@ -31,7 +31,7 @@
+ 
+ We built applications for bonds and stock portfolios that ran not only on desktops but on handhelds, PalmPilots and Jornadas, which traders carried like holsters. The stack was Microsoft's from top to bottom: web pages built in Active Server Pages and VBScript, business logic in C++ components, and SQL Server keeping the numbers.
+ 
+-<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->
++<!-- AI draft, 2026-11-18. Proposal approved by the author for canonical adoption. -->
+ Downtown Toronto had the PATH, a network of underground passages between the towers. I loved being able to walk through it in winter. A framework you could walk through, if you like; the softball league supplied a less forgiving one.
+ <!-- End AI draft 2026-11-18. -->
+ 
+@@ -72,7 +72,7 @@
+ 
+ That's also the platform's danger. Whoever owns the framework sets the rules for everyone inside it: what may be sold, what share of each sale the owner takes, which applications are allowed and which are removed overnight. A platform is a nation with a single, unelected government, and its constitution is its terms of service. <!-- AI draft, 2026-11-14. -->It has a border too, with something like the discontinuity Chapter 8 measured between provinces and states: switching costs that make building inside the wall far cheaper than building across it.<!-- End AI draft 2026-11-14. --> Lessig's "code is law" had found its fullest expression, and its citizens, the developers and users inside, have about as much say in its laws as the subjects of Chapter 8's early kingdoms.
+ 
+-<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->
++<!-- AI draft, 2026-11-18. Proposal approved by the author for canonical adoption. -->
+ There is a practical border inside the platform too. *Authentication* establishes which identity is making a request; *authorization* decides what that identity may do. A trading service may be allowed to submit an order without being allowed to alter a client's permissions or release every payment. Delegating a task need not mean handing over the whole account. The authority can be scoped to that task, made to expire and revoked independently. Knowing who somebody is has never settled what they should be allowed to do. It does not settle the question for an agent either.[^v1-i8-authority]
+ <!-- End AI draft 2026-11-18. -->
+ 
+@@ -199,7 +199,7 @@
+ 
+ Augmentation opens a second front. An agent that helps a person has to work inside that person's frameworks: the tax code, the immigration form, the bank's procedures, the softball league's rules. They need not be consistent with one another; humans have absorbed the inconsistency with judgment, patience or a sympathetic officer at Pearson. Faced with a contradiction, an agent can do one of two things. It can expose it, the way a compiler can expose incompatible declarations, or it can hide it. Adapters are how old and new systems learn to live together, and Volume III will lean on them; but an adapter that hides a contradiction, rather than translating between two honest systems, keeps the contradiction alive behind a pleasant face. The first kind of agent is annoying. The second makes the crookedness permanent: technical debt with excellent manners.
+ 
+-<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->
++<!-- AI draft, 2026-11-18. Proposal approved by the author for canonical adoption. -->
+ There is another inheritance that has nothing to do with biased sentences. An agent can read every form correctly and still have to reconcile three institutions that define the same person, asset or obligation differently. More intelligence helps it negotiate the mismatch; it does not abolish the mismatch. If each new participant brings another set of private exceptions, some of the apparent difficulty of intelligence is the difficulty of our arrangements.
+ 
+ Chapter 8's Alice asks whether those arrangements could form around their work and revise their boundaries as the work changes. Bob's corresponding wager is that a framework capable of such coordination might reduce what its agents have to solve afresh. Shared, inspectable commitments could let participants compose their work without renegotiating the whole institution at every crossing. That must include incompatible commitments being made visible, not averaged into a convenient answer. It is the promises-outside-the-procedure problem of Interlude 6, now between procedures that belong to different people.
+@@ -244,11 +244,11 @@
+ 
+ [^v1-i8-napster]: Shawn Fanning, then a student at Northeastern University, released Napster in June 1999; it shut down in July 2001 after *A&M Records v. Napster*.
+ 
+-[^v1-i8-apache]: The Apache Software Foundation was incorporated in June 1999.
++[^v1-i8-apache]: The Apache Software Foundation was incorporated in June 1999; see its [history timeline](https://www.apache.org/history/timeline.html).
+ 
+ [^v1-i8-blackberry]: Research In Motion, based in Waterloo, Ontario, released the BlackBerry 850 in 1999.
+ 
+-[^v1-i8-ioc]: The "Hollywood principle" is discussed in, e.g., Ralph E. Johnson and Brian Foote, "Designing Reusable Classes" (1988), *Journal of Object-Oriented Programming* 1(2); see also Martin Fowler, "Inversion of Control Containers and the Dependency Injection pattern" (2004).
++[^v1-i8-ioc]: The "Hollywood principle" is discussed in, e.g., Ralph E. Johnson and Brian Foote, "Designing Reusable Classes" (1988), *Journal of Object-Oriented Programming* 1(2); see also Martin Fowler, ["Inversion of Control Containers and the Dependency Injection pattern"](https://martinfowler.com/articles/injection.html) (23 January 2004).
+ 
+ [^v1-i8-mvc]: Trygve Reenskaug developed model-view-controller at Xerox PARC in 1978–1979 for Smalltalk.
+ 
+@@ -272,17 +272,17 @@
+ 
+ [^v1-i8-mlframeworks]: Google released TensorFlow in November 2015; PyTorch's first public release came from Facebook AI Research in January 2017, and the project moved to the PyTorch Foundation, under the Linux Foundation, in 2022.
+ 
+-[^v1-i8-hf]: Hugging Face was founded in 2016 by Clément Delangue, Julien Chaumond and Thomas Wolf; its Transformers library appeared in 2018–2019. Hugging Face, ["State of Open Source on Hugging Face: Spring 2026"](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) (March 2026), reports more than two million public models and over 500,000 public datasets, as 2025 figures. Check the current size before print.
++[^v1-i8-hf]: Hugging Face was founded in 2016 by Clément Delangue, Julien Chaumond and Thomas Wolf; its Transformers library appeared in 2018–2019. Hugging Face, ["State of Open Source on Hugging Face: Spring 2026"](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) (March 2026), reports more than two million public models and over 500,000 public datasets, as 2025 figures. These are the report's dated figures, not a live inventory.
+ 
+ [^v1-i8-openweights]: Meta released Llama 2 in July 2023 under a custom license; Mistral released Mistral 7B under Apache 2.0 in September 2023; DeepSeek released DeepSeek-R1 under the MIT license in January 2025.
+ 
+ [^v1-i8-osaid]: Open Source Initiative, [*The Open Source AI Definition*, version 1.0](https://opensource.org/ai/open-source-ai-definition), October 2024: parameters, complete code for training and running the system, and sufficiently detailed data information to enable a skilled person to build a substantially equivalent system. This does not require all original raw data or promise bit-for-bit retraining. Its freedoms include use for any purpose.
+ 
+-[^v1-i8-cai]: Yuntao Bai et al., "Constitutional AI: Harmlessness from AI Feedback" (December 2022), arXiv:2212.08073.
+-
+-[^v1-i8-spec]: OpenAI, "Model Spec" (May 2024).
+-
+-[^v1-i8-ccai]: Anthropic and the Collective Intelligence Project, "Collective Constitutional AI: Aligning a Language Model with Public Input" (October 2023).
++[^v1-i8-cai]: Yuntao Bai et al., ["Constitutional AI: Harmlessness from AI Feedback"](https://arxiv.org/abs/2212.08073) (December 2022), arXiv:2212.08073.
++
++[^v1-i8-spec]: OpenAI, ["Introducing the Model Spec"](https://openai.com/index/introducing-the-model-spec/) (8 May 2024), announcing the first public draft. The document has since been revised.
++
++[^v1-i8-ccai]: Anthropic and the Collective Intelligence Project, ["Collective Constitutional AI: Aligning a Language Model with Public Input"](https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input) (October 2023).
+ 
+ <!-- AI draft footnotes, 2026-11-18; from memory unless linked, to be verified. -->
+ 

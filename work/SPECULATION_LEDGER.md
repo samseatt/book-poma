@@ -486,3 +486,32 @@ The graph, Ockham/head-count and alikeness material remain intact. No speculativ
 **Useful next work:** in a consenting knowledge community, compare source attribution alone with an agreed return of resources/work tied to use. Measure new contributions, corrections, participation, independence and exit—not just acknowledgement or revenue. Vary distillation, lineage declarations, adversarial reuse and disputed representation. Establish whether the arrangement renews the knowledge-producing relationships without enclosing every downstream idea.
 
 **Disposition:** retain the bold invitation and exact incoming closing sentence. The inherited robots.txt/training-commons material now precedes Bob; see the [adoption notes](volume-1-drafting/pair-07-fable-adoption-2026-11-17/ADOPTION_NOTES.md).
+
+
+## S030 — Can governing boundaries be learned from their consequences?
+
+**Recorded:** 18 November 2026, rung 8 second review. **Status:** adopted into canonical Chapter 8 on 18 November 2026 after the author approved the second reading pass; remains an open research proposal. Related: S024 (collective coupling), S027 (adaptable procedures and durable obligations), S028 (economic power and relational memory).
+
+**The offer:** let governing bodies discover and revise their boundaries, memberships and standing through the relationships and consequences of the work they govern. Different functions can recruit overlapping participants; plural values and belonging need not collapse into one territorial or optimized account. An exception can supply evidence against the container instead of being treated solely as a defective applicant.
+
+**Supported footing:** polycentric governance, functional overlapping jurisdictions and institutional fit are established research directions. Cells, bodily systems and microbial associations illustrate several kinds of coordination, exchange and conflict; they do not supply a political prescription. Scott's administrative legibility provides a main-text foundation. MOxAIC inspires the plurality of orders without introducing the project name into Volume I.
+
+**Why still speculative:** no procedure yet specifies how consequences confer standing, who can redraw authority, how disputes across domains resolve, or which rights survive rearrangement. Self-organization also produces capture, domination and exclusion. Natural relationships are not necessarily just, and boundaries cannot follow every disagreement without losing stability. Novelty resides in the proposed synthesis and mechanism to develop, not priority over polycentric governance or a proof from biology.
+
+**Useful next work:** compare arrangements performing the same functions while varying boundary-revision and membership rules. Track adaptation, appeal, outsider costs, overlapping obligations and continuity of protection. Require affected outsiders to gain standing without buying membership. Test whether the system learns without translating every value into one score or exporting its burdens beyond the measured boundary.
+
+**Disposition:** [Chapter 8 reading copy](volume-1-drafting/pair-08-review-2026-11-18/volume-1/08-chapter.md); Pigeon/serpent callback. Scott's forest account is preserved separately for Volume II and still needs close historical verification before reuse. Author approved adoption; see the [adoption record](volume-1-drafting/pair-08-review-2026-11-18/ADOPTION_NOTES.md).
+
+## S031 — How much machine intelligence pays for institutional incoherence?
+
+**Recorded:** 18 November 2026, rung 8 second review. **Status:** adopted into canonical Interlude 8 on 18 November 2026 after the author approved the second reading pass; remains an open research proposal. Related: S027 (promises outside procedures), S030 (revisable governance).
+
+**The offer:** some of the intelligence demanded from agents may be compensation for institutions that cannot coordinate. Shared, inspectable commitments and arrangements capable of revising their boundaries could reduce exceptions, negotiations and repairs that agents otherwise solve afresh. An adapter may reveal incompatible obligations or conceal them behind a competent interface. Success within the system is not authorship of its rules, as Alice's eighth-square promotion suggests.
+
+**Supported footing:** interfaces, contracts, scoped authority and organizational communication constrain software coordination. Data bias is a distinct established issue, moved into the main constitutional discussion. Conway's law supplies an analogy, not a theorem about all civilization or future minds.
+
+**Why still speculative:** no complexity bound, general reduction or necessary ceiling on agent intelligence follows. Big-O is explicitly metaphorical until tasks, input representation, cost model, algorithms or lower bounds are specified. Apparent simplification can merely move work to people, suppress appeals or force plural commitments into a single authority. A machine can sometimes repair a human institution; the claim is not that its capability is absolutely capped by its training society.
+
+**Useful next work:** hold tasks and agents fixed while changing institutional arrangements; vary participant count and obligations. Measure negotiation, exception handling, repair, error and displaced human work, alongside rights and outcomes. Test compatibility without hiding disagreements. A faster system that removes appeal or exports work has not improved in the intended sense.
+
+**Disposition:** [Interlude 8 reading copy](volume-1-drafting/pair-08-review-2026-11-18/volume-1/08-interlude.md), with the existing crooked-ground argument retained and the repeated closing recap shortened. Author approved adoption; see the [adoption record](volume-1-drafting/pair-08-review-2026-11-18/ADOPTION_NOTES.md).

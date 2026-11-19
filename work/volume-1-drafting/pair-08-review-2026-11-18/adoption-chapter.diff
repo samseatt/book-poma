@@ -1,0 +1,148 @@
+--- Approved reading copy
++++ Canonical adoption
+@@ -1,6 +1,6 @@
+ ![](../assets/shared/chapter-arrow.png)
+ 
+-<!-- REVIEW COPY, 2026-11-18: author-requested restoration and local repairs; Alice/Bob proposed for review. Canon remains unchanged. Inherited references still require the final adoption audit. -->
++<!-- Canonical adoption, 2026-11-18: approved rung-8 reading copy, personal restorations, local repairs and Alice/Bob. Adoption record: work/volume-1-drafting/pair-08-review-2026-11-18/ADOPTION_NOTES.md. -->
+ 
+ <!-- AI-assisted: restored from Sam's earlier draft and new recollections; Sam's own lines kept wherever they survived; awaiting Sam's pass -->
+ 
+@@ -18,14 +18,10 @@
+ 
+ And so, with a U-Haul full of ambitions and my sports car hitched behind it like a dinghy behind a barge, I drove east across the top of the country (Washington, Idaho, Montana, the Dakotas, my old Wisconsin) and crossed into Canada at Buffalo, leaving behind one castle of markets and entering another built of laws, flags and immigration queues. I did not know it then, but I had just stepped into the domain of nations: humanity's largest, loudest and occasionally least cooperative systems.
+ 
+-## Crossing an Invisible Line
+-
+ Crossing that border felt like driving through an emotional customs checkpoint. The officer asked the usual questions: "Citizenship? Purpose of visit?" I wanted to answer honestly: "Unclear. Existential. Possibly permanent." Instead, I murmured something about work and family while the Stars and Stripes faded in the rear-view mirror like a flag lowered to half-mast.
+ 
+ That was the moment it hit me: a border isn't a line on a map. It's a line right through your identity.
+ 
+-## Bay Street Blues
+-
+ Toronto greeted me with glass towers, a north wind that questioned my life choices, and a faint smell of maple-flavored ambition. I took over my sister's basement in Pickering and rode the GO Train downtown, until one morning on the platform I literally froze my butt off, and my sports car's fat tires took to the snow like a figure skater on roller blades. So I moved downtown, within walking distance of Bay Street, Canada's polite imitation of Wall Street, where the traders still shouted, but only between apologies.
+ 
+ <!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->
+@@ -33,8 +29,6 @@
+ 
+ I kept telling myself this was temporary --- an American on sabbatical in a colder timezone. My heart still thumped to the rhythm of Puget Sound; my dreams still wore flannel and smelled faintly of Starbucks. But belonging, as it turns out, isn't bilingual.
+ <!-- End recovery, 2026-11-18. -->
+-
+-## The Year the Map Changed Hands
+ 
+ History itself seemed to be crossing borders that winter. Within weeks of my arrival, Portugal handed Macau back to China, the United States handed the Panama Canal to Panama, and on New Year's Eve, Boris Yeltsin handed Russia to Vladimir Putin, a man who preferred his borders crisp, sharp and freshly patrolled.[^v1-c8-handovers] Earlier that year, Canada had redrawn its own map, carving out Nunavut as a homeland for the Inuit.[^v1-c8-nunavut] Sovereignty, it seemed, was something you could hand over. I was still deciding whether I had any to hand.
+ 
+@@ -50,11 +44,11 @@
+ 
+ Chapter 5 found a society to be models that include each other, in bands near Dunbar's familiar, fuzzy scale of a hundred and fifty. A nation is the story that stretches the band to millions, as "A Band That Never Meets," below, describes. Like the economy, it runs on expectation; Renan, in this chapter's epigraph, called a nation's existence a daily plebiscite. Put the four questions to it.
+ 
+-*What is possible* for a person is decided, to a startling degree, by membership. A passport is a bundle of permitted futures: where you may live, work, vote and be protected. One economist estimated that the country a person lives in accounts for more than half of the variation in income in a worldwide comparison; and the same worker, with the same skills, can earn several times as much simply by moving across a border.[^v1-c8-membership] A nation also removes possibilities, which is what Hobbes, below, thought it was for. Over the centuries in which European states consolidated the business of violence, homicide rates fell from tens per hundred thousand people a year in the late Middle Ages to about one.[^v1-c8-homicide] The story opens futures for its members and closes some for everyone.
++*What is possible* for a person is decided, to a startling degree, by membership. A passport is a bundle of permitted futures: where you may live, work, vote and be protected. One economist estimated that the income level and distribution of the country a person lives in account for more than half of the variation in income in a worldwide comparison; and the same worker, with the same skills, can earn several times as much simply by moving across a border.[^v1-c8-membership] A nation also removes possibilities, which is what Hobbes, below, thought it was for. Over the centuries in which European states consolidated the business of violence, homicide rates fell from tens per hundred thousand people a year in the late Middle Ages to about one.[^v1-c8-homicide] The story opens futures for its members and closes some for everyone.
+ 
+ *What is cheap* is consent. A state can coerce people who refuse it; making every ordinary act depend on coercion is another matter. The United States has only a few police officers for every thousand people. Much of the work of keeping the law is done without an officer present. Fair procedures and a sense that authority is legitimate help explain that compliance, alongside habit, incentives and fear.[^v1-c8-tyler] That is Weber's legitimacy from Chapter 5, given its arithmetic. It is the cheapest glue a society has because the people it holds supply it.
+ 
+-*The sameness* is manufactured, as it was in the last two chapters, this time in people. The civic promise is to make citizens equal before the law and equivalent at the ballot box, one person, one vote, the way dollars were made interchangeable. To make that workable, nations also standardized their populations. In the 1860s, by France's own survey, roughly a quarter of its communes didn't speak French. Standard time zones, proposed by the Canadian engineer Sandford Fleming, were adopted by North America's railways in 1883, so that noon stopped being a local opinion. The philosopher Ernest Gellner argued that industry demanded it: a factory economy needs a mobile, literate, interchangeable workforce, and mass schooling in one language supplies it.[^v1-c8-standard] Chapter 6's sameness of parts required a sameness of people. The cost appears wherever a person refuses to fit.
++*The sameness* is manufactured, as it was in the last two chapters, this time in people. The civic promise is to make citizens equal before the law and equivalent at the ballot box, one person, one vote, the way dollars were made interchangeable. To make that workable, nations also standardized their populations. In 1863, by France's own survey, roughly a quarter of its communes didn't speak French. Standard time zones, proposed by the Canadian engineer Sandford Fleming, were adopted by North America's railways in 1883, so that noon stopped being a local opinion. The philosopher Ernest Gellner argued that industry demanded it: a factory economy needs a mobile, literate, interchangeable workforce, and mass schooling in one language supplies it.[^v1-c8-standard] Chapter 6's sameness of parts required a sameness of people. The cost appears wherever a person refuses to fit.
+ 
+ *The break* is the border, a frozen accident with measurable effects. A line with no river or ridge beneath it, drawn by treaty, can produce discontinuities in life on either side. In a well-known study using 1988 data, one economist found that two Canadian provinces traded about twenty times more with each other than a province did with an American state of the same size and distance. Later work substantially revised the estimate and its interpretation; the border still mattered.[^v1-c8-mccallum] Prices, accents and marriages bunch at the line the way magnetic domains meet at a wall. My "zee," below, gave me away three times in a single phone call.
+ 
+@@ -65,7 +59,7 @@
+ So the new answer. Chapter 4's person ran a model of itself. A nation is a society's model of itself, telling who "we" are, where "we" end and how "we" decide, written into law and drawn onto the ground. Its constitution, below, is the Ulysses contract of a people. And like a person's self-model, it can stay open to correction or close around itself, which is the business of this chapter's Alice and the next chapter's ideologies. On the ground floor, what was cheap became common. In biology, common was earned by copying; in a brain it arrived without happening; a person kept what never happened; a society made things real by expecting them; industry made the common cheap; an economy spent the future early. In a nation, a line that exists only on paper changes everything on either side of it.
+ <!-- End AI draft 2026-11-14. -->
+ 
+-<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->
++<!-- AI draft, 2026-11-18. Proposal approved by the author for canonical adoption. -->
+ ## Seeing Like a State
+ 
+ James C. Scott called this *Seeing Like a State*: to tax, conscript, educate and police a population, a state makes it legible through surnames, property maps, censuses and identity papers. A census is a nation's memory, compressed. But the compressed picture always throws something away, and the state's errors fall hardest on the people who don't fit its categories.[^v1-c8-scott]
+@@ -73,7 +67,7 @@
+ In this book's terms, a state is a classifier. It takes in the full, tangled reality of a person and outputs a label: citizen, resident, visitor, threat. Chapter 4 warned that a system checking its labels only against its own past labels closes its loop. A border is where that classifier meets you in person, at a booth, with the power to say no. What it owes the people it gets wrong is one question. Another is whether we have organized the categories around the wrong things.
+ <!-- End AI draft 2026-11-18. -->
+ 
+-<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->
++<!-- AI draft, 2026-11-18. Proposal approved by the author for canonical adoption. -->
+ ## Alice, Down the Rabbit Hole: Who Drew the Container?
+ 
+ *The twist, in one line: perhaps the boundary of a governing body should be something its work keeps discovering, rather than an inherited line to which every kind of work must conform.*
+@@ -103,7 +97,7 @@
+ 
+ Once borders became real, maps stopped being decorative and started being dangerous. At the Berlin Conference of 1884–1885, European powers set rules for their colonial claims in Africa without African representation. In 1916, British and French diplomats secretly carved up the Ottoman Empire's Arab lands in the Sykes–Picot Agreement, sowing instability that still sprouts on the evening news. In 1947, a line drawn in about five weeks by a British lawyer who had never visited India helped trigger one of the largest and bloodiest migrations in history.[^v1-c8-partition] These were not cartographic errors. They were moral shortcuts, committed with rulers and fountain pens.
+ 
+-Borders can be subtler than a checkpoint, too. When I moved to the suburbs east of Toronto, I phoned the phone company to set up a cell plan and gave the representative my "zip code," pronounced "zee." She laughed and said I didn't need to explain that I'd just moved from the United States: "You gave it away three times already." Same continent, same language, same brands in the strip mall. But a border all the same, enforced not just by customs officers but by tiny differences in vowels and expectations.
++Borders can be subtler than a checkpoint, too. When I moved to the suburbs east of Toronto, I phoned the phone company to set up a cell plan. I called my postal code a "zip code" and said "zee" for Z; she had also caught an American pronunciation in another word. When I told her I had just moved from the United States, she laughed: "You gave it away three times already." Same continent, same language, same brands in the strip mall. But a border all the same, enforced not just by customs officers but by tiny differences in vowels and expectations.
+ 
+ <!-- Recovery from pre-Fable canon, 2026-11-18. -->
+ We live with a paradox: borders are intellectually critiqued yet fiercely defended. I've met very few people who think their own border is a bad idea and many who hope their neighbor's is.
+@@ -146,7 +140,7 @@
+ Then there are the people who run the machine. Weber saw bureaucracy as the characteristic institution of the modern world: rules applied impersonally, by trained officials, through written files, efficient and predictable, and capable of hardening into an "iron cage."[^v1-c8-cage] A school of economists added an awkward observation: politicians and officials respond to incentives like everyone else, seeking reelection, budgets and influence, so government failures can be as systematic as the market failures Chapter 7 cataloged.[^v1-c8-publicchoice] Some of the most consequential moments in our lives are decided not by parliaments or presidents, but by an official with a stamp, a checklist and a little discretion. Governance is not only what a state says about itself in its constitution. It's how its agents behave when nobody is filming and everything is ambiguous.
+ 
+ 
+-<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->
++<!-- AI draft, 2026-11-18. Proposal approved by the author for canonical adoption. -->
+ Politics is both theatre and plumbing. The theatre is loud. The plumbing is decisive.
+ 
+ A veto can buy time to discover a mistake before it becomes law. It can also give a small, well-placed interest the power to keep a failing arrangement indefinitely. Capture occurs when the people a rule is meant to restrain acquire control over how it is written or enforced. Asking them to design the henhouse because they understand poultry so well is still asking the foxes. Deliberation and obstruction both take time; the difference is whether the delay permits a better decision or prevents any correction. Making everything faster would erase that distinction along with the delay.
+@@ -176,7 +170,7 @@
+ 
+ ## New Machinery for Old Promises
+ 
+-Meanwhile, some places have been quietly redesigning how governance works. Estonia, a small country rebuilding itself after the Soviet collapse, decided to build its state in software. In 2001 it launched a secure data-exchange layer, X-Road, that lets government databases talk to each other, so citizens provide any piece of information only once; it gave every resident a digital identity; and today nearly every public service, from filing taxes to voting, can be done online.[^v1-c8-estonia] In 2014 it began offering "e-residency" to people anywhere in the world, access to digital business services without living in the country, not citizenship or a right to reside there. A state, it turns out, can be rebuilt as a platform, with all the gains and the new vulnerabilities that implies.
++Meanwhile, some places have been quietly redesigning how governance works. Estonia, a small country rebuilding itself after the Soviet collapse, decided to build its state in software. In 2001 it launched a secure data-exchange layer, X-Road, that lets government databases talk to each other, helping the state reuse information rather than ask citizens for it again; it introduced a national digital identity card; and today nearly every public service, from filing taxes to voting, can be done online.[^v1-c8-estonia] In 2014 it began offering "e-residency" to people anywhere in the world, access to digital business services without living in the country, not citizenship or a right to reside there. A state, it turns out, can be rebuilt as a platform, with all the gains and the new vulnerabilities that implies.
+ 
+ Other experiments target democracy's decision-making itself. In 2004, the province of British Columbia randomly selected 160 ordinary citizens, gave them months of study and asked them to recommend a new electoral system; it was one of the first citizens' assemblies of the modern era.[^v1-c8-bcassembly] Ireland later used citizens' assemblies to break deadlocks on same-sex marriage and abortion, which were then decided by referendum. In Taiwan, the civic technologist Audrey Tang, who became the country's first digital minister, helped build processes in which tens of thousands of people debate policy online through tools designed to surface consensus rather than amplify division, by showing participants the statements that people on opposing sides could both agree with.[^v1-c8-taiwan] The lesson running through these experiments is the one Interlude 5 drew for societies of agents: civics alongside control. Representative institutions stay, but citizens are brought back in, through random selection, deliberation and tools that reward bridging rather than shouting.
+ 
+@@ -267,11 +261,11 @@
+ 
+ [^v1-c8-renan]: Ernest Renan, ["Qu'est-ce qu'une nation?"](https://mjp.univ-perp.fr/textes/renan1882.htm), lecture at the Sorbonne, 11 March 1882: "L'existence d'une nation est ... un plébiscite de tous les jours." The epigraph is a close English rendering of this clause.
+ 
+-[^v1-c8-nunavut]: Nunavut was created on 1 April 1999 under the Nunavut Act (1993).
+-
+-[^v1-c8-handovers]: Macau was transferred from Portugal to China on 20 December 1999; the Panama Canal was transferred to Panama at noon on 31 December 1999 under the Torrijos–Carter Treaties (1977); Boris Yeltsin announced his resignation on 31 December 1999, naming Vladimir Putin acting president.
+-
+-[^v1-c8-scott]: James C. Scott, [*Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*](https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/) (first published 1998), chapters 1–2, on state simplifications and legibility. The forest case is reserved for Volume II in this revision.
++[^v1-c8-nunavut]: Nunavut was created on 1 April 1999 under the Nunavut Act (1993). See the [Nunavut Legislative Assembly’s account](https://www.assembly.nu.ca/faq/how-was-nunavut-created).
++
++[^v1-c8-handovers]: Macau was transferred from Portugal to China on 20 December 1999, the date specified in the [Macao Basic Law](https://www.wipo.int/wipolex/en/legislation/details/13124). The Panama Canal was transferred at noon on 31 December 1999 under the Torrijos–Carter Treaties (1977); see the [contemporary U.S. State Department account](https://1997-2001.state.gov/regions/wha/panama/991206_faqs.html). Boris Yeltsin resigned on 31 December 1999, handing the acting presidency to Vladimir Putin; see [NATO’s contemporary record](https://www.nato.int/en/news-and-events/articles/news/1999/12/31/boris-yeltsin-announces-his-resignation-as-president-of-russia).
++
++[^v1-c8-scott]: James C. Scott, [*Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*](https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/) (first published 1998), chapters 1–2, on state simplifications and legibility. The comparison concerns the state's selective administrative picture of society.
+ 
+ [^v1-c8-westphalia]: The Peace of Westphalia (treaties of Osnabrück and Münster, 1648). Historians debate how much of "Westphalian sovereignty" the treaties themselves established; the term is partly a later construction.
+ 
+@@ -303,7 +297,7 @@
+ 
+ [^v1-c8-corridor]: Daron Acemoglu and James A. Robinson, *The Narrow Corridor: States, Societies, and the Fate of Liberty* (2019).
+ 
+-[^v1-c8-vdem]: V-Dem Institute, *Democracy Report* (annual); check the latest figures before print.
++[^v1-c8-vdem]: V-Dem Institute, [*Democracy Report 2026*](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf), reporting trends through 2025. The report distinguishes autocratization processes from regime classifications; the text refers to those processes, not merely the count of countries labelled autocracies.
+ 
+ [^v1-c8-ziblatt]: Steven Levitsky and Daniel Ziblatt, *How Democracies Die* (2018).
+ 
+@@ -329,17 +323,17 @@
+ 
+ [^v1-c8-r2p]: International Commission on Intervention and State Sovereignty, *The Responsibility to Protect* (2001), sponsored by the Government of Canada; endorsed in the 2005 World Summit Outcome document, paragraphs 138–139.
+ 
+-[^v1-c8-membership]: Branko Milanovic, "Global Inequality of Opportunity: How Much of Our Income Is Determined by Where We Live?," *Review of Economics and Statistics* 97 (2015): 452–460; Michael A. Clemens, Claudio E. Montenegro and Lant Pritchett, "The Place Premium: Bounding the Price Equivalent of Migration Barriers," *Review of Economics and Statistics* 101 (2019): 201–213. The wage ratio for the same worker varies widely by country of origin. (AI-added, from memory; to be verified.)
+-
+-[^v1-c8-homicide]: Manuel Eisner, "Long-Term Historical Trends in Violent Crime," *Crime and Justice* 30 (2003): 83–142. The causes are debated; state consolidation and the monopoly on force are among the leading explanations, alongside Norbert Elias's "civilizing process" and changes in honor cultures and economic life. (AI-added, from memory; to be verified.)
+-
+-[^v1-c8-tyler]: Tom R. Tyler, *Why People Obey the Law* (Yale University Press, 1990). U.S. police staffing of roughly two to three sworn officers per thousand residents is from FBI data and varies by year and place. (AI-added, from memory; to be verified.)
+-
+-[^v1-c8-standard]: On the French language survey of the 1860s, see Eugen Weber, *Peasants into Frenchmen*, cited below. North American railways adopted standard time on 18 November 1883, following proposals by Sandford Fleming and others; see Clark Blaise, *Time Lord* (2000). Ernest Gellner, *Nations and Nationalism* (Blackwell, 1983), on industrial society's need for a standardized, literate culture. (AI-added, from memory; to be verified.)
+-
+-[^v1-c8-mccallum]: John McCallum, "National Borders Matter: Canada–U.S. Regional Trade Patterns," *American Economic Review* 85 (1995): 615–623, using 1988 data; James E. Anderson and Eric van Wincoop, "Gravity with Gravitas: A Solution to the Border Puzzle," *American Economic Review* 93 (2003): 170–192, which substantially reduced the estimate. On prices, Charles Engel and John H. Rogers, "How Wide Is the Border?," *American Economic Review* 86 (1996): 1112–1125. (AI-added, from memory; to be verified.)
+-
+-[^v1-c8-kuran]: Timur Kuran, "Now Out of Never: The Element of Surprise in the East European Revolution of 1989," *World Politics* 44 (1991): 7–48; *Private Truths, Public Lies: The Social Consequences of Preference Falsification* (Harvard University Press, 1995). (AI-added, from memory; to be verified.)
++[^v1-c8-membership]: Branko Milanovic, ["Global Inequality of Opportunity: How Much of Our Income Is Determined by Where We Live?"](https://stonecenter.gc.cuny.edu/publications/global-inequality-of-opportunity-how-much-of-our-income-is-determined-by-where-we-live/), *Review of Economics and Statistics* 97 (2015): 452–460. The model uses country mean income and inequality and observations grouped into national income percentiles; it is not a causal estimate of passport ownership. Michael A. Clemens, Claudio E. Montenegro and Lant Pritchett, ["The Place Premium: Bounding the Price Equivalent of Migration Barriers"](https://ora.ox.ac.uk/objects/uuid%3A26ddd12b-4dab-4fee-ac2a-1e1d5c3b31a1), *Review of Economics and Statistics* 101 (2019): 201–213, estimates wage gaps after accounting for observed characteristics and bounding selection effects. The wage ratio varies widely by country of origin.
++
++[^v1-c8-homicide]: Manuel Eisner, ["Long-Term Historical Trends in Violent Crime"](https://doi.org/10.1086/652229), *Crime and Justice* 30 (2003): 83–142. The long decline differs across European regions; its causes remain debated. State consolidation is one explanation alongside changes in self-control, religion, honor cultures and social life, not a demonstrated single cause.
++
++[^v1-c8-tyler]: Tom R. Tyler, *Why People Obey the Law* (1990; Princeton edition, 2006), especially the [afterword on procedural justice and legitimacy](https://assets.press.princeton.edu/chapters/p8230.pdf). For staffing scale, the U.S. Bureau of Justice Statistics, [*Full-Time Employees in Law Enforcement Agencies, 1997–2016*](https://bjs.ojp.gov/library/publications/full-time-employees-law-enforcement-agencies-1997-2016), reports 2.17 full-time sworn officers per thousand residents in general-purpose agencies in 2016. Rates vary by agency, locality and year.
++
++[^v1-c8-standard]: Eugen Weber, *Peasants into Frenchmen* (1976), p. 67, reports the 1863 survey figure: 8,381 of 37,510 communes, about 22 percent. North American railways adopted standard time on 18 November 1883; Fleming was a prominent advocate, and railway official William F. Allen helped organize its implementation. See the [Smithsonian’s history of Standard Railway Time](https://americanhistory.si.edu/ontime/synchronizing/zones.html) and Clark Blaise, *Time Lord* (2000). Ernest Gellner, *Nations and Nationalism* (Blackwell, 1983), chapter 3, connects industrial society to standardized education and culture.
++
++[^v1-c8-mccallum]: John McCallum, "National Borders Matter: Canada–U.S. Regional Trade Patterns," *American Economic Review* 85 (1995): 615–623, using 1988 data. The estimated ratio was about 22 after controls, rounded to twenty in the text and schematic. James E. Anderson and Eric van Wincoop, ["Gravity with Gravitas: A Solution to the Border Puzzle"](https://doi.org/10.1257/000282803321455214), *American Economic Review* 93 (2003): 170–192, models multilateral trade resistance and revises the interpretation and magnitude. On prices, Charles Engel and John H. Rogers, "How Wide Is the Border?," *American Economic Review* 86 (1996): 1112–1125. The figure is not a universal jump in every social measure at a border.
++
++[^v1-c8-kuran]: Timur Kuran, ["Now Out of Never: The Element of Surprise in the East European Revolution of 1989"](https://doi.org/10.2307/2010422), *World Politics* 44 (1991): 7–48; *Private Truths, Public Lies: The Social Consequences of Preference Falsification* (1995). Public and private preferences can diverge, concealing the potential for a cascade of opposition.
+ 
+ [^v1-c8-carroll]: Lewis Carroll, *Alice's Adventures in Wonderland* (1865), chapter V, "Advice from a Caterpillar": the Pigeon treats Alice's admission that girls eat eggs as evidence that girls are serpents. [Primary text](https://www.gutenberg.org/ebooks/11).
+ 

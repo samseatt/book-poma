@@ -1,0 +1,534 @@
+[
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore the personal work/temporary-exile beat; avoid suggesting finance was still wholly on paper.",
+    "before": "Toronto greeted me with glass towers, a north wind that questioned my life choices, and a faint smell of maple-flavored ambition. I took over my sister's basement in Pickering and rode the GO Train downtown, until one morning on the platform I literally froze my butt off, and my sports car's fat tires took to the snow like a figure skater on roller blades. So I moved downtown, within walking distance of Bay Street, Canada's polite imitation of Wall Street, where the traders still shouted, but only between apologies.",
+    "after": "Toronto greeted me with glass towers, a north wind that questioned my life choices, and a faint smell of maple-flavored ambition. I took over my sister's basement in Pickering and rode the GO Train downtown, until one morning on the platform I literally froze my butt off, and my sports car's fat tires took to the snow like a figure skater on roller blades. So I moved downtown, within walking distance of Bay Street, Canada's polite imitation of Wall Street, where the traders still shouted, but only between apologies.\n\n<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\nMy job now was to help markets and banks bring their systems onto the web. It was familiar work, just translated into Canadian English, Canadian French, and Canadian fiscal caution.\n\nI kept telling myself this was temporary --- an American on sabbatical in a colder timezone. My heart still thumped to the rhythm of Puget Sound; my dreams still wore flannel and smelled faintly of Starbucks. But belonging, as it turns out, isn't bilingual.\n<!-- End recovery, 2026-11-18. -->"
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore the deployment metaphor and anticipated duration, with only syntactic repair.",
+    "before": "History itself seemed to be crossing borders that winter. Within weeks of my arrival, Portugal handed Macau back to China, the United States handed the Panama Canal to Panama, and on New Year's Eve, Boris Yeltsin handed Russia to Vladimir Putin, a man who preferred his borders crisp, sharp and freshly patrolled.[^v1-c8-handovers] Earlier that year, Canada had redrawn its own map, carving out Nunavut as a homeland for the Inuit.[^v1-c8-nunavut] Sovereignty, it seemed, was something you could hand over. I was still deciding whether I had any to hand.",
+    "after": "History itself seemed to be crossing borders that winter. Within weeks of my arrival, Portugal handed Macau back to China, the United States handed the Panama Canal to Panama, and on New Year's Eve, Boris Yeltsin handed Russia to Vladimir Putin, a man who preferred his borders crisp, sharp and freshly patrolled.[^v1-c8-handovers] Earlier that year, Canada had redrawn its own map, carving out Nunavut as a homeland for the Inuit.[^v1-c8-nunavut] Sovereignty, it seemed, was something you could hand over. I was still deciding whether I had any to hand.\n\n<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\nMeanwhile, I was in the middle of my own blue-green deployment between the U.S. and Canada. Canada was expected to be a canary deployment --- a short reprieve for a year and a bit more.\n<!-- End recovery, 2026-11-18. -->"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Verified ceremonial date; no claim of causation.",
+    "before": "\"What Is a Nation?\" (1882)",
+    "after": "\"What Is a Nation?\" (March 11, 1882)"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Keep the useful scale without a hard optimum.",
+    "before": "in bands that work best near the scale of Dunbar's hundred and fifty",
+    "after": "in bands near Dunbar's familiar, fuzzy scale of a hundred and fifty"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "The country estimate does not establish the added education/effort comparison.",
+    "before": "more than half of the variation in income across the world's population, more than education or effort",
+    "after": "more than half of the variation in income in a worldwide comparison"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Temporal association is not a single-cause explanation.",
+    "before": "As European states took over the business of violence, homicide rates fell",
+    "after": "Over the centuries in which European states consolidated the business of violence, homicide rates fell"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Preserve cheap coordination while separating compliance from consent and avoiding an unsupported survey majority.",
+    "before": "*What is cheap* is consent. A state can't coerce a population that refuses it. The United States has two or three police officers for every thousand people, enough to enforce the law against the few only because the many keep it of their own accord; and when people are asked why they comply, most point to the authority's legitimacy and the fairness of its procedures, not to fear of the penalty.[^v1-c8-tyler] That is Weber's legitimacy from Chapter 5, given its arithmetic. It is the cheapest glue a society has because the people it holds supply it.",
+    "after": "*What is cheap* is consent. A state can coerce people who refuse it; making every ordinary act depend on coercion is another matter. The United States has only a few police officers for every thousand people. Much of the work of keeping the law is done without an officer present. Fair procedures and a sense that authority is legitimate help explain that compliance, alongside habit, incentives and fear.[^v1-c8-tyler] That is Weber's legitimacy from Chapter 5, given its arithmetic. It is the cheapest glue a society has because the people it holds supply it."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Equality is a constitutional aspiration, not a description of every state.",
+    "before": "Citizens are made equal before the law and equivalent at the ballot box, one person, one vote,",
+    "after": "The civic promise is to make citizens equal before the law and equivalent at the ballot box, one person, one vote,"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Repair the forward link after moving Scott into the main seam.",
+    "before": "Alice, next, follows what that costs.",
+    "after": "The cost appears wherever a person refuses to fit."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Avoid claiming a universal physical step.",
+    "before": "produces a discontinuity in nearly everything on either side.",
+    "after": "can produce discontinuities in life on either side."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Structural-gravity correction was more than a numerical trim.",
+    "before": "Later work trimmed the number, but not the fact.",
+    "after": "Later work substantially revised the estimate and its interpretation; the border still mattered."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Regime support is not the continued existence of a nation.",
+    "before": "And a nation, like a bank, can be withdrawn.",
+    "after": "And confidence in a regime, like deposits in a bank, can be withdrawn."
+  },
+  {
+    "unit": "c",
+    "kind": "D",
+    "reason": "Author-requested new Alice; Scott becomes a short main-seam seed, forest account reserved for Volume II. Novel direction remains a review proposal.",
+    "before": "## Alice, Down the Rabbit Hole: Seeing Like a State\n\n*The twist, in one line: a state can govern only what it can see, it sees by simplifying people into categories, and its errors fall hardest on the people its categories don't fit.*\n\nIn 1998, the political scientist James Scott published a book with an unforgettable opening. In the eighteenth century, Prussian and Saxon foresters, wanting to calculate the timber their forests could yield, reimagined the forest as a set of countable trees. Then they replanted it to match the count: straight rows of a single species, the undergrowth cleared, everything that didn't produce timber removed. The first generation of these \"scientific forests\" was a triumph. The second generation sickened and died, because the life the foresters had cleared away (the fungi, the insects, the tangle of species) had been what kept the forest alive.[^v1-c8-scott]\n\nScott's argument was that states do the same to people. To tax, conscript, educate and police a population, a state must first make it *legible*: it invents permanent surnames, standard measures, property maps, censuses, identity documents and passports, and then acts on the simplified picture as if it were the world. Legibility is not wicked; it's how a state of millions functions at all, the same compression Chapter 7 found in a price. A census is a nation's memory, compressed. But the compressed picture always throws something away, and the state's errors fall hardest on the people who don't fit its categories.\n\nIn this book's terms, a state is a classifier. It takes in the full, tangled reality of a person and outputs a label: citizen, resident, visitor, threat. Chapter 4 warned that every classifier lives on a threshold between accepting the center too quickly and debating the surround forever, and that a system checking its labels only against its own past labels closes its loop. Interlude 4 found machines trained on our approval doing the same. A border is where that classifier meets you in person, at a booth, under fluorescent light, with the power to say no. Most of the time, the classifier is right about the pattern. The question this chapter keeps circling is what it owes the people it's wrong about.\n\n",
+    "after": "<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->\n## Seeing Like a State\n\nJames C. Scott called this *Seeing Like a State*: to tax, conscript, educate and police a population, a state makes it legible through surnames, property maps, censuses and identity papers. A census is a nation's memory, compressed. But the compressed picture always throws something away, and the state's errors fall hardest on the people who don't fit its categories.[^v1-c8-scott]\n\nIn this book's terms, a state is a classifier. It takes in the full, tangled reality of a person and outputs a label: citizen, resident, visitor, threat. Chapter 4 warned that a system checking its labels only against its own past labels closes its loop. A border is where that classifier meets you in person, at a booth, with the power to say no. What it owes the people it gets wrong is one question. Another is whether we have organized the categories around the wrong things.\n<!-- End AI draft 2026-11-18. -->\n\n<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->\n## Alice, Down the Rabbit Hole: Who Drew the Container?\n\n*The twist, in one line: perhaps the boundary of a governing body should be something its work keeps discovering, rather than an inherited line to which every kind of work must conform.*\n\nAlice's neck grows until a Pigeon takes her for a serpent. Her explanation that little girls eat eggs does not rescue her; it enlarges the Pigeon's definition of serpent. A classification system can be remarkably adaptable when defending itself.[^v1-c8-carroll]\n\nI will meet a version of that classifier at the border later in this chapter. But suppose the trouble begins before the officer, or even the form. We hand a nation one outline and ask it to contain a culture, an economy, a security system and a living piece of the planet. Then we spend centuries negotiating with everything that fails to stay inside. Perhaps part of what we call governing is the overhead of maintaining the wrong container.\n\nThe earlier rungs suggest a less obedient arrangement. A cell maintains a boundary while exchanging materials and signals across it. In a body, circulation, immune signaling and nerves coordinate different work through the same tissues. Our microbial companions make the picture stranger still: organisms with their own lineages participate in processes our bodies depend on. The organization is real, but its useful relations do not reduce to a single test of which DNA owns the address. Cooperation and conflict both live there; a microbiome has never signed a human-rights charter.[^v1-c8-living-boundaries]\n\nWhat interests me is the way a consequence recruits a relation. Water supply might bind one set of communities; caring for an aging population, another. A language, a profession and the effects of an industrial process each draw different, overlapping shapes. These are natural relations in the sense of arising from the work and its consequences, not a plan to redraw every country along a mountain range. Nor should one relation swallow the others. A factory's gain can be a family's loss and a river's burden at the same time. No one of those accounts gets to declare itself the whole.\n\nMultiple centers of government and overlapping jurisdictions already exist. Nations themselves emerged through bargains, migrations and conquest; they were never merely somebody's diagram.[^v1-c8-polycentric] The wager I want to pursue is whether governance could make its own boundaries revisable in response to what it learns. People would retain several kinds of belonging. Authority for a particular task would form around the relationships that task actually crosses, and would have to change when its consequences reached people it had left out. An exception could then be evidence against the container, rather than another applicant required to explain herself.\n\nThat is more demanding than decentralization. A hundred small tyrants can self-organize quite efficiently. We would need a way for people to contest the shape of a governing body without losing the rights it owes them, and for those carrying its costs to gain standing even when they cannot afford membership. Nor can every disagreement redraw the map. Some commitments need to survive the rearrangement. The hard problem is how to keep the arrangement capable of learning without making a person's protection contingent on its latest lesson.\n\nI would like to find out whether such an organization could carry complexity more naturally, the way differentiated living systems coordinate without making every part negotiate every other part's work from scratch. This is an invitation to look for a mechanism, not a claim that biology has already solved politics. Its test would be whether a change in one place can be absorbed without exporting the burden to somebody left outside the count. Volume II will examine why our present arrangements so often fail that test; Volume III can try to give the alternative something to stand on. First, though, I would like the Pigeon to admit that the classification problem may not be entirely in my neck.\n<!-- End AI draft 2026-11-18. -->\n\n"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Avoid denying ancient demarcated borders.",
+    "before": "Empires didn't really have borders; they had frontiers, zones",
+    "after": "Empires often governed through frontiers, zones"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Retain operating-system metaphor while repairing the Westphalian origin myth.",
+    "before": "The idea that a ruler's authority should be confined to a defined territory, and supreme within it, is surprisingly recent. In the European story, the turning point is the Peace of Westphalia in 1648, which ended the Thirty Years' War and, in the process, installed a new operating system for political space: each state sovereign within its territory, others forbidden to interfere in its internal affairs (in principle; practice was on back-order), and borders treated as sacred.[^v1-c8-westphalia] From that logic flowed much of what we now treat as inevitable: the passport, the distinction between foreign and domestic, and the peculiar idea that land acquires moral value simply by being labeled \"ours.\"",
+    "after": "The familiar European story gives this political space a birthday: the Peace of Westphalia in 1648, which ended the Thirty Years' War. Later generations made it the emblem of an operating system in which each state is sovereign within its territory and others must not interfere (in principle; practice was on back-order). The treaties themselves did not install that whole system at once.[^v1-c8-westphalia] Its developing logic helped sharpen distinctions we now treat as inevitable: foreign and domestic, citizen and outsider, and the peculiar idea that land acquires moral value simply by being labeled \"ours.\""
+  },
+  {
+    "unit": "c",
+    "kind": "A",
+    "reason": "The conference did not draw the entire partition map in one meeting.",
+    "before": "At the Berlin Conference of 1884, European powers divided Africa among themselves with almost no African input.",
+    "after": "At the Berlin Conference of 1884–1885, European powers set rules for their colonial claims in Africa without African representation."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Avoid reintroducing the repaired chronology.",
+    "before": "*Territory*: Westphalia's line.",
+    "after": "*Territory*: the line within which the claim holds."
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore critical argument and personal comparison; compress list formatting, not the named political edge.",
+    "before": "## The Operating System of the State",
+    "after": "<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\n## Nationalism in the Twenty-First Century\n\nIf the twentieth century gave us the most flamboyant monsters of nationalism --- fascist states, imperial militarism, and post-colonial regimes where nationalism became a mask for dictatorship --- the early twenty-first gave us something subtler and, in some ways, more pervasive: **anxious nationalism**.\n\nMany believed, briefly, that globalization had dissolved old loyalties. McDonald's and the internet seemed to promise that everybody would eventually eat the same fries under the same Wi-Fi. Instead, as migration, economic insecurity, pandemics and climate disruption crossed borders, and cultural change outpaced many people's sense of stability, nationalism returned --- now armed with talk radio, cable news, and social media.\n\nLeaders from Trump to Modi to Orbán have experimented with a familiar formula: tighten the definition of \"real\" citizens, treat outsiders and critics as threats, and promise national renewal by shrinking who qualifies as \"us.\"[^v1-c8-nationalism] This is nationalism as **policing the nation's essence** --- its race, religion, language, or lifestyle --- with growing ferocity.\n\nFor me, stepping from the U.S. into Canada meant more than swapping \"zip code\" for \"postal code\" and \"zee\" for \"zed.\" It meant moving from a country that often defines itself by **exceptionalism**, to one many citizens half-jokingly define as **\"not-America.\"**\n\nOn the surface, daily life didn't feel that different: same coffee chains, same spreadsheets, same software meeting the same deadlines. But under the surface, the **civic stories** diverged --- different notions of fairness, healthcare, guns, government, what counts as a scandal and what counts as Tuesday.\n\nCitizenship, I realized, is less like joining a club and more like **installing a political firmware update**. It decides how your rights are structured, what your obligations look like, and which injustices you're expected to accept as \"just the way things are.\"\n<!-- End recovery, 2026-11-18. -->\n\n## The Operating System of the State"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "State the scope of Arrow rather than excluding all conceivable voting methods.",
+    "before": "no voting system for three or more options can satisfy a short list of reasonable fairness conditions all at once.",
+    "after": "no rule that turns individual rankings of three or more options into a consistent social ranking can satisfy his full set of fairness conditions for every possible set of preferences."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "District-level mechanism; regional parties explain national differences.",
+    "before": "tend to squeeze countries into two large parties.",
+    "after": "tend to squeeze competition toward two leading candidates within each district."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Prize awarded for a research program, not one settled exclusive answer.",
+    "before": "who shared the 2024 Nobel Prize for their answer, argued that the decisive factor is institutions.",
+    "after": "who shared the 2024 economics Nobel for their work on institutions, argued that institutions are decisive."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Theory and tendency, not a guarantee.",
+    "before": "produce lasting prosperity. *Extractive*",
+    "after": "favor broad, durable prosperity. *Extractive*"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Extractive institutions can produce growth; their argument concerns broad sustained development.",
+    "before": "produce stagnation, however rich the land.",
+    "after": "can produce growth while making its gains fragile and narrowly held."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "An illustration is not a controlled identical-population experiment.",
+    "before": "with the same people, the same climate and the same culture,",
+    "after": "with closely related populations, shared climate and cultural ties,"
+  },
+  {
+    "unit": "c",
+    "kind": "D",
+    "reason": "Approved reader-value addition, recovering theatre/plumbing and capture jokes with a mechanism.",
+    "before": "## A Band That Never Meets",
+    "after": "<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->\nPolitics is both theatre and plumbing. The theatre is loud. The plumbing is decisive.\n\nA veto can buy time to discover a mistake before it becomes law. It can also give a small, well-placed interest the power to keep a failing arrangement indefinitely. Capture occurs when the people a rule is meant to restrain acquire control over how it is written or enforced. Asking them to design the henhouse because they understand poultry so well is still asking the foxes. Deliberation and obstruction both take time; the difference is whether the delay permits a better decision or prevents any correction. Making everything faster would erase that distinction along with the delay.\n<!-- End AI draft 2026-11-18. -->\n\n## A Band That Never Meets"
+  },
+  {
+    "unit": "c",
+    "kind": "A",
+    "reason": "Correct legal scope of e-residency.",
+    "before": "a digital membership in a nation without living in it.",
+    "after": "access to digital business services without living in the country, not citizenship or a right to reside there."
+  },
+  {
+    "unit": "c",
+    "kind": "A",
+    "reason": "No automatic loss of sovereignty or unilateral intervention license under R2P.",
+    "before": "a state that fails to protect its people from atrocity forfeits its immunity from outside action.",
+    "after": "a state must protect its people from genocide, war crimes, ethnic cleansing and crimes against humanity; when it manifestly fails, collective action may be warranted through the United Nations, under the Charter."
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Distinguish 2001 commission proposal from 2005 endorsement.",
+    "before": "It was adopted by the UN in 2005,",
+    "after": "That core responsibility was endorsed by the UN in 2005,"
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore surveillance joke and its self-implicating context.",
+    "before": "After September 11, the gaze sharpened everywhere. You stopped being only a person at a border and became a risk score flowing through a database. Long before \"machine learning\" became a buzzword, governments were feeding oceans of data into pattern-recognition systems, hoping the next attacker would flicker into view before acting. Some of it worked. But the cost was that everyone, all the time, became a potential misclassification away from trouble, and the burden of proof migrated from the state to the citizen, and then from the citizen to their metadata. Scott's legibility had found its ultimate instrument.",
+    "after": "After September 11, the gaze sharpened everywhere. You stopped being only a person at a border and became a risk score flowing through a database. Long before \"machine learning\" became a buzzword, governments were feeding oceans of data into pattern-recognition systems, hoping the next attacker would flicker into view before acting. Some of it worked. But the cost was that everyone, all the time, became a potential misclassification away from trouble, and the burden of proof migrated from the state to the citizen, and then from the citizen to their metadata. Scott's legibility had found its ultimate instrument.\n\n<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\nThe strangest part? We helped build the cage. We carry tracking beacons called phones, tag our own faces in photos, and voluntarily upload our social graphs, location histories, and reading habits.\n\nThe Cold War feared microphones hidden in lamps. The twenty-first century buys them on sale every November and asks whether they're compatible with the smart doorbell.\n\nSomewhere in that shift, the idea of \"belonging to a country\" picked up an add-on clause: *Subject to automated review.*\n<!-- End recovery, 2026-11-18. -->"
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore critical patriotism and plural loyalties, retaining pointed language.",
+    "before": "Nations depend on that balance. Too little exit, and a state can ignore its people, as the Soviet bloc did behind its walls. Too much exit, and the people most able to fix a country leave it, taking their voice with them. Hirschman's framework also describes my own story better than any theory of nationalism. For years I'd had no loyalty to spend, because no nation had claimed me. I had used exit more than once. What I was looking for, without having the words, was a country worth having a voice in.",
+    "after": "Nations depend on that balance. Too little exit, and a state can ignore its people, as the Soviet bloc did behind its walls. Too much exit, and the people most able to fix a country leave it, taking their voice with them. Hirschman's framework also describes my own story better than any theory of nationalism. For years I'd had no loyalty to spend, because no nation had claimed me. I had used exit more than once. What I was looking for, without having the words, was a country worth having a voice in.\n\n<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\nAt its best, patriotism is affection scaled up: responsibility to people you will never meet, a willingness to pay taxes for schools you won't attend, roads you won't drive, forests you'll never hike. At its worst, it becomes xenophobia with better graphic design. A person can love a country and loathe its government; hold a passport yet feel more at home in a diaspora; care more about human rights or climate than about keeping one flag on top.\n\nEvery person with layered ties --- ethnic, religious, ideological, professional --- finds themselves juggling multiple \"we\"s: the nation of their passport, the nation of their parents, the global causes they care about, the digital tribes they roam with online. Which \"we\" is allowed to speak when the anthem plays? Which \"we\" gets to dissent? Which \"we\" gets investigated?\n\nStates tend to prefer single answers. Humans rarely come in that format.\n<!-- End recovery, 2026-11-18. -->"
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore personal closing joke.",
+    "before": "I said \"please.\" They said \"thank you.\"",
+    "after": "I said \"please.\" They said \"thank you.\"\n\n<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\nCanada has a way of making even nationality feel like customer service.\n<!-- End recovery, 2026-11-18. -->"
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore registry keys.",
+    "before": "car registration, car loan, bank accounts, and, underneath it all, a real human life.",
+    "after": "car registration, car loan, bank accounts, *HKEY_CLASSES_ROOT*, *HKEY_CURRENT_USER*, etc., etc., and, underneath it all, a real human life."
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore duration explicitly supplied in old canon; no new memoir detail.",
+    "before": "They questioned me not out of malice but out of statistical habit.",
+    "after": "They questioned me for hours, not out of malice but out of statistical habit."
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore personal punch line.",
+    "before": "like a misfiled book returned to the proper shelf.",
+    "after": "like a misfiled book returned to the proper shelf. I wasn't a threat; I was a clerical anomaly. Yet again."
+  },
+  {
+    "unit": "c",
+    "kind": "C",
+    "reason": "Restore autobiographical backward link.",
+    "before": "By the time I was back in Toronto, something in me had shifted. It wasn't geographic; I was still living in the same apartment I'd been in for sixteen months. It was civic. That day, in my own mind, I handed the United States my resignation. Canada wasn't just where I lived; it was where I belonged. Not because it was perfect, but because the border had taught me something: sometimes you choose a nation, and sometimes a nation quietly chooses you back. I had found a country that measured people by points instead of paranoia, and I knew which flag I'd stand under when the wind blew hard.",
+    "after": "By the time I was back in Toronto, something in me had shifted. It wasn't geographic; I was still living in the same apartment I'd been in for sixteen months. It was civic. That day, in my own mind, I handed the United States my resignation. Canada wasn't just where I lived; it was where I belonged. Not because it was perfect, but because the border had taught me something: sometimes you choose a nation, and sometimes a nation quietly chooses you back. I had spent my twenties fleeing ideological absolutism, dodging doctrinal minefields, and trying to outrun patterns that wanted to define me. Now I had found a country that measured people by points instead of paranoia, and I knew which flag I'd stand under when the wind blew hard."
+  },
+  {
+    "unit": "c",
+    "kind": "A",
+    "reason": "Approved minimal factual repair to closing transition; retain its direction.",
+    "before": "Machines crossed borders long before people did,",
+    "after": "Machines carry our work across borders that can still stop their owners,"
+  },
+  {
+    "unit": "i",
+    "kind": "C",
+    "reason": "Restore whole canonical opening, softball emphasis and captain email; retain supplied workplace recollections, reduce PATH to a minor aside.",
+    "before": "Toronto had a way of reminding me that capitalism doesn't sleep; it simply changes outfits. By day I wrote code for trading systems: software that moved money so quickly it often outran ethics, pausing only long enough to adjust its tie. By night I lived across University Avenue, where traders loosened those same ties, ordered pitchers and recited P&L numbers like slam poetry.\n\nOur little fintech outfit on Bay Street was the sort of place where people checked stock tickers more often than clocks, partly to gauge the markets, mostly to admire how sharp they looked on the new PalmPilot. We built applications for bonds and stock portfolios that ran not only on desktops but on those handhelds, PalmPilots and Jornadas, which traders carried like holsters. The stack was Microsoft's from top to bottom, as it was across most of Bay Street: web pages built in Active Server Pages and VBScript, business logic in C++ components, and SQL Server keeping the numbers. We wrote software for people whose job titles sounded like weather alerts: Bond Strategist, Risk Architect, Liquidity Analyst. Their entire worldview was denominated in basis points, which are just percentages wearing tuxedos.\n\nDowntown Toronto has a second city underneath it. In winter, you can walk from one office tower to the next for kilometers without ever seeing the sky, through a network of tunnels and concourses called the PATH, lined with food courts, shoe-shine stands and bankers walking briskly to somewhere important. Every tower plugs into it. Nobody designed it all at once; it grew, tower by tower, each new building agreeing to connect to the ones beside it. I loved it. It was a framework you could walk through.\n\nIt was one of the best groups I've ever worked with. We worked long days and often long nights, and then we worked just as hard at the bars and clubs, with the stamina of people who hadn't yet learned what stamina costs. My jokes made the rounds by email. My boss, who believed I wasn't expressing myself fully in meetings, kept encouraging me to be more confident when I presented. One evening, before a hockey game, a group of us had gathered at a bar near the arena, and I'd had a few drinks after a long day, when she arrived and decided to hold a quick after-hours meeting. I was asked to present something. I laid it all out, from memory, fluently, confidently and without a trace of nerves. She was impressed. The next morning she came to my desk and told me I'd been perfect, and that she wanted me to be just like that in meetings at work. I did not comply.\n\nAnd once a year, in a noble attempt at humanity, we played softball, in the Bay Street league, against the traders and brokers. We were terrible. Heroically terrible. Catastrophically competent at being incompetent. Our company placed last with such majestic consistency that it became a brand identity. Maybe we let our clients win out of courtesy. Maybe we were just better at syntax than swing mechanics. Or maybe, in some cosmic fairness algorithm, the universe refused to let us be good at both floating-point precision and outfield positioning.\n\nSomeone decided to take \"work hard, play hard\" literally and dragged me to practice. My only previous baseball experience had ended with me running to first base still holding the bat, a move widely discouraged by both sportsmanship and criminal law. Two games remained. The first we lost with dignity, scoring a run or two and celebrating them as if we'd invaded Normandy. The second we won, narrowly, improbably, and suddenly I was batting a perfect thousand.\n\nThe next morning our team captain sent a company-wide email: \"Miracles do happen. We won... and Sam is batting 1.000.\"\n\nHad it not been true, it would still be funny. Being true, it was also shocking. I laughed too, though mostly because it was either that or explain that a perfect batting average in a couple of meaningless games felt suspiciously like an allegory: I was crafting perfect code for markets that didn't care and achieving perfect hits in games that didn't matter. It all felt like rehearsal for some other system, one with arbitrary rules, invisible scorekeepers, and umpires who made the calls long before the ball left the pitcher's hand.\n\n",
+    "after": "<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\nToronto had a way of reminding me that capitalism doesn't sleep --- it simply changes outfits. By day I wrote code for trading systems: software that moved money so quickly it often outran ethics, pausing only long enough to adjust its tie. By night I lived across University Avenue, where traders loosened those same ties, ordered pitchers, and recited P&L numbers like slam poetry.\n\nOur little fintech outfit on Bay Street was the sort of place where people checked stock tickers more often than clocks --- partly to gauge the markets, mostly to admire how sharp they looked on the new PalmPilot. We wrote software for people whose job titles sounded like weather alerts: Bond Strategist, Risk Architect, Liquidity Analyst. Their entire worldview was denominated in basis points, which are just percentages wearing tuxedos.\n\nAnd once a year, in a noble attempt at humanity, we played softball, in the Bay Street league, against the traders and brokers. We were terrible. Heroically terrible. Catastrophically competent at being incompetent. Our company placed last with such majestic consistency that it became a brand identity. Maybe we let our clients win out of courtesy. Maybe we were just better at syntax than swing mechanics. Or maybe, in some cosmic fairness algorithm, the universe refused to let us be good at *both* floating-point precision and outfield positioning.\n\nSomeone decided to take \"work hard, play hard\" literally and dragged me to practice. My only previous baseball experience had ended with me running to first base still holding the bat --- a move widely discouraged by both sportsmanship and criminal law. Two games remained. The first we lost with dignity, scoring a run or two and celebrating them as if we'd invaded Normandy. The second we won --- narrowly, improbably --- and suddenly I was batting a perfect thousand.\n\nThe next morning our team captain sent a company-wide email: **\"Miracles do happen. We won...and Sam is batting 1.000.\"**\n\nHad it not been true, it would still be funny. Being true, it was also shocking. I laughed too, though mostly because it was either that or explain that a perfect batting average in a couple of meaningless games felt suspiciously like an allegory: I was crafting perfect code for markets that didn't care and achieving perfect hits in games that didn't matter. It all felt like rehearsal for some other system --- one with arbitrary rules, invisible scorekeepers, and umpires who made the calls long before the ball left the pitcher's hand.\n<!-- End recovery, 2026-11-18. -->\n\nIt was one of the best groups I've ever worked with. We worked long days and often long nights, and then we worked just as hard at the bars and clubs, with the stamina of people who hadn't yet learned what stamina costs. My jokes made the rounds by email. My boss, who believed I wasn't expressing myself fully in meetings, kept encouraging me to be more confident when I presented. One evening, before a hockey game, a group of us had gathered at a bar near the arena, and I'd had a few drinks after a long day, when she arrived and decided to hold a quick after-hours meeting. I was asked to present something. I laid it all out, from memory, fluently, confidently and without a trace of nerves. She was impressed. The next morning she came to my desk and told me I'd been perfect, and that she wanted me to be just like that in meetings at work. I did not comply.\n\nWe built applications for bonds and stock portfolios that ran not only on desktops but on handhelds, PalmPilots and Jornadas, which traders carried like holsters. The stack was Microsoft's from top to bottom: web pages built in Active Server Pages and VBScript, business logic in C++ components, and SQL Server keeping the numbers.\n\n<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->\nDowntown Toronto had the PATH, a network of underground passages between the towers. I loved being able to walk through it in winter. A framework you could walk through, if you like; the softball league supplied a less forgiving one.\n<!-- End AI draft 2026-11-18. -->\n\n"
+  },
+  {
+    "unit": "i",
+    "kind": "C",
+    "reason": "Restore exchange project, full bat/Hedger/Cheshire passage and moose; keep newer device recollection rather than reintroducing inconsistent BlackBerry version.",
+    "before": "Code as law, distribution without a center, a constitution for volunteers and a platform about to rise: four kinds of framework, all arriving with me.",
+    "after": "Code as law, distribution without a center, a constitution for volunteers and a platform about to rise: four kinds of framework, all arriving with me.\n\n<!-- Recovery from pre-Fable canon, 2026-11-18; author requested restoration. -->\nMeanwhile, I sat in my cubicle on Bay Street building a fixed-income securities exchange for a Wall Street client --- centralizing markets on the web and handhelds, while kids with dial-up modems were decentralizing music distribution. They didn't file compliance paperwork, they didn't request permission, and they didn't wait for a visa stamp. They just *connected*.\n\nNo wonder my softball victory felt hollow --- hollow in that funny, hollow-tree, \"let's follow the rabbit\" sort of way. The real game wasn't about hitting balls farther. It was about changing who owned the bat. And in the world of markets, that bat was always held by a Mad Hatter. Or worse: a Mad *Hedger*. But does this mean we hand over the bat to the Cheshire Cat instead? Well, at least when she ran away with our retirement savings, she'd leave a smile behind!\n\nAnd sitting there with a stack of business requirements thick enough to stun a moose, I found myself staring at my own code and quietly asking a question that would ring far beyond Bay Street: **If borders can fall on the Internet, what happens to the borders that built the rest of our world?**\n<!-- End recovery, 2026-11-18. -->"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Napster still had a central index.",
+    "before": "Code as law, distribution without a center,",
+    "after": "Code as law, files shared between peers,"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Architectural responsibility separation is not authority isolation.",
+    "before": "It's a separation of powers for software, Montesquieu's idea applied to code, and for the same reason: when one part can do everything, every change becomes dangerous.",
+    "after": "It's a separation of concerns that resembles Montesquieu's separation of powers: when one part can do everything, every change becomes dangerous. The resemblance has a limit. A design boundary does not enforce permissions by itself."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "React is a library; keep ecosystem explanation.",
+    "before": "and React, which Facebook released in 2013 to change how interfaces are built.",
+    "after": "and the interface library React, which Facebook released in 2013 and which other frameworks build around."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "A platform is not simply a large framework.",
+    "before": "When a framework grows large enough, it becomes a platform: a territory with its own rules, its own gatekeepers and its own citizens.",
+    "after": "A platform supplies an environment in which other people can build and operate their software, often using frameworks of its own. It becomes a territory with its own rules, its own gatekeepers and its own citizens."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Avoid single-cause history and excluding users from platforms.",
+    "before": "The better device lost to the better framework. A platform's real constituency, it turned out, isn't its users. It's the developers who decide where to build.",
+    "after": "A superb email device lost in a contest that had expanded to whole ecosystems. Developers who decide where to build are a platform's constituency too; their choices and users' choices feed each other."
+  },
+  {
+    "unit": "i",
+    "kind": "D",
+    "reason": "Approved mechanism addition: membership versus scoped delegated authority; hypothetical, not a claim about the author's old software.",
+    "before": "## Governing the Commons of Code",
+    "after": "<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->\nThere is a practical border inside the platform too. *Authentication* establishes which identity is making a request; *authorization* decides what that identity may do. A trading service may be allowed to submit an order without being allowed to alter a client's permissions or release every payment. Delegating a task need not mean handing over the whole account. The authority can be scoped to that task, made to expire and revoked independently. Knowing who somebody is has never settled what they should be allowed to do. It does not settle the question for an agent either.[^v1-i8-authority]\n<!-- End AI draft 2026-11-18. -->\n\n## Governing the Commons of Code"
+  },
+  {
+    "unit": "i",
+    "kind": "A",
+    "reason": "GPL distribution conditions, not blanket sharing.",
+    "before": "but anything built from it must be shared under the same terms.",
+    "after": "but distributing a covered derivative requires passing on the corresponding source and the same freedoms to its recipients. Private changes need not be published."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Permissive licenses contain more than attribution.",
+    "before": "as long as you credit the original.",
+    "after": "subject to their notice and other license conditions."
+  },
+  {
+    "unit": "i",
+    "kind": "A",
+    "reason": "Original BitTorrent tracker caveat.",
+    "before": "with no single point to close.",
+    "after": "while early versions still used a tracker to help peers find each other; later designs distributed that discovery too."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Decentralization is not immunity of all participants or services.",
+    "before": "if no one is in charge, no one can be ordered to stop.",
+    "after": "removing a central service makes stopping the whole network harder."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "No unconditional incentive guarantee.",
+    "before": "which makes cheating more expensive than honesty.",
+    "after": "which makes replacing the accepted history costly."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Qualify probabilistic consensus and threat model.",
+    "before": "the Byzantine generals of Interlude 5, solved with electricity and arithmetic.",
+    "after": "a new approach to the Byzantine generals of Interlude 5, with electricity, arithmetic and an assumption that honest participants control most of the computing power."
+  },
+  {
+    "unit": "i",
+    "kind": "A",
+    "reason": "DAO fork changed state, not prior recorded blocks.",
+    "before": "most of it agreed to rewrite the blockchain's history to return the funds,",
+    "after": "the fork supported by most miners made an exceptional change to the current ledger state, moving the affected funds into a recovery contract,"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Derivative is local.",
+    "before": "the loss falls at a rate of 8 for every unit that $w$ rises, and of 4 for $b$,",
+    "after": "the loss initially falls at a rate of 8 per unit increase in $w$, and of 4 for $b$,"
+  },
+  {
+    "unit": "i",
+    "kind": "A",
+    "reason": "Match the explanation to the actual supplied PyTorch loop.",
+    "before": "This is the Hollywood principle with a billion actors. You write what one forward pass means. The framework decides when it runs, records it, computes every gradient and applies every update.",
+    "after": "Here the application still calls the shots: its loop runs the model, requests the backward pass and tells the optimizer to update. The framework records the relevant operations and supplies the derivatives; the optimizer supplies the update rule. Higher-level training frameworks can take over the loop as well. Inversion of control has levels."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Not every hub release is unrestricted.",
+    "before": "which anyone can download, adapt and republish.",
+    "after": "with access and reuse governed by each release's license and any gating."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Unknown training duration; preserve economical contrast.",
+    "before": "Someone spent weeks training that model. Here it costs a line.",
+    "after": "Someone trained that model. Here, using it costs a line."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Performance depends on the loading path.",
+    "before": "It also loads faster, because the numbers can be mapped straight from disk into memory.",
+    "after": "It can also load efficiently, because the numbers can be mapped straight from disk into memory."
+  },
+  {
+    "unit": "i",
+    "kind": "A",
+    "reason": "GGUF is not an executable runtime.",
+    "before": "into a single file with everything needed to run them.",
+    "after": "into a file with model metadata; compatible software still has to execute it."
+  },
+  {
+    "unit": "i",
+    "kind": "A",
+    "reason": "Avoid contradicting the model-bundle explanation.",
+    "before": "are the model, much as a compiled program is the software;",
+    "after": "are its learned parameters; its architecture and other components still matter. Much as a compiled program differs from its source,"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Pin statistics to their reporting date rather than an unverified year-end cutoff.",
+    "before": "by the end of 2025 one family of open models, Alibaba's Qwen, had",
+    "after": "a spring 2026 report counted, for one family of open models, Alibaba's Qwen,"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Base weights and activations still need memory.",
+    "before": "and training one fits on hardware a graduate student can afford.",
+    "after": "and, for a suitably sized base model, training one fits on hardware a graduate student can afford."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "OSI data-information and substantial-equivalence requirements, not exact replication or all raw data.",
+    "before": "enough information about the training data and code for others to study and rebuild the model.",
+    "after": "complete training and inference code, parameters, and sufficiently detailed data information to let others build a substantially equivalent system."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Avoid an unverified numerical majority claim.",
+    "before": "Most \"open\" models don't meet it.",
+    "after": "An open-weights label alone does not establish that a release meets it."
+  },
+  {
+    "unit": "i",
+    "kind": "A",
+    "reason": "Do not erase earlier rule-based reasoning and policy systems.",
+    "before": "They said nothing about what it *should* do, because software had no way to weigh \"should.\"",
+    "after": "Their policies could encode what software *should* do, as rule-based systems had long done, but the machine could not generally interpret an ordinary-language argument about those rules."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Licenses vary and prose constitutions do not simply reside in weights.",
+    "before": "For an open one, anyone can fork the weights, constitution and all,",
+    "after": "Where the weights and license permit it, someone can fork and retrain the model,"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "PyTorch supports other backends.",
+    "before": "PyTorch on CUDA,",
+    "after": "PyTorch on CUDA when it uses NVIDIA GPUs,"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Avoid invented universal institutional intent.",
+    "before": "None of them were designed to be consistent, because humans could absorb the inconsistency",
+    "after": "They need not be consistent with one another; humans have absorbed the inconsistency"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Not every ambiguity causes compilation failure.",
+    "before": "the way a compiler refuses an ambiguous program,",
+    "after": "the way a compiler can expose incompatible declarations,"
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Avoid a false exhaustive outcome while keeping the wager.",
+    "before": "Minds built on crooked frameworks will either help us straighten them or set them in concrete.",
+    "after": "Minds built on crooked frameworks may help us straighten them, or make their crookedness much easier to administer."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Cleaner need not imply farther from all data.",
+    "before": "The cleaner the constitution, the wider the gap it must close,",
+    "after": "The further the constitution stands from those habits, the wider the gap it must close,"
+  },
+  {
+    "unit": "i",
+    "kind": "D",
+    "reason": "Author-requested extension beyond data bias into coordination burden and self-organization; Looking-Glass promotion added.",
+    "before": "That changes the question of the separation of powers, too. The courts, auditors and regulators that would check a mind from outside are themselves human frameworks, built on the same crooked ground. A clean conscience checked by a crooked court, or a crooked conscience checked by a clean one, is not what Montesquieu had in mind.",
+    "after": "<!-- AI draft, 2026-11-18. Review proposal; not yet adopted. -->\nThere is another inheritance that has nothing to do with biased sentences. An agent can read every form correctly and still have to reconcile three institutions that define the same person, asset or obligation differently. More intelligence helps it negotiate the mismatch; it does not abolish the mismatch. If each new participant brings another set of private exceptions, some of the apparent difficulty of intelligence is the difficulty of our arrangements.\n\nChapter 8's Alice asks whether those arrangements could form around their work and revise their boundaries as the work changes. Bob's corresponding wager is that a framework capable of such coordination might reduce what its agents have to solve afresh. Shared, inspectable commitments could let participants compose their work without renegotiating the whole institution at every crossing. That must include incompatible commitments being made visible, not averaged into a convenient answer. It is the promises-outside-the-procedure problem of Interlude 6, now between procedures that belong to different people.\n\nI am tempted to call this a change in the Big-O of civilization. For now that is a metaphor: no input size, algorithm or complexity bound has been established. A more practical test would hold the task and the agents fixed, then change the institutions they must work through. Count the exceptions, negotiations and repairs required as participants and obligations increase. If an apparent gain merely transfers the work to an unseen clerk, or deprives somebody of an appeal, the system has not become smarter in the sense I mean.\n\nAlice reaches the eighth square in *Through the Looking-Glass* and becomes a queen. She has gained a powerful position inside the game; the promotion does not make her the author of its rules.[^v1-i8-carroll] An agent can become extraordinarily good at playing our institutions and still leave us playing the same game.\n<!-- End AI draft 2026-11-18. -->\n\nThat changes the question of the separation of powers, too. The courts, auditors and regulators that would check a mind from outside are themselves human frameworks, built on the same crooked ground. A clean conscience checked by a crooked court, or a crooked conscience checked by a clean one, is not what Montesquieu had in mind."
+  },
+  {
+    "unit": "i",
+    "kind": "D",
+    "reason": "Foreground the new conjecture; keep bias and concealment as supporting mechanisms.",
+    "before": "*The twist, in one line: we are writing clean frameworks for minds while living inside crooked frameworks of our own, and a mind that learns from how we actually behave, and must work inside the institutions we actually run, may inherit the crookedness faster than the constitution.*",
+    "after": "*The twist, in one line: some of the intelligence we demand from machines may be the work of compensating for institutions that cannot coordinate themselves.*"
+  },
+  {
+    "unit": "c",
+    "kind": "B",
+    "reason": "Source aligned for this review; full inherited-source audit remains pending.",
+    "before": "[^v1-c8-renan]: Ernest Renan, \"Qu'est-ce qu'une nation?\" (lecture at the Sorbonne, 11 March 1882): \"L'existence d'une nation est... un plébiscite de tous les jours.\" Verify the English rendering before print.",
+    "after": "[^v1-c8-renan]: Ernest Renan, [\"Qu'est-ce qu'une nation?\"](https://mjp.univ-perp.fr/textes/renan1882.htm), lecture at the Sorbonne, 11 March 1882: \"L'existence d'une nation est ... un plébiscite de tous les jours.\" The epigraph is a close English rendering of this clause."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Source aligned for this review; full inherited-source audit remains pending.",
+    "before": "[^v1-i8-gpl]: Richard Stallman launched the GNU project in 1983 and published the GNU General Public License in 1989.",
+    "after": "[^v1-i8-gpl]: GNU General Public License version 1 (1989); [GNU GPL FAQ, private modifications and distribution](https://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic). Distribution of a covered modified work carries source and licensing obligations; private modifications do not require publication. Mere aggregation and separate works require their own analysis. MIT and Apache licenses impose their respective notice and other conditions."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Source aligned for this review; full inherited-source audit remains pending.",
+    "before": "[^v1-i8-bittorrent]: Bram Cohen released BitTorrent in 2001.",
+    "after": "[^v1-i8-bittorrent]: Bram Cohen released BitTorrent in 2001. The original [BEP 3 specification](https://www.bittorrent.org/beps/bep_0003.html) uses a tracker to introduce peers; [BEP 5](https://www.bittorrent.org/beps/bep_0005.html) specifies distributed tracker discovery. Distributing file transfer did not initially remove every coordinating service."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Source aligned for this review; full inherited-source audit remains pending.",
+    "before": "[^v1-i8-dao]: The DAO raised roughly 12 million ether (about $150 million) in May 2016; in June 2016 an attacker drained about 3.6 million ether. The Ethereum hard fork took effect in July 2016; the unforked chain continues as Ethereum Classic.",
+    "after": "[^v1-i8-dao]: The DAO raised roughly 12 million ether in 2016; an attacker moved roughly 3.6 million ether to a child DAO. Vitalik Buterin, [\"Hard Fork Completed\"](https://blog.ethereum.org/2016/07/20/hard-fork-completed), 20 July 2016, describes the exceptional state change at block 1,920,000, transferring affected funds to a withdrawal contract. Earlier blocks were not rewritten. The unforked chain continued as Ethereum Classic."
+  },
+  {
+    "unit": "i",
+    "kind": "B",
+    "reason": "Source aligned for this review; full inherited-source audit remains pending.",
+    "before": "[^v1-i8-osaid]: Open Source Initiative, *The Open Source AI Definition*, version 1.0 (October 2024).",
+    "after": "[^v1-i8-osaid]: Open Source Initiative, [*The Open Source AI Definition*, version 1.0](https://opensource.org/ai/open-source-ai-definition), October 2024: parameters, complete code for training and running the system, and sufficiently detailed data information to enable a skilled person to build a substantially equivalent system. This does not require all original raw data or promise bit-for-bit retraining. Its freedoms include use for any purpose."
+  }
+]
